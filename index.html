@@ -145,6 +145,9 @@ p{color:var(--color-text-light)}
 }
 @media (min-width:769px){.nav-links{display:flex !important}}
 
+/* Particle canvas */
+#particleCanvas{position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:9999}
+
 /* Scroll reveal */
 .reveal{opacity:0;transform:translateY(30px);transition:opacity 0.6s ease,transform 0.6s ease}
 .reveal.visible{opacity:1;transform:translateY(0)}
@@ -152,6 +155,8 @@ p{color:var(--color-text-light)}
 </head>
 
 <body>
+
+<canvas id="particleCanvas"></canvas>
 
 <nav class="navbar">
   <div class="nav-container">
@@ -262,6 +267,51 @@ function revealOnScroll(){
 }
 window.addEventListener('scroll',revealOnScroll);
 window.addEventListener('load',revealOnScroll);
+
+/* Particle system */
+(function(){
+  const prefersReduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if(prefersReduced) return;
+  const canvas=document.getElementById('particleCanvas');
+  const ctx=canvas.getContext('2d');
+  const particles=[];
+  const MAX=80;
+  const COLORS=['#2563EB','#EC4899','#93C5FD','#FBCFE8','#7C3AED'];
+  let mx=-999,my=-999;
+  function resize(){canvas.width=window.innerWidth;canvas.height=window.innerHeight}
+  resize();window.addEventListener('resize',resize);
+  document.addEventListener('mousemove',e=>{mx=e.clientX;my=e.clientY;spawn();spawn()});
+  document.addEventListener('touchmove',e=>{const t=e.touches[0];mx=t.clientX;my=t.clientY;spawn();spawn()},{passive:true});
+  function spawn(){
+    if(particles.length>=MAX) return;
+    particles.push({
+      x:mx,y:my,
+      vx:(Math.random()-0.5)*2,
+      vy:(Math.random()-0.5)*2 -0.5,
+      r:Math.random()*3+1.5,
+      color:COLORS[Math.floor(Math.random()*COLORS.length)],
+      life:1,
+      decay:Math.random()*0.015+0.01
+    });
+  }
+  function loop(){
+    ctx.clearRect(0,0,canvas.width,canvas.height);
+    for(let i=particles.length-1;i>=0;i--){
+      const p=particles[i];
+      p.x+=p.vx;p.y+=p.vy;p.life-=p.decay;
+      if(p.life<=0){particles.splice(i,1);continue}
+      const radius=Math.max(0.1,p.r*p.life);
+      ctx.beginPath();
+      ctx.arc(p.x,p.y,radius,0,Math.PI*2);
+      ctx.fillStyle=p.color;
+      ctx.globalAlpha=Math.min(p.life,1)*0.8;
+      ctx.fill();
+    }
+    ctx.globalAlpha=1;
+    requestAnimationFrame(loop);
+  }
+  loop();
+})();
 
 function renderProfile(p){
   document.getElementById('heroText').innerHTML=`
