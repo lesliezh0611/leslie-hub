@@ -1,0 +1,120 @@
+{
+  "profile": {
+    "name": "Leslie Zhang",
+    "chineseName": "张龄月",
+    "initials": "LZ",
+    "age": 18,
+    "status": "大一在读",
+    "major": "信息管理与信息系统",
+    "university": "Zhejiang University, Undergraduate"
+  },
+  "curriculum": {
+    "gpa": 88,
+    "courses": [
+      {
+        "name": "高等代数",
+        "nameEn": "Advanced Algebra",
+        "short": "AA",
+        "score": 90
+      },
+      {
+        "name": "数学分析",
+        "nameEn": "Analytic Geometry",
+        "short": "AG",
+        "score": 87
+      }
+    ]
+  },
+  "extracurriculum": {
+    "vibeCoding": {
+      "title": "Vibe Coding Rookie",
+      "icon": "💻",
+      "fixed": [
+        {
+          "heading": "Daily Workflow",
+          "content": "每天用 Hermes Agent 管理个人项目和日程，用 Codex CLI 快速原型验证想法。从 prompt engineering 到 vibe coding，边学边做。"
+        }
+      ],
+      "dailyUpdates": {
+        "webpages": [
+          {
+            "title": "Leslie's Personal Hub",
+            "url": "#"
+          }
+        ],
+        "follows": [
+          {
+            "name": "@sama",
+            "url": "https://x.com/sama"
+          },
+          {
+            "name": "@kaborimoth",
+            "url": "https://x.com/kaborimoth"
+          },
+          {
+            "name": "@eldoody_",
+            "url": "https://x.com/eldoody_"
+          }
+        ]
+      }
+    },
+    "englishLeisure": {
+      "title": "English & Leisure",
+      "icon": "📚",
+      "fixed": [],
+      "dailyUpdates": {
+        "podcasts": [
+          {
+            "title": "Lenny's Podcast",
+            "url": "https://www.lennyspodcast.com/"
+          },
+          {
+            "title": "Lex Fridman Podcast",
+            "url": "https://lexfridman.com/podcast/"
+          }
+        ],
+        "reading": [
+          {
+            "title": "The Bell Jar — Sylvia Plath",
+            "url": "https://bookshop.org/p/books/the-bell-jar-sylvia-plath/7989908"
+          }
+        ],
+        "films": [
+          {
+            "title": "The Danish Girl (2015)",
+            "url": "https://www.imdb.com/title/tt0468029/"
+          }
+        ]
+      }
+    },
+    "pmLogic": {
+      "title": "Product Manager's Logic",
+      "icon": "🧠",
+      "fixed": [],
+      "dailyUpdates": {
+        "podcasts": [
+          {
+            "title": "产品沉思录",
+            "url": "https://pmthinking.com/"
+          }
+        ],
+        "books": [
+          {
+            "title": "《启示录：打造用户喜爱的产品》",
+            "url": "https://book.douban.com/subject/25900487/"
+          },
+          {
+            "title": "《人人都是产品经理》",
+            "url": "https://book.douban.com/subject/4723970/"
+          }
+        ],
+        "resources": [
+          {
+            "title": "即能 — 产品经理学习社区",
+            "url": "https://jineng.io/"
+          }
+        ]
+      }
+    }
+  }
+}
