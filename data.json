@@ -88,51 +88,6 @@
       ],
       "articles": [
         {
-          "id": "vc_karpathy_001",
-          "source": "karpathy",
-          "sourceName": "Andrej Karpathy",
-          "platform": "x",
-          "title": "Bought a Mac mini to tinker with OpenClaw and local agent systems.",
-          "url": "https://x.com/karpathy/status/2024987174077432126",
-          "postedAt": "2026-02-20T21:45:00Z"
-        },
-        {
-          "id": "vc_dotey_001",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "关于 AI Agent 的三个问题：为什么“垂直 Agent”是个伪命题。",
-          "url": "https://x.com/dotey/status/2012787811594674543",
-          "postedAt": "2026-01-24T08:00:00Z"
-        },
-        {
-          "id": "vc_sama_001",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "OpenAI shared a major Model Spec update focused on customizability and intellectual freedom.",
-          "url": "https://x.com/sama/status/1889789507492520342",
-          "postedAt": "2025-02-12T16:31:00Z"
-        },
-        {
-          "id": "vc_steipete_001",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Using Claude Code as an everything terminal.",
-          "url": "https://x.com/steipete/status/1929861655971627294",
-          "postedAt": "2025-06-03T06:24:00Z"
-        },
-        {
-          "id": "vc_gdb_001",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "ChatGPT access for the U.S. federal workforce through the GSA partnership.",
-          "url": "https://x.com/gdb/status/1953120865115074805",
-          "postedAt": "2025-08-06T09:47:00Z"
-        },
-        {
           "id": "vc_turingou_001",
           "source": "turingou",
           "sourceName": "土井",
@@ -143,7 +98,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-27T08:00:00Z"
+      "lastUpdated": "2026-04-27T14:44:58.546Z"
     },
     "english": {
       "title": "English",
@@ -174,14 +129,6 @@
         }
       ],
       "podcasts": [
-        {
-          "id": "en_pod_lenny_s_podcast_b11527e11a",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ This week on How I AI: GPT 5.5, Claude Design, and GPT Images 2.0 hands-on reviews—plus an inside look at Memelord",
-          "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude",
-          "postedAt": "2026-04-27T15:02:19.000Z"
-        },
         {
           "id": "en_pod_lenny_s_podcast_9a094dd7bd",
           "source": "Lenny's Podcast",
@@ -215,44 +162,12 @@
           "postedAt": "2026-04-23T19:39:26.000Z"
         },
         {
-          "id": "en_pod_lex_fridman_podcast_3f79be977b",
-          "source": "Lex Fridman Podcast",
-          "platform": "podcast",
-          "topic": "#495 – Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
-          "url": "https://lexfridman.com/lars-brownworth/?utm_source=rss&utm_medium=rss&utm_campaign=lars-brownworth",
-          "postedAt": "2026-04-09T17:43:17.000Z"
-        },
-        {
-          "id": "en_pod_lex_fridman_podcast_3a98d50ef3",
-          "source": "Lex Fridman Podcast",
-          "platform": "podcast",
-          "topic": "#494 – Jensen Huang: NVIDIA – The $4 Trillion Company & the AI Revolution",
-          "url": "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang",
-          "postedAt": "2026-03-23T16:28:42.000Z"
-        },
-        {
-          "id": "en_pod_lex_fridman_podcast_93791dc418",
-          "source": "Lex Fridman Podcast",
-          "platform": "podcast",
-          "topic": "#493 – Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming",
-          "url": "https://lexfridman.com/jeff-kaplan/?utm_source=rss&utm_medium=rss&utm_campaign=jeff-kaplan",
-          "postedAt": "2026-03-11T20:37:33.000Z"
-        },
-        {
-          "id": "en_pod_lex_fridman_podcast_2b5e94eb9c",
-          "source": "Lex Fridman Podcast",
-          "platform": "podcast",
-          "topic": "#492 – Rick Beato: Greatest Guitarists of All Time, History & Future of Music",
-          "url": "https://lexfridman.com/rick-beato/?utm_source=rss&utm_medium=rss&utm_campaign=rick-beato",
-          "postedAt": "2026-03-01T04:33:22.000Z"
-        },
-        {
-          "id": "en_pod_lex_fridman_podcast_1004f69cc1",
-          "source": "Lex Fridman Podcast",
-          "platform": "podcast",
-          "topic": "#491 – OpenClaw: The Viral AI Agent that Broke the Internet – Peter Steinberger",
-          "url": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger",
-          "postedAt": "2026-02-12T03:10:39.000Z"
+          "id": "en_pod_lenny_s_podcast_0a061b050a",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
+          "url": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves",
+          "postedAt": "2026-04-23T15:01:50.000Z"
         }
       ],
       "books": [
@@ -303,7 +218,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-28T04:05:02.045Z"
+      "lastUpdated": "2026-04-27T14:45:02.676Z"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -377,46 +292,6 @@
       },
       "articles": [
         {
-          "id": "om_9e127345d9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Chipotle appoints Fernando Machado as chief brand officer",
-          "url": "https://www.marketingdive.com/news/chipotle-appoints-fernando-machado-as-chief-brand-officer/818618/",
-          "postedAt": "2026-04-27T21:02:00.000Z"
-        },
-        {
-          "id": "om_99da4a2597",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Buchanan’s celebrates Latino community, culture ahead of World Cup",
-          "url": "https://www.marketingdive.com/news/buchanans-celebrates-latino-community-culture-ahead-of-world-cup/818587/",
-          "postedAt": "2026-04-27T19:05:00.000Z"
-        },
-        {
-          "id": "om_236176c024",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "VaynerX’s new agency wants to help brands master the attention economy",
-          "url": "https://www.marketingdive.com/news/vaynerxs-new-agency-wants-to-help-brands-master-the-attention-economy/818363/",
-          "postedAt": "2026-04-27T16:30:00.000Z"
-        },
-        {
-          "id": "om_5dc2e39eff",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "5 Questions For… the CNN Team in the Control Room During the WHCD Shooting",
-          "url": "https://www.adweek.com/tvnewser/5-questions-for-cnn-team-in-the-control-room-during-whcd-shooting/",
-          "postedAt": "2026-04-27T15:42:23.000Z"
-        },
-        {
-          "id": "om_675ba13b41",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Albertsons injects fresh retail media data into YouTube advertising",
-          "url": "https://www.marketingdive.com/news/albertsons-injects-fresh-retail-media-data-into-youtube-advertising/818548/",
-          "postedAt": "2026-04-27T15:19:00.000Z"
-        },
-        {
           "id": "om_3b7b0ea60e",
           "source": "Marketing Dive",
           "lang": "en",
@@ -425,40 +300,64 @@
           "postedAt": "2026-04-27T14:17:00.000Z"
         },
         {
-          "id": "om_477cdb65bb",
+          "id": "om_34eea684fd",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Celsius unites sports, music and culture ahead of soccer-centric summer",
+          "url": "https://www.marketingdive.com/news/celsius-unites-sports-music-and-culture-ahead-of-soccer-centric-summer/818374/",
+          "postedAt": "2026-04-27T12:00:00.000Z"
+        },
+        {
+          "id": "om_9aefde06d6",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Spotify is partnering with Peloton for guided workouts",
+          "url": "https://www.theverge.com/tech/918861/spotify-peloton-guided-workouts",
+          "postedAt": "2026-04-27T11:18:12.000Z"
+        },
+        {
+          "id": "om_c0cba17f02",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "The pros and cons of adding AI to first-party experiences",
+          "url": "https://www.marketingdive.com/news/pros-cons-adding-ai-first-party-experiences/818530/",
+          "postedAt": "2026-04-27T11:00:00.000Z"
+        },
+        {
+          "id": "om_2faad32d55",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How ‘Devil Wears Prada 2’ designed a ‘fashion collection’ of brand partners",
+          "url": "https://www.marketingdive.com/news/how-devil-wears-prada-2-designed-a-fashion-collection-of-brand-partners/818370/",
+          "postedAt": "2026-04-27T11:00:00.000Z"
+        },
+        {
+          "id": "om_70385f5410",
           "source": "Adweek",
           "lang": "en",
-          "title": "Netflix’s Running Point Scores Several Integrated Brand Partnerships in Season 2",
-          "url": "https://www.adweek.com/brand-marketing/netflixs-running-point-scores-several-integrated-brand-partnerships-in-season-2/",
-          "postedAt": "2026-04-27T11:48:37.000Z"
+          "title": "VaynerX Launches Tamara Group, Betting Production-Led Is the New Agency Model",
+          "url": "https://www.adweek.com/agencies/vaynerx-launches-tamara-group-betting-production-led-is-the-new-agency-model/",
+          "postedAt": "2026-04-27T10:30:00.000Z"
         },
         {
-          "id": "om_e5cce076fe",
+          "id": "om_f4b0fb9b59",
           "source": "Adweek",
           "lang": "en",
-          "title": "3,000 Images, Zero Dialogue: How This Studio Made AI Films Without Sacrificing the Creative Soul",
-          "url": "https://www.adweek.com/creativity/3000-images-zero-dialogue-how-this-studio-made-ai-films-without-sacrificing-the-creative-soul/",
-          "postedAt": "2026-04-27T11:34:23.000Z"
+          "title": "Upfront Shocker! TelevisaUnivision Switches Ad Sales Chiefs: Tim Natividad Out, John Kozack In",
+          "url": "https://www.adweek.com/convergent-tv/upfront-shocker-televisaunivision-switches-ad-sales-chiefs-tim-natividad-out-john-kozack-in/",
+          "postedAt": "2026-04-27T10:12:33.000Z"
         },
         {
-          "id": "om_006",
-          "source": "36氪出海",
-          "lang": "cn",
-          "title": "TikTok Shop刮起东南风",
-          "url": "https://36kr.com/p/3419823883095684",
-          "postedAt": "2025-08-12T12:00:00Z"
-        },
-        {
-          "id": "om_001",
-          "source": "36氪出海",
-          "lang": "cn",
-          "title": "《品牌出海的数字引擎》：数字渠道如何重塑出海营销？",
-          "url": "https://www.36kr.com/p/3409624997367428",
-          "postedAt": "2025-08-05T15:30:00Z"
+          "id": "om_d45b6f8325",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Possible 2026 Opening Remarks: Marketing’s Age of Opinion Is Ending",
+          "url": "https://www.adweek.com/brand-marketing/possible-2026-opening-remarks-marketings-age-of-opinion-is-ending/",
+          "postedAt": "2026-04-27T09:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-28T04:05:02.704Z"
+      "lastUpdated": "2026-04-27T14:45:09.212Z"
     }
   }
 }

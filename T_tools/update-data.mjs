@@ -3,6 +3,8 @@ import { readFile, writeFile } from 'node:fs/promises';
 
 const DATA_PATH = new URL('../data.json', import.meta.url);
 const MAX_ITEMS = 10;
+const NEWS_MAX_AGE_DAYS = Number(process.env.NEWS_MAX_AGE_DAYS || 14);
+const VIBE_MAX_AGE_DAYS = Number(process.env.VIBE_MAX_AGE_DAYS || 30);
 const USER_AGENT = 'LeslieHubUpdater/1.0 (+https://lesliezh0611.github.io/leslie-hub/)';
 
 const marketingFeeds = [
@@ -137,6 +139,19 @@ function byNewest(a, b) {
   return new Date(b.postedAt || 0) - new Date(a.postedAt || 0);
 }
 
+function ageMs(item) {
+  const time = new Date(item.postedAt || 0).getTime();
+  return Number.isFinite(time) ? Date.now() - time : Infinity;
+}
+
+function isRecent(item, maxDays) {
+  return ageMs(item) <= maxDays * 24 * 60 * 60 * 1000;
+}
+
+function recentOnly(items, maxDays) {
+  return items.filter(item => isRecent(item, maxDays));
+}
+
 function uniqueByUrl(items) {
   const seen = new Set();
   return items.filter(item => {
@@ -153,8 +168,12 @@ function itemId(prefix, url) {
 async function updateVibeCoding(module) {
   const base = process.env.RSSHUB_BASE_URL?.replace(/\/$/, '');
   if (!base) {
-    console.log('vibeCoding: RSSHUB_BASE_URL not set; preserving existing X articles.');
-    return module;
+    console.log(`vibeCoding: RSSHUB_BASE_URL not set; keeping only X articles from the last ${VIBE_MAX_AGE_DAYS} days.`);
+    return {
+      ...module,
+      articles: recentOnly(module.articles || [], VIBE_MAX_AGE_DAYS).sort(byNewest).slice(0, MAX_ITEMS),
+      lastUpdated: nowISO()
+    };
   }
 
   const fetched = [];
@@ -183,9 +202,16 @@ async function updateVibeCoding(module) {
     })));
   }
 
-  if (!fetched.length) return module;
+  const recentFetched = recentOnly(fetched, VIBE_MAX_AGE_DAYS);
+  if (!recentFetched.length) {
+    return {
+      ...module,
+      articles: recentOnly(module.articles || [], VIBE_MAX_AGE_DAYS).sort(byNewest).slice(0, MAX_ITEMS),
+      lastUpdated: nowISO()
+    };
+  }
   const existingByUrl = new Map((module.articles || []).map(item => [item.url, item]));
-  const articles = uniqueByUrl(fetched)
+  const articles = uniqueByUrl(recentFetched)
     .map(item => existingByUrl.has(item.url) ? { ...item, id: existingByUrl.get(item.url).id } : item)
     .sort(byNewest)
     .slice(0, MAX_ITEMS);
@@ -196,7 +222,7 @@ async function updateEnglish(module) {
   const podcasts = [];
   for (const feed of englishFeeds) {
     try {
-      const items = await fetchFeed(feed.url);
+      const items = recentOnly(await fetchFeed(feed.url), NEWS_MAX_AGE_DAYS);
       podcasts.push(...items.slice(0, 5).map(item => ({
         id: itemId(`en_pod_${feed.source.replace(/[^a-z0-9]+/gi, '_').toLowerCase()}`, item.url),
         source: feed.source,
@@ -234,7 +260,9 @@ async function updateEnglish(module) {
 
   return {
     ...module,
-    podcasts: podcasts.length ? uniqueByUrl(podcasts).sort(byNewest).slice(0, MAX_ITEMS) : module.podcasts,
+    podcasts: podcasts.length
+      ? uniqueByUrl(podcasts).sort(byNewest).slice(0, MAX_ITEMS)
+      : recentOnly(module.podcasts || [], NEWS_MAX_AGE_DAYS).sort(byNewest).slice(0, MAX_ITEMS),
     books: books.length ? books : module.books,
     films: films.length ? films : module.films,
     lastUpdated: nowISO()
@@ -270,7 +298,7 @@ async function updateOverseaMarketing(module) {
   const fetched = [];
   for (const feed of marketingFeeds) {
     try {
-      const items = await fetchFeed(feed.url);
+      const items = recentOnly(await fetchFeed(feed.url), NEWS_MAX_AGE_DAYS);
       fetched.push(...items
         .filter(item => isMarketingRelevant(feed.source, item.title, item.text))
         .slice(0, 5)
@@ -288,14 +316,21 @@ async function updateOverseaMarketing(module) {
   }
 
   const existing = module.articles || [];
-  const existingCn = existing.filter(item => item.lang === 'cn').slice(0, 4);
+  const recentExisting = recentOnly(existing, NEWS_MAX_AGE_DAYS);
+  const existingCn = recentExisting.filter(item => item.lang === 'cn').slice(0, 4);
   const existingByUrl = new Map(existing.map(item => [item.url, item]));
   const en = uniqueByUrl(fetched)
     .map(item => existingByUrl.has(item.url) ? { ...item, id: existingByUrl.get(item.url).id } : item)
     .sort(byNewest)
     .slice(0, 8);
 
-  if (!en.length) return module;
+  if (!en.length) {
+    return {
+      ...module,
+      articles: recentExisting.sort(byNewest).slice(0, MAX_ITEMS),
+      lastUpdated: nowISO()
+    };
+  }
   return {
     ...module,
     articles: uniqueByUrl(en.concat(existingCn)).sort(byNewest).slice(0, MAX_ITEMS),
@@ -315,6 +350,19 @@ function validate(data) {
   for (const article of explore.vibeCoding?.articles || []) {
     if (!/https:\/\/x\.com\/[^/]+\/status\/\d+/.test(article.url)) {
       problems.push(`vibeCoding article is not an X status URL: ${article.id}`);
+    }
+    if (!isRecent(article, VIBE_MAX_AGE_DAYS)) {
+      problems.push(`vibeCoding article is older than ${VIBE_MAX_AGE_DAYS} days: ${article.id}`);
+    }
+  }
+  for (const podcast of explore.english?.podcasts || []) {
+    if (!isRecent(podcast, NEWS_MAX_AGE_DAYS)) {
+      problems.push(`English podcast/news item is older than ${NEWS_MAX_AGE_DAYS} days: ${podcast.id}`);
+    }
+  }
+  for (const article of explore.overseaMarketing?.articles || []) {
+    if (!isRecent(article, NEWS_MAX_AGE_DAYS)) {
+      problems.push(`Marketing news item is older than ${NEWS_MAX_AGE_DAYS} days: ${article.id}`);
     }
   }
   const readUrls = [
