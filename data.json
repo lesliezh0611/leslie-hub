@@ -175,28 +175,84 @@
       ],
       "podcasts": [
         {
-          "id": "en_pod_lenny_001",
+          "id": "en_pod_lenny_s_podcast_9a094dd7bd",
           "source": "Lenny's Podcast",
           "platform": "newsletter",
-          "topic": "What is a good activation rate",
-          "url": "https://www.lennysnewsletter.com/p/what-is-a-good-activation-rate",
-          "postedAt": "2022-10-25T08:00:00Z"
+          "topic": "From a $6.90 newsletter to $3M API: How a non-coder built Memelord | Jason Levin",
+          "url": "https://www.lennysnewsletter.com/p/from-a-690-newsletter-to-3m-api-how",
+          "postedAt": "2026-04-27T12:03:55.000Z"
         },
         {
-          "id": "en_pod_lex_001",
+          "id": "en_pod_lenny_s_podcast_0e5844867d",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
+          "url": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is",
+          "postedAt": "2026-04-26T12:31:49.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_f25fcc7fbb",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: What great product leaders do differently, Claude vs. ChatGPT, receiving hard feedback two weeks into the job, tips for joining a pre-PMF startup, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-what-great-product",
+          "postedAt": "2026-04-25T19:51:00.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_f8dbcb45a1",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "GPT 5.5 just did what no other model could",
+          "url": "https://www.lennysnewsletter.com/p/gpt-55-just-did-what-no-other-model",
+          "postedAt": "2026-04-23T19:39:26.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_0a061b050a",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
+          "url": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves",
+          "postedAt": "2026-04-23T15:01:50.000Z"
+        },
+        {
+          "id": "en_pod_lex_fridman_podcast_3f79be977b",
           "source": "Lex Fridman Podcast",
           "platform": "podcast",
-          "topic": "State of AI in 2026: LLMs, coding, scaling laws, China, agents, GPUs, AGI",
-          "url": "https://lexfridman.com/ai-sota-2026-transcript",
-          "postedAt": "2026-01-31T22:33:00Z"
+          "topic": "#495 – Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
+          "url": "https://lexfridman.com/lars-brownworth/?utm_source=rss&utm_medium=rss&utm_campaign=lars-brownworth",
+          "postedAt": "2026-04-09T17:43:17.000Z"
         },
         {
-          "id": "en_pod_lenny_002",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How to determine your activation metric",
-          "url": "https://www.lennysnewsletter.com/p/how-to-determine-your-activation",
-          "postedAt": "2022-11-08T08:00:00Z"
+          "id": "en_pod_lex_fridman_podcast_3a98d50ef3",
+          "source": "Lex Fridman Podcast",
+          "platform": "podcast",
+          "topic": "#494 – Jensen Huang: NVIDIA – The $4 Trillion Company & the AI Revolution",
+          "url": "https://lexfridman.com/jensen-huang/?utm_source=rss&utm_medium=rss&utm_campaign=jensen-huang",
+          "postedAt": "2026-03-23T16:28:42.000Z"
+        },
+        {
+          "id": "en_pod_lex_fridman_podcast_93791dc418",
+          "source": "Lex Fridman Podcast",
+          "platform": "podcast",
+          "topic": "#493 – Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming",
+          "url": "https://lexfridman.com/jeff-kaplan/?utm_source=rss&utm_medium=rss&utm_campaign=jeff-kaplan",
+          "postedAt": "2026-03-11T20:37:33.000Z"
+        },
+        {
+          "id": "en_pod_lex_fridman_podcast_2b5e94eb9c",
+          "source": "Lex Fridman Podcast",
+          "platform": "podcast",
+          "topic": "#492 – Rick Beato: Greatest Guitarists of All Time, History & Future of Music",
+          "url": "https://lexfridman.com/rick-beato/?utm_source=rss&utm_medium=rss&utm_campaign=rick-beato",
+          "postedAt": "2026-03-01T04:33:22.000Z"
+        },
+        {
+          "id": "en_pod_lex_fridman_podcast_1004f69cc1",
+          "source": "Lex Fridman Podcast",
+          "platform": "podcast",
+          "topic": "#491 – OpenClaw: The Viral AI Agent that Broke the Internet – Peter Steinberger",
+          "url": "https://lexfridman.com/peter-steinberger/?utm_source=rss&utm_medium=rss&utm_campaign=peter-steinberger",
+          "postedAt": "2026-02-12T03:10:39.000Z"
         }
       ],
       "books": [
@@ -247,7 +303,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-27T08:00:00Z"
+      "lastUpdated": "2026-04-27T14:30:37.133Z"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -321,44 +377,68 @@
       },
       "articles": [
         {
-          "id": "om_001",
-          "source": "36氪出海",
-          "lang": "cn",
-          "title": "《品牌出海的数字引擎》：数字渠道如何重塑出海营销？",
-          "url": "https://www.36kr.com/p/3409624997367428",
-          "postedAt": "2025-08-05T15:30:00Z"
-        },
-        {
-          "id": "om_002",
+          "id": "om_3b7b0ea60e",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Creators work, but measurement doesn't — yet",
-          "url": "https://www.marketingdive.com/news/creators-work-but-measurement-doesnt-yet/813952/",
-          "postedAt": "2026-03-11T12:00:00Z"
+          "title": "IAS touts ‘linear-like’ transparency with CTV ad measurement solutions",
+          "url": "https://www.marketingdive.com/news/ias-touts-linear-like-transparency-with-ctv-ad-measurement-solutions/818502/",
+          "postedAt": "2026-04-27T14:17:00.000Z"
         },
         {
-          "id": "om_003",
-          "source": "Campaign Asia",
-          "lang": "en",
-          "title": "Move and win roundup: Week of January 26, 2026",
-          "url": "https://www.campaignasia.com/gallery/move-and-win-roundup-week-of-january-26-2026/507133",
-          "postedAt": "2026-01-26T12:00:00Z"
-        },
-        {
-          "id": "om_004",
-          "source": "36氪出海",
-          "lang": "cn",
-          "title": "TikTok电商狂卷东南亚，中国过季商品成爆款",
-          "url": "https://36kr.com/p/2875988922817417",
-          "postedAt": "2024-07-24T18:03:00Z"
-        },
-        {
-          "id": "om_005",
+          "id": "om_34eea684fd",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Marketing predictions for 2026 as AI fuels polarity",
-          "url": "https://www.marketingdive.com/news/marketing-predictions-for-2026/809124/",
-          "postedAt": "2026-01-13T12:00:00Z"
+          "title": "Celsius unites sports, music and culture ahead of soccer-centric summer",
+          "url": "https://www.marketingdive.com/news/celsius-unites-sports-music-and-culture-ahead-of-soccer-centric-summer/818374/",
+          "postedAt": "2026-04-27T12:00:00.000Z"
+        },
+        {
+          "id": "om_9aefde06d6",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Spotify is partnering with Peloton for guided workouts",
+          "url": "https://www.theverge.com/tech/918861/spotify-peloton-guided-workouts",
+          "postedAt": "2026-04-27T11:18:12.000Z"
+        },
+        {
+          "id": "om_c0cba17f02",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "The pros and cons of adding AI to first-party experiences",
+          "url": "https://www.marketingdive.com/news/pros-cons-adding-ai-first-party-experiences/818530/",
+          "postedAt": "2026-04-27T11:00:00.000Z"
+        },
+        {
+          "id": "om_2faad32d55",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How ‘Devil Wears Prada 2’ designed a ‘fashion collection’ of brand partners",
+          "url": "https://www.marketingdive.com/news/how-devil-wears-prada-2-designed-a-fashion-collection-of-brand-partners/818370/",
+          "postedAt": "2026-04-27T11:00:00.000Z"
+        },
+        {
+          "id": "om_f4b0fb9b59",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Upfront Shocker! TelevisaUnivision Switches Ad Sales Chiefs: Tim Natividad Out, John Kozack In",
+          "url": "https://www.adweek.com/convergent-tv/upfront-shocker-televisaunivision-switches-ad-sales-chiefs-tim-natividad-out-john-kozack-in/",
+          "postedAt": "2026-04-27T10:12:33.000Z"
+        },
+        {
+          "id": "om_d45b6f8325",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Possible 2026 Opening Remarks: Marketing’s Age of Opinion Is Ending",
+          "url": "https://www.adweek.com/brand-marketing/possible-2026-opening-remarks-marketings-age-of-opinion-is-ending/",
+          "postedAt": "2026-04-27T09:00:00.000Z"
+        },
+        {
+          "id": "om_79662b7c16",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Dentsu Bolsters Americas Leadership as It Seeks Turnaround in Key Region",
+          "url": "https://www.adweek.com/agencies/dentsu-bolsters-americas-leadership-as-it-seeks-turnaround-in-key-region/",
+          "postedAt": "2026-04-27T09:00:00.000Z"
         },
         {
           "id": "om_006",
@@ -367,10 +447,18 @@
           "title": "TikTok Shop刮起东南风",
           "url": "https://36kr.com/p/3419823883095684",
           "postedAt": "2025-08-12T12:00:00Z"
+        },
+        {
+          "id": "om_001",
+          "source": "36氪出海",
+          "lang": "cn",
+          "title": "《品牌出海的数字引擎》：数字渠道如何重塑出海营销？",
+          "url": "https://www.36kr.com/p/3409624997367428",
+          "postedAt": "2025-08-05T15:30:00Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-27T08:00:00Z"
+      "lastUpdated": "2026-04-27T14:30:40.740Z"
     }
   }
 }
