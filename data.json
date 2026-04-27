@@ -25,96 +25,352 @@
       }
     ]
   },
-  "extracurriculum": {
+  "explore": {
     "vibeCoding": {
-      "title": "Vibe Coding Rookie",
+      "title": "Vibe Coding",
       "icon": "💻",
-      "fixed": [
+      "subtitle": "AI, product craft, and builders worth tracking",
+      "sources": [
         {
-          "heading": "Daily Workflow",
-          "content": "每天用 Hermes Agent 管理个人项目和日程，用 Codex CLI 快速原型验证想法。从 prompt engineering 到 vibe coding，边学边做。"
+          "handle": "sama",
+          "name": "Sam Altman",
+          "platform": "x",
+          "url": "https://x.com/sama"
+        },
+        {
+          "handle": "DanielaAmodei",
+          "name": "Daniela Amodei",
+          "platform": "x",
+          "url": "https://x.com/DanielaAmodei"
+        },
+        {
+          "handle": "gdb",
+          "name": "Greg Brockman",
+          "platform": "x",
+          "url": "https://x.com/gdb"
+        },
+        {
+          "handle": "steipete",
+          "name": "Peter Steinberger",
+          "platform": "x",
+          "url": "https://x.com/steipete"
+        },
+        {
+          "handle": "turingou",
+          "name": "土井",
+          "platform": "x",
+          "url": "https://x.com/turingou"
+        },
+        {
+          "handle": "Khazix0918",
+          "name": "Khazix",
+          "platform": "x",
+          "url": "https://x.com/Khazix0918"
+        },
+        {
+          "handle": "zarazhangrui",
+          "name": "张睿",
+          "platform": "x",
+          "url": "https://x.com/zarazhangrui"
+        },
+        {
+          "handle": "dotey",
+          "name": "宝玉",
+          "platform": "x",
+          "url": "https://x.com/dotey"
+        },
+        {
+          "handle": "karpathy",
+          "name": "Andrej Karpathy",
+          "platform": "x",
+          "url": "https://x.com/karpathy"
         }
       ],
-      "dailyUpdates": {
-        "webpages": [
-          {
-            "title": "Leslie's Personal Hub",
-            "url": "#"
-          }
-        ],
-        "follows": [
-          {
-            "name": "@sama",
-            "url": "https://x.com/sama"
-          },
-          {
-            "name": "@kaborimoth",
-            "url": "https://x.com/kaborimoth"
-          },
-          {
-            "name": "@eldoody_",
-            "url": "https://x.com/eldoody_"
-          }
-        ]
-      }
+      "articles": [
+        {
+          "id": "vc_karpathy_001",
+          "source": "karpathy",
+          "sourceName": "Andrej Karpathy",
+          "platform": "x",
+          "title": "Bought a Mac mini to tinker with OpenClaw and local agent systems.",
+          "url": "https://x.com/karpathy/status/2024987174077432126",
+          "postedAt": "2026-02-20T21:45:00Z"
+        },
+        {
+          "id": "vc_dotey_001",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "关于 AI Agent 的三个问题：为什么“垂直 Agent”是个伪命题。",
+          "url": "https://x.com/dotey/status/2012787811594674543",
+          "postedAt": "2026-01-24T08:00:00Z"
+        },
+        {
+          "id": "vc_sama_001",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "OpenAI shared a major Model Spec update focused on customizability and intellectual freedom.",
+          "url": "https://x.com/sama/status/1889789507492520342",
+          "postedAt": "2025-02-12T16:31:00Z"
+        },
+        {
+          "id": "vc_steipete_001",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Using Claude Code as an everything terminal.",
+          "url": "https://x.com/steipete/status/1929861655971627294",
+          "postedAt": "2025-06-03T06:24:00Z"
+        },
+        {
+          "id": "vc_gdb_001",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "ChatGPT access for the U.S. federal workforce through the GSA partnership.",
+          "url": "https://x.com/gdb/status/1953120865115074805",
+          "postedAt": "2025-08-06T09:47:00Z"
+        },
+        {
+          "id": "vc_turingou_001",
+          "source": "turingou",
+          "sourceName": "土井",
+          "platform": "x",
+          "title": "发布第 13 个 vibe 产品 tuwa：连接 100 多种语言的 AI 电话网络。",
+          "url": "https://x.com/turingou/status/2041337161983967359",
+          "postedAt": "2026-04-06T22:08:00Z"
+        }
+      ],
+      "saved": [],
+      "lastUpdated": "2026-04-27T08:00:00Z"
     },
-    "englishLeisure": {
-      "title": "English & Leisure",
-      "icon": "📚",
-      "fixed": [],
-      "dailyUpdates": {
-        "podcasts": [
-          {
-            "title": "Lenny's Podcast",
-            "url": "https://www.lennyspodcast.com/"
-          },
-          {
-            "title": "Lex Fridman Podcast",
-            "url": "https://lexfridman.com/podcast/"
-          }
-        ],
-        "reading": [
-          {
-            "title": "The Bell Jar — Sylvia Plath",
-            "url": "https://bookshop.org/p/books/the-bell-jar-sylvia-plath/7989908"
-          }
-        ],
-        "films": [
-          {
-            "title": "The Danish Girl (2015)",
-            "url": "https://www.imdb.com/title/tt0468029/"
-          }
-        ]
-      }
+    "english": {
+      "title": "English",
+      "icon": "🌍",
+      "subtitle": "Podcasts, books, films, and reusable language input",
+      "sources": [
+        {
+          "name": "Lenny's Podcast",
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@LennysPodcast"
+        },
+        {
+          "name": "Lex Fridman Podcast",
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@lexfridman"
+        },
+        {
+          "name": "Reddit Books",
+          "platform": "reddit",
+          "subreddit": "books",
+          "url": "https://www.reddit.com/r/books/"
+        },
+        {
+          "name": "Reddit Movies",
+          "platform": "reddit",
+          "subreddit": "movies",
+          "url": "https://www.reddit.com/r/movies/"
+        }
+      ],
+      "podcasts": [
+        {
+          "id": "en_pod_lenny_001",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "What is a good activation rate",
+          "url": "https://www.lennysnewsletter.com/p/what-is-a-good-activation-rate",
+          "postedAt": "2022-10-25T08:00:00Z"
+        },
+        {
+          "id": "en_pod_lex_001",
+          "source": "Lex Fridman Podcast",
+          "platform": "podcast",
+          "topic": "State of AI in 2026: LLMs, coding, scaling laws, China, agents, GPUs, AGI",
+          "url": "https://lexfridman.com/ai-sota-2026-transcript",
+          "postedAt": "2026-01-31T22:33:00Z"
+        },
+        {
+          "id": "en_pod_lenny_002",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How to determine your activation metric",
+          "url": "https://www.lennysnewsletter.com/p/how-to-determine-your-activation",
+          "postedAt": "2022-11-08T08:00:00Z"
+        }
+      ],
+      "books": [
+        {
+          "id": "en_book_bell_jar",
+          "title": "The Bell Jar",
+          "author": "Sylvia Plath",
+          "reviews": [
+            {
+              "id": "en_book_bell_jar_review_001",
+              "reviewer": "r/books discussion",
+              "text": "Readers discuss how Plath's voice feels raw, unsettling, funny in places, and difficult to shake after finishing.",
+              "url": "https://www.reddit.com/r/books/comments/1n45pki/sylvia_plath_the_bell_jar_discussion/",
+              "postedAt": "2025-08-30T12:00:00Z"
+            },
+            {
+              "id": "en_book_bell_jar_review_002",
+              "reviewer": "r/books discussion",
+              "text": "A discussion thread about why The Bell Jar's writing becomes more powerful the longer readers think about it.",
+              "url": "https://www.reddit.com/r/books/comments/suk3po/the_bell_jar/",
+              "postedAt": "2022-02-17T12:00:00Z"
+            }
+          ]
+        }
+      ],
+      "films": [
+        {
+          "id": "en_film_wedding_banquet",
+          "title": "The Wedding Banquet (喜宴)",
+          "year": 1993,
+          "director": "Ang Lee",
+          "reviews": [
+            {
+              "id": "en_film_wedding_banquet_review_001",
+              "reviewer": "TMDb discussion",
+              "text": "A direct movie page for checking synopsis, release details, and audience-facing metadata before writing English notes.",
+              "url": "https://www.themoviedb.org/movie/9261",
+              "postedAt": "1993-08-04T12:00:00Z"
+            },
+            {
+              "id": "en_film_wedding_banquet_review_002",
+              "reviewer": "Letterboxd page",
+              "text": "A direct film page for browsing viewer reviews and concise English reactions to Ang Lee's family comedy-drama.",
+              "url": "https://letterboxd.com/film/the-wedding-banquet/",
+              "postedAt": "1993-08-04T12:00:00Z"
+            }
+          ]
+        }
+      ],
+      "saved": [],
+      "lastUpdated": "2026-04-27T08:00:00Z"
     },
-    "pmLogic": {
-      "title": "Product Manager's Logic",
-      "icon": "🧠",
-      "fixed": [],
-      "dailyUpdates": {
-        "podcasts": [
+    "overseaMarketing": {
+      "title": "Oversea Marketing",
+      "icon": "🌏",
+      "subtitle": "出海营销, platform strategy, and global growth signals",
+      "sources": {
+        "cn": [
           {
-            "title": "产品沉思录",
-            "url": "https://pmthinking.com/"
-          }
-        ],
-        "books": [
-          {
-            "title": "《启示录：打造用户喜爱的产品》",
-            "url": "https://book.douban.com/subject/25900487/"
+            "name": "36氪出海",
+            "url": "https://36kr.com/chuhai"
           },
           {
-            "title": "《人人都是产品经理》",
-            "url": "https://book.douban.com/subject/4723970/"
+            "name": "扬帆出海",
+            "url": "https://www.yfchuhai.com/"
+          },
+          {
+            "name": "霞光社",
+            "url": "https://www.ghxi.com/"
+          },
+          {
+            "name": "晚点LatePost",
+            "url": "https://www.latepost.com/"
+          },
+          {
+            "name": "财经杂志",
+            "url": "https://www.caijing.com.cn/"
           }
         ],
-        "resources": [
+        "en": [
           {
-            "title": "即能 — 产品经理学习社区",
-            "url": "https://jineng.io/"
+            "name": "TechCrunch",
+            "url": "https://techcrunch.com/"
+          },
+          {
+            "name": "The Verge",
+            "url": "https://www.theverge.com/"
+          },
+          {
+            "name": "Wired",
+            "url": "https://www.wired.com/"
+          },
+          {
+            "name": "Forbes",
+            "url": "https://www.forbes.com/"
+          },
+          {
+            "name": "Bloomberg Tech",
+            "url": "https://www.bloomberg.com/technology"
+          },
+          {
+            "name": "Reuters Tech",
+            "url": "https://www.reuters.com/technology/"
+          },
+          {
+            "name": "Adweek",
+            "url": "https://www.adweek.com/"
+          },
+          {
+            "name": "Marketing Dive",
+            "url": "https://www.marketingdive.com/"
+          },
+          {
+            "name": "Campaign Asia",
+            "url": "https://www.campaignasia.com/"
+          },
+          {
+            "name": "eMarketer",
+            "url": "https://www.emarketer.com/"
           }
         ]
-      }
+      },
+      "articles": [
+        {
+          "id": "om_001",
+          "source": "36氪出海",
+          "lang": "cn",
+          "title": "《品牌出海的数字引擎》：数字渠道如何重塑出海营销？",
+          "url": "https://www.36kr.com/p/3409624997367428",
+          "postedAt": "2025-08-05T15:30:00Z"
+        },
+        {
+          "id": "om_002",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Creators work, but measurement doesn't — yet",
+          "url": "https://www.marketingdive.com/news/creators-work-but-measurement-doesnt-yet/813952/",
+          "postedAt": "2026-03-11T12:00:00Z"
+        },
+        {
+          "id": "om_003",
+          "source": "Campaign Asia",
+          "lang": "en",
+          "title": "Move and win roundup: Week of January 26, 2026",
+          "url": "https://www.campaignasia.com/gallery/move-and-win-roundup-week-of-january-26-2026/507133",
+          "postedAt": "2026-01-26T12:00:00Z"
+        },
+        {
+          "id": "om_004",
+          "source": "36氪出海",
+          "lang": "cn",
+          "title": "TikTok电商狂卷东南亚，中国过季商品成爆款",
+          "url": "https://36kr.com/p/2875988922817417",
+          "postedAt": "2024-07-24T18:03:00Z"
+        },
+        {
+          "id": "om_005",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Marketing predictions for 2026 as AI fuels polarity",
+          "url": "https://www.marketingdive.com/news/marketing-predictions-for-2026/809124/",
+          "postedAt": "2026-01-13T12:00:00Z"
+        },
+        {
+          "id": "om_006",
+          "source": "36氪出海",
+          "lang": "cn",
+          "title": "TikTok Shop刮起东南风",
+          "url": "https://36kr.com/p/3419823883095684",
+          "postedAt": "2025-08-12T12:00:00Z"
+        }
+      ],
+      "saved": [],
+      "lastUpdated": "2026-04-27T08:00:00Z"
     }
   }
 }

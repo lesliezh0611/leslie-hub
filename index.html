@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Leslie Zhang's Personal Hub</title>
+<link rel="icon" href="data:,">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -147,7 +148,7 @@ p{color:var(--muted)}
 .action-link{border:var(--border);background:rgba(255,255,255,0.74);color:var(--ink)}
 .button-link{background:var(--black);color:var(--paper);box-shadow:var(--shadow-tight)}
 .action-link:hover,.button-link:hover{transform:translateY(-2px);box-shadow:var(--shadow)}
-.button-link:focus-visible,.action-link:focus-visible,.nav-link:focus-visible,.mini-card:focus-visible,.ext-link:focus-visible{outline:3px solid var(--yellow);outline-offset:3px}
+.button-link:focus-visible,.action-link:focus-visible,.nav-link:focus-visible,.mini-card:focus-visible,.module-link:focus-visible{outline:3px solid var(--yellow);outline-offset:3px}
 
 .hero{
   position:relative;
@@ -334,7 +335,7 @@ p{color:var(--muted)}
 .curriculum-score{font-family:var(--font-heading);font-size:4.2rem;font-weight:800;line-height:1.2;color:var(--green)}
 .curriculum-sub{font-size:0.9rem;font-weight:700;color:rgba(17,24,39,0.68)}
 
-.extracurriculum-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.explore-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
 .explore-panel{
   grid-template-columns:1fr;
   gap:26px;
@@ -373,31 +374,40 @@ p{color:var(--muted)}
 .submodule-card:nth-child(2) .icon{background:var(--lavender)}
 .submodule-card:nth-child(3) .icon{background:var(--yellow)}
 .submodule-header h3{font-size:1.55rem;line-height:1.22;color:var(--green)}
-
-.fixed-section{padding:16px;border:var(--border);border-width:1.5px;border-radius:18px;background:var(--cream)}
-.fixed-label,.daily-label{font-size:0.74rem;font-weight:900;text-transform:uppercase;color:var(--green)}
-.fixed-heading{margin-top:6px;font-family:var(--font-heading);font-size:1.08rem;font-weight:800;color:var(--ink)}
-.fixed-content{margin-top:8px;font-size:0.92rem;color:var(--muted)}
-
-.daily-section{display:flex;flex-direction:column;gap:14px;margin-top:auto}
-.daily-category{padding-top:14px;border-top:1.5px dashed rgba(17,24,39,0.18)}
-.daily-category-title{margin-bottom:10px;font-size:0.82rem;font-weight:900;text-transform:uppercase;color:var(--ink)}
-.daily-link-list{display:flex;flex-wrap:wrap;gap:8px}
-.ext-link{
+.module-subtitle{font-size:0.92rem;font-weight:700;color:var(--muted)}
+.module-meta{display:flex;flex-wrap:wrap;gap:8px}
+.module-meta span{
   display:inline-flex;
   align-items:center;
-  min-height:34px;
-  padding:0 12px;
+  min-height:30px;
+  padding:0 10px;
   border:1.5px solid rgba(17,24,39,0.16);
   border-radius:999px;
   background:var(--cream);
   color:var(--ink);
-  font-size:0.84rem;
-  font-weight:800;
-  transition:transform var(--transition),background var(--transition),color var(--transition);
+  font-size:0.76rem;
+  font-weight:900;
 }
-.ext-link:hover{transform:translateY(-2px);background:var(--black);color:var(--paper)}
-.ext-link[target="_blank"]::after{content:'↗';margin-left:6px;font-size:0.78em}
+.module-list{display:flex;flex-direction:column;gap:10px;margin-top:4px}
+.module-item{padding:13px 0;border-top:1.5px dashed rgba(17,24,39,0.18)}
+.module-item:first-child{border-top:0}
+.module-item-title{font-size:0.96rem;font-weight:800;color:var(--ink)}
+.module-item-source{margin-top:5px;font-size:0.78rem;font-weight:800;color:var(--muted)}
+.module-link{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  min-height:42px;
+  margin-top:auto;
+  padding:0 16px;
+  border-radius:999px;
+  background:var(--black);
+  color:var(--paper);
+  font-size:0.86rem;
+  font-weight:900;
+  transition:transform var(--transition),box-shadow var(--transition);
+}
+.module-link:hover{transform:translateY(-2px);box-shadow:var(--shadow-tight)}
 
 .placeholder-section{
   min-height:260px;
@@ -447,7 +457,7 @@ p{color:var(--muted)}
   .hero-title{font-size:5rem}
   .hero-card{justify-self:start;max-width:420px}
   .section-panel{grid-template-columns:1fr}
-  .curriculum-grid,.extracurriculum-grid{grid-template-columns:1fr}
+  .curriculum-grid,.explore-grid{grid-template-columns:1fr}
   .submodule-card{min-height:auto;transform:none!important}
 }
 
@@ -547,9 +557,9 @@ p{color:var(--muted)}
         <div class="section-header">
           <span class="section-tag">Beyond Class</span>
           <h2 class="section-title">Explore</h2>
-          <p class="section-desc">A working shelf for coding practice, English input, product thinking, and the links Leslie is actively tracking.</p>
+          <p class="section-desc">Three living shelves for AI builders, English input, and overseas marketing signals.</p>
         </div>
-        <div class="extracurriculum-grid" id="extracurriculumGrid"></div>
+        <div class="explore-grid" id="exploreGrid"></div>
       </div>
     </section>
 
@@ -589,16 +599,6 @@ function escapeHTML(value){
     '"':'&quot;',
     "'":'&#39;'
   }[char]));
-}
-
-function titleCase(value){
-  return String(value).replace(/([A-Z])/g,' $1').replace(/^./,char=>char.toUpperCase());
-}
-
-function safeURL(value){
-  const url=String(value || '#');
-  if(url==='#') return '#';
-  return url;
 }
 
 function highlightNav(){
@@ -655,38 +655,79 @@ function renderCurriculum(c){
   document.getElementById('curriculumGrid').innerHTML=html;
 }
 
-function renderExtracurriculum(e){
-  let html='';
-  Object.keys(e).forEach(key=>{
-    const module=e[key];
-    let body=`<div class="submodule-header"><span class="icon">${escapeHTML(module.icon)}</span><h3>${escapeHTML(module.title)}</h3></div>`;
+function formatDate(value){
+  if(!value)return 'No date yet';
+  return new Intl.DateTimeFormat('en',{month:'short',day:'numeric'}).format(new Date(value));
+}
 
-    if(module.fixed&&module.fixed.length){
-      module.fixed.forEach(item=>{
-        body+=`<div class="fixed-section"><div class="fixed-label">Pinned note</div><div class="fixed-heading">${escapeHTML(item.heading)}</div><div class="fixed-content">${escapeHTML(item.content)}</div></div>`;
-      });
-    }
+function byNewest(a,b){
+  return new Date(b.postedAt||0)-new Date(a.postedAt||0);
+}
 
-    if(module.dailyUpdates){
-      body+=`<div class="daily-section"><div class="daily-label">Current links</div>`;
-      Object.keys(module.dailyUpdates).forEach(category=>{
-        const items=module.dailyUpdates[category];
-        if(!items||!items.length)return;
-        body+=`<div class="daily-category"><div class="daily-category-title">${escapeHTML(titleCase(category))}</div><div class="daily-link-list">`;
-        items.forEach(item=>{
-          const label=escapeHTML(item.title||item.name);
-          const url=safeURL(item.url);
-          const safeAttrs=url.startsWith('http')?' target="_blank" rel="noopener noreferrer"':'';
-          body+=`<a href="${escapeHTML(url)}" class="ext-link"${safeAttrs}>${label}</a>`;
-        });
-        body+=`</div></div>`;
-      });
-      body+=`</div>`;
-    }
+function englishItems(module){
+  const podcasts=(module.podcasts||[]).map(item=>({
+    title:item.topic,
+    source:item.source,
+    postedAt:item.postedAt
+  }));
+  const books=(module.books||[]).flatMap(book=>(book.reviews||[]).map(review=>({
+    title:`${book.title}: ${review.text}`,
+    source:`${review.reviewer} · book note`,
+    postedAt:review.postedAt
+  })));
+  const films=(module.films||[]).flatMap(film=>(film.reviews||[]).map(review=>({
+    title:`${film.title}: ${review.text}`,
+    source:`${review.reviewer} · film note`,
+    postedAt:review.postedAt
+  })));
+  return podcasts.concat(books,films).sort(byNewest);
+}
 
-    html+=`<article class="submodule-card reveal">${body}</article>`;
-  });
-  document.getElementById('extracurriculumGrid').innerHTML=html;
+function moduleItems(key,module){
+  if(key==='vibeCoding')return (module.articles||[]).map(item=>({
+    title:item.title,
+    source:`@${item.source} · ${formatDate(item.postedAt)}`,
+    postedAt:item.postedAt
+  })).sort(byNewest);
+  if(key==='english')return englishItems(module).map(item=>({
+    title:item.title,
+    source:`${item.source} · ${formatDate(item.postedAt)}`,
+    postedAt:item.postedAt
+  }));
+  return (module.articles||[]).map(item=>({
+    title:item.title,
+    source:`${item.source} · ${item.lang.toUpperCase()} · ${formatDate(item.postedAt)}`,
+    postedAt:item.postedAt
+  })).sort(byNewest);
+}
+
+function renderExplore(explore){
+  const pages={
+    vibeCoding:'explore-vibe.html',
+    english:'explore-english.html',
+    overseaMarketing:'explore-oversea.html'
+  };
+  const order=['vibeCoding','english','overseaMarketing'];
+  const html=order.map(key=>{
+    const module=explore[key];
+    const items=moduleItems(key,module);
+    const preview=items.slice(0,3).map(item=>`
+      <li class="module-item">
+        <div class="module-item-title">${escapeHTML(item.title)}</div>
+        <div class="module-item-source">${escapeHTML(item.source)}</div>
+      </li>`).join('');
+    return `<article class="submodule-card reveal">
+      <div class="submodule-header"><span class="icon">${escapeHTML(module.icon)}</span><h3>${escapeHTML(module.title)}</h3></div>
+      <p class="module-subtitle">${escapeHTML(module.subtitle)}</p>
+      <div class="module-meta">
+        <span>${escapeHTML(items.length)} items</span>
+        <span>Updated ${escapeHTML(formatDate(module.lastUpdated))}</span>
+      </div>
+      <ol class="module-list">${preview}</ol>
+      <a class="module-link" href="${pages[key]}">View All</a>
+    </article>`;
+  }).join('');
+  document.getElementById('exploreGrid').innerHTML=html;
 }
 
 fetch('data.json')
@@ -697,7 +738,7 @@ fetch('data.json')
   .then(data=>{
     renderProfile(data.profile);
     renderCurriculum(data.curriculum);
-    renderExtracurriculum(data.extracurriculum);
+    renderExplore(data.explore);
     revealOnScroll();
     highlightNav();
   })
