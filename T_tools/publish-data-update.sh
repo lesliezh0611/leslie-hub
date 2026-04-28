@@ -16,6 +16,23 @@ fail() {
   exit 1
 }
 
+retry_git() {
+  local label="$1"
+  shift
+  local attempts=4
+  local delay=8
+  local attempt=1
+  until "$@"; do
+    if [ "$attempt" -ge "$attempts" ]; then
+      fail "$label failed after $attempt attempts. This is usually a temporary GitHub/network problem. Check your internet/VPN, then rerun this script."
+    fi
+    printf "\nWarning: %s failed, retrying in %ss (%s/%s)...\n" "$label" "$delay" "$attempt" "$attempts" >&2
+    sleep "$delay"
+    attempt=$((attempt + 1))
+    delay=$((delay * 2))
+  done
+}
+
 if [ ! -d .git ]; then
   fail "Run this from the D_deliverables repository."
 fi
@@ -42,7 +59,7 @@ say "Validating data.json syntax"
 node -e "JSON.parse(require('fs').readFileSync('data.json','utf8'))"
 
 say "Syncing latest GitHub changes"
-git -c http.version=HTTP/1.1 pull --rebase --autostash origin main
+retry_git "GitHub sync" git -c http.version=HTTP/1.1 pull --rebase --autostash origin main
 
 say "Regenerating Explore data"
 RSSHUB_BASE_URL="$RSSHUB_BASE_URL" node T_tools/update-data.mjs
@@ -67,6 +84,6 @@ git add data.json
 git commit -m "$COMMIT_MESSAGE"
 
 say "Pushing to GitHub"
-git -c http.version=HTTP/1.1 push origin main
+retry_git "GitHub push" git -c http.version=HTTP/1.1 push origin main
 
 say "Done. GitHub Pages should refresh shortly."
