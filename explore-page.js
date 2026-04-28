@@ -198,14 +198,25 @@ function renderCard(item,savedIds){
   </article>`;
 }
 
-function renderList(items,savedIds,filter='all'){
+function renderFreshLabel(module){
+  if(module.freshCountLabel){
+    return module.freshCountLabel;
+  }
+  return '';
+}
+
+function renderList(module,items,savedIds,filter='all'){
   const visible=filter==='all'?items:items.filter(item=>item.lang===filter);
   const cards=visible.map(item=>renderCard(item,savedIds)).join('');
+  const freshLabel=renderFreshLabel(module);
   return `<section class="list-panel">
     ${renderSaved(items,savedIds)}
     <div class="section-title-row">
       <h2>${escapeHTML(config[moduleKey].listTitle)}</h2>
-      <span class="item-count">${visible.length} shown</span>
+      <div class="section-meta">
+        ${freshLabel?`<span class="fresh-count">${escapeHTML(freshLabel)}</span>`:''}
+        <span class="item-count">${visible.length} shown</span>
+      </div>
     </div>
     <div class="article-list">${cards||`<div class="status-message">${escapeHTML(config[moduleKey].empty)}</div>`}</div>
   </section>`;
@@ -219,7 +230,7 @@ function renderPage(data,filter='all'){
     ${renderHero(module,items)}
     <div class="content-grid">
       ${renderSources(module)}
-      ${renderList(items,savedIds,filter)}
+      ${renderList(module,items,savedIds,filter)}
     </div>`;
   if(moduleKey==='overseaMarketing'){
     document.querySelectorAll('[data-filter]').forEach(button=>{

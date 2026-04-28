@@ -2,22 +2,45 @@ import { createHash } from 'node:crypto';
 import { readFile, writeFile } from 'node:fs/promises';
 
 const DATA_PATH = new URL('../data.json', import.meta.url);
-const MAX_ITEMS = 10;
-const NEWS_MAX_AGE_DAYS = Number(process.env.NEWS_MAX_AGE_DAYS || 14);
-const VIBE_MAX_AGE_DAYS = Number(process.env.VIBE_MAX_AGE_DAYS || 30);
 const USER_AGENT = 'LeslieHubUpdater/1.0 (+https://lesliezh0611.github.io/leslie-hub/)';
+
+function envNumber(name, fallback) {
+  const value = Number(process.env[name]);
+  return Number.isFinite(value) && value > 0 ? value : fallback;
+}
+
+const DEFAULT_TARGET_ITEMS = envNumber('TARGET_ITEMS', 20);
+const SECTION_RULES = {
+  vibeCoding: {
+    targetItems: envNumber('VIBE_TARGET_ITEMS', DEFAULT_TARGET_ITEMS),
+    freshnessDays: envNumber('VIBE_MAX_AGE_DAYS', 30)
+  },
+  english: {
+    targetItems: envNumber('ENGLISH_TARGET_ITEMS', DEFAULT_TARGET_ITEMS),
+    freshnessDays: envNumber('ENGLISH_MAX_AGE_DAYS', 21)
+  },
+  overseaMarketing: {
+    targetItems: envNumber('NEWS_TARGET_ITEMS', DEFAULT_TARGET_ITEMS),
+    freshnessDays: envNumber('NEWS_MAX_AGE_DAYS', 14)
+  }
+};
 
 const marketingFeeds = [
   { source: 'TechCrunch', lang: 'en', url: 'https://techcrunch.com/feed/' },
   { source: 'The Verge', lang: 'en', url: 'https://www.theverge.com/rss/index.xml' },
   { source: 'Wired', lang: 'en', url: 'https://www.wired.com/feed/rss' },
   { source: 'Adweek', lang: 'en', url: 'https://www.adweek.com/feed/' },
-  { source: 'Marketing Dive', lang: 'en', url: 'https://www.marketingdive.com/feeds/news/' }
+  { source: 'Marketing Dive', lang: 'en', url: 'https://www.marketingdive.com/feeds/news/' },
+  { source: 'Marketing Brew', lang: 'en', url: 'https://www.marketingbrew.com/feed.xml' },
+  { source: 'Social Media Today', lang: 'en', url: 'https://www.socialmediatoday.com/feeds/news/' },
+  { source: 'Retail Dive', lang: 'en', url: 'https://www.retaildive.com/feeds/news/' },
+  { source: 'Mobile Marketing Magazine', lang: 'en', url: 'https://mobilemarketingmagazine.com/feed/' }
 ];
 
 const englishFeeds = [
   { source: "Lenny's Podcast", platform: 'newsletter', url: 'https://www.lennysnewsletter.com/feed' },
-  { source: 'Lex Fridman Podcast', platform: 'podcast', url: 'https://lexfridman.com/feed/podcast/' }
+  { source: 'Lex Fridman Podcast', platform: 'podcast', url: 'https://lexfridman.com/feed/podcast/' },
+  { source: 'The Knowledge Project', platform: 'podcast', url: 'https://fs.blog/knowledge-project-podcast/feed/' }
 ];
 
 const redditTargets = [
@@ -49,6 +72,13 @@ const marketingKeywords = [
   'retail media',
   'growth',
   'campaign',
+  'audience',
+  'customer',
+  'consumer',
+  'retail',
+  'first-party',
+  'shopper',
+  'partnership',
   'global expansion',
   'commerce',
   'tiktok',
@@ -165,15 +195,66 @@ function itemId(prefix, url) {
   return `${prefix}_${hash(url)}`;
 }
 
+function freshCountLabel(count, freshnessDays) {
+  const noun = count === 1 ? 'update' : 'updates';
+  return `${count} fresh ${noun} from the last ${freshnessDays} days`;
+}
+
+function withFreshnessMeta(module, key, freshCount) {
+  const rule = SECTION_RULES[key];
+  return {
+    ...module,
+    targetItems: rule.targetItems,
+    freshnessDays: rule.freshnessDays,
+    freshCountLabel: freshCountLabel(freshCount, rule.freshnessDays)
+  };
+}
+
+function mergeSourcesByName(existing = [], additions = []) {
+  const seen = new Set();
+  return existing.concat(additions).filter(source => {
+    const key = source.name || source.handle || source.url;
+    if (!key || seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
+function withSyncedEnglishSources(module) {
+  return {
+    ...module,
+    sources: mergeSourcesByName(module.sources || [], englishFeeds.map(feed => ({
+      name: feed.source,
+      platform: feed.platform,
+      url: feed.url
+    })))
+  };
+}
+
+function withSyncedMarketingSources(module) {
+  return {
+    ...module,
+    sources: {
+      cn: module.sources?.cn || [],
+      en: mergeSourcesByName(module.sources?.en || [], marketingFeeds.map(feed => ({
+        name: feed.source,
+        url: feed.url
+      })))
+    }
+  };
+}
+
 async function updateVibeCoding(module) {
   const base = process.env.RSSHUB_BASE_URL?.replace(/\/$/, '');
+  const rule = SECTION_RULES.vibeCoding;
   if (!base) {
-    console.log(`vibeCoding: RSSHUB_BASE_URL not set; keeping only X articles from the last ${VIBE_MAX_AGE_DAYS} days.`);
-    return {
+    console.log(`vibeCoding: RSSHUB_BASE_URL not set; keeping only X articles from the last ${rule.freshnessDays} days.`);
+    const articles = recentOnly(module.articles || [], rule.freshnessDays).sort(byNewest).slice(0, rule.targetItems);
+    return withFreshnessMeta({
       ...module,
-      articles: recentOnly(module.articles || [], VIBE_MAX_AGE_DAYS).sort(byNewest).slice(0, MAX_ITEMS),
+      articles,
       lastUpdated: nowISO()
-    };
+    }, 'vibeCoding', articles.length);
   }
 
   const fetched = [];
@@ -202,28 +283,31 @@ async function updateVibeCoding(module) {
     })));
   }
 
-  const recentFetched = recentOnly(fetched, VIBE_MAX_AGE_DAYS);
+  const recentFetched = recentOnly(fetched, rule.freshnessDays);
   if (!recentFetched.length) {
-    return {
+    const articles = recentOnly(module.articles || [], rule.freshnessDays).sort(byNewest).slice(0, rule.targetItems);
+    return withFreshnessMeta({
       ...module,
-      articles: recentOnly(module.articles || [], VIBE_MAX_AGE_DAYS).sort(byNewest).slice(0, MAX_ITEMS),
+      articles,
       lastUpdated: nowISO()
-    };
+    }, 'vibeCoding', articles.length);
   }
   const existingByUrl = new Map((module.articles || []).map(item => [item.url, item]));
   const articles = uniqueByUrl(recentFetched)
     .map(item => existingByUrl.has(item.url) ? { ...item, id: existingByUrl.get(item.url).id } : item)
     .sort(byNewest)
-    .slice(0, MAX_ITEMS);
-  return { ...module, articles, lastUpdated: nowISO() };
+    .slice(0, rule.targetItems);
+  return withFreshnessMeta({ ...module, articles, lastUpdated: nowISO() }, 'vibeCoding', articles.length);
 }
 
 async function updateEnglish(module) {
+  module = withSyncedEnglishSources(module);
+  const rule = SECTION_RULES.english;
   const podcasts = [];
   for (const feed of englishFeeds) {
     try {
-      const items = recentOnly(await fetchFeed(feed.url), NEWS_MAX_AGE_DAYS);
-      podcasts.push(...items.slice(0, 5).map(item => ({
+      const items = recentOnly(await fetchFeed(feed.url), rule.freshnessDays);
+      podcasts.push(...items.slice(0, 10).map(item => ({
         id: itemId(`en_pod_${feed.source.replace(/[^a-z0-9]+/gi, '_').toLowerCase()}`, item.url),
         source: feed.source,
         platform: feed.platform,
@@ -258,15 +342,17 @@ async function updateEnglish(module) {
     }
   }
 
-  return {
+  const freshPodcasts = podcasts.length
+    ? uniqueByUrl(podcasts).sort(byNewest).slice(0, rule.targetItems)
+    : recentOnly(module.podcasts || [], rule.freshnessDays).sort(byNewest).slice(0, rule.targetItems);
+
+  return withFreshnessMeta({
     ...module,
-    podcasts: podcasts.length
-      ? uniqueByUrl(podcasts).sort(byNewest).slice(0, MAX_ITEMS)
-      : recentOnly(module.podcasts || [], NEWS_MAX_AGE_DAYS).sort(byNewest).slice(0, MAX_ITEMS),
+    podcasts: freshPodcasts,
     books: books.length ? books : module.books,
     films: films.length ? films : module.films,
     lastUpdated: nowISO()
-  };
+  }, 'english', freshPodcasts.length);
 }
 
 async function fetchRedditReviews(target) {
@@ -295,13 +381,15 @@ async function fetchRedditReviews(target) {
 }
 
 async function updateOverseaMarketing(module) {
+  module = withSyncedMarketingSources(module);
+  const rule = SECTION_RULES.overseaMarketing;
   const fetched = [];
   for (const feed of marketingFeeds) {
     try {
-      const items = recentOnly(await fetchFeed(feed.url), NEWS_MAX_AGE_DAYS);
+      const items = recentOnly(await fetchFeed(feed.url), rule.freshnessDays);
       fetched.push(...items
-        .filter(item => isMarketingRelevant(feed.source, item.title, item.text))
-        .slice(0, 5)
+        .filter(item => isMarketingRelevant(feed.source, item.title, item.text, item.url))
+        .slice(0, 8)
         .map(item => ({
           id: itemId('om', item.url),
           source: feed.source,
@@ -316,30 +404,42 @@ async function updateOverseaMarketing(module) {
   }
 
   const existing = module.articles || [];
-  const recentExisting = recentOnly(existing, NEWS_MAX_AGE_DAYS);
+  const recentExisting = recentOnly(existing, rule.freshnessDays);
   const existingCn = recentExisting.filter(item => item.lang === 'cn').slice(0, 4);
   const existingByUrl = new Map(existing.map(item => [item.url, item]));
   const en = uniqueByUrl(fetched)
     .map(item => existingByUrl.has(item.url) ? { ...item, id: existingByUrl.get(item.url).id } : item)
     .sort(byNewest)
-    .slice(0, 8);
+    .slice(0, rule.targetItems);
 
   if (!en.length) {
-    return {
+    const articles = recentExisting.sort(byNewest).slice(0, rule.targetItems);
+    return withFreshnessMeta({
       ...module,
-      articles: recentExisting.sort(byNewest).slice(0, MAX_ITEMS),
+      articles,
       lastUpdated: nowISO()
-    };
+    }, 'overseaMarketing', articles.length);
   }
-  return {
+  const articles = uniqueByUrl(en.concat(existingCn)).sort(byNewest).slice(0, rule.targetItems);
+  return withFreshnessMeta({
     ...module,
-    articles: uniqueByUrl(en.concat(existingCn)).sort(byNewest).slice(0, MAX_ITEMS),
+    articles,
     lastUpdated: nowISO()
-  };
+  }, 'overseaMarketing', articles.length);
 }
 
-function isMarketingRelevant(source, title, text) {
-  if (['Marketing Dive', 'Adweek'].includes(source)) return true;
+function isMarketingRelevant(source, title, text, url = '') {
+  if (['Marketing Dive', 'Marketing Brew', 'Mobile Marketing Magazine'].includes(source)) return true;
+  if (source === 'Adweek') {
+    const urlHaystack = String(url).toLowerCase();
+    const titleHaystack = String(title).toLowerCase();
+    return /\/brand-marketing\/|\/agencies\/|\/commerce\/|\/performance-marketing\//.test(urlHaystack)
+      || marketingKeywords.some(keyword => titleHaystack.includes(keyword));
+  }
+  const titleHaystack = String(title).toLowerCase();
+  if (['TechCrunch', 'The Verge', 'Wired', 'Social Media Today'].includes(source)) {
+    return marketingKeywords.some(keyword => titleHaystack.includes(keyword));
+  }
   const haystack = `${title} ${text}`.toLowerCase();
   return marketingKeywords.some(keyword => haystack.includes(keyword));
 }
@@ -347,23 +447,45 @@ function isMarketingRelevant(source, title, text) {
 function validate(data) {
   const problems = [];
   const explore = data.explore || {};
+  for (const [key, module] of Object.entries(explore)) {
+    const rule = SECTION_RULES[key];
+    if (!rule || !module) continue;
+    if (module.targetItems !== rule.targetItems) {
+      problems.push(`${key} targetItems should be ${rule.targetItems}`);
+    }
+    if (module.freshnessDays !== rule.freshnessDays) {
+      problems.push(`${key} freshnessDays should be ${rule.freshnessDays}`);
+    }
+    if (!module.freshCountLabel) {
+      problems.push(`${key} freshCountLabel is missing`);
+    }
+  }
   for (const article of explore.vibeCoding?.articles || []) {
     if (!/https:\/\/x\.com\/[^/]+\/status\/\d+/.test(article.url)) {
       problems.push(`vibeCoding article is not an X status URL: ${article.id}`);
     }
-    if (!isRecent(article, VIBE_MAX_AGE_DAYS)) {
-      problems.push(`vibeCoding article is older than ${VIBE_MAX_AGE_DAYS} days: ${article.id}`);
+    if (!isRecent(article, SECTION_RULES.vibeCoding.freshnessDays)) {
+      problems.push(`vibeCoding article is older than ${SECTION_RULES.vibeCoding.freshnessDays} days: ${article.id}`);
     }
   }
   for (const podcast of explore.english?.podcasts || []) {
-    if (!isRecent(podcast, NEWS_MAX_AGE_DAYS)) {
-      problems.push(`English podcast/news item is older than ${NEWS_MAX_AGE_DAYS} days: ${podcast.id}`);
+    if (!isRecent(podcast, SECTION_RULES.english.freshnessDays)) {
+      problems.push(`English podcast/news item is older than ${SECTION_RULES.english.freshnessDays} days: ${podcast.id}`);
     }
   }
   for (const article of explore.overseaMarketing?.articles || []) {
-    if (!isRecent(article, NEWS_MAX_AGE_DAYS)) {
-      problems.push(`Marketing news item is older than ${NEWS_MAX_AGE_DAYS} days: ${article.id}`);
+    if (!isRecent(article, SECTION_RULES.overseaMarketing.freshnessDays)) {
+      problems.push(`Marketing news item is older than ${SECTION_RULES.overseaMarketing.freshnessDays} days: ${article.id}`);
     }
+  }
+  if ((explore.vibeCoding?.articles || []).length > SECTION_RULES.vibeCoding.targetItems) {
+    problems.push('vibeCoding has more than targetItems articles');
+  }
+  if ((explore.english?.podcasts || []).length > SECTION_RULES.english.targetItems) {
+    problems.push('english has more than targetItems podcast/news items');
+  }
+  if ((explore.overseaMarketing?.articles || []).length > SECTION_RULES.overseaMarketing.targetItems) {
+    problems.push('overseaMarketing has more than targetItems articles');
   }
   const readUrls = [
     ...(explore.english?.podcasts || []),

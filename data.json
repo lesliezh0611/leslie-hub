@@ -98,7 +98,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-27T14:44:58.546Z"
+      "lastUpdated": "2026-04-28T06:06:10.603Z",
+      "targetItems": 20,
+      "freshnessDays": 30,
+      "freshCountLabel": "1 fresh update from the last 30 days"
     },
     "english": {
       "title": "English",
@@ -126,9 +129,22 @@
           "platform": "reddit",
           "subreddit": "movies",
           "url": "https://www.reddit.com/r/movies/"
+        },
+        {
+          "name": "The Knowledge Project",
+          "platform": "podcast",
+          "url": "https://fs.blog/knowledge-project-podcast/feed/"
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_b11527e11a",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ This week on How I AI: GPT 5.5, Claude Design, and GPT Images 2.0 hands-on reviews—plus an inside look at Memelord",
+          "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude",
+          "postedAt": "2026-04-27T15:02:19.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_9a094dd7bd",
           "source": "Lenny's Podcast",
@@ -168,6 +184,62 @@
           "topic": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
           "url": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves",
           "postedAt": "2026-04-23T15:01:50.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_0f08151b21",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "What Claude Design is actually good for (and why Figma isn’t dead yet)",
+          "url": "https://www.lennysnewsletter.com/p/what-claude-design-is-actually-good",
+          "postedAt": "2026-04-22T12:04:31.000Z"
+        },
+        {
+          "id": "en_pod_the_knowledge_project_692e8b2476",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+          "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+          "postedAt": "2026-04-22T07:41:08.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_e2aba66fc5",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "New: A free year of Cursor, Google AI Pro, Notion, Supabase, Gumloop, and Fin for subscribers",
+          "url": "https://www.lennysnewsletter.com/p/new-a-free-year-of-cursor-google",
+          "postedAt": "2026-04-21T15:03:33.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_8bf36ccf2a",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ This week on How I AI: How Intercom 2x’d their engineering velocity with Claude Code",
+          "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-intercom",
+          "postedAt": "2026-04-20T15:33:11.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_404617b74a",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How Intercom 2x’d their engineering velocity in 9 months with Claude Code | Brian Scanlan",
+          "url": "https://www.lennysnewsletter.com/p/how-intercom-2xd-their-engineering",
+          "postedAt": "2026-04-20T12:03:25.000Z"
+        },
+        {
+          "id": "en_pod_lex_fridman_podcast_3f79be977b",
+          "source": "Lex Fridman Podcast",
+          "platform": "podcast",
+          "topic": "#495 – Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
+          "url": "https://lexfridman.com/lars-brownworth/?utm_source=rss&utm_medium=rss&utm_campaign=lars-brownworth",
+          "postedAt": "2026-04-09T17:43:17.000Z"
+        },
+        {
+          "id": "en_pod_the_knowledge_project_e30de8b2af",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "Mario Harik: Playing to Win",
+          "url": "https://fs.blog/knowledge-project-podcast/mario-harik/",
+          "postedAt": "2026-04-09T09:30:00.000Z"
         }
       ],
       "books": [
@@ -218,7 +290,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-27T14:45:02.676Z"
+      "lastUpdated": "2026-04-28T06:06:17.490Z",
+      "targetItems": 20,
+      "freshnessDays": 21,
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -287,10 +362,130 @@
           {
             "name": "eMarketer",
             "url": "https://www.emarketer.com/"
+          },
+          {
+            "name": "Marketing Brew",
+            "url": "https://www.marketingbrew.com/feed.xml"
+          },
+          {
+            "name": "Social Media Today",
+            "url": "https://www.socialmediatoday.com/feeds/news/"
+          },
+          {
+            "name": "Retail Dive",
+            "url": "https://www.retaildive.com/feeds/news/"
+          },
+          {
+            "name": "Mobile Marketing Magazine",
+            "url": "https://mobilemarketingmagazine.com/feed/"
           }
         ]
       },
       "articles": [
+        {
+          "id": "om_b7c3a3816d",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Drizzle on top: a new high-end dog food brand is coming for the 1%",
+          "url": "https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/",
+          "postedAt": "2026-04-28T05:02:04.000Z"
+        },
+        {
+          "id": "om_e9ec07d09e",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Google offers new first-party shopper data integration",
+          "url": "https://www.socialmediatoday.com/news/google-offers-new-first-party-shopper-data-integration/818629/",
+          "postedAt": "2026-04-27T21:06:38.000Z"
+        },
+        {
+          "id": "om_9e127345d9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Chipotle appoints Fernando Machado as chief brand officer",
+          "url": "https://www.marketingdive.com/news/chipotle-appoints-fernando-machado-as-chief-brand-officer/818618/",
+          "postedAt": "2026-04-27T21:02:00.000Z"
+        },
+        {
+          "id": "om_96eddaa715",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "EBay scrambles to fix outages",
+          "url": "https://www.retaildive.com/news/ebay-scrambles-fix-outages-marketplace-down/818601/",
+          "postedAt": "2026-04-27T20:22:00.000Z"
+        },
+        {
+          "id": "om_f59d3aa64a",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Consumers lost $2.1B to social media scams in 2025, FTC reports",
+          "url": "https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/",
+          "postedAt": "2026-04-27T19:09:53.000Z"
+        },
+        {
+          "id": "om_99da4a2597",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Buchanan’s celebrates Latino community, culture ahead of World Cup",
+          "url": "https://www.marketingdive.com/news/buchanans-celebrates-latino-community-culture-ahead-of-world-cup/818587/",
+          "postedAt": "2026-04-27T19:05:00.000Z"
+        },
+        {
+          "id": "om_14040f91b1",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Why Academy Sports & Outdoors is going against the grain with store openings",
+          "url": "https://www.retaildive.com/news/academy-sports-outdoors-store-opening-strategy-small-regional-markets/818215/",
+          "postedAt": "2026-04-27T17:04:00.000Z"
+        },
+        {
+          "id": "om_236176c024",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "VaynerX’s new agency wants to help brands master the attention economy",
+          "url": "https://www.marketingdive.com/news/vaynerxs-new-agency-wants-to-help-brands-master-the-attention-economy/818363/",
+          "postedAt": "2026-04-27T16:30:00.000Z"
+        },
+        {
+          "id": "om_e8727f5545",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Tractor Supply’s delivery volume jumps as final-mile plan advances",
+          "url": "https://www.retaildive.com/news/tractor-supply-delivery-volume-final-mile-plan-advances/818408/",
+          "postedAt": "2026-04-27T16:11:00.000Z"
+        },
+        {
+          "id": "om_1771a6e6fb",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Bankruptcy court, citing Saks Global’s merchandising woes, approves $500M in exit financing",
+          "url": "https://www.retaildive.com/news/bankruptcy-court-citing-saks-global-merchandising-woes-approves-500m/818537/",
+          "postedAt": "2026-04-27T16:07:00.000Z"
+        },
+        {
+          "id": "om_675ba13b41",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Albertsons injects fresh retail media data into YouTube advertising",
+          "url": "https://www.marketingdive.com/news/albertsons-injects-fresh-retail-media-data-into-youtube-advertising/818548/",
+          "postedAt": "2026-04-27T15:19:00.000Z"
+        },
+        {
+          "id": "om_c04057028e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "3 takeaways from Walmart’s 2026 annual report",
+          "url": "https://www.retaildive.com/news/walmarts-annual-report-ecommerce-store-investments-AI/818542/",
+          "postedAt": "2026-04-27T15:18:00.000Z"
+        },
+        {
+          "id": "om_a65e8fbe1a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "H&M Group names chief information officer",
+          "url": "https://www.retaildive.com/news/hm-group-names-new-chief-information-officer/818424/",
+          "postedAt": "2026-04-27T14:59:00.000Z"
+        },
         {
           "id": "om_3b7b0ea60e",
           "source": "Marketing Dive",
@@ -298,6 +493,14 @@
           "title": "IAS touts ‘linear-like’ transparency with CTV ad measurement solutions",
           "url": "https://www.marketingdive.com/news/ias-touts-linear-like-transparency-with-ctv-ad-measurement-solutions/818502/",
           "postedAt": "2026-04-27T14:17:00.000Z"
+        },
+        {
+          "id": "om_e62ae4de4e",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "All things creator marketing with Kay Hsu",
+          "url": "https://www.marketingbrew.com/stories/2026/04/27/all-things-creator-marketing-with-kay-hsu?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-04-27T13:32:39.000Z"
         },
         {
           "id": "om_34eea684fd",
@@ -308,12 +511,12 @@
           "postedAt": "2026-04-27T12:00:00.000Z"
         },
         {
-          "id": "om_9aefde06d6",
-          "source": "The Verge",
+          "id": "om_477cdb65bb",
+          "source": "Adweek",
           "lang": "en",
-          "title": "Spotify is partnering with Peloton for guided workouts",
-          "url": "https://www.theverge.com/tech/918861/spotify-peloton-guided-workouts",
-          "postedAt": "2026-04-27T11:18:12.000Z"
+          "title": "Netflix’s Running Point Scores Several Integrated Brand Partnerships in Season 2",
+          "url": "https://www.adweek.com/brand-marketing/netflixs-running-point-scores-several-integrated-brand-partnerships-in-season-2/",
+          "postedAt": "2026-04-27T11:48:37.000Z"
         },
         {
           "id": "om_c0cba17f02",
@@ -332,32 +535,19 @@
           "postedAt": "2026-04-27T11:00:00.000Z"
         },
         {
-          "id": "om_70385f5410",
-          "source": "Adweek",
+          "id": "om_d5f2130a84",
+          "source": "Marketing Brew",
           "lang": "en",
-          "title": "VaynerX Launches Tamara Group, Betting Production-Led Is the New Agency Model",
-          "url": "https://www.adweek.com/agencies/vaynerx-launches-tamara-group-betting-production-led-is-the-new-agency-model/",
-          "postedAt": "2026-04-27T10:30:00.000Z"
-        },
-        {
-          "id": "om_f4b0fb9b59",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Upfront Shocker! TelevisaUnivision Switches Ad Sales Chiefs: Tim Natividad Out, John Kozack In",
-          "url": "https://www.adweek.com/convergent-tv/upfront-shocker-televisaunivision-switches-ad-sales-chiefs-tim-natividad-out-john-kozack-in/",
-          "postedAt": "2026-04-27T10:12:33.000Z"
-        },
-        {
-          "id": "om_d45b6f8325",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Possible 2026 Opening Remarks: Marketing’s Age of Opinion Is Ending",
-          "url": "https://www.adweek.com/brand-marketing/possible-2026-opening-remarks-marketings-age-of-opinion-is-ending/",
-          "postedAt": "2026-04-27T09:00:00.000Z"
+          "title": "Inside the Kotex brand overhaul",
+          "url": "https://www.marketingbrew.com/stories/2026/04/27/inside-the-kotex-brand-overhaul?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-04-27T11:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-27T14:45:09.212Z"
+      "lastUpdated": "2026-04-28T06:06:25.598Z",
+      "targetItems": 20,
+      "freshnessDays": 14,
+      "freshCountLabel": "20 fresh updates from the last 14 days"
     }
   }
 }

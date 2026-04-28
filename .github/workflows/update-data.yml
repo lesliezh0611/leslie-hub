@@ -27,6 +27,10 @@ jobs:
       - name: Update data.json
         env:
           RSSHUB_BASE_URL: ${{ secrets.RSSHUB_BASE_URL }}
+          TARGET_ITEMS: 20
+          VIBE_MAX_AGE_DAYS: 30
+          ENGLISH_MAX_AGE_DAYS: 21
+          NEWS_MAX_AGE_DAYS: 14
         run: node T_tools/update-data.mjs
 
       - name: Commit updated data
