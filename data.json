@@ -175,6 +175,14 @@
       ],
       "podcasts": [
         {
+          "id": "en_pod_lenny_s_podcast_b11527e11a",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ This week on How I AI: GPT 5.5, Claude Design, and GPT Images 2.0 hands-on reviews—plus an inside look at Memelord",
+          "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude",
+          "postedAt": "2026-04-27T15:02:19.000Z"
+        },
+        {
           "id": "en_pod_lenny_s_podcast_9a094dd7bd",
           "source": "Lenny's Podcast",
           "platform": "newsletter",
@@ -205,14 +213,6 @@
           "topic": "GPT 5.5 just did what no other model could",
           "url": "https://www.lennysnewsletter.com/p/gpt-55-just-did-what-no-other-model",
           "postedAt": "2026-04-23T19:39:26.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_0a061b050a",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
-          "url": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves",
-          "postedAt": "2026-04-23T15:01:50.000Z"
         },
         {
           "id": "en_pod_lex_fridman_podcast_3f79be977b",
@@ -303,7 +303,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-27T14:30:37.133Z"
+      "lastUpdated": "2026-04-28T04:05:02.045Z"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -377,6 +377,46 @@
       },
       "articles": [
         {
+          "id": "om_9e127345d9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Chipotle appoints Fernando Machado as chief brand officer",
+          "url": "https://www.marketingdive.com/news/chipotle-appoints-fernando-machado-as-chief-brand-officer/818618/",
+          "postedAt": "2026-04-27T21:02:00.000Z"
+        },
+        {
+          "id": "om_99da4a2597",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Buchanan’s celebrates Latino community, culture ahead of World Cup",
+          "url": "https://www.marketingdive.com/news/buchanans-celebrates-latino-community-culture-ahead-of-world-cup/818587/",
+          "postedAt": "2026-04-27T19:05:00.000Z"
+        },
+        {
+          "id": "om_236176c024",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "VaynerX’s new agency wants to help brands master the attention economy",
+          "url": "https://www.marketingdive.com/news/vaynerxs-new-agency-wants-to-help-brands-master-the-attention-economy/818363/",
+          "postedAt": "2026-04-27T16:30:00.000Z"
+        },
+        {
+          "id": "om_5dc2e39eff",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "5 Questions For… the CNN Team in the Control Room During the WHCD Shooting",
+          "url": "https://www.adweek.com/tvnewser/5-questions-for-cnn-team-in-the-control-room-during-whcd-shooting/",
+          "postedAt": "2026-04-27T15:42:23.000Z"
+        },
+        {
+          "id": "om_675ba13b41",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Albertsons injects fresh retail media data into YouTube advertising",
+          "url": "https://www.marketingdive.com/news/albertsons-injects-fresh-retail-media-data-into-youtube-advertising/818548/",
+          "postedAt": "2026-04-27T15:19:00.000Z"
+        },
+        {
           "id": "om_3b7b0ea60e",
           "source": "Marketing Dive",
           "lang": "en",
@@ -385,60 +425,20 @@
           "postedAt": "2026-04-27T14:17:00.000Z"
         },
         {
-          "id": "om_34eea684fd",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Celsius unites sports, music and culture ahead of soccer-centric summer",
-          "url": "https://www.marketingdive.com/news/celsius-unites-sports-music-and-culture-ahead-of-soccer-centric-summer/818374/",
-          "postedAt": "2026-04-27T12:00:00.000Z"
-        },
-        {
-          "id": "om_9aefde06d6",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Spotify is partnering with Peloton for guided workouts",
-          "url": "https://www.theverge.com/tech/918861/spotify-peloton-guided-workouts",
-          "postedAt": "2026-04-27T11:18:12.000Z"
-        },
-        {
-          "id": "om_c0cba17f02",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "The pros and cons of adding AI to first-party experiences",
-          "url": "https://www.marketingdive.com/news/pros-cons-adding-ai-first-party-experiences/818530/",
-          "postedAt": "2026-04-27T11:00:00.000Z"
-        },
-        {
-          "id": "om_2faad32d55",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How ‘Devil Wears Prada 2’ designed a ‘fashion collection’ of brand partners",
-          "url": "https://www.marketingdive.com/news/how-devil-wears-prada-2-designed-a-fashion-collection-of-brand-partners/818370/",
-          "postedAt": "2026-04-27T11:00:00.000Z"
-        },
-        {
-          "id": "om_f4b0fb9b59",
+          "id": "om_477cdb65bb",
           "source": "Adweek",
           "lang": "en",
-          "title": "Upfront Shocker! TelevisaUnivision Switches Ad Sales Chiefs: Tim Natividad Out, John Kozack In",
-          "url": "https://www.adweek.com/convergent-tv/upfront-shocker-televisaunivision-switches-ad-sales-chiefs-tim-natividad-out-john-kozack-in/",
-          "postedAt": "2026-04-27T10:12:33.000Z"
+          "title": "Netflix’s Running Point Scores Several Integrated Brand Partnerships in Season 2",
+          "url": "https://www.adweek.com/brand-marketing/netflixs-running-point-scores-several-integrated-brand-partnerships-in-season-2/",
+          "postedAt": "2026-04-27T11:48:37.000Z"
         },
         {
-          "id": "om_d45b6f8325",
+          "id": "om_e5cce076fe",
           "source": "Adweek",
           "lang": "en",
-          "title": "Possible 2026 Opening Remarks: Marketing’s Age of Opinion Is Ending",
-          "url": "https://www.adweek.com/brand-marketing/possible-2026-opening-remarks-marketings-age-of-opinion-is-ending/",
-          "postedAt": "2026-04-27T09:00:00.000Z"
-        },
-        {
-          "id": "om_79662b7c16",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Dentsu Bolsters Americas Leadership as It Seeks Turnaround in Key Region",
-          "url": "https://www.adweek.com/agencies/dentsu-bolsters-americas-leadership-as-it-seeks-turnaround-in-key-region/",
-          "postedAt": "2026-04-27T09:00:00.000Z"
+          "title": "3,000 Images, Zero Dialogue: How This Studio Made AI Films Without Sacrificing the Creative Soul",
+          "url": "https://www.adweek.com/creativity/3000-images-zero-dialogue-how-this-studio-made-ai-films-without-sacrificing-the-creative-soul/",
+          "postedAt": "2026-04-27T11:34:23.000Z"
         },
         {
           "id": "om_006",
@@ -458,7 +458,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-27T14:30:40.740Z"
+      "lastUpdated": "2026-04-28T04:05:02.704Z"
     }
   }
 }
