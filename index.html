@@ -347,7 +347,7 @@ p{color:var(--muted)}
   transition:transform var(--transition),box-shadow var(--transition);
 }
 .intro-cta:hover{transform:translateY(-2px);box-shadow:var(--shadow-tight)}
-.intro-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.intro-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
 .intro-card{
   min-height:250px;
   display:flex;
@@ -364,7 +364,6 @@ p{color:var(--muted)}
 .intro-card:nth-child(1){--accent:var(--peach);transform:rotate(-1.4deg)}
 .intro-card:nth-child(2){--accent:var(--mint);transform:rotate(1.2deg)}
 .intro-card:nth-child(3){--accent:var(--lavender);transform:rotate(-0.7deg)}
-.intro-card:nth-child(4){--accent:var(--sky);transform:rotate(1.4deg)}
 .intro-card:hover{transform:translateY(-6px) rotate(0deg);box-shadow:var(--shadow)}
 .intro-index{font-size:0.76rem;font-weight:900;text-transform:uppercase;color:var(--green-dark)}
 .intro-card h3{font-size:1.55rem;color:var(--ink)}
@@ -382,8 +381,11 @@ p{color:var(--muted)}
   border:var(--border);
   border-radius:22px;
   background:
+    var(--photo-src),
     linear-gradient(145deg,rgba(255,255,255,0.55),rgba(255,255,255,0.08)),
     var(--photo-bg,var(--yellow));
+  background-size:cover;
+  background-position:center;
   box-shadow:var(--shadow-tight);
   transform:translateX(calc(-50% + var(--x,0px))) rotate(var(--r,0deg));
   transition:transform 220ms ease,filter 220ms ease;
@@ -769,9 +771,11 @@ function renderProfile(p){
     </div>`;
 }
 
-function selfIntroPhotos(intro){
-  const photoSection=(intro.sections||[]).find(section=>section.id==='photos');
-  return (photoSection?.photos||[]).slice(0,3);
+function sectionPhotos(section){
+  return (section.items||[]).flatMap(item=>(item.photos||[]).map(photo=>({
+    ...photo,
+    caption:item.title
+  }))).slice(0,3);
 }
 
 function renderSelfIntro(intro){
@@ -779,19 +783,21 @@ function renderSelfIntro(intro){
   const grid=document.getElementById('introGrid');
   const summary=document.getElementById('introSummary');
   if(summary)summary.textContent=intro.subtitle||summary.textContent;
-  const photos=selfIntroPhotos(intro);
-  const cards=(intro.sections||[]).slice(0,4).map((section,index)=>{
-    const isPhotos=section.id==='photos';
-    const photoFan=isPhotos&&photos.length?`<div class="intro-photo-strip" aria-label="Photo preview">
-      ${photos.map(photo=>`<span class="intro-photo" data-caption="${escapeHTML(photo.caption||section.title)}"></span>`).join('')}
+  const previewSections=(intro.sections||[]).filter(section=>['life','hobbies','casual'].includes(section.id)).slice(0,3);
+  const cards=previewSections.map((section,index)=>{
+    const photos=sectionPhotos(section);
+    const photoFan=photos.length?`<div class="intro-photo-strip" aria-label="${escapeHTML(section.title)} photo preview">
+      ${photos.map(photo=>`<span class="intro-photo" style="--photo-src:url('${escapeHTML(photo.src)}')" data-caption="${escapeHTML(photo.caption||section.title)}"></span>`).join('')}
     </div>`:'';
+    const target=section.id==='life'?'life':'hobbies-casual';
     return `<article class="intro-card reveal">
       <div>
         <span class="intro-index">${String(index+1).padStart(2,'0')}</span>
         <h3>${escapeHTML(section.title)}</h3>
         <p>${escapeHTML(section.summary)}</p>
       </div>
-      ${photoFan||`<a class="intro-link module-link" href="self-intro.html#${escapeHTML(section.id)}">Explore ${escapeHTML(section.title)}</a>`}
+      ${photoFan}
+      <a class="intro-link module-link" href="self-intro.html#${escapeHTML(target)}">Explore ${escapeHTML(section.title)}</a>
     </article>`;
   }).join('');
   grid.innerHTML=cards;

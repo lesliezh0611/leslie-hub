@@ -10,7 +10,7 @@
   },
   "selfIntro": {
     "title": "Self Intro",
-    "subtitle": "Life, photos, hobbies, and casual activities",
+    "subtitle": "Life experience, hobbies, and casual activities",
     "hero": {
       "headline": "A more personal side of Leslie",
       "body": "A warm shelf for the parts of life that do not fit inside grades or reading lists: where I have been, what I like making, and the casual moments I want to remember.",
@@ -23,36 +23,36 @@
         "summary": "Places, transitions, and small decisions that shaped how I study, build, and see the world.",
         "items": [
           {
+            "year": "2024",
             "title": "Growing through campus life",
             "body": "Collecting the early undergraduate moments that made Zhejiang University feel like a starting point instead of just a location.",
-            "image": "assets/self-intro/placeholder-peach.svg"
+            "photos": [
+              {
+                "src": "assets/self-intro/placeholder-peach.svg",
+                "alt": "Warm placeholder for campus life",
+                "description": "Campus begins to feel personal when the routes, classes, and people start becoming a map."
+              },
+              {
+                "src": "assets/self-intro/placeholder-mint.svg",
+                "alt": "Mint placeholder for study moments"
+              }
+            ]
           },
           {
+            "year": "2025",
             "title": "Learning by building",
             "body": "Turning coursework, AI tools, and personal curiosity into small experiments I can keep improving.",
-            "image": "assets/self-intro/placeholder-mint.svg"
-          }
-        ]
-      },
-      {
-        "id": "photos",
-        "title": "Photos",
-        "summary": "A flexible photo wall for trips, daily snapshots, friends, food, campus light, and whatever feels worth keeping.",
-        "photos": [
-          {
-            "src": "assets/self-intro/placeholder-yellow.svg",
-            "alt": "Personal photo placeholder 01",
-            "caption": "A favorite moment"
-          },
-          {
-            "src": "assets/self-intro/placeholder-rose.svg",
-            "alt": "Personal photo placeholder 02",
-            "caption": "Out and about"
-          },
-          {
-            "src": "assets/self-intro/placeholder-sky.svg",
-            "alt": "Personal photo placeholder 03",
-            "caption": "Small daily scene"
+            "photos": [
+              {
+                "src": "assets/self-intro/placeholder-yellow.svg",
+                "alt": "Yellow placeholder for creative building",
+                "description": "Small tools are a way to make curiosity visible before it becomes a polished project."
+              },
+              {
+                "src": "assets/self-intro/placeholder-lavender.svg",
+                "alt": "Lavender placeholder for digital notes"
+              }
+            ]
           }
         ]
       },
@@ -64,12 +64,32 @@
           {
             "title": "English input",
             "body": "Podcasts, films, books, and phrases that make language feel alive instead of exam-shaped.",
-            "image": "assets/self-intro/placeholder-lavender.svg"
+            "photos": [
+              {
+                "src": "assets/self-intro/placeholder-lavender.svg",
+                "alt": "Lavender placeholder for English input",
+                "description": "Language feels more alive when it comes from voices, scenes, and sentences worth keeping."
+              },
+              {
+                "src": "assets/self-intro/placeholder-sky.svg",
+                "alt": "Sky placeholder for film and podcast notes"
+              }
+            ]
           },
           {
             "title": "Creative tooling",
             "body": "Exploring how AI and design tools can make small ideas easier to test.",
-            "image": "assets/self-intro/placeholder-yellow.svg"
+            "photos": [
+              {
+                "src": "assets/self-intro/placeholder-yellow.svg",
+                "alt": "Yellow placeholder for creative tools",
+                "description": "A place for playful experiments with AI, product ideas, and design references."
+              },
+              {
+                "src": "assets/self-intro/placeholder-green.svg",
+                "alt": "Green placeholder for product thinking"
+              }
+            ]
           }
         ]
       },
@@ -81,12 +101,32 @@
           {
             "title": "Walking around",
             "body": "A place for ordinary routes, weekend wandering, and moments that make the day feel less automatic.",
-            "image": "assets/self-intro/placeholder-sky.svg"
+            "photos": [
+              {
+                "src": "assets/self-intro/placeholder-sky.svg",
+                "alt": "Sky placeholder for walking around",
+                "description": "Weekend wandering, campus light, and ordinary routes that reset the day."
+              },
+              {
+                "src": "assets/self-intro/placeholder-rose.svg",
+                "alt": "Rose placeholder for casual daily scene"
+              }
+            ]
           },
           {
             "title": "Good breaks",
             "body": "Food, music, chats, and little resets between study sessions.",
-            "image": "assets/self-intro/placeholder-rose.svg"
+            "photos": [
+              {
+                "src": "assets/self-intro/placeholder-rose.svg",
+                "alt": "Rose placeholder for good breaks",
+                "description": "Food, music, quick talks, and the little pauses that keep the week human."
+              },
+              {
+                "src": "assets/self-intro/placeholder-peach.svg",
+                "alt": "Peach placeholder for relaxed moments"
+              }
+            ]
           }
         ]
       }

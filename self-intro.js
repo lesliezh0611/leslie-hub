@@ -10,17 +10,30 @@ function escapeHTML(value){
   }[char]));
 }
 
-function imageBlock(src,alt,caption,className='card-image'){
-  return `<div class="${className}">
-    <img src="${escapeHTML(src)}" alt="${escapeHTML(alt||caption||'Self intro photo')}" loading="lazy">
-    ${caption?`<span class="photo-caption">${escapeHTML(caption)}</span>`:''}
-  </div>`;
+function getSection(intro,id){
+  return (intro.sections||[]).find(section=>section.id===id);
+}
+
+function sectionPhotos(section){
+  return (section?.items||[]).flatMap(item=>(item.photos||[]).map(photo=>({
+    ...photo,
+    groupTitle:item.title,
+    body:item.body
+  })));
+}
+
+function allIntroPhotos(intro){
+  return (intro.sections||[]).flatMap(section=>sectionPhotos(section).map(photo=>({
+    ...photo,
+    sectionId:section.id,
+    sectionTitle:section.title
+  })));
 }
 
 function markMissingImages(){
   document.querySelectorAll('img').forEach(img=>{
     const handleMissing=()=>{
-      img.parentElement?.classList.add('is-missing');
+      img.closest('figure,.hero-cover,.chapter-photo,.gallery-tile')?.classList.add('is-missing');
     };
     if(img.complete&&img.naturalWidth===0)handleMissing();
     img.addEventListener('error',handleMissing,{once:true});
@@ -35,101 +48,103 @@ function revealOnScroll(){
   }
   const windowHeight=window.innerHeight;
   document.querySelectorAll('.reveal:not(.visible)').forEach(el=>{
-    if(el.getBoundingClientRect().top<windowHeight-90)el.classList.add('visible');
+    if(el.getBoundingClientRect().top<windowHeight-110)el.classList.add('visible');
   });
 }
 
-function getSection(intro,id){
-  return (intro.sections||[]).find(section=>section.id===id);
-}
-
-function sectionChips(intro){
-  return `<nav class="quick-nav" aria-label="Self intro sections">
-    ${(intro.sections||[]).map(section=>`<a class="section-chip" href="#${escapeHTML(section.id)}">${escapeHTML(section.title)}</a>`).join('')}
-  </nav>`;
-}
-
-function heroPhotos(intro){
-  const photos=getSection(intro,'photos')?.photos||[];
-  const fallback=[
-    {src:intro.hero?.coverImage,caption:'Cover'},
-    {src:'assets/self-intro/photo-01.jpg',caption:'Daily life'},
-    {src:'assets/self-intro/photo-02.jpg',caption:'Small moments'}
-  ];
-  return (photos.length?photos:fallback).slice(0,3);
-}
-
 function renderHero(intro){
-  const photos=heroPhotos(intro).map(photo=>`<figure class="photo-card">
-    <img src="${escapeHTML(photo.src)}" alt="${escapeHTML(photo.alt||photo.caption||'Self intro photo')}" loading="eager">
-    <figcaption class="photo-caption">${escapeHTML(photo.caption||'Photo slot')}</figcaption>
-  </figure>`).join('');
+  const heroPhotos=allIntroPhotos(intro).slice(0,3);
+  const cover=intro.hero?.coverImage||heroPhotos[0]?.src||'';
+  const stack=heroPhotos.map((photo,index)=>`
+    <figure class="hero-snap" style="--i:${index}">
+      <img src="${escapeHTML(photo.src)}" alt="${escapeHTML(photo.alt||photo.groupTitle||'Self intro photo')}" loading="${index===0?'eager':'lazy'}">
+      <figcaption>${escapeHTML(photo.groupTitle||photo.sectionTitle||'Photo')}</figcaption>
+    </figure>`).join('');
 
   return `<section class="hero-panel reveal">
-    <div>
+    <div class="hero-copy">
       <span class="eyebrow">${escapeHTML(intro.title)}</span>
       <h1 class="page-title">${escapeHTML(intro.hero?.headline||intro.title)}</h1>
       <p class="page-subtitle">${escapeHTML(intro.hero?.body||intro.subtitle)}</p>
       <div class="hero-actions">
         <a class="button-link" href="index.html#self-intro">Back Home</a>
-        <a class="button-link secondary" href="#photos">See Photos</a>
+        <a class="button-link secondary" href="#life">Life Chapters</a>
+        <a class="button-link secondary" href="#hobbies-casual">Gallery</a>
       </div>
-      ${sectionChips(intro)}
     </div>
-    <div class="hero-stack" aria-label="Photo preview">${photos}</div>
+    <div class="hero-media">
+      <figure class="hero-cover">
+        <img src="${escapeHTML(cover)}" alt="${escapeHTML(intro.hero?.headline||'Self intro cover')}" loading="eager">
+      </figure>
+      <div class="hero-snap-stack" aria-label="Self intro photo preview">${stack}</div>
+    </div>
   </section>`;
 }
 
-function renderItems(section,accent){
-  const items=section.items||[];
-  if(!items.length){
-    return `<div class="status-message">Add ${escapeHTML(section.title.toLowerCase())} items in data.json.</div>`;
-  }
-  return `<div class="card-grid">
-    ${items.map(item=>`<article class="story-card reveal" style="--accent:${accent}">
-      ${imageBlock(item.image||'',item.title,item.title)}
-      <div class="card-body">
-        <h3>${escapeHTML(item.title)}</h3>
-        <p>${escapeHTML(item.body)}</p>
-      </div>
-    </article>`).join('')}
-  </div>`;
-}
-
-function renderPhotos(section){
-  const photos=section.photos||[];
-  if(!photos.length){
-    return `<div class="status-message">Add personal photos in assets/self-intro and list them in data.json.</div>`;
-  }
-  return `<div class="card-grid">
-    ${photos.map(photo=>`<article class="gallery-card reveal" style="--accent:var(--sky)">
-      ${imageBlock(photo.src,photo.alt,photo.caption)}
-      <div class="card-body">
-        <span class="caption">${escapeHTML(photo.caption)}</span>
-      </div>
-    </article>`).join('')}
-  </div>`;
-}
-
-function renderSection(section,index){
+function renderLifeChapter(item,index){
+  const photos=(item.photos||[]).slice(0,3);
   const accents=['var(--peach)','var(--mint)','var(--lavender)','var(--sky)'];
-  const content=section.id==='photos'?renderPhotos(section):renderItems(section,accents[index%accents.length]);
-  return `<section class="section" id="${escapeHTML(section.id)}">
-    <div class="content-section reveal">
-      <div>
-        <span class="section-kicker">${String(index+1).padStart(2,'0')}</span>
-        <h2 class="section-title">${escapeHTML(section.title)}</h2>
-        <p class="section-summary">${escapeHTML(section.summary)}</p>
-      </div>
-      ${content}
+  const photoHTML=photos.length?photos.map((photo,photoIndex)=>`
+    <figure class="chapter-photo" style="--photo-index:${photoIndex}">
+      <img src="${escapeHTML(photo.src)}" alt="${escapeHTML(photo.alt||item.title)}" loading="lazy">
+    </figure>`).join(''):`<div class="empty-photo">Photo slot</div>`;
+
+  return `<article class="life-chapter reveal" style="--accent:${accents[index%accents.length]}">
+    <div class="chapter-copy">
+      <span class="chapter-year">${escapeHTML(item.year||'Now')}</span>
+      <h3>${escapeHTML(item.title)}</h3>
+      <p>${escapeHTML(item.body)}</p>
     </div>
+    <div class="chapter-photos" aria-label="${escapeHTML(item.title)} photos">${photoHTML}</div>
+  </article>`;
+}
+
+function renderLife(intro){
+  const life=getSection(intro,'life');
+  const items=life?.items||[];
+  return `<section class="chapter-section" id="life">
+    <div class="section-heading reveal">
+      <span class="section-kicker">01</span>
+      <h2 class="section-title">${escapeHTML(life?.title||'Life Experience')}</h2>
+      <p class="section-summary">${escapeHTML(life?.summary||'')}</p>
+    </div>
+    <div class="chapter-list">
+      ${items.length?items.map(renderLifeChapter).join(''):'<div class="status-message">Add life experience chapters in data.json.</div>'}
+    </div>
+  </section>`;
+}
+
+function renderGalleryTile(photo,index){
+  const hasDescription=Boolean(photo.description);
+  return `<figure class="gallery-tile reveal ${hasDescription?'has-description':''}" style="--span:${index%5===0?2:1}" tabindex="0">
+    <img src="${escapeHTML(photo.src)}" alt="${escapeHTML(photo.alt||photo.groupTitle||'Self intro gallery photo')}" loading="lazy">
+    ${hasDescription?`<figcaption>${escapeHTML(photo.description)}</figcaption>`:''}
+  </figure>`;
+}
+
+function renderGallery(intro){
+  const hobbies=getSection(intro,'hobbies');
+  const casual=getSection(intro,'casual');
+  const photos=[...sectionPhotos(hobbies),...sectionPhotos(casual)];
+  return `<section class="gallery-section" id="hobbies-casual">
+    <div class="section-heading reveal">
+      <span class="section-kicker">02</span>
+      <h2 class="section-title">Hobbies & Casual Activities</h2>
+      <p class="section-summary">${escapeHTML([hobbies?.summary,casual?.summary].filter(Boolean).join(' '))}</p>
+    </div>
+    ${photos.length?`<div class="masonry-gallery">${photos.map(renderGalleryTile).join('')}</div>`:'<div class="status-message">Add hobby and casual photos in data.json.</div>'}
   </section>`;
 }
 
 function renderPage(intro){
+  if(!intro){
+    app.innerHTML='<div class="status-message">Self Intro data is missing.</div>';
+    return;
+  }
   app.innerHTML=[
     renderHero(intro),
-    ...(intro.sections||[]).map(renderSection)
+    renderLife(intro),
+    renderGallery(intro)
   ].join('');
   markMissingImages();
   revealOnScroll();
