@@ -56,12 +56,6 @@
           "url": "https://x.com/steipete"
         },
         {
-          "handle": "turingou",
-          "name": "土井",
-          "platform": "x",
-          "url": "https://x.com/turingou"
-        },
-        {
           "handle": "Khazix0918",
           "name": "Khazix",
           "platform": "x",
@@ -88,13 +82,130 @@
       ],
       "articles": [
         {
-          "id": "vc_turingou_93287b73c7",
-          "source": "turingou",
-          "sourceName": "土井",
+          "id": "vc_gdb_47403f2fc8",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
           "platform": "x",
-          "title": "今天为 wanman 增加了两倍 sandbank 容量扩容，应该可以大幅环节 wanman 跑 story 时排队的情况。",
-          "url": "https://x.com/turingou/status/2049131298456027363",
-          "postedAt": "2026-04-28T14:19:07.000Z"
+          "title": "a great codex tutorial:",
+          "url": "https://x.com/gdb/status/2049315404271469054",
+          "postedAt": "2026-04-29T02:30:41.000Z"
+        },
+        {
+          "id": "vc_steipete_dde9391492",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "I'm now spinning up a codex instance on every commit landing on main, looking for booboos (regressions, security issues) It's live for 10 min and alre...",
+          "url": "https://x.com/steipete/status/2049290741013262522",
+          "postedAt": "2026-04-29T00:52:41.000Z"
+        },
+        {
+          "id": "vc_steipete_98c078168b",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "I smell a leak.",
+          "url": "https://x.com/steipete/status/2049290265026773172",
+          "postedAt": "2026-04-29T00:50:47.000Z"
+        },
+        {
+          "id": "vc_dotey_a4c79f3996",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "http://x.com/i/article/2049282533364215808",
+          "url": "https://x.com/dotey/status/2049283917509693942",
+          "postedAt": "2026-04-29T00:25:34.000Z"
+        },
+        {
+          "id": "vc_dotey_c585199220",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "OpenAI 宣布与 AWS 扩大合作，把自家模型（包括最新的 GPT-5.5）、Codex 编程工具和托管智能体（Managed Agents）全部搬上 Amazon Bedrock 平台，目前以限量预览...",
+          "url": "https://x.com/dotey/status/2049265362718351779",
+          "postedAt": "2026-04-28T23:11:50.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_2cab5b429f",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Don't get AI to generate images; get them to generate SVGs! Vector illustrations that seamlessly blend into the design style is the perfect complement...",
+          "url": "https://x.com/zarazhangrui/status/2049258231042805806",
+          "postedAt": "2026-04-28T22:43:30.000Z"
+        },
+        {
+          "id": "vc_steipete_e6e2473a13",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Will experiment with https://github.com/brunoborges/ghx since I constantly run into GitHub rate limit issues. Team there does the best to help and eve...",
+          "url": "https://x.com/steipete/status/2049244352057094645",
+          "postedAt": "2026-04-28T21:48:21.000Z"
+        },
+        {
+          "id": "vc_dotey_b56eb887d9",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 鸭哥: Meta 花 20 亿买 Manus，Musk 给 Cursor 开了 600 亿收购选项。中文互联网最常见的反应：套壳，冲动消费。 这个判断方向性地错了。 Manus 在所有人照搬...",
+          "url": "https://x.com/dotey/status/2049271531235123287",
+          "postedAt": "2026-04-28T21:32:02.000Z"
+        },
+        {
+          "id": "vc_sama_4122c8e7f1",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "wow y'all love 5.5 we should think of something nice to do to celebrate!",
+          "url": "https://x.com/sama/status/2049235284655780000",
+          "postedAt": "2026-04-28T21:12:19.000Z"
+        },
+        {
+          "id": "vc_steipete_a275cab364",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Andrew Carr 🤸: Poor codex",
+          "url": "https://x.com/steipete/status/2049278459596190086",
+          "postedAt": "2026-04-28T20:53:29.000Z"
+        },
+        {
+          "id": "vc_dotey_34f5d22e32",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Mitchell Hashimoto 宣布，他的开源终端模拟器 Ghostty 将从 GitHub 迁出。 【注：Mitchell Hashimoto 是 Vagrant 和 Terraform 的创造者，HashiCorp 联合创始人...",
+          "url": "https://x.com/dotey/status/2049219569445732851",
+          "postedAt": "2026-04-28T20:09:52.000Z"
+        },
+        {
+          "id": "vc_steipete_b25827e632",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Mitchell Hashimoto: Ghostty is leaving GitHub. I'm GitHub user 1299, joined Feb 2008. I've visited GitHub almost every single day for over 18 years...",
+          "url": "https://x.com/steipete/status/2049244493526782116",
+          "postedAt": "2026-04-28T19:46:08.000Z"
+        },
+        {
+          "id": "vc_dotey_d12b172ecf",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "ByteByteGo 画的 MCP 和 Agent Skills 的对比图，比 AI 画的还是精致多了。 不过这种图的问题，就是你懂的话一看就很清晰，不懂的话看图还是看不懂。",
+          "url": "https://x.com/dotey/status/2049200788451246188",
+          "postedAt": "2026-04-28T18:55:14.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_3e3f37e02e",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Very interested in this I used to build web apps with GUI; now I just share GitHub repos with the code and people can customize the UI however they li...",
+          "url": "https://x.com/zarazhangrui/status/2049186121314415054",
+          "postedAt": "2026-04-28T17:56:58.000Z"
         },
         {
           "id": "vc_gdb_7c585fd5ac",
@@ -124,51 +235,6 @@
           "postedAt": "2026-04-28T13:22:46.000Z"
         },
         {
-          "id": "vc_turingou_f9454bf9ef",
-          "source": "turingou",
-          "sourceName": "土井",
-          "platform": "x",
-          "title": "这个视频确实做的很好，有种古早 nike 广告的感觉！我突然想到能不能用 AI 来做纪录片电影，通过虚拟的人物回顾某人的一生。",
-          "url": "https://x.com/turingou/status/2049113880346202490",
-          "postedAt": "2026-04-28T13:09:54.000Z"
-        },
-        {
-          "id": "vc_turingou_368683b303",
-          "source": "turingou",
-          "sourceName": "土井",
-          "platform": "x",
-          "title": "AI 编舞是个很有意思的想法，也许我可以沿着 http://yuragi.fm 的思路往下做，生成对应音乐的舞蹈视频",
-          "url": "https://x.com/turingou/status/2049109780678299736",
-          "postedAt": "2026-04-28T12:53:36.000Z"
-        },
-        {
-          "id": "vc_turingou_4a1ef25e80",
-          "source": "turingou",
-          "sourceName": "土井",
-          "platform": "x",
-          "title": "每次我有视频类的内容（譬如采访或分享）我都避免去看视频本身和底下的评论。因为不看都知道无非就是几类内容：胖了丑了秃了，哗众取宠，幸存者效应。我不是说不...",
-          "url": "https://x.com/turingou/status/2049102809652678806",
-          "postedAt": "2026-04-28T12:25:54.000Z"
-        },
-        {
-          "id": "vc_turingou_e2a362f618",
-          "source": "turingou",
-          "sourceName": "土井",
-          "platform": "x",
-          "title": "一个月之前我写了个脚本让 cc 天天抢东京意大利签证预约日期，修复了至少七八次在流程上的问题（有空位但是没有抢成功）到后来我都烦了，想着算了吧，我直接改个...",
-          "url": "https://x.com/turingou/status/2049100897725399196",
-          "postedAt": "2026-04-28T12:18:19.000Z"
-        },
-        {
-          "id": "vc_steipete_8f16ba1e30",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "gogcli 0.14.0 🧭 🔐 Encrypted Google backups (local+encrypted Git) 📬 Resumable Gmail + Drive export 📝 Markdown Gmail mirrors 📇 vCard cont...",
-          "url": "https://x.com/steipete/status/2049070417931853997",
-          "postedAt": "2026-04-28T10:17:12.000Z"
-        },
-        {
           "id": "vc_Khazix0918_a34d90ed77",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -176,15 +242,6 @@
           "title": "今天我给所有小伙伴做了个内部分享会。 经常看我文章的朋友们都知道，我真的非常非常鼓励我们公司小伙伴玩coding。 今天，终于把开发了很久的东西整的差不多了，...",
           "url": "https://x.com/Khazix0918/status/2049066945677566074",
           "postedAt": "2026-04-28T10:03:24.000Z"
-        },
-        {
-          "id": "vc_steipete_389bb8e98c",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT VanillaCache: Re @steipete when the API says no, the DOM says yes",
-          "url": "https://x.com/steipete/status/2049037306544222515",
-          "postedAt": "2026-04-28T08:02:26.000Z"
         },
         {
           "id": "vc_zarazhangrui_013feff0e1",
@@ -196,24 +253,6 @@
           "postedAt": "2026-04-28T07:24:55.000Z"
         },
         {
-          "id": "vc_steipete_b065db84e8",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Shakker: OpenClaw's first output dropped from 1s to 43ms. Plugin bootstrap went from 265ms to 8ms. Provider capability resolution from 49ms to 1.5m...",
-          "url": "https://x.com/steipete/status/2049012392869138842",
-          "postedAt": "2026-04-28T06:21:37.000Z"
-        },
-        {
-          "id": "vc_steipete_93abb5a054",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Damián: I’ve been running an “enterprise” openclaw install with 300 users @steipete (gcp, gke, gvisor sandbox, read only workspaces, etc) conne...",
-          "url": "https://x.com/steipete/status/2049015421236384185",
-          "postedAt": "2026-04-28T05:59:37.000Z"
-        },
-        {
           "id": "vc_sama_8fef9a65f5",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -221,55 +260,10 @@
           "title": "RT Tibo: Don't just reset Codex rate limits for fun, it costs money. Don't just reset Codex rate limits for fun, it costs money. ... but the vibes are...",
           "url": "https://x.com/sama/status/2049122740532363331",
           "postedAt": "2026-04-28T05:28:43.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_f0f0b9cd3f",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2048972290063548417",
-          "url": "https://x.com/Khazix0918/status/2048983462942789978",
-          "postedAt": "2026-04-28T04:31:40.000Z"
-        },
-        {
-          "id": "vc_gdb_f0246da4a6",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "shipping for our users",
-          "url": "https://x.com/gdb/status/2048968620701794734",
-          "postedAt": "2026-04-28T03:32:41.000Z"
-        },
-        {
-          "id": "vc_sama_d6c7cf24be",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "RT Tibo: We will ship again this week. Codex has achieved escape velocity and will keep improving rapidly.",
-          "url": "https://x.com/sama/status/2048966832812659128",
-          "postedAt": "2026-04-28T02:52:46.000Z"
-        },
-        {
-          "id": "vc_steipete_9328f2f5e0",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Finally have great solutions for PR/Issue management, remote test execution, massive CI infra for testing. Streamlines a lot of the work.",
-          "url": "https://x.com/steipete/status/2048957477106938075",
-          "postedAt": "2026-04-28T02:48:24.000Z"
-        },
-        {
-          "id": "vc_gdb_b54fbef0cc",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "productive happy hour with a number of openai engineering managers today",
-          "url": "https://x.com/gdb/status/2048940671487152366",
-          "postedAt": "2026-04-28T01:41:38.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-28T14:41:29.128Z",
+      "lastUpdated": "2026-04-29T02:38:31.793Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -308,6 +302,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_3a42ba3cda",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Your Couch-to-5K for AI",
+          "url": "https://www.lennysnewsletter.com/p/your-couch-to-5k-for-ai",
+          "postedAt": "2026-04-28T15:31:24.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_b11527e11a",
           "source": "Lenny's Podcast",
@@ -389,14 +391,6 @@
           "postedAt": "2026-04-20T15:33:11.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_404617b74a",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How Intercom 2x’d their engineering velocity in 9 months with Claude Code | Brian Scanlan",
-          "url": "https://www.lennysnewsletter.com/p/how-intercom-2xd-their-engineering",
-          "postedAt": "2026-04-20T12:03:25.000Z"
-        },
-        {
           "id": "en_pod_lex_fridman_podcast_3f79be977b",
           "source": "Lex Fridman Podcast",
           "platform": "podcast",
@@ -461,7 +455,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-28T14:41:30.339Z",
+      "lastUpdated": "2026-04-29T02:38:36.435Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -554,6 +548,118 @@
       },
       "articles": [
         {
+          "id": "om_12b4ca81ca",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "It’s primetime for conspiracy theorist video creators",
+          "url": "https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag",
+          "postedAt": "2026-04-28T23:31:53.000Z"
+        },
+        {
+          "id": "om_09558a0d19",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Life stage matters more than age for in-app brand promotions",
+          "url": "https://www.socialmediatoday.com/news/life-stage-matters-more-than-age-for-in-app-brand-promotions/818771/",
+          "postedAt": "2026-04-28T21:04:01.000Z"
+        },
+        {
+          "id": "om_2b23a1e731",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Snowflake helps unlock data collaborations with consent signals from OneTrust",
+          "url": "https://www.marketingdive.com/news/snowflake-helps-unlock-data-collaborations-with-consent-signals-from-onetru/818586/",
+          "postedAt": "2026-04-28T21:00:00.000Z"
+        },
+        {
+          "id": "om_4b4577a90e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Omnicom Focuses Investors on ‘Core Operations’ in Q1 as It Plans to Offload Agencies",
+          "url": "https://www.adweek.com/agencies/omnicom-focuses-investors-on-core-operations-in-q1-as-it-plans-to-offload-agencies/",
+          "postedAt": "2026-04-28T18:04:13.000Z"
+        },
+        {
+          "id": "om_0368fcd392",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How Adobe is building AI and agentic tools for brands—while keeping an eye on actual adoption",
+          "url": "https://www.marketingbrew.com/stories/2026/04/28/adobe-ai-agentic-tools-brands-adoption-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-04-28T17:06:32.000Z"
+        },
+        {
+          "id": "om_ce1dd2e48f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Birdy Grey taps Stanley 1913 vet as chief growth officer",
+          "url": "https://www.retaildive.com/news/birdy-grey-taps-stanley-1913-vet-as-chief-growth-officer/818651/",
+          "postedAt": "2026-04-28T17:04:00.000Z"
+        },
+        {
+          "id": "om_60386bc415",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Bed Bath & Beyond CEO: AI will lead to ‘significant reduction in headcount’",
+          "url": "https://www.retaildive.com/news/bed-bath-beyond-ai-layoffs-first-quarter-earnings/818691/",
+          "postedAt": "2026-04-28T16:45:00.000Z"
+        },
+        {
+          "id": "om_7ce9a07710",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Funnel Is Dead: Now What?",
+          "url": "https://www.adweek.com/brand-marketing/the-funnel-is-dead-now-what/",
+          "postedAt": "2026-04-28T16:37:27.000Z"
+        },
+        {
+          "id": "om_d099bd3efe",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Mastercard Is Building for a World Where AI Makes the Decisions",
+          "url": "https://www.adweek.com/brand-marketing/mastercard-is-building-for-a-world-where-ai-makes-the-decisions/",
+          "postedAt": "2026-04-28T16:27:49.000Z"
+        },
+        {
+          "id": "om_56c72af17e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Pitch Deck: How This Creator-Founded Energy Drink Brand Raised $6 Million",
+          "url": "https://www.adweek.com/commerce/pitch-deck-how-this-creator-founded-energy-drink-brand-raised-6-million/",
+          "postedAt": "2026-04-28T15:52:30.000Z"
+        },
+        {
+          "id": "om_e8b15be004",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "‘Everybody gets it’: Inside the brand partnerships powering ‘The Devil Wears Prada 2’",
+          "url": "https://www.marketingbrew.com/stories/2026/04/28/devil-wears-prada-2-brand-partnerships-strategy-process?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-04-28T15:33:30.000Z"
+        },
+        {
+          "id": "om_f8fd0c81a8",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "H&M launches storefront on Nordstrom’s marketplace",
+          "url": "https://www.retaildive.com/news/hm-launches-online-storefront-nordstrom-marketplace/818652/",
+          "postedAt": "2026-04-28T15:04:00.000Z"
+        },
+        {
+          "id": "om_0bb46a1a3e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "WPP says turnaround is making early progress, but there’s a long road ahead",
+          "url": "https://www.marketingdive.com/news/wpp-turnaround-making-early-progress-but-long-road-ahead/818653/",
+          "postedAt": "2026-04-28T14:58:00.000Z"
+        },
+        {
+          "id": "om_720eeca874",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target requires 150 remote merchandising employees to relocate",
+          "url": "https://www.retaildive.com/news/target-remote-merchandising-employees-relocate-minneapolis-headquarters/818603/",
+          "postedAt": "2026-04-28T14:44:00.000Z"
+        },
+        {
           "id": "om_2301f75e0b",
           "source": "Retail Dive",
           "lang": "en",
@@ -600,122 +706,10 @@
           "title": "Stagwell Eyes SaaS Growth With Agent Cloud Launch for SMBs",
           "url": "https://www.adweek.com/agencies/stagwell-eyes-saas-growth-with-agent-cloud-launch-for-smbs/",
           "postedAt": "2026-04-28T09:00:00.000Z"
-        },
-        {
-          "id": "om_175bf4b6af",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Chipotle Hires Ex-Burger King CMO Fernando Machado as Chief Brand Officer",
-          "url": "https://www.adweek.com/brand-marketing/chipotle-hires-ex-burger-king-cmo-fernando-machado-as-chief-brand-officer/",
-          "postedAt": "2026-04-28T07:48:55.000Z"
-        },
-        {
-          "id": "om_2f777025c4",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "WPP Revenue Falls 8.9% as CEO Cindy Rose Opts Out of Q1 Earnings Call",
-          "url": "https://www.adweek.com/agencies/wpp-revenue-falls-89-as-ceo-cindy-rose-opts-out-of-q1-earnings-call/",
-          "postedAt": "2026-04-28T06:29:12.000Z"
-        },
-        {
-          "id": "om_de1657f02f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Number of CEOs Who See Marketing as Overhead Has Nearly Doubled This Year",
-          "url": "https://www.adweek.com/brand-marketing/the-number-of-ceos-who-see-marketing-as-overhead-has-nearly-doubled-this-year/",
-          "postedAt": "2026-04-28T06:00:00.000Z"
-        },
-        {
-          "id": "om_962031d5fd",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "When It Comes To AI Adoption, Fear Is a Big Factor For Marketers",
-          "url": "https://www.adweek.com/brand-marketing/when-it-comes-to-ai-adoption-fear-is-a-big-factor-for-marketers/",
-          "postedAt": "2026-04-28T06:00:00.000Z"
-        },
-        {
-          "id": "om_9c332c3123",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Budweiser’s World Cup Campaign Tells Fans to Let It Pour",
-          "url": "https://www.adweek.com/creativity/budweisers-world-cup-campaign-tells-fans-to-let-it-pour/",
-          "postedAt": "2026-04-28T05:53:33.000Z"
-        },
-        {
-          "id": "om_b7c3a3816d",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Drizzle on top: a new high-end dog food brand is coming for the 1%",
-          "url": "https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/",
-          "postedAt": "2026-04-28T05:02:04.000Z"
-        },
-        {
-          "id": "om_15a284ccce",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Brands Like Nestlé, Haleon, and Molson Coors Wrestle With Broken Measurement",
-          "url": "https://www.adweek.com/brand-marketing/brands-like-nestle-haleon-and-molson-coors-wrestle-with-broken-measurement/",
-          "postedAt": "2026-04-28T03:33:45.000Z"
-        },
-        {
-          "id": "om_e9ec07d09e",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Google offers new first-party shopper data integration",
-          "url": "https://www.socialmediatoday.com/news/google-offers-new-first-party-shopper-data-integration/818629/",
-          "postedAt": "2026-04-27T21:06:38.000Z"
-        },
-        {
-          "id": "om_9e127345d9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Chipotle appoints Fernando Machado as chief brand officer",
-          "url": "https://www.marketingdive.com/news/chipotle-appoints-fernando-machado-as-chief-brand-officer/818618/",
-          "postedAt": "2026-04-27T21:02:00.000Z"
-        },
-        {
-          "id": "om_96eddaa715",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "EBay scrambles to fix outages",
-          "url": "https://www.retaildive.com/news/ebay-scrambles-fix-outages-marketplace-down/818601/",
-          "postedAt": "2026-04-27T20:22:00.000Z"
-        },
-        {
-          "id": "om_f59d3aa64a",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Consumers lost $2.1B to social media scams in 2025, FTC reports",
-          "url": "https://techcrunch.com/2026/04/27/consumers-lost-2-1-billion-to-social-media-scams-in-2025-ftc-reports/",
-          "postedAt": "2026-04-27T19:09:53.000Z"
-        },
-        {
-          "id": "om_99da4a2597",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Buchanan’s celebrates Latino community, culture ahead of World Cup",
-          "url": "https://www.marketingdive.com/news/buchanans-celebrates-latino-community-culture-ahead-of-world-cup/818587/",
-          "postedAt": "2026-04-27T19:05:00.000Z"
-        },
-        {
-          "id": "om_14040f91b1",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Why Academy Sports & Outdoors is going against the grain with store openings",
-          "url": "https://www.retaildive.com/news/academy-sports-outdoors-store-opening-strategy-small-regional-markets/818215/",
-          "postedAt": "2026-04-27T17:04:00.000Z"
-        },
-        {
-          "id": "om_236176c024",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "VaynerX’s new agency wants to help brands master the attention economy",
-          "url": "https://www.marketingdive.com/news/vaynerxs-new-agency-wants-to-help-brands-master-the-attention-economy/818363/",
-          "postedAt": "2026-04-27T16:30:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-28T14:41:34.402Z",
+      "lastUpdated": "2026-04-29T02:38:44.379Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
