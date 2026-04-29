@@ -33,7 +33,7 @@ function allIntroPhotos(intro){
 function markMissingImages(){
   document.querySelectorAll('img').forEach(img=>{
     const handleMissing=()=>{
-      img.closest('figure,.hero-cover,.chapter-photo,.gallery-tile')?.classList.add('is-missing');
+      img.closest('figure,.hero-cover,.life-scene-photo,.gallery-tile')?.classList.add('is-missing');
     };
     if(img.complete&&img.naturalWidth===0)handleMissing();
     img.addEventListener('error',handleMissing,{once:true});
@@ -81,22 +81,28 @@ function renderHero(intro){
   </section>`;
 }
 
-function renderLifeChapter(item,index){
-  const photos=(item.photos||[]).slice(0,3);
-  const accents=['var(--peach)','var(--mint)','var(--lavender)','var(--sky)'];
-  const photoHTML=photos.length?photos.map((photo,photoIndex)=>`
-    <figure class="chapter-photo" style="--photo-index:${photoIndex}">
-      <img src="${escapeHTML(photo.src)}" alt="${escapeHTML(photo.alt||item.title)}" loading="lazy">
-    </figure>`).join(''):`<div class="empty-photo">Photo slot</div>`;
+function lifePhotos(items){
+  return items.flatMap(item=>(item.photos||[]).map(photo=>({
+    ...photo,
+    chapterTitle:item.title
+  }))).slice(0,6);
+}
 
-  return `<article class="life-chapter reveal" style="--accent:${accents[index%accents.length]}">
-    <div class="chapter-copy">
-      <span class="chapter-year">${escapeHTML(item.year||'Now')}</span>
-      <h3>${escapeHTML(item.title)}</h3>
-      <p>${escapeHTML(item.body)}</p>
-    </div>
-    <div class="chapter-photos" aria-label="${escapeHTML(item.title)} photos">${photoHTML}</div>
+function renderLifePanel(item,index){
+  return `<article class="life-text-panel ${index===0?'is-active':''}" data-life-panel="${index}">
+    <span class="chapter-year">${escapeHTML(item.year||'Now')}</span>
+    <h3>${escapeHTML(item.title)}</h3>
+    <p>${escapeHTML(item.body)}</p>
   </article>`;
+}
+
+function renderLifePhotos(items){
+  const photos=lifePhotos(items);
+  if(!photos.length)return '<div class="empty-photo">Photo slot</div>';
+  return photos.map((photo,index)=>`
+    <figure class="life-scene-photo" style="--photo-index:${index}">
+      <img src="${escapeHTML(photo.src)}" alt="${escapeHTML(photo.alt||photo.chapterTitle||'Life experience photo')}" loading="${index<2?'eager':'lazy'}">
+    </figure>`).join('');
 }
 
 function renderLife(intro){
@@ -106,11 +112,20 @@ function renderLife(intro){
     <div class="section-heading reveal">
       <span class="section-kicker">01</span>
       <h2 class="section-title">${escapeHTML(life?.title||'Life Experience')}</h2>
-      <p class="section-summary">${escapeHTML(life?.summary||'')}</p>
     </div>
-    <div class="chapter-list">
-      ${items.length?items.map(renderLifeChapter).join(''):'<div class="status-message">Add life experience chapters in data.json.</div>'}
-    </div>
+    ${items.length?`<div class="life-scroll-track" style="--life-track-height:${items.length*100}svh;--life-track-height-mobile:${items.length*92}svh">
+      <div class="life-sticky-scene" data-life-scene>
+        <div class="life-copy-stack">
+          ${items.map(renderLifePanel).join('')}
+        </div>
+        <div class="life-photo-composition" aria-label="Life experience photo composition">
+          ${renderLifePhotos(items)}
+        </div>
+        <div class="life-progress-dots" aria-hidden="true">
+          ${items.map((_,index)=>`<span class="${index===0?'is-active':''}" data-life-dot="${index}"></span>`).join('')}
+        </div>
+      </div>
+    </div>`:'<div class="status-message">Add life experience chapters in data.json.</div>'}
   </section>`;
 }
 
@@ -130,7 +145,6 @@ function renderGallery(intro){
     <div class="section-heading reveal">
       <span class="section-kicker">02</span>
       <h2 class="section-title">Hobbies & Casual Activities</h2>
-      <p class="section-summary">${escapeHTML([hobbies?.summary,casual?.summary].filter(Boolean).join(' '))}</p>
     </div>
     ${photos.length?`<div class="masonry-gallery">${photos.map(renderGalleryTile).join('')}</div>`:'<div class="status-message">Add hobby and casual photos in data.json.</div>'}
   </section>`;
@@ -148,10 +162,36 @@ function renderPage(intro){
   ].join('');
   markMissingImages();
   revealOnScroll();
+  updateLifeScene();
 }
 
-window.addEventListener('scroll',revealOnScroll,{passive:true});
-window.addEventListener('load',revealOnScroll);
+let lifeTicking=false;
+function updateLifeScene(){
+  const track=document.querySelector('.life-scroll-track');
+  if(!track)return;
+  const panels=[...document.querySelectorAll('[data-life-panel]')];
+  const dots=[...document.querySelectorAll('[data-life-dot]')];
+  if(!panels.length)return;
+  const rect=track.getBoundingClientRect();
+  const scrollable=Math.max(1,track.offsetHeight-window.innerHeight);
+  const progress=Math.min(1,Math.max(0,-rect.top/scrollable));
+  const activeIndex=Math.min(panels.length-1,Math.floor(progress*panels.length));
+  panels.forEach((panel,index)=>panel.classList.toggle('is-active',index===activeIndex));
+  dots.forEach((dot,index)=>dot.classList.toggle('is-active',index===activeIndex));
+}
+
+function scheduleLifeSceneUpdate(){
+  if(lifeTicking)return;
+  lifeTicking=true;
+  requestAnimationFrame(()=>{
+    updateLifeScene();
+    lifeTicking=false;
+  });
+}
+
+window.addEventListener('scroll',()=>{revealOnScroll();scheduleLifeSceneUpdate();},{passive:true});
+window.addEventListener('resize',scheduleLifeSceneUpdate,{passive:true});
+window.addEventListener('load',()=>{revealOnScroll();updateLifeScene();});
 
 fetch('data.json')
   .then(response=>{

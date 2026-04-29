@@ -53,6 +53,22 @@
                 "alt": "Lavender placeholder for digital notes"
               }
             ]
+          },
+          {
+            "year": "TBD",
+            "title": "Next chapter",
+            "body": "Placeholder copy for Leslie to replace later with the next life experience chapter.",
+            "photos": [
+              {
+                "src": "assets/self-intro/placeholder-sky.svg",
+                "alt": "Sky placeholder for next life chapter",
+                "description": "A temporary slot for the next chapter Leslie wants to add."
+              },
+              {
+                "src": "assets/self-intro/placeholder-rose.svg",
+                "alt": "Rose placeholder for future memory"
+              }
+            ]
           }
         ]
       },
