@@ -206,6 +206,87 @@
       ],
       "articles": [
         {
+          "id": "vc_sama_fd7ca8e679",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "i love that the team does stuff like this",
+          "url": "https://x.com/sama/status/2049492646792757552",
+          "postedAt": "2026-04-29T14:14:59.000Z"
+        },
+        {
+          "id": "vc_sama_c518b2778e",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "RT Greg Brockman: terminal has been my primary interface to my computer for almost two decades. now it’s the Codex app.",
+          "url": "https://x.com/sama/status/2049493182866747765",
+          "postedAt": "2026-04-29T13:15:47.000Z"
+        },
+        {
+          "id": "vc_steipete_3d907119e9",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "And people think tokens are expensive... this is @useblacksmith (they sponsor OpenClaw, 🫶🦞)",
+          "url": "https://x.com/steipete/status/2049462793267458219",
+          "postedAt": "2026-04-29T12:16:21.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_8435feb543",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "👀",
+          "url": "https://x.com/Khazix0918/status/2049413368143049058",
+          "postedAt": "2026-04-29T08:59:57.000Z"
+        },
+        {
+          "id": "vc_steipete_c919fbd12a",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Omar Shahine: In our Project Lobster standup meeting today, we were talking about how we will need a way for our service to fetch files, folders an...",
+          "url": "https://x.com/steipete/status/2049456140367323293",
+          "postedAt": "2026-04-29T05:50:04.000Z"
+        },
+        {
+          "id": "vc_steipete_cb031f2721",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "codex now runs on each commit we land, reviews it - and if a booboo is found, a new codex spins up and (if still relevant) makes a PR for the fix. The...",
+          "url": "https://x.com/steipete/status/2049356949523730699",
+          "postedAt": "2026-04-29T05:15:46.000Z"
+        },
+        {
+          "id": "vc_dotey_87f90f033e",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Amira 这套真实模糊摄影背景 + 霓虹线稿插画的提示词模板很好看👍 --- 提示词 --- 想象一张充满质感的照片：背景是[具体的场景]，阳光明媚地洒下来，带着柔和...",
+          "url": "https://x.com/dotey/status/2049350241816563945",
+          "postedAt": "2026-04-29T04:49:07.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_db49009bd5",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2049343993180532736",
+          "url": "https://x.com/Khazix0918/status/2049345300939391245",
+          "postedAt": "2026-04-29T04:29:29.000Z"
+        },
+        {
+          "id": "vc_steipete_bf9b29c4ce",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Chris: I literally just watched GPT-5.5 via codex beat an Amazon customer associate in real time. 💀 I asked it to get me a refund, and I watched...",
+          "url": "https://x.com/steipete/status/2049452008197771540",
+          "postedAt": "2026-04-29T04:14:29.000Z"
+        },
+        {
           "id": "vc_gdb_47403f2fc8",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -222,15 +303,6 @@
           "title": "I'm now spinning up a codex instance on every commit landing on main, looking for booboos (regressions, security issues) It's live for 10 min and alre...",
           "url": "https://x.com/steipete/status/2049290741013262522",
           "postedAt": "2026-04-29T00:52:41.000Z"
-        },
-        {
-          "id": "vc_steipete_98c078168b",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "I smell a leak.",
-          "url": "https://x.com/steipete/status/2049290265026773172",
-          "postedAt": "2026-04-29T00:50:47.000Z"
         },
         {
           "id": "vc_dotey_a4c79f3996",
@@ -260,15 +332,6 @@
           "postedAt": "2026-04-28T22:43:30.000Z"
         },
         {
-          "id": "vc_steipete_e6e2473a13",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Will experiment with https://github.com/brunoborges/ghx since I constantly run into GitHub rate limit issues. Team there does the best to help and eve...",
-          "url": "https://x.com/steipete/status/2049244352057094645",
-          "postedAt": "2026-04-28T21:48:21.000Z"
-        },
-        {
           "id": "vc_dotey_b56eb887d9",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -287,15 +350,6 @@
           "postedAt": "2026-04-28T21:12:19.000Z"
         },
         {
-          "id": "vc_steipete_a275cab364",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Andrew Carr 🤸: Poor codex",
-          "url": "https://x.com/steipete/status/2049278459596190086",
-          "postedAt": "2026-04-28T20:53:29.000Z"
-        },
-        {
           "id": "vc_dotey_34f5d22e32",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -303,24 +357,6 @@
           "title": "Mitchell Hashimoto 宣布，他的开源终端模拟器 Ghostty 将从 GitHub 迁出。 【注：Mitchell Hashimoto 是 Vagrant 和 Terraform 的创造者，HashiCorp 联合创始人...",
           "url": "https://x.com/dotey/status/2049219569445732851",
           "postedAt": "2026-04-28T20:09:52.000Z"
-        },
-        {
-          "id": "vc_steipete_b25827e632",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Mitchell Hashimoto: Ghostty is leaving GitHub. I'm GitHub user 1299, joined Feb 2008. I've visited GitHub almost every single day for over 18 years...",
-          "url": "https://x.com/steipete/status/2049244493526782116",
-          "postedAt": "2026-04-28T19:46:08.000Z"
-        },
-        {
-          "id": "vc_dotey_d12b172ecf",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "ByteByteGo 画的 MCP 和 Agent Skills 的对比图，比 AI 画的还是精致多了。 不过这种图的问题，就是你懂的话一看就很清晰，不懂的话看图还是看不懂。",
-          "url": "https://x.com/dotey/status/2049200788451246188",
-          "postedAt": "2026-04-28T18:55:14.000Z"
         },
         {
           "id": "vc_zarazhangrui_3e3f37e02e",
@@ -348,46 +384,10 @@
           "title": "imagegen changing how product ideas are shared",
           "url": "https://x.com/gdb/status/2049120845985923316",
           "postedAt": "2026-04-28T13:37:35.000Z"
-        },
-        {
-          "id": "vc_gdb_f87a633588",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "GPT-5.5 can follow your requested response style",
-          "url": "https://x.com/gdb/status/2049117119049015720",
-          "postedAt": "2026-04-28T13:22:46.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_a34d90ed77",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "今天我给所有小伙伴做了个内部分享会。 经常看我文章的朋友们都知道，我真的非常非常鼓励我们公司小伙伴玩coding。 今天，终于把开发了很久的东西整的差不多了，...",
-          "url": "https://x.com/Khazix0918/status/2049066945677566074",
-          "postedAt": "2026-04-28T10:03:24.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_013feff0e1",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "The most sophisticated AI users I know are talking to just ONE agent daily, not multiple agents That agents will then assign tasks to other subagents/...",
-          "url": "https://x.com/zarazhangrui/status/2049027061768192288",
-          "postedAt": "2026-04-28T07:24:55.000Z"
-        },
-        {
-          "id": "vc_sama_8fef9a65f5",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "RT Tibo: Don't just reset Codex rate limits for fun, it costs money. Don't just reset Codex rate limits for fun, it costs money. ... but the vibes are...",
-          "url": "https://x.com/sama/status/2049122740532363331",
-          "postedAt": "2026-04-28T05:28:43.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-29T04:02:28.308Z",
+      "lastUpdated": "2026-04-29T14:30:44.169Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -579,7 +579,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-29T04:02:29.402Z",
+      "lastUpdated": "2026-04-29T14:30:45.614Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -672,12 +672,68 @@
       },
       "articles": [
         {
-          "id": "om_12b4ca81ca",
+          "id": "om_b8ac5713da",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Fossil sees 57% brand recall lift with InMobi’s full-funnel ad solution",
+          "url": "https://www.marketingdive.com/news/fossil-sees-57-brand-recall-lift-with-inmobis-full-funnel-ad-solution/818727/",
+          "postedAt": "2026-04-29T13:00:00.000Z"
+        },
+        {
+          "id": "om_762cf33042",
           "source": "The Verge",
           "lang": "en",
-          "title": "It’s primetime for conspiracy theorist video creators",
-          "url": "https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag",
-          "postedAt": "2026-04-28T23:31:53.000Z"
+          "title": "Taylor Swift deepfakes are pushing scams on TikTok",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
+          "postedAt": "2026-04-29T12:47:18.000Z"
+        },
+        {
+          "id": "om_e2d23dbc49",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Coors Light elongates name to celebrate World Cup goals",
+          "url": "https://www.marketingdive.com/news/coors-light-elongates-name-to-celebrate-world-cup-goals/818747/",
+          "postedAt": "2026-04-29T10:00:00.000Z"
+        },
+        {
+          "id": "om_5064486430",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Omnicom Sunsets Two More Agencies Under New Lola USA Brand",
+          "url": "https://www.adweek.com/agencies/omnicom-sunsets-two-more-agencies-under-new-lola-usa-brand/",
+          "postedAt": "2026-04-29T09:00:00.000Z"
+        },
+        {
+          "id": "om_b1ad95ce3f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Marketers Are Misrepresenting Rural America—and Overlooking 46 Million People",
+          "url": "https://www.adweek.com/brand-marketing/marketers-are-misrepresenting-rural-americaand-overlooking-46-million-people/",
+          "postedAt": "2026-04-29T08:30:00.000Z"
+        },
+        {
+          "id": "om_7c0bdae268",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Legacy Brands Don’t Need a Rebrand—They Need a Reintroduction",
+          "url": "https://www.adweek.com/brand-marketing/legacy-brands-dont-need-a-rebrand-they-need-a-reintroduction/",
+          "postedAt": "2026-04-29T08:30:00.000Z"
+        },
+        {
+          "id": "om_f5c0488f79",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Dhar Mann Bets on Speed Dating to Fix Creator-Brand Matchmaking",
+          "url": "https://www.adweek.com/commerce/dhar-mann-bets-on-speed-dating-to-fix-creator-brand-matchmaking/",
+          "postedAt": "2026-04-29T06:00:00.000Z"
+        },
+        {
+          "id": "om_0b36d050a3",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Supergoop Partners With Target and the PGA as It Chases Mass Appeal",
+          "url": "https://www.adweek.com/commerce/supergoop-partners-with-target-and-the-pga-as-it-chases-mass-appeal/",
+          "postedAt": "2026-04-29T06:00:00.000Z"
         },
         {
           "id": "om_09558a0d19",
@@ -688,11 +744,11 @@
           "postedAt": "2026-04-28T21:04:01.000Z"
         },
         {
-          "id": "om_2b23a1e731",
+          "id": "om_165a03982f",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Snowflake helps unlock data collaborations with consent signals from OneTrust",
-          "url": "https://www.marketingdive.com/news/snowflake-helps-unlock-data-collaborations-with-consent-signals-from-onetru/818586/",
+          "url": "https://www.marketingdive.com/news/snowflake-helps-unlock-data-collaborations-consent-signals-from-onetrust/818586/",
           "postedAt": "2026-04-28T21:00:00.000Z"
         },
         {
@@ -736,22 +792,6 @@
           "postedAt": "2026-04-28T16:37:27.000Z"
         },
         {
-          "id": "om_d099bd3efe",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Mastercard Is Building for a World Where AI Makes the Decisions",
-          "url": "https://www.adweek.com/brand-marketing/mastercard-is-building-for-a-world-where-ai-makes-the-decisions/",
-          "postedAt": "2026-04-28T16:27:49.000Z"
-        },
-        {
-          "id": "om_56c72af17e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Pitch Deck: How This Creator-Founded Energy Drink Brand Raised $6 Million",
-          "url": "https://www.adweek.com/commerce/pitch-deck-how-this-creator-founded-energy-drink-brand-raised-6-million/",
-          "postedAt": "2026-04-28T15:52:30.000Z"
-        },
-        {
           "id": "om_e8b15be004",
           "source": "Marketing Brew",
           "lang": "en",
@@ -790,50 +830,10 @@
           "title": "Williams-Sonoma relaunches Dormify",
           "url": "https://www.retaildive.com/news/williams-sonoma-relaunches-dormify-college-decor-brand/818595/",
           "postedAt": "2026-04-28T14:09:00.000Z"
-        },
-        {
-          "id": "om_5c57def217",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Snapchat brings AI-powered conversational advertising to its app",
-          "url": "https://techcrunch.com/2026/04/28/snapchat-brings-ai-powered-conversational-advertising-to-its-app/",
-          "postedAt": "2026-04-28T13:57:19.000Z"
-        },
-        {
-          "id": "om_b6c4e8e694",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
-          "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
-          "postedAt": "2026-04-28T13:19:34.000Z"
-        },
-        {
-          "id": "om_b907ec49ad",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Get Ready for More Brain-Scanning Consumer Gadgets",
-          "url": "https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/",
-          "postedAt": "2026-04-28T13:00:00.000Z"
-        },
-        {
-          "id": "om_e0aaac572d",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "CMOs built up CEO trust. Now they must prove they can drive growth.",
-          "url": "https://www.marketingdive.com/news/cmos-built-up-ceo-trust-now-they-must-prove-they-can-drive-growth/818573/",
-          "postedAt": "2026-04-28T10:00:00.000Z"
-        },
-        {
-          "id": "om_24751c1943",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Stagwell Eyes SaaS Growth With Agent Cloud Launch for SMBs",
-          "url": "https://www.adweek.com/agencies/stagwell-eyes-saas-growth-with-agent-cloud-launch-for-smbs/",
-          "postedAt": "2026-04-28T09:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-29T04:02:31.374Z",
+      "lastUpdated": "2026-04-29T14:30:48.038Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
