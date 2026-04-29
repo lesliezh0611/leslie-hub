@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-label="Self intro photo placeholder">
+  <rect width="900" height="1100" fill="#FFC8D8"/>
+  <circle cx="640" cy="250" r="112" fill="#FFFFFF" opacity=".58"/>
+  <path d="M75 810 C230 600 385 715 505 535 C625 355 760 430 840 280 L840 1100 L75 1100 Z" fill="#006653" opacity=".14"/>
+  <rect x="90" y="825" width="720" height="130" rx="65" fill="#FFFFFF" opacity=".82"/>
+  <text x="450" y="905" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="52" font-weight="800" fill="#111827">Add photo</text>
+</svg>

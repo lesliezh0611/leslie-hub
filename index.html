@@ -148,7 +148,7 @@ p{color:var(--muted)}
 .action-link{border:var(--border);background:rgba(255,255,255,0.74);color:var(--ink)}
 .button-link{background:var(--black);color:var(--paper);box-shadow:var(--shadow-tight)}
 .action-link:hover,.button-link:hover{transform:translateY(-2px);box-shadow:var(--shadow)}
-.button-link:focus-visible,.action-link:focus-visible,.nav-link:focus-visible,.mini-card:focus-visible,.module-link:focus-visible{outline:3px solid var(--yellow);outline-offset:3px}
+.button-link:focus-visible,.action-link:focus-visible,.nav-link:focus-visible,.mini-card:focus-visible,.module-link:focus-visible,.intro-link:focus-visible{outline:3px solid var(--yellow);outline-offset:3px}
 
 .hero{
   position:relative;
@@ -263,7 +263,7 @@ p{color:var(--muted)}
 .info-cell-label{font-size:0.72rem;font-weight:900;text-transform:uppercase;color:var(--muted)}
 .info-cell-value{margin-top:4px;font-family:var(--font-heading);font-size:1.05rem;font-weight:800;color:var(--ink);word-break:break-word}
 
-.hero-nav{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.hero-nav{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
 .mini-card{
   min-height:148px;
   display:flex;
@@ -277,9 +277,10 @@ p{color:var(--muted)}
   color:var(--ink);
   transition:transform var(--transition),box-shadow var(--transition);
 }
-.mini-card:nth-child(1){--accent:var(--peach);transform:rotate(-2deg)}
-.mini-card:nth-child(2){--accent:var(--lavender);transform:rotate(1.5deg)}
-.mini-card:nth-child(3){--accent:var(--sky);transform:rotate(-1deg)}
+.mini-card:nth-child(1){--accent:var(--yellow);transform:rotate(-2deg)}
+.mini-card:nth-child(2){--accent:var(--peach);transform:rotate(1.5deg)}
+.mini-card:nth-child(3){--accent:var(--lavender);transform:rotate(-1deg)}
+.mini-card:nth-child(4){--accent:var(--sky);transform:rotate(1deg)}
 .mini-card:hover{transform:translateY(-6px) rotate(0deg);box-shadow:var(--shadow)}
 .mini-card span{font-size:0.8rem;font-weight:900;text-transform:uppercase;color:var(--green-dark)}
 .mini-card strong{display:block;font-family:var(--font-heading);font-size:1.7rem;line-height:1.2;color:var(--black)}
@@ -312,6 +313,101 @@ p{color:var(--muted)}
 }
 .section-title{margin-top:18px;font-size:3.7rem;font-weight:800;line-height:1.2}
 .section-desc{margin-top:18px;max-width:360px;font-weight:600}
+
+.intro-panel{
+  grid-template-columns:1fr;
+  gap:28px;
+  overflow:hidden;
+  background:
+    linear-gradient(135deg,rgba(255,232,140,0.28),transparent 42%),
+    radial-gradient(circle,rgba(0,102,83,0.11) 1px,transparent 1.4px) 0 0/20px 20px,
+    var(--paper);
+}
+.intro-panel .section-header{
+  display:grid;
+  grid-template-columns:minmax(0,0.86fr) minmax(260px,0.58fr);
+  align-items:end;
+  gap:26px;
+}
+.intro-panel .section-title{margin-top:14px}
+.intro-panel .section-desc{max-width:720px}
+.intro-cta{
+  justify-self:end;
+  align-self:end;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  min-height:44px;
+  padding:0 18px;
+  border-radius:999px;
+  background:var(--black);
+  color:var(--paper);
+  font-size:0.88rem;
+  font-weight:900;
+  transition:transform var(--transition),box-shadow var(--transition);
+}
+.intro-cta:hover{transform:translateY(-2px);box-shadow:var(--shadow-tight)}
+.intro-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.intro-card{
+  min-height:250px;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+  gap:18px;
+  padding:22px;
+  border:var(--border);
+  border-radius:28px;
+  background:var(--accent,var(--peach));
+  box-shadow:var(--shadow-tight);
+  transition:transform var(--transition),box-shadow var(--transition);
+}
+.intro-card:nth-child(1){--accent:var(--peach);transform:rotate(-1.4deg)}
+.intro-card:nth-child(2){--accent:var(--mint);transform:rotate(1.2deg)}
+.intro-card:nth-child(3){--accent:var(--lavender);transform:rotate(-0.7deg)}
+.intro-card:nth-child(4){--accent:var(--sky);transform:rotate(1.4deg)}
+.intro-card:hover{transform:translateY(-6px) rotate(0deg);box-shadow:var(--shadow)}
+.intro-index{font-size:0.76rem;font-weight:900;text-transform:uppercase;color:var(--green-dark)}
+.intro-card h3{font-size:1.55rem;color:var(--ink)}
+.intro-card p{font-weight:700;color:rgba(17,24,39,0.74)}
+.intro-photo-strip{
+  position:relative;
+  min-height:150px;
+  margin-top:4px;
+}
+.intro-photo{
+  position:absolute;
+  inset:0 auto auto 50%;
+  width:min(43%,142px);
+  aspect-ratio:4/5;
+  border:var(--border);
+  border-radius:22px;
+  background:
+    linear-gradient(145deg,rgba(255,255,255,0.55),rgba(255,255,255,0.08)),
+    var(--photo-bg,var(--yellow));
+  box-shadow:var(--shadow-tight);
+  transform:translateX(calc(-50% + var(--x,0px))) rotate(var(--r,0deg));
+  transition:transform 220ms ease,filter 220ms ease;
+}
+.intro-photo:nth-child(1){--x:-68px;--r:-8deg;--photo-bg:var(--yellow)}
+.intro-photo:nth-child(2){--x:0px;--r:2deg;--photo-bg:var(--rose)}
+.intro-photo:nth-child(3){--x:68px;--r:8deg;--photo-bg:var(--sky)}
+.intro-photo-strip:hover .intro-photo:nth-child(1){transform:translateX(calc(-50% - 92px)) rotate(-12deg)}
+.intro-photo-strip:hover .intro-photo:nth-child(2){transform:translateX(-50%) translateY(-8px) rotate(0deg)}
+.intro-photo-strip:hover .intro-photo:nth-child(3){transform:translateX(calc(-50% + 92px)) rotate(12deg)}
+.intro-photo::after{
+  content:attr(data-caption);
+  position:absolute;
+  left:10px;
+  right:10px;
+  bottom:10px;
+  padding:6px 8px;
+  border-radius:999px;
+  background:rgba(255,255,255,0.82);
+  color:var(--ink);
+  font-size:0.68rem;
+  font-weight:900;
+  text-align:center;
+}
 
 .curriculum-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
 .curriculum-card{
@@ -457,7 +553,10 @@ p{color:var(--muted)}
   .hero-title{font-size:5rem}
   .hero-card{justify-self:start;max-width:420px}
   .section-panel{grid-template-columns:1fr}
-  .curriculum-grid,.explore-grid{grid-template-columns:1fr}
+  .intro-panel .section-header{grid-template-columns:1fr}
+  .intro-cta{justify-self:start}
+  .intro-grid,.curriculum-grid,.explore-grid{grid-template-columns:1fr}
+  .intro-card{min-height:auto;transform:none!important}
   .submodule-card{min-height:auto;transform:none!important}
 }
 
@@ -475,8 +574,9 @@ p{color:var(--muted)}
     justify-content:center;
     gap:4px;
     padding:6px;
+    flex-wrap:wrap;
   }
-  .nav-link{flex:1;justify-content:center;min-height:42px;padding:0 8px;font-size:0.78rem}
+  .nav-link{flex:1 1 30%;justify-content:center;min-height:42px;padding:0 8px;font-size:0.78rem}
   .hero{min-height:auto;margin-bottom:26px}
   .hero-panel{padding:28px 18px;border-radius:28px;gap:26px}
   .hero-panel::before{width:84px;height:84px;right:14px;top:14px}
@@ -490,6 +590,12 @@ p{color:var(--muted)}
   .section{padding:18px 0}
   .section-panel{padding:24px 18px;border-radius:26px;gap:24px}
   .section-title{font-size:2.7rem}
+  .intro-photo-strip{min-height:128px}
+  .intro-photo{width:min(48%,120px)}
+  .intro-photo:nth-child(1){--x:-48px}
+  .intro-photo:nth-child(3){--x:48px}
+  .intro-photo-strip:hover .intro-photo:nth-child(1){transform:translateX(calc(-50% - 54px)) rotate(-8deg)}
+  .intro-photo-strip:hover .intro-photo:nth-child(3){transform:translateX(calc(-50% + 54px)) rotate(8deg)}
   .curriculum-card{min-height:190px}
   .curriculum-score{font-size:3.6rem}
   .placeholder-section{grid-template-columns:1fr;padding:22px}
@@ -515,6 +621,7 @@ p{color:var(--muted)}
     <nav aria-label="Primary navigation">
       <ul class="nav-links" id="navLinks">
         <li><a href="#basic" class="nav-link">Home</a></li>
+        <li><a href="#self-intro" class="nav-link">Self Intro</a></li>
         <li><a href="#curriculum" class="nav-link">Curriculum</a></li>
         <li><a href="#explore" class="nav-link">Explore</a></li>
         <li><a href="#comments" class="nav-link">Comments</a></li>
@@ -532,12 +639,27 @@ p{color:var(--muted)}
         <div class="hero-copy">
           <div id="heroText"></div>
           <div class="hero-nav" aria-label="Section shortcuts">
-            <a class="mini-card" href="#curriculum"><span>01</span><strong>Curriculum</strong></a>
-            <a class="mini-card" href="#explore"><span>02</span><strong>Explore</strong></a>
-            <a class="mini-card" href="#comments"><span>03</span><strong>Comments</strong></a>
+            <a class="mini-card" href="#self-intro"><span>01</span><strong>Self Intro</strong></a>
+            <a class="mini-card" href="#curriculum"><span>02</span><strong>Curriculum</strong></a>
+            <a class="mini-card" href="#explore"><span>03</span><strong>Explore</strong></a>
+            <a class="mini-card" href="#comments"><span>04</span><strong>Comments</strong></a>
           </div>
         </div>
         <aside class="hero-card" id="heroCard" aria-label="Profile summary"></aside>
+      </div>
+    </section>
+
+    <section class="section" id="self-intro">
+      <div class="section-panel reveal intro-panel">
+        <div class="section-header">
+          <div>
+            <span class="section-tag">Personal Side</span>
+            <h2 class="section-title">Self Intro</h2>
+            <p class="section-desc" id="introSummary">Life experience, photos, hobbies, and casual activities outside the serious dashboard.</p>
+          </div>
+          <a class="intro-cta intro-link" href="self-intro.html">Open Full Intro</a>
+        </div>
+        <div class="intro-grid" id="introGrid"></div>
       </div>
     </section>
 
@@ -647,6 +769,34 @@ function renderProfile(p){
     </div>`;
 }
 
+function selfIntroPhotos(intro){
+  const photoSection=(intro.sections||[]).find(section=>section.id==='photos');
+  return (photoSection?.photos||[]).slice(0,3);
+}
+
+function renderSelfIntro(intro){
+  if(!intro)return;
+  const grid=document.getElementById('introGrid');
+  const summary=document.getElementById('introSummary');
+  if(summary)summary.textContent=intro.subtitle||summary.textContent;
+  const photos=selfIntroPhotos(intro);
+  const cards=(intro.sections||[]).slice(0,4).map((section,index)=>{
+    const isPhotos=section.id==='photos';
+    const photoFan=isPhotos&&photos.length?`<div class="intro-photo-strip" aria-label="Photo preview">
+      ${photos.map(photo=>`<span class="intro-photo" data-caption="${escapeHTML(photo.caption||section.title)}"></span>`).join('')}
+    </div>`:'';
+    return `<article class="intro-card reveal">
+      <div>
+        <span class="intro-index">${String(index+1).padStart(2,'0')}</span>
+        <h3>${escapeHTML(section.title)}</h3>
+        <p>${escapeHTML(section.summary)}</p>
+      </div>
+      ${photoFan||`<a class="intro-link module-link" href="self-intro.html#${escapeHTML(section.id)}">Explore ${escapeHTML(section.title)}</a>`}
+    </article>`;
+  }).join('');
+  grid.innerHTML=cards;
+}
+
 function renderCurriculum(c){
   let html=`<article class="curriculum-card reveal"><div class="curriculum-icon">Overall</div><h3>GPA</h3><div class="curriculum-score">${escapeHTML(c.gpa)}</div><p class="curriculum-sub">Cumulative score snapshot</p></article>`;
   c.courses.forEach(course=>{
@@ -737,6 +887,7 @@ fetch('data.json')
   })
   .then(data=>{
     renderProfile(data.profile);
+    renderSelfIntro(data.selfIntro);
     renderCurriculum(data.curriculum);
     renderExplore(data.explore);
     revealOnScroll();
