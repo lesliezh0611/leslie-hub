@@ -89,6 +89,19 @@
               {
                 "src": "assets/self-intro/placeholder-sky.svg",
                 "alt": "Sky placeholder for film and podcast notes"
+              },
+              {
+                "src": "assets/self-intro/placeholder-peach.svg",
+                "alt": "Peach placeholder for reading notes",
+                "description": "A placeholder for book lines, podcast moments, and saved expressions."
+              },
+              {
+                "src": "assets/self-intro/placeholder-mint.svg",
+                "alt": "Mint placeholder for language practice"
+              },
+              {
+                "src": "assets/self-intro/placeholder-rose.svg",
+                "alt": "Rose placeholder for film memory"
               }
             ]
           },
@@ -104,6 +117,19 @@
               {
                 "src": "assets/self-intro/placeholder-green.svg",
                 "alt": "Green placeholder for product thinking"
+              },
+              {
+                "src": "assets/self-intro/placeholder-sky.svg",
+                "alt": "Sky placeholder for product sketches",
+                "description": "A placeholder for tiny tools, interface ideas, and playful prototypes."
+              },
+              {
+                "src": "assets/self-intro/placeholder-lavender.svg",
+                "alt": "Lavender placeholder for design references"
+              },
+              {
+                "src": "assets/self-intro/placeholder-rose.svg",
+                "alt": "Rose placeholder for creative experiments"
               }
             ]
           }
@@ -126,6 +152,19 @@
               {
                 "src": "assets/self-intro/placeholder-rose.svg",
                 "alt": "Rose placeholder for casual daily scene"
+              },
+              {
+                "src": "assets/self-intro/placeholder-mint.svg",
+                "alt": "Mint placeholder for campus light",
+                "description": "A placeholder for routes, weather, and small things noticed outside."
+              },
+              {
+                "src": "assets/self-intro/placeholder-yellow.svg",
+                "alt": "Yellow placeholder for weekend wandering"
+              },
+              {
+                "src": "assets/self-intro/placeholder-lavender.svg",
+                "alt": "Lavender placeholder for ordinary route"
               }
             ]
           },
@@ -141,6 +180,19 @@
               {
                 "src": "assets/self-intro/placeholder-peach.svg",
                 "alt": "Peach placeholder for relaxed moments"
+              },
+              {
+                "src": "assets/self-intro/placeholder-yellow.svg",
+                "alt": "Yellow placeholder for music break",
+                "description": "A placeholder for food, music, chats, and little pauses between work."
+              },
+              {
+                "src": "assets/self-intro/placeholder-green.svg",
+                "alt": "Green placeholder for quiet reset"
+              },
+              {
+                "src": "assets/self-intro/placeholder-sky.svg",
+                "alt": "Sky placeholder for easy afternoon"
               }
             ]
           }

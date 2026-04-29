@@ -99,10 +99,14 @@ function renderLifePanel(item,index){
 function renderLifePhotos(items){
   const photos=lifePhotos(items);
   if(!photos.length)return '<div class="empty-photo">Photo slot</div>';
-  return photos.map((photo,index)=>`
-    <figure class="life-scene-photo" style="--photo-index:${index}">
+  return photos.map((photo,index)=>{
+    const hasDescription=Boolean(photo.description);
+    return `
+    <figure class="life-scene-photo ${hasDescription?'has-description':''}" style="--photo-index:${index}" tabindex="0">
       <img src="${escapeHTML(photo.src)}" alt="${escapeHTML(photo.alt||photo.chapterTitle||'Life experience photo')}" loading="${index<2?'eager':'lazy'}">
-    </figure>`).join('');
+      ${hasDescription?`<figcaption>${escapeHTML(photo.description)}</figcaption>`:''}
+    </figure>`;
+  }).join('');
 }
 
 function renderLife(intro){
