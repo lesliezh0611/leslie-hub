@@ -193,23 +193,37 @@ p{color:var(--muted)}
 .chapter-year{display:inline-flex;align-items:center;justify-content:center;min-height:42px;padding:0 16px;border:var(--border);border-radius:999px;background:var(--paper);color:var(--green-dark);font-family:var(--font-heading);font-size:1rem;font-weight:900}
 .life-text-panel h3{margin-top:18px;font-size:clamp(2.5rem,5vw,5.2rem);color:var(--ink)}
 .life-text-panel p{margin-top:18px;font-size:1.1rem;font-weight:750;color:rgba(17,24,39,0.76)}
-.life-photo-composition{position:relative;min-height:520px;z-index:1}
+.life-photo-composition{
+  position:relative;
+  display:grid;
+  place-items:center;
+  min-height:520px;
+  z-index:1;
+  isolation:isolate;
+}
 .life-scene-photo{
-  position:absolute;
+  grid-area:1/1;
   overflow:hidden;
+  width:min(100%,360px);
   aspect-ratio:3/4;
   border:var(--border);
   border-radius:26px;
   background:var(--paper);
   box-shadow:var(--shadow);
-  transition:transform 240ms ease,box-shadow 240ms ease;
+  opacity:0;
+  pointer-events:none;
+  transform:rotate(var(--photo-tilt,0deg)) scale(0.985);
+  transition:opacity 420ms ease,transform 420ms ease,box-shadow 240ms ease;
 }
-.life-scene-photo:nth-child(1){left:0;top:12%;width:34%;transform:rotate(-4deg)}
-.life-scene-photo:nth-child(2){right:4%;top:34%;width:46%;transform:rotate(5deg)}
-.life-scene-photo:nth-child(3){right:0;top:0;width:28%;transform:rotate(11deg)}
-.life-scene-photo:nth-child(4){left:8%;bottom:4%;width:22%;transform:rotate(8deg)}
-.life-scene-photo:nth-child(5){right:9%;top:14%;width:21%;transform:rotate(-8deg)}
-.life-scene-photo:nth-child(n+6){display:none}
+.life-scene-photo:nth-child(1){--photo-tilt:-3deg}
+.life-scene-photo:nth-child(2){--photo-tilt:3deg}
+.life-scene-photo:nth-child(3){--photo-tilt:-1deg}
+.life-scene-photo.is-active{
+  opacity:1;
+  pointer-events:auto;
+  transform:rotate(var(--photo-tilt,0deg)) scale(1);
+  z-index:2;
+}
 .life-scene-photo img{transition:transform 240ms ease,filter 240ms ease}
 .life-scene-photo:hover img,.life-scene-photo:focus-visible img{transform:scale(1.045)}
 .life-scene-photo.has-description:hover img,.life-scene-photo.has-description:focus-visible img{filter:blur(3px) saturate(0.92);transform:scale(1.06)}
@@ -314,6 +328,7 @@ p{color:var(--muted)}
   .life-sticky-scene{top:12px;min-height:calc(100svh - 24px)}
   .life-copy-stack{min-height:300px}
   .life-photo-composition{min-height:420px}
+  .life-scene-photo{width:min(78vw,340px)}
   .masonry-gallery{column-count:3}
 }
 
@@ -342,10 +357,7 @@ p{color:var(--muted)}
   .life-text-panel h3{font-size:2.6rem}
   .life-text-panel p{font-size:1rem}
   .life-photo-composition{min-height:330px}
-  .life-scene-photo:nth-child(1){left:0;top:4%;width:34%}
-  .life-scene-photo:nth-child(2){right:0;top:34%;width:42%}
-  .life-scene-photo:nth-child(3){right:2%;top:2%;width:30%}
-  .life-scene-photo:nth-child(4),.life-scene-photo:nth-child(5){display:none}
+  .life-scene-photo{width:min(74vw,230px);border-radius:22px}
   .life-progress-dots{left:18px;bottom:20px}
   .masonry-gallery{column-count:2;column-gap:6px}
   .gallery-tile{margin-bottom:6px;border-radius:12px}

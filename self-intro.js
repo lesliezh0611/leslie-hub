@@ -82,10 +82,15 @@ function renderHero(intro){
 }
 
 function lifePhotos(items){
-  return items.flatMap(item=>(item.photos||[]).map(photo=>({
-    ...photo,
-    chapterTitle:item.title
-  }))).slice(0,6);
+  return items.map(item=>{
+    const photo=item.photos?.[0];
+    if(!photo)return null;
+    return {
+      ...photo,
+      chapterTitle:item.title,
+      chapterYear:item.year
+    };
+  }).filter(Boolean);
 }
 
 function renderLifePanel(item,index){
@@ -102,8 +107,8 @@ function renderLifePhotos(items){
   return photos.map((photo,index)=>{
     const hasDescription=Boolean(photo.description);
     return `
-    <figure class="life-scene-photo ${hasDescription?'has-description':''}" style="--photo-index:${index}" tabindex="0">
-      <img src="${escapeHTML(photo.src)}" alt="${escapeHTML(photo.alt||photo.chapterTitle||'Life experience photo')}" loading="${index<2?'eager':'lazy'}">
+    <figure class="life-scene-photo ${index===0?'is-active':''} ${hasDescription?'has-description':''}" style="--photo-index:${index}" data-life-photo="${index}" tabindex="${index===0?'0':'-1'}" aria-hidden="${index===0?'false':'true'}">
+      <img src="${escapeHTML(photo.src)}" alt="${escapeHTML(photo.alt||photo.chapterTitle||photo.chapterYear||'Life experience photo')}" loading="${index===0?'eager':'lazy'}">
       ${hasDescription?`<figcaption>${escapeHTML(photo.description)}</figcaption>`:''}
     </figure>`;
   }).join('');
@@ -174,6 +179,7 @@ function updateLifeScene(){
   const track=document.querySelector('.life-scroll-track');
   if(!track)return;
   const panels=[...document.querySelectorAll('[data-life-panel]')];
+  const photos=[...document.querySelectorAll('[data-life-photo]')];
   const dots=[...document.querySelectorAll('[data-life-dot]')];
   if(!panels.length)return;
   const rect=track.getBoundingClientRect();
@@ -181,6 +187,12 @@ function updateLifeScene(){
   const progress=Math.min(1,Math.max(0,-rect.top/scrollable));
   const activeIndex=Math.min(panels.length-1,Math.floor(progress*panels.length));
   panels.forEach((panel,index)=>panel.classList.toggle('is-active',index===activeIndex));
+  photos.forEach((photo,index)=>{
+    const isActive=index===activeIndex;
+    photo.classList.toggle('is-active',isActive);
+    photo.setAttribute('aria-hidden',String(!isActive));
+    photo.tabIndex=isActive?0:-1;
+  });
   dots.forEach((dot,index)=>dot.classList.toggle('is-active',index===activeIndex));
 }
 
