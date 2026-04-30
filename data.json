@@ -274,6 +274,24 @@
       ],
       "articles": [
         {
+          "id": "vc_gdb_c64fa0139f",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "chronicle gives codex passive memory over what you’ve been doing with your computer, which unlocks surprising use cases",
+          "url": "https://x.com/gdb/status/2049844703793688991",
+          "postedAt": "2026-04-30T13:33:56.000Z"
+        },
+        {
+          "id": "vc_steipete_b8a24f154e",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "WAT",
+          "url": "https://x.com/steipete/status/2049839420312891768",
+          "postedAt": "2026-04-30T13:12:56.000Z"
+        },
+        {
           "id": "vc_dotey_63fb1c364f",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -434,28 +452,10 @@
           "title": "RT Greg Brockman: terminal has been my primary interface to my computer for almost two decades. now it’s the Codex app.",
           "url": "https://x.com/sama/status/2049493182866747765",
           "postedAt": "2026-04-29T13:15:47.000Z"
-        },
-        {
-          "id": "vc_gdb_a4c28ef6a1",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "terminal has been my primary interface to my computer for almost two decades. now it’s the Codex app.",
-          "url": "https://x.com/gdb/status/2049477747882254775",
-          "postedAt": "2026-04-29T13:15:47.000Z"
-        },
-        {
-          "id": "vc_steipete_3d907119e9",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "And people think tokens are expensive... this is @useblacksmith (they sponsor OpenClaw, 🫶🦞)",
-          "url": "https://x.com/steipete/status/2049462793267458219",
-          "postedAt": "2026-04-29T12:16:21.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-30T06:24:58.998Z",
+      "lastUpdated": "2026-04-30T14:24:08.627Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -589,14 +589,6 @@
           "topic": "#495 – Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
           "url": "https://lexfridman.com/lars-brownworth/?utm_source=rss&utm_medium=rss&utm_campaign=lars-brownworth",
           "postedAt": "2026-04-09T17:43:17.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_e30de8b2af",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "Mario Harik: Playing to Win",
-          "url": "https://fs.blog/knowledge-project-podcast/mario-harik/",
-          "postedAt": "2026-04-09T09:30:00.000Z"
         }
       ],
       "books": [
@@ -647,10 +639,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-30T06:25:46.584Z",
+      "lastUpdated": "2026-04-30T14:24:10.073Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -740,6 +732,70 @@
       },
       "articles": [
         {
+          "id": "om_c0b649969e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Claire’s marks next chapter with Gen Alpha-focused ASMR campaign",
+          "url": "https://www.marketingdive.com/news/claires-marks-next-chapter-with-gen-alpha-focused-asmr-campaign/818868/",
+          "postedAt": "2026-04-30T13:36:00.000Z"
+        },
+        {
+          "id": "om_2123c0b115",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Netflix wants you to watch ‘Clips,’ its TikTok-like vertical video feed",
+          "url": "https://techcrunch.com/2026/04/30/netflix-wants-you-to-watch-clips-its-tiktok-like-vertical-video-feed/",
+          "postedAt": "2026-04-30T13:00:00.000Z"
+        },
+        {
+          "id": "om_e6f7b0877d",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Google rolls out new tools to automate even more of the marketing process",
+          "url": "https://www.marketingbrew.com/stories/2026/04/30/google-tools-automate-even-more-marketing-AI-Max?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-04-30T13:00:00.000Z"
+        },
+        {
+          "id": "om_3dc61de814",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Carter’s CMO on evolving marketing by pairing heritage with progress",
+          "url": "https://www.marketingdive.com/news/carters-cmo-on-evolving-marketing-by-pairing-heritage-with-progress/818175/",
+          "postedAt": "2026-04-30T12:00:00.000Z"
+        },
+        {
+          "id": "om_fd9a41af0d",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "OpenAI’s ads pilot is getting more accessible to some advertisers",
+          "url": "https://www.marketingbrew.com/stories/2026/04/30/openai-s-ads-pilot-lower-cpms-minimum-spend?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-04-30T11:00:00.000Z"
+        },
+        {
+          "id": "om_95204fb069",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Rao’s Enlists Goodby Silverstein & Partners to Make its Brand Iconic",
+          "url": "https://www.adweek.com/agencies/raos-enlists-goodby-silverstein-partners-to-make-its-brand-iconic/",
+          "postedAt": "2026-04-30T09:00:00.000Z"
+        },
+        {
+          "id": "om_65f5fb0bb6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "In Its Summer Campaign, Budweiser Waves the Flag — A Lot",
+          "url": "https://www.adweek.com/brand-marketing/in-its-summer-campaign-budweiser-waves-the-flag-a-lot/",
+          "postedAt": "2026-04-30T09:00:00.000Z"
+        },
+        {
+          "id": "om_26a765de80",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Vue Calls on Taika Waititi to Lure Audiences Back to Movie Theaters",
+          "url": "https://www.adweek.com/creativity/vue-calls-on-taika-waititi-to-lure-audiences-back-to-movie-theaters/",
+          "postedAt": "2026-04-30T06:00:00.000Z"
+        },
+        {
           "id": "om_f4817a4636",
           "source": "TechCrunch",
           "lang": "en",
@@ -770,14 +826,6 @@
           "title": "Amazon Hits $70 Billion in Ad Revenue Over the Past 12 Months",
           "url": "https://www.adweek.com/commerce/amazon-hits-70-billion-in-ad-revenue-over-the-past-12-months/",
           "postedAt": "2026-04-29T18:47:36.000Z"
-        },
-        {
-          "id": "om_9fae6a7306",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Week of April 20 Evening News Ratings: WNT Only Broadcast With Week-to-Week Growth",
-          "url": "https://www.adweek.com/tvnewser/week-of-april-20-2026-evening-news-ratings/",
-          "postedAt": "2026-04-29T16:29:34.000Z"
         },
         {
           "id": "om_56d024ccdd",
@@ -812,30 +860,6 @@
           "postedAt": "2026-04-29T14:45:00.000Z"
         },
         {
-          "id": "om_a41130fefe",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Retail Media Silos, Measurement, and Misconceptions Continue to Stymie Growth",
-          "url": "https://www.adweek.com/commerce/retail-media-silos-measurement-and-misconceptions-continue-to-stymie-growth/",
-          "postedAt": "2026-04-29T14:38:17.000Z"
-        },
-        {
-          "id": "om_8fc6482c92",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "EXCLUSIVE: iProspect North America CEO to Depart",
-          "url": "https://www.adweek.com/agencies/exclusive-iprospect-north-america-ceo-to-depart/",
-          "postedAt": "2026-04-29T13:20:00.000Z"
-        },
-        {
-          "id": "om_a210f6b7b2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Want a Pop Star Collab? Brands Need to Be Ready to Take Risks",
-          "url": "https://www.adweek.com/brand-marketing/pop-star-collab-playbook-maybelline-nespresso-joaquina/",
-          "postedAt": "2026-04-29T13:12:40.000Z"
-        },
-        {
           "id": "om_b8ac5713da",
           "source": "Marketing Dive",
           "lang": "en",
@@ -866,42 +890,10 @@
           "title": "Snowflake helps unlock data collaborations with consent signals from OneTrust",
           "url": "https://www.marketingdive.com/news/snowflake-helps-unlock-data-collaborations-consent-signals-from-onetrust/818586/",
           "postedAt": "2026-04-28T21:00:00.000Z"
-        },
-        {
-          "id": "om_0368fcd392",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How Adobe is building AI and agentic tools for brands—while keeping an eye on actual adoption",
-          "url": "https://www.marketingbrew.com/stories/2026/04/28/adobe-ai-agentic-tools-brands-adoption-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-04-28T17:06:32.000Z"
-        },
-        {
-          "id": "om_ce1dd2e48f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Birdy Grey taps Stanley 1913 vet as chief growth officer",
-          "url": "https://www.retaildive.com/news/birdy-grey-taps-stanley-1913-vet-as-chief-growth-officer/818651/",
-          "postedAt": "2026-04-28T17:04:00.000Z"
-        },
-        {
-          "id": "om_60386bc415",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bed Bath & Beyond CEO: AI will lead to ‘significant reduction in headcount’",
-          "url": "https://www.retaildive.com/news/bed-bath-beyond-ai-layoffs-first-quarter-earnings/818691/",
-          "postedAt": "2026-04-28T16:45:00.000Z"
-        },
-        {
-          "id": "om_e8b15be004",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "‘Everybody gets it’: Inside the brand partnerships powering ‘The Devil Wears Prada 2’",
-          "url": "https://www.marketingbrew.com/stories/2026/04/28/devil-wears-prada-2-brand-partnerships-strategy-process?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-04-28T15:33:30.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-30T06:25:58.594Z",
+      "lastUpdated": "2026-04-30T14:24:12.352Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
