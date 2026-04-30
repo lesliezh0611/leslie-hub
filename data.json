@@ -274,6 +274,42 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_63fb1c364f",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Hermes Agent 加了一个新功能：Curator（策展人）。 Hermes Agent 有个“自我进化”机制，用着用着会自己创建各种技能文件来优化工作流。但技能攒多了就成了数字...",
+          "url": "https://x.com/dotey/status/2049735038560842186",
+          "postedAt": "2026-04-30T06:18:10.000Z"
+        },
+        {
+          "id": "vc_dotey_02864417c6",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Sam Altman 刚宣布，OpenAI 将在未来几天向“关键网络安全防御者”推送 GPT-5.5-Cyber，一个专门为网络安全打造的前沿模型。他说 OpenAI 会和整个行业生态及政府...",
+          "url": "https://x.com/dotey/status/2049722598758522963",
+          "postedAt": "2026-04-30T05:28:44.000Z"
+        },
+        {
+          "id": "vc_sama_aa70be4894",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "alignment failure",
+          "url": "https://x.com/sama/status/2049715178611380317",
+          "postedAt": "2026-04-30T04:59:15.000Z"
+        },
+        {
+          "id": "vc_sama_63190e12d0",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "we're starting rollout of GPT-5.5-Cyber, a frontier cybersecurity model, to critical cyber defenders in the next few days. we will work with the entir...",
+          "url": "https://x.com/sama/status/2049712078836170843",
+          "postedAt": "2026-04-30T04:46:56.000Z"
+        },
+        {
           "id": "vc_dotey_5a8d3c6cf5",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -328,15 +364,6 @@
           "postedAt": "2026-04-29T23:00:38.000Z"
         },
         {
-          "id": "vc_dotey_5faab76e26",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "http://x.com/i/article/2049616699541090304",
-          "url": "https://x.com/dotey/status/2049617833370202182",
-          "postedAt": "2026-04-29T22:32:26.000Z"
-        },
-        {
           "id": "vc_gdb_94dcf64efa",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -362,15 +389,6 @@
           "title": "We should start thinking about the IT/internal tools team as more like “HR for agents”",
           "url": "https://x.com/zarazhangrui/status/2049599305825341518",
           "postedAt": "2026-04-29T21:18:48.000Z"
-        },
-        {
-          "id": "vc_dotey_61fcac4d8b",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "我就说你们咋逆向 Claude Design 的 System Prompt 的，原来都在请求的 Payload 里面，包括调用啥工具都有。 可惜额度太少了，用几次就没了",
-          "url": "https://x.com/dotey/status/2049586049907667168",
-          "postedAt": "2026-04-29T20:26:08.000Z"
         },
         {
           "id": "vc_steipete_a702f46973",
@@ -434,28 +452,10 @@
           "title": "And people think tokens are expensive... this is @useblacksmith (they sponsor OpenClaw, 🫶🦞)",
           "url": "https://x.com/steipete/status/2049462793267458219",
           "postedAt": "2026-04-29T12:16:21.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_8435feb543",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "👀",
-          "url": "https://x.com/Khazix0918/status/2049413368143049058",
-          "postedAt": "2026-04-29T08:59:57.000Z"
-        },
-        {
-          "id": "vc_steipete_c919fbd12a",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Omar Shahine: In our Project Lobster standup meeting today, we were talking about how we will need a way for our service to fetch files, folders an...",
-          "url": "https://x.com/steipete/status/2049456140367323293",
-          "postedAt": "2026-04-29T05:50:04.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-30T04:03:56.429Z",
+      "lastUpdated": "2026-04-30T06:24:58.998Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -647,7 +647,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-30T04:03:58.242Z",
+      "lastUpdated": "2026-04-30T06:25:46.584Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -901,7 +901,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-30T04:04:01.436Z",
+      "lastUpdated": "2026-04-30T06:25:58.594Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
