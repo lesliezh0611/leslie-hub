@@ -206,6 +206,132 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_5a8d3c6cf5",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "OpenAI 发了一篇技术博客，认真调查了一个荒诞的问题：为什么他们的模型越来越爱说“哥布林”（goblin）和“小精灵”（gremlin）？ 事情最早在去年 11 月 GPT-5....",
+          "url": "https://x.com/dotey/status/2049698879197651087",
+          "postedAt": "2026-04-30T03:54:29.000Z"
+        },
+        {
+          "id": "vc_dotey_5400e33b8b",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "原推这个提示词风格很好看👍 ---- 一张极简风格插画，画面主体是【主体/物体】。使用干净纤细的线条描绘轮廓与结构，整体以黑白或低饱和色为主，只在局部加入...",
+          "url": "https://x.com/dotey/status/2049691392364916875",
+          "postedAt": "2026-04-30T03:24:44.000Z"
+        },
+        {
+          "id": "vc_gdb_287032e5d2",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "DevDay 2026",
+          "url": "https://x.com/gdb/status/2049689602034741392",
+          "postedAt": "2026-04-30T03:17:37.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_163c0744ee",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "分享一下2026我最常用的AI产品。 自去年8月之后，时间又过了大半年，我觉得我又可以来分享一下我现在最常用的AI产品了。 AI圈的变化，实在是太快了。 毕竟，马上...",
+          "url": "https://x.com/Khazix0918/status/2049673817589698916",
+          "postedAt": "2026-04-30T02:14:53.000Z"
+        },
+        {
+          "id": "vc_gdb_aee34460d8",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "GPT-5.5 party on 5/5:",
+          "url": "https://x.com/gdb/status/2049661559950180556",
+          "postedAt": "2026-04-30T01:26:11.000Z"
+        },
+        {
+          "id": "vc_dotey_0fe584f448",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "OpenAI 上周发布 GPT-5.5 后，紧接着放出了一份官方提示词指南。这份指南传递的核心信息只有一个：别再写长提示词了。 GPT-5.5 距离上一代 GPT-5.4 只隔了六周，...",
+          "url": "https://x.com/dotey/status/2049624930887614648",
+          "postedAt": "2026-04-29T23:00:38.000Z"
+        },
+        {
+          "id": "vc_dotey_5faab76e26",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "http://x.com/i/article/2049616699541090304",
+          "url": "https://x.com/dotey/status/2049617833370202182",
+          "postedAt": "2026-04-29T22:32:26.000Z"
+        },
+        {
+          "id": "vc_gdb_94dcf64efa",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "I’ve been very pleasantly surprised by how useful GPT Image 2 is for app building:",
+          "url": "https://x.com/gdb/status/2049609612425392494",
+          "postedAt": "2026-04-29T21:59:46.000Z"
+        },
+        {
+          "id": "vc_gdb_431831c654",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "build your own agents with codex app-server",
+          "url": "https://x.com/gdb/status/2049609076351381580",
+          "postedAt": "2026-04-29T21:57:38.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_ca72727c6d",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "We should start thinking about the IT/internal tools team as more like “HR for agents”",
+          "url": "https://x.com/zarazhangrui/status/2049599305825341518",
+          "postedAt": "2026-04-29T21:18:48.000Z"
+        },
+        {
+          "id": "vc_dotey_61fcac4d8b",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "我就说你们咋逆向 Claude Design 的 System Prompt 的，原来都在请求的 Payload 里面，包括调用啥工具都有。 可惜额度太少了，用几次就没了",
+          "url": "https://x.com/dotey/status/2049586049907667168",
+          "postedAt": "2026-04-29T20:26:08.000Z"
+        },
+        {
+          "id": "vc_steipete_a702f46973",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Luis Catacora: Re @steipete @useblacksmith the rise of AI-Powered \"AI/CD\"",
+          "url": "https://x.com/steipete/status/2049579034472829051",
+          "postedAt": "2026-04-29T19:30:00.000Z"
+        },
+        {
+          "id": "vc_steipete_28acd4dd6a",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Gergely Orosz: OpenClaw - the agentic software spreading like wildfire - was built on top of Pi, a minimalist, self-modifying agent. I sat down wit...",
+          "url": "https://x.com/steipete/status/2049518921653289009",
+          "postedAt": "2026-04-29T14:56:22.000Z"
+        },
+        {
+          "id": "vc_steipete_c9de0b3451",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Tibo: Re @Mugilan_SS @OpenAI It’s the small things. When we designed this the tradeoff was between a good experience or optimize for margin and no...",
+          "url": "https://x.com/steipete/status/2049541492151091318",
+          "postedAt": "2026-04-29T14:39:59.000Z"
+        },
+        {
           "id": "vc_sama_fd7ca8e679",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -221,6 +347,15 @@
           "platform": "x",
           "title": "RT Greg Brockman: terminal has been my primary interface to my computer for almost two decades. now it’s the Codex app.",
           "url": "https://x.com/sama/status/2049493182866747765",
+          "postedAt": "2026-04-29T13:15:47.000Z"
+        },
+        {
+          "id": "vc_gdb_a4c28ef6a1",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "terminal has been my primary interface to my computer for almost two decades. now it’s the Codex app.",
+          "url": "https://x.com/gdb/status/2049477747882254775",
           "postedAt": "2026-04-29T13:15:47.000Z"
         },
         {
@@ -249,145 +384,10 @@
           "title": "RT Omar Shahine: In our Project Lobster standup meeting today, we were talking about how we will need a way for our service to fetch files, folders an...",
           "url": "https://x.com/steipete/status/2049456140367323293",
           "postedAt": "2026-04-29T05:50:04.000Z"
-        },
-        {
-          "id": "vc_steipete_cb031f2721",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "codex now runs on each commit we land, reviews it - and if a booboo is found, a new codex spins up and (if still relevant) makes a PR for the fix. The...",
-          "url": "https://x.com/steipete/status/2049356949523730699",
-          "postedAt": "2026-04-29T05:15:46.000Z"
-        },
-        {
-          "id": "vc_dotey_87f90f033e",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Amira 这套真实模糊摄影背景 + 霓虹线稿插画的提示词模板很好看👍 --- 提示词 --- 想象一张充满质感的照片：背景是[具体的场景]，阳光明媚地洒下来，带着柔和...",
-          "url": "https://x.com/dotey/status/2049350241816563945",
-          "postedAt": "2026-04-29T04:49:07.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_db49009bd5",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2049343993180532736",
-          "url": "https://x.com/Khazix0918/status/2049345300939391245",
-          "postedAt": "2026-04-29T04:29:29.000Z"
-        },
-        {
-          "id": "vc_steipete_bf9b29c4ce",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Chris: I literally just watched GPT-5.5 via codex beat an Amazon customer associate in real time. 💀 I asked it to get me a refund, and I watched...",
-          "url": "https://x.com/steipete/status/2049452008197771540",
-          "postedAt": "2026-04-29T04:14:29.000Z"
-        },
-        {
-          "id": "vc_gdb_47403f2fc8",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "a great codex tutorial:",
-          "url": "https://x.com/gdb/status/2049315404271469054",
-          "postedAt": "2026-04-29T02:30:41.000Z"
-        },
-        {
-          "id": "vc_steipete_dde9391492",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "I'm now spinning up a codex instance on every commit landing on main, looking for booboos (regressions, security issues) It's live for 10 min and alre...",
-          "url": "https://x.com/steipete/status/2049290741013262522",
-          "postedAt": "2026-04-29T00:52:41.000Z"
-        },
-        {
-          "id": "vc_dotey_a4c79f3996",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "http://x.com/i/article/2049282533364215808",
-          "url": "https://x.com/dotey/status/2049283917509693942",
-          "postedAt": "2026-04-29T00:25:34.000Z"
-        },
-        {
-          "id": "vc_dotey_c585199220",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "OpenAI 宣布与 AWS 扩大合作，把自家模型（包括最新的 GPT-5.5）、Codex 编程工具和托管智能体（Managed Agents）全部搬上 Amazon Bedrock 平台，目前以限量预览...",
-          "url": "https://x.com/dotey/status/2049265362718351779",
-          "postedAt": "2026-04-28T23:11:50.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_2cab5b429f",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Don't get AI to generate images; get them to generate SVGs! Vector illustrations that seamlessly blend into the design style is the perfect complement...",
-          "url": "https://x.com/zarazhangrui/status/2049258231042805806",
-          "postedAt": "2026-04-28T22:43:30.000Z"
-        },
-        {
-          "id": "vc_dotey_b56eb887d9",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 鸭哥: Meta 花 20 亿买 Manus，Musk 给 Cursor 开了 600 亿收购选项。中文互联网最常见的反应：套壳，冲动消费。 这个判断方向性地错了。 Manus 在所有人照搬...",
-          "url": "https://x.com/dotey/status/2049271531235123287",
-          "postedAt": "2026-04-28T21:32:02.000Z"
-        },
-        {
-          "id": "vc_sama_4122c8e7f1",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "wow y'all love 5.5 we should think of something nice to do to celebrate!",
-          "url": "https://x.com/sama/status/2049235284655780000",
-          "postedAt": "2026-04-28T21:12:19.000Z"
-        },
-        {
-          "id": "vc_dotey_34f5d22e32",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Mitchell Hashimoto 宣布，他的开源终端模拟器 Ghostty 将从 GitHub 迁出。 【注：Mitchell Hashimoto 是 Vagrant 和 Terraform 的创造者，HashiCorp 联合创始人...",
-          "url": "https://x.com/dotey/status/2049219569445732851",
-          "postedAt": "2026-04-28T20:09:52.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_3e3f37e02e",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Very interested in this I used to build web apps with GUI; now I just share GitHub repos with the code and people can customize the UI however they li...",
-          "url": "https://x.com/zarazhangrui/status/2049186121314415054",
-          "postedAt": "2026-04-28T17:56:58.000Z"
-        },
-        {
-          "id": "vc_gdb_7c585fd5ac",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "shipping velocity is high",
-          "url": "https://x.com/gdb/status/2049128123124621540",
-          "postedAt": "2026-04-28T14:06:30.000Z"
-        },
-        {
-          "id": "vc_gdb_7fd2f482f9",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "imagegen changing how product ideas are shared",
-          "url": "https://x.com/gdb/status/2049120845985923316",
-          "postedAt": "2026-04-28T13:37:35.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-29T14:30:44.169Z",
+      "lastUpdated": "2026-04-30T04:03:56.429Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -579,7 +579,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-29T14:30:45.614Z",
+      "lastUpdated": "2026-04-30T04:03:58.242Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -672,6 +672,102 @@
       },
       "articles": [
         {
+          "id": "om_f4817a4636",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+          "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+          "postedAt": "2026-04-29T22:20:48.000Z"
+        },
+        {
+          "id": "om_356db5c3bf",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
+          "url": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
+          "postedAt": "2026-04-29T20:36:53.000Z"
+        },
+        {
+          "id": "om_06025a8175",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "As discounts proliferate, Adidas must ‘defend newness’",
+          "url": "https://www.retaildive.com/news/adidas-defend-newness-discounts-promotions-first-quarter-earnings-growth/818826/",
+          "postedAt": "2026-04-29T18:56:00.000Z"
+        },
+        {
+          "id": "om_ccd1ac5ce6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Amazon Hits $70 Billion in Ad Revenue Over the Past 12 Months",
+          "url": "https://www.adweek.com/commerce/amazon-hits-70-billion-in-ad-revenue-over-the-past-12-months/",
+          "postedAt": "2026-04-29T18:47:36.000Z"
+        },
+        {
+          "id": "om_9fae6a7306",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Week of April 20 Evening News Ratings: WNT Only Broadcast With Week-to-Week Growth",
+          "url": "https://www.adweek.com/tvnewser/week-of-april-20-2026-evening-news-ratings/",
+          "postedAt": "2026-04-29T16:29:34.000Z"
+        },
+        {
+          "id": "om_56d024ccdd",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why so many creators are joining the C-suite",
+          "url": "https://www.marketingbrew.com/stories/2026/04/29/creators-joining-the-c-suite?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-04-29T16:18:29.000Z"
+        },
+        {
+          "id": "om_7563940808",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Home Depot helps advertisers reach DIY audiences on Reddit and Pinterest",
+          "url": "https://www.retaildive.com/news/home-depot-advertisers-diy-audiences-reddit-pinterest/818405/",
+          "postedAt": "2026-04-29T15:13:00.000Z"
+        },
+        {
+          "id": "om_24d88278de",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Can Bed Bath & Beyond’s Bilt partnership simplify its experience?",
+          "url": "https://www.retaildive.com/news/bed-bath-beyond-bilt-partnership-simplify-experience/818607/",
+          "postedAt": "2026-04-29T14:50:00.000Z"
+        },
+        {
+          "id": "om_abdafd3043",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Expedia bets on creator-led marketing with IShowSpeed partnership",
+          "url": "https://www.marketingdive.com/news/expedia-bets-on-creator-led-marketing-with-ishowspeed-partnership/818792/",
+          "postedAt": "2026-04-29T14:45:00.000Z"
+        },
+        {
+          "id": "om_a41130fefe",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Retail Media Silos, Measurement, and Misconceptions Continue to Stymie Growth",
+          "url": "https://www.adweek.com/commerce/retail-media-silos-measurement-and-misconceptions-continue-to-stymie-growth/",
+          "postedAt": "2026-04-29T14:38:17.000Z"
+        },
+        {
+          "id": "om_8fc6482c92",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "EXCLUSIVE: iProspect North America CEO to Depart",
+          "url": "https://www.adweek.com/agencies/exclusive-iprospect-north-america-ceo-to-depart/",
+          "postedAt": "2026-04-29T13:20:00.000Z"
+        },
+        {
+          "id": "om_a210f6b7b2",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Want a Pop Star Collab? Brands Need to Be Ready to Take Risks",
+          "url": "https://www.adweek.com/brand-marketing/pop-star-collab-playbook-maybelline-nespresso-joaquina/",
+          "postedAt": "2026-04-29T13:12:40.000Z"
+        },
+        {
           "id": "om_b8ac5713da",
           "source": "Marketing Dive",
           "lang": "en",
@@ -680,60 +776,12 @@
           "postedAt": "2026-04-29T13:00:00.000Z"
         },
         {
-          "id": "om_762cf33042",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Taylor Swift deepfakes are pushing scams on TikTok",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
-          "postedAt": "2026-04-29T12:47:18.000Z"
-        },
-        {
           "id": "om_e2d23dbc49",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Coors Light elongates name to celebrate World Cup goals",
           "url": "https://www.marketingdive.com/news/coors-light-elongates-name-to-celebrate-world-cup-goals/818747/",
           "postedAt": "2026-04-29T10:00:00.000Z"
-        },
-        {
-          "id": "om_5064486430",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Omnicom Sunsets Two More Agencies Under New Lola USA Brand",
-          "url": "https://www.adweek.com/agencies/omnicom-sunsets-two-more-agencies-under-new-lola-usa-brand/",
-          "postedAt": "2026-04-29T09:00:00.000Z"
-        },
-        {
-          "id": "om_b1ad95ce3f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketers Are Misrepresenting Rural America—and Overlooking 46 Million People",
-          "url": "https://www.adweek.com/brand-marketing/marketers-are-misrepresenting-rural-americaand-overlooking-46-million-people/",
-          "postedAt": "2026-04-29T08:30:00.000Z"
-        },
-        {
-          "id": "om_7c0bdae268",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Legacy Brands Don’t Need a Rebrand—They Need a Reintroduction",
-          "url": "https://www.adweek.com/brand-marketing/legacy-brands-dont-need-a-rebrand-they-need-a-reintroduction/",
-          "postedAt": "2026-04-29T08:30:00.000Z"
-        },
-        {
-          "id": "om_f5c0488f79",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Dhar Mann Bets on Speed Dating to Fix Creator-Brand Matchmaking",
-          "url": "https://www.adweek.com/commerce/dhar-mann-bets-on-speed-dating-to-fix-creator-brand-matchmaking/",
-          "postedAt": "2026-04-29T06:00:00.000Z"
-        },
-        {
-          "id": "om_0b36d050a3",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Supergoop Partners With Target and the PGA as It Chases Mass Appeal",
-          "url": "https://www.adweek.com/commerce/supergoop-partners-with-target-and-the-pga-as-it-chases-mass-appeal/",
-          "postedAt": "2026-04-29T06:00:00.000Z"
         },
         {
           "id": "om_09558a0d19",
@@ -750,14 +798,6 @@
           "title": "Snowflake helps unlock data collaborations with consent signals from OneTrust",
           "url": "https://www.marketingdive.com/news/snowflake-helps-unlock-data-collaborations-consent-signals-from-onetrust/818586/",
           "postedAt": "2026-04-28T21:00:00.000Z"
-        },
-        {
-          "id": "om_4b4577a90e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Omnicom Focuses Investors on ‘Core Operations’ in Q1 as It Plans to Offload Agencies",
-          "url": "https://www.adweek.com/agencies/omnicom-focuses-investors-on-core-operations-in-q1-as-it-plans-to-offload-agencies/",
-          "postedAt": "2026-04-28T18:04:13.000Z"
         },
         {
           "id": "om_0368fcd392",
@@ -784,56 +824,16 @@
           "postedAt": "2026-04-28T16:45:00.000Z"
         },
         {
-          "id": "om_7ce9a07710",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Funnel Is Dead: Now What?",
-          "url": "https://www.adweek.com/brand-marketing/the-funnel-is-dead-now-what/",
-          "postedAt": "2026-04-28T16:37:27.000Z"
-        },
-        {
           "id": "om_e8b15be004",
           "source": "Marketing Brew",
           "lang": "en",
           "title": "‘Everybody gets it’: Inside the brand partnerships powering ‘The Devil Wears Prada 2’",
           "url": "https://www.marketingbrew.com/stories/2026/04/28/devil-wears-prada-2-brand-partnerships-strategy-process?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-04-28T15:33:30.000Z"
-        },
-        {
-          "id": "om_f8fd0c81a8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "H&M launches storefront on Nordstrom’s marketplace",
-          "url": "https://www.retaildive.com/news/hm-launches-online-storefront-nordstrom-marketplace/818652/",
-          "postedAt": "2026-04-28T15:04:00.000Z"
-        },
-        {
-          "id": "om_0bb46a1a3e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "WPP says turnaround is making early progress, but there’s a long road ahead",
-          "url": "https://www.marketingdive.com/news/wpp-turnaround-making-early-progress-but-long-road-ahead/818653/",
-          "postedAt": "2026-04-28T14:58:00.000Z"
-        },
-        {
-          "id": "om_720eeca874",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target requires 150 remote merchandising employees to relocate",
-          "url": "https://www.retaildive.com/news/target-remote-merchandising-employees-relocate-minneapolis-headquarters/818603/",
-          "postedAt": "2026-04-28T14:44:00.000Z"
-        },
-        {
-          "id": "om_2301f75e0b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Williams-Sonoma relaunches Dormify",
-          "url": "https://www.retaildive.com/news/williams-sonoma-relaunches-dormify-college-decor-brand/818595/",
-          "postedAt": "2026-04-28T14:09:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-29T14:30:48.038Z",
+      "lastUpdated": "2026-04-30T04:04:01.436Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
