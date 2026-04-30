@@ -396,21 +396,6 @@ p{color:var(--muted)}
 .intro-photo-strip:hover .intro-photo:nth-child(1){transform:translateX(calc(-50% - 92px)) rotate(-12deg)}
 .intro-photo-strip:hover .intro-photo:nth-child(2){transform:translateX(-50%) translateY(-8px) rotate(0deg)}
 .intro-photo-strip:hover .intro-photo:nth-child(3){transform:translateX(calc(-50% + 92px)) rotate(12deg)}
-.intro-photo::after{
-  content:attr(data-caption);
-  position:absolute;
-  left:10px;
-  right:10px;
-  bottom:10px;
-  padding:6px 8px;
-  border-radius:999px;
-  background:rgba(255,255,255,0.82);
-  color:var(--ink);
-  font-size:0.68rem;
-  font-weight:900;
-  text-align:center;
-}
-
 .curriculum-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
 .curriculum-card{
   min-height:230px;
@@ -787,7 +772,7 @@ function renderSelfIntro(intro){
   const cards=previewSections.map((section,index)=>{
     const photos=sectionPhotos(section);
     const photoFan=photos.length?`<div class="intro-photo-strip" aria-label="${escapeHTML(section.title)} photo preview">
-      ${photos.map(photo=>`<span class="intro-photo" style="--photo-src:url('${escapeHTML(photo.src)}')" data-caption="${escapeHTML(photo.caption||section.title)}"></span>`).join('')}
+      ${photos.map(photo=>`<span class="intro-photo" style="--photo-src:url('${escapeHTML(photo.src)}')"></span>`).join('')}
     </div>`:'';
     const target=section.id==='life'?'life':'hobbies-casual';
     return `<article class="intro-card reveal">

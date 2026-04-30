@@ -14,7 +14,7 @@
     "hero": {
       "headline": "A more personal side of Leslie",
       "body": "A warm shelf for the parts of life that do not fit inside grades or reading lists: where I have been, what I like making, and the casual moments I want to remember.",
-      "coverImage": "assets/self-intro/placeholder-green.svg"
+      "coverImage": "assets/self-intro/placeholder-green.svg?v=clean-1"
     },
     "sections": [
       {
@@ -32,7 +32,7 @@
                 "alt": "High School Choir"
               },
               {
-                "src": "assets/self-intro/placeholder-mint.svg",
+                "src": "assets/self-intro/placeholder-mint.svg?v=clean-1",
                 "alt": "Mint placeholder for study moments"
               }
             ]
@@ -43,7 +43,7 @@
             "body": "Turning coursework, AI tools, and personal curiosity into small experiments I can keep improving.",
             "photos": [
               {
-                "src": "assets/self-intro/placeholder-yellow.svg",
+                "src": "assets/self-intro/placeholder-yellow.svg?v=clean-1",
                 "alt": "Yellow placeholder for creative building",
                 "description": "Small tools are a way to make curiosity visible before it becomes a polished project."
               },
@@ -60,12 +60,12 @@
             "body": "Placeholder copy for Leslie to replace later with the next life experience chapter.",
             "photos": [
               {
-                "src": "assets/self-intro/placeholder-sky.svg",
+                "src": "assets/self-intro/placeholder-sky.svg?v=clean-1",
                 "alt": "Sky placeholder for next life chapter",
                 "description": "A temporary slot for the next chapter Leslie wants to add."
               },
               {
-                "src": "assets/self-intro/placeholder-rose.svg",
+                "src": "assets/self-intro/placeholder-rose.svg?v=clean-1",
                 "alt": "Rose placeholder for future memory"
               }
             ]
@@ -82,25 +82,25 @@
             "body": "Podcasts, films, books, and phrases that make language feel alive instead of exam-shaped.",
             "photos": [
               {
-                "src": "assets/self-intro/placeholder-lavender.svg",
+                "src": "assets/self-intro/placeholder-lavender.svg?v=clean-1",
                 "alt": "Lavender placeholder for English input",
                 "description": "Language feels more alive when it comes from voices, scenes, and sentences worth keeping."
               },
               {
-                "src": "assets/self-intro/placeholder-sky.svg",
+                "src": "assets/self-intro/placeholder-sky.svg?v=clean-1",
                 "alt": "Sky placeholder for film and podcast notes"
               },
               {
-                "src": "assets/self-intro/placeholder-peach.svg",
+                "src": "assets/self-intro/placeholder-peach.svg?v=clean-1",
                 "alt": "Peach placeholder for reading notes",
                 "description": "A placeholder for book lines, podcast moments, and saved expressions."
               },
               {
-                "src": "assets/self-intro/placeholder-mint.svg",
+                "src": "assets/self-intro/placeholder-mint.svg?v=clean-1",
                 "alt": "Mint placeholder for language practice"
               },
               {
-                "src": "assets/self-intro/placeholder-rose.svg",
+                "src": "assets/self-intro/placeholder-rose.svg?v=clean-1",
                 "alt": "Rose placeholder for film memory"
               }
             ]
@@ -110,25 +110,25 @@
             "body": "Exploring how AI and design tools can make small ideas easier to test.",
             "photos": [
               {
-                "src": "assets/self-intro/placeholder-yellow.svg",
+                "src": "assets/self-intro/placeholder-yellow.svg?v=clean-1",
                 "alt": "Yellow placeholder for creative tools",
                 "description": "A place for playful experiments with AI, product ideas, and design references."
               },
               {
-                "src": "assets/self-intro/placeholder-green.svg",
+                "src": "assets/self-intro/placeholder-green.svg?v=clean-1",
                 "alt": "Green placeholder for product thinking"
               },
               {
-                "src": "assets/self-intro/placeholder-sky.svg",
+                "src": "assets/self-intro/placeholder-sky.svg?v=clean-1",
                 "alt": "Sky placeholder for product sketches",
                 "description": "A placeholder for tiny tools, interface ideas, and playful prototypes."
               },
               {
-                "src": "assets/self-intro/placeholder-lavender.svg",
+                "src": "assets/self-intro/placeholder-lavender.svg?v=clean-1",
                 "alt": "Lavender placeholder for design references"
               },
               {
-                "src": "assets/self-intro/placeholder-rose.svg",
+                "src": "assets/self-intro/placeholder-rose.svg?v=clean-1",
                 "alt": "Rose placeholder for creative experiments"
               }
             ]
@@ -145,25 +145,25 @@
             "body": "A place for ordinary routes, weekend wandering, and moments that make the day feel less automatic.",
             "photos": [
               {
-                "src": "assets/self-intro/placeholder-sky.svg",
+                "src": "assets/self-intro/placeholder-sky.svg?v=clean-1",
                 "alt": "Sky placeholder for walking around",
                 "description": "Weekend wandering, campus light, and ordinary routes that reset the day."
               },
               {
-                "src": "assets/self-intro/placeholder-rose.svg",
+                "src": "assets/self-intro/placeholder-rose.svg?v=clean-1",
                 "alt": "Rose placeholder for casual daily scene"
               },
               {
-                "src": "assets/self-intro/placeholder-mint.svg",
+                "src": "assets/self-intro/placeholder-mint.svg?v=clean-1",
                 "alt": "Mint placeholder for campus light",
                 "description": "A placeholder for routes, weather, and small things noticed outside."
               },
               {
-                "src": "assets/self-intro/placeholder-yellow.svg",
+                "src": "assets/self-intro/placeholder-yellow.svg?v=clean-1",
                 "alt": "Yellow placeholder for weekend wandering"
               },
               {
-                "src": "assets/self-intro/placeholder-lavender.svg",
+                "src": "assets/self-intro/placeholder-lavender.svg?v=clean-1",
                 "alt": "Lavender placeholder for ordinary route"
               }
             ]
@@ -173,25 +173,25 @@
             "body": "Food, music, chats, and little resets between study sessions.",
             "photos": [
               {
-                "src": "assets/self-intro/placeholder-rose.svg",
+                "src": "assets/self-intro/placeholder-rose.svg?v=clean-1",
                 "alt": "Rose placeholder for good breaks",
                 "description": "Food, music, quick talks, and the little pauses that keep the week human."
               },
               {
-                "src": "assets/self-intro/placeholder-peach.svg",
+                "src": "assets/self-intro/placeholder-peach.svg?v=clean-1",
                 "alt": "Peach placeholder for relaxed moments"
               },
               {
-                "src": "assets/self-intro/placeholder-yellow.svg",
+                "src": "assets/self-intro/placeholder-yellow.svg?v=clean-1",
                 "alt": "Yellow placeholder for music break",
                 "description": "A placeholder for food, music, chats, and little pauses between work."
               },
               {
-                "src": "assets/self-intro/placeholder-green.svg",
+                "src": "assets/self-intro/placeholder-green.svg?v=clean-1",
                 "alt": "Green placeholder for quiet reset"
               },
               {
-                "src": "assets/self-intro/placeholder-sky.svg",
+                "src": "assets/self-intro/placeholder-sky.svg?v=clean-1",
                 "alt": "Sky placeholder for easy afternoon"
               }
             ]

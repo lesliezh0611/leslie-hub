@@ -2,6 +2,4 @@
   <rect width="900" height="1100" fill="#FFE88C"/>
   <circle cx="230" cy="280" r="120" fill="#FFFFFF" opacity=".58"/>
   <path d="M95 800 C235 650 360 690 500 520 C640 350 750 420 845 260 L845 1100 L95 1100 Z" fill="#006653" opacity=".15"/>
-  <rect x="90" y="825" width="720" height="130" rx="65" fill="#FFFFFF" opacity=".82"/>
-  <text x="450" y="905" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="52" font-weight="800" fill="#111827">Add photo</text>
 </svg>

@@ -127,19 +127,6 @@ p{color:var(--muted)}
 .hero-snap:nth-child(1){--x:-18px;--y:18px;--r:-10deg;--accent:var(--peach);left:0;top:34px}
 .hero-snap:nth-child(2){--x:16px;--y:-8px;--r:7deg;--accent:var(--lavender);right:2px;top:0}
 .hero-snap:nth-child(3){--x:6px;--y:20px;--r:12deg;--accent:var(--sky);right:24px;bottom:8px}
-.hero-snap figcaption{
-  position:absolute;
-  left:10px;
-  right:10px;
-  bottom:10px;
-  padding:7px 9px;
-  border-radius:999px;
-  background:rgba(255,255,255,0.84);
-  color:var(--ink);
-  font-size:0.72rem;
-  font-weight:900;
-  text-align:center;
-}
 .hero-media:hover .hero-snap:nth-child(1){transform:translate(-30px,26px) rotate(-14deg)}
 .hero-media:hover .hero-snap:nth-child(2){transform:translate(28px,-18px) rotate(3deg)}
 .hero-media:hover .hero-snap:nth-child(3){transform:translate(28px,28px) rotate(15deg)}

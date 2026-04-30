@@ -58,7 +58,6 @@ function renderHero(intro){
   const stack=heroPhotos.map((photo,index)=>`
     <figure class="hero-snap" style="--i:${index}">
       <img src="${escapeHTML(photo.src)}" alt="${escapeHTML(photo.alt||photo.groupTitle||'Self intro photo')}" loading="${index===0?'eager':'lazy'}">
-      <figcaption>${escapeHTML(photo.groupTitle||photo.sectionTitle||'Photo')}</figcaption>
     </figure>`).join('');
 
   return `<section class="hero-panel reveal">
