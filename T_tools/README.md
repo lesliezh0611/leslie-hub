@@ -1,5 +1,28 @@
 # Leslie Hub Tools
 
+## Self Intro Photo Issue Automation
+
+Use GitHub's `Self Intro Photo Update` issue form for normal photo replacement. The workflow:
+
+- reads the issue form fields;
+- downloads the attached JPG, PNG, or WEBP image;
+- saves it under `assets/self-intro/uploads/`;
+- replaces the selected existing photo slot in `data.json`;
+- commits and pushes the update;
+- comments on the issue and closes it.
+
+The helper script can be syntax-checked locally:
+
+```bash
+node --check T_tools/apply-self-intro-photo-issue.mjs
+```
+
+Dry-run with a fixture event payload:
+
+```bash
+node T_tools/apply-self-intro-photo-issue.mjs --dry-run --event-path /path/to/event.json
+```
+
 ## Publish `data.json` Source Changes
 
 Use this after editing `data.json`, especially `explore.vibeCoding.sources`.

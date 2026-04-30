@@ -1,0 +1,77 @@
+name: Apply Self Intro Photo Issue
+
+on:
+  issues:
+    types:
+      - opened
+      - edited
+      - labeled
+      - reopened
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: self-intro-photo-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  apply-photo:
+    if: github.event.issue.state == 'open' && (contains(github.event.issue.labels.*.name, 'self-intro-photo') || startsWith(github.event.issue.title, 'Self Intro photo:'))
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Apply requested Self Intro photo
+        id: apply
+        continue-on-error: true
+        env:
+          COMMENT_PATH: ${{ runner.temp }}/self-intro-photo-comment.md
+        run: node T_tools/apply-self-intro-photo-issue.mjs --comment-path "$COMMENT_PATH"
+
+      - name: Commit and push update
+        if: steps.apply.outcome == 'success'
+        env:
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json assets/self-intro/uploads
+          if git diff --cached --quiet; then
+            echo "No file changes to commit."
+            exit 0
+          fi
+          git commit -m "Update self intro photo from issue #${ISSUE_NUMBER}"
+          git push
+          {
+            echo ""
+            echo "Published commit: $(git rev-parse --short HEAD)"
+          } >> "${RUNNER_TEMP}/self-intro-photo-comment.md"
+
+      - name: Comment and close issue
+        if: steps.apply.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          gh issue comment "$ISSUE_NUMBER" --body-file "${RUNNER_TEMP}/self-intro-photo-comment.md"
+          gh issue close "$ISSUE_NUMBER" --reason completed
+
+      - name: Comment on failure
+        if: steps.apply.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          if [ ! -s "${RUNNER_TEMP}/self-intro-photo-comment.md" ]; then
+            printf "Self Intro photo update failed. Please check the workflow logs for details.\n" > "${RUNNER_TEMP}/self-intro-photo-comment.md"
+          fi
+          gh issue comment "$ISSUE_NUMBER" --body-file "${RUNNER_TEMP}/self-intro-photo-comment.md"
+          exit 1

@@ -1,0 +1,69 @@
+name: Self Intro Photo Update
+description: Replace one existing Self Intro photo slot without editing data.json by hand.
+title: "Self Intro photo: "
+labels:
+  - self-intro-photo
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to replace one existing photo slot on the Self Intro page.
+
+        Drag one image into the photo field below. The automation will copy it into the site, update `data.json`, commit, push, and close this issue.
+
+  - type: dropdown
+    id: target_item
+    attributes:
+      label: Target item
+      description: Choose the Self Intro item whose photo should be replaced.
+      options:
+        - Life - 2024
+        - Life - 2025
+        - Life - TBD
+        - Hobbies - English input
+        - Hobbies - Creative tooling
+        - Casual - Walking around
+        - Casual - Good breaks
+    validations:
+      required: true
+
+  - type: dropdown
+    id: photo_slot
+    attributes:
+      label: Photo slot
+      description: Life currently uses Slot 1 as the visible crossfade photo. Hobbies and Casual items use Slots 1-5 in the gallery.
+      options:
+        - Slot 1
+        - Slot 2
+        - Slot 3
+        - Slot 4
+        - Slot 5
+    validations:
+      required: true
+
+  - type: input
+    id: alt_text
+    attributes:
+      label: Alt text
+      description: Short description for accessibility and fallback display.
+      placeholder: Leslie singing with the SDF choir
+    validations:
+      required: true
+
+  - type: textarea
+    id: hover_description
+    attributes:
+      label: Hover description
+      description: Optional caption shown when hovering/focusing photos that support overlays. Leave blank for no caption.
+      placeholder: A warm stage moment with the SDF choir.
+    validations:
+      required: false
+
+  - type: textarea
+    id: photo_attachment_or_url
+    attributes:
+      label: Photo attachment or URL
+      description: Drag one JPG, PNG, or WEBP image here, or paste a direct image URL.
+      placeholder: Drag the image here.
+    validations:
+      required: true
