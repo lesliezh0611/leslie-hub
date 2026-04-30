@@ -69,12 +69,14 @@ function parseSlot(value) {
 
 function extractImageUrl(value) {
   const text = String(value || '');
+  const htmlSrc = text.match(/\bsrc=["'](https?:\/\/[^"']+)["']/i);
+  if (htmlSrc) return htmlSrc[1].trim();
   const markdownImage = text.match(/!\[[^\]]*]\((https?:\/\/[^)\s]+)\)/i);
   if (markdownImage) return markdownImage[1];
   const markdownLink = text.match(/\[[^\]]+]\((https?:\/\/[^)\s]+)\)/i);
   if (markdownLink) return markdownLink[1];
   const rawUrl = text.match(/https?:\/\/\S+/i);
-  return rawUrl ? rawUrl[0].replace(/[),.]+$/g, '') : '';
+  return rawUrl ? rawUrl[0].replace(/[)"'>,./]+$/g, match => match.includes('/') ? '/' : '') : '';
 }
 
 function extensionFromUrl(url) {
@@ -94,12 +96,20 @@ function dryRunExtensionFromUrl(url) {
 }
 
 async function downloadImage(url) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 20000);
+  const headers = {
+    Accept: 'image/avif,image/webp,image/png,image/jpeg,image/*;q=0.8,*/*;q=0.5',
+    'User-Agent': 'LeslieHubSelfIntroPhotoUpdater/1.0'
+  };
+  if (process.env.GITHUB_TOKEN && new URL(url).hostname.endsWith('github.com')) {
+    headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
+  }
+
   const response = await fetch(url, {
-    headers: {
-      Accept: 'image/avif,image/webp,image/png,image/jpeg,image/*;q=0.8,*/*;q=0.5',
-      'User-Agent': 'LeslieHubSelfIntroPhotoUpdater/1.0'
-    }
-  });
+    headers,
+    signal: controller.signal
+  }).finally(() => clearTimeout(timeout));
   if (!response.ok) throw new Error(`Photo download failed: ${response.status} ${response.statusText}.`);
 
   const contentLength = Number(response.headers.get('content-length') || 0);

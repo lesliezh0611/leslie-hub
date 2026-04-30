@@ -34,6 +34,7 @@ jobs:
         continue-on-error: true
         env:
           COMMENT_PATH: ${{ runner.temp }}/self-intro-photo-comment.md
+          GITHUB_TOKEN: ${{ github.token }}
         run: node T_tools/apply-self-intro-photo-issue.mjs --comment-path "$COMMENT_PATH"
 
       - name: Commit and push update
