@@ -24,13 +24,13 @@
         "items": [
           {
             "year": "2024",
-            "title": "Turning Point",
+            "title": "Growing through campus life",
             "body": "Collecting the early undergraduate moments that made Zhejiang University feel like a starting point instead of just a location.",
             "photos": [
               {
-                "src": "assets/self-intro/sdf-choir.jpg",
+                "src": "assets/self-intro/placeholder-peach.svg",
                 "alt": "Warm placeholder for campus life",
-                "description": "Memorable experience"
+                "description": "Campus begins to feel personal when the routes, classes, and people start becoming a map."
               },
               {
                 "src": "assets/self-intro/placeholder-mint.svg",
