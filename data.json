@@ -274,188 +274,188 @@
       ],
       "articles": [
         {
-          "id": "vc_gdb_c64fa0139f",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
+          "id": "vc_dotey_38ae248691",
+          "source": "dotey",
+          "sourceName": "宝玉",
           "platform": "x",
-          "title": "chronicle gives codex passive memory over what you’ve been doing with your computer, which unlocks surprising use cases",
-          "url": "https://x.com/gdb/status/2049844703793688991",
-          "postedAt": "2026-04-30T13:33:56.000Z"
+          "title": "开源无国界",
+          "url": "https://x.com/dotey/status/2050059300458959097",
+          "postedAt": "2026-05-01T03:46:40.000Z"
         },
         {
-          "id": "vc_steipete_b8a24f154e",
+          "id": "vc_dotey_63ea7fcc55",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "这个提示词很有趣： “请用最笨拙、最潦草、简直惨不忍睹的画风，把附图重新画一遍。请使用纯白背景，并且要让它看起来就像是有人在 MS Paint 里用鼠标硬生生涂...",
+          "url": "https://x.com/dotey/status/2050035092655874261",
+          "postedAt": "2026-05-01T02:10:28.000Z"
+        },
+        {
+          "id": "vc_dotey_6c1356a95c",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "OpenAI 官方推出 Ralph loop 功能了，给 Codex CLI 加了个 /goal 命令。也就是说：你定个目标，它就一直跑，跨多轮不丢，不达目的不停。 这是 0.128.0 版本里的...",
+          "url": "https://x.com/dotey/status/2050028108787450148",
+          "postedAt": "2026-05-01T01:42:43.000Z"
+        },
+        {
+          "id": "vc_sama_15851671bd",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "artificial goblin intelligence achieved",
+          "url": "https://x.com/sama/status/2050021650641695108",
+          "postedAt": "2026-05-01T01:17:03.000Z"
+        },
+        {
+          "id": "vc_dotey_1edf9efecc",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "这不就是 claude code 的 /btw 吗？为啥要用个新名字叫 /side ！",
+          "url": "https://x.com/dotey/status/2050016917373469079",
+          "postedAt": "2026-05-01T00:58:15.000Z"
+        },
+        {
+          "id": "vc_dotey_9f94b01e86",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "http://x.com/i/article/2050005869304102912",
+          "url": "https://x.com/dotey/status/2050014278019588405",
+          "postedAt": "2026-05-01T00:47:45.000Z"
+        },
+        {
+          "id": "vc_steipete_3222d6cf5c",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "WAT",
-          "url": "https://x.com/steipete/status/2049839420312891768",
-          "postedAt": "2026-04-30T13:12:56.000Z"
+          "title": "codex doesn't create random markdowns 😉",
+          "url": "https://x.com/steipete/status/2050003238498226541",
+          "postedAt": "2026-05-01T00:03:53.000Z"
         },
         {
-          "id": "vc_dotey_63fb1c364f",
-          "source": "dotey",
-          "sourceName": "宝玉",
+          "id": "vc_steipete_65814c049f",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "Hermes Agent 加了一个新功能：Curator（策展人）。 Hermes Agent 有个“自我进化”机制，用着用着会自己创建各种技能文件来优化工作流。但技能攒多了就成了数字...",
-          "url": "https://x.com/dotey/status/2049735038560842186",
-          "postedAt": "2026-04-30T06:18:10.000Z"
+          "title": "If you tried OpenClaw in group chats and got mixed results, you GOTTA try again. I changed how agents talk there, it IS SO GOOD NOW. https://docs.open...",
+          "url": "https://x.com/steipete/status/2049988836160074022",
+          "postedAt": "2026-04-30T23:06:40.000Z"
         },
         {
-          "id": "vc_dotey_02864417c6",
-          "source": "dotey",
-          "sourceName": "宝玉",
+          "id": "vc_steipete_aa76e4b100",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "Sam Altman 刚宣布，OpenAI 将在未来几天向“关键网络安全防御者”推送 GPT-5.5-Cyber，一个专门为网络安全打造的前沿模型。他说 OpenAI 会和整个行业生态及政府...",
-          "url": "https://x.com/dotey/status/2049722598758522963",
-          "postedAt": "2026-04-30T05:28:44.000Z"
+          "title": "RT maria: people will see: - tibo reseting limits daily - sam being a real human and interacting with people (and getting some dunks on) - the codex t...",
+          "url": "https://x.com/steipete/status/2050060764157739303",
+          "postedAt": "2026-04-30T22:57:50.000Z"
         },
         {
-          "id": "vc_sama_aa70be4894",
-          "source": "sama",
-          "sourceName": "Sam Altman",
+          "id": "vc_steipete_9c84614ad4",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "alignment failure",
-          "url": "https://x.com/sama/status/2049715178611380317",
-          "postedAt": "2026-04-30T04:59:15.000Z"
+          "title": "I learned a lot about the security ecosystem in the last few months. Amazing to work with @nvidia @OpenAI @Microsoft @GitHub @TencentHunyuan @convex @...",
+          "url": "https://x.com/steipete/status/2049976855617314991",
+          "postedAt": "2026-04-30T22:19:03.000Z"
         },
         {
-          "id": "vc_sama_63190e12d0",
-          "source": "sama",
-          "sourceName": "Sam Altman",
+          "id": "vc_steipete_24e433a353",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "we're starting rollout of GPT-5.5-Cyber, a frontier cybersecurity model, to critical cyber defenders in the next few days. we will work with the entir...",
-          "url": "https://x.com/sama/status/2049712078836170843",
-          "postedAt": "2026-04-30T04:46:56.000Z"
+          "title": "RT NVIDIA: Re @openclaw @steipete Here's what always-on AI agents mean for every org: https://nvda.ws/42FaZVf",
+          "url": "https://x.com/steipete/status/2049973750133608757",
+          "postedAt": "2026-04-30T21:59:06.000Z"
         },
         {
-          "id": "vc_dotey_5a8d3c6cf5",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "OpenAI 发了一篇技术博客，认真调查了一个荒诞的问题：为什么他们的模型越来越爱说“哥布林”（goblin）和“小精灵”（gremlin）？ 事情最早在去年 11 月 GPT-5....",
-          "url": "https://x.com/dotey/status/2049698879197651087",
-          "postedAt": "2026-04-30T03:54:29.000Z"
-        },
-        {
-          "id": "vc_dotey_5400e33b8b",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "原推这个提示词风格很好看👍 ---- 一张极简风格插画，画面主体是【主体/物体】。使用干净纤细的线条描绘轮廓与结构，整体以黑白或低饱和色为主，只在局部加入...",
-          "url": "https://x.com/dotey/status/2049691392364916875",
-          "postedAt": "2026-04-30T03:24:44.000Z"
-        },
-        {
-          "id": "vc_gdb_287032e5d2",
+          "id": "vc_gdb_456045aa77",
           "source": "gdb",
           "sourceName": "Greg Brockman",
           "platform": "x",
-          "title": "DevDay 2026",
-          "url": "https://x.com/gdb/status/2049689602034741392",
-          "postedAt": "2026-04-30T03:17:37.000Z"
+          "title": "codex app becoming incredible",
+          "url": "https://x.com/gdb/status/2049971410479796521",
+          "postedAt": "2026-04-30T21:57:25.000Z"
         },
         {
-          "id": "vc_Khazix0918_163c0744ee",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "分享一下2026我最常用的AI产品。 自去年8月之后，时间又过了大半年，我觉得我又可以来分享一下我现在最常用的AI产品了。 AI圈的变化，实在是太快了。 毕竟，马上...",
-          "url": "https://x.com/Khazix0918/status/2049673817589698916",
-          "postedAt": "2026-04-30T02:14:53.000Z"
-        },
-        {
-          "id": "vc_gdb_aee34460d8",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "GPT-5.5 party on 5/5:",
-          "url": "https://x.com/gdb/status/2049661559950180556",
-          "postedAt": "2026-04-30T01:26:11.000Z"
-        },
-        {
-          "id": "vc_dotey_0fe584f448",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "OpenAI 上周发布 GPT-5.5 后，紧接着放出了一份官方提示词指南。这份指南传递的核心信息只有一个：别再写长提示词了。 GPT-5.5 距离上一代 GPT-5.4 只隔了六周，...",
-          "url": "https://x.com/dotey/status/2049624930887614648",
-          "postedAt": "2026-04-29T23:00:38.000Z"
-        },
-        {
-          "id": "vc_gdb_94dcf64efa",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "I’ve been very pleasantly surprised by how useful GPT Image 2 is for app building:",
-          "url": "https://x.com/gdb/status/2049609612425392494",
-          "postedAt": "2026-04-29T21:59:46.000Z"
-        },
-        {
-          "id": "vc_gdb_431831c654",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "build your own agents with codex app-server",
-          "url": "https://x.com/gdb/status/2049609076351381580",
-          "postedAt": "2026-04-29T21:57:38.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_ca72727c6d",
+          "id": "vc_zarazhangrui_28a4a5f36c",
           "source": "zarazhangrui",
           "sourceName": "张睿",
           "platform": "x",
-          "title": "We should start thinking about the IT/internal tools team as more like “HR for agents”",
-          "url": "https://x.com/zarazhangrui/status/2049599305825341518",
-          "postedAt": "2026-04-29T21:18:48.000Z"
+          "title": "Who knew html slides could look like this",
+          "url": "https://x.com/zarazhangrui/status/2049962315500658737",
+          "postedAt": "2026-04-30T21:21:17.000Z"
         },
         {
-          "id": "vc_steipete_a702f46973",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Luis Catacora: Re @steipete @useblacksmith the rise of AI-Powered \"AI/CD\"",
-          "url": "https://x.com/steipete/status/2049579034472829051",
-          "postedAt": "2026-04-29T19:30:00.000Z"
-        },
-        {
-          "id": "vc_steipete_28acd4dd6a",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Gergely Orosz: OpenClaw - the agentic software spreading like wildfire - was built on top of Pi, a minimalist, self-modifying agent. I sat down wit...",
-          "url": "https://x.com/steipete/status/2049518921653289009",
-          "postedAt": "2026-04-29T14:56:22.000Z"
-        },
-        {
-          "id": "vc_steipete_c9de0b3451",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Tibo: Re @Mugilan_SS @OpenAI It’s the small things. When we designed this the tradeoff was between a good experience or optimize for margin and no...",
-          "url": "https://x.com/steipete/status/2049541492151091318",
-          "postedAt": "2026-04-29T14:39:59.000Z"
-        },
-        {
-          "id": "vc_sama_fd7ca8e679",
+          "id": "vc_sama_11691b56f8",
           "source": "sama",
           "sourceName": "Sam Altman",
           "platform": "x",
-          "title": "i love that the team does stuff like this",
-          "url": "https://x.com/sama/status/2049492646792757552",
-          "postedAt": "2026-04-29T14:14:59.000Z"
+          "title": "big upgrade for codex today! try it for non-coding computer work.",
+          "url": "https://x.com/sama/status/2049946120441520624",
+          "postedAt": "2026-04-30T20:16:55.000Z"
         },
         {
-          "id": "vc_sama_c518b2778e",
+          "id": "vc_sama_9fa6cd66ea",
           "source": "sama",
           "sourceName": "Sam Altman",
           "platform": "x",
-          "title": "RT Greg Brockman: terminal has been my primary interface to my computer for almost two decades. now it’s the Codex app.",
-          "url": "https://x.com/sama/status/2049493182866747765",
-          "postedAt": "2026-04-29T13:15:47.000Z"
+          "title": "it does seem cool",
+          "url": "https://x.com/sama/status/2049944981750833659",
+          "postedAt": "2026-04-30T20:12:24.000Z"
+        },
+        {
+          "id": "vc_gdb_e63234aadf",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Codex is for everyone, for any task done with a computer",
+          "url": "https://x.com/gdb/status/2049934863818494205",
+          "postedAt": "2026-04-30T19:32:12.000Z"
+        },
+        {
+          "id": "vc_gdb_29d61452be",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Secure your ChatGPT account with Advanced Account Security:",
+          "url": "https://x.com/gdb/status/2049934486389837912",
+          "postedAt": "2026-04-30T19:30:42.000Z"
+        },
+        {
+          "id": "vc_sama_9f4dee2094",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "RT Ari Weinstein: Computer Use runs this use case 42% faster in today's Codex app update.",
+          "url": "https://x.com/sama/status/2049943699682165159",
+          "postedAt": "2026-04-30T19:23:47.000Z"
+        },
+        {
+          "id": "vc_sama_e498105cb3",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "RT OpenAI: It's never been easier to do everyday work with Codex. Choose your role, connect the apps you use every day, and try suggested prompts. Cod...",
+          "url": "https://x.com/sama/status/2049946147125625199",
+          "postedAt": "2026-04-30T19:08:00.000Z"
+        },
+        {
+          "id": "vc_karpathy_d937bf1f2b",
+          "source": "karpathy",
+          "sourceName": "Andrej Karpathy",
+          "platform": "x",
+          "title": "This is the the quote I've been citing a lot recently.",
+          "url": "https://x.com/karpathy/status/2049907410303865030",
+          "postedAt": "2026-04-30T17:43:06.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-30T14:24:08.627Z",
+      "lastUpdated": "2026-05-01T04:16:37.913Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -581,14 +581,6 @@
           "topic": "🎙️ This week on How I AI: How Intercom 2x’d their engineering velocity with Claude Code",
           "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-intercom",
           "postedAt": "2026-04-20T15:33:11.000Z"
-        },
-        {
-          "id": "en_pod_lex_fridman_podcast_3f79be977b",
-          "source": "Lex Fridman Podcast",
-          "platform": "podcast",
-          "topic": "#495 – Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
-          "url": "https://lexfridman.com/lars-brownworth/?utm_source=rss&utm_medium=rss&utm_campaign=lars-brownworth",
-          "postedAt": "2026-04-09T17:43:17.000Z"
         }
       ],
       "books": [
@@ -639,10 +631,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-30T14:24:10.073Z",
+      "lastUpdated": "2026-05-01T04:16:39.679Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "11 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -732,168 +724,168 @@
       },
       "articles": [
         {
+          "id": "om_376274ec8f",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Roblox’s daily users continue to drop as age checks slow growth",
+          "url": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
+          "postedAt": "2026-04-30T23:25:47.000Z"
+        },
+        {
+          "id": "om_856f7fa020",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok adds Campus Hub feature for U.S. college students",
+          "url": "https://www.socialmediatoday.com/news/tiktok-adds-campus-hub-feature-for-us-college-students/819035/",
+          "postedAt": "2026-04-30T21:30:24.000Z"
+        },
+        {
+          "id": "om_cc4571677e",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "A ‘new way of marketing’: Inside Expedia’s partnership with IShowSpeed",
+          "url": "https://www.marketingbrew.com/stories/2026/04/30/expedia-ishowspeed-partnership-creator-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-04-30T21:12:47.000Z"
+        },
+        {
+          "id": "om_07694c0550",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Instagram updates algorithm to benefit original creators",
+          "url": "https://www.socialmediatoday.com/news/instagram-updates-algorithm-to-benefit-original-creators/819016/",
+          "postedAt": "2026-04-30T18:54:48.000Z"
+        },
+        {
+          "id": "om_d18b5816d3",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+          "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+          "postedAt": "2026-04-30T18:20:03.000Z"
+        },
+        {
+          "id": "om_745d792b5b",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed",
+          "url": "https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/",
+          "postedAt": "2026-04-30T17:42:52.000Z"
+        },
+        {
+          "id": "om_d8af48f188",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Kohl’s delves into AI for gift finding, aiding associates",
+          "url": "https://www.retaildive.com/news/kohls-ai-gift-finding-google-cloud/818590/",
+          "postedAt": "2026-04-30T17:34:00.000Z"
+        },
+        {
+          "id": "om_7d9bea1ff7",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "TikTok’s new ‘Campus Hub’ features college group chats and feeds",
+          "url": "https://techcrunch.com/2026/04/30/tiktoks-new-campus-hub-features-college-group-chats-and-feeds/",
+          "postedAt": "2026-04-30T17:24:49.000Z"
+        },
+        {
+          "id": "om_44a244a779",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Wayfair touts market share gains in retail’s toughest category",
+          "url": "https://www.retaildive.com/news/wayfair-market-share-sales-gains-tough-home-category/818940/",
+          "postedAt": "2026-04-30T16:27:00.000Z"
+        },
+        {
+          "id": "om_739447c16a",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
+          "url": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
+          "postedAt": "2026-04-30T16:06:49.000Z"
+        },
+        {
+          "id": "om_d6dedfc0a7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Chess.com Surpassed 250 Million Users And Is Launching a New Advertising Gambit",
+          "url": "https://www.adweek.com/media/chess-makes-new-advertising-gambit/",
+          "postedAt": "2026-04-30T16:04:25.000Z"
+        },
+        {
+          "id": "om_fa62af0588",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Backroom: Redefining Pacsun",
+          "url": "https://www.retaildive.com/news/the-backroom-podcast-redefining-pacsun-ceo-brieane-olson/818934/",
+          "postedAt": "2026-04-30T15:46:00.000Z"
+        },
+        {
+          "id": "om_90f6c77224",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon Prime Day moves to June",
+          "url": "https://www.retaildive.com/news/amazon-prime-day-move-june-first-quarter-earnings/818918/",
+          "postedAt": "2026-04-30T15:30:00.000Z"
+        },
+        {
+          "id": "om_278f93a01c",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "SpaceX backer 137 Ventures raises $700M for two growth-stage funds",
+          "url": "https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/",
+          "postedAt": "2026-04-30T15:29:49.000Z"
+        },
+        {
+          "id": "om_28c3ddba4f",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Meta and Google ad revenues soar thanks to AI, but big picture is blurry",
+          "url": "https://www.marketingdive.com/news/meta-google-ad-revenues-soar-thanks-to-ai-but-big-picture-is-blurry/818932/",
+          "postedAt": "2026-04-30T15:21:00.000Z"
+        },
+        {
+          "id": "om_cbe406915a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Antonio Lucio Joins PayPal as CMO Amid Massive Restructure",
+          "url": "https://www.adweek.com/commerce/antonio-lucio-joins-paypal-as-cmo-amid-company-wide-restructure/",
+          "postedAt": "2026-04-30T14:42:29.000Z"
+        },
+        {
+          "id": "om_ffca515110",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Nestlé turns creator content into brand-suitable ads at scale",
+          "url": "https://www.marketingdive.com/news/how-nestle-turns-creator-content-into-brand-suitable-ads-at-scale/818825/",
+          "postedAt": "2026-04-30T14:30:00.000Z"
+        },
+        {
+          "id": "om_b1f4bbaad6",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Grubhub centers value in monthlong loyalty push with Anomaly",
+          "url": "https://www.marketingdive.com/news/grubhub-centers-on-value-in-monthlong-loyalty-push-with-anomaly/818939/",
+          "postedAt": "2026-04-30T14:04:06.000Z"
+        },
+        {
+          "id": "om_811fc938b2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Bath & Body Works names first chief brand and product officer",
+          "url": "https://www.retaildive.com/news/bath-body-works-names-first-chief-brand-product-officer-veronique-gabai-pinsky/818870/",
+          "postedAt": "2026-04-30T13:46:00.000Z"
+        },
+        {
           "id": "om_c0b649969e",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Claire’s marks next chapter with Gen Alpha-focused ASMR campaign",
           "url": "https://www.marketingdive.com/news/claires-marks-next-chapter-with-gen-alpha-focused-asmr-campaign/818868/",
           "postedAt": "2026-04-30T13:36:00.000Z"
-        },
-        {
-          "id": "om_2123c0b115",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Netflix wants you to watch ‘Clips,’ its TikTok-like vertical video feed",
-          "url": "https://techcrunch.com/2026/04/30/netflix-wants-you-to-watch-clips-its-tiktok-like-vertical-video-feed/",
-          "postedAt": "2026-04-30T13:00:00.000Z"
-        },
-        {
-          "id": "om_e6f7b0877d",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Google rolls out new tools to automate even more of the marketing process",
-          "url": "https://www.marketingbrew.com/stories/2026/04/30/google-tools-automate-even-more-marketing-AI-Max?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-04-30T13:00:00.000Z"
-        },
-        {
-          "id": "om_3dc61de814",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Carter’s CMO on evolving marketing by pairing heritage with progress",
-          "url": "https://www.marketingdive.com/news/carters-cmo-on-evolving-marketing-by-pairing-heritage-with-progress/818175/",
-          "postedAt": "2026-04-30T12:00:00.000Z"
-        },
-        {
-          "id": "om_fd9a41af0d",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "OpenAI’s ads pilot is getting more accessible to some advertisers",
-          "url": "https://www.marketingbrew.com/stories/2026/04/30/openai-s-ads-pilot-lower-cpms-minimum-spend?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-04-30T11:00:00.000Z"
-        },
-        {
-          "id": "om_95204fb069",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Rao’s Enlists Goodby Silverstein & Partners to Make its Brand Iconic",
-          "url": "https://www.adweek.com/agencies/raos-enlists-goodby-silverstein-partners-to-make-its-brand-iconic/",
-          "postedAt": "2026-04-30T09:00:00.000Z"
-        },
-        {
-          "id": "om_65f5fb0bb6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "In Its Summer Campaign, Budweiser Waves the Flag — A Lot",
-          "url": "https://www.adweek.com/brand-marketing/in-its-summer-campaign-budweiser-waves-the-flag-a-lot/",
-          "postedAt": "2026-04-30T09:00:00.000Z"
-        },
-        {
-          "id": "om_26a765de80",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Vue Calls on Taika Waititi to Lure Audiences Back to Movie Theaters",
-          "url": "https://www.adweek.com/creativity/vue-calls-on-taika-waititi-to-lure-audiences-back-to-movie-theaters/",
-          "postedAt": "2026-04-30T06:00:00.000Z"
-        },
-        {
-          "id": "om_f4817a4636",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
-          "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
-          "postedAt": "2026-04-29T22:20:48.000Z"
-        },
-        {
-          "id": "om_356db5c3bf",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
-          "url": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
-          "postedAt": "2026-04-29T20:36:53.000Z"
-        },
-        {
-          "id": "om_06025a8175",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "As discounts proliferate, Adidas must ‘defend newness’",
-          "url": "https://www.retaildive.com/news/adidas-defend-newness-discounts-promotions-first-quarter-earnings-growth/818826/",
-          "postedAt": "2026-04-29T18:56:00.000Z"
-        },
-        {
-          "id": "om_ccd1ac5ce6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Amazon Hits $70 Billion in Ad Revenue Over the Past 12 Months",
-          "url": "https://www.adweek.com/commerce/amazon-hits-70-billion-in-ad-revenue-over-the-past-12-months/",
-          "postedAt": "2026-04-29T18:47:36.000Z"
-        },
-        {
-          "id": "om_56d024ccdd",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why so many creators are joining the C-suite",
-          "url": "https://www.marketingbrew.com/stories/2026/04/29/creators-joining-the-c-suite?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-04-29T16:18:29.000Z"
-        },
-        {
-          "id": "om_7563940808",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Home Depot helps advertisers reach DIY audiences on Reddit and Pinterest",
-          "url": "https://www.retaildive.com/news/home-depot-advertisers-diy-audiences-reddit-pinterest/818405/",
-          "postedAt": "2026-04-29T15:13:00.000Z"
-        },
-        {
-          "id": "om_24d88278de",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Can Bed Bath & Beyond’s Bilt partnership simplify its experience?",
-          "url": "https://www.retaildive.com/news/bed-bath-beyond-bilt-partnership-simplify-experience/818607/",
-          "postedAt": "2026-04-29T14:50:00.000Z"
-        },
-        {
-          "id": "om_abdafd3043",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Expedia bets on creator-led marketing with IShowSpeed partnership",
-          "url": "https://www.marketingdive.com/news/expedia-bets-on-creator-led-marketing-with-ishowspeed-partnership/818792/",
-          "postedAt": "2026-04-29T14:45:00.000Z"
-        },
-        {
-          "id": "om_b8ac5713da",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Fossil sees 57% brand recall lift with InMobi’s full-funnel ad solution",
-          "url": "https://www.marketingdive.com/news/fossil-sees-57-brand-recall-lift-with-inmobis-full-funnel-ad-solution/818727/",
-          "postedAt": "2026-04-29T13:00:00.000Z"
-        },
-        {
-          "id": "om_e2d23dbc49",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Coors Light elongates name to celebrate World Cup goals",
-          "url": "https://www.marketingdive.com/news/coors-light-elongates-name-to-celebrate-world-cup-goals/818747/",
-          "postedAt": "2026-04-29T10:00:00.000Z"
-        },
-        {
-          "id": "om_09558a0d19",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Life stage matters more than age for in-app brand promotions",
-          "url": "https://www.socialmediatoday.com/news/life-stage-matters-more-than-age-for-in-app-brand-promotions/818771/",
-          "postedAt": "2026-04-28T21:04:01.000Z"
-        },
-        {
-          "id": "om_165a03982f",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Snowflake helps unlock data collaborations with consent signals from OneTrust",
-          "url": "https://www.marketingdive.com/news/snowflake-helps-unlock-data-collaborations-consent-signals-from-onetrust/818586/",
-          "postedAt": "2026-04-28T21:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-04-30T14:24:12.352Z",
+      "lastUpdated": "2026-05-01T04:16:42.315Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
