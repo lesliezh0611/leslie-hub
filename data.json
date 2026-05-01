@@ -274,6 +274,42 @@
       ],
       "articles": [
         {
+          "id": "vc_gdb_b630755f03",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "codex now has a built in Ralph loop++:",
+          "url": "https://x.com/gdb/status/2050194039077495089",
+          "postedAt": "2026-05-01T12:42:04.000Z"
+        },
+        {
+          "id": "vc_gdb_5c98e1e3c2",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "codex for the little things that you would otherwise spend lots of time on",
+          "url": "https://x.com/gdb/status/2050192975372673447",
+          "postedAt": "2026-05-01T12:37:50.000Z"
+        },
+        {
+          "id": "vc_steipete_35ffe98f7e",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Too many agents, too many test suites, one very tired Mac. Run them remote: Crabbox 0.1.0 🦀 ⚡ Remote Linux test boxes (AWS, Hetzner) 🔁 Dirty ch...",
+          "url": "https://x.com/steipete/status/2050140050168451286",
+          "postedAt": "2026-05-01T09:07:32.000Z"
+        },
+        {
+          "id": "vc_gdb_b28b8c91a0",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "openai logo, scribblified",
+          "url": "https://x.com/gdb/status/2050099778072047756",
+          "postedAt": "2026-05-01T06:27:30.000Z"
+        },
+        {
           "id": "vc_dotey_38ae248691",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -290,6 +326,15 @@
           "title": "这个提示词很有趣： “请用最笨拙、最潦草、简直惨不忍睹的画风，把附图重新画一遍。请使用纯白背景，并且要让它看起来就像是有人在 MS Paint 里用鼠标硬生生涂...",
           "url": "https://x.com/dotey/status/2050035092655874261",
           "postedAt": "2026-05-01T02:10:28.000Z"
+        },
+        {
+          "id": "vc_steipete_960e0c3fe5",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Stripe: .@natfriedman on staying hydrated with @openclaw",
+          "url": "https://x.com/steipete/status/2050081771102851170",
+          "postedAt": "2026-05-01T01:51:13.000Z"
         },
         {
           "id": "vc_dotey_6c1356a95c",
@@ -355,24 +400,6 @@
           "postedAt": "2026-04-30T22:57:50.000Z"
         },
         {
-          "id": "vc_steipete_9c84614ad4",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "I learned a lot about the security ecosystem in the last few months. Amazing to work with @nvidia @OpenAI @Microsoft @GitHub @TencentHunyuan @convex @...",
-          "url": "https://x.com/steipete/status/2049976855617314991",
-          "postedAt": "2026-04-30T22:19:03.000Z"
-        },
-        {
-          "id": "vc_steipete_24e433a353",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT NVIDIA: Re @openclaw @steipete Here's what always-on AI agents mean for every org: https://nvda.ws/42FaZVf",
-          "url": "https://x.com/steipete/status/2049973750133608757",
-          "postedAt": "2026-04-30T21:59:06.000Z"
-        },
-        {
           "id": "vc_gdb_456045aa77",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -418,15 +445,6 @@
           "postedAt": "2026-04-30T19:32:12.000Z"
         },
         {
-          "id": "vc_gdb_29d61452be",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Secure your ChatGPT account with Advanced Account Security:",
-          "url": "https://x.com/gdb/status/2049934486389837912",
-          "postedAt": "2026-04-30T19:30:42.000Z"
-        },
-        {
           "id": "vc_sama_9f4dee2094",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -434,28 +452,10 @@
           "title": "RT Ari Weinstein: Computer Use runs this use case 42% faster in today's Codex app update.",
           "url": "https://x.com/sama/status/2049943699682165159",
           "postedAt": "2026-04-30T19:23:47.000Z"
-        },
-        {
-          "id": "vc_sama_e498105cb3",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "RT OpenAI: It's never been easier to do everyday work with Codex. Choose your role, connect the apps you use every day, and try suggested prompts. Cod...",
-          "url": "https://x.com/sama/status/2049946147125625199",
-          "postedAt": "2026-04-30T19:08:00.000Z"
-        },
-        {
-          "id": "vc_karpathy_d937bf1f2b",
-          "source": "karpathy",
-          "sourceName": "Andrej Karpathy",
-          "platform": "x",
-          "title": "This is the the quote I've been citing a lot recently.",
-          "url": "https://x.com/karpathy/status/2049907410303865030",
-          "postedAt": "2026-04-30T17:43:06.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-01T04:16:37.913Z",
+      "lastUpdated": "2026-05-01T13:54:22.221Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -631,7 +631,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-01T04:16:39.679Z",
+      "lastUpdated": "2026-05-01T13:54:23.555Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -724,6 +724,54 @@
       },
       "articles": [
         {
+          "id": "om_cfa9a48e4a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Ford brings American values to life as nation’s 250th birthday nears",
+          "url": "https://www.marketingdive.com/news/how-ford-brings-american-values-to-life-as-nations-250th-birthday-nears/818970/",
+          "postedAt": "2026-05-01T13:31:00.000Z"
+        },
+        {
+          "id": "om_463b07537a",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
+          "postedAt": "2026-05-01T13:25:25.000Z"
+        },
+        {
+          "id": "om_a0e003285f",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How Dallas’ WNBA team is spreading its sponsorship wings this season",
+          "url": "https://www.marketingbrew.com/stories/2026/05/01/dallas-wings-wnba-sponsorship?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-01T11:00:00.000Z"
+        },
+        {
+          "id": "om_e52dd3d334",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Chinese Retail Is Shaking Up American Retail",
+          "url": "https://www.adweek.com/brand-marketing/chinese-retail-is-shaking-up-american-retail/",
+          "postedAt": "2026-05-01T09:40:08.000Z"
+        },
+        {
+          "id": "om_99bffddc39",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Marketers on the Move: Hires and Exits at Chipotle, PayPal, Overtime, and More",
+          "url": "https://www.adweek.com/brand-marketing/marketers-on-the-move-hires-and-exits-at-chipotle-paypal-overtime-and-more/",
+          "postedAt": "2026-05-01T08:43:37.000Z"
+        },
+        {
+          "id": "om_fc49c762d1",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 8 Campaigns That Caught Our Eye, From Claire’s to Skittles",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-8-campaigns-that-caught-our-eye-from-claires-to-skittles/",
+          "postedAt": "2026-05-01T06:00:00.000Z"
+        },
+        {
           "id": "om_376274ec8f",
           "source": "The Verge",
           "lang": "en",
@@ -735,7 +783,7 @@
           "id": "om_856f7fa020",
           "source": "Social Media Today",
           "lang": "en",
-          "title": "TikTok adds Campus Hub feature for U.S. college students",
+          "title": "TikTok adds Campus Hub feature for US college students",
           "url": "https://www.socialmediatoday.com/news/tiktok-adds-campus-hub-feature-for-us-college-students/819035/",
           "postedAt": "2026-04-30T21:30:24.000Z"
         },
@@ -834,58 +882,10 @@
           "title": "SpaceX backer 137 Ventures raises $700M for two growth-stage funds",
           "url": "https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/",
           "postedAt": "2026-04-30T15:29:49.000Z"
-        },
-        {
-          "id": "om_28c3ddba4f",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Meta and Google ad revenues soar thanks to AI, but big picture is blurry",
-          "url": "https://www.marketingdive.com/news/meta-google-ad-revenues-soar-thanks-to-ai-but-big-picture-is-blurry/818932/",
-          "postedAt": "2026-04-30T15:21:00.000Z"
-        },
-        {
-          "id": "om_cbe406915a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Antonio Lucio Joins PayPal as CMO Amid Massive Restructure",
-          "url": "https://www.adweek.com/commerce/antonio-lucio-joins-paypal-as-cmo-amid-company-wide-restructure/",
-          "postedAt": "2026-04-30T14:42:29.000Z"
-        },
-        {
-          "id": "om_ffca515110",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Nestlé turns creator content into brand-suitable ads at scale",
-          "url": "https://www.marketingdive.com/news/how-nestle-turns-creator-content-into-brand-suitable-ads-at-scale/818825/",
-          "postedAt": "2026-04-30T14:30:00.000Z"
-        },
-        {
-          "id": "om_b1f4bbaad6",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Grubhub centers value in monthlong loyalty push with Anomaly",
-          "url": "https://www.marketingdive.com/news/grubhub-centers-on-value-in-monthlong-loyalty-push-with-anomaly/818939/",
-          "postedAt": "2026-04-30T14:04:06.000Z"
-        },
-        {
-          "id": "om_811fc938b2",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bath & Body Works names first chief brand and product officer",
-          "url": "https://www.retaildive.com/news/bath-body-works-names-first-chief-brand-product-officer-veronique-gabai-pinsky/818870/",
-          "postedAt": "2026-04-30T13:46:00.000Z"
-        },
-        {
-          "id": "om_c0b649969e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Claire’s marks next chapter with Gen Alpha-focused ASMR campaign",
-          "url": "https://www.marketingdive.com/news/claires-marks-next-chapter-with-gen-alpha-focused-asmr-campaign/818868/",
-          "postedAt": "2026-04-30T13:36:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-01T04:16:42.315Z",
+      "lastUpdated": "2026-05-01T13:54:25.266Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
