@@ -274,6 +274,141 @@
       ],
       "articles": [
         {
+          "id": "vc_sama_cafba5d7bf",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "/hatch clippy",
+          "url": "https://x.com/sama/status/2050402088266694689",
+          "postedAt": "2026-05-02T02:28:47.000Z"
+        },
+        {
+          "id": "vc_sama_1bc3df4e0e",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "man its good to be back on twitter there is comfort in the skills of a wasted youth",
+          "url": "https://x.com/sama/status/2050399512494227709",
+          "postedAt": "2026-05-02T02:18:33.000Z"
+        },
+        {
+          "id": "vc_steipete_5a9aa594b9",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "told codex I had to pay up to make @xai work again.",
+          "url": "https://x.com/steipete/status/2050384648119734683",
+          "postedAt": "2026-05-02T01:19:29.000Z"
+        },
+        {
+          "id": "vc_dotey_acd3c36fac",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "我觉得判断谁写的代码更快更好，应该是 1. 擅长定义清楚问题，或者说把需求拆解成AI能执行的任务 2. 判断结果的好坏，能识别AI生成结果的质量，对于质量差的能指...",
+          "url": "https://x.com/dotey/status/2050367418648727764",
+          "postedAt": "2026-05-02T00:11:01.000Z"
+        },
+        {
+          "id": "vc_dotey_bd3bd3454f",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 虎小象: 你不是普通图像生成模型。 你是「线的呼吸场」中的极简线条意象转译器。 用户会输入一个字、一个词、一句话、一个概念或一种情绪。 你的任务不是直接...",
+          "url": "https://x.com/dotey/status/2050396291541164369",
+          "postedAt": "2026-05-01T23:55:23.000Z"
+        },
+        {
+          "id": "vc_sama_0b9c79f805",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "you can sign in to openclaw with your chatgpt account now and use your subscription there! happy lobstering.",
+          "url": "https://x.com/sama/status/2050357911915028689",
+          "postedAt": "2026-05-01T23:33:14.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_5cdd18fec1",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "I realized a lot of people treat coding agents as their employee, whereas I actually treat it as my cofounder I don't just give orders. I present prob...",
+          "url": "https://x.com/zarazhangrui/status/2050326543797469415",
+          "postedAt": "2026-05-01T21:28:35.000Z"
+        },
+        {
+          "id": "vc_sama_d3abe2cb6d",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "ok its not the most important thing we've ever done but i find it more useful than it seems on the surface. check out pets in codex! (and try hatching...",
+          "url": "https://x.com/sama/status/2050304809572688289",
+          "postedAt": "2026-05-01T20:02:14.000Z"
+        },
+        {
+          "id": "vc_dotey_172e6752aa",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT Michael Guo: OpenAI 推出了能够让Agent长时间连续运行的 /goal。不少人已经成功实践。 Peter Steinberger 的一项 Goal 已经运行了 11 小时 31 分钟。@ynkzlk...",
+          "url": "https://x.com/dotey/status/2050406077674504325",
+          "postedAt": "2026-05-01T19:53:26.000Z"
+        },
+        {
+          "id": "vc_sama_58d9db744a",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "its weird how much i want to get something to run for the record longest",
+          "url": "https://x.com/sama/status/2050302192775815613",
+          "postedAt": "2026-05-01T19:51:50.000Z"
+        },
+        {
+          "id": "vc_gdb_7d38dad52f",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "such a fun launch — try \"/pet hi\" in Codex app:",
+          "url": "https://x.com/gdb/status/2050284610656035297",
+          "postedAt": "2026-05-01T18:41:58.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_9035017a6c",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "I have used Cleanshot every single day for the past 8 years and I'm not even exaggerating.",
+          "url": "https://x.com/zarazhangrui/status/2050280810302062927",
+          "postedAt": "2026-05-01T18:26:52.000Z"
+        },
+        {
+          "id": "vc_steipete_81b27b765d",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "The new /goal feature in codex slaps.",
+          "url": "https://x.com/steipete/status/2050275598178586921",
+          "postedAt": "2026-05-01T18:06:09.000Z"
+        },
+        {
+          "id": "vc_dotey_c944cd81b6",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Apple 发布 Apple Support App（v5.13）时，把 Claude.md 也一起发出来了😂",
+          "url": "https://x.com/dotey/status/2050245815852056837",
+          "postedAt": "2026-05-01T16:07:48.000Z"
+        },
+        {
+          "id": "vc_gdb_b44240da1c",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Codex as the everything productivity app",
+          "url": "https://x.com/gdb/status/2050233125276451243",
+          "postedAt": "2026-05-01T15:17:23.000Z"
+        },
+        {
           "id": "vc_gdb_b630755f03",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -317,145 +452,10 @@
           "title": "开源无国界",
           "url": "https://x.com/dotey/status/2050059300458959097",
           "postedAt": "2026-05-01T03:46:40.000Z"
-        },
-        {
-          "id": "vc_dotey_63ea7fcc55",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "这个提示词很有趣： “请用最笨拙、最潦草、简直惨不忍睹的画风，把附图重新画一遍。请使用纯白背景，并且要让它看起来就像是有人在 MS Paint 里用鼠标硬生生涂...",
-          "url": "https://x.com/dotey/status/2050035092655874261",
-          "postedAt": "2026-05-01T02:10:28.000Z"
-        },
-        {
-          "id": "vc_steipete_960e0c3fe5",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Stripe: .@natfriedman on staying hydrated with @openclaw",
-          "url": "https://x.com/steipete/status/2050081771102851170",
-          "postedAt": "2026-05-01T01:51:13.000Z"
-        },
-        {
-          "id": "vc_dotey_6c1356a95c",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "OpenAI 官方推出 Ralph loop 功能了，给 Codex CLI 加了个 /goal 命令。也就是说：你定个目标，它就一直跑，跨多轮不丢，不达目的不停。 这是 0.128.0 版本里的...",
-          "url": "https://x.com/dotey/status/2050028108787450148",
-          "postedAt": "2026-05-01T01:42:43.000Z"
-        },
-        {
-          "id": "vc_sama_15851671bd",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "artificial goblin intelligence achieved",
-          "url": "https://x.com/sama/status/2050021650641695108",
-          "postedAt": "2026-05-01T01:17:03.000Z"
-        },
-        {
-          "id": "vc_dotey_1edf9efecc",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "这不就是 claude code 的 /btw 吗？为啥要用个新名字叫 /side ！",
-          "url": "https://x.com/dotey/status/2050016917373469079",
-          "postedAt": "2026-05-01T00:58:15.000Z"
-        },
-        {
-          "id": "vc_dotey_9f94b01e86",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "http://x.com/i/article/2050005869304102912",
-          "url": "https://x.com/dotey/status/2050014278019588405",
-          "postedAt": "2026-05-01T00:47:45.000Z"
-        },
-        {
-          "id": "vc_steipete_3222d6cf5c",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "codex doesn't create random markdowns 😉",
-          "url": "https://x.com/steipete/status/2050003238498226541",
-          "postedAt": "2026-05-01T00:03:53.000Z"
-        },
-        {
-          "id": "vc_steipete_65814c049f",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "If you tried OpenClaw in group chats and got mixed results, you GOTTA try again. I changed how agents talk there, it IS SO GOOD NOW. https://docs.open...",
-          "url": "https://x.com/steipete/status/2049988836160074022",
-          "postedAt": "2026-04-30T23:06:40.000Z"
-        },
-        {
-          "id": "vc_steipete_aa76e4b100",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT maria: people will see: - tibo reseting limits daily - sam being a real human and interacting with people (and getting some dunks on) - the codex t...",
-          "url": "https://x.com/steipete/status/2050060764157739303",
-          "postedAt": "2026-04-30T22:57:50.000Z"
-        },
-        {
-          "id": "vc_gdb_456045aa77",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "codex app becoming incredible",
-          "url": "https://x.com/gdb/status/2049971410479796521",
-          "postedAt": "2026-04-30T21:57:25.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_28a4a5f36c",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Who knew html slides could look like this",
-          "url": "https://x.com/zarazhangrui/status/2049962315500658737",
-          "postedAt": "2026-04-30T21:21:17.000Z"
-        },
-        {
-          "id": "vc_sama_11691b56f8",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "big upgrade for codex today! try it for non-coding computer work.",
-          "url": "https://x.com/sama/status/2049946120441520624",
-          "postedAt": "2026-04-30T20:16:55.000Z"
-        },
-        {
-          "id": "vc_sama_9fa6cd66ea",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "it does seem cool",
-          "url": "https://x.com/sama/status/2049944981750833659",
-          "postedAt": "2026-04-30T20:12:24.000Z"
-        },
-        {
-          "id": "vc_gdb_e63234aadf",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Codex is for everyone, for any task done with a computer",
-          "url": "https://x.com/gdb/status/2049934863818494205",
-          "postedAt": "2026-04-30T19:32:12.000Z"
-        },
-        {
-          "id": "vc_sama_9f4dee2094",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "RT Ari Weinstein: Computer Use runs this use case 42% faster in today's Codex app update.",
-          "url": "https://x.com/sama/status/2049943699682165159",
-          "postedAt": "2026-04-30T19:23:47.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-01T13:54:22.221Z",
+      "lastUpdated": "2026-05-02T03:50:40.306Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -631,7 +631,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-01T13:54:23.555Z",
+      "lastUpdated": "2026-05-02T03:50:41.511Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -724,20 +724,140 @@
       },
       "articles": [
         {
+          "id": "om_43e742268c",
+          "source": "Wired",
+          "lang": "en",
+          "title": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users",
+          "url": "https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/",
+          "postedAt": "2026-05-01T21:46:46.000Z"
+        },
+        {
+          "id": "om_8a7dd1e791",
+          "source": "Wired",
+          "lang": "en",
+          "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+          "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
+          "postedAt": "2026-05-01T20:25:28.000Z"
+        },
+        {
+          "id": "om_22309eae42",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Marketing CEO: Why Leadership Now Starts With Knowing Your Brand Identity",
+          "url": "https://www.adweek.com/brand-marketing/the-marketing-ceo-why-leadership-now-starts-with-knowing-your-brand-identity/",
+          "postedAt": "2026-05-01T16:25:37.000Z"
+        },
+        {
+          "id": "om_a60a94c9c3",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Claire’s marks next chapter with Gen Alpha-focused ASMR campaign",
+          "url": "https://www.retaildive.com/news/claires-gen-alpha-asmr-campaign-girl-smr/818931/",
+          "postedAt": "2026-05-01T16:17:00.000Z"
+        },
+        {
+          "id": "om_dbffbba2f7",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "J. Jill names Coach vet as chief marketing officer",
+          "url": "https://www.retaildive.com/news/j-jill-names-coach-vet-as-chief-marketing-officer/819046/",
+          "postedAt": "2026-05-01T15:56:00.000Z"
+        },
+        {
+          "id": "om_146220347b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "AI Is Bringing Retail Media Closer to the Sale",
+          "url": "https://www.adweek.com/commerce/ai-is-bringing-retail-media-closer-to-the-sale/",
+          "postedAt": "2026-05-01T15:55:16.000Z"
+        },
+        {
+          "id": "om_fd53517407",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "What It Takes to Grow a CPG Challenger Brand",
+          "url": "https://www.adweek.com/brand-marketing/what-it-takes-to-grow-a-cpg-challenger-brand/",
+          "postedAt": "2026-05-01T15:54:37.000Z"
+        },
+        {
+          "id": "om_5a2995aa11",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "For Creator-Led Campaigns, Authenticity Starts Before the Shoot",
+          "url": "https://www.adweek.com/creativity/for-creator-led-campaigns-authenticity-starts-before-the-shoot/",
+          "postedAt": "2026-05-01T15:53:46.000Z"
+        },
+        {
+          "id": "om_0d1257b428",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why Audio Is a Trusted Anchor in a Digital World",
+          "url": "https://www.adweek.com/brand-marketing/why-audio-is-a-trusted-anchor-in-a-digital-world/",
+          "postedAt": "2026-05-01T15:52:28.000Z"
+        },
+        {
+          "id": "om_4edc7586e4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "AI Answer Engines Pose Challenges and Opportunities for Brands",
+          "url": "https://www.adweek.com/brand-marketing/ai-answer-engines-pose-challenges-and-opportunities-for-brands/",
+          "postedAt": "2026-05-01T15:51:45.000Z"
+        },
+        {
+          "id": "om_66e32e13ee",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Generative AI Will Impact Marketers and Consumers",
+          "url": "https://www.adweek.com/brand-marketing/how-generative-ai-will-impact-marketers-and-consumers/",
+          "postedAt": "2026-05-01T15:51:21.000Z"
+        },
+        {
+          "id": "om_f8026174ab",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Trade Desk Is Selling Onsite Retail Media Ads for Dollar General",
+          "url": "https://www.adweek.com/commerce/the-trade-desk-is-selling-onsite-retail-media-ads-for-dollar-general/",
+          "postedAt": "2026-05-01T15:07:37.000Z"
+        },
+        {
+          "id": "om_5c5ce39335",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Saks Global slashes 16% of its corporate workforce",
+          "url": "https://www.retaildive.com/news/saks-global-layoffs-sixteen-percent-corporate-workforce/819037/",
+          "postedAt": "2026-05-01T14:42:00.000Z"
+        },
+        {
+          "id": "om_bef7ad5243",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Go Figure: 3 big marketing numbers from April",
+          "url": "https://www.marketingdive.com/news/go-figure-3-big-marketing-numbers-from-april/819064/",
+          "postedAt": "2026-05-01T14:41:00.000Z"
+        },
+        {
+          "id": "om_4d712b3fbc",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: Heydude sales decline and Lululemon dishes about Chip Wilson",
+          "url": "https://www.retaildive.com/news/heydude-sales-declines-lululemon-chip-wilson-proxy-fight-vuori-alo/819015/",
+          "postedAt": "2026-05-01T14:34:00.000Z"
+        },
+        {
+          "id": "om_057d28c12f",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "A’ja Wilson and Jalen Brunson are starring in Lowe’s debut basketball campaign",
+          "url": "https://www.marketingbrew.com/stories/2026/05/01/lowes-basketball-aja-wilson-jalen-brunson?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-01T14:00:00.000Z"
+        },
+        {
           "id": "om_cfa9a48e4a",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "How Ford brings American values to life as nation’s 250th birthday nears",
+          "title": "Ford CMO on bringing American values to life for nation’s 250th birthday",
           "url": "https://www.marketingdive.com/news/how-ford-brings-american-values-to-life-as-nations-250th-birthday-nears/818970/",
           "postedAt": "2026-05-01T13:31:00.000Z"
-        },
-        {
-          "id": "om_463b07537a",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
-          "postedAt": "2026-05-01T13:25:25.000Z"
         },
         {
           "id": "om_a0e003285f",
@@ -746,38 +866,6 @@
           "title": "How Dallas’ WNBA team is spreading its sponsorship wings this season",
           "url": "https://www.marketingbrew.com/stories/2026/05/01/dallas-wings-wnba-sponsorship?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-05-01T11:00:00.000Z"
-        },
-        {
-          "id": "om_e52dd3d334",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Chinese Retail Is Shaking Up American Retail",
-          "url": "https://www.adweek.com/brand-marketing/chinese-retail-is-shaking-up-american-retail/",
-          "postedAt": "2026-05-01T09:40:08.000Z"
-        },
-        {
-          "id": "om_99bffddc39",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketers on the Move: Hires and Exits at Chipotle, PayPal, Overtime, and More",
-          "url": "https://www.adweek.com/brand-marketing/marketers-on-the-move-hires-and-exits-at-chipotle-paypal-overtime-and-more/",
-          "postedAt": "2026-05-01T08:43:37.000Z"
-        },
-        {
-          "id": "om_fc49c762d1",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 8 Campaigns That Caught Our Eye, From Claire’s to Skittles",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-8-campaigns-that-caught-our-eye-from-claires-to-skittles/",
-          "postedAt": "2026-05-01T06:00:00.000Z"
-        },
-        {
-          "id": "om_376274ec8f",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Roblox’s daily users continue to drop as age checks slow growth",
-          "url": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
-          "postedAt": "2026-04-30T23:25:47.000Z"
         },
         {
           "id": "om_856f7fa020",
@@ -794,98 +882,10 @@
           "title": "A ‘new way of marketing’: Inside Expedia’s partnership with IShowSpeed",
           "url": "https://www.marketingbrew.com/stories/2026/04/30/expedia-ishowspeed-partnership-creator-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-04-30T21:12:47.000Z"
-        },
-        {
-          "id": "om_07694c0550",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Instagram updates algorithm to benefit original creators",
-          "url": "https://www.socialmediatoday.com/news/instagram-updates-algorithm-to-benefit-original-creators/819016/",
-          "postedAt": "2026-04-30T18:54:48.000Z"
-        },
-        {
-          "id": "om_d18b5816d3",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-          "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-          "postedAt": "2026-04-30T18:20:03.000Z"
-        },
-        {
-          "id": "om_745d792b5b",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Don’t Let Industry Jargon Cost You When Shopping for a Smart Bed",
-          "url": "https://www.wired.com/story/adjustable-mattress-vs-adjustable-frame-vs-smart-bed/",
-          "postedAt": "2026-04-30T17:42:52.000Z"
-        },
-        {
-          "id": "om_d8af48f188",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Kohl’s delves into AI for gift finding, aiding associates",
-          "url": "https://www.retaildive.com/news/kohls-ai-gift-finding-google-cloud/818590/",
-          "postedAt": "2026-04-30T17:34:00.000Z"
-        },
-        {
-          "id": "om_7d9bea1ff7",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "TikTok’s new ‘Campus Hub’ features college group chats and feeds",
-          "url": "https://techcrunch.com/2026/04/30/tiktoks-new-campus-hub-features-college-group-chats-and-feeds/",
-          "postedAt": "2026-04-30T17:24:49.000Z"
-        },
-        {
-          "id": "om_44a244a779",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Wayfair touts market share gains in retail’s toughest category",
-          "url": "https://www.retaildive.com/news/wayfair-market-share-sales-gains-tough-home-category/818940/",
-          "postedAt": "2026-04-30T16:27:00.000Z"
-        },
-        {
-          "id": "om_739447c16a",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
-          "url": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
-          "postedAt": "2026-04-30T16:06:49.000Z"
-        },
-        {
-          "id": "om_d6dedfc0a7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Chess.com Surpassed 250 Million Users And Is Launching a New Advertising Gambit",
-          "url": "https://www.adweek.com/media/chess-makes-new-advertising-gambit/",
-          "postedAt": "2026-04-30T16:04:25.000Z"
-        },
-        {
-          "id": "om_fa62af0588",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Backroom: Redefining Pacsun",
-          "url": "https://www.retaildive.com/news/the-backroom-podcast-redefining-pacsun-ceo-brieane-olson/818934/",
-          "postedAt": "2026-04-30T15:46:00.000Z"
-        },
-        {
-          "id": "om_90f6c77224",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon Prime Day moves to June",
-          "url": "https://www.retaildive.com/news/amazon-prime-day-move-june-first-quarter-earnings/818918/",
-          "postedAt": "2026-04-30T15:30:00.000Z"
-        },
-        {
-          "id": "om_278f93a01c",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "SpaceX backer 137 Ventures raises $700M for two growth-stage funds",
-          "url": "https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/",
-          "postedAt": "2026-04-30T15:29:49.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-01T13:54:25.266Z",
+      "lastUpdated": "2026-05-02T03:50:43.499Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
