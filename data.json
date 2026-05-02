@@ -12,20 +12,20 @@
     "title": "Self Intro",
     "subtitle": "Life experience, hobbies, and casual activities",
     "hero": {
-      "headline": "A more personal side of Leslie",
-      "body": "A warm shelf for the parts of life that do not fit inside grades or reading lists: where I have been, what I like making, and the casual moments I want to remember.",
+      "headline": "Hey! Take a closer look at me!",
+      "body": "Life beyond grades & scores: where I have been, what I like making, and what I want to remember.",
       "coverImage": "assets/self-intro/placeholder-green.svg?v=clean-1"
     },
     "sections": [
       {
         "id": "life",
         "title": "Life Experience",
-        "summary": "Places, transitions, and small decisions that shaped how I study, build, and see the world.",
+        "summary": "Places, transitions, and small decisions that shaped how I think of life and see the world.",
         "items": [
           {
             "year": "2024",
-            "title": "Growing through campus life",
-            "body": "Collecting the early undergraduate moments that made Zhejiang University feel like a starting point instead of just a location.",
+            "title": "High School Chior Team",
+            "body": "Before joining the School Chior, I never expect one day I can be the one who's on stage, who caught everyone's eyes, who stands in the middle of light",
             "photos": [
               {
                 "src": "assets/self-intro/uploads/life-2024-slot-1.jpg",
@@ -39,8 +39,8 @@
           },
           {
             "year": "2025",
-            "title": "Learning by building",
-            "body": "Turning coursework, AI tools, and personal curiosity into small experiments I can keep improving.",
+            "title": "Gaokao and...",
+            "body": "The best holiday ever. I mean it. Looking back from now, this is the moment that worries, pressure, and upsets all fade away.",
             "photos": [
               {
                 "src": "assets/self-intro/uploads/life-2025-slot-1.jpg",
@@ -75,7 +75,7 @@
       {
         "id": "hobbies",
         "title": "Hobbies",
-        "summary": "Interests that bring energy back: English input, product thinking, films, books, design references, and playful tools.",
+        "summary": "Interests that bring energy back: English input, product thinking, films, books.",
         "items": [
           {
             "title": "English input",
@@ -138,7 +138,7 @@
       {
         "id": "casual",
         "title": "Casual Activities",
-        "summary": "Low-pressure life notes: walks, meals, conversations, study breaks, and tiny rituals outside the serious dashboard.",
+        "summary": "Life notes: walks, meals, conversations, study breaks, and tiny rituals outside the hustle and bustle.",
         "items": [
           {
             "title": "Walking around",
@@ -639,7 +639,7 @@
     "overseaMarketing": {
       "title": "Oversea Marketing",
       "icon": "🌏",
-      "subtitle": "出海营销, platform strategy, and global growth signals",
+      "subtitle": "platform strategy, and global growth signals",
       "sources": {
         "cn": [
           {
