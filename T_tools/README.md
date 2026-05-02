@@ -25,6 +25,30 @@ node T_tools/apply-self-intro-photo-issue.mjs --dry-run --event-path /path/to/ev
 
 ## Publish `data.json` Source Changes
 
+Use this when you edited text/content directly inside `data.json` and only want to publish that file:
+
+```bash
+cd /Users/leslie/Projects/leslie-hub/D_deliverables
+bash T_tools/publish-data-json.sh
+```
+
+Optional custom commit message:
+
+```bash
+bash T_tools/publish-data-json.sh "Update self intro copy"
+```
+
+The script:
+
+- accepts only local `data.json` edits;
+- validates that `data.json` is valid JSON;
+- syncs latest GitHub changes with rebase/autostash;
+- uses the Mac system HTTPS proxy automatically when available;
+- commits `data.json`;
+- pushes to `main`.
+
+## Publish Explore Source Changes
+
 Use this after editing `data.json`, especially `explore.vibeCoding.sources`.
 
 ```bash
