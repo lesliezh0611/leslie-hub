@@ -75,15 +75,7 @@ if [ -z "$status" ]; then
   exit 0
 fi
 
-unexpected="$(
-  printf "%s\n" "$status" | while IFS= read -r line; do
-    path="${line:3}"
-    case "$path" in
-      data.json) ;;
-      *) printf "%s\n" "$line" ;;
-    esac
-  done
-)"
+unexpected="$(printf "%s\n" "$status" | awk 'substr($0, 4) != "data.json" { print }')"
 
 if [ -n "$unexpected" ]; then
   printf "%s\n" "$status"
