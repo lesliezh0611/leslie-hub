@@ -274,6 +274,51 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_136df0ef33",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Agnes AI: Super excited to be organizing Africas first @clawcon in Nairobi in June! Lets bring together a community of builders in Kenya! @openclaw...",
+          "url": "https://x.com/steipete/status/2050510198704377988",
+          "postedAt": "2026-05-02T09:17:21.000Z"
+        },
+        {
+          "id": "vc_steipete_3c5286da87",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "🦀 Crabbox 0.3.0 is out. Remote Linux runs for dirty worktrees 🔐 GitHub browser login 🧰 Blacksmith Testbox wrap 📡 crabbox attach for live r...",
+          "url": "https://x.com/steipete/status/2050490163810230579",
+          "postedAt": "2026-05-02T08:18:45.000Z"
+        },
+        {
+          "id": "vc_dotey_d197331d39",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "为了省 $25，不值得…",
+          "url": "https://x.com/dotey/status/2050462792956698938",
+          "postedAt": "2026-05-02T06:30:00.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_1c160b45ea",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "http://x.com/i/article/2050442247754403841",
+          "url": "https://x.com/zarazhangrui/status/2050445806428438734",
+          "postedAt": "2026-05-02T05:22:30.000Z"
+        },
+        {
+          "id": "vc_sama_d41ed8c02a",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "we will plan bigger parties for future releases. a lot more people wanted to come than we expected. thank you! gonna try to think of a really good ide...",
+          "url": "https://x.com/sama/status/2050427808456077541",
+          "postedAt": "2026-05-02T04:10:59.000Z"
+        },
+        {
           "id": "vc_sama_cafba5d7bf",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -355,15 +400,6 @@
           "postedAt": "2026-05-01T19:53:26.000Z"
         },
         {
-          "id": "vc_sama_58d9db744a",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "its weird how much i want to get something to run for the record longest",
-          "url": "https://x.com/sama/status/2050302192775815613",
-          "postedAt": "2026-05-01T19:51:50.000Z"
-        },
-        {
           "id": "vc_gdb_7d38dad52f",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -380,15 +416,6 @@
           "title": "I have used Cleanshot every single day for the past 8 years and I'm not even exaggerating.",
           "url": "https://x.com/zarazhangrui/status/2050280810302062927",
           "postedAt": "2026-05-01T18:26:52.000Z"
-        },
-        {
-          "id": "vc_steipete_81b27b765d",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "The new /goal feature in codex slaps.",
-          "url": "https://x.com/steipete/status/2050275598178586921",
-          "postedAt": "2026-05-01T18:06:09.000Z"
         },
         {
           "id": "vc_dotey_c944cd81b6",
@@ -425,37 +452,10 @@
           "title": "codex for the little things that you would otherwise spend lots of time on",
           "url": "https://x.com/gdb/status/2050192975372673447",
           "postedAt": "2026-05-01T12:37:50.000Z"
-        },
-        {
-          "id": "vc_steipete_35ffe98f7e",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Too many agents, too many test suites, one very tired Mac. Run them remote: Crabbox 0.1.0 🦀 ⚡ Remote Linux test boxes (AWS, Hetzner) 🔁 Dirty ch...",
-          "url": "https://x.com/steipete/status/2050140050168451286",
-          "postedAt": "2026-05-01T09:07:32.000Z"
-        },
-        {
-          "id": "vc_gdb_b28b8c91a0",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "openai logo, scribblified",
-          "url": "https://x.com/gdb/status/2050099778072047756",
-          "postedAt": "2026-05-01T06:27:30.000Z"
-        },
-        {
-          "id": "vc_dotey_38ae248691",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "开源无国界",
-          "url": "https://x.com/dotey/status/2050059300458959097",
-          "postedAt": "2026-05-01T03:46:40.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-02T03:50:40.306Z",
+      "lastUpdated": "2026-05-02T13:47:38.502Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -631,7 +631,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-02T03:50:41.511Z",
+      "lastUpdated": "2026-05-02T13:47:39.876Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -885,7 +885,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-02T03:50:43.499Z",
+      "lastUpdated": "2026-05-02T13:47:42.062Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
