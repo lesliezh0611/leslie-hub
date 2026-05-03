@@ -452,7 +452,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-03T04:11:25.098Z",
+      "lastUpdated": "2026-05-03T13:49:14.813Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -491,6 +491,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_d426aeca08",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Why cultivating agency matters more than cultivating skills in the AI era | Max Schoening (Head of Product, Notion)",
+          "url": "https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more",
+          "postedAt": "2026-05-03T12:30:59.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_5e05625a72",
           "source": "Lenny's Podcast",
@@ -570,14 +578,6 @@
           "topic": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
           "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
           "postedAt": "2026-04-22T07:41:08.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_e2aba66fc5",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "New: A free year of Cursor, Google AI Pro, Notion, Supabase, Gumloop, and Fin for subscribers",
-          "url": "https://www.lennysnewsletter.com/p/new-a-free-year-of-cursor-google",
-          "postedAt": "2026-04-21T15:03:33.000Z"
         }
       ],
       "books": [
@@ -628,7 +628,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-03T04:11:26.217Z",
+      "lastUpdated": "2026-05-03T13:49:15.923Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -882,7 +882,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-03T04:11:28.064Z",
+      "lastUpdated": "2026-05-03T13:49:17.875Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
