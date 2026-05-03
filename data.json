@@ -274,6 +274,159 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_d8bb141f24",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT G_Z: 最好的中文语音转文字模型是什么？ 新加了几个开源模型测试: - Qwen3-ASR-1.7B (开源第三， 最好的小STT模型，接近4o-transcribe-mini, 总榜第七） - GL...",
+          "url": "https://x.com/dotey/status/2050776636899934720",
+          "postedAt": "2026-05-03T01:02:40.000Z"
+        },
+        {
+          "id": "vc_steipete_4a1b8b5c23",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "This one fixes the depenency issues/slowness some had when installed via npm. Plugins are hard, worth it tho! Package is way leaner now, we moved [alm...",
+          "url": "https://x.com/steipete/status/2050735979477008412",
+          "postedAt": "2026-05-03T00:35:32.000Z"
+        },
+        {
+          "id": "vc_gdb_e5907b5615",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "ChatGPT Images really taking off",
+          "url": "https://x.com/gdb/status/2050731568742723899",
+          "postedAt": "2026-05-03T00:18:01.000Z"
+        },
+        {
+          "id": "vc_dotey_54e1107c35",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 岚叔: codex 开发任意pet 教程，以手搓阿莫dei 为例🐶 仅需要codex和手(或嘴)就行，不需要任何外力，制作方式如下： 1. 用 Hatch Pet skill 以「愤怒的阿莫...",
+          "url": "https://x.com/dotey/status/2050776755619655821",
+          "postedAt": "2026-05-03T00:16:19.000Z"
+        },
+        {
+          "id": "vc_steipete_8205049102",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Ryan Nystrom: codex's /side chat is the feature i didn't know i needed",
+          "url": "https://x.com/steipete/status/2050737505146749078",
+          "postedAt": "2026-05-02T23:43:20.000Z"
+        },
+        {
+          "id": "vc_steipete_4981652363",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "goblins have fat fingers",
+          "url": "https://x.com/steipete/status/2050676702242644465",
+          "postedAt": "2026-05-02T20:40:00.000Z"
+        },
+        {
+          "id": "vc_sama_3921c28024",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "i keep thinking i want the models to be cheaper/faster more than i want them to be smarter but it seems that just being smarter is still the most impo...",
+          "url": "https://x.com/sama/status/2050671161915371998",
+          "postedAt": "2026-05-02T20:17:59.000Z"
+        },
+        {
+          "id": "vc_gdb_eeebf1ce73",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "codex for improving your ergonomics",
+          "url": "https://x.com/gdb/status/2050667528741929316",
+          "postedAt": "2026-05-02T20:03:33.000Z"
+        },
+        {
+          "id": "vc_sama_e2ce725f05",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "never thought id be watching F1 via the kids broadcast cannot imagine being happier",
+          "url": "https://x.com/sama/status/2050661006230344083",
+          "postedAt": "2026-05-02T19:37:37.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_debc218d72",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "How are you dealing with this?",
+          "url": "https://x.com/zarazhangrui/status/2050660712620630402",
+          "postedAt": "2026-05-02T19:36:27.000Z"
+        },
+        {
+          "id": "vc_sama_043c705faf",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "5.5 xhigh in fast mode is really good i think i got psyoped by twitter on medium for a bit",
+          "url": "https://x.com/sama/status/2050658558174437701",
+          "postedAt": "2026-05-02T19:27:54.000Z"
+        },
+        {
+          "id": "vc_sama_0ad18318d5",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "this is great",
+          "url": "https://x.com/sama/status/2050654662349787518",
+          "postedAt": "2026-05-02T19:12:25.000Z"
+        },
+        {
+          "id": "vc_steipete_1f4769c42d",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Kun Chen: ok @steipete's acpx is a godsend https://github.com/openclaw/acpx just added it in gnhf v0.1.31, and boom - gnhf now supports almost any ...",
+          "url": "https://x.com/steipete/status/2050691919269810462",
+          "postedAt": "2026-05-02T18:49:06.000Z"
+        },
+        {
+          "id": "vc_dotey_21f874c5ee",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "值得试试，挺有价值的，让 Codex 帮你分析电脑操作习惯+Codex任务执行情况，给出具体的对工作习惯上的优化建议。 注意：Chronicle 是一款用于记录和分析用户电脑...",
+          "url": "https://x.com/dotey/status/2050638634399764575",
+          "postedAt": "2026-05-02T18:08:44.000Z"
+        },
+        {
+          "id": "vc_gdb_1369480fd6",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "gallery for codex pet sharing:",
+          "url": "https://x.com/gdb/status/2050637240603205827",
+          "postedAt": "2026-05-02T18:03:11.000Z"
+        },
+        {
+          "id": "vc_dotey_32b1d7b181",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT Tom Huang: Open Design 正式开源最完整版本 codex 同款 pets 宠物 🚀 超过 100+ 宠物同步上线🔥 支持 @sama、dario、openclaw 作者 @steipete ， 特朗普...",
+          "url": "https://x.com/dotey/status/2050696075376218562",
+          "postedAt": "2026-05-02T15:52:41.000Z"
+        },
+        {
+          "id": "vc_dotey_d914a80038",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 小小东: http://x.com/i/article/2050562275321466880",
+          "url": "https://x.com/dotey/status/2050608587706187938",
+          "postedAt": "2026-05-02T13:25:27.000Z"
+        },
+        {
           "id": "vc_steipete_136df0ef33",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -281,24 +434,6 @@
           "title": "RT Agnes AI: Super excited to be organizing Africas first @clawcon in Nairobi in June! Lets bring together a community of builders in Kenya! @openclaw...",
           "url": "https://x.com/steipete/status/2050510198704377988",
           "postedAt": "2026-05-02T09:17:21.000Z"
-        },
-        {
-          "id": "vc_steipete_3c5286da87",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "🦀 Crabbox 0.3.0 is out. Remote Linux runs for dirty worktrees 🔐 GitHub browser login 🧰 Blacksmith Testbox wrap 📡 crabbox attach for live r...",
-          "url": "https://x.com/steipete/status/2050490163810230579",
-          "postedAt": "2026-05-02T08:18:45.000Z"
-        },
-        {
-          "id": "vc_dotey_d197331d39",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "为了省 $25，不值得…",
-          "url": "https://x.com/dotey/status/2050462792956698938",
-          "postedAt": "2026-05-02T06:30:00.000Z"
         },
         {
           "id": "vc_zarazhangrui_1c160b45ea",
@@ -317,145 +452,10 @@
           "title": "we will plan bigger parties for future releases. a lot more people wanted to come than we expected. thank you! gonna try to think of a really good ide...",
           "url": "https://x.com/sama/status/2050427808456077541",
           "postedAt": "2026-05-02T04:10:59.000Z"
-        },
-        {
-          "id": "vc_sama_cafba5d7bf",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "/hatch clippy",
-          "url": "https://x.com/sama/status/2050402088266694689",
-          "postedAt": "2026-05-02T02:28:47.000Z"
-        },
-        {
-          "id": "vc_sama_1bc3df4e0e",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "man its good to be back on twitter there is comfort in the skills of a wasted youth",
-          "url": "https://x.com/sama/status/2050399512494227709",
-          "postedAt": "2026-05-02T02:18:33.000Z"
-        },
-        {
-          "id": "vc_steipete_5a9aa594b9",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "told codex I had to pay up to make @xai work again.",
-          "url": "https://x.com/steipete/status/2050384648119734683",
-          "postedAt": "2026-05-02T01:19:29.000Z"
-        },
-        {
-          "id": "vc_dotey_acd3c36fac",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "我觉得判断谁写的代码更快更好，应该是 1. 擅长定义清楚问题，或者说把需求拆解成AI能执行的任务 2. 判断结果的好坏，能识别AI生成结果的质量，对于质量差的能指...",
-          "url": "https://x.com/dotey/status/2050367418648727764",
-          "postedAt": "2026-05-02T00:11:01.000Z"
-        },
-        {
-          "id": "vc_dotey_bd3bd3454f",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 虎小象: 你不是普通图像生成模型。 你是「线的呼吸场」中的极简线条意象转译器。 用户会输入一个字、一个词、一句话、一个概念或一种情绪。 你的任务不是直接...",
-          "url": "https://x.com/dotey/status/2050396291541164369",
-          "postedAt": "2026-05-01T23:55:23.000Z"
-        },
-        {
-          "id": "vc_sama_0b9c79f805",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "you can sign in to openclaw with your chatgpt account now and use your subscription there! happy lobstering.",
-          "url": "https://x.com/sama/status/2050357911915028689",
-          "postedAt": "2026-05-01T23:33:14.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_5cdd18fec1",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "I realized a lot of people treat coding agents as their employee, whereas I actually treat it as my cofounder I don't just give orders. I present prob...",
-          "url": "https://x.com/zarazhangrui/status/2050326543797469415",
-          "postedAt": "2026-05-01T21:28:35.000Z"
-        },
-        {
-          "id": "vc_sama_d3abe2cb6d",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "ok its not the most important thing we've ever done but i find it more useful than it seems on the surface. check out pets in codex! (and try hatching...",
-          "url": "https://x.com/sama/status/2050304809572688289",
-          "postedAt": "2026-05-01T20:02:14.000Z"
-        },
-        {
-          "id": "vc_dotey_172e6752aa",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Michael Guo: OpenAI 推出了能够让Agent长时间连续运行的 /goal。不少人已经成功实践。 Peter Steinberger 的一项 Goal 已经运行了 11 小时 31 分钟。@ynkzlk...",
-          "url": "https://x.com/dotey/status/2050406077674504325",
-          "postedAt": "2026-05-01T19:53:26.000Z"
-        },
-        {
-          "id": "vc_gdb_7d38dad52f",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "such a fun launch — try \"/pet hi\" in Codex app:",
-          "url": "https://x.com/gdb/status/2050284610656035297",
-          "postedAt": "2026-05-01T18:41:58.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_9035017a6c",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "I have used Cleanshot every single day for the past 8 years and I'm not even exaggerating.",
-          "url": "https://x.com/zarazhangrui/status/2050280810302062927",
-          "postedAt": "2026-05-01T18:26:52.000Z"
-        },
-        {
-          "id": "vc_dotey_c944cd81b6",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Apple 发布 Apple Support App（v5.13）时，把 Claude.md 也一起发出来了😂",
-          "url": "https://x.com/dotey/status/2050245815852056837",
-          "postedAt": "2026-05-01T16:07:48.000Z"
-        },
-        {
-          "id": "vc_gdb_b44240da1c",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Codex as the everything productivity app",
-          "url": "https://x.com/gdb/status/2050233125276451243",
-          "postedAt": "2026-05-01T15:17:23.000Z"
-        },
-        {
-          "id": "vc_gdb_b630755f03",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "codex now has a built in Ralph loop++:",
-          "url": "https://x.com/gdb/status/2050194039077495089",
-          "postedAt": "2026-05-01T12:42:04.000Z"
-        },
-        {
-          "id": "vc_gdb_5c98e1e3c2",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "codex for the little things that you would otherwise spend lots of time on",
-          "url": "https://x.com/gdb/status/2050192975372673447",
-          "postedAt": "2026-05-01T12:37:50.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-02T13:47:38.502Z",
+      "lastUpdated": "2026-05-03T04:11:25.098Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -494,6 +494,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_5e05625a72",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: Claude Code tips for ADHD users, resources for managing up, going from corporate to startup, tiring of being your company’s AI evangelist, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-claude-code-tips",
+          "postedAt": "2026-05-02T18:02:57.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_3a42ba3cda",
           "source": "Lenny's Podcast",
@@ -573,14 +581,6 @@
           "topic": "New: A free year of Cursor, Google AI Pro, Notion, Supabase, Gumloop, and Fin for subscribers",
           "url": "https://www.lennysnewsletter.com/p/new-a-free-year-of-cursor-google",
           "postedAt": "2026-04-21T15:03:33.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_8bf36ccf2a",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ This week on How I AI: How Intercom 2x’d their engineering velocity with Claude Code",
-          "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-intercom",
-          "postedAt": "2026-04-20T15:33:11.000Z"
         }
       ],
       "books": [
@@ -631,7 +631,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-02T13:47:39.876Z",
+      "lastUpdated": "2026-05-03T04:11:26.217Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -885,7 +885,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-02T13:47:42.062Z",
+      "lastUpdated": "2026-05-03T04:11:28.064Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
