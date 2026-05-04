@@ -315,6 +315,7 @@ p{color:var(--muted)}
   background:var(--paper);
   box-shadow:var(--shadow-tight);
 }
+.section-panel > *{min-width:0}
 
 .section-tag{
   display:inline-flex;
@@ -365,7 +366,57 @@ p{color:var(--muted)}
   transition:transform var(--transition),box-shadow var(--transition);
 }
 .intro-cta:hover{transform:translateY(-2px);box-shadow:var(--shadow-tight)}
-.intro-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.intro-grid{display:grid;grid-template-columns:1fr}
+.intro-feature{
+  display:grid;
+  grid-template-columns:minmax(0,0.78fr) minmax(340px,0.72fr);
+  align-items:center;
+  gap:32px;
+  min-height:360px;
+  padding:30px;
+  border:var(--border);
+  border-radius:30px;
+  background:var(--peach);
+  box-shadow:var(--shadow-tight);
+}
+.intro-feature-copy{max-width:680px}
+.intro-feature-copy .intro-index{display:inline-flex;margin-bottom:18px}
+.intro-feature-copy h3{font-size:clamp(2.45rem,5vw,4.6rem);line-height:1.02;color:var(--ink)}
+.intro-feature-copy p{margin-top:18px;font-size:clamp(1.02rem,1.7vw,1.32rem);font-weight:800;color:rgba(17,24,39,0.72)}
+.intro-feature-copy .module-link{width:min(100%,420px);margin-top:28px}
+.intro-album-preview{
+  position:relative;
+  min-height:270px;
+  isolation:isolate;
+}
+.intro-album-photo{
+  position:absolute;
+  overflow:hidden;
+  width:34%;
+  min-width:118px;
+  aspect-ratio:4/5;
+  border:var(--border);
+  border-radius:22px;
+  background:
+    var(--photo-src),
+    linear-gradient(145deg,rgba(255,255,255,0.55),rgba(255,255,255,0.08)),
+    var(--photo-bg,var(--yellow));
+  background-size:cover;
+  background-position:center;
+  box-shadow:var(--shadow-tight);
+  transform:translate(var(--x,0),var(--y,0)) rotate(var(--r,0deg));
+  transition:transform 220ms ease;
+}
+.intro-album-photo:nth-child(1){--x:0;--y:36px;--r:-9deg;--photo-bg:var(--yellow);left:2%;top:18%}
+.intro-album-photo:nth-child(2){--x:0;--y:0;--r:4deg;--photo-bg:var(--mint);left:24%;top:8%;z-index:2}
+.intro-album-photo:nth-child(3){--x:0;--y:44px;--r:8deg;--photo-bg:var(--sky);right:8%;top:16%;z-index:1}
+.intro-album-photo:nth-child(4){--x:0;--y:-6px;--r:-5deg;--photo-bg:var(--rose);left:10%;bottom:0;z-index:3}
+.intro-album-photo:nth-child(5){--x:0;--y:16px;--r:7deg;--photo-bg:var(--lavender);right:18%;bottom:0;z-index:4}
+.intro-album-preview:hover .intro-album-photo:nth-child(1){transform:translate(-16px,32px) rotate(-13deg)}
+.intro-album-preview:hover .intro-album-photo:nth-child(2){transform:translate(0,-8px) rotate(1deg)}
+.intro-album-preview:hover .intro-album-photo:nth-child(3){transform:translate(18px,46px) rotate(11deg)}
+.intro-album-preview:hover .intro-album-photo:nth-child(4){transform:translate(-12px,-12px) rotate(-8deg)}
+.intro-album-preview:hover .intro-album-photo:nth-child(5){transform:translate(14px,8px) rotate(10deg)}
 .intro-card{
   min-height:250px;
   display:flex;
@@ -492,7 +543,7 @@ p{color:var(--muted)}
 .module-list{display:flex;flex-direction:column;gap:10px;margin-top:4px}
 .module-item{padding:13px 0;border-top:1.5px dashed rgba(17,24,39,0.18)}
 .module-item:first-child{border-top:0}
-.module-item-title{font-size:0.96rem;font-weight:800;color:var(--ink)}
+.module-item-title{font-size:0.96rem;font-weight:800;color:var(--ink);overflow-wrap:anywhere}
 .module-item-source{margin-top:5px;font-size:0.78rem;font-weight:800;color:var(--muted)}
 .module-link{
   display:inline-flex;
@@ -560,9 +611,11 @@ p{color:var(--muted)}
   .section-panel{grid-template-columns:1fr}
   .intro-panel .section-header{grid-template-columns:1fr}
   .intro-cta{justify-self:start}
-  .intro-grid,.curriculum-grid,.explore-grid{grid-template-columns:1fr}
+  .intro-feature{grid-template-columns:1fr;min-height:auto}
+  .intro-album-preview{min-height:300px}
+  .intro-grid,.curriculum-grid,.explore-grid{grid-template-columns:minmax(0,1fr)}
   .intro-card{min-height:auto;transform:none!important}
-  .submodule-card{min-height:auto;transform:none!important}
+  .submodule-card{min-width:0;min-height:auto;transform:none!important}
 }
 
 @media (max-width:720px){
@@ -602,6 +655,8 @@ p{color:var(--muted)}
   .intro-photo:nth-child(3){--x:48px}
   .intro-photo-strip:hover .intro-photo:nth-child(1){transform:translateX(calc(-50% - 54px)) rotate(-8deg)}
   .intro-photo-strip:hover .intro-photo:nth-child(3){transform:translateX(calc(-50% + 54px)) rotate(8deg)}
+  .explore-panel .section-header{grid-template-columns:1fr}
+  .explore-panel .section-desc{max-width:100%;margin-top:12px}
   .curriculum-card{min-height:190px}
   .curriculum-score{font-size:3.6rem}
   .placeholder-section{grid-template-columns:1fr;padding:22px}
@@ -661,7 +716,7 @@ p{color:var(--muted)}
           <div>
             <span class="section-tag">Personal Side</span>
             <h2 class="section-title">Self Intro</h2>
-            <p class="section-desc" id="introSummary">Life experience, photos, hobbies, and casual activities outside the serious dashboard.</p>
+            <p class="section-desc" id="introSummary">Life experience and moments worth remembering.</p>
           </div>
           <a class="intro-cta intro-link" href="self-intro.html">Open Full Intro</a>
         </div>
@@ -674,7 +729,7 @@ p{color:var(--muted)}
         <div class="section-header">
           <span class="section-tag">Academics</span>
           <h2 class="section-title">Curriculum</h2>
-          <p class="section-desc">A compact score board for the courses that currently anchor Leslie's academic work.</p>
+          <p class="section-desc">Academic work</p>
         </div>
         <div class="curriculum-grid" id="curriculumGrid"></div>
       </div>
@@ -685,7 +740,6 @@ p{color:var(--muted)}
         <div class="section-header">
           <span class="section-tag">Beyond Class</span>
           <h2 class="section-title">Explore</h2>
-          <p class="section-desc">Three living shelves for AI builders, English input, and overseas marketing signals.</p>
         </div>
         <div class="explore-grid" id="exploreGrid"></div>
       </div>
@@ -761,7 +815,7 @@ function renderProfile(p){
   document.getElementById('heroText').innerHTML=`
     <span class="eyebrow">${escapeHTML(p.status)} · ${escapeHTML(p.major)} · ${escapeHTML(p.university)}</span>
     <h1 class="hero-title">${escapeHTML(p.name)}</h1>
-    <p class="hero-kicker">${escapeHTML(p.chineseName)} is building a personal hub for coursework, creative practice, and the ideas worth revisiting.</p>`;
+    <p class="hero-kicker">Hi, I'm Leslie. Nice to meet you! Get to know me on this webpage!</p>`;
 
   document.getElementById('heroCard').innerHTML=`
     <figure class="profile-photo">
@@ -781,32 +835,35 @@ function sectionPhotos(section){
   return (section.items||[]).flatMap(item=>(item.photos||[]).map(photo=>({
     ...photo,
     caption:item.title
-  }))).slice(0,3);
+  }))).filter(photo=>photo.src&&!photo.src.includes('/placeholder-'));
+}
+
+function albumPhotos(intro){
+  return (intro.sections||[]).flatMap(section=>sectionPhotos(section));
 }
 
 function renderSelfIntro(intro){
   if(!intro)return;
   const grid=document.getElementById('introGrid');
   const summary=document.getElementById('introSummary');
+  const life=(intro.sections||[]).find(section=>section.id==='life');
   if(summary)summary.textContent=intro.subtitle||summary.textContent;
-  const previewSections=(intro.sections||[]).filter(section=>['life','hobbies','casual'].includes(section.id)).slice(0,3);
-  const cards=previewSections.map((section,index)=>{
-    const photos=sectionPhotos(section);
-    const photoFan=photos.length?`<div class="intro-photo-strip" aria-label="${escapeHTML(section.title)} photo preview">
-      ${photos.map(photo=>`<span class="intro-photo" style="--photo-src:url('${escapeHTML(photo.src)}')"></span>`).join('')}
-    </div>`:'';
-    const target=section.id==='life'?'life':'hobbies-casual';
-    return `<article class="intro-card reveal">
-      <div>
-        <span class="intro-index">${String(index+1).padStart(2,'0')}</span>
-        <h3>${escapeHTML(section.title)}</h3>
-        <p>${escapeHTML(section.summary)}</p>
-      </div>
-      ${photoFan}
-      <a class="intro-link module-link" href="self-intro.html#${escapeHTML(target)}">Explore ${escapeHTML(section.title)}</a>
-    </article>`;
-  }).join('');
-  grid.innerHTML=cards;
+  if(!life){
+    grid.innerHTML='<div class="placeholder-section">Add Life Experience content in data.json.</div>';
+    return;
+  }
+  const photos=albumPhotos(intro).slice(0,5);
+  const preview=photos.length?`<div class="intro-album-preview" aria-label="Self intro album preview">
+    ${photos.map(photo=>`<span class="intro-album-photo" style="--photo-src:url('${escapeHTML(photo.src)}')" title="${escapeHTML(photo.alt||photo.caption||'Self intro photo')}"></span>`).join('')}
+  </div>`:'';
+  grid.innerHTML=`<article class="intro-feature reveal">
+    <div class="intro-feature-copy">
+      <h3>${escapeHTML(life.title)}</h3>
+      <p>${escapeHTML(life.summary)}</p>
+      <a class="intro-link module-link" href="self-intro.html#life">Explore ${escapeHTML(life.title)}</a>
+    </div>
+    ${preview}
+  </article>`;
 }
 
 function renderCurriculum(c){

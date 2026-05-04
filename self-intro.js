@@ -17,9 +17,10 @@ function getSection(intro,id){
 function sectionPhotos(section){
   return (section?.items||[]).flatMap(item=>(item.photos||[]).map(photo=>({
     ...photo,
+    groupYear:item.year,
     groupTitle:item.title,
     body:item.body
-  })));
+  }))).filter(photo=>photo.src&&!photo.src.includes('/placeholder-'));
 }
 
 function allIntroPhotos(intro){
@@ -53,7 +54,11 @@ function revealOnScroll(){
 }
 
 function renderHero(intro){
-  const heroPhotos=allIntroPhotos(intro).slice(0,3);
+  const photos=allIntroPhotos(intro);
+  const tbdPhoto=photos.find(photo=>photo.sectionId==='life'&&photo.groupYear==='TBD');
+  const firstPhoto=photos.find(photo=>photo!==tbdPhoto);
+  const thirdPhoto=photos.find(photo=>photo!==tbdPhoto&&photo!==firstPhoto);
+  const heroPhotos=[firstPhoto,tbdPhoto,thirdPhoto].filter(Boolean).slice(0,3);
   const cover=intro.hero?.coverImage||heroPhotos[0]?.src||'';
   const stack=heroPhotos.map((photo,index)=>`
     <figure class="hero-snap" style="--i:${index}">

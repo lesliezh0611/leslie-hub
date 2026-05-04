@@ -10,11 +10,11 @@
   },
   "selfIntro": {
     "title": "Self Intro",
-    "subtitle": "Life experience, hobbies, and casual activities",
+    "subtitle": "Life experience and moments worth remembering",
     "hero": {
       "headline": "Hey! Take a closer look at me!",
       "body": "Life beyond grades & scores: where I have been, what I like making, and what I want to remember.",
-      "coverImage": "assets/self-intro/placeholder-green.svg?v=clean-1"
+      "coverImage": "assets/self-intro/uploads/self-intro-hero-cover.jpg"
     },
     "sections": [
       {
@@ -30,10 +30,6 @@
               {
                 "src": "assets/self-intro/uploads/life-2024-slot-1.jpg",
                 "alt": "High school choir"
-              },
-              {
-                "src": "assets/self-intro/placeholder-mint.svg?v=clean-1",
-                "alt": "Mint placeholder for study moments"
               }
             ]
           },
@@ -55,17 +51,13 @@
             ]
           },
           {
-            "year": "TBD",
+            "year": "2026",
             "title": "Next chapter",
-            "body": "Placeholder copy for Leslie to replace later with the next life experience chapter.",
+            "body": "2026 marks a fresh start. I've determined to excel at study & work while leading a vibrant life",
             "photos": [
               {
                 "src": "assets/self-intro/uploads/life-tbd-slot-1.jpg",
                 "alt": "2026 starts fresh"
-              },
-              {
-                "src": "assets/self-intro/placeholder-rose.svg?v=clean-1",
-                "alt": "Rose placeholder for future memory"
               }
             ]
           }
@@ -91,14 +83,6 @@
               {
                 "src": "assets/self-intro/uploads/hobbies-english-input-slot-3.jpg",
                 "alt": "Nanking Dream"
-              },
-              {
-                "src": "assets/self-intro/placeholder-mint.svg?v=clean-1",
-                "alt": "Mint placeholder for language practice"
-              },
-              {
-                "src": "assets/self-intro/placeholder-rose.svg?v=clean-1",
-                "alt": "Rose placeholder for film memory"
               }
             ]
           },
@@ -118,14 +102,6 @@
               {
                 "src": "assets/self-intro/uploads/hobbies-creative-tooling-slot-3.jpg",
                 "alt": "泉州烟火"
-              },
-              {
-                "src": "assets/self-intro/placeholder-lavender.svg?v=clean-1",
-                "alt": "Lavender placeholder for design references"
-              },
-              {
-                "src": "assets/self-intro/placeholder-rose.svg?v=clean-1",
-                "alt": "Rose placeholder for creative experiments"
               }
             ]
           }
@@ -151,14 +127,6 @@
               {
                 "src": "assets/self-intro/uploads/casual-walking-around-slot-3.jpg",
                 "alt": "丽江拍摄"
-              },
-              {
-                "src": "assets/self-intro/placeholder-yellow.svg?v=clean-1",
-                "alt": "Yellow placeholder for weekend wandering"
-              },
-              {
-                "src": "assets/self-intro/placeholder-lavender.svg?v=clean-1",
-                "alt": "Lavender placeholder for ordinary route"
               }
             ]
           },
@@ -178,14 +146,6 @@
               {
                 "src": "assets/self-intro/uploads/casual-good-breaks-slot-3.jpg",
                 "alt": "晚修的铃打响了最后一遍"
-              },
-              {
-                "src": "assets/self-intro/placeholder-green.svg?v=clean-1",
-                "alt": "Green placeholder for quiet reset"
-              },
-              {
-                "src": "assets/self-intro/placeholder-sky.svg?v=clean-1",
-                "alt": "Sky placeholder for easy afternoon"
               }
             ]
           }
