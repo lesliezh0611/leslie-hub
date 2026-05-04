@@ -227,6 +227,42 @@
       ],
       "articles": [
         {
+          "id": "vc_gdb_001e7a9d2d",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "codex for helping you to ship fast",
+          "url": "https://x.com/gdb/status/2051297950672859290",
+          "postedAt": "2026-05-04T13:48:37.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_8a27b91bde",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "this is the coolest demo I've seen a while, a must-watch for anyone interested in human-agent interaction!",
+          "url": "https://x.com/zarazhangrui/status/2051192270632993176",
+          "postedAt": "2026-05-04T06:48:41.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_251ec83762",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Before AI, you couldn't afford to build something small. Because the cost of software development was so high, you had to hire a team, convince other ...",
+          "url": "https://x.com/zarazhangrui/status/2051155065331941873",
+          "postedAt": "2026-05-04T04:20:50.000Z"
+        },
+        {
+          "id": "vc_steipete_6e8b95ca59",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Brad Groux: Veritas Kanban 4.0.1 ⚖️ (OpenClaw Task Manager) Task side popouts feel sane again: padding is back where it belongs, headers breathe,...",
+          "url": "https://x.com/steipete/status/2051206668424257774",
+          "postedAt": "2026-05-04T04:07:02.000Z"
+        },
+        {
           "id": "vc_steipete_318c7046a9",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -270,15 +306,6 @@
           "title": "brb calling @sama",
           "url": "https://x.com/steipete/status/2051044240013083133",
           "postedAt": "2026-05-03T21:00:28.000Z"
-        },
-        {
-          "id": "vc_steipete_ce17e539b2",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT kiosa: Re @mitchmalone @steipete @openclaw @OpenAI wild that 3 months ago Anthropic banned OpenClaw from Claude subscriptions to slow it down, now ...",
-          "url": "https://x.com/steipete/status/2051037657036193803",
-          "postedAt": "2026-05-03T20:33:24.000Z"
         },
         {
           "id": "vc_sama_f53330adea",
@@ -378,37 +405,10 @@
           "title": "How are you dealing with this?",
           "url": "https://x.com/zarazhangrui/status/2050660712620630402",
           "postedAt": "2026-05-02T19:36:27.000Z"
-        },
-        {
-          "id": "vc_dotey_21f874c5ee",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "值得试试，挺有价值的，让 Codex 帮你分析电脑操作习惯+Codex任务执行情况，给出具体的对工作习惯上的优化建议。 注意：Chronicle 是一款用于记录和分析用户电脑...",
-          "url": "https://x.com/dotey/status/2050638634399764575",
-          "postedAt": "2026-05-02T18:08:44.000Z"
-        },
-        {
-          "id": "vc_gdb_1369480fd6",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "gallery for codex pet sharing:",
-          "url": "https://x.com/gdb/status/2050637240603205827",
-          "postedAt": "2026-05-02T18:03:11.000Z"
-        },
-        {
-          "id": "vc_dotey_32b1d7b181",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Tom Huang: Open Design 正式开源最完整版本 codex 同款 pets 宠物 🚀 超过 100+ 宠物同步上线🔥 支持 @sama、dario、openclaw 作者 @steipete ， 特朗普...",
-          "url": "https://x.com/dotey/status/2050696075376218562",
-          "postedAt": "2026-05-02T15:52:41.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-04T04:08:37.052Z",
+      "lastUpdated": "2026-05-04T14:30:41.614Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_a05e40ad20",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "The internal AI tool that’s transforming how Stripe designs products | Owen Williams",
+          "url": "https://www.lennysnewsletter.com/p/the-internal-ai-tool-thats-transforming",
+          "postedAt": "2026-05-04T12:03:59.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_d426aeca08",
           "source": "Lenny's Podcast",
@@ -520,14 +528,6 @@
           "postedAt": "2026-04-23T15:01:50.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_0f08151b21",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "What Claude Design is actually good for (and why Figma isn’t dead yet)",
-          "url": "https://www.lennysnewsletter.com/p/what-claude-design-is-actually-good",
-          "postedAt": "2026-04-22T12:04:31.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_692e8b2476",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -584,7 +584,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-04T04:08:38.255Z",
+      "lastUpdated": "2026-05-04T14:30:43.214Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -677,6 +677,86 @@
       },
       "articles": [
         {
+          "id": "om_fe21f4b239",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+          "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+          "postedAt": "2026-05-04T14:30:23.000Z"
+        },
+        {
+          "id": "om_ce18f1a493",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Omnicom credits Q1 wins to core operations, reaffirms ongoing cost cuts",
+          "url": "https://www.marketingdive.com/news/omnicom-credits-q1-wins-to-core-operations-reaffirms-ongoing-cost-cuts/819157/",
+          "postedAt": "2026-05-04T13:54:00.000Z"
+        },
+        {
+          "id": "om_327d161eb8",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target launches new kind of supply chain facility",
+          "url": "https://www.retaildive.com/news/target-launches-new-kind-of-supply-chain-facility/819103/",
+          "postedAt": "2026-05-04T13:29:00.000Z"
+        },
+        {
+          "id": "om_efa06b9ef3",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Gap targets improved traceability operations, data collection",
+          "url": "https://www.retaildive.com/news/gap-improved-traceability-operations-data-collection/818846/",
+          "postedAt": "2026-05-04T13:00:00.000Z"
+        },
+        {
+          "id": "om_f893facc45",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Qualcomm is building an iconic consumer brand for the AI era",
+          "url": "https://www.marketingdive.com/news/how-qualcomm-is-building-an-iconic-consumer-brand-for-the-ai-era/819041/",
+          "postedAt": "2026-05-04T12:00:00.000Z"
+        },
+        {
+          "id": "om_1d90371b6e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Fox Sports Looks for a ‘Miracle’ With Its World Cup Promo Campaign",
+          "url": "https://www.adweek.com/convergent-tv/fox-sports-looks-for-a-miracle-with-its-world-cup-promo-campaign/",
+          "postedAt": "2026-05-04T09:07:11.000Z"
+        },
+        {
+          "id": "om_d661d9b966",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Elev8 broker: Brand launch with sky-high ambitions",
+          "url": "https://www.marketingdive.com/spons/elev8-broker-brand-launch-with-sky-high-ambitions/818605/",
+          "postedAt": "2026-05-04T09:00:00.000Z"
+        },
+        {
+          "id": "om_745cef4fa7",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The AI gap in retail operations is real. Here’s how to start closing it.",
+          "url": "https://www.retaildive.com/spons/the-ai-gap-in-retail-operations-is-real-heres-how-to-start-closing-it/818641/",
+          "postedAt": "2026-05-04T09:00:00.000Z"
+        },
+        {
+          "id": "om_bba7816f42",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The smarter alternative to discounting: What your customer data can tell you",
+          "url": "https://www.retaildive.com/spons/the-smarter-alternative-to-discounting-what-your-customer-data-can-tell-yo/818638/",
+          "postedAt": "2026-05-04T09:00:00.000Z"
+        },
+        {
+          "id": "om_6fbf9ee295",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Agentic AI, fraud and the fight for customer loyalty",
+          "url": "https://www.retaildive.com/spons/agentic-ai-fraud-and-the-fight-for-customer-loyalty/818448/",
+          "postedAt": "2026-05-04T09:00:00.000Z"
+        },
+        {
           "id": "om_d5bffd0cf8",
           "source": "TechCrunch",
           "lang": "en",
@@ -755,90 +835,10 @@
           "title": "What It Takes to Grow a CPG Challenger Brand",
           "url": "https://www.adweek.com/brand-marketing/what-it-takes-to-grow-a-cpg-challenger-brand/",
           "postedAt": "2026-05-01T15:54:37.000Z"
-        },
-        {
-          "id": "om_5a2995aa11",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "For Creator-Led Campaigns, Authenticity Starts Before the Shoot",
-          "url": "https://www.adweek.com/creativity/for-creator-led-campaigns-authenticity-starts-before-the-shoot/",
-          "postedAt": "2026-05-01T15:53:46.000Z"
-        },
-        {
-          "id": "om_0d1257b428",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why Audio Is a Trusted Anchor in a Digital World",
-          "url": "https://www.adweek.com/brand-marketing/why-audio-is-a-trusted-anchor-in-a-digital-world/",
-          "postedAt": "2026-05-01T15:52:28.000Z"
-        },
-        {
-          "id": "om_4edc7586e4",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "AI Answer Engines Pose Challenges and Opportunities for Brands",
-          "url": "https://www.adweek.com/brand-marketing/ai-answer-engines-pose-challenges-and-opportunities-for-brands/",
-          "postedAt": "2026-05-01T15:51:45.000Z"
-        },
-        {
-          "id": "om_66e32e13ee",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Generative AI Will Impact Marketers and Consumers",
-          "url": "https://www.adweek.com/brand-marketing/how-generative-ai-will-impact-marketers-and-consumers/",
-          "postedAt": "2026-05-01T15:51:21.000Z"
-        },
-        {
-          "id": "om_f8026174ab",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Trade Desk Is Selling Onsite Retail Media Ads for Dollar General",
-          "url": "https://www.adweek.com/commerce/the-trade-desk-is-selling-onsite-retail-media-ads-for-dollar-general/",
-          "postedAt": "2026-05-01T15:07:37.000Z"
-        },
-        {
-          "id": "om_5c5ce39335",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Saks Global slashes 16% of its corporate workforce",
-          "url": "https://www.retaildive.com/news/saks-global-layoffs-sixteen-percent-corporate-workforce/819037/",
-          "postedAt": "2026-05-01T14:42:00.000Z"
-        },
-        {
-          "id": "om_bef7ad5243",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Go Figure: 3 big marketing numbers from April",
-          "url": "https://www.marketingdive.com/news/go-figure-3-big-marketing-numbers-from-april/819064/",
-          "postedAt": "2026-05-01T14:41:00.000Z"
-        },
-        {
-          "id": "om_4d712b3fbc",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Weekly Closeout: Heydude sales decline and Lululemon dishes about Chip Wilson",
-          "url": "https://www.retaildive.com/news/heydude-sales-declines-lululemon-chip-wilson-proxy-fight-vuori-alo/819015/",
-          "postedAt": "2026-05-01T14:34:00.000Z"
-        },
-        {
-          "id": "om_057d28c12f",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "A’ja Wilson and Jalen Brunson are starring in Lowe’s debut basketball campaign",
-          "url": "https://www.marketingbrew.com/stories/2026/05/01/lowes-basketball-aja-wilson-jalen-brunson?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-01T14:00:00.000Z"
-        },
-        {
-          "id": "om_cfa9a48e4a",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Ford CMO on bringing American values to life for nation’s 250th birthday",
-          "url": "https://www.marketingdive.com/news/how-ford-brings-american-values-to-life-as-nations-250th-birthday-nears/818970/",
-          "postedAt": "2026-05-01T13:31:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-04T04:08:40.282Z",
+      "lastUpdated": "2026-05-04T14:30:45.338Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
