@@ -269,6 +269,96 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_318c7046a9",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Released 🚦RepoBar 0.4.0. This one makes the GitHub menu a lot smarter: persistent SQLite caching, fewer wasted API calls, visible rate limits, bett...",
+          "url": "https://x.com/steipete/status/2051088325100831046",
+          "postedAt": "2026-05-03T23:55:38.000Z"
+        },
+        {
+          "id": "vc_dotey_2e28e69584",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "http://x.com/i/article/2051055946420391936",
+          "url": "https://x.com/dotey/status/2051057428075053120",
+          "postedAt": "2026-05-03T21:52:52.000Z"
+        },
+        {
+          "id": "vc_steipete_17dc0aa3e6",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Sam Altman: Re @steipete let's fix this right away, much too low",
+          "url": "https://x.com/steipete/status/2051056319516365218",
+          "postedAt": "2026-05-03T21:33:33.000Z"
+        },
+        {
+          "id": "vc_steipete_ec61565355",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Hassan: Re @steipete @sama 40 million tokens per minute and he still hit the limit!! what are you building peter a second internet",
+          "url": "https://x.com/steipete/status/2051045811136369069",
+          "postedAt": "2026-05-03T21:02:49.000Z"
+        },
+        {
+          "id": "vc_steipete_730ae817ae",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "brb calling @sama",
+          "url": "https://x.com/steipete/status/2051044240013083133",
+          "postedAt": "2026-05-03T21:00:28.000Z"
+        },
+        {
+          "id": "vc_steipete_ce17e539b2",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT kiosa: Re @mitchmalone @steipete @openclaw @OpenAI wild that 3 months ago Anthropic banned OpenClaw from Claude subscriptions to slow it down, now ...",
+          "url": "https://x.com/steipete/status/2051037657036193803",
+          "postedAt": "2026-05-03T20:33:24.000Z"
+        },
+        {
+          "id": "vc_sama_f53330adea",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "Agents SDK 2.0 is underrated",
+          "url": "https://x.com/sama/status/2050998576671859003",
+          "postedAt": "2026-05-03T17:59:01.000Z"
+        },
+        {
+          "id": "vc_gdb_0bde185eb7",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "codex for startup ideas",
+          "url": "https://x.com/gdb/status/2050972114077843772",
+          "postedAt": "2026-05-03T16:13:51.000Z"
+        },
+        {
+          "id": "vc_sama_366b8e5b99",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "it really is!",
+          "url": "https://x.com/sama/status/2050958845913227474",
+          "postedAt": "2026-05-03T15:21:08.000Z"
+        },
+        {
+          "id": "vc_sama_aa4101354a",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "RT Tibo: Re @gao_zibo All of this and more is coming",
+          "url": "https://x.com/sama/status/2050961438127378779",
+          "postedAt": "2026-05-03T05:39:44.000Z"
+        },
+        {
           "id": "vc_dotey_d8bb141f24",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -276,15 +366,6 @@
           "title": "RT G_Z: 最好的中文语音转文字模型是什么？ 新加了几个开源模型测试: - Qwen3-ASR-1.7B (开源第三， 最好的小STT模型，接近4o-transcribe-mini, 总榜第七） - GL...",
           "url": "https://x.com/dotey/status/2050776636899934720",
           "postedAt": "2026-05-03T01:02:40.000Z"
-        },
-        {
-          "id": "vc_steipete_4a1b8b5c23",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "This one fixes the depenency issues/slowness some had when installed via npm. Plugins are hard, worth it tho! Package is way leaner now, we moved [alm...",
-          "url": "https://x.com/steipete/status/2050735979477008412",
-          "postedAt": "2026-05-03T00:35:32.000Z"
         },
         {
           "id": "vc_gdb_e5907b5615",
@@ -303,24 +384,6 @@
           "title": "RT 岚叔: codex 开发任意pet 教程，以手搓阿莫dei 为例🐶 仅需要codex和手(或嘴)就行，不需要任何外力，制作方式如下： 1. 用 Hatch Pet skill 以「愤怒的阿莫...",
           "url": "https://x.com/dotey/status/2050776755619655821",
           "postedAt": "2026-05-03T00:16:19.000Z"
-        },
-        {
-          "id": "vc_steipete_8205049102",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Ryan Nystrom: codex's /side chat is the feature i didn't know i needed",
-          "url": "https://x.com/steipete/status/2050737505146749078",
-          "postedAt": "2026-05-02T23:43:20.000Z"
-        },
-        {
-          "id": "vc_steipete_4981652363",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "goblins have fat fingers",
-          "url": "https://x.com/steipete/status/2050676702242644465",
-          "postedAt": "2026-05-02T20:40:00.000Z"
         },
         {
           "id": "vc_sama_3921c28024",
@@ -359,33 +422,6 @@
           "postedAt": "2026-05-02T19:36:27.000Z"
         },
         {
-          "id": "vc_sama_043c705faf",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "5.5 xhigh in fast mode is really good i think i got psyoped by twitter on medium for a bit",
-          "url": "https://x.com/sama/status/2050658558174437701",
-          "postedAt": "2026-05-02T19:27:54.000Z"
-        },
-        {
-          "id": "vc_sama_0ad18318d5",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "this is great",
-          "url": "https://x.com/sama/status/2050654662349787518",
-          "postedAt": "2026-05-02T19:12:25.000Z"
-        },
-        {
-          "id": "vc_steipete_1f4769c42d",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Kun Chen: ok @steipete's acpx is a godsend https://github.com/openclaw/acpx just added it in gnhf v0.1.31, and boom - gnhf now supports almost any ...",
-          "url": "https://x.com/steipete/status/2050691919269810462",
-          "postedAt": "2026-05-02T18:49:06.000Z"
-        },
-        {
           "id": "vc_dotey_21f874c5ee",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -411,46 +447,10 @@
           "title": "RT Tom Huang: Open Design 正式开源最完整版本 codex 同款 pets 宠物 🚀 超过 100+ 宠物同步上线🔥 支持 @sama、dario、openclaw 作者 @steipete ， 特朗普...",
           "url": "https://x.com/dotey/status/2050696075376218562",
           "postedAt": "2026-05-02T15:52:41.000Z"
-        },
-        {
-          "id": "vc_dotey_d914a80038",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 小小东: http://x.com/i/article/2050562275321466880",
-          "url": "https://x.com/dotey/status/2050608587706187938",
-          "postedAt": "2026-05-02T13:25:27.000Z"
-        },
-        {
-          "id": "vc_steipete_136df0ef33",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Agnes AI: Super excited to be organizing Africas first @clawcon in Nairobi in June! Lets bring together a community of builders in Kenya! @openclaw...",
-          "url": "https://x.com/steipete/status/2050510198704377988",
-          "postedAt": "2026-05-02T09:17:21.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_1c160b45ea",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "http://x.com/i/article/2050442247754403841",
-          "url": "https://x.com/zarazhangrui/status/2050445806428438734",
-          "postedAt": "2026-05-02T05:22:30.000Z"
-        },
-        {
-          "id": "vc_sama_d41ed8c02a",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "we will plan bigger parties for future releases. a lot more people wanted to come than we expected. thank you! gonna try to think of a really good ide...",
-          "url": "https://x.com/sama/status/2050427808456077541",
-          "postedAt": "2026-05-02T04:10:59.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-03T13:49:14.813Z",
+      "lastUpdated": "2026-05-04T04:08:37.052Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -626,7 +626,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-03T13:49:15.923Z",
+      "lastUpdated": "2026-05-04T04:08:38.255Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -718,6 +718,30 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_d5bffd0cf8",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
+          "url": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
+          "postedAt": "2026-05-04T02:02:25.000Z"
+        },
+        {
+          "id": "om_202692ec5a",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "‘This is fine’ creator says AI startup stole his art",
+          "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+          "postedAt": "2026-05-03T20:16:51.000Z"
+        },
+        {
+          "id": "om_8aaedddfba",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok highlights emerging creators for Asian and Pacific Islander Heritage Month",
+          "url": "https://www.socialmediatoday.com/news/tiktok-highlights-emerging-creators-for-asian-and-pacific-islander-heritage/819152/",
+          "postedAt": "2026-05-03T18:46:30.000Z"
+        },
         {
           "id": "om_43e742268c",
           "source": "Wired",
@@ -853,34 +877,10 @@
           "title": "Ford CMO on bringing American values to life for nation’s 250th birthday",
           "url": "https://www.marketingdive.com/news/how-ford-brings-american-values-to-life-as-nations-250th-birthday-nears/818970/",
           "postedAt": "2026-05-01T13:31:00.000Z"
-        },
-        {
-          "id": "om_a0e003285f",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How Dallas’ WNBA team is spreading its sponsorship wings this season",
-          "url": "https://www.marketingbrew.com/stories/2026/05/01/dallas-wings-wnba-sponsorship?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-01T11:00:00.000Z"
-        },
-        {
-          "id": "om_856f7fa020",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok adds Campus Hub feature for US college students",
-          "url": "https://www.socialmediatoday.com/news/tiktok-adds-campus-hub-feature-for-us-college-students/819035/",
-          "postedAt": "2026-04-30T21:30:24.000Z"
-        },
-        {
-          "id": "om_cc4571677e",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "A ‘new way of marketing’: Inside Expedia’s partnership with IShowSpeed",
-          "url": "https://www.marketingbrew.com/stories/2026/04/30/expedia-ishowspeed-partnership-creator-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-04-30T21:12:47.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-03T13:49:17.875Z",
+      "lastUpdated": "2026-05-04T04:08:40.282Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
