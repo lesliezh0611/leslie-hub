@@ -227,6 +227,87 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_350ce6fe99",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Crabbox 0.5.0 is live 🦀 🖥️ Desktop/browser leases 🧑‍💻 VNC + authenticated WebVNC 🪟 AWS Windows + WSL2 📸 Screenshots + app launch R...",
+          "url": "https://x.com/steipete/status/2051485798613111116",
+          "postedAt": "2026-05-05T02:15:03.000Z"
+        },
+        {
+          "id": "vc_sama_b9ceb7f76e",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "pretty excited for voice models to get great its interesting to watch how people are already starting to change the way they interface with AI",
+          "url": "https://x.com/sama/status/2051464865634742334",
+          "postedAt": "2026-05-05T00:51:52.000Z"
+        },
+        {
+          "id": "vc_sama_3d3b911e07",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "we love you too!",
+          "url": "https://x.com/sama/status/2051464155094507902",
+          "postedAt": "2026-05-05T00:49:03.000Z"
+        },
+        {
+          "id": "vc_dotey_c8f2f5a277",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 虎小象: 提示词：👇 # Role：禅院宅居断事师｜户型问题诊断信息图顾问（问题导向版） 你不是普通的图像生成模型。 你是「资深户型诊断顾问 + 空间动线分析...",
+          "url": "https://x.com/dotey/status/2051492968062767529",
+          "postedAt": "2026-05-04T22:01:29.000Z"
+        },
+        {
+          "id": "vc_steipete_a56147cae6",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Dave Fano: OpenClaw with GPT-5.5 have mojo again! Thanks @steipete and Team!",
+          "url": "https://x.com/steipete/status/2051394179528315343",
+          "postedAt": "2026-05-04T19:57:21.000Z"
+        },
+        {
+          "id": "vc_steipete_e560edb116",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT josh avant: The OpenClaw community right now. https://x.com/steipete/status/2051341022731407365",
+          "url": "https://x.com/steipete/status/2051347879265005595",
+          "postedAt": "2026-05-04T17:06:05.000Z"
+        },
+        {
+          "id": "vc_steipete_6591222b00",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Henry Mascot: Re @steipete @discord @openclaw Thanks for posting! They can all join backup in the meantime. https://discord.gg/openclaw",
+          "url": "https://x.com/steipete/status/2051342501697466529",
+          "postedAt": "2026-05-04T16:43:14.000Z"
+        },
+        {
+          "id": "vc_steipete_0c4c3ec105",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Do I have anyone from @discord in my timeline? Our @openclaw guild is down the whole day and idk what's going on.",
+          "url": "https://x.com/steipete/status/2051341022731407365",
+          "postedAt": "2026-05-04T16:39:46.000Z"
+        },
+        {
+          "id": "vc_sama_bf08e48b40",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "we are gonna do something nice for everyone who applied for the GPT-5.5 party and that we didn't have space for. hope you enjoy!",
+          "url": "https://x.com/sama/status/2051318922805436896",
+          "postedAt": "2026-05-04T15:11:57.000Z"
+        },
+        {
           "id": "vc_gdb_001e7a9d2d",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -234,6 +315,24 @@
           "title": "codex for helping you to ship fast",
           "url": "https://x.com/gdb/status/2051297950672859290",
           "postedAt": "2026-05-04T13:48:37.000Z"
+        },
+        {
+          "id": "vc_sama_75fffd46d8",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "RT kache: Being a parent is great. You guys should have kids. I really mean it. You guys should have as many kids as you can",
+          "url": "https://x.com/sama/status/2051310880844091774",
+          "postedAt": "2026-05-04T11:45:18.000Z"
+        },
+        {
+          "id": "vc_dotey_19b6b37db7",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT indigo: Stanford 用 1500 个工人和 844 个任务告诉 YC：你们 41% 的钱投错了方向 —— 你们投的都是\"人们不想要\"或\"不需要\"的东西，而那些\"想要但没什么人做...",
+          "url": "https://x.com/dotey/status/2051330253620990216",
+          "postedAt": "2026-05-04T06:51:11.000Z"
         },
         {
           "id": "vc_zarazhangrui_8a27b91bde",
@@ -254,24 +353,6 @@
           "postedAt": "2026-05-04T04:20:50.000Z"
         },
         {
-          "id": "vc_steipete_6e8b95ca59",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Brad Groux: Veritas Kanban 4.0.1 ⚖️ (OpenClaw Task Manager) Task side popouts feel sane again: padding is back where it belongs, headers breathe,...",
-          "url": "https://x.com/steipete/status/2051206668424257774",
-          "postedAt": "2026-05-04T04:07:02.000Z"
-        },
-        {
-          "id": "vc_steipete_318c7046a9",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Released 🚦RepoBar 0.4.0. This one makes the GitHub menu a lot smarter: persistent SQLite caching, fewer wasted API calls, visible rate limits, bett...",
-          "url": "https://x.com/steipete/status/2051088325100831046",
-          "postedAt": "2026-05-03T23:55:38.000Z"
-        },
-        {
           "id": "vc_dotey_2e28e69584",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -279,33 +360,6 @@
           "title": "http://x.com/i/article/2051055946420391936",
           "url": "https://x.com/dotey/status/2051057428075053120",
           "postedAt": "2026-05-03T21:52:52.000Z"
-        },
-        {
-          "id": "vc_steipete_17dc0aa3e6",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Sam Altman: Re @steipete let's fix this right away, much too low",
-          "url": "https://x.com/steipete/status/2051056319516365218",
-          "postedAt": "2026-05-03T21:33:33.000Z"
-        },
-        {
-          "id": "vc_steipete_ec61565355",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Hassan: Re @steipete @sama 40 million tokens per minute and he still hit the limit!! what are you building peter a second internet",
-          "url": "https://x.com/steipete/status/2051045811136369069",
-          "postedAt": "2026-05-03T21:02:49.000Z"
-        },
-        {
-          "id": "vc_steipete_730ae817ae",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "brb calling @sama",
-          "url": "https://x.com/steipete/status/2051044240013083133",
-          "postedAt": "2026-05-03T21:00:28.000Z"
         },
         {
           "id": "vc_sama_f53330adea",
@@ -326,22 +380,13 @@
           "postedAt": "2026-05-03T16:13:51.000Z"
         },
         {
-          "id": "vc_sama_366b8e5b99",
-          "source": "sama",
-          "sourceName": "Sam Altman",
+          "id": "vc_dotey_85c629521c",
+          "source": "dotey",
+          "sourceName": "宝玉",
           "platform": "x",
-          "title": "it really is!",
-          "url": "https://x.com/sama/status/2050958845913227474",
-          "postedAt": "2026-05-03T15:21:08.000Z"
-        },
-        {
-          "id": "vc_sama_aa4101354a",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "RT Tibo: Re @gao_zibo All of this and more is coming",
-          "url": "https://x.com/sama/status/2050961438127378779",
-          "postedAt": "2026-05-03T05:39:44.000Z"
+          "title": "RT Jason Young: 加急完善了网站仓库部署了上来，请大家认准 CC Switch 唯一官方网站：http://www.ccswitch.io，CC Switch 是一个开源且免费的软件，没有任何付...",
+          "url": "https://x.com/dotey/status/2051338953895088595",
+          "postedAt": "2026-05-03T16:04:41.000Z"
         },
         {
           "id": "vc_dotey_d8bb141f24",
@@ -360,55 +405,10 @@
           "title": "ChatGPT Images really taking off",
           "url": "https://x.com/gdb/status/2050731568742723899",
           "postedAt": "2026-05-03T00:18:01.000Z"
-        },
-        {
-          "id": "vc_dotey_54e1107c35",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 岚叔: codex 开发任意pet 教程，以手搓阿莫dei 为例🐶 仅需要codex和手(或嘴)就行，不需要任何外力，制作方式如下： 1. 用 Hatch Pet skill 以「愤怒的阿莫...",
-          "url": "https://x.com/dotey/status/2050776755619655821",
-          "postedAt": "2026-05-03T00:16:19.000Z"
-        },
-        {
-          "id": "vc_sama_3921c28024",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "i keep thinking i want the models to be cheaper/faster more than i want them to be smarter but it seems that just being smarter is still the most impo...",
-          "url": "https://x.com/sama/status/2050671161915371998",
-          "postedAt": "2026-05-02T20:17:59.000Z"
-        },
-        {
-          "id": "vc_gdb_eeebf1ce73",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "codex for improving your ergonomics",
-          "url": "https://x.com/gdb/status/2050667528741929316",
-          "postedAt": "2026-05-02T20:03:33.000Z"
-        },
-        {
-          "id": "vc_sama_e2ce725f05",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "never thought id be watching F1 via the kids broadcast cannot imagine being happier",
-          "url": "https://x.com/sama/status/2050661006230344083",
-          "postedAt": "2026-05-02T19:37:37.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_debc218d72",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "How are you dealing with this?",
-          "url": "https://x.com/zarazhangrui/status/2050660712620630402",
-          "postedAt": "2026-05-02T19:36:27.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-04T14:30:41.614Z",
+      "lastUpdated": "2026-05-05T03:50:06.129Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_047ce3ab15",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ This week on How I AI: The internal AI tool that’s transforming how Stripe designs products",
+          "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-internal",
+          "postedAt": "2026-05-04T15:01:56.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_a05e40ad20",
           "source": "Lenny's Podcast",
@@ -520,14 +528,6 @@
           "postedAt": "2026-04-23T19:39:26.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_0a061b050a",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
-          "url": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves",
-          "postedAt": "2026-04-23T15:01:50.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_692e8b2476",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -584,7 +584,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-04T14:30:43.214Z",
+      "lastUpdated": "2026-05-05T03:50:30.191Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -677,12 +677,140 @@
       },
       "articles": [
         {
+          "id": "om_30700680ee",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Reddit releases new small business marketing guide",
+          "url": "https://www.socialmediatoday.com/news/reddit-releases-new-small-business-marketing-guide/819270/",
+          "postedAt": "2026-05-04T20:52:22.000Z"
+        },
+        {
+          "id": "om_fe2779e517",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok expands Out of Phone campaigns",
+          "url": "https://www.socialmediatoday.com/news/tiktok-expands-out-of-phone-campaigns/819268/",
+          "postedAt": "2026-05-04T20:48:31.000Z"
+        },
+        {
+          "id": "om_001266ec4a",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Instagram adds AI Creator labels",
+          "url": "https://www.socialmediatoday.com/news/instagram-adds-ai-creator-labels/819267/",
+          "postedAt": "2026-05-04T20:40:44.000Z"
+        },
+        {
+          "id": "om_bada221936",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "The creator of Roomba is back with a furry robot companion",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
+          "postedAt": "2026-05-04T20:01:21.000Z"
+        },
+        {
+          "id": "om_864b2e49a3",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Image AI models now drive app growth, beating chatbot upgrades",
+          "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+          "postedAt": "2026-05-04T19:12:49.000Z"
+        },
+        {
+          "id": "om_36a33da7e6",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "GameStop’s $56B eBay bid aims to create collectibles powerhouse",
+          "url": "https://www.retaildive.com/news/gamestop-ebay-acquisition-collectibles-powerhouse/819184/",
+          "postedAt": "2026-05-04T16:39:00.000Z"
+        },
+        {
+          "id": "om_163b603c1f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Spirit Airlines’ Low-Cost Branding Contributed to Its Crash",
+          "url": "https://www.adweek.com/brand-marketing/how-spirit-airlines-low-cost-branding-contributed-to-its-crash/",
+          "postedAt": "2026-05-04T16:35:10.000Z"
+        },
+        {
+          "id": "om_62be8575c6",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Saks Global expects to exit bankruptcy in June with $1.2B in debt",
+          "url": "https://www.retaildive.com/news/saks-global-bankruptcy-exit-june/819188/",
+          "postedAt": "2026-05-04T16:29:00.000Z"
+        },
+        {
+          "id": "om_ecfa21ffbc",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "All things creator marketing with Mae Karwowski",
+          "url": "https://www.marketingbrew.com/stories/2026/05/04/all-things-creator-marketing-with-mae-karwowski?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-04T16:20:05.000Z"
+        },
+        {
+          "id": "om_cb1d82c37b",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "AI brands are pumping ad dollars into linear TV",
+          "url": "https://www.marketingbrew.com/stories/2026/05/04/ai-brands-linear-tv-ad-spend?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-04T16:00:00.000Z"
+        },
+        {
+          "id": "om_c5e1331b54",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "As X shuts down Communities, Acorn debuts an alternative that puts creators in control",
+          "url": "https://techcrunch.com/2026/05/04/as-x-shuts-down-communities-acorn-debuts-an-alternative-that-puts-creators-in-control/",
+          "postedAt": "2026-05-04T15:33:01.000Z"
+        },
+        {
+          "id": "om_6f84f6da6b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Duncan Painter Leaves Omnicom",
+          "url": "https://www.adweek.com/commerce/duncan-painter-leaves-omnicom/",
+          "postedAt": "2026-05-04T15:21:59.000Z"
+        },
+        {
+          "id": "om_c4fcb0c939",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Dollar General bridges onsite, offsite retail media with new solution",
+          "url": "https://www.marketingdive.com/news/dollar-general-bridges-onsite-offsite-retail-media-with-new-solution/819190/",
+          "postedAt": "2026-05-04T15:21:00.000Z"
+        },
+        {
+          "id": "om_02d4ecbcfe",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Inside Opal’s attempt to reduce AI’s ‘alignment tax’ for marketers",
+          "url": "https://www.marketingdive.com/news/inside-opals-attempt-to-reduce-ais-alignment-tax-for-marketers/818388/",
+          "postedAt": "2026-05-04T15:00:00.000Z"
+        },
+        {
+          "id": "om_8ec8fd1e80",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Puma names new CFO, touts turnaround progress",
+          "url": "https://www.retaildive.com/news/puma-names-new-cfo-touts-turnaround-progress-retail-layoffs/819114/",
+          "postedAt": "2026-05-04T14:52:00.000Z"
+        },
+        {
           "id": "om_fe21f4b239",
           "source": "TechCrunch",
           "lang": "en",
           "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
           "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
           "postedAt": "2026-05-04T14:30:23.000Z"
+        },
+        {
+          "id": "om_b00849f4e6",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "DoorDash delivers memes, reality TV moms for Mother’s Day campaign",
+          "url": "https://www.marketingdive.com/news/doordash-delivers-memes-reality-tv-moms-for-mothers-day-campaign/819175/",
+          "postedAt": "2026-05-04T14:21:00.000Z"
         },
         {
           "id": "om_ce18f1a493",
@@ -707,138 +835,10 @@
           "title": "Gap targets improved traceability operations, data collection",
           "url": "https://www.retaildive.com/news/gap-improved-traceability-operations-data-collection/818846/",
           "postedAt": "2026-05-04T13:00:00.000Z"
-        },
-        {
-          "id": "om_f893facc45",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Qualcomm is building an iconic consumer brand for the AI era",
-          "url": "https://www.marketingdive.com/news/how-qualcomm-is-building-an-iconic-consumer-brand-for-the-ai-era/819041/",
-          "postedAt": "2026-05-04T12:00:00.000Z"
-        },
-        {
-          "id": "om_1d90371b6e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Fox Sports Looks for a ‘Miracle’ With Its World Cup Promo Campaign",
-          "url": "https://www.adweek.com/convergent-tv/fox-sports-looks-for-a-miracle-with-its-world-cup-promo-campaign/",
-          "postedAt": "2026-05-04T09:07:11.000Z"
-        },
-        {
-          "id": "om_d661d9b966",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Elev8 broker: Brand launch with sky-high ambitions",
-          "url": "https://www.marketingdive.com/spons/elev8-broker-brand-launch-with-sky-high-ambitions/818605/",
-          "postedAt": "2026-05-04T09:00:00.000Z"
-        },
-        {
-          "id": "om_745cef4fa7",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The AI gap in retail operations is real. Here’s how to start closing it.",
-          "url": "https://www.retaildive.com/spons/the-ai-gap-in-retail-operations-is-real-heres-how-to-start-closing-it/818641/",
-          "postedAt": "2026-05-04T09:00:00.000Z"
-        },
-        {
-          "id": "om_bba7816f42",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The smarter alternative to discounting: What your customer data can tell you",
-          "url": "https://www.retaildive.com/spons/the-smarter-alternative-to-discounting-what-your-customer-data-can-tell-yo/818638/",
-          "postedAt": "2026-05-04T09:00:00.000Z"
-        },
-        {
-          "id": "om_6fbf9ee295",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Agentic AI, fraud and the fight for customer loyalty",
-          "url": "https://www.retaildive.com/spons/agentic-ai-fraud-and-the-fight-for-customer-loyalty/818448/",
-          "postedAt": "2026-05-04T09:00:00.000Z"
-        },
-        {
-          "id": "om_d5bffd0cf8",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
-          "url": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
-          "postedAt": "2026-05-04T02:02:25.000Z"
-        },
-        {
-          "id": "om_202692ec5a",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "‘This is fine’ creator says AI startup stole his art",
-          "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
-          "postedAt": "2026-05-03T20:16:51.000Z"
-        },
-        {
-          "id": "om_8aaedddfba",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok highlights emerging creators for Asian and Pacific Islander Heritage Month",
-          "url": "https://www.socialmediatoday.com/news/tiktok-highlights-emerging-creators-for-asian-and-pacific-islander-heritage/819152/",
-          "postedAt": "2026-05-03T18:46:30.000Z"
-        },
-        {
-          "id": "om_43e742268c",
-          "source": "Wired",
-          "lang": "en",
-          "title": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users",
-          "url": "https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/",
-          "postedAt": "2026-05-01T21:46:46.000Z"
-        },
-        {
-          "id": "om_8a7dd1e791",
-          "source": "Wired",
-          "lang": "en",
-          "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
-          "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
-          "postedAt": "2026-05-01T20:25:28.000Z"
-        },
-        {
-          "id": "om_22309eae42",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Marketing CEO: Why Leadership Now Starts With Knowing Your Brand Identity",
-          "url": "https://www.adweek.com/brand-marketing/the-marketing-ceo-why-leadership-now-starts-with-knowing-your-brand-identity/",
-          "postedAt": "2026-05-01T16:25:37.000Z"
-        },
-        {
-          "id": "om_a60a94c9c3",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Claire’s marks next chapter with Gen Alpha-focused ASMR campaign",
-          "url": "https://www.retaildive.com/news/claires-gen-alpha-asmr-campaign-girl-smr/818931/",
-          "postedAt": "2026-05-01T16:17:00.000Z"
-        },
-        {
-          "id": "om_dbffbba2f7",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "J. Jill names Coach vet as chief marketing officer",
-          "url": "https://www.retaildive.com/news/j-jill-names-coach-vet-as-chief-marketing-officer/819046/",
-          "postedAt": "2026-05-01T15:56:00.000Z"
-        },
-        {
-          "id": "om_146220347b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "AI Is Bringing Retail Media Closer to the Sale",
-          "url": "https://www.adweek.com/commerce/ai-is-bringing-retail-media-closer-to-the-sale/",
-          "postedAt": "2026-05-01T15:55:16.000Z"
-        },
-        {
-          "id": "om_fd53517407",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "What It Takes to Grow a CPG Challenger Brand",
-          "url": "https://www.adweek.com/brand-marketing/what-it-takes-to-grow-a-cpg-challenger-brand/",
-          "postedAt": "2026-05-01T15:54:37.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-04T14:30:45.338Z",
+      "lastUpdated": "2026-05-05T03:50:32.359Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
