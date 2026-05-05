@@ -227,13 +227,58 @@
       ],
       "articles": [
         {
-          "id": "vc_steipete_350ce6fe99",
+          "id": "vc_steipete_d782391072",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "Crabbox 0.5.0 is live 🦀 🖥️ Desktop/browser leases 🧑‍💻 VNC + authenticated WebVNC 🪟 AWS Windows + WSL2 📸 Screenshots + app launch R...",
-          "url": "https://x.com/steipete/status/2051485798613111116",
-          "postedAt": "2026-05-05T02:15:03.000Z"
+          "title": "RT eric provencher: This is pretty nuts",
+          "url": "https://x.com/steipete/status/2051638734966157609",
+          "postedAt": "2026-05-05T11:43:59.000Z"
+        },
+        {
+          "id": "vc_steipete_3ce272f0a3",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "It's been quite a week. Good stuff is coming though. I hired a team! https://openclaw.ai/blog/openclaw-rough-week",
+          "url": "https://x.com/steipete/status/2051612829304659972",
+          "postedAt": "2026-05-05T10:39:50.000Z"
+        },
+        {
+          "id": "vc_steipete_e4b2c38b20",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "🤖 Kept hitting @github rate limits across my agents. Shipped two things: – RepoBar got a JUICE METER – gitcrawl is now also a drop-in gh cache →...",
+          "url": "https://x.com/steipete/status/2051579838780072173",
+          "postedAt": "2026-05-05T08:28:44.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_f8e341d939",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "上一条不是我发的！！！已经删掉了 被盗号了，莫名其妙发了什么诡异的币圈的东西。 五一在家没怎么刷X，朋友问我怎么玩币了我才看到感觉天都塌了，立刻开了X的二...",
+          "url": "https://x.com/Khazix0918/status/2051578264263737436",
+          "postedAt": "2026-05-05T08:22:29.000Z"
+        },
+        {
+          "id": "vc_steipete_26208c7a97",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "gog 0.16 is out. Google Workspace CLI for humans and agents. Lossless raw API output, sanitized Gmail reads, safer command profiles, Drive inventory, ...",
+          "url": "https://x.com/steipete/status/2051575048348074450",
+          "postedAt": "2026-05-05T08:09:42.000Z"
+        },
+        {
+          "id": "vc_steipete_da29670113",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Shakker: sorry @steipete, you said the words. we had no choice. 🦞🎬",
+          "url": "https://x.com/steipete/status/2051574104948383887",
+          "postedAt": "2026-05-05T08:04:39.000Z"
         },
         {
           "id": "vc_sama_b9ceb7f76e",
@@ -261,42 +306,6 @@
           "title": "RT 虎小象: 提示词：👇 # Role：禅院宅居断事师｜户型问题诊断信息图顾问（问题导向版） 你不是普通的图像生成模型。 你是「资深户型诊断顾问 + 空间动线分析...",
           "url": "https://x.com/dotey/status/2051492968062767529",
           "postedAt": "2026-05-04T22:01:29.000Z"
-        },
-        {
-          "id": "vc_steipete_a56147cae6",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Dave Fano: OpenClaw with GPT-5.5 have mojo again! Thanks @steipete and Team!",
-          "url": "https://x.com/steipete/status/2051394179528315343",
-          "postedAt": "2026-05-04T19:57:21.000Z"
-        },
-        {
-          "id": "vc_steipete_e560edb116",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT josh avant: The OpenClaw community right now. https://x.com/steipete/status/2051341022731407365",
-          "url": "https://x.com/steipete/status/2051347879265005595",
-          "postedAt": "2026-05-04T17:06:05.000Z"
-        },
-        {
-          "id": "vc_steipete_6591222b00",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Henry Mascot: Re @steipete @discord @openclaw Thanks for posting! They can all join backup in the meantime. https://discord.gg/openclaw",
-          "url": "https://x.com/steipete/status/2051342501697466529",
-          "postedAt": "2026-05-04T16:43:14.000Z"
-        },
-        {
-          "id": "vc_steipete_0c4c3ec105",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Do I have anyone from @discord in my timeline? Our @openclaw guild is down the whole day and idk what's going on.",
-          "url": "https://x.com/steipete/status/2051341022731407365",
-          "postedAt": "2026-05-04T16:39:46.000Z"
         },
         {
           "id": "vc_sama_bf08e48b40",
@@ -396,19 +405,10 @@
           "title": "RT G_Z: 最好的中文语音转文字模型是什么？ 新加了几个开源模型测试: - Qwen3-ASR-1.7B (开源第三， 最好的小STT模型，接近4o-transcribe-mini, 总榜第七） - GL...",
           "url": "https://x.com/dotey/status/2050776636899934720",
           "postedAt": "2026-05-03T01:02:40.000Z"
-        },
-        {
-          "id": "vc_gdb_e5907b5615",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "ChatGPT Images really taking off",
-          "url": "https://x.com/gdb/status/2050731568742723899",
-          "postedAt": "2026-05-03T00:18:01.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-05T03:50:06.129Z",
+      "lastUpdated": "2026-05-05T14:23:49.043Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_fd8d10de6a",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Why SaaS freemium playbooks don’t work in AI, and what to do instead",
+          "url": "https://www.lennysnewsletter.com/p/why-saas-freemium-playbooks-dont",
+          "postedAt": "2026-05-05T13:03:32.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_047ce3ab15",
           "source": "Lenny's Podcast",
@@ -520,14 +528,6 @@
           "postedAt": "2026-04-25T19:51:00.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_f8dbcb45a1",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "GPT 5.5 just did what no other model could",
-          "url": "https://www.lennysnewsletter.com/p/gpt-55-just-did-what-no-other-model",
-          "postedAt": "2026-04-23T19:39:26.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_692e8b2476",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -584,7 +584,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-05T03:50:30.191Z",
+      "lastUpdated": "2026-05-05T14:23:50.289Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -677,6 +677,86 @@
       },
       "articles": [
         {
+          "id": "om_14dfbd6081",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Bose Brings Back Its ‘Lifestyle’ Branding With New Speakers for the Home",
+          "url": "https://www.wired.com/story/bose-brings-back-its-lifestyle-branding-with-new-speakers-for-the-home/",
+          "postedAt": "2026-05-05T12:00:00.000Z"
+        },
+        {
+          "id": "om_801a252193",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why American Family Insurance made a reality competition series for Hulu",
+          "url": "https://www.marketingdive.com/news/why-american-family-insurance-made-a-reality-competition-series-for-hulu/819093/",
+          "postedAt": "2026-05-05T11:00:00.000Z"
+        },
+        {
+          "id": "om_2b7b711163",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Maintaining Brand Safety and Integrity in the AI Slop Era",
+          "url": "https://www.adweek.com/brand-marketing/maintaining-brand-safety-and-integrity-in-the-ai-slop-era/",
+          "postedAt": "2026-05-05T09:38:53.000Z"
+        },
+        {
+          "id": "om_b6b8f821df",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Using Agentic AI to Connect Across the Funnel",
+          "url": "https://www.adweek.com/brand-marketing/using-agentic-ai-to-connect-across-the-funnel/",
+          "postedAt": "2026-05-05T09:38:23.000Z"
+        },
+        {
+          "id": "om_8a998b8563",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Trust Equation Health Marketers Must Solve",
+          "url": "https://www.adweek.com/brand-marketing/the-trust-equation-health-marketers-must-solve/",
+          "postedAt": "2026-05-05T09:37:26.000Z"
+        },
+        {
+          "id": "om_ff0fb41e80",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Canva Triples Its Cannes Lions Beach Space After Drawing 4,000 Visitors Last Year",
+          "url": "https://www.adweek.com/brand-marketing/canva-triples-its-cannes-lions-beach-space-after-drawing-4000-visitors-last-year/",
+          "postedAt": "2026-05-05T08:30:44.000Z"
+        },
+        {
+          "id": "om_5fdbb0235c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Koddi and Comcast’s Universal Ads Ink Deal to Target Streaming Ads With Commerce Data",
+          "url": "https://www.adweek.com/commerce/koddi-and-comcasts-universal-ads-ink-deal-to-target-streaming-ads-with-commerce-data/",
+          "postedAt": "2026-05-05T06:00:00.000Z"
+        },
+        {
+          "id": "om_ca0181655f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Creative 100 Hall of Fame: The Advertising Leaders We Admire (and Envy)",
+          "url": "https://www.adweek.com/brand-marketing/the-creative-100-hall-of-fame-the-advertising-leaders-we-admire-and-envy/",
+          "postedAt": "2026-05-05T06:00:00.000Z"
+        },
+        {
+          "id": "om_7f21d1d086",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ulta Beauty Says AI Is Supercharging Its Rewards Program, Driving 95% of Sales",
+          "url": "https://www.adweek.com/brand-marketing/ulta-beauty-ai-supercharging-rewards-program-driving-sales/",
+          "postedAt": "2026-05-05T06:00:00.000Z"
+        },
+        {
+          "id": "om_b980e0756e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The 2026 Creative 100 Rising Agency Talent: Social Natives With Bold Ideas",
+          "url": "https://www.adweek.com/brand-marketing/the-2026-creative-100-rising-agency-talent-social-natives-with-bold-ideas/",
+          "postedAt": "2026-05-05T06:00:00.000Z"
+        },
+        {
           "id": "om_30700680ee",
           "source": "Social Media Today",
           "lang": "en",
@@ -701,14 +781,6 @@
           "postedAt": "2026-05-04T20:40:44.000Z"
         },
         {
-          "id": "om_bada221936",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "The creator of Roomba is back with a furry robot companion",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
-          "postedAt": "2026-05-04T20:01:21.000Z"
-        },
-        {
           "id": "om_864b2e49a3",
           "source": "TechCrunch",
           "lang": "en",
@@ -723,14 +795,6 @@
           "title": "GameStop’s $56B eBay bid aims to create collectibles powerhouse",
           "url": "https://www.retaildive.com/news/gamestop-ebay-acquisition-collectibles-powerhouse/819184/",
           "postedAt": "2026-05-04T16:39:00.000Z"
-        },
-        {
-          "id": "om_163b603c1f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Spirit Airlines’ Low-Cost Branding Contributed to Its Crash",
-          "url": "https://www.adweek.com/brand-marketing/how-spirit-airlines-low-cost-branding-contributed-to-its-crash/",
-          "postedAt": "2026-05-04T16:35:10.000Z"
         },
         {
           "id": "om_62be8575c6",
@@ -765,80 +829,16 @@
           "postedAt": "2026-05-04T15:33:01.000Z"
         },
         {
-          "id": "om_6f84f6da6b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Duncan Painter Leaves Omnicom",
-          "url": "https://www.adweek.com/commerce/duncan-painter-leaves-omnicom/",
-          "postedAt": "2026-05-04T15:21:59.000Z"
-        },
-        {
           "id": "om_c4fcb0c939",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Dollar General bridges onsite, offsite retail media with new solution",
           "url": "https://www.marketingdive.com/news/dollar-general-bridges-onsite-offsite-retail-media-with-new-solution/819190/",
           "postedAt": "2026-05-04T15:21:00.000Z"
-        },
-        {
-          "id": "om_02d4ecbcfe",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Inside Opal’s attempt to reduce AI’s ‘alignment tax’ for marketers",
-          "url": "https://www.marketingdive.com/news/inside-opals-attempt-to-reduce-ais-alignment-tax-for-marketers/818388/",
-          "postedAt": "2026-05-04T15:00:00.000Z"
-        },
-        {
-          "id": "om_8ec8fd1e80",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Puma names new CFO, touts turnaround progress",
-          "url": "https://www.retaildive.com/news/puma-names-new-cfo-touts-turnaround-progress-retail-layoffs/819114/",
-          "postedAt": "2026-05-04T14:52:00.000Z"
-        },
-        {
-          "id": "om_fe21f4b239",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
-          "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-          "postedAt": "2026-05-04T14:30:23.000Z"
-        },
-        {
-          "id": "om_b00849f4e6",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "DoorDash delivers memes, reality TV moms for Mother’s Day campaign",
-          "url": "https://www.marketingdive.com/news/doordash-delivers-memes-reality-tv-moms-for-mothers-day-campaign/819175/",
-          "postedAt": "2026-05-04T14:21:00.000Z"
-        },
-        {
-          "id": "om_ce18f1a493",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Omnicom credits Q1 wins to core operations, reaffirms ongoing cost cuts",
-          "url": "https://www.marketingdive.com/news/omnicom-credits-q1-wins-to-core-operations-reaffirms-ongoing-cost-cuts/819157/",
-          "postedAt": "2026-05-04T13:54:00.000Z"
-        },
-        {
-          "id": "om_327d161eb8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target launches new kind of supply chain facility",
-          "url": "https://www.retaildive.com/news/target-launches-new-kind-of-supply-chain-facility/819103/",
-          "postedAt": "2026-05-04T13:29:00.000Z"
-        },
-        {
-          "id": "om_efa06b9ef3",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Gap targets improved traceability operations, data collection",
-          "url": "https://www.retaildive.com/news/gap-improved-traceability-operations-data-collection/818846/",
-          "postedAt": "2026-05-04T13:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-05T03:50:32.359Z",
+      "lastUpdated": "2026-05-05T14:23:52.343Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
