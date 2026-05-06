@@ -227,6 +227,51 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_556a4f1c8c",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Merci! imsg 0.6 + 0.7 are live 🔵 Private API bridge landed 📡 Watch/history reliability fixes 💬 Better chat + account diagnostics 🛠️ Long ...",
+          "url": "https://x.com/steipete/status/2051905175355351440",
+          "postedAt": "2026-05-06T06:01:31.000Z"
+        },
+        {
+          "id": "vc_dotey_a5bd1bf35a",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Hermes Agent 这名字，间接影响了爱马仕广告的投放效果，日常讨论 Hermes 看到广告的大多数不是目标人群😂",
+          "url": "https://x.com/dotey/status/2051902663051157521",
+          "postedAt": "2026-05-06T05:51:32.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_67f297b7f1",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Lots of developer tools are having a missed opportunity Their product is now essentially useful to anyone who has access to an agent, not just profess...",
+          "url": "https://x.com/zarazhangrui/status/2051900943831335167",
+          "postedAt": "2026-05-06T05:44:42.000Z"
+        },
+        {
+          "id": "vc_steipete_45ce986797",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Me and codex were busy. 🔊 http://sonoscli.sh — Sonos 🗃️ http://wacli.sh — WhatsApp 🪶 http://birdclaw.sh — X archive 🧰 http://gitcrawl....",
+          "url": "https://x.com/steipete/status/2051900143339704730",
+          "postedAt": "2026-05-06T05:41:31.000Z"
+        },
+        {
+          "id": "vc_steipete_2fd67aba53",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "CodexBar 0.24 is live 🤖 New Windsurf, Codebuff + DeepSeek providers 👥 Copilot multi-account switching 🧹 Opt-in local storage breakdowns 🔋 ...",
+          "url": "https://x.com/steipete/status/2051882417292525950",
+          "postedAt": "2026-05-06T04:31:05.000Z"
+        },
+        {
           "id": "vc_Khazix0918_53a3469c68",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -243,6 +288,15 @@
           "title": "ChatGPT for Excel and Google Sheets:",
           "url": "https://x.com/gdb/status/2051866486658994636",
           "postedAt": "2026-05-06T03:27:46.000Z"
+        },
+        {
+          "id": "vc_dotey_d9e920507a",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT meng shao: Warp 团队这是要把开源进行到底了，在 Warp、Doc 开源后，又把团队用于加速工作流的 Oz Skills 开源了 @warpdotdev 👏🏻👏🏻 # Warp 团队...",
+          "url": "https://x.com/dotey/status/2051902838100439318",
+          "postedAt": "2026-05-06T03:22:00.000Z"
         },
         {
           "id": "vc_dotey_f46cef0ea6",
@@ -281,15 +335,6 @@
           "postedAt": "2026-05-06T01:24:57.000Z"
         },
         {
-          "id": "vc_dotey_5349da69e5",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "为啥有人把 Dario Amodei 叫“阿迪王”？",
-          "url": "https://x.com/dotey/status/2051833916378501444",
-          "postedAt": "2026-05-06T01:18:21.000Z"
-        },
-        {
           "id": "vc_sama_177c74b5c8",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -299,13 +344,13 @@
           "postedAt": "2026-05-06T01:00:30.000Z"
         },
         {
-          "id": "vc_dotey_65dc6745c1",
-          "source": "dotey",
-          "sourceName": "宝玉",
+          "id": "vc_zarazhangrui_ccaf9ff2be",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
           "platform": "x",
-          "title": "最近用微信读书听书，现在 AI 语音的音色是真好，但是多音字识别不准，很多字音都读错了，听着就很出戏！ 之前是在喜马拉雅听真人版本，感觉就特别好，后来进度...",
-          "url": "https://x.com/dotey/status/2051808036763664442",
-          "postedAt": "2026-05-05T23:35:31.000Z"
+          "title": "RT austin lau: I got married this past weekend so I did what any rational @AnthropicAI employee would do and had Claude Code analyze 12 years of iMess...",
+          "url": "https://x.com/zarazhangrui/status/2051900545087287527",
+          "postedAt": "2026-05-05T22:34:40.000Z"
         },
         {
           "id": "vc_sama_4b94a5daff",
@@ -353,33 +398,6 @@
           "postedAt": "2026-05-05T16:55:03.000Z"
         },
         {
-          "id": "vc_steipete_06d1e98765",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "I added Googe Meet support to OpenClaw and now Molty is eager to join every meeting.",
-          "url": "https://x.com/steipete/status/2051697991266795793",
-          "postedAt": "2026-05-05T16:18:14.000Z"
-        },
-        {
-          "id": "vc_steipete_41554ed024",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "that's a lotta token.",
-          "url": "https://x.com/steipete/status/2051690175252594720",
-          "postedAt": "2026-05-05T15:47:10.000Z"
-        },
-        {
-          "id": "vc_steipete_a9e49d3912",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Matt Ronge: Re @steipete the latest OpenClaw release is fantastic! Fixes all the issues I've having the past week. Thank you!",
-          "url": "https://x.com/steipete/status/2051718364574233051",
-          "postedAt": "2026-05-05T15:15:58.000Z"
-        },
-        {
           "id": "vc_Khazix0918_f8e341d939",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -387,28 +405,10 @@
           "title": "上一条不是我发的！！！已经删掉了 被盗号了，莫名其妙发了什么诡异的币圈的东西。 五一在家没怎么刷X，朋友问我怎么玩币了我才看到感觉天都塌了，立刻开了X的二...",
           "url": "https://x.com/Khazix0918/status/2051578264263737436",
           "postedAt": "2026-05-05T08:22:29.000Z"
-        },
-        {
-          "id": "vc_gdb_001e7a9d2d",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "codex for helping you to ship fast",
-          "url": "https://x.com/gdb/status/2051297950672859290",
-          "postedAt": "2026-05-04T13:48:37.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_8a27b91bde",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "this is the coolest demo I've seen a while, a must-watch for anyone interested in human-agent interaction!",
-          "url": "https://x.com/zarazhangrui/status/2051192270632993176",
-          "postedAt": "2026-05-04T06:48:41.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-06T04:04:26.169Z",
+      "lastUpdated": "2026-05-06T14:46:32.915Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_cd45e18925",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Quests, token leaderboards, and a skills marketplace: The elite AI adoption playbook | John Kim (Sendbird)",
+          "url": "https://www.lennysnewsletter.com/p/quests-token-leaderboards-and-a-skills",
+          "postedAt": "2026-05-06T12:03:39.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_fd8d10de6a",
           "source": "Lenny's Podcast",
@@ -520,14 +528,6 @@
           "postedAt": "2026-04-26T12:31:49.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_f25fcc7fbb",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: What great product leaders do differently, Claude vs. ChatGPT, receiving hard feedback two weeks into the job, tips for joining a pre-PMF startup, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-what-great-product",
-          "postedAt": "2026-04-25T19:51:00.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_692e8b2476",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -584,7 +584,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-06T04:04:27.297Z",
+      "lastUpdated": "2026-05-06T14:46:34.011Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -677,6 +677,86 @@
       },
       "articles": [
         {
+          "id": "om_f2d50f8b68",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target’s digital chief breaks down the retailer’s creator overhaul",
+          "url": "https://www.retaildive.com/news/targets-digital-chief-breaks-down-the-retailers-creator-overhaul/819417/",
+          "postedAt": "2026-05-06T14:40:00.000Z"
+        },
+        {
+          "id": "om_0cc1f646d9",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How meat-snack marketers are meeting the moment",
+          "url": "https://www.marketingbrew.com/stories/how-meat-snack-marketers-are-meeting-the-moment?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-06T13:00:20.000Z"
+        },
+        {
+          "id": "om_9e34b162f3",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How jewelry brand Gorjana found its place in sports",
+          "url": "https://www.marketingbrew.com/stories/gorjana-sports-club?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-06T11:00:00.000Z"
+        },
+        {
+          "id": "om_a1958c6f40",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Advertisers Spent $1 Billion on Criteo in Q1, Up 8% Year-Over-Year",
+          "url": "https://www.adweek.com/commerce/advertisers-spent-1-billion-on-criteo-in-q1-up-8-year-over-year/",
+          "postedAt": "2026-05-06T09:50:20.000Z"
+        },
+        {
+          "id": "om_fd1420eca5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Old Navy Appoints Michael Francis as Chief Customer Officer Amid Turnaround",
+          "url": "https://www.adweek.com/brand-marketing/old-navy-appoints-michael-francis-as-chief-customer-officer-amid-turnaround/",
+          "postedAt": "2026-05-06T09:00:00.000Z"
+        },
+        {
+          "id": "om_5eafc1ec29",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ziff Davis Buys Four Brands From Recurrent Ventures, Launches a Lifestyle Group",
+          "url": "https://www.adweek.com/media/ziff-davis-recurrent-ventures-dwell-domino-business-home-popsci/",
+          "postedAt": "2026-05-06T09:00:00.000Z"
+        },
+        {
+          "id": "om_ab28bef9fc",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Real WPP Story Is in the Margin, Not the Revenue",
+          "url": "https://www.adweek.com/agencies/the-real-wpp-story-is-in-the-margin-not-the-revenue/",
+          "postedAt": "2026-05-06T08:00:00.000Z"
+        },
+        {
+          "id": "om_180018c2bb",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Target’s digital chief breaks down the retailer’s creator overhaul",
+          "url": "https://www.marketingdive.com/news/targets-digital-chief-breaks-down-the-retailers-creator-overhaul/819368/",
+          "postedAt": "2026-05-06T08:00:00.000Z"
+        },
+        {
+          "id": "om_df4ab4f22d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How I AI: Tech Recipes CEO Brian Chap Built a ‘True Decision Engine’",
+          "url": "https://www.adweek.com/brand-marketing/how-i-ai-tech-recipes-ceo-brian-chap-built-a-true-decision-engine/",
+          "postedAt": "2026-05-06T06:00:00.000Z"
+        },
+        {
+          "id": "om_d78cee2aa2",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Exverus by Brainlabs’ Aaron Silva Is the Good Cook Behind Big Evil Barbecue",
+          "url": "https://www.adweek.com/agencies/exverus-by-brainlabs-aaron-silva-is-the-good-cook-behind-big-evil-barbecue/",
+          "postedAt": "2026-05-06T06:00:00.000Z"
+        },
+        {
           "id": "om_48fbed31f9",
           "source": "Social Media Today",
           "lang": "en",
@@ -749,96 +829,16 @@
           "postedAt": "2026-05-05T16:12:00.000Z"
         },
         {
-          "id": "om_68eb00d395",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "From Devices to Daily Life: Samsung’s AI Living Push",
-          "url": "https://www.adweek.com/brand-marketing/from-devices-to-daily-life-samsungs-ai-living-push/",
-          "postedAt": "2026-05-05T15:59:46.000Z"
-        },
-        {
           "id": "om_28f606d6f3",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Mattel CEO: ‘Consumers are buying toys’",
           "url": "https://www.retaildive.com/news/mattel-ceo-consumers-buying-toys-q1-earnings/819264/",
           "postedAt": "2026-05-05T15:44:00.000Z"
-        },
-        {
-          "id": "om_7e2deff68b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Carter’s chief marketer on pairing heritage with progress",
-          "url": "https://www.retaildive.com/news/carters-cmo-on-evolving-marketing-by-pairing-heritage-with-progress/818930/",
-          "postedAt": "2026-05-05T15:36:00.000Z"
-        },
-        {
-          "id": "om_ca41a4f2fd",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Chief Growth Officer Norm de Greve to Leave General Motors",
-          "url": "https://www.adweek.com/brand-marketing/chief-growth-officer-norm-de-greve-to-leave-general-motors/",
-          "postedAt": "2026-05-05T15:05:33.000Z"
-        },
-        {
-          "id": "om_a4dca5e64e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Lay’s World Cup marketing strategy focuses on ‘scaled intimacy’ with fans",
-          "url": "https://www.marketingdive.com/news/lays-world-cup-marketing-focuses-on-scaled-intimacy-with-fans/819306/",
-          "postedAt": "2026-05-05T14:30:00.000Z"
-        },
-        {
-          "id": "om_1b3d35d4aa",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Campbell’s Risa Cretella on Reinventing Iconic Brands and Winning in Commoditized Categories",
-          "url": "https://www.adweek.com/brand-marketing/campbells-risa-cretella-reinventing-iconic-brands-winning-commoditized-categories/",
-          "postedAt": "2026-05-05T13:54:18.000Z"
-        },
-        {
-          "id": "om_7072cfcf0f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "5 Things CEO-Ready CMOs Know That Others Don’t",
-          "url": "https://www.adweek.com/brand-marketing/5-things-ceo-ready-cmos-know-that-others-dont/",
-          "postedAt": "2026-05-05T13:49:58.000Z"
-        },
-        {
-          "id": "om_3809b66109",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Toyota merges four distinct campaigns in EV push",
-          "url": "https://www.marketingdive.com/news/toyota-merges-four-distinct-campaigns-in-ev-push/819307/",
-          "postedAt": "2026-05-05T13:23:35.000Z"
-        },
-        {
-          "id": "om_14dfbd6081",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Bose Brings Back Its ‘Lifestyle’ Branding With New Speakers for the Home",
-          "url": "https://www.wired.com/story/bose-brings-back-its-lifestyle-branding-with-new-speakers-for-the-home/",
-          "postedAt": "2026-05-05T12:00:00.000Z"
-        },
-        {
-          "id": "om_801a252193",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why American Family Insurance made a reality competition series for Hulu",
-          "url": "https://www.marketingdive.com/news/why-american-family-insurance-made-a-reality-competition-series-for-hulu/819093/",
-          "postedAt": "2026-05-05T11:00:00.000Z"
-        },
-        {
-          "id": "om_2b7b711163",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Maintaining Brand Safety and Integrity in the AI Slop Era",
-          "url": "https://www.adweek.com/brand-marketing/maintaining-brand-safety-and-integrity-in-the-ai-slop-era/",
-          "postedAt": "2026-05-05T09:38:53.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-06T04:04:29.897Z",
+      "lastUpdated": "2026-05-06T14:46:36.890Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
