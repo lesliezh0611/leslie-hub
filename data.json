@@ -227,6 +227,105 @@
       ],
       "articles": [
         {
+          "id": "vc_Khazix0918_3b0c792484",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2052227473816121344",
+          "url": "https://x.com/Khazix0918/status/2052234427233939808",
+          "postedAt": "2026-05-07T03:49:50.000Z"
+        },
+        {
+          "id": "vc_gdb_9c93245985",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Design, build, and operate compute with us at planet scale:",
+          "url": "https://x.com/gdb/status/2052221251247042770",
+          "postedAt": "2026-05-07T02:57:29.000Z"
+        },
+        {
+          "id": "vc_dotey_9c5b497494",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT Jackywine: 公众号顶流千万粉丝博主 @Khazix0918 卡兹克把他每天看的优质信息源放出来了： - 无需登录，直接看 - 时间线形式，好查找 - 区分了官方信源、优质...",
+          "url": "https://x.com/dotey/status/2052214094254493854",
+          "postedAt": "2026-05-07T02:18:48.000Z"
+        },
+        {
+          "id": "vc_dotey_fead74e3ce",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "一个用 Chrome Dev Tool 学习调试 Codex App 的技巧： 1. 退出 Codex App，从命令行打开： > open /Applications/Codex.app --args --remote-debugging-port=831...",
+          "url": "https://x.com/dotey/status/2052200047278739457",
+          "postedAt": "2026-05-07T01:33:13.000Z"
+        },
+        {
+          "id": "vc_dotey_39c1f94d2c",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "http://x.com/i/article/2052198374636404736",
+          "url": "https://x.com/dotey/status/2052198818385465667",
+          "postedAt": "2026-05-07T01:28:20.000Z"
+        },
+        {
+          "id": "vc_gdb_ad33fa5128",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "codex is for everyone",
+          "url": "https://x.com/gdb/status/2052156784778043659",
+          "postedAt": "2026-05-06T22:41:19.000Z"
+        },
+        {
+          "id": "vc_steipete_a6afa5855e",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "closed source, open source, nothing can stop codex.",
+          "url": "https://x.com/steipete/status/2052144503595716790",
+          "postedAt": "2026-05-06T21:52:31.000Z"
+        },
+        {
+          "id": "vc_dotey_e75739becd",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 金融汪: 【投资八卦，深度分析】#SpaceX #xAI #特斯拉 $TSLA 通过这个协议，我们能看到什么投资八卦及启示？ （以下全手工敲击，欢迎转发） 1. Colossus 数据...",
+          "url": "https://x.com/dotey/status/2052084959238619385",
+          "postedAt": "2026-05-06T17:32:04.000Z"
+        },
+        {
+          "id": "vc_dotey_95f5be817d",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Cursor 3.3 里面可以方便的看 Context 占用情况。看了下我的 Skills 有 6.8 K，有点多了",
+          "url": "https://x.com/dotey/status/2052069994372997377",
+          "postedAt": "2026-05-06T16:56:26.000Z"
+        },
+        {
+          "id": "vc_gdb_f5a3f1ab9a",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Multipath Reliable Connection (MRC): a new open networking protocol for large AI training clusters, deployed in production on our largest training clu...",
+          "url": "https://x.com/gdb/status/2052059553542328829",
+          "postedAt": "2026-05-06T16:14:57.000Z"
+        },
+        {
+          "id": "vc_steipete_47fe67af7c",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Alex: Plugin-based architecture @openclaw is a massive W. No more bloated binaries! 📦 Just installed the Codex harness as a standalone plugin - ...",
+          "url": "https://x.com/steipete/status/2052058114011062312",
+          "postedAt": "2026-05-06T15:57:23.000Z"
+        },
+        {
           "id": "vc_steipete_556a4f1c8c",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -234,15 +333,6 @@
           "title": "Merci! imsg 0.6 + 0.7 are live 🔵 Private API bridge landed 📡 Watch/history reliability fixes 💬 Better chat + account diagnostics 🛠️ Long ...",
           "url": "https://x.com/steipete/status/2051905175355351440",
           "postedAt": "2026-05-06T06:01:31.000Z"
-        },
-        {
-          "id": "vc_dotey_a5bd1bf35a",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Hermes Agent 这名字，间接影响了爱马仕广告的投放效果，日常讨论 Hermes 看到广告的大多数不是目标人群😂",
-          "url": "https://x.com/dotey/status/2051902663051157521",
-          "postedAt": "2026-05-06T05:51:32.000Z"
         },
         {
           "id": "vc_zarazhangrui_67f297b7f1",
@@ -290,51 +380,6 @@
           "postedAt": "2026-05-06T03:27:46.000Z"
         },
         {
-          "id": "vc_dotey_d9e920507a",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT meng shao: Warp 团队这是要把开源进行到底了，在 Warp、Doc 开源后，又把团队用于加速工作流的 Oz Skills 开源了 @warpdotdev 👏🏻👏🏻 # Warp 团队...",
-          "url": "https://x.com/dotey/status/2051902838100439318",
-          "postedAt": "2026-05-06T03:22:00.000Z"
-        },
-        {
-          "id": "vc_dotey_f46cef0ea6",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Codex App 漂亮的 TreeView 和 Diff View 来自第三方库： https://github.com/pierrecomputer/pierre 作者：@amadeus",
-          "url": "https://x.com/dotey/status/2051864435858276833",
-          "postedAt": "2026-05-06T03:19:37.000Z"
-        },
-        {
-          "id": "vc_steipete_5c5dbb9144",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Shipping 🛡️openclaw/fs-safe: a reusable filesystem safety primitive extracted from OpenClaw. If your Node app accepts paths from agents, plugins, ...",
-          "url": "https://x.com/steipete/status/2051852940554481901",
-          "postedAt": "2026-05-06T02:33:57.000Z"
-        },
-        {
-          "id": "vc_dotey_34a6d4a109",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "帮转招聘",
-          "url": "https://x.com/dotey/status/2051838626837725284",
-          "postedAt": "2026-05-06T01:37:04.000Z"
-        },
-        {
-          "id": "vc_dotey_128f0fa13d",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "GPT Image 2 Prompt 和蜡笔小新一家合影（配合一张照片）： 拍摄一张半写实半动画的照片。画面中，我（用户）正和野原新之助（Shinchan Nohara）以及他的全体家...",
-          "url": "https://x.com/dotey/status/2051835578132422677",
-          "postedAt": "2026-05-06T01:24:57.000Z"
-        },
-        {
           "id": "vc_sama_177c74b5c8",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -360,55 +405,10 @@
           "title": "5.5 in codex is so good for non-coding tasks. i keep assuming it won't be able to do something, but a lot of the time i am pleasantly surprised.",
           "url": "https://x.com/sama/status/2051783339502375418",
           "postedAt": "2026-05-05T21:57:23.000Z"
-        },
-        {
-          "id": "vc_sama_5466219638",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "in particular, the combination of improvements to speed, intelligence, personality, and great memory/personalization feels like a more-than-sum-of-the...",
-          "url": "https://x.com/sama/status/2051758445402223051",
-          "postedAt": "2026-05-05T20:18:27.000Z"
-        },
-        {
-          "id": "vc_sama_2f356e5fb8",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "the new instant model in chatgpt is so good damn if you have been thinking-model-only for awhile, give it a try!",
-          "url": "https://x.com/sama/status/2051758152224506203",
-          "postedAt": "2026-05-05T20:17:17.000Z"
-        },
-        {
-          "id": "vc_sama_f48216b756",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "i would like to talk to people who have built amazing things with 5.5 that weren't possible with earlier models. i am especially interested in example...",
-          "url": "https://x.com/sama/status/2051724685231214650",
-          "postedAt": "2026-05-05T18:04:18.000Z"
-        },
-        {
-          "id": "vc_steipete_9598b76e3b",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "I asked Molty to review my PR and it made a song. https://github.com/openclaw/openclaw/pull/77205",
-          "url": "https://x.com/steipete/status/2051707256396267913",
-          "postedAt": "2026-05-05T16:55:03.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_f8e341d939",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "上一条不是我发的！！！已经删掉了 被盗号了，莫名其妙发了什么诡异的币圈的东西。 五一在家没怎么刷X，朋友问我怎么玩币了我才看到感觉天都塌了，立刻开了X的二...",
-          "url": "https://x.com/Khazix0918/status/2051578264263737436",
-          "postedAt": "2026-05-05T08:22:29.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-06T14:46:32.915Z",
+      "lastUpdated": "2026-05-07T04:04:49.926Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_11205b92d1",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Code with Claude: The 5 biggest updates explained",
+          "url": "https://www.lennysnewsletter.com/p/code-with-claude-the-5-biggest-updates",
+          "postedAt": "2026-05-07T01:39:47.000Z"
+        },
+        {
+          "id": "en_pod_lex_fridman_podcast_0855028b32",
+          "source": "Lex Fridman Podcast",
+          "platform": "podcast",
+          "topic": "#496 – FFmpeg: The Incredible Technology Behind Video on the Internet",
+          "url": "https://lexfridman.com/ffmpeg/?utm_source=rss&utm_medium=rss&utm_campaign=ffmpeg",
+          "postedAt": "2026-05-06T22:06:47.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_cd45e18925",
           "source": "Lenny's Podcast",
@@ -520,14 +536,6 @@
           "postedAt": "2026-04-27T12:03:55.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_0e5844867d",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
-          "url": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is",
-          "postedAt": "2026-04-26T12:31:49.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_692e8b2476",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -584,10 +592,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-06T14:46:34.011Z",
+      "lastUpdated": "2026-05-07T04:04:51.394Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "11 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -676,6 +684,70 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_e166520c3b",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
+          "url": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
+          "postedAt": "2026-05-06T19:10:09.000Z"
+        },
+        {
+          "id": "om_5bdc25efcc",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
+          "url": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
+          "postedAt": "2026-05-06T18:05:41.000Z"
+        },
+        {
+          "id": "om_834bba3cbd",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How the Portland Fire marketed a basketball team with no players",
+          "url": "https://www.marketingbrew.com/stories/portland-fire-expansion-marketing?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-06T16:40:43.000Z"
+        },
+        {
+          "id": "om_668118fe7e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Old Navy turns to retail, entertainment vet to invigorate turnaround",
+          "url": "https://www.retaildive.com/news/old-navy-retail-entertainment-veteran-walmart-target-dreamworks-invigorate-turnaround/819439/",
+          "postedAt": "2026-05-06T16:15:00.000Z"
+        },
+        {
+          "id": "om_d6aa12787b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Adore Me weighs on Victoria’s Secret operating income",
+          "url": "https://www.retaildive.com/news/adore-me-weighs-victorias-secret-operating-income/819450/",
+          "postedAt": "2026-05-06T16:00:00.000Z"
+        },
+        {
+          "id": "om_254bedc7cc",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Dollar General bridges onsite, offsite retail media with new solution",
+          "url": "https://www.retaildive.com/news/dollar-general-bridges-onsite-offsite-retail-media-with-new-solution/819382/",
+          "postedAt": "2026-05-06T15:30:00.000Z"
+        },
+        {
+          "id": "om_a4afdc19cc",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart, Costco poised to win amid unfavorable retail environment",
+          "url": "https://www.retaildive.com/news/walmart-costco-winners-unfavorable-retail-environment/819424/",
+          "postedAt": "2026-05-06T15:14:00.000Z"
+        },
+        {
+          "id": "om_78d612f386",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Brooks Running boasts global sales growth",
+          "url": "https://www.retaildive.com/news/brooks-running-global-sales-growth-Q1-earnings/819345/",
+          "postedAt": "2026-05-06T15:13:00.000Z"
+        },
         {
           "id": "om_f2d50f8b68",
           "source": "Retail Dive",
@@ -771,74 +843,10 @@
           "title": "Pinterest posts solid growth for the first quarter of 2026",
           "url": "https://www.socialmediatoday.com/news/pinterest-posts-solid-growth-for-the-first-quarter-of-2026/819391/",
           "postedAt": "2026-05-05T21:32:25.000Z"
-        },
-        {
-          "id": "om_f7a7183b6b",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside legal AI startup Legora’s celebrity and sports partnerships playbook",
-          "url": "https://www.marketingbrew.com/stories/legora-marketing-strategy-jude-law-aaron-judge-celebrity-sports-partnerships?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-05T19:47:39.000Z"
-        },
-        {
-          "id": "om_1ece90cf18",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Fox’s refreshed pitch to advertisers connects fandoms to outcomes",
-          "url": "https://www.marketingdive.com/news/foxs-refreshed-pitch-to-advertisers-connects-fandoms-to-outcomes/819219/",
-          "postedAt": "2026-05-05T19:20:00.000Z"
-        },
-        {
-          "id": "om_4deccb6011",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "It’s still ‘business as usual’ for Cannes Lions attendance this year—mostly",
-          "url": "https://www.marketingbrew.com/stories/2026/05/05/cannes-lions-attendance-strategy-economy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-05T18:21:54.000Z"
-        },
-        {
-          "id": "om_dc7ea431ba",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Airbnb co-founder taps Peter Arnell as first US chief brand architect",
-          "url": "https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/",
-          "postedAt": "2026-05-05T18:09:03.000Z"
-        },
-        {
-          "id": "om_1e4661d1bd",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "REI reports flat sales, narrower losses as store workers call for a boycott",
-          "url": "https://www.retaildive.com/news/rei-coop-flat-sales-narrower-losses-store-union-workers-anniversary-sale-boycott/819310/",
-          "postedAt": "2026-05-05T16:26:00.000Z"
-        },
-        {
-          "id": "om_f2641425b1",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "US agentic commerce revenue forecast to reach $1 trillion by 2030",
-          "url": "https://www.retaildive.com/news/agentic-commerce-us-one-trillion-2030/818936/",
-          "postedAt": "2026-05-05T16:26:00.000Z"
-        },
-        {
-          "id": "om_87f85ff853",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Victoria’s Secret & Co. faces off with activist investor, again",
-          "url": "https://www.retaildive.com/news/victorias-secret-activist-investor-board-reelection/819323/",
-          "postedAt": "2026-05-05T16:12:00.000Z"
-        },
-        {
-          "id": "om_28f606d6f3",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Mattel CEO: ‘Consumers are buying toys’",
-          "url": "https://www.retaildive.com/news/mattel-ceo-consumers-buying-toys-q1-earnings/819264/",
-          "postedAt": "2026-05-05T15:44:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-06T14:46:36.890Z",
+      "lastUpdated": "2026-05-07T04:04:53.423Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
