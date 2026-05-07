@@ -227,6 +227,42 @@
       ],
       "articles": [
         {
+          "id": "vc_zarazhangrui_5ef7572c5a",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Most memorable parts of this interview with @bcherny : - Boris casually mention that he has \"thousands\" of agents running during the night... - Boris ...",
+          "url": "https://x.com/zarazhangrui/status/2052277868319916402",
+          "postedAt": "2026-05-07T06:42:27.000Z"
+        },
+        {
+          "id": "vc_dotey_8d3acde775",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "OpenAI 政变之夜内部短信曝光：董事会为何执意赶走 Altman？ 马斯克起诉 OpenAI 和 Sam Altman 的案子今天进入庭审第二周，前 CTO Mira Murati 的视频证词和 202...",
+          "url": "https://x.com/dotey/status/2052255174706479349",
+          "postedAt": "2026-05-07T05:12:17.000Z"
+        },
+        {
+          "id": "vc_dotey_2eb4722945",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT indigo: 今天 Claude 在开发者大会上低调推出了一个小功能“Dream” - 做梦！在 Platform 控制面板里选择 Agent 留下的记忆，让它做梦就行，模仿了人类“梦境...",
+          "url": "https://x.com/dotey/status/2052260115105943598",
+          "postedAt": "2026-05-07T04:56:33.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_448d56b2da",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "今早被人反馈了无数遍的AIHOT浅色版本已上线。。。",
+          "url": "https://x.com/Khazix0918/status/2052246034961805349",
+          "postedAt": "2026-05-07T04:35:58.000Z"
+        },
+        {
           "id": "vc_Khazix0918_3b0c792484",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -288,24 +324,6 @@
           "title": "closed source, open source, nothing can stop codex.",
           "url": "https://x.com/steipete/status/2052144503595716790",
           "postedAt": "2026-05-06T21:52:31.000Z"
-        },
-        {
-          "id": "vc_dotey_e75739becd",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 金融汪: 【投资八卦，深度分析】#SpaceX #xAI #特斯拉 $TSLA 通过这个协议，我们能看到什么投资八卦及启示？ （以下全手工敲击，欢迎转发） 1. Colossus 数据...",
-          "url": "https://x.com/dotey/status/2052084959238619385",
-          "postedAt": "2026-05-06T17:32:04.000Z"
-        },
-        {
-          "id": "vc_dotey_95f5be817d",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Cursor 3.3 里面可以方便的看 Context 占用情况。看了下我的 Skills 有 6.8 K，有点多了",
-          "url": "https://x.com/dotey/status/2052069994372997377",
-          "postedAt": "2026-05-06T16:56:26.000Z"
         },
         {
           "id": "vc_gdb_f5a3f1ab9a",
@@ -387,28 +405,10 @@
           "title": "ChatGPT feels very 'switched on' now",
           "url": "https://x.com/sama/status/2051829422265979047",
           "postedAt": "2026-05-06T01:00:30.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_ccaf9ff2be",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "RT austin lau: I got married this past weekend so I did what any rational @AnthropicAI employee would do and had Claude Code analyze 12 years of iMess...",
-          "url": "https://x.com/zarazhangrui/status/2051900545087287527",
-          "postedAt": "2026-05-05T22:34:40.000Z"
-        },
-        {
-          "id": "vc_sama_4b94a5daff",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "5.5 in codex is so good for non-coding tasks. i keep assuming it won't be able to do something, but a lot of the time i am pleasantly surprised.",
-          "url": "https://x.com/sama/status/2051783339502375418",
-          "postedAt": "2026-05-05T21:57:23.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-07T04:04:49.926Z",
+      "lastUpdated": "2026-05-07T14:50:02.377Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -592,7 +592,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-07T04:04:51.394Z",
+      "lastUpdated": "2026-05-07T14:50:04.154Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -684,6 +684,54 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_b718bb4881",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon’s latest AI feature allows shoppers to interact with product summaries",
+          "url": "https://www.retaildive.com/news/amazon-join-the-chat-ai-product-summaries-answers-questions/819206/",
+          "postedAt": "2026-05-07T14:28:00.000Z"
+        },
+        {
+          "id": "om_dbd1702075",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Google Is Rebranding the Fitbit App to ‘Google Health’",
+          "url": "https://www.wired.com/story/google-is-rebranding-the-fitbit-app-to-google-health/",
+          "postedAt": "2026-05-07T14:00:00.000Z"
+        },
+        {
+          "id": "om_50cde0a662",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Papa Johns’ CMO on driving cultural relevance with a ‘Toy Story’ tie-up",
+          "url": "https://www.marketingdive.com/news/papa-johns-cmo-on-driving-cultural-relevance-with-a-toy-story-tie-up/819495/",
+          "postedAt": "2026-05-07T13:52:00.000Z"
+        },
+        {
+          "id": "om_b481aa1204",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Amazon, LinkedIn help advertisers reach professionals via CTV ads",
+          "url": "https://www.marketingdive.com/news/amazon-linkedin-help-advertisers-reach-professionals-via-ctv-ads/819372/",
+          "postedAt": "2026-05-07T12:00:00.000Z"
+        },
+        {
+          "id": "om_ecdb70dad1",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Permutive Recruits Former IPG Mediabrands CEO to Board in Buy-Side Push",
+          "url": "https://www.adweek.com/performance-marketing/permutive-recruits-former-ipg-mediabrands-ceo-to-board-in-buy-side-push/",
+          "postedAt": "2026-05-07T09:00:00.000Z"
+        },
+        {
+          "id": "om_e07faf0df2",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Timothée Chalamet Builds His Dream Soccer Team in Adidas’ World Cup Short",
+          "url": "https://www.adweek.com/brand-marketing/timothee-chalamet-builds-his-dream-soccer-team-in-adidas-world-cup-short/",
+          "postedAt": "2026-05-07T04:00:00.000Z"
+        },
         {
           "id": "om_e166520c3b",
           "source": "TechCrunch",
@@ -795,58 +843,10 @@
           "title": "Ziff Davis Buys Four Brands From Recurrent Ventures, Launches a Lifestyle Group",
           "url": "https://www.adweek.com/media/ziff-davis-recurrent-ventures-dwell-domino-business-home-popsci/",
           "postedAt": "2026-05-06T09:00:00.000Z"
-        },
-        {
-          "id": "om_ab28bef9fc",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Real WPP Story Is in the Margin, Not the Revenue",
-          "url": "https://www.adweek.com/agencies/the-real-wpp-story-is-in-the-margin-not-the-revenue/",
-          "postedAt": "2026-05-06T08:00:00.000Z"
-        },
-        {
-          "id": "om_180018c2bb",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Target’s digital chief breaks down the retailer’s creator overhaul",
-          "url": "https://www.marketingdive.com/news/targets-digital-chief-breaks-down-the-retailers-creator-overhaul/819368/",
-          "postedAt": "2026-05-06T08:00:00.000Z"
-        },
-        {
-          "id": "om_df4ab4f22d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How I AI: Tech Recipes CEO Brian Chap Built a ‘True Decision Engine’",
-          "url": "https://www.adweek.com/brand-marketing/how-i-ai-tech-recipes-ceo-brian-chap-built-a-true-decision-engine/",
-          "postedAt": "2026-05-06T06:00:00.000Z"
-        },
-        {
-          "id": "om_d78cee2aa2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Exverus by Brainlabs’ Aaron Silva Is the Good Cook Behind Big Evil Barbecue",
-          "url": "https://www.adweek.com/agencies/exverus-by-brainlabs-aaron-silva-is-the-good-cook-behind-big-evil-barbecue/",
-          "postedAt": "2026-05-06T06:00:00.000Z"
-        },
-        {
-          "id": "om_48fbed31f9",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok launches international ad platform campaign",
-          "url": "https://www.socialmediatoday.com/news/tiktok-launches-international-ad-platform-campaign/819392/",
-          "postedAt": "2026-05-05T22:58:18.000Z"
-        },
-        {
-          "id": "om_0dec51fdf7",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Pinterest posts solid growth for the first quarter of 2026",
-          "url": "https://www.socialmediatoday.com/news/pinterest-posts-solid-growth-for-the-first-quarter-of-2026/819391/",
-          "postedAt": "2026-05-05T21:32:25.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-07T04:04:53.423Z",
+      "lastUpdated": "2026-05-07T14:50:06.163Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
