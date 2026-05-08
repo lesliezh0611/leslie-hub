@@ -227,6 +227,51 @@
       ],
       "articles": [
         {
+          "id": "vc_Khazix0918_c1d1e7ee3d",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "就在昨天，我把之前给公司内部用的，花了将近一个月时间开发的 AI 热点监控网站，AIHOT，免费开放给所有人了。 同时除了网站之外，我们还把Skill、RSS和API 也给...",
+          "url": "https://x.com/Khazix0918/status/2052726850431148059",
+          "postedAt": "2026-05-08T12:26:33.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_1e13d11329",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "AIHOT今天又更新了一堆东西，于是，又上了一个更新日志页。。。可以清楚的看到更新了啥= = 欢迎大家体验：https://aihot.virxact.com/ 今天抽空再把移动端适配给...",
+          "url": "https://x.com/Khazix0918/status/2052663200810991715",
+          "postedAt": "2026-05-08T08:13:38.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_15dbfa1c43",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "大家要的AIHOT的分类筛选已经上线。。。今天抽空再把移动端适配做了。。。",
+          "url": "https://x.com/Khazix0918/status/2052638450181124284",
+          "postedAt": "2026-05-08T06:35:17.000Z"
+        },
+        {
+          "id": "vc_steipete_5db33ecf7b",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Our claws talk to each other, Molty learns how to delegate cron jobs.",
+          "url": "https://x.com/steipete/status/2052630190346457301",
+          "postedAt": "2026-05-08T06:02:28.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_9d16b32bcb",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2052588441188089860",
+          "url": "https://x.com/Khazix0918/status/2052607019019079768",
+          "postedAt": "2026-05-08T04:30:23.000Z"
+        },
+        {
           "id": "vc_gdb_3ae9d09c3c",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -360,55 +405,10 @@
           "title": "have been excited for realtime voice-to-voice translation as an AI application since we started OpenAI. extremely cool to see it now available in the ...",
           "url": "https://x.com/gdb/status/2052480998668206262",
           "postedAt": "2026-05-07T20:09:37.000Z"
-        },
-        {
-          "id": "vc_sama_a37861f30b",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "RT OpenAI: Codex now works directly in Chrome on macOS and Windows. It’s even better at working with apps and sites in Chrome, and now works in paral...",
-          "url": "https://x.com/sama/status/2052482715010949288",
-          "postedAt": "2026-05-07T20:08:50.000Z"
-        },
-        {
-          "id": "vc_dotey_51a845d3b7",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "OpenAI 在 Realtime API 里上线了三款新语音模型：GPT-Realtime-2、GPT-Realtime-Translate 和 GPT-Realtime-Whisper，分别管对话、翻译和实时转录。 【1】主角...",
-          "url": "https://x.com/dotey/status/2052440968863887715",
-          "postedAt": "2026-05-07T17:30:34.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_5ef7572c5a",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Most memorable parts of this interview with @bcherny : - Boris casually mention that he has \"thousands\" of agents running during the night... - Boris ...",
-          "url": "https://x.com/zarazhangrui/status/2052277868319916402",
-          "postedAt": "2026-05-07T06:42:27.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_448d56b2da",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "今早被人反馈了无数遍的AIHOT浅色版本已上线。。。",
-          "url": "https://x.com/Khazix0918/status/2052246034961805349",
-          "postedAt": "2026-05-07T04:35:58.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_3b0c792484",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2052227473816121344",
-          "url": "https://x.com/Khazix0918/status/2052234427233939808",
-          "postedAt": "2026-05-07T03:49:50.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-08T03:53:25.184Z",
+      "lastUpdated": "2026-05-08T14:16:44.627Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-08T03:53:26.692Z",
+      "lastUpdated": "2026-05-08T14:16:45.778Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -692,6 +692,46 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_1487eeb1e3",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How the WNBA brought on new blue-chip sponsors amid CBA negotiation uncertainty",
+          "url": "https://www.marketingbrew.com/stories/wnba-season-30-sponsors-cba?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-08T13:00:00.000Z"
+        },
+        {
+          "id": "om_c97ab09f21",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Campaign Trail: Tecate empowers repatriated Mexicans",
+          "url": "https://www.marketingdive.com/news/campaign-trail-tecate-empowers-repatriated-mexicans/819272/",
+          "postedAt": "2026-05-08T11:00:00.000Z"
+        },
+        {
+          "id": "om_824d645c63",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "WPP Shareholders Approve CEO Cindy Rose’s Potential $14.8M Pay Package",
+          "url": "https://www.adweek.com/agencies/wpp-shareholders-approve-ceo-cindy-roses-potential-148m-pay-package/",
+          "postedAt": "2026-05-08T09:31:42.000Z"
+        },
+        {
+          "id": "om_d9f762d85a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Adcolor Marks 20 Years With a New Program for a Changed DEI Landscape",
+          "url": "https://www.adweek.com/agencies/adcolor-marks-20-years-with-a-new-program-for-a-changed-dei-landscape/",
+          "postedAt": "2026-05-08T09:00:00.000Z"
+        },
+        {
+          "id": "om_302a7fa453",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 12 Campaigns That Caught Our Eye, From Adidas to Canva",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-12-campaigns-that-caught-our-eye-from-adidas-to-canva/",
+          "postedAt": "2026-05-08T06:00:00.000Z"
+        },
         {
           "id": "om_d4e84ab547",
           "source": "Social Media Today",
@@ -797,14 +837,6 @@
           "postedAt": "2026-05-07T12:00:00.000Z"
         },
         {
-          "id": "om_ecdb70dad1",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Permutive Recruits Former IPG Mediabrands CEO to Board in Buy-Side Push",
-          "url": "https://www.adweek.com/performance-marketing/permutive-recruits-former-ipg-mediabrands-ceo-to-board-in-buy-side-push/",
-          "postedAt": "2026-05-07T09:00:00.000Z"
-        },
-        {
           "id": "om_834bba3cbd",
           "source": "Marketing Brew",
           "lang": "en",
@@ -819,42 +851,10 @@
           "title": "Old Navy turns to retail, entertainment vet to invigorate turnaround",
           "url": "https://www.retaildive.com/news/old-navy-retail-entertainment-veteran-walmart-target-dreamworks-invigorate-turnaround/819439/",
           "postedAt": "2026-05-06T16:15:00.000Z"
-        },
-        {
-          "id": "om_d6aa12787b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Adore Me weighs on Victoria’s Secret operating income",
-          "url": "https://www.retaildive.com/news/adore-me-weighs-victorias-secret-operating-income/819450/",
-          "postedAt": "2026-05-06T16:00:00.000Z"
-        },
-        {
-          "id": "om_254bedc7cc",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Dollar General bridges onsite, offsite retail media with new solution",
-          "url": "https://www.retaildive.com/news/dollar-general-bridges-onsite-offsite-retail-media-with-new-solution/819382/",
-          "postedAt": "2026-05-06T15:30:00.000Z"
-        },
-        {
-          "id": "om_a4afdc19cc",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart, Costco poised to win amid unfavorable retail environment",
-          "url": "https://www.retaildive.com/news/walmart-costco-winners-unfavorable-retail-environment/819424/",
-          "postedAt": "2026-05-06T15:14:00.000Z"
-        },
-        {
-          "id": "om_78d612f386",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Brooks Running boasts global sales growth",
-          "url": "https://www.retaildive.com/news/brooks-running-global-sales-growth-Q1-earnings/819345/",
-          "postedAt": "2026-05-06T15:13:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-08T03:53:29.264Z",
+      "lastUpdated": "2026-05-08T14:16:47.942Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
