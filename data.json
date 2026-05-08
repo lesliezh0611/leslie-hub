@@ -227,6 +227,159 @@
       ],
       "articles": [
         {
+          "id": "vc_gdb_3ae9d09c3c",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "GPT-5.5-Cyber is now in limited preview for defenders for securing critical infrastructure. It's a very capable model.",
+          "url": "https://x.com/gdb/status/2052583338561683775",
+          "postedAt": "2026-05-08T02:56:17.000Z"
+        },
+        {
+          "id": "vc_sama_fa8fa6b17c",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "we'd like to help companies secure themselves and we think it's important to start work on this quickly",
+          "url": "https://x.com/sama/status/2052558319940944256",
+          "postedAt": "2026-05-08T01:16:52.000Z"
+        },
+        {
+          "id": "vc_gdb_7fdf695336",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Codex can now drive Chrome tabs in the background:",
+          "url": "https://x.com/gdb/status/2052525058325647693",
+          "postedAt": "2026-05-07T23:04:42.000Z"
+        },
+        {
+          "id": "vc_steipete_ec86609084",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "/goal + GPT 5.5 is amazing. I can now plan really extensive refactors with e2e tests and it just works.",
+          "url": "https://x.com/steipete/status/2052514752245481675",
+          "postedAt": "2026-05-07T22:23:45.000Z"
+        },
+        {
+          "id": "vc_dotey_cdac6618d7",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "OpenAI 上线了官方命令行工具 openai-cli，开发者可以直接在终端里调 API，不用再写 SDK 代码。 项目开源在 GitHub (openai/openai-cli)，Apache 2.0 协议，可通...",
+          "url": "https://x.com/dotey/status/2052512560264380737",
+          "postedAt": "2026-05-07T22:15:02.000Z"
+        },
+        {
+          "id": "vc_steipete_6106c6de99",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Ben Badejo: Here’s OpenAI’s latest realtime voice model, GPT-Realtime-2, wired up to OpenClaw. It’s amazing. Realtime continuous chat and fast O...",
+          "url": "https://x.com/steipete/status/2052553906211651957",
+          "postedAt": "2026-05-07T22:09:53.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_e512d06893",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "I get so many messages about new AI apps but their all messaging all blur into each other",
+          "url": "https://x.com/zarazhangrui/status/2052505923625857286",
+          "postedAt": "2026-05-07T21:48:40.000Z"
+        },
+        {
+          "id": "vc_dotey_b240185ca4",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "ChatGPT 跟中文用户对话，有一句话已经被吐槽了大半年：“我会稳稳地接住你”。不管是问数学题、让它写代码，还是要它生成图片，这句话都会莫名其妙冒出来。WIRE...",
+          "url": "https://x.com/dotey/status/2052500525598527732",
+          "postedAt": "2026-05-07T21:27:13.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_072f876020",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "RT Zach Lloyd: http://x.com/i/article/2052496685566251012",
+          "url": "https://x.com/zarazhangrui/status/2052565762607546545",
+          "postedAt": "2026-05-07T21:15:04.000Z"
+        },
+        {
+          "id": "vc_steipete_631b85c8ce",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Ben Badejo: OpenClaw is snappier than ever. Good to have focused on stability in the last update. The next things I personally think the OpenClaw c...",
+          "url": "https://x.com/steipete/status/2052595781798916401",
+          "postedAt": "2026-05-07T21:05:57.000Z"
+        },
+        {
+          "id": "vc_dotey_d92336ed0e",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "OpenAI 给 Codex 推出了 Chrome 扩展，让它能直接在浏览器里干活。Mac 和 Windows 用户从今天起可以在 Codex app 里安装 Chrome 插件，让 Codex 直接在浏览器里...",
+          "url": "https://x.com/dotey/status/2052492340892221800",
+          "postedAt": "2026-05-07T20:54:42.000Z"
+        },
+        {
+          "id": "vc_dotey_31dd856d58",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Anthropic 把 Claude 全面塞进了 Microsoft 365。Excel、PowerPoint、Word 三个插件从 beta 转为正式版（GA），Outlook 插件同步进入公测。 意味着不用再切到 ht...",
+          "url": "https://x.com/dotey/status/2052487556474740870",
+          "postedAt": "2026-05-07T20:35:41.000Z"
+        },
+        {
+          "id": "vc_steipete_f6d75564ed",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Had the honor of mentoring some of the folks in the ChatGPT Future Class of 2026 this year. Shoutout to @arhan_menta @nayelr_ @rushilkukreja who built...",
+          "url": "https://x.com/steipete/status/2052486085226184742",
+          "postedAt": "2026-05-07T20:29:50.000Z"
+        },
+        {
+          "id": "vc_sama_973d15db0c",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "way cooler to help software developers pokemon-evolve into superheroes than to try to replace them it is insane what one really good person can do now",
+          "url": "https://x.com/sama/status/2052485051812909530",
+          "postedAt": "2026-05-07T20:25:44.000Z"
+        },
+        {
+          "id": "vc_gdb_25897cbda4",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "have been excited for realtime voice-to-voice translation as an AI application since we started OpenAI. extremely cool to see it now available in the ...",
+          "url": "https://x.com/gdb/status/2052480998668206262",
+          "postedAt": "2026-05-07T20:09:37.000Z"
+        },
+        {
+          "id": "vc_sama_a37861f30b",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "RT OpenAI: Codex now works directly in Chrome on macOS and Windows. It’s even better at working with apps and sites in Chrome, and now works in paral...",
+          "url": "https://x.com/sama/status/2052482715010949288",
+          "postedAt": "2026-05-07T20:08:50.000Z"
+        },
+        {
+          "id": "vc_dotey_51a845d3b7",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "OpenAI 在 Realtime API 里上线了三款新语音模型：GPT-Realtime-2、GPT-Realtime-Translate 和 GPT-Realtime-Whisper，分别管对话、翻译和实时转录。 【1】主角...",
+          "url": "https://x.com/dotey/status/2052440968863887715",
+          "postedAt": "2026-05-07T17:30:34.000Z"
+        },
+        {
           "id": "vc_zarazhangrui_5ef7572c5a",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -234,24 +387,6 @@
           "title": "Most memorable parts of this interview with @bcherny : - Boris casually mention that he has \"thousands\" of agents running during the night... - Boris ...",
           "url": "https://x.com/zarazhangrui/status/2052277868319916402",
           "postedAt": "2026-05-07T06:42:27.000Z"
-        },
-        {
-          "id": "vc_dotey_8d3acde775",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "OpenAI 政变之夜内部短信曝光：董事会为何执意赶走 Altman？ 马斯克起诉 OpenAI 和 Sam Altman 的案子今天进入庭审第二周，前 CTO Mira Murati 的视频证词和 202...",
-          "url": "https://x.com/dotey/status/2052255174706479349",
-          "postedAt": "2026-05-07T05:12:17.000Z"
-        },
-        {
-          "id": "vc_dotey_2eb4722945",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT indigo: 今天 Claude 在开发者大会上低调推出了一个小功能“Dream” - 做梦！在 Platform 控制面板里选择 Agent 留下的记忆，让它做梦就行，模仿了人类“梦境...",
-          "url": "https://x.com/dotey/status/2052260115105943598",
-          "postedAt": "2026-05-07T04:56:33.000Z"
         },
         {
           "id": "vc_Khazix0918_448d56b2da",
@@ -270,145 +405,10 @@
           "title": "http://x.com/i/article/2052227473816121344",
           "url": "https://x.com/Khazix0918/status/2052234427233939808",
           "postedAt": "2026-05-07T03:49:50.000Z"
-        },
-        {
-          "id": "vc_gdb_9c93245985",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Design, build, and operate compute with us at planet scale:",
-          "url": "https://x.com/gdb/status/2052221251247042770",
-          "postedAt": "2026-05-07T02:57:29.000Z"
-        },
-        {
-          "id": "vc_dotey_9c5b497494",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Jackywine: 公众号顶流千万粉丝博主 @Khazix0918 卡兹克把他每天看的优质信息源放出来了： - 无需登录，直接看 - 时间线形式，好查找 - 区分了官方信源、优质...",
-          "url": "https://x.com/dotey/status/2052214094254493854",
-          "postedAt": "2026-05-07T02:18:48.000Z"
-        },
-        {
-          "id": "vc_dotey_fead74e3ce",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "一个用 Chrome Dev Tool 学习调试 Codex App 的技巧： 1. 退出 Codex App，从命令行打开： > open /Applications/Codex.app --args --remote-debugging-port=831...",
-          "url": "https://x.com/dotey/status/2052200047278739457",
-          "postedAt": "2026-05-07T01:33:13.000Z"
-        },
-        {
-          "id": "vc_dotey_39c1f94d2c",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "http://x.com/i/article/2052198374636404736",
-          "url": "https://x.com/dotey/status/2052198818385465667",
-          "postedAt": "2026-05-07T01:28:20.000Z"
-        },
-        {
-          "id": "vc_gdb_ad33fa5128",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "codex is for everyone",
-          "url": "https://x.com/gdb/status/2052156784778043659",
-          "postedAt": "2026-05-06T22:41:19.000Z"
-        },
-        {
-          "id": "vc_steipete_a6afa5855e",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "closed source, open source, nothing can stop codex.",
-          "url": "https://x.com/steipete/status/2052144503595716790",
-          "postedAt": "2026-05-06T21:52:31.000Z"
-        },
-        {
-          "id": "vc_gdb_f5a3f1ab9a",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Multipath Reliable Connection (MRC): a new open networking protocol for large AI training clusters, deployed in production on our largest training clu...",
-          "url": "https://x.com/gdb/status/2052059553542328829",
-          "postedAt": "2026-05-06T16:14:57.000Z"
-        },
-        {
-          "id": "vc_steipete_47fe67af7c",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Alex: Plugin-based architecture @openclaw is a massive W. No more bloated binaries! 📦 Just installed the Codex harness as a standalone plugin - ...",
-          "url": "https://x.com/steipete/status/2052058114011062312",
-          "postedAt": "2026-05-06T15:57:23.000Z"
-        },
-        {
-          "id": "vc_steipete_556a4f1c8c",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Merci! imsg 0.6 + 0.7 are live 🔵 Private API bridge landed 📡 Watch/history reliability fixes 💬 Better chat + account diagnostics 🛠️ Long ...",
-          "url": "https://x.com/steipete/status/2051905175355351440",
-          "postedAt": "2026-05-06T06:01:31.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_67f297b7f1",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Lots of developer tools are having a missed opportunity Their product is now essentially useful to anyone who has access to an agent, not just profess...",
-          "url": "https://x.com/zarazhangrui/status/2051900943831335167",
-          "postedAt": "2026-05-06T05:44:42.000Z"
-        },
-        {
-          "id": "vc_steipete_45ce986797",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Me and codex were busy. 🔊 http://sonoscli.sh — Sonos 🗃️ http://wacli.sh — WhatsApp 🪶 http://birdclaw.sh — X archive 🧰 http://gitcrawl....",
-          "url": "https://x.com/steipete/status/2051900143339704730",
-          "postedAt": "2026-05-06T05:41:31.000Z"
-        },
-        {
-          "id": "vc_steipete_2fd67aba53",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "CodexBar 0.24 is live 🤖 New Windsurf, Codebuff + DeepSeek providers 👥 Copilot multi-account switching 🧹 Opt-in local storage breakdowns 🔋 ...",
-          "url": "https://x.com/steipete/status/2051882417292525950",
-          "postedAt": "2026-05-06T04:31:05.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_53a3469c68",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2051871374189404161",
-          "url": "https://x.com/Khazix0918/status/2051873577566437395",
-          "postedAt": "2026-05-06T03:55:57.000Z"
-        },
-        {
-          "id": "vc_gdb_b8bea997d2",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "ChatGPT for Excel and Google Sheets:",
-          "url": "https://x.com/gdb/status/2051866486658994636",
-          "postedAt": "2026-05-06T03:27:46.000Z"
-        },
-        {
-          "id": "vc_sama_177c74b5c8",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "ChatGPT feels very 'switched on' now",
-          "url": "https://x.com/sama/status/2051829422265979047",
-          "postedAt": "2026-05-06T01:00:30.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-07T14:50:02.377Z",
+      "lastUpdated": "2026-05-08T03:53:25.184Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_the_knowledge_project_642421856f",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "Winston Weinberg: Speed, Stress, and Better Decisions",
+          "url": "https://fs.blog/knowledge-project-podcast/winston-weinberg/",
+          "postedAt": "2026-05-07T09:55:00.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_11205b92d1",
           "source": "Lenny's Podcast",
@@ -592,10 +600,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-07T14:50:04.154Z",
+      "lastUpdated": "2026-05-08T03:53:26.692Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -685,6 +693,78 @@
       },
       "articles": [
         {
+          "id": "om_d4e84ab547",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok users are motivated by affiliate links",
+          "url": "https://www.socialmediatoday.com/news/tiktok-users-are-motivated-by-affiliate-links/819659/",
+          "postedAt": "2026-05-07T21:42:02.000Z"
+        },
+        {
+          "id": "om_d4cd8da218",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Trade Desk Growth Slows to Lowest Rate Since Covid; Publicis Talks Ongoing",
+          "url": "https://www.adweek.com/programmatic/the-trade-desk-growth-slows-to-lowest-rate-since-covid-with-publicis-negotiations-ongoing/",
+          "postedAt": "2026-05-07T17:57:09.000Z"
+        },
+        {
+          "id": "om_d1858bc344",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Cadillac Vet Melissa Grady Dias Is The Latest CMO to Land a CEO Job",
+          "url": "https://www.adweek.com/brand-marketing/cadillac-vet-melissa-grady-dias-is-the-latest-cmo-to-land-a-ceo-job/",
+          "postedAt": "2026-05-07T17:20:00.000Z"
+        },
+        {
+          "id": "om_68d758af26",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why Chasing Vanity Metrics Is Killing Your Social Strategy",
+          "url": "https://www.adweek.com/brand-marketing/why-chasing-vanity-metrics-is-killing-your-social-strategy/",
+          "postedAt": "2026-05-07T16:24:53.000Z"
+        },
+        {
+          "id": "om_bc3c990d91",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target shuffles merchandising leadership with slate of new SVPs",
+          "url": "https://www.retaildive.com/news/target-turnaround-merchandising-leadership-svps-design-apparel-accessories/819580/",
+          "postedAt": "2026-05-07T16:07:00.000Z"
+        },
+        {
+          "id": "om_8c51b56fff",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "As Gen Z embraces Coach, Tapestry raises expectations",
+          "url": "https://www.retaildive.com/news/gen-z-embraces-coach-tapestry-raises-expectations-kate-spade-slump/819564/",
+          "postedAt": "2026-05-07T15:49:00.000Z"
+        },
+        {
+          "id": "om_8b7e004bbe",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "E.l.f. spotlights competitive dance with new sponsorship",
+          "url": "https://www.marketingdive.com/news/elf-spotlights-competitive-dance-with-new-sponsorship/819596/",
+          "postedAt": "2026-05-07T15:17:21.000Z"
+        },
+        {
+          "id": "om_0c9246ea1c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Kraft Heinz hikes marketing spend 37% as turnaround takes shape",
+          "url": "https://www.marketingdive.com/news/kraft-heinz-hikes-marketing-spend-37-as-turnaround-takes-shape/819556/",
+          "postedAt": "2026-05-07T15:02:00.000Z"
+        },
+        {
+          "id": "om_bf11006c40",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Luna Bar strategizes new era with social ads starring Jessica Alba",
+          "url": "https://www.marketingdive.com/news/luna-bar-strategizes-new-era-with-social-ads-starring-jessica-alba/819492/",
+          "postedAt": "2026-05-07T15:00:00.000Z"
+        },
+        {
           "id": "om_b718bb4881",
           "source": "Retail Dive",
           "lang": "en",
@@ -723,30 +803,6 @@
           "title": "Permutive Recruits Former IPG Mediabrands CEO to Board in Buy-Side Push",
           "url": "https://www.adweek.com/performance-marketing/permutive-recruits-former-ipg-mediabrands-ceo-to-board-in-buy-side-push/",
           "postedAt": "2026-05-07T09:00:00.000Z"
-        },
-        {
-          "id": "om_e07faf0df2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Timothée Chalamet Builds His Dream Soccer Team in Adidas’ World Cup Short",
-          "url": "https://www.adweek.com/brand-marketing/timothee-chalamet-builds-his-dream-soccer-team-in-adidas-world-cup-short/",
-          "postedAt": "2026-05-07T04:00:00.000Z"
-        },
-        {
-          "id": "om_e166520c3b",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
-          "url": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
-          "postedAt": "2026-05-06T19:10:09.000Z"
-        },
-        {
-          "id": "om_5bdc25efcc",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
-          "url": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
-          "postedAt": "2026-05-06T18:05:41.000Z"
         },
         {
           "id": "om_834bba3cbd",
@@ -795,58 +851,10 @@
           "title": "Brooks Running boasts global sales growth",
           "url": "https://www.retaildive.com/news/brooks-running-global-sales-growth-Q1-earnings/819345/",
           "postedAt": "2026-05-06T15:13:00.000Z"
-        },
-        {
-          "id": "om_f2d50f8b68",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target’s digital chief breaks down the retailer’s creator overhaul",
-          "url": "https://www.retaildive.com/news/targets-digital-chief-breaks-down-the-retailers-creator-overhaul/819417/",
-          "postedAt": "2026-05-06T14:40:00.000Z"
-        },
-        {
-          "id": "om_0cc1f646d9",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How meat-snack marketers are meeting the moment",
-          "url": "https://www.marketingbrew.com/stories/how-meat-snack-marketers-are-meeting-the-moment?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-06T13:00:20.000Z"
-        },
-        {
-          "id": "om_9e34b162f3",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How jewelry brand Gorjana found its place in sports",
-          "url": "https://www.marketingbrew.com/stories/gorjana-sports-club?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-06T11:00:00.000Z"
-        },
-        {
-          "id": "om_a1958c6f40",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Advertisers Spent $1 Billion on Criteo in Q1, Up 8% Year-Over-Year",
-          "url": "https://www.adweek.com/commerce/advertisers-spent-1-billion-on-criteo-in-q1-up-8-year-over-year/",
-          "postedAt": "2026-05-06T09:50:20.000Z"
-        },
-        {
-          "id": "om_fd1420eca5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Old Navy Appoints Michael Francis as Chief Customer Officer Amid Turnaround",
-          "url": "https://www.adweek.com/brand-marketing/old-navy-appoints-michael-francis-as-chief-customer-officer-amid-turnaround/",
-          "postedAt": "2026-05-06T09:00:00.000Z"
-        },
-        {
-          "id": "om_5eafc1ec29",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ziff Davis Buys Four Brands From Recurrent Ventures, Launches a Lifestyle Group",
-          "url": "https://www.adweek.com/media/ziff-davis-recurrent-ventures-dwell-domino-business-home-popsci/",
-          "postedAt": "2026-05-06T09:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-07T14:50:06.163Z",
+      "lastUpdated": "2026-05-08T03:53:29.264Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
