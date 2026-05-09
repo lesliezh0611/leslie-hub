@@ -227,6 +227,60 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_a153017793",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "We're working on some clever caching, @obviyus making Telegram loops 5-100x faster in @openclaw",
+          "url": "https://x.com/steipete/status/2053082660562497616",
+          "postedAt": "2026-05-09T12:00:25.000Z"
+        },
+        {
+          "id": "vc_steipete_2c3541cdc5",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Mahmoud Ashraf: Finally updated my openclaw and now using GPT-5.5 and the difference is visible and the humor is as like claude models! Amazing wor...",
+          "url": "https://x.com/steipete/status/2053066992316239914",
+          "postedAt": "2026-05-09T10:57:37.000Z"
+        },
+        {
+          "id": "vc_steipete_9607cc4b46",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RepoBar 0.5.0 is live 📋 GitHub refs from your clipboard 🔎 Issue, PR, and commit previews 🟢 Open/closed/merged at a glance ⚡ Fast lookups, ca...",
+          "url": "https://x.com/steipete/status/2053066825244581968",
+          "postedAt": "2026-05-09T10:57:29.000Z"
+        },
+        {
+          "id": "vc_steipete_222530c67f",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Whenever I investigate a bug, I let codex recreate the exact state in an emphemeral crabbox, verify the bug, fix it, verify the fix. No messy state be...",
+          "url": "https://x.com/steipete/status/2053032450138276274",
+          "postedAt": "2026-05-09T08:40:54.000Z"
+        },
+        {
+          "id": "vc_steipete_5bd4f4f4dd",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT George Pickett: Daily reminder that your goals are probably not ambitious enough",
+          "url": "https://x.com/steipete/status/2053013291828478202",
+          "postedAt": "2026-05-09T06:41:12.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_45349a16f8",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Built a \"YouTube realtime copilot\" browser extension using OpenAI's realtime 2 API: The agent watches the video alongside you, and can answer any ques...",
+          "url": "https://x.com/zarazhangrui/status/2052977849267892339",
+          "postedAt": "2026-05-09T05:03:56.000Z"
+        },
+        {
           "id": "vc_dotey_23e013708e",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -351,64 +405,10 @@
           "title": "就在昨天，我把之前给公司内部用的，花了将近一个月时间开发的 AI 热点监控网站，AIHOT，免费开放给所有人了。 同时除了网站之外，我们还把Skill、RSS和API 也给...",
           "url": "https://x.com/Khazix0918/status/2052726850431148059",
           "postedAt": "2026-05-08T12:26:33.000Z"
-        },
-        {
-          "id": "vc_dotey_01dbe91542",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Gorden Sun: 你问别人怎么做的，我给你默默做好了@CuiMao 在线玩：https://gordensun.github.io/CuiMao/ Github：https://github.com/GordenSun/CuiMao",
-          "url": "https://x.com/dotey/status/2052875303534428666",
-          "postedAt": "2026-05-08T09:21:03.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_1e13d11329",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "AIHOT今天又更新了一堆东西，于是，又上了一个更新日志页。。。可以清楚的看到更新了啥= = 欢迎大家体验：https://aihot.virxact.com/ 今天抽空再把移动端适配给...",
-          "url": "https://x.com/Khazix0918/status/2052663200810991715",
-          "postedAt": "2026-05-08T08:13:38.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_15dbfa1c43",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "大家要的AIHOT的分类筛选已经上线。。。今天抽空再把移动端适配做了。。。",
-          "url": "https://x.com/Khazix0918/status/2052638450181124284",
-          "postedAt": "2026-05-08T06:35:17.000Z"
-        },
-        {
-          "id": "vc_steipete_5db33ecf7b",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Our claws talk to each other, Molty learns how to delegate cron jobs.",
-          "url": "https://x.com/steipete/status/2052630190346457301",
-          "postedAt": "2026-05-08T06:02:28.000Z"
-        },
-        {
-          "id": "vc_dotey_e6c012d62c",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 鸭哥: OpenAI 和 Cursor 同时在 2026 年 4-5 月把重心从 Skill 转向 Plugin。 驱动这个动作的原因完全不同——OpenAI 在防守模型商品化，Cursor 在逃离供应商...",
-          "url": "https://x.com/dotey/status/2052877270524567995",
-          "postedAt": "2026-05-08T04:34:03.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_9d16b32bcb",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2052588441188089860",
-          "url": "https://x.com/Khazix0918/status/2052607019019079768",
-          "postedAt": "2026-05-08T04:30:23.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-09T03:55:17.467Z",
+      "lastUpdated": "2026-05-09T13:52:10.753Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-09T03:55:18.587Z",
+      "lastUpdated": "2026-05-09T13:52:12.530Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -854,7 +854,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-09T03:55:20.572Z",
+      "lastUpdated": "2026-05-09T13:52:15.146Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
