@@ -227,6 +227,60 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_d9717724f4",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Latest spogo (Spotify cli) is much faster, codex is my dj now. https://spogo.sh If you wanna play YouTube to Sonos, check out https://sonoscli.sh",
+          "url": "https://x.com/steipete/status/2053310800773685600",
+          "postedAt": "2026-05-10T03:06:58.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_c3c33c721a",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "HTML is important because humans are visual animals As the founder of Duolingo once said, one of his biggest lessons after spending years building con...",
+          "url": "https://x.com/zarazhangrui/status/2053291803135410674",
+          "postedAt": "2026-05-10T01:51:28.000Z"
+        },
+        {
+          "id": "vc_gdb_66f5624d3e",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Codex for expenses",
+          "url": "https://x.com/gdb/status/2053221403868922114",
+          "postedAt": "2026-05-09T21:11:44.000Z"
+        },
+        {
+          "id": "vc_sama_31ab6c428d",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "kicking off a bunch of codex tasks, running around with my kid in the sunshine, and then coming back at naptime to find them all completed makes me ve...",
+          "url": "https://x.com/sama/status/2053191344999604409",
+          "postedAt": "2026-05-09T19:12:17.000Z"
+        },
+        {
+          "id": "vc_gdb_ae80e7b5a6",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "GPT-Realtime-2 for instantly translating audio in realtime",
+          "url": "https://x.com/gdb/status/2053134883040514350",
+          "postedAt": "2026-05-09T15:27:56.000Z"
+        },
+        {
+          "id": "vc_steipete_ce2c18b617",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Peekaboo 3.0 is live. Biggest release since 2.0. ⚡ Action-first macOS computer use 👁️ Unified screenshot + UI detection 🧩 Cleaner JSON across ...",
+          "url": "https://x.com/steipete/status/2053114837698249190",
+          "postedAt": "2026-05-09T14:08:16.000Z"
+        },
+        {
           "id": "vc_steipete_a153017793",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -252,24 +306,6 @@
           "title": "RepoBar 0.5.0 is live 📋 GitHub refs from your clipboard 🔎 Issue, PR, and commit previews 🟢 Open/closed/merged at a glance ⚡ Fast lookups, ca...",
           "url": "https://x.com/steipete/status/2053066825244581968",
           "postedAt": "2026-05-09T10:57:29.000Z"
-        },
-        {
-          "id": "vc_steipete_222530c67f",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Whenever I investigate a bug, I let codex recreate the exact state in an emphemeral crabbox, verify the bug, fix it, verify the fix. No messy state be...",
-          "url": "https://x.com/steipete/status/2053032450138276274",
-          "postedAt": "2026-05-09T08:40:54.000Z"
-        },
-        {
-          "id": "vc_steipete_5bd4f4f4dd",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT George Pickett: Daily reminder that your goals are probably not ambitious enough",
-          "url": "https://x.com/steipete/status/2053013291828478202",
-          "postedAt": "2026-05-09T06:41:12.000Z"
         },
         {
           "id": "vc_zarazhangrui_45349a16f8",
@@ -369,46 +405,10 @@
           "title": "Yes HTML is eating everything A great way to get started with AI coding: try replacing all word, excel, ppt, pdf, dashboards, prototypes with HTML",
           "url": "https://x.com/zarazhangrui/status/2052833634730873136",
           "postedAt": "2026-05-08T19:30:52.000Z"
-        },
-        {
-          "id": "vc_gdb_d88c09d0ec",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "feeling the magic",
-          "url": "https://x.com/gdb/status/2052831492733390926",
-          "postedAt": "2026-05-08T19:22:22.000Z"
-        },
-        {
-          "id": "vc_gdb_0d74ba4410",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "codex is for everyone — a transformative tool for all work done with a computer, not just coding",
-          "url": "https://x.com/gdb/status/2052805767791829259",
-          "postedAt": "2026-05-08T17:40:08.000Z"
-        },
-        {
-          "id": "vc_gdb_3416b93e87",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "GPT-5.5 is both very capable and very succinct",
-          "url": "https://x.com/gdb/status/2052783746009440658",
-          "postedAt": "2026-05-08T16:12:38.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_c1d1e7ee3d",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "就在昨天，我把之前给公司内部用的，花了将近一个月时间开发的 AI 热点监控网站，AIHOT，免费开放给所有人了。 同时除了网站之外，我们还把Skill、RSS和API 也给...",
-          "url": "https://x.com/Khazix0918/status/2052726850431148059",
-          "postedAt": "2026-05-08T12:26:33.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-09T13:52:10.753Z",
+      "lastUpdated": "2026-05-10T04:14:42.176Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_42580aa520",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: What to do when non-PMs start shipping directly to production, thoughts on Claude Code’s pricing A/B test, the use of gen AI in games, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when",
+          "postedAt": "2026-05-09T18:18:35.000Z"
+        },
         {
           "id": "en_pod_the_knowledge_project_642421856f",
           "source": "The Knowledge Project",
@@ -536,14 +544,6 @@
           "postedAt": "2026-04-27T15:02:19.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_9a094dd7bd",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "From a $6.90 newsletter to $3M API: How a non-coder built Memelord | Jason Levin",
-          "url": "https://www.lennysnewsletter.com/p/from-a-690-newsletter-to-3m-api-how",
-          "postedAt": "2026-04-27T12:03:55.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_692e8b2476",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-09T13:52:12.530Z",
+      "lastUpdated": "2026-05-10T04:14:43.338Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -854,7 +854,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-09T13:52:15.146Z",
+      "lastUpdated": "2026-05-10T04:14:45.239Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
