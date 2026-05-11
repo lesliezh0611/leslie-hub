@@ -227,40 +227,76 @@
       ],
       "articles": [
         {
-          "id": "vc_steipete_9bef202cc4",
+          "id": "vc_steipete_4ffc2cc02d",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "🦀📦Crabbox 0.11.0 is live ☁️ Google Cloud provider 🧰 Repo-local job workflows 🖥️ AWS Windows WSL2 hydration 🧯 Blacksmith sync-stall g...",
-          "url": "https://x.com/steipete/status/2053691503759798573",
-          "postedAt": "2026-05-11T04:19:44.000Z"
+          "title": "GPT got sassy.",
+          "url": "https://x.com/steipete/status/2053834513524965718",
+          "postedAt": "2026-05-11T13:48:01.000Z"
         },
         {
-          "id": "vc_steipete_2645c765da",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
+          "id": "vc_dotey_a8d67d87d6",
+          "source": "dotey",
+          "sourceName": "宝玉",
           "platform": "x",
-          "title": "Looks like I have to add antispam features to clawsweeper next. 🙃",
-          "url": "https://x.com/steipete/status/2053672506599358684",
-          "postedAt": "2026-05-11T03:04:15.000Z"
+          "title": "RT Hwang: http://x.com/i/article/2053813863792140288",
+          "url": "https://x.com/dotey/status/2053856674255978846",
+          "postedAt": "2026-05-11T13:31:45.000Z"
         },
         {
-          "id": "vc_steipete_7a8abb09d2",
+          "id": "vc_steipete_0cd8650d1c",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "RT jingbo: Re @steipete 'go into debt if you have to'",
-          "url": "https://x.com/steipete/status/2053659581549511034",
-          "postedAt": "2026-05-11T01:50:27.000Z"
+          "title": "Trimmy now has support for Claude Code prompt trimming. I mean, even better if you type that prompt into Codex, but ya know, let's be inclusive. Oh an...",
+          "url": "https://x.com/steipete/status/2053810703669039326",
+          "postedAt": "2026-05-11T12:13:24.000Z"
         },
         {
-          "id": "vc_steipete_0d5a7d0ffd",
+          "id": "vc_steipete_fe4ea102ba",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "RT Cruthaifios: Re @burkov I just returned to OpenClaw after ditching it for Hermes agent and OpenCode. I realized it’s the easiest harness to contro...",
-          "url": "https://x.com/steipete/status/2053659176803438882",
-          "postedAt": "2026-05-11T01:17:14.000Z"
+          "title": "I'm adding new features to https://gogcli.sh and Codex noticed that the API it needs is not enabled, so it started Computer Use and is happily clickin...",
+          "url": "https://x.com/steipete/status/2053797643516592299",
+          "postedAt": "2026-05-11T11:21:30.000Z"
+        },
+        {
+          "id": "vc_steipete_37b43669e6",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Can highly recommend running a claw cron job that sweeps through mentions. GPT is really good at detecting shills and AI reply guy slop.",
+          "url": "https://x.com/steipete/status/2053787450225402166",
+          "postedAt": "2026-05-11T10:41:00.000Z"
+        },
+        {
+          "id": "vc_steipete_d7a937cb9d",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "challenged codex to e2e test improvements to the OpenClaw chat completion endpoint WITH openclaw. Used /side to ask more question while it works.",
+          "url": "https://x.com/steipete/status/2053744332675408151",
+          "postedAt": "2026-05-11T07:49:40.000Z"
+        },
+        {
+          "id": "vc_gdb_c388f55559",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "/goal is underrated",
+          "url": "https://x.com/gdb/status/2053722156559683946",
+          "postedAt": "2026-05-11T06:21:33.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_5c08abc8f9",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2053699462342815744",
+          "url": "https://x.com/Khazix0918/status/2053704384505401826",
+          "postedAt": "2026-05-11T05:10:55.000Z"
         },
         {
           "id": "vc_gdb_d04a3389d7",
@@ -270,15 +306,6 @@
           "title": "agents make for a surprisingly great product",
           "url": "https://x.com/gdb/status/2053636695698833563",
           "postedAt": "2026-05-11T00:41:57.000Z"
-        },
-        {
-          "id": "vc_steipete_ef34076151",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "🎚️ CodexBar 0.25 is live 🧩 New providers: Manus, MiMo, Qwen, Doubao, Venice + more 🔔 Quota warning notifications 👥 Stacked Codex account ...",
-          "url": "https://x.com/steipete/status/2053617492325523737",
-          "postedAt": "2026-05-10T23:25:39.000Z"
         },
         {
           "id": "vc_dotey_81a0f65b77",
@@ -378,37 +405,10 @@
           "title": "GPT-Realtime-2 for instantly translating audio in realtime",
           "url": "https://x.com/gdb/status/2053134883040514350",
           "postedAt": "2026-05-09T15:27:56.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_45349a16f8",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Built a \"YouTube realtime copilot\" browser extension using OpenAI's realtime 2 API: The agent watches the video alongside you, and can answer any ques...",
-          "url": "https://x.com/zarazhangrui/status/2052977849267892339",
-          "postedAt": "2026-05-09T05:03:56.000Z"
-        },
-        {
-          "id": "vc_dotey_23e013708e",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "GPT Image 2 Prompt：水墨风格 Slides/PPT 可以把下面的提示词模板发给 Agent，让 Agent 帮你生成每一页 Slides 的画图 Prompt，Codex 这样有画图能力的直接出图...",
-          "url": "https://x.com/dotey/status/2052948362668732781",
-          "postedAt": "2026-05-09T03:06:46.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_fa1bc71a50",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "All 32 Beautiful HTML Slide Templates are now available on AnyGen, it's plug-and-play even for those without a coding agent Use them now: https://www....",
-          "url": "https://x.com/zarazhangrui/status/2052928583388340332",
-          "postedAt": "2026-05-09T01:48:10.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-11T04:35:45.447Z",
+      "lastUpdated": "2026-05-11T15:36:00.756Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_426db5cae9",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Spec-driven development: The AI engineering workflow at Notion | Ryan Nystrom",
+          "url": "https://www.lennysnewsletter.com/p/spec-driven-development-the-ai-engineering",
+          "postedAt": "2026-05-11T12:03:12.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_6b33fa6bee",
           "source": "Lenny's Podcast",
@@ -536,14 +544,6 @@
           "postedAt": "2026-05-02T18:02:57.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_3a42ba3cda",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Your Couch-to-5K for AI",
-          "url": "https://www.lennysnewsletter.com/p/your-couch-to-5k-for-ai",
-          "postedAt": "2026-04-28T15:31:24.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_692e8b2476",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-11T04:35:46.705Z",
+      "lastUpdated": "2026-05-11T15:36:02.835Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,28 +693,156 @@
       },
       "articles": [
         {
-          "id": "om_ed9e119c03",
+          "id": "om_ec8dfa2a20",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Heineken focuses agency roster on fewer future-fit partners",
+          "url": "https://www.marketingdive.com/news/heineken-focuses-agency-roster-on-fewer-future-fit-partners/819831/",
+          "postedAt": "2026-05-11T15:25:00.000Z"
+        },
+        {
+          "id": "om_d86701bacb",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Consumer spending is healthy, but gas prices remain a risk",
+          "url": "https://www.retaildive.com/news/consumer-spending-gas-prices-iran-war-risk/819718/",
+          "postedAt": "2026-05-11T14:38:00.000Z"
+        },
+        {
+          "id": "om_e34a4fb776",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Grocery shoppers are trading down to lower-priced retailers, report finds",
+          "url": "https://www.retaildive.com/news/grocery-shoppers-value-trading-down-lower-priced-retailer/819609/",
+          "postedAt": "2026-05-11T14:25:00.000Z"
+        },
+        {
+          "id": "om_318b062cce",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "AI remains a top priority for CMOs, but spending lags: Gartner",
+          "url": "https://www.marketingdive.com/news/ai-remains-a-top-priority-for-cmos-but-spending-lags-gartner/819806/",
+          "postedAt": "2026-05-11T14:21:00.000Z"
+        },
+        {
+          "id": "om_0cee748a46",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app",
-          "url": "https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/",
-          "postedAt": "2026-05-08T20:50:03.000Z"
+          "title": "TikTok launches an ad-free subscription plan in the UK",
+          "url": "https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/",
+          "postedAt": "2026-05-11T14:05:47.000Z"
         },
         {
-          "id": "om_8a99da414c",
-          "source": "Adweek",
+          "id": "om_6767fde803",
+          "source": "Marketing Dive",
           "lang": "en",
-          "title": "Ticker: Fox News Debuts New Promo Campaign Celebrating America’s 250th Birthday",
-          "url": "https://www.adweek.com/tvnewser/ticker-fox-news-debuts-new-promo-campaign-celebrating-americas-250th-birthday/",
-          "postedAt": "2026-05-08T16:40:01.000Z"
+          "title": "OpenAI solidifies ad platform ambitions with ChatGPT Ads Manager",
+          "url": "https://www.marketingdive.com/news/openai-solidifies-ad-platform-ambitions-with-chatgpt-ads-manager/819801/",
+          "postedAt": "2026-05-11T13:46:00.000Z"
         },
         {
-          "id": "om_50e16f5147",
+          "id": "om_184f989628",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "TikTok is letting UK users pay to remove ads",
+          "url": "https://www.theverge.com/tech/927761/tiktok-ad-free-paid-subscription-uk",
+          "postedAt": "2026-05-11T13:09:40.000Z"
+        },
+        {
+          "id": "om_e93a58c22f",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Home Depot is crafting content on the road to the World Cup",
+          "url": "https://www.marketingdive.com/news/how-home-depot-is-crafting-content-on-the-road-to-the-world-cup/819650/",
+          "postedAt": "2026-05-11T13:00:00.000Z"
+        },
+        {
+          "id": "om_c132f33aaf",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Amazon’s Interactive Video Ads are getting personal(ized)",
+          "url": "https://www.marketingbrew.com/stories/amazon-interactive-video-ads-upfronts?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-11T13:00:00.000Z"
+        },
+        {
+          "id": "om_541311ce76",
           "source": "Adweek",
           "lang": "en",
-          "title": "How Keisha Taylor Starr Turned ION Into a Women’s Sports Powerhouse in 24 Months",
-          "url": "https://www.adweek.com/brand-marketing/how-keisha-taylor-starr-turned-ion-into-a-womens-sports-powerhouse-in-24-months/",
-          "postedAt": "2026-05-08T16:26:21.000Z"
+          "title": "Brands Are Already Losing the World Cup",
+          "url": "https://www.adweek.com/brand-marketing/brands-are-already-losing-the-world-cup/",
+          "postedAt": "2026-05-11T10:35:59.000Z"
+        },
+        {
+          "id": "om_e2c3a901b8",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "This upfront season, measurement is more important than ever",
+          "url": "https://www.marketingbrew.com/stories/upfront-season-measurement-outcomes-lower-funnel?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-11T09:30:00.000Z"
+        },
+        {
+          "id": "om_2d6aa86c18",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Prime Video Ads Can Now Change Based on What Viewers Already Saw",
+          "url": "https://www.adweek.com/commerce/prime-video-ads-can-now-change-based-on-what-viewers-already-saw/",
+          "postedAt": "2026-05-11T09:00:00.000Z"
+        },
+        {
+          "id": "om_4a56c13f8e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Adobe Acrobat as a marketing tool? New AI features help you reach every stakeholder, every time",
+          "url": "https://www.marketingdive.com/spons/adobe-acrobat-as-a-marketing-tool-new-ai-features-help-you-reach-every-sta/819737/",
+          "postedAt": "2026-05-11T09:00:00.000Z"
+        },
+        {
+          "id": "om_4e5baf1458",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "The gap between modern and legacy ESPs is widening",
+          "url": "https://www.marketingdive.com/spons/the-gap-between-modern-and-legacy-esps-is-widening/819253/",
+          "postedAt": "2026-05-11T09:00:00.000Z"
+        },
+        {
+          "id": "om_4c8d302c12",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Your terminal already knows what your best customers want. Are you listening?",
+          "url": "https://www.retaildive.com/spons/your-terminal-already-knows-what-your-best-customers-want-are-you-listenin/819542/",
+          "postedAt": "2026-05-11T09:00:00.000Z"
+        },
+        {
+          "id": "om_591d12f8f1",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Peak season fulfillment has changed — What today’s retailers must do differently",
+          "url": "https://www.retaildive.com/spons/peak-season-fulfillment-has-changed-what-todays-retailers-must-do-differ/819545/",
+          "postedAt": "2026-05-11T09:00:00.000Z"
+        },
+        {
+          "id": "om_9e823aff42",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Seth Matlins Launches Marketing Podcast With Vox Media",
+          "url": "https://www.adweek.com/media/create-destroy-seth-matlins-podcast-vox-media/",
+          "postedAt": "2026-05-11T08:00:00.000Z"
+        },
+        {
+          "id": "om_0ecacdb89c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Dove Men’s World Cup Debut Turns Soccer’s Unofficial Anthem Into a Skincare Pitch",
+          "url": "https://www.adweek.com/brand-marketing/dove-mens-world-cup-debut-turns-soccers-unofficial-anthem-into-a-skincare-pitch/",
+          "postedAt": "2026-05-11T07:46:34.000Z"
+        },
+        {
+          "id": "om_bd38c6afc5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Xbox’s Nostalgic Green Logo Signals a Return to Its Roots",
+          "url": "https://www.adweek.com/brand-marketing/xboxs-nostalgic-green-logo-signals-a-return-to-its-roots/",
+          "postedAt": "2026-05-11T06:00:00.000Z"
         },
         {
           "id": "om_61d9d7247f",
@@ -723,138 +851,10 @@
           "title": "The Weekly Closeout: ThredUp’s revenue jump and the interview that shook retail",
           "url": "https://www.retaildive.com/news/ryan-cohen-gamestop-ebay-interview-thredup-q1-earnings/819613/",
           "postedAt": "2026-05-08T16:22:00.000Z"
-        },
-        {
-          "id": "om_0c51b09b76",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bob’s Q1 growth defies wider sector trends",
-          "url": "https://www.retaildive.com/news/bobs-first-quarter-earnings-defies-home-sector-trends/819679/",
-          "postedAt": "2026-05-08T16:02:00.000Z"
-        },
-        {
-          "id": "om_c63a23bcb5",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Lee jeans up for sale in surprise Kontoor move",
-          "url": "https://www.retaildive.com/news/lee-jeans-sale-surprise-kontoor-move-wrangler/819677/",
-          "postedAt": "2026-05-08T15:11:00.000Z"
-        },
-        {
-          "id": "om_5fb836bfda",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Where Trade Desk sees advertising opportunity following bruising Q1",
-          "url": "https://www.marketingdive.com/news/where-trade-desk-sees-advertising-opportunity-following-bruising-q1/819692/",
-          "postedAt": "2026-05-08T14:40:00.000Z"
-        },
-        {
-          "id": "om_aca4f907a1",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How IAB Sweden expelled Meta—and why it might not happen in other chapters anytime soon",
-          "url": "https://www.marketingbrew.com/stories/iab-sweden-meta-expulsion?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-08T13:46:48.000Z"
-        },
-        {
-          "id": "om_1487eeb1e3",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How the WNBA brought on new blue-chip sponsors amid CBA negotiation uncertainty",
-          "url": "https://www.marketingbrew.com/stories/wnba-season-30-sponsors-cba?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-08T13:00:00.000Z"
-        },
-        {
-          "id": "om_e56fada8a6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketers on the Move: Hires and Exits at GM, Old Navy, Canva, and More",
-          "url": "https://www.adweek.com/brand-marketing/marketers-on-the-move-hires-and-exits-at-gm-old-navy-canva-and-more/",
-          "postedAt": "2026-05-08T11:31:29.000Z"
-        },
-        {
-          "id": "om_c97ab09f21",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Campaign Trail: Tecate empowers repatriated Mexicans",
-          "url": "https://www.marketingdive.com/news/campaign-trail-tecate-empowers-repatriated-mexicans/819272/",
-          "postedAt": "2026-05-08T11:00:00.000Z"
-        },
-        {
-          "id": "om_824d645c63",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "WPP Shareholders Approve CEO Cindy Rose’s Potential $14.8M Pay Package",
-          "url": "https://www.adweek.com/agencies/wpp-shareholders-approve-ceo-cindy-roses-potential-148m-pay-package/",
-          "postedAt": "2026-05-08T09:31:42.000Z"
-        },
-        {
-          "id": "om_d9f762d85a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Adcolor Marks 20 Years With a New Program for a Changed DEI Landscape",
-          "url": "https://www.adweek.com/agencies/adcolor-marks-20-years-with-a-new-program-for-a-changed-dei-landscape/",
-          "postedAt": "2026-05-08T09:00:00.000Z"
-        },
-        {
-          "id": "om_302a7fa453",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 12 Campaigns That Caught Our Eye, From Adidas to Canva",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-12-campaigns-that-caught-our-eye-from-adidas-to-canva/",
-          "postedAt": "2026-05-08T06:00:00.000Z"
-        },
-        {
-          "id": "om_d4e84ab547",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok users are motivated by affiliate links",
-          "url": "https://www.socialmediatoday.com/news/tiktok-users-are-motivated-by-affiliate-links/819659/",
-          "postedAt": "2026-05-07T21:42:02.000Z"
-        },
-        {
-          "id": "om_bc3c990d91",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target shuffles merchandising leadership with slate of new SVPs",
-          "url": "https://www.retaildive.com/news/target-turnaround-merchandising-leadership-svps-design-apparel-accessories/819580/",
-          "postedAt": "2026-05-07T16:07:00.000Z"
-        },
-        {
-          "id": "om_8c51b56fff",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "As Gen Z embraces Coach, Tapestry raises expectations",
-          "url": "https://www.retaildive.com/news/gen-z-embraces-coach-tapestry-raises-expectations-kate-spade-slump/819564/",
-          "postedAt": "2026-05-07T15:49:00.000Z"
-        },
-        {
-          "id": "om_8b7e004bbe",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "E.l.f. spotlights competitive dance with new sponsorship",
-          "url": "https://www.marketingdive.com/news/elf-spotlights-competitive-dance-with-new-sponsorship/819596/",
-          "postedAt": "2026-05-07T15:17:21.000Z"
-        },
-        {
-          "id": "om_0c9246ea1c",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Kraft Heinz hikes marketing spend 37% as turnaround takes shape",
-          "url": "https://www.marketingdive.com/news/kraft-heinz-hikes-marketing-spend-37-as-turnaround-takes-shape/819556/",
-          "postedAt": "2026-05-07T15:02:00.000Z"
-        },
-        {
-          "id": "om_bf11006c40",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Luna Bar strategizes new era with social ads starring Jessica Alba",
-          "url": "https://www.marketingdive.com/news/luna-bar-strategizes-new-era-with-social-ads-starring-jessica-alba/819492/",
-          "postedAt": "2026-05-07T15:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-11T04:35:48.789Z",
+      "lastUpdated": "2026-05-11T15:36:05.442Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
