@@ -227,49 +227,103 @@
       ],
       "articles": [
         {
-          "id": "vc_steipete_8c72729a0d",
+          "id": "vc_steipete_9bef202cc4",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "Slop one-shot websites, 2025 vs 2026. https://trimmy.app",
-          "url": "https://x.com/steipete/status/2053456429420265662",
-          "postedAt": "2026-05-10T12:45:38.000Z"
+          "title": "🦀📦Crabbox 0.11.0 is live ☁️ Google Cloud provider 🧰 Repo-local job workflows 🖥️ AWS Windows WSL2 hydration 🧯 Blacksmith sync-stall g...",
+          "url": "https://x.com/steipete/status/2053691503759798573",
+          "postedAt": "2026-05-11T04:19:44.000Z"
         },
         {
-          "id": "vc_steipete_04ca1f00e6",
+          "id": "vc_steipete_2645c765da",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "Built BlackBar, a menubar for @useblacksmith https://black.bar",
-          "url": "https://x.com/steipete/status/2053444780089119191",
-          "postedAt": "2026-05-10T11:59:21.000Z"
+          "title": "Looks like I have to add antispam features to clawsweeper next. 🙃",
+          "url": "https://x.com/steipete/status/2053672506599358684",
+          "postedAt": "2026-05-11T03:04:15.000Z"
         },
         {
-          "id": "vc_steipete_ff9a2b8cb6",
+          "id": "vc_steipete_7a8abb09d2",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "Slaps. https://black.bar",
-          "url": "https://x.com/steipete/status/2053440149778751718",
-          "postedAt": "2026-05-10T11:40:57.000Z"
+          "title": "RT jingbo: Re @steipete 'go into debt if you have to'",
+          "url": "https://x.com/steipete/status/2053659581549511034",
+          "postedAt": "2026-05-11T01:50:27.000Z"
         },
         {
-          "id": "vc_steipete_5c58831320",
+          "id": "vc_steipete_0d5a7d0ffd",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "😅",
-          "url": "https://x.com/steipete/status/2053430662082728171",
-          "postedAt": "2026-05-10T11:03:15.000Z"
+          "title": "RT Cruthaifios: Re @burkov I just returned to OpenClaw after ditching it for Hermes agent and OpenCode. I realized it’s the easiest harness to contro...",
+          "url": "https://x.com/steipete/status/2053659176803438882",
+          "postedAt": "2026-05-11T01:17:14.000Z"
         },
         {
-          "id": "vc_steipete_1d1b75205b",
+          "id": "vc_gdb_d04a3389d7",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "agents make for a surprisingly great product",
+          "url": "https://x.com/gdb/status/2053636695698833563",
+          "postedAt": "2026-05-11T00:41:57.000Z"
+        },
+        {
+          "id": "vc_steipete_ef34076151",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "We should start a polymarket for when it finishes. https://github.com/openclaw/openclaw/pull/78595",
-          "url": "https://x.com/steipete/status/2053420530737267190",
-          "postedAt": "2026-05-10T10:22:59.000Z"
+          "title": "🎚️ CodexBar 0.25 is live 🧩 New providers: Manus, MiMo, Qwen, Doubao, Venice + more 🔔 Quota warning notifications 👥 Stacked Codex account ...",
+          "url": "https://x.com/steipete/status/2053617492325523737",
+          "postedAt": "2026-05-10T23:25:39.000Z"
+        },
+        {
+          "id": "vc_dotey_81a0f65b77",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "http://x.com/i/article/2053591256110940160",
+          "url": "https://x.com/dotey/status/2053601852261110201",
+          "postedAt": "2026-05-10T22:23:30.000Z"
+        },
+        {
+          "id": "vc_sama_d1047f77d9",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "what if we name the next model \"goblin\" almost worth it to make you all happy...",
+          "url": "https://x.com/sama/status/2053572868936761350",
+          "postedAt": "2026-05-10T20:28:20.000Z"
+        },
+        {
+          "id": "vc_sama_eef65773d0",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "interesting",
+          "url": "https://x.com/sama/status/2053566155571560868",
+          "postedAt": "2026-05-10T20:01:39.000Z"
+        },
+        {
+          "id": "vc_sama_276e53ee9f",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "RT Sebastien Bubeck: Re @roydanroy What he talks about couldn't have happened before GPT-5.5",
+          "url": "https://x.com/sama/status/2053571254721093791",
+          "postedAt": "2026-05-10T16:33:34.000Z"
+        },
+        {
+          "id": "vc_dotey_9a7e13c7ad",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 汗青 HQ: 这是Yuri尤栗第一次的线下演出，今年4月，在卡兹克的AIFUT大会上，和川子唢呐的合奏，现场效果很好，所以，下一步。。。",
+          "url": "https://x.com/dotey/status/2053612487946244324",
+          "postedAt": "2026-05-10T13:53:40.000Z"
         },
         {
           "id": "vc_dotey_fcf246a535",
@@ -344,24 +398,6 @@
           "postedAt": "2026-05-09T03:06:46.000Z"
         },
         {
-          "id": "vc_dotey_28b1ebf27a",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "GPT Image 2 Prompt：中文科技新闻爆款封面生成器 --- Prompt --- 你是一名顶级中文科技媒体视觉设计师。 你的任务是： 根据用户输入的一整篇文章内容，自动提取...",
-          "url": "https://x.com/dotey/status/2052942818570543550",
-          "postedAt": "2026-05-09T02:44:44.000Z"
-        },
-        {
-          "id": "vc_dotey_29524923b9",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "任天堂今天宣布全线涨价，Switch 2、老款 Switch、Nintendo Switch Online 会员全部上调。 日本市场首当其冲，5 月 25 日起生效。Switch 2 日文版从 49,980 日元...",
-          "url": "https://x.com/dotey/status/2052933700996804827",
-          "postedAt": "2026-05-09T02:08:30.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_fa1bc71a50",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -369,46 +405,10 @@
           "title": "All 32 Beautiful HTML Slide Templates are now available on AnyGen, it's plug-and-play even for those without a coding agent Use them now: https://www....",
           "url": "https://x.com/zarazhangrui/status/2052928583388340332",
           "postedAt": "2026-05-09T01:48:10.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_08eef0d46a",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Can confirm GPT realtime 2 feels like black magic; unlocks so many new applications!! Building with it now",
-          "url": "https://x.com/zarazhangrui/status/2052895297903501601",
-          "postedAt": "2026-05-08T23:35:54.000Z"
-        },
-        {
-          "id": "vc_sama_7debb33585",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "call me maybe",
-          "url": "https://x.com/sama/status/2052887698717986956",
-          "postedAt": "2026-05-08T23:05:42.000Z"
-        },
-        {
-          "id": "vc_gdb_ca2134c94e",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "extremely interesting work from our alignment team",
-          "url": "https://x.com/gdb/status/2052850012003201167",
-          "postedAt": "2026-05-08T20:35:57.000Z"
-        },
-        {
-          "id": "vc_sama_d961a54f80",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "RT OpenAI: Chain of thought monitors are a key layer of defense against AI agent misalignment. To preserve monitorability, we avoid penalizing misalig...",
-          "url": "https://x.com/sama/status/2052853008674017288",
-          "postedAt": "2026-05-08T20:19:04.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-10T13:55:30.696Z",
+      "lastUpdated": "2026-05-11T04:35:45.447Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-10T13:55:31.951Z",
+      "lastUpdated": "2026-05-11T04:35:46.705Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -854,7 +854,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-10T13:55:33.638Z",
+      "lastUpdated": "2026-05-11T04:35:48.789Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
