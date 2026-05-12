@@ -227,6 +227,114 @@
       ],
       "articles": [
         {
+          "id": "vc_Khazix0918_6c4e282664",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2054026297677090816",
+          "url": "https://x.com/Khazix0918/status/2054037008981606476",
+          "postedAt": "2026-05-12T03:12:39.000Z"
+        },
+        {
+          "id": "vc_dotey_a347512c86",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "一般赚钱的不发推，闷声发大财才是最优解；赔钱的也不发推，丢人；发的可能是卖课的卖流量的🐶",
+          "url": "https://x.com/dotey/status/2053987620732944869",
+          "postedAt": "2026-05-11T23:56:24.000Z"
+        },
+        {
+          "id": "vc_sama_374a3f6159",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "speaking of things that have gotten over a threshold for me, the combo of the new ChatGPT model, personality, and personalization feels like a new thi...",
+          "url": "https://x.com/sama/status/2053971387308745046",
+          "postedAt": "2026-05-11T22:51:54.000Z"
+        },
+        {
+          "id": "vc_sama_0e21b22281",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "would you call it a superapp?",
+          "url": "https://x.com/sama/status/2053970698725679437",
+          "postedAt": "2026-05-11T22:49:10.000Z"
+        },
+        {
+          "id": "vc_dotey_94e1c69a5e",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Coursera 今天完成对 Udemy 的收购，两家在线教育领域的老对手合并为一家公司。 交易在 2025 年 12 月 17 日宣布，全股票形式，整体估值约 25 亿美元。Udemy 股...",
+          "url": "https://x.com/dotey/status/2053959995662749705",
+          "postedAt": "2026-05-11T22:06:38.000Z"
+        },
+        {
+          "id": "vc_dotey_cff3547af2",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Claude Code 今天上线了一个新功能：agent view，让开发者可以在一个界面里统管所有正在运行的 AI 编程会话。 过去用 Claude Code 同时跑多个任务，只能靠一堆终...",
+          "url": "https://x.com/dotey/status/2053958143411888437",
+          "postedAt": "2026-05-11T21:59:16.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_dea0634464",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "http://x.com/i/article/2053914880386990080",
+          "url": "https://x.com/zarazhangrui/status/2053953371762286954",
+          "postedAt": "2026-05-11T21:40:19.000Z"
+        },
+        {
+          "id": "vc_gdb_dd0a9af55a",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Daybreak: our umbrella effort for defensive acceleration, equipping cyber defenders with the best possible frontier AI capabilities.",
+          "url": "https://x.com/gdb/status/2053943428241928560",
+          "postedAt": "2026-05-11T21:00:48.000Z"
+        },
+        {
+          "id": "vc_dotey_164a0d8426",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT yetone: 注意这个 Agent Pets 是依赖 MCP 实现的，所以某种程度上，它可能会干扰 Agent 正在执行的真实任务。 原因很简单：模型需要时刻记得去调用 Agent Pet...",
+          "url": "https://x.com/dotey/status/2053936809608978758",
+          "postedAt": "2026-05-11T20:23:19.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_c403102f8f",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "4 small but extremely useful things coding agents can do for you that many people don't know: 1. Copy things to your clipboard. If it generated someth...",
+          "url": "https://x.com/zarazhangrui/status/2053901777511260184",
+          "postedAt": "2026-05-11T18:15:18.000Z"
+        },
+        {
+          "id": "vc_sama_538da10f45",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "RT Greg Brockman: Introducing the OpenAI Deployment Company, which will help businesses maximally succeed with their deployments of AI. Starting with ...",
+          "url": "https://x.com/sama/status/2053904744331248112",
+          "postedAt": "2026-05-11T17:07:07.000Z"
+        },
+        {
+          "id": "vc_karpathy_20c5449944",
+          "source": "karpathy",
+          "sourceName": "Andrej Karpathy",
+          "platform": "x",
+          "title": "This works really well btw, at the end of your query ask your LLM to \"structure your response as HTML\", then view the generated file in your browser. ...",
+          "url": "https://x.com/karpathy/status/2053872850101285137",
+          "postedAt": "2026-05-11T16:20:21.000Z"
+        },
+        {
           "id": "vc_steipete_4ffc2cc02d",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -297,118 +405,10 @@
           "title": "http://x.com/i/article/2053699462342815744",
           "url": "https://x.com/Khazix0918/status/2053704384505401826",
           "postedAt": "2026-05-11T05:10:55.000Z"
-        },
-        {
-          "id": "vc_gdb_d04a3389d7",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "agents make for a surprisingly great product",
-          "url": "https://x.com/gdb/status/2053636695698833563",
-          "postedAt": "2026-05-11T00:41:57.000Z"
-        },
-        {
-          "id": "vc_dotey_81a0f65b77",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "http://x.com/i/article/2053591256110940160",
-          "url": "https://x.com/dotey/status/2053601852261110201",
-          "postedAt": "2026-05-10T22:23:30.000Z"
-        },
-        {
-          "id": "vc_sama_d1047f77d9",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "what if we name the next model \"goblin\" almost worth it to make you all happy...",
-          "url": "https://x.com/sama/status/2053572868936761350",
-          "postedAt": "2026-05-10T20:28:20.000Z"
-        },
-        {
-          "id": "vc_sama_eef65773d0",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "interesting",
-          "url": "https://x.com/sama/status/2053566155571560868",
-          "postedAt": "2026-05-10T20:01:39.000Z"
-        },
-        {
-          "id": "vc_sama_276e53ee9f",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "RT Sebastien Bubeck: Re @roydanroy What he talks about couldn't have happened before GPT-5.5",
-          "url": "https://x.com/sama/status/2053571254721093791",
-          "postedAt": "2026-05-10T16:33:34.000Z"
-        },
-        {
-          "id": "vc_dotey_9a7e13c7ad",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 汗青 HQ: 这是Yuri尤栗第一次的线下演出，今年4月，在卡兹克的AIFUT大会上，和川子唢呐的合奏，现场效果很好，所以，下一步。。。",
-          "url": "https://x.com/dotey/status/2053612487946244324",
-          "postedAt": "2026-05-10T13:53:40.000Z"
-        },
-        {
-          "id": "vc_dotey_fcf246a535",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "http://x.com/i/article/2053376950094249984",
-          "url": "https://x.com/dotey/status/2053379372464078947",
-          "postedAt": "2026-05-10T07:39:26.000Z"
-        },
-        {
-          "id": "vc_dotey_ef635ac67f",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "http://x.com/i/article/2053350663170449408",
-          "url": "https://x.com/dotey/status/2053351712149135385",
-          "postedAt": "2026-05-10T05:49:32.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_c3c33c721a",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "HTML is important because humans are visual animals As the founder of Duolingo once said, one of his biggest lessons after spending years building con...",
-          "url": "https://x.com/zarazhangrui/status/2053291803135410674",
-          "postedAt": "2026-05-10T01:51:28.000Z"
-        },
-        {
-          "id": "vc_gdb_66f5624d3e",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Codex for expenses",
-          "url": "https://x.com/gdb/status/2053221403868922114",
-          "postedAt": "2026-05-09T21:11:44.000Z"
-        },
-        {
-          "id": "vc_sama_31ab6c428d",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "kicking off a bunch of codex tasks, running around with my kid in the sunshine, and then coming back at naptime to find them all completed makes me ve...",
-          "url": "https://x.com/sama/status/2053191344999604409",
-          "postedAt": "2026-05-09T19:12:17.000Z"
-        },
-        {
-          "id": "vc_gdb_ae80e7b5a6",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "GPT-Realtime-2 for instantly translating audio in realtime",
-          "url": "https://x.com/gdb/status/2053134883040514350",
-          "postedAt": "2026-05-09T15:27:56.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-11T15:36:00.756Z",
+      "lastUpdated": "2026-05-12T04:04:50.270Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_d215fc76fc",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: Quests, token leaderboards, and the elite AI adoption playbook & Notion’s spec-driven development",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-quests-token-leaderboards",
+          "postedAt": "2026-05-11T16:02:49.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_426db5cae9",
           "source": "Lenny's Podcast",
@@ -536,14 +544,6 @@
           "postedAt": "2026-05-03T12:30:59.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_5e05625a72",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Claude Code tips for ADHD users, resources for managing up, going from corporate to startup, tiring of being your company’s AI evangelist, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-claude-code-tips",
-          "postedAt": "2026-05-02T18:02:57.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_692e8b2476",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-11T15:36:02.835Z",
+      "lastUpdated": "2026-05-12T04:04:52.130Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,70 @@
       },
       "articles": [
         {
+          "id": "om_c2e6ca3e85",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+          "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+          "postedAt": "2026-05-12T00:09:01.000Z"
+        },
+        {
+          "id": "om_9d826284b8",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Amazon Flexes Its Reach With Star-Packed Upfront",
+          "url": "https://www.adweek.com/commerce/amazon-flexes-its-reach-with-star-packed-upfront/",
+          "postedAt": "2026-05-11T22:17:34.000Z"
+        },
+        {
+          "id": "om_b1b280494b",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok launches ad-free offering in U.K.",
+          "url": "https://www.socialmediatoday.com/news/tiktok-launches-ad-free-offering-in-uk/819920/",
+          "postedAt": "2026-05-11T21:15:41.000Z"
+        },
+        {
+          "id": "om_035d37b7fa",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Texas sues Netflix for advertising ‘bait and switch’ and spying",
+          "url": "https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy",
+          "postedAt": "2026-05-11T21:13:16.000Z"
+        },
+        {
+          "id": "om_c6e0aa1f89",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "YouTube publishes brand growth playbook",
+          "url": "https://www.socialmediatoday.com/news/youtube-publishes-brand-growth-playbook/819913/",
+          "postedAt": "2026-05-11T20:40:22.000Z"
+        },
+        {
+          "id": "om_b2b035bced",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Threads updates its branding",
+          "url": "https://www.socialmediatoday.com/news/threads-updates-its-branding/819910/",
+          "postedAt": "2026-05-11T20:28:54.000Z"
+        },
+        {
+          "id": "om_45bf295ac6",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "At upfronts, NBCUniversal’s legacy is the message",
+          "url": "https://www.marketingbrew.com/stories/upfronts-nbcuniversal-legacy-is-the-message?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-11T18:57:50.000Z"
+        },
+        {
+          "id": "om_fcbefec4c8",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Bed Bath & Beyond Inc. subsidiary closing Tennessee office",
+          "url": "https://www.retaildive.com/news/bed-bath-beyond-brand-house-collective-close-office-tennessee/819827/",
+          "postedAt": "2026-05-11T15:50:00.000Z"
+        },
+        {
           "id": "om_ec8dfa2a20",
           "source": "Marketing Dive",
           "lang": "en",
@@ -741,12 +805,12 @@
           "postedAt": "2026-05-11T13:46:00.000Z"
         },
         {
-          "id": "om_184f989628",
-          "source": "The Verge",
+          "id": "om_595198d1ee",
+          "source": "Adweek",
           "lang": "en",
-          "title": "TikTok is letting UK users pay to remove ads",
-          "url": "https://www.theverge.com/tech/927761/tiktok-ad-free-paid-subscription-uk",
-          "postedAt": "2026-05-11T13:09:40.000Z"
+          "title": "EXCLUSIVE: WPP US President to Step Down Amid Strategy Reset",
+          "url": "https://www.adweek.com/agencies/exclusive-wpp-us-president-michael-houston-step-down/",
+          "postedAt": "2026-05-11T13:30:00.000Z"
         },
         {
           "id": "om_e93a58c22f",
@@ -765,6 +829,14 @@
           "postedAt": "2026-05-11T13:00:00.000Z"
         },
         {
+          "id": "om_78a648efa7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "FIFA World Cup 26 Ad Tracker: Brands Kick Off Summer of Soccer",
+          "url": "https://www.adweek.com/brand-marketing/fifa-world-cup-26-ad-tracker-brands-kick-off-summer-of-soccer/",
+          "postedAt": "2026-05-11T12:21:09.000Z"
+        },
+        {
           "id": "om_541311ce76",
           "source": "Adweek",
           "lang": "en",
@@ -779,82 +851,10 @@
           "title": "This upfront season, measurement is more important than ever",
           "url": "https://www.marketingbrew.com/stories/upfront-season-measurement-outcomes-lower-funnel?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-05-11T09:30:00.000Z"
-        },
-        {
-          "id": "om_2d6aa86c18",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Prime Video Ads Can Now Change Based on What Viewers Already Saw",
-          "url": "https://www.adweek.com/commerce/prime-video-ads-can-now-change-based-on-what-viewers-already-saw/",
-          "postedAt": "2026-05-11T09:00:00.000Z"
-        },
-        {
-          "id": "om_4a56c13f8e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Adobe Acrobat as a marketing tool? New AI features help you reach every stakeholder, every time",
-          "url": "https://www.marketingdive.com/spons/adobe-acrobat-as-a-marketing-tool-new-ai-features-help-you-reach-every-sta/819737/",
-          "postedAt": "2026-05-11T09:00:00.000Z"
-        },
-        {
-          "id": "om_4e5baf1458",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "The gap between modern and legacy ESPs is widening",
-          "url": "https://www.marketingdive.com/spons/the-gap-between-modern-and-legacy-esps-is-widening/819253/",
-          "postedAt": "2026-05-11T09:00:00.000Z"
-        },
-        {
-          "id": "om_4c8d302c12",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Your terminal already knows what your best customers want. Are you listening?",
-          "url": "https://www.retaildive.com/spons/your-terminal-already-knows-what-your-best-customers-want-are-you-listenin/819542/",
-          "postedAt": "2026-05-11T09:00:00.000Z"
-        },
-        {
-          "id": "om_591d12f8f1",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Peak season fulfillment has changed — What today’s retailers must do differently",
-          "url": "https://www.retaildive.com/spons/peak-season-fulfillment-has-changed-what-todays-retailers-must-do-differ/819545/",
-          "postedAt": "2026-05-11T09:00:00.000Z"
-        },
-        {
-          "id": "om_9e823aff42",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Seth Matlins Launches Marketing Podcast With Vox Media",
-          "url": "https://www.adweek.com/media/create-destroy-seth-matlins-podcast-vox-media/",
-          "postedAt": "2026-05-11T08:00:00.000Z"
-        },
-        {
-          "id": "om_0ecacdb89c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Dove Men’s World Cup Debut Turns Soccer’s Unofficial Anthem Into a Skincare Pitch",
-          "url": "https://www.adweek.com/brand-marketing/dove-mens-world-cup-debut-turns-soccers-unofficial-anthem-into-a-skincare-pitch/",
-          "postedAt": "2026-05-11T07:46:34.000Z"
-        },
-        {
-          "id": "om_bd38c6afc5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Xbox’s Nostalgic Green Logo Signals a Return to Its Roots",
-          "url": "https://www.adweek.com/brand-marketing/xboxs-nostalgic-green-logo-signals-a-return-to-its-roots/",
-          "postedAt": "2026-05-11T06:00:00.000Z"
-        },
-        {
-          "id": "om_61d9d7247f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Weekly Closeout: ThredUp’s revenue jump and the interview that shook retail",
-          "url": "https://www.retaildive.com/news/ryan-cohen-gamestop-ebay-interview-thredup-q1-earnings/819613/",
-          "postedAt": "2026-05-08T16:22:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-11T15:36:05.442Z",
+      "lastUpdated": "2026-05-12T04:04:56.169Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
