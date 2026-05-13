@@ -227,6 +227,60 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_23728c2f10",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "1. Skills 是技能，领域知识，工作流等等，相当于怎么干好一件事的说明书。 比如 https://github.com/anthropics/claude-for-legal 仓库里有个 skill 叫 nda-rev...",
+          "url": "https://x.com/dotey/status/2054383106115678639",
+          "postedAt": "2026-05-13T02:07:55.000Z"
+        },
+        {
+          "id": "vc_dotey_0ce4c49597",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT CyberCat: 今天和公司合作的一家知名数据架构 / AI 自动化外包公司开会，看了他们交付的第一个产品功能，更深刻感受到：行业 know-how 和产品可视化品味，远...",
+          "url": "https://x.com/dotey/status/2054389804876411239",
+          "postedAt": "2026-05-13T00:23:46.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_901440d4bd",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "I get a lot of DMs about new AI product launches, and by now their positioning and messaging all blur into each other. None of them inspire curiosity ...",
+          "url": "https://x.com/zarazhangrui/status/2054340434852528588",
+          "postedAt": "2026-05-12T23:18:22.000Z"
+        },
+        {
+          "id": "vc_dotey_e85d8f8197",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Anthropic 今天正式上线了一个叫做「Claude for Legal」的仓库，一口气放出了 12 个针对具体法律岗位的插件，以及超过 20 个连接行业常用软件的 MCP 连接器。 无...",
+          "url": "https://x.com/dotey/status/2054330598596981218",
+          "postedAt": "2026-05-12T22:39:16.000Z"
+        },
+        {
+          "id": "vc_dotey_86e9485fd0",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Codex App 可以当 Typeless 用，开启全局快捷键设置正确权限后就可以在任意输入位置语音输入，效果还不错。 比如说这一段文字就是Codex帮忙输入的。",
+          "url": "https://x.com/dotey/status/2054296751155061200",
+          "postedAt": "2026-05-12T20:24:47.000Z"
+        },
+        {
+          "id": "vc_dotey_46c9d345fd",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT Rainier: 我并不太认同，吴恩达的观点。 这个可能是AI行业在美国的一种PR。 事实上来讲，美国很多行业确实对AI大规模使用非常忧虑，阻碍了AI在美国的落地。 ...",
+          "url": "https://x.com/dotey/status/2054278764821987659",
+          "postedAt": "2026-05-12T19:12:38.000Z"
+        },
+        {
           "id": "vc_steipete_1601d30b4a",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -252,15 +306,6 @@
           "title": "AI for helping you build apps powered by AI:",
           "url": "https://x.com/gdb/status/2054092636659625990",
           "postedAt": "2026-05-12T06:53:42.000Z"
-        },
-        {
-          "id": "vc_dotey_cc14d6bbca",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "http://x.com/i/article/2054083068839796737",
-          "url": "https://x.com/dotey/status/2054086398328656383",
-          "postedAt": "2026-05-12T06:28:55.000Z"
         },
         {
           "id": "vc_steipete_e3b9a40ef3",
@@ -317,15 +362,6 @@
           "postedAt": "2026-05-12T01:17:14.000Z"
         },
         {
-          "id": "vc_dotey_a347512c86",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "一般赚钱的不发推，闷声发大财才是最优解；赔钱的也不发推，丢人；发的可能是卖课的卖流量的🐶",
-          "url": "https://x.com/dotey/status/2053987620732944869",
-          "postedAt": "2026-05-11T23:56:24.000Z"
-        },
-        {
           "id": "vc_sama_374a3f6159",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -342,24 +378,6 @@
           "title": "would you call it a superapp?",
           "url": "https://x.com/sama/status/2053970698725679437",
           "postedAt": "2026-05-11T22:49:10.000Z"
-        },
-        {
-          "id": "vc_dotey_94e1c69a5e",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Coursera 今天完成对 Udemy 的收购，两家在线教育领域的老对手合并为一家公司。 交易在 2025 年 12 月 17 日宣布，全股票形式，整体估值约 25 亿美元。Udemy 股...",
-          "url": "https://x.com/dotey/status/2053959995662749705",
-          "postedAt": "2026-05-11T22:06:38.000Z"
-        },
-        {
-          "id": "vc_dotey_cff3547af2",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Claude Code 今天上线了一个新功能：agent view，让开发者可以在一个界面里统管所有正在运行的 AI 编程会话。 过去用 Claude Code 同时跑多个任务，只能靠一堆终...",
-          "url": "https://x.com/dotey/status/2053958143411888437",
-          "postedAt": "2026-05-11T21:59:16.000Z"
         },
         {
           "id": "vc_zarazhangrui_dea0634464",
@@ -380,15 +398,6 @@
           "postedAt": "2026-05-11T21:00:48.000Z"
         },
         {
-          "id": "vc_dotey_164a0d8426",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT yetone: 注意这个 Agent Pets 是依赖 MCP 实现的，所以某种程度上，它可能会干扰 Agent 正在执行的真实任务。 原因很简单：模型需要时刻记得去调用 Agent Pet...",
-          "url": "https://x.com/dotey/status/2053936809608978758",
-          "postedAt": "2026-05-11T20:23:19.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_c403102f8f",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -396,19 +405,10 @@
           "title": "4 small but extremely useful things coding agents can do for you that many people don't know: 1. Copy things to your clipboard. If it generated someth...",
           "url": "https://x.com/zarazhangrui/status/2053901777511260184",
           "postedAt": "2026-05-11T18:15:18.000Z"
-        },
-        {
-          "id": "vc_sama_538da10f45",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "RT Greg Brockman: Introducing the OpenAI Deployment Company, which will help businesses maximally succeed with their deployments of AI. Starting with ...",
-          "url": "https://x.com/sama/status/2053904744331248112",
-          "postedAt": "2026-05-11T17:07:07.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-12T14:49:14.727Z",
+      "lastUpdated": "2026-05-13T04:12:18.957Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-12T14:49:16.235Z",
+      "lastUpdated": "2026-05-13T04:12:20.145Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,94 @@
       },
       "articles": [
         {
+          "id": "om_bf2ea95e14",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok launches counterfeit goods detection initiative",
+          "url": "https://www.socialmediatoday.com/news/tiktok-launches-counterfeit-goods-detection-initiative/820062/",
+          "postedAt": "2026-05-12T22:58:23.000Z"
+        },
+        {
+          "id": "om_a12bc12627",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok expands TikTok GO in the U.S.",
+          "url": "https://www.socialmediatoday.com/news/tiktok-expands-tiktok-go-in-the-us/820056/",
+          "postedAt": "2026-05-12T21:20:51.000Z"
+        },
+        {
+          "id": "om_ade3c84ed5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "YouTube’s Brandcast Puts Creator Partnerships Front and Center",
+          "url": "https://www.adweek.com/convergent-tv/youtube-google-creators-upfront-2026-sean-downey/",
+          "postedAt": "2026-05-12T18:00:00.000Z"
+        },
+        {
+          "id": "om_a049451806",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "US bank discloses security lapse after sharing customer data with AI app",
+          "url": "https://techcrunch.com/2026/05/12/us-bank-discloses-security-lapse-after-sharing-customer-data-with-ai-app/",
+          "postedAt": "2026-05-12T16:36:44.000Z"
+        },
+        {
+          "id": "om_38b9fa8c13",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why Some Brands Chose Stagecoach Over Coachella This Year",
+          "url": "https://www.adweek.com/creativity/why-some-brands-chose-stagecoach-over-coachella-this-year/",
+          "postedAt": "2026-05-12T16:24:43.000Z"
+        },
+        {
+          "id": "om_0eda7b0e9a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Inflation hits 3.8%, outpaces wage growth for first time in 3 years",
+          "url": "https://www.retaildive.com/news/inflation-outpaces-wage-growth-first-time-3-years/819967/",
+          "postedAt": "2026-05-12T16:06:00.000Z"
+        },
+        {
+          "id": "om_78f519b1d4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Gold House Turns Its Gala Into a Brand Partnership Playbook",
+          "url": "https://www.adweek.com/brand-marketing/gold-house-turns-its-gala-into-a-brand-partnership-playbook/",
+          "postedAt": "2026-05-12T15:58:24.000Z"
+        },
+        {
+          "id": "om_2de168ee68",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Under Armour counts on tariff refunds to help it rebound this year",
+          "url": "https://www.retaildive.com/news/under-armour-counts-on-tariff-refunds-help-rebound/819943/",
+          "postedAt": "2026-05-12T15:47:00.000Z"
+        },
+        {
+          "id": "om_198e39c204",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Coca-Cola Is So Good at Marketing, Everyone Forgot to Notice",
+          "url": "https://www.adweek.com/brand-marketing/coca-cola-is-so-good-at-marketing-everyone-forgot-to-notice/",
+          "postedAt": "2026-05-12T15:17:13.000Z"
+        },
+        {
+          "id": "om_2b6b6c6018",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon expanding 30-minute delivery service to more cities",
+          "url": "https://www.retaildive.com/news/amazon-expands-30-minute-delivery-service-to-more-cities/819962/",
+          "postedAt": "2026-05-12T15:07:00.000Z"
+        },
+        {
+          "id": "om_d870900160",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Kraft Heinz’s biggest portfolio campaign to date celebrates America250",
+          "url": "https://www.marketingdive.com/news/kraft-heinzs-biggest-portfolio-campaign-to-date-celebrates-america250/819963/",
+          "postedAt": "2026-05-12T14:55:00.000Z"
+        },
+        {
           "id": "om_308f6f7aed",
           "source": "Retail Dive",
           "lang": "en",
@@ -717,12 +805,12 @@
           "postedAt": "2026-05-12T13:53:00.000Z"
         },
         {
-          "id": "om_1bdec4ccbb",
-          "source": "TechCrunch",
+          "id": "om_56c57ea560",
+          "source": "Marketing Brew",
           "lang": "en",
-          "title": "TikTok now wants to be the place you book the trip you just saw on TikTok",
-          "url": "https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/",
-          "postedAt": "2026-05-12T13:00:00.000Z"
+          "title": "OpenAI is looking to grow its international marketing exec lineup",
+          "url": "https://www.marketingbrew.com/stories/openai-is-looking-to-grow-its-international-marketing-exec-lineup?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-12T13:21:22.000Z"
         },
         {
           "id": "om_51510f4138",
@@ -733,6 +821,14 @@
           "postedAt": "2026-05-12T13:00:00.000Z"
         },
         {
+          "id": "om_de55d24ada",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "TelevisaUnivision focuses on ‘moving’ Hispanic audiences with more sports, streaming",
+          "url": "https://www.marketingbrew.com/stories/televisaunivision-focuses-on-moving-hispanic-audiences-with-more-sports-streaming?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-12T12:30:57.000Z"
+        },
+        {
           "id": "om_7949247337",
           "source": "Marketing Dive",
           "lang": "en",
@@ -741,120 +837,24 @@
           "postedAt": "2026-05-12T12:00:00.000Z"
         },
         {
-          "id": "om_c7e67910f4",
-          "source": "Wired",
-          "lang": "en",
-          "title": "The Creators of ‘Hacks’ Really, Really, Really Hate AI",
-          "url": "https://www.wired.com/story/the-big-interview-podcast-hacks-cocreators-paul-w-downs-lucia-aniello/",
-          "postedAt": "2026-05-12T10:30:00.000Z"
-        },
-        {
-          "id": "om_737c0dec2f",
+          "id": "om_d4b8680a08",
           "source": "Adweek",
           "lang": "en",
-          "title": "Former Trade Desk CMO Ian Colley to Lead Marketing at DeepIntent",
-          "url": "https://www.adweek.com/media/former-trade-desk-cmo-ian-colley-to-lead-marketing-at-deepintent/",
-          "postedAt": "2026-05-12T08:00:00.000Z"
+          "title": "Keep Walking or Get Left Behind: Josh Dean on Reinventing Johnnie Walker",
+          "url": "https://www.adweek.com/brand-marketing/keep-walking-or-get-left-behind-josh-dean-on-reinventing-johnnie-walker/",
+          "postedAt": "2026-05-12T11:52:28.000Z"
         },
         {
-          "id": "om_e6b7abd876",
+          "id": "om_776e1870c2",
           "source": "Adweek",
           "lang": "en",
-          "title": "The Marketers Rewriting the Brand Playbook Are Coming to Atlanta",
-          "url": "https://www.adweek.com/brand-marketing/the-marketers-rewriting-the-brand-playbook-are-coming-to-atlanta/",
-          "postedAt": "2026-05-12T06:00:00.000Z"
-        },
-        {
-          "id": "om_0a1a7f5f70",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Croud Brings On Former Assembly North America CEO to Lead US Expansion",
-          "url": "https://www.adweek.com/agencies/croud-brings-on-former-assembly-north-america-ceo-to-lead-us-expansion/",
-          "postedAt": "2026-05-12T06:00:00.000Z"
-        },
-        {
-          "id": "om_c2e6ca3e85",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-          "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-          "postedAt": "2026-05-12T00:09:01.000Z"
-        },
-        {
-          "id": "om_9d826284b8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Amazon Flexes Its Reach With Star-Packed Upfront",
-          "url": "https://www.adweek.com/commerce/amazon-flexes-its-reach-with-star-packed-upfront/",
-          "postedAt": "2026-05-11T22:17:34.000Z"
-        },
-        {
-          "id": "om_b1b280494b",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok launches ad-free offering in UK",
-          "url": "https://www.socialmediatoday.com/news/tiktok-launches-ad-free-offering-in-uk/819920/",
-          "postedAt": "2026-05-11T21:15:41.000Z"
-        },
-        {
-          "id": "om_c6e0aa1f89",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "YouTube publishes brand growth playbook",
-          "url": "https://www.socialmediatoday.com/news/youtube-publishes-brand-growth-playbook/819913/",
-          "postedAt": "2026-05-11T20:40:22.000Z"
-        },
-        {
-          "id": "om_b2b035bced",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Threads updates its branding",
-          "url": "https://www.socialmediatoday.com/news/threads-updates-its-branding/819910/",
-          "postedAt": "2026-05-11T20:28:54.000Z"
-        },
-        {
-          "id": "om_45bf295ac6",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "At upfronts, NBCUniversal’s legacy is the message",
-          "url": "https://www.marketingbrew.com/stories/upfronts-nbcuniversal-legacy-is-the-message?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-11T18:57:50.000Z"
-        },
-        {
-          "id": "om_2771e66e49",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "All things creator marketing with Katie Gohman",
-          "url": "https://www.marketingbrew.com/stories/all-things-creator-marketing-with-katie-gohman?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-11T18:45:14.000Z"
-        },
-        {
-          "id": "om_fcbefec4c8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bed Bath & Beyond Inc. subsidiary closing Tennessee office",
-          "url": "https://www.retaildive.com/news/bed-bath-beyond-brand-house-collective-close-office-tennessee/819827/",
-          "postedAt": "2026-05-11T15:50:00.000Z"
-        },
-        {
-          "id": "om_ec8dfa2a20",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Heineken focuses agency roster on fewer future-fit partners",
-          "url": "https://www.marketingdive.com/news/heineken-focuses-agency-roster-on-fewer-future-fit-partners/819831/",
-          "postedAt": "2026-05-11T15:25:00.000Z"
-        },
-        {
-          "id": "om_d86701bacb",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Consumer spending is healthy, but gas prices remain a risk",
-          "url": "https://www.retaildive.com/news/consumer-spending-gas-prices-iran-war-risk/819718/",
-          "postedAt": "2026-05-11T14:38:00.000Z"
+          "title": "Creative License: How Adobe Helps Brands Stay Creative in the Age of AI",
+          "url": "https://www.adweek.com/brand-marketing/creative-license-how-adobe-helps-brands-stay-creative-in-the-age-of-ai/",
+          "postedAt": "2026-05-12T11:42:12.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-12T14:49:26.502Z",
+      "lastUpdated": "2026-05-13T04:12:22.800Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
