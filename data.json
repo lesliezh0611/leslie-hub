@@ -227,6 +227,51 @@
       ],
       "articles": [
         {
+          "id": "vc_Khazix0918_0a0fc82fca",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "半年前，我写了10个创作心法，没想到大家反响都特别好。 而这段时间，我给内部写的内容方法论也更新到了2.0。再加上最近我们有新的小伙伴入职，为了帮大家更好地...",
+          "url": "https://x.com/Khazix0918/status/2054512737368318388",
+          "postedAt": "2026-05-13T10:43:02.000Z"
+        },
+        {
+          "id": "vc_dotey_3484989bd4",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 数字生命卡兹克: 半年前，我写了10个创作心法，没想到大家反响都特别好。 而这段时间，我给内部写的内容方法论也更新到了2.0。再加上最近我们有新的小伙伴入...",
+          "url": "https://x.com/dotey/status/2054575043951112589",
+          "postedAt": "2026-05-13T10:43:02.000Z"
+        },
+        {
+          "id": "vc_steipete_5820613946",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Kudos to Microsoft, they're helping to get OpenClaw ready for enterprises.",
+          "url": "https://x.com/steipete/status/2054435647650246967",
+          "postedAt": "2026-05-13T05:36:42.000Z"
+        },
+        {
+          "id": "vc_steipete_4a77d1b21f",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Codex was debugging a Telegram issue and needed a new token, so it used Peekaboo to open the Telegram Mac app, talked to botfather and just did it. Co...",
+          "url": "https://x.com/steipete/status/2054433442821980521",
+          "postedAt": "2026-05-13T05:27:56.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_9c1266b9a6",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2054402933631184897",
+          "url": "https://x.com/Khazix0918/status/2054427838733042103",
+          "postedAt": "2026-05-13T05:05:40.000Z"
+        },
+        {
           "id": "vc_dotey_23728c2f10",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -270,15 +315,6 @@
           "title": "Codex App 可以当 Typeless 用，开启全局快捷键设置正确权限后就可以在任意输入位置语音输入，效果还不错。 比如说这一段文字就是Codex帮忙输入的。",
           "url": "https://x.com/dotey/status/2054296751155061200",
           "postedAt": "2026-05-12T20:24:47.000Z"
-        },
-        {
-          "id": "vc_dotey_46c9d345fd",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Rainier: 我并不太认同，吴恩达的观点。 这个可能是AI行业在美国的一种PR。 事实上来讲，美国很多行业确实对AI大规模使用非常忧虑，阻碍了AI在美国的落地。 ...",
-          "url": "https://x.com/dotey/status/2054278764821987659",
-          "postedAt": "2026-05-12T19:12:38.000Z"
         },
         {
           "id": "vc_steipete_1601d30b4a",
@@ -344,24 +380,6 @@
           "postedAt": "2026-05-12T01:42:01.000Z"
         },
         {
-          "id": "vc_steipete_6d0b17ea69",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Tibo: Now that the Codex app is close to being the super app. What should the super duper app do?",
-          "url": "https://x.com/steipete/status/2054094865047105626",
-          "postedAt": "2026-05-12T01:40:00.000Z"
-        },
-        {
-          "id": "vc_steipete_1d09d4d5d5",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Omar Shahine: Re @openclaw support for FindMy - help your Claw figure out where you are - https://github.com/omarshahine/findmy-cli",
-          "url": "https://x.com/steipete/status/2054094961323196882",
-          "postedAt": "2026-05-12T01:17:14.000Z"
-        },
-        {
           "id": "vc_sama_374a3f6159",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -387,28 +405,10 @@
           "title": "http://x.com/i/article/2053914880386990080",
           "url": "https://x.com/zarazhangrui/status/2053953371762286954",
           "postedAt": "2026-05-11T21:40:19.000Z"
-        },
-        {
-          "id": "vc_gdb_dd0a9af55a",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Daybreak: our umbrella effort for defensive acceleration, equipping cyber defenders with the best possible frontier AI capabilities.",
-          "url": "https://x.com/gdb/status/2053943428241928560",
-          "postedAt": "2026-05-11T21:00:48.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_c403102f8f",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "4 small but extremely useful things coding agents can do for you that many people don't know: 1. Copy things to your clipboard. If it generated someth...",
-          "url": "https://x.com/zarazhangrui/status/2053901777511260184",
-          "postedAt": "2026-05-11T18:15:18.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-13T04:12:18.957Z",
+      "lastUpdated": "2026-05-13T15:13:53.607Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -542,14 +542,6 @@
           "topic": "Why cultivating agency matters more than cultivating skills in the AI era | Max Schoening (Head of Product, Notion)",
           "url": "https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more",
           "postedAt": "2026-05-03T12:30:59.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_692e8b2476",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-          "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-          "postedAt": "2026-04-22T07:41:08.000Z"
         }
       ],
       "books": [
@@ -600,10 +592,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-13T04:12:20.145Z",
+      "lastUpdated": "2026-05-13T15:13:55.457Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -693,6 +685,102 @@
       },
       "articles": [
         {
+          "id": "om_b6e87bdbc9",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
+          "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+          "postedAt": "2026-05-13T14:59:32.000Z"
+        },
+        {
+          "id": "om_c5650e4be9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Priceline brings back its Negotiator to combat soaring travel costs",
+          "url": "https://www.marketingdive.com/news/priceline-brings-back-its-negotiator-to-combat-soaring-travel-costs/820102/",
+          "postedAt": "2026-05-13T14:55:00.000Z"
+        },
+        {
+          "id": "om_d8e96c8124",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+          "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+          "postedAt": "2026-05-13T14:00:00.000Z"
+        },
+        {
+          "id": "om_f8cbf77ce8",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "How Home Depot is crafting content on the road to the World Cup",
+          "url": "https://www.retaildive.com/news/how-home-depot-is-crafting-content-on-the-road-to-the-world-cup/819857/",
+          "postedAt": "2026-05-13T13:42:00.000Z"
+        },
+        {
+          "id": "om_b291e6580c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Heineken urges US workers to embrace volunteer benefits and watch the World Cup",
+          "url": "https://www.marketingdive.com/news/heineken-urges-us-workers-to-embrace-volunteer-benefits-and-watch-the-world/820040/",
+          "postedAt": "2026-05-13T13:06:00.000Z"
+        },
+        {
+          "id": "om_e8ac567f85",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Saks Off Fifth may be gone, but its customers aren’t. Here’s where they’re going.",
+          "url": "https://www.retaildive.com/news/saks-off-fifth-off-price-customers-nordstrom-tj-maxx/819850/",
+          "postedAt": "2026-05-13T13:00:00.000Z"
+        },
+        {
+          "id": "om_db10b9c17f",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "CeraVe taps into basketball lore for latest social-first campaign",
+          "url": "https://www.marketingdive.com/news/cerave-taps-into-basketball-lore-for-latest-social-first-campaign/819699/",
+          "postedAt": "2026-05-13T12:00:00.000Z"
+        },
+        {
+          "id": "om_ddcb716554",
+          "source": "Wired",
+          "lang": "en",
+          "title": "OnlyFans’ First-Gen Creators Are Retiring—and Some Are Begging You to Forget They Exist",
+          "url": "https://www.wired.com/story/onlyfans-creators-retiring-right-to-be-forgotten/",
+          "postedAt": "2026-05-13T11:00:00.000Z"
+        },
+        {
+          "id": "om_ac8b01617b",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "The era of the microdrama is here",
+          "url": "https://www.marketingbrew.com/stories/microdrama-content-advertising-rise-popularity?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-13T11:00:00.000Z"
+        },
+        {
+          "id": "om_3e01b0c43b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Jeep Wrangler Marks 85 Years With Muscle From Captain America",
+          "url": "https://www.adweek.com/brand-marketing/jeep-wrangler-marks-85-years-with-muscle-from-captain-america/",
+          "postedAt": "2026-05-13T10:25:43.000Z"
+        },
+        {
+          "id": "om_a7fec4bf57",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "TikTok Builds for the AI Future, Welcoming Third-Party Agents for Ads",
+          "url": "https://www.adweek.com/media/tiktok-builds-for-the-ai-future-welcoming-third-party-agents-for-ads/",
+          "postedAt": "2026-05-13T09:00:00.000Z"
+        },
+        {
+          "id": "om_ddaf30fd69",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "With Breeze Airlines Partnership, Archer Roose Turns to Travel to Build Its Brand",
+          "url": "https://www.adweek.com/brand-marketing/with-breeze-airlines-partnership-archer-roose-turns-to-travel-to-build-its-brand/",
+          "postedAt": "2026-05-13T05:00:00.000Z"
+        },
+        {
           "id": "om_bf2ea95e14",
           "source": "Social Media Today",
           "lang": "en",
@@ -704,7 +792,7 @@
           "id": "om_a12bc12627",
           "source": "Social Media Today",
           "lang": "en",
-          "title": "TikTok expands TikTok GO in the U.S.",
+          "title": "TikTok expands TikTok Go in the US",
           "url": "https://www.socialmediatoday.com/news/tiktok-expands-tiktok-go-in-the-us/820056/",
           "postedAt": "2026-05-12T21:20:51.000Z"
         },
@@ -715,14 +803,6 @@
           "title": "YouTube’s Brandcast Puts Creator Partnerships Front and Center",
           "url": "https://www.adweek.com/convergent-tv/youtube-google-creators-upfront-2026-sean-downey/",
           "postedAt": "2026-05-12T18:00:00.000Z"
-        },
-        {
-          "id": "om_a049451806",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "US bank discloses security lapse after sharing customer data with AI app",
-          "url": "https://techcrunch.com/2026/05/12/us-bank-discloses-security-lapse-after-sharing-customer-data-with-ai-app/",
-          "postedAt": "2026-05-12T16:36:44.000Z"
         },
         {
           "id": "om_38b9fa8c13",
@@ -763,98 +843,10 @@
           "title": "Coca-Cola Is So Good at Marketing, Everyone Forgot to Notice",
           "url": "https://www.adweek.com/brand-marketing/coca-cola-is-so-good-at-marketing-everyone-forgot-to-notice/",
           "postedAt": "2026-05-12T15:17:13.000Z"
-        },
-        {
-          "id": "om_2b6b6c6018",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon expanding 30-minute delivery service to more cities",
-          "url": "https://www.retaildive.com/news/amazon-expands-30-minute-delivery-service-to-more-cities/819962/",
-          "postedAt": "2026-05-12T15:07:00.000Z"
-        },
-        {
-          "id": "om_d870900160",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Kraft Heinz’s biggest portfolio campaign to date celebrates America250",
-          "url": "https://www.marketingdive.com/news/kraft-heinzs-biggest-portfolio-campaign-to-date-celebrates-america250/819963/",
-          "postedAt": "2026-05-12T14:55:00.000Z"
-        },
-        {
-          "id": "om_308f6f7aed",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bob’s Discount Furniture opens first combo store-distribution center",
-          "url": "https://www.retaildive.com/news/bobs-discount-furniture-first-combo-store-distribution-center/819909/",
-          "postedAt": "2026-05-12T14:11:00.000Z"
-        },
-        {
-          "id": "om_64e9940313",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Ulta Beauty to offer products via Uber Eats",
-          "url": "https://www.retaildive.com/news/ulta-beauty-uber-eats-deliveries/819859/",
-          "postedAt": "2026-05-12T13:58:00.000Z"
-        },
-        {
-          "id": "om_3d259f3f34",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Where Nike’s marketing comeback is stumbling — and where it can still win",
-          "url": "https://www.marketingdive.com/news/where-nikes-marketing-comeback-is-stumbling-and-where-it-can-still-win/819788/",
-          "postedAt": "2026-05-12T13:53:00.000Z"
-        },
-        {
-          "id": "om_56c57ea560",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "OpenAI is looking to grow its international marketing exec lineup",
-          "url": "https://www.marketingbrew.com/stories/openai-is-looking-to-grow-its-international-marketing-exec-lineup?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-12T13:21:22.000Z"
-        },
-        {
-          "id": "om_51510f4138",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "NBCUniversal leans into legacy media status, pushes performance at upfront",
-          "url": "https://www.marketingdive.com/news/nbcuniversal-leans-into-legacy-media-status-pushes-performance-at-upfront/819897/",
-          "postedAt": "2026-05-12T13:00:00.000Z"
-        },
-        {
-          "id": "om_de55d24ada",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "TelevisaUnivision focuses on ‘moving’ Hispanic audiences with more sports, streaming",
-          "url": "https://www.marketingbrew.com/stories/televisaunivision-focuses-on-moving-hispanic-audiences-with-more-sports-streaming?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-12T12:30:57.000Z"
-        },
-        {
-          "id": "om_7949247337",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Foot Locker debuts year-round basketball brand platform under new CMO",
-          "url": "https://www.marketingdive.com/news/foot-locker-debuts-year-round-basketball-brand-platform-under-new-cmo/819693/",
-          "postedAt": "2026-05-12T12:00:00.000Z"
-        },
-        {
-          "id": "om_d4b8680a08",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Keep Walking or Get Left Behind: Josh Dean on Reinventing Johnnie Walker",
-          "url": "https://www.adweek.com/brand-marketing/keep-walking-or-get-left-behind-josh-dean-on-reinventing-johnnie-walker/",
-          "postedAt": "2026-05-12T11:52:28.000Z"
-        },
-        {
-          "id": "om_776e1870c2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Creative License: How Adobe Helps Brands Stay Creative in the Age of AI",
-          "url": "https://www.adweek.com/brand-marketing/creative-license-how-adobe-helps-brands-stay-creative-in-the-age-of-ai/",
-          "postedAt": "2026-05-12T11:42:12.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-13T04:12:22.800Z",
+      "lastUpdated": "2026-05-13T15:13:58.383Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
