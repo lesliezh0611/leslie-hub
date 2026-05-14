@@ -227,21 +227,129 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_059774217d",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "问：上下文（Context）和上下文窗口（Context Window）什么差别？ 这两个概念经常被混用，但其实指的是不同层面的东西： 上下文是指 AI Agent 在执行任务时实际...",
+          "url": "https://x.com/dotey/status/2054774181808488756",
+          "postedAt": "2026-05-14T04:01:55.000Z"
+        },
+        {
+          "id": "vc_sama_5d1ef1db57",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "being a dad is the thing that has most exceeded already-high-expectations in my whole life",
+          "url": "https://x.com/sama/status/2054773491522822264",
+          "postedAt": "2026-05-14T03:59:10.000Z"
+        },
+        {
+          "id": "vc_dotey_5bb4c8f398",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "baoyu-skills 新加了一个 Skill： 微信群聊总结 Skill：https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-wechat-summary 依赖于 wx-cli：https:...",
+          "url": "https://x.com/dotey/status/2054768295534846239",
+          "postedAt": "2026-05-14T03:38:32.000Z"
+        },
+        {
+          "id": "vc_gdb_6b663b0451",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "How we built the Codex sandbox for Windows:",
+          "url": "https://x.com/gdb/status/2054744721570820444",
+          "postedAt": "2026-05-14T02:04:51.000Z"
+        },
+        {
+          "id": "vc_gdb_2310bd0a58",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "great excitement from enterprises wanting to adopt codex",
+          "url": "https://x.com/gdb/status/2054710146924683586",
+          "postedAt": "2026-05-13T23:47:28.000Z"
+        },
+        {
+          "id": "vc_steipete_5a0c480e38",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Crabbox 0.13.0 is live 🧪 Modal sandbox runs 🧼 Full resync for stale workdirs 🪟 Native Windows script + preflight support 🔧 Clearer SSH/syn...",
+          "url": "https://x.com/steipete/status/2054690836613324997",
+          "postedAt": "2026-05-13T22:30:44.000Z"
+        },
+        {
+          "id": "vc_dotey_7e0a78fd57",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "还记得上次 Claude 停掉了 Claude Code 订阅在 OpenClaw 的调用吗？甚至连 claude -p 这种调用都限制了，不能再共享 Claude 订阅。 但当还留了个口子，就是基于 ...",
+          "url": "https://x.com/dotey/status/2054664841412092392",
+          "postedAt": "2026-05-13T20:47:26.000Z"
+        },
+        {
+          "id": "vc_dotey_2527594e07",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Anthropic 把 Claude Code 的每周用量上限提了 50%，即刻生效，截止到 7 月 13 日下午 6 点（太平洋时间）。 覆盖 Pro、Max、Team 和按席位计费的 Enterprise 用...",
+          "url": "https://x.com/dotey/status/2054651679786914278",
+          "postedAt": "2026-05-13T19:55:08.000Z"
+        },
+        {
+          "id": "vc_steipete_893893e9e4",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Streaming an Android phone to my Mac in a data center via Tailscale + https://github.com/genymobile/scrcpy and my claw controls it via http://peekaboo...",
+          "url": "https://x.com/steipete/status/2054647734418756012",
+          "postedAt": "2026-05-13T19:39:28.000Z"
+        },
+        {
+          "id": "vc_sama_ee4d33e53c",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "i get some anxiety not using the smartest-available model/settings. but sometimes i dont mind if it's really slow. i wonder if we should focus more on...",
+          "url": "https://x.com/sama/status/2054627102922797323",
+          "postedAt": "2026-05-13T18:17:29.000Z"
+        },
+        {
+          "id": "vc_sama_388c06e128",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "codex is the best AI coding product and we want to make it easy to try. for the next 30 days, we are giving companies that want to try switching over ...",
+          "url": "https://x.com/sama/status/2054626219858293128",
+          "postedAt": "2026-05-13T18:13:58.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_e1bd5ecca0",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Calling for ugly PPTs I'm making a skill that turns any ugly PPT into a beautiful HTML deck with just one shot But first I need some samples of ugly P...",
+          "url": "https://x.com/zarazhangrui/status/2054625264286749138",
+          "postedAt": "2026-05-13T18:10:10.000Z"
+        },
+        {
+          "id": "vc_dotey_4d0151bdfd",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "要做好字幕 SRT，断句最重要，其次是纠正拼写错误。这些可以借助 AI 或者 Agent 来做了。 不过前提是先生成单词级别的时间戳，这样才能在组合后拼回去，现在主流...",
+          "url": "https://x.com/dotey/status/2054609453467517363",
+          "postedAt": "2026-05-13T17:07:21.000Z"
+        },
+        {
           "id": "vc_Khazix0918_0a0fc82fca",
           "source": "Khazix0918",
           "sourceName": "Khazix",
           "platform": "x",
           "title": "半年前，我写了10个创作心法，没想到大家反响都特别好。 而这段时间，我给内部写的内容方法论也更新到了2.0。再加上最近我们有新的小伙伴入职，为了帮大家更好地...",
           "url": "https://x.com/Khazix0918/status/2054512737368318388",
-          "postedAt": "2026-05-13T10:43:02.000Z"
-        },
-        {
-          "id": "vc_dotey_3484989bd4",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 数字生命卡兹克: 半年前，我写了10个创作心法，没想到大家反响都特别好。 而这段时间，我给内部写的内容方法论也更新到了2.0。再加上最近我们有新的小伙伴入...",
-          "url": "https://x.com/dotey/status/2054575043951112589",
           "postedAt": "2026-05-13T10:43:02.000Z"
         },
         {
@@ -272,24 +380,6 @@
           "postedAt": "2026-05-13T05:05:40.000Z"
         },
         {
-          "id": "vc_dotey_23728c2f10",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "1. Skills 是技能，领域知识，工作流等等，相当于怎么干好一件事的说明书。 比如 https://github.com/anthropics/claude-for-legal 仓库里有个 skill 叫 nda-rev...",
-          "url": "https://x.com/dotey/status/2054383106115678639",
-          "postedAt": "2026-05-13T02:07:55.000Z"
-        },
-        {
-          "id": "vc_dotey_0ce4c49597",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT CyberCat: 今天和公司合作的一家知名数据架构 / AI 自动化外包公司开会，看了他们交付的第一个产品功能，更深刻感受到：行业 know-how 和产品可视化品味，远...",
-          "url": "https://x.com/dotey/status/2054389804876411239",
-          "postedAt": "2026-05-13T00:23:46.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_901440d4bd",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -297,24 +387,6 @@
           "title": "I get a lot of DMs about new AI product launches, and by now their positioning and messaging all blur into each other. None of them inspire curiosity ...",
           "url": "https://x.com/zarazhangrui/status/2054340434852528588",
           "postedAt": "2026-05-12T23:18:22.000Z"
-        },
-        {
-          "id": "vc_dotey_e85d8f8197",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Anthropic 今天正式上线了一个叫做「Claude for Legal」的仓库，一口气放出了 12 个针对具体法律岗位的插件，以及超过 20 个连接行业常用软件的 MCP 连接器。 无...",
-          "url": "https://x.com/dotey/status/2054330598596981218",
-          "postedAt": "2026-05-12T22:39:16.000Z"
-        },
-        {
-          "id": "vc_dotey_86e9485fd0",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Codex App 可以当 Typeless 用，开启全局快捷键设置正确权限后就可以在任意输入位置语音输入，效果还不错。 比如说这一段文字就是Codex帮忙输入的。",
-          "url": "https://x.com/dotey/status/2054296751155061200",
-          "postedAt": "2026-05-12T20:24:47.000Z"
         },
         {
           "id": "vc_steipete_1601d30b4a",
@@ -333,82 +405,10 @@
           "title": "These are the most entertaining demos I've seen Highly recommend watching all the videos https://thinkingmachines.ai/blog/interaction-models/",
           "url": "https://x.com/zarazhangrui/status/2054092857888444902",
           "postedAt": "2026-05-12T06:54:35.000Z"
-        },
-        {
-          "id": "vc_gdb_48239b9d56",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "AI for helping you build apps powered by AI:",
-          "url": "https://x.com/gdb/status/2054092636659625990",
-          "postedAt": "2026-05-12T06:53:42.000Z"
-        },
-        {
-          "id": "vc_steipete_e3b9a40ef3",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Tibo: The master becomes the mentee. At last, Claude is now copying Codex. But you cannot out-accelerate GPT-5.5.",
-          "url": "https://x.com/steipete/status/2054095028981490035",
-          "postedAt": "2026-05-12T06:13:33.000Z"
-        },
-        {
-          "id": "vc_gdb_6b50976935",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Having an agent in your meeting is such a futuristic experience:",
-          "url": "https://x.com/gdb/status/2054064478547775813",
-          "postedAt": "2026-05-12T05:01:49.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_6c4e282664",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2054026297677090816",
-          "url": "https://x.com/Khazix0918/status/2054037008981606476",
-          "postedAt": "2026-05-12T03:12:39.000Z"
-        },
-        {
-          "id": "vc_steipete_32bdd1df36",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Tibo: Re @TechByTaraa Because 5.5 > 4.7",
-          "url": "https://x.com/steipete/status/2054129813871304873",
-          "postedAt": "2026-05-12T01:42:01.000Z"
-        },
-        {
-          "id": "vc_sama_374a3f6159",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "speaking of things that have gotten over a threshold for me, the combo of the new ChatGPT model, personality, and personalization feels like a new thi...",
-          "url": "https://x.com/sama/status/2053971387308745046",
-          "postedAt": "2026-05-11T22:51:54.000Z"
-        },
-        {
-          "id": "vc_sama_0e21b22281",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "would you call it a superapp?",
-          "url": "https://x.com/sama/status/2053970698725679437",
-          "postedAt": "2026-05-11T22:49:10.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_dea0634464",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "http://x.com/i/article/2053914880386990080",
-          "url": "https://x.com/zarazhangrui/status/2053953371762286954",
-          "postedAt": "2026-05-11T21:40:19.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-13T15:13:53.607Z",
+      "lastUpdated": "2026-05-14T04:12:24.120Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -592,7 +592,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-13T15:13:55.457Z",
+      "lastUpdated": "2026-05-14T04:12:25.940Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -685,168 +685,168 @@
       },
       "articles": [
         {
+          "id": "om_dc1e78d9f3",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Google Knocks Apple Out of First Place on Kantar’s Most Valuable Brands List",
+          "url": "https://www.adweek.com/brand-marketing/google-knocks-apple-out-of-first-place-on-kantars-most-valuable-brands-list/",
+          "postedAt": "2026-05-14T00:01:00.000Z"
+        },
+        {
+          "id": "om_8f6e8e2b06",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok introduces 2026 FIFA World Cup creator correspondents",
+          "url": "https://www.socialmediatoday.com/news/tiktok-introduces-2026-fifa-world-cup-creator-correspondents/820198/",
+          "postedAt": "2026-05-13T23:28:53.000Z"
+        },
+        {
+          "id": "om_1aec05eb8b",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Major ad tool announcements from TikTok World 2026",
+          "url": "https://www.socialmediatoday.com/news/major-ad-tool-announcements-from-tiktok-world-2026/820197/",
+          "postedAt": "2026-05-13T23:15:10.000Z"
+        },
+        {
+          "id": "om_8aa0b7151a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Retail Advertising Firm Stratacache Liquidates Its U.K. Business",
+          "url": "https://www.adweek.com/commerce/retail-advertising-firm-stratacache-liquidates-its-uk-business/",
+          "postedAt": "2026-05-13T19:51:13.000Z"
+        },
+        {
+          "id": "om_f530f8ce11",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "YouTube is courting creators — and sponsors — with streaming shows",
+          "url": "https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront",
+          "postedAt": "2026-05-13T19:49:37.000Z"
+        },
+        {
+          "id": "om_8d47ccefa3",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Stripe, Google partner on agentic commerce",
+          "url": "https://www.retaildive.com/news/stripe-google-partner-on-agentic-commerce/820088/",
+          "postedAt": "2026-05-13T19:20:00.000Z"
+        },
+        {
+          "id": "om_1363b36810",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Sports, stars, singing: With new CEO, Disney maintains splashy upfront strategy",
+          "url": "https://www.marketingbrew.com/stories/sports-stars-singing-disney-upfront?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-13T18:45:45.000Z"
+        },
+        {
+          "id": "om_ef2e2e4000",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "EXCLUSIVE: Amazon Scraps Planned API Fees After Backlash From Tech Firms",
+          "url": "https://www.adweek.com/commerce/exclusive-amazon-scraps-planned-api-fees-after-backlash-from-tech-firms/",
+          "postedAt": "2026-05-13T17:55:42.000Z"
+        },
+        {
+          "id": "om_45bc5dc44e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "YouTube Goes All-In on Creator Shows, Pitches Itself as the Future of Media",
+          "url": "https://www.adweek.com/convergent-tv/youtube-brandcast-2026-creators/",
+          "postedAt": "2026-05-13T17:30:00.000Z"
+        },
+        {
+          "id": "om_5c66324ba4",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Fox sticks to its upfronts script, focusing on streaming and sports",
+          "url": "https://www.marketingbrew.com/stories/fox-upfront-streaming-sports-baywatch?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-13T17:17:56.000Z"
+        },
+        {
+          "id": "om_1e06942e16",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Can a brand help you make friends? Heineken sure thinks so",
+          "url": "https://www.marketingbrew.com/stories/heineken-brand-strategy-community-building?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-13T16:52:17.000Z"
+        },
+        {
+          "id": "om_4540f8d3cd",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK Innovator 50 Entries Now Open for 2026",
+          "url": "https://www.adweek.com/performance-marketing/adweek-innovator-50-entries-now-open-for-2026/",
+          "postedAt": "2026-05-13T16:45:01.000Z"
+        },
+        {
+          "id": "om_4aa9619fcc",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Organized retail crime bill passes House in bipartisan vote, heads to Senate",
+          "url": "https://www.retaildive.com/news/organized-retail-crime-bill-passes-house-bipartisan-vote/820105/",
+          "postedAt": "2026-05-13T16:30:00.000Z"
+        },
+        {
+          "id": "om_1a442dacfe",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Anthropic courts a new kind of customer: small business owners",
+          "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+          "postedAt": "2026-05-13T16:00:00.000Z"
+        },
+        {
+          "id": "om_86143104c9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How CMOs Should Actually Think About ROI",
+          "url": "https://www.adweek.com/brand-marketing/how-cmos-should-actually-think-about-roi/",
+          "postedAt": "2026-05-13T15:58:51.000Z"
+        },
+        {
+          "id": "om_458d7ecf03",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "On maintains momentum with record Q1 sales",
+          "url": "https://www.retaildive.com/news/on-running-q1-earnings-sales-growth-momentum/820094/",
+          "postedAt": "2026-05-13T15:51:00.000Z"
+        },
+        {
+          "id": "om_a808485f8e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Foot Locker debuts year-round basketball brand platform under new chief marketer",
+          "url": "https://www.retaildive.com/news/foot-locker-basketball-brand-platform-hoops-lives-here/819934/",
+          "postedAt": "2026-05-13T15:47:00.000Z"
+        },
+        {
+          "id": "om_f4141ab9db",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart to lay off or relocate 1,000 tech, product workers",
+          "url": "https://www.retaildive.com/news/walmart-layoffs-relocations-tech-product-workers/820110/",
+          "postedAt": "2026-05-13T15:37:00.000Z"
+        },
+        {
+          "id": "om_2232855358",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Amazon’s Alexa Is Powering a New Era of AI Shopping, and It’s Poised To Shake Up Ecommerce Advertising",
+          "url": "https://www.adweek.com/commerce/amazons-souped-up-ai-rebrand-with-alexa-reveals-its-advertising-growth-plans/",
+          "postedAt": "2026-05-13T15:09:03.000Z"
+        },
+        {
           "id": "om_b6e87bdbc9",
           "source": "TechCrunch",
           "lang": "en",
           "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
           "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
           "postedAt": "2026-05-13T14:59:32.000Z"
-        },
-        {
-          "id": "om_c5650e4be9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Priceline brings back its Negotiator to combat soaring travel costs",
-          "url": "https://www.marketingdive.com/news/priceline-brings-back-its-negotiator-to-combat-soaring-travel-costs/820102/",
-          "postedAt": "2026-05-13T14:55:00.000Z"
-        },
-        {
-          "id": "om_d8e96c8124",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-          "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-          "postedAt": "2026-05-13T14:00:00.000Z"
-        },
-        {
-          "id": "om_f8cbf77ce8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "How Home Depot is crafting content on the road to the World Cup",
-          "url": "https://www.retaildive.com/news/how-home-depot-is-crafting-content-on-the-road-to-the-world-cup/819857/",
-          "postedAt": "2026-05-13T13:42:00.000Z"
-        },
-        {
-          "id": "om_b291e6580c",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Heineken urges US workers to embrace volunteer benefits and watch the World Cup",
-          "url": "https://www.marketingdive.com/news/heineken-urges-us-workers-to-embrace-volunteer-benefits-and-watch-the-world/820040/",
-          "postedAt": "2026-05-13T13:06:00.000Z"
-        },
-        {
-          "id": "om_e8ac567f85",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Saks Off Fifth may be gone, but its customers aren’t. Here’s where they’re going.",
-          "url": "https://www.retaildive.com/news/saks-off-fifth-off-price-customers-nordstrom-tj-maxx/819850/",
-          "postedAt": "2026-05-13T13:00:00.000Z"
-        },
-        {
-          "id": "om_db10b9c17f",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "CeraVe taps into basketball lore for latest social-first campaign",
-          "url": "https://www.marketingdive.com/news/cerave-taps-into-basketball-lore-for-latest-social-first-campaign/819699/",
-          "postedAt": "2026-05-13T12:00:00.000Z"
-        },
-        {
-          "id": "om_ddcb716554",
-          "source": "Wired",
-          "lang": "en",
-          "title": "OnlyFans’ First-Gen Creators Are Retiring—and Some Are Begging You to Forget They Exist",
-          "url": "https://www.wired.com/story/onlyfans-creators-retiring-right-to-be-forgotten/",
-          "postedAt": "2026-05-13T11:00:00.000Z"
-        },
-        {
-          "id": "om_ac8b01617b",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "The era of the microdrama is here",
-          "url": "https://www.marketingbrew.com/stories/microdrama-content-advertising-rise-popularity?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-13T11:00:00.000Z"
-        },
-        {
-          "id": "om_3e01b0c43b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Jeep Wrangler Marks 85 Years With Muscle From Captain America",
-          "url": "https://www.adweek.com/brand-marketing/jeep-wrangler-marks-85-years-with-muscle-from-captain-america/",
-          "postedAt": "2026-05-13T10:25:43.000Z"
-        },
-        {
-          "id": "om_a7fec4bf57",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "TikTok Builds for the AI Future, Welcoming Third-Party Agents for Ads",
-          "url": "https://www.adweek.com/media/tiktok-builds-for-the-ai-future-welcoming-third-party-agents-for-ads/",
-          "postedAt": "2026-05-13T09:00:00.000Z"
-        },
-        {
-          "id": "om_ddaf30fd69",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "With Breeze Airlines Partnership, Archer Roose Turns to Travel to Build Its Brand",
-          "url": "https://www.adweek.com/brand-marketing/with-breeze-airlines-partnership-archer-roose-turns-to-travel-to-build-its-brand/",
-          "postedAt": "2026-05-13T05:00:00.000Z"
-        },
-        {
-          "id": "om_bf2ea95e14",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok launches counterfeit goods detection initiative",
-          "url": "https://www.socialmediatoday.com/news/tiktok-launches-counterfeit-goods-detection-initiative/820062/",
-          "postedAt": "2026-05-12T22:58:23.000Z"
-        },
-        {
-          "id": "om_a12bc12627",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok expands TikTok Go in the US",
-          "url": "https://www.socialmediatoday.com/news/tiktok-expands-tiktok-go-in-the-us/820056/",
-          "postedAt": "2026-05-12T21:20:51.000Z"
-        },
-        {
-          "id": "om_ade3c84ed5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "YouTube’s Brandcast Puts Creator Partnerships Front and Center",
-          "url": "https://www.adweek.com/convergent-tv/youtube-google-creators-upfront-2026-sean-downey/",
-          "postedAt": "2026-05-12T18:00:00.000Z"
-        },
-        {
-          "id": "om_38b9fa8c13",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why Some Brands Chose Stagecoach Over Coachella This Year",
-          "url": "https://www.adweek.com/creativity/why-some-brands-chose-stagecoach-over-coachella-this-year/",
-          "postedAt": "2026-05-12T16:24:43.000Z"
-        },
-        {
-          "id": "om_0eda7b0e9a",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Inflation hits 3.8%, outpaces wage growth for first time in 3 years",
-          "url": "https://www.retaildive.com/news/inflation-outpaces-wage-growth-first-time-3-years/819967/",
-          "postedAt": "2026-05-12T16:06:00.000Z"
-        },
-        {
-          "id": "om_78f519b1d4",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Gold House Turns Its Gala Into a Brand Partnership Playbook",
-          "url": "https://www.adweek.com/brand-marketing/gold-house-turns-its-gala-into-a-brand-partnership-playbook/",
-          "postedAt": "2026-05-12T15:58:24.000Z"
-        },
-        {
-          "id": "om_2de168ee68",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Under Armour counts on tariff refunds to help it rebound this year",
-          "url": "https://www.retaildive.com/news/under-armour-counts-on-tariff-refunds-help-rebound/819943/",
-          "postedAt": "2026-05-12T15:47:00.000Z"
-        },
-        {
-          "id": "om_198e39c204",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Coca-Cola Is So Good at Marketing, Everyone Forgot to Notice",
-          "url": "https://www.adweek.com/brand-marketing/coca-cola-is-so-good-at-marketing-everyone-forgot-to-notice/",
-          "postedAt": "2026-05-12T15:17:13.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-13T15:13:58.383Z",
+      "lastUpdated": "2026-05-14T04:12:28.573Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
