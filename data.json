@@ -227,6 +227,60 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_aad1e695b1",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "I give up. I am not a human.",
+          "url": "https://x.com/steipete/status/2054907133993406800",
+          "postedAt": "2026-05-14T12:50:13.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_8b1eda11ea",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "我靠！刚看到GitHub上，飞书CLI的star数过万了hhh 牛啊。。。 感觉那个周末一起床，发现飞书开源CLI才过去没几天==。",
+          "url": "https://x.com/Khazix0918/status/2054902047766716476",
+          "postedAt": "2026-05-14T12:30:01.000Z"
+        },
+        {
+          "id": "vc_steipete_f5a1a621ee",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Wrote a skill that runs codex /review in a loop until there's no booboos anymore. Caveat: It won't fix system architecture for ya, so you still need B...",
+          "url": "https://x.com/steipete/status/2054850632067019173",
+          "postedAt": "2026-05-14T09:05:42.000Z"
+        },
+        {
+          "id": "vc_dotey_4aa4117aa9",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Cursor 的设计模式还挺好用的。 但是有个细节问题，当我 \"Plan New Idea\"，如果提示词使用的中文，那么生成的设计文档最好也是中文。现在每次我中文提示词，设计...",
+          "url": "https://x.com/dotey/status/2054818046515073316",
+          "postedAt": "2026-05-14T06:56:13.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_12b6305ca4",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2054779060820275200",
+          "url": "https://x.com/Khazix0918/status/2054793191094903025",
+          "postedAt": "2026-05-14T05:17:27.000Z"
+        },
+        {
+          "id": "vc_dotey_71e926032d",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Anthropic 刚推出 Claude for Small Business，把 AI 直接集成到 QuickBooks、PayPal、HubSpot、Canva、DocuSign 这些小企业每天用的工具里。你只要打开 Claude ...",
+          "url": "https://x.com/dotey/status/2054776883493904838",
+          "postedAt": "2026-05-14T04:12:39.000Z"
+        },
+        {
           "id": "vc_dotey_059774217d",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -272,6 +326,15 @@
           "postedAt": "2026-05-13T23:47:28.000Z"
         },
         {
+          "id": "vc_steipete_755d015b95",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Omar Shahine: Shit wow I just gave my @openclaw Lobster a real phone number using @twilio and called him. Mind blown. Took 20 min to set up. I stil...",
+          "url": "https://x.com/steipete/status/2054803321756520606",
+          "postedAt": "2026-05-13T23:18:51.000Z"
+        },
+        {
           "id": "vc_steipete_5a0c480e38",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -288,15 +351,6 @@
           "title": "还记得上次 Claude 停掉了 Claude Code 订阅在 OpenClaw 的调用吗？甚至连 claude -p 这种调用都限制了，不能再共享 Claude 订阅。 但当还留了个口子，就是基于 ...",
           "url": "https://x.com/dotey/status/2054664841412092392",
           "postedAt": "2026-05-13T20:47:26.000Z"
-        },
-        {
-          "id": "vc_dotey_2527594e07",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Anthropic 把 Claude Code 的每周用量上限提了 50%，即刻生效，截止到 7 月 13 日下午 6 点（太平洋时间）。 覆盖 Pro、Max、Team 和按席位计费的 Enterprise 用...",
-          "url": "https://x.com/dotey/status/2054651679786914278",
-          "postedAt": "2026-05-13T19:55:08.000Z"
         },
         {
           "id": "vc_steipete_893893e9e4",
@@ -335,15 +389,6 @@
           "postedAt": "2026-05-13T18:10:10.000Z"
         },
         {
-          "id": "vc_dotey_4d0151bdfd",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "要做好字幕 SRT，断句最重要，其次是纠正拼写错误。这些可以借助 AI 或者 Agent 来做了。 不过前提是先生成单词级别的时间戳，这样才能在组合后拼回去，现在主流...",
-          "url": "https://x.com/dotey/status/2054609453467517363",
-          "postedAt": "2026-05-13T17:07:21.000Z"
-        },
-        {
           "id": "vc_Khazix0918_0a0fc82fca",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -353,24 +398,6 @@
           "postedAt": "2026-05-13T10:43:02.000Z"
         },
         {
-          "id": "vc_steipete_5820613946",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Kudos to Microsoft, they're helping to get OpenClaw ready for enterprises.",
-          "url": "https://x.com/steipete/status/2054435647650246967",
-          "postedAt": "2026-05-13T05:36:42.000Z"
-        },
-        {
-          "id": "vc_steipete_4a77d1b21f",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Codex was debugging a Telegram issue and needed a new token, so it used Peekaboo to open the Telegram Mac app, talked to botfather and just did it. Co...",
-          "url": "https://x.com/steipete/status/2054433442821980521",
-          "postedAt": "2026-05-13T05:27:56.000Z"
-        },
-        {
           "id": "vc_Khazix0918_9c1266b9a6",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -378,37 +405,10 @@
           "title": "http://x.com/i/article/2054402933631184897",
           "url": "https://x.com/Khazix0918/status/2054427838733042103",
           "postedAt": "2026-05-13T05:05:40.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_901440d4bd",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "I get a lot of DMs about new AI product launches, and by now their positioning and messaging all blur into each other. None of them inspire curiosity ...",
-          "url": "https://x.com/zarazhangrui/status/2054340434852528588",
-          "postedAt": "2026-05-12T23:18:22.000Z"
-        },
-        {
-          "id": "vc_steipete_1601d30b4a",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Crabbox 0.12.0 is live 🪟 Azure Windows desktop + WSL2 🏠 Proxmox + Tensorlake providers 🧰 preflight, failure bundles, phase timing 🚑 keep f...",
-          "url": "https://x.com/steipete/status/2054094826375655441",
-          "postedAt": "2026-05-12T07:02:24.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_1c4df97526",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "These are the most entertaining demos I've seen Highly recommend watching all the videos https://thinkingmachines.ai/blog/interaction-models/",
-          "url": "https://x.com/zarazhangrui/status/2054092857888444902",
-          "postedAt": "2026-05-12T06:54:35.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-14T04:12:24.120Z",
+      "lastUpdated": "2026-05-14T14:40:08.852Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -592,7 +592,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-14T04:12:25.940Z",
+      "lastUpdated": "2026-05-14T14:40:10.459Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -685,6 +685,94 @@
       },
       "articles": [
         {
+          "id": "om_4f3bbd9b8d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Wacoal America’s new CEO on running a brand worn by many, known by few",
+          "url": "https://www.retaildive.com/news/wacoal-intimates-brand-awareness-retail-expansion/819933/",
+          "postedAt": "2026-05-14T14:39:00.000Z"
+        },
+        {
+          "id": "om_181940e3aa",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Netflix flexes new capabilities as ad biz doubles geographic reach",
+          "url": "https://www.marketingdive.com/news/netflix-flexes-new-capabilities-as-ad-biz-doubles-geographic-reach/820098/",
+          "postedAt": "2026-05-14T14:04:00.000Z"
+        },
+        {
+          "id": "om_a6611c42fc",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon puts AI front and center with Alexa for Shopping",
+          "url": "https://www.retaildive.com/news/amazon-ai-alexa-for-shopping/820218/",
+          "postedAt": "2026-05-14T13:51:00.000Z"
+        },
+        {
+          "id": "om_fb2533f061",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Miller Lite puts 12-pack in soccer ball as part of World Cup campaign",
+          "url": "https://www.marketingdive.com/news/miller-lite-embraces-interest-in-world-cup-match-balls-in-new-campaign/820164/",
+          "postedAt": "2026-05-14T13:45:00.000Z"
+        },
+        {
+          "id": "om_1c008ec419",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Dell and RAMageddon are watering down the Alienware brand",
+          "url": "https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding",
+          "postedAt": "2026-05-14T13:36:15.000Z"
+        },
+        {
+          "id": "om_760e7b8e96",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Svedka’s senior brand director on the vodka’s future-forward marketing",
+          "url": "https://www.marketingdive.com/news/svedkas-senior-brand-director-on-the-vodkas-future-forward-marketing/819502/",
+          "postedAt": "2026-05-14T12:00:00.000Z"
+        },
+        {
+          "id": "om_253f9ab140",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "For its World Cup campaign, Lowe’s is betting big on Messi—literally",
+          "url": "https://www.marketingbrew.com/stories/world-cup-campaign-lowes-messi?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-14T12:00:00.000Z"
+        },
+        {
+          "id": "om_d43c9c3121",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Supergoop’s Lauren Weinberg on Mastering Human Centered-Marketing in an AI-Driven World",
+          "url": "https://www.adweek.com/brand-marketing/supergoops-lauren-weinberg-on-mastering-human-centered-marketing-in-an-ai-driven-world/",
+          "postedAt": "2026-05-14T10:21:26.000Z"
+        },
+        {
+          "id": "om_6782dd6e0b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Outgoing Weber Shandwick CEO Jim O’Leary Joins Penta",
+          "url": "https://www.adweek.com/agencies/outgoing-weber-shandwick-ceo-jim-oleary-joins-penta/",
+          "postedAt": "2026-05-14T10:15:39.000Z"
+        },
+        {
+          "id": "om_09be70723f",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside the White Sox's immaculate theme night strategy",
+          "url": "https://www.marketingbrew.com/stories/white-soxs-theme-nights-pope-hat?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-14T10:00:00.000Z"
+        },
+        {
+          "id": "om_c3a71a308b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Agencies Say New Cannes Lions Entry Rules Are ‘Burdensome,’ But Necessary",
+          "url": "https://www.adweek.com/agencies/agencies-say-new-cannes-lions-entry-rules-are-burdensome-but-necessary/",
+          "postedAt": "2026-05-14T06:00:00.000Z"
+        },
+        {
           "id": "om_dc1e78d9f3",
           "source": "Adweek",
           "lang": "en",
@@ -715,14 +803,6 @@
           "title": "Retail Advertising Firm Stratacache Liquidates Its U.K. Business",
           "url": "https://www.adweek.com/commerce/retail-advertising-firm-stratacache-liquidates-its-uk-business/",
           "postedAt": "2026-05-13T19:51:13.000Z"
-        },
-        {
-          "id": "om_f530f8ce11",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "YouTube is courting creators — and sponsors — with streaming shows",
-          "url": "https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront",
-          "postedAt": "2026-05-13T19:49:37.000Z"
         },
         {
           "id": "om_8d47ccefa3",
@@ -763,90 +843,10 @@
           "title": "Fox sticks to its upfronts script, focusing on streaming and sports",
           "url": "https://www.marketingbrew.com/stories/fox-upfront-streaming-sports-baywatch?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-05-13T17:17:56.000Z"
-        },
-        {
-          "id": "om_1e06942e16",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Can a brand help you make friends? Heineken sure thinks so",
-          "url": "https://www.marketingbrew.com/stories/heineken-brand-strategy-community-building?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-13T16:52:17.000Z"
-        },
-        {
-          "id": "om_4540f8d3cd",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK Innovator 50 Entries Now Open for 2026",
-          "url": "https://www.adweek.com/performance-marketing/adweek-innovator-50-entries-now-open-for-2026/",
-          "postedAt": "2026-05-13T16:45:01.000Z"
-        },
-        {
-          "id": "om_4aa9619fcc",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Organized retail crime bill passes House in bipartisan vote, heads to Senate",
-          "url": "https://www.retaildive.com/news/organized-retail-crime-bill-passes-house-bipartisan-vote/820105/",
-          "postedAt": "2026-05-13T16:30:00.000Z"
-        },
-        {
-          "id": "om_1a442dacfe",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Anthropic courts a new kind of customer: small business owners",
-          "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-          "postedAt": "2026-05-13T16:00:00.000Z"
-        },
-        {
-          "id": "om_86143104c9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How CMOs Should Actually Think About ROI",
-          "url": "https://www.adweek.com/brand-marketing/how-cmos-should-actually-think-about-roi/",
-          "postedAt": "2026-05-13T15:58:51.000Z"
-        },
-        {
-          "id": "om_458d7ecf03",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "On maintains momentum with record Q1 sales",
-          "url": "https://www.retaildive.com/news/on-running-q1-earnings-sales-growth-momentum/820094/",
-          "postedAt": "2026-05-13T15:51:00.000Z"
-        },
-        {
-          "id": "om_a808485f8e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Foot Locker debuts year-round basketball brand platform under new chief marketer",
-          "url": "https://www.retaildive.com/news/foot-locker-basketball-brand-platform-hoops-lives-here/819934/",
-          "postedAt": "2026-05-13T15:47:00.000Z"
-        },
-        {
-          "id": "om_f4141ab9db",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart to lay off or relocate 1,000 tech, product workers",
-          "url": "https://www.retaildive.com/news/walmart-layoffs-relocations-tech-product-workers/820110/",
-          "postedAt": "2026-05-13T15:37:00.000Z"
-        },
-        {
-          "id": "om_2232855358",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Amazon’s Alexa Is Powering a New Era of AI Shopping, and It’s Poised To Shake Up Ecommerce Advertising",
-          "url": "https://www.adweek.com/commerce/amazons-souped-up-ai-rebrand-with-alexa-reveals-its-advertising-growth-plans/",
-          "postedAt": "2026-05-13T15:09:03.000Z"
-        },
-        {
-          "id": "om_b6e87bdbc9",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
-          "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
-          "postedAt": "2026-05-13T14:59:32.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-14T04:12:28.573Z",
+      "lastUpdated": "2026-05-14T14:40:13.104Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
