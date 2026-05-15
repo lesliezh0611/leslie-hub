@@ -227,6 +227,87 @@
       ],
       "articles": [
         {
+          "id": "vc_gdb_d6a1d06fc2",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "codex for finding local businesses who may need help building a website:",
+          "url": "https://x.com/gdb/status/2055285857628676399",
+          "postedAt": "2026-05-15T13:55:08.000Z"
+        },
+        {
+          "id": "vc_steipete_2706372b40",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "QA and perf testing is paying off.",
+          "url": "https://x.com/steipete/status/2055275264590959078",
+          "postedAt": "2026-05-15T13:13:02.000Z"
+        },
+        {
+          "id": "vc_steipete_fda95982db",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "https://github.com/sqlc-dev/sqlc is pretty sweet",
+          "url": "https://x.com/steipete/status/2055209490887119098",
+          "postedAt": "2026-05-15T08:51:41.000Z"
+        },
+        {
+          "id": "vc_steipete_933064fb43",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "built a new feature into discrawl (store media), codex said it's done, then I used my codex review skill... https://github.com/steipete/agent-scripts/...",
+          "url": "https://x.com/steipete/status/2055203470941061600",
+          "postedAt": "2026-05-15T08:27:45.000Z"
+        },
+        {
+          "id": "vc_steipete_5fa85fbbac",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Christoph Nakazawa: Re @steipete I landed at the exact same workflow. I think it's over for coding 🫡",
+          "url": "https://x.com/steipete/status/2055203884147134569",
+          "postedAt": "2026-05-15T08:27:07.000Z"
+        },
+        {
+          "id": "vc_steipete_f2c79052ee",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "CodexBar 0.26.0 is live ⚡ Kiro, Antigravity, OpenRouter, Kimi 🧭 calmer menus + keyboard nav 📊 better Codex/Claude limits and cost scoping 📦 ...",
+          "url": "https://x.com/steipete/status/2055163690790334865",
+          "postedAt": "2026-05-15T05:49:41.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_7343ecc5dd",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2055129544903032832",
+          "url": "https://x.com/Khazix0918/status/2055144905375359477",
+          "postedAt": "2026-05-15T04:35:02.000Z"
+        },
+        {
+          "id": "vc_dotey_aed9781a37",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "不知道你们有没有用过微信聊天总结 Skill 里面的“毒舌版”，Claude 写的话有时候还挺“毒”的。 提示词是这样的： Roast 版基于普通版的话题骨架和素材，用毒舌...",
+          "url": "https://x.com/dotey/status/2055143967528726812",
+          "postedAt": "2026-05-15T04:31:19.000Z"
+        },
+        {
+          "id": "vc_dotey_a85d61f5db",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Bitcoin 玩家 cprkrn 在发帖说自己靠 Claude 找回了 11 年前丢掉的 5 个 BTC，按现价大约 40 万美元。 事情要追溯到十一年前。他当时嗑嗨了，改了钱包密码，转头...",
+          "url": "https://x.com/dotey/status/2055142106570600738",
+          "postedAt": "2026-05-15T04:23:55.000Z"
+        },
+        {
           "id": "vc_dotey_ec4bdfee23",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -245,30 +326,12 @@
           "postedAt": "2026-05-15T01:25:39.000Z"
         },
         {
-          "id": "vc_steipete_21b5823983",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Colin: Re @morganlinton @steipete It’s so good! Feels like opus days for me on codex now",
-          "url": "https://x.com/steipete/status/2055046901783814540",
-          "postedAt": "2026-05-14T21:54:59.000Z"
-        },
-        {
           "id": "vc_sama_0d2159ebb0",
           "source": "sama",
           "sourceName": "Sam Altman",
           "platform": "x",
           "title": "also all this:",
           "url": "https://x.com/sama/status/2055034714231345475",
-          "postedAt": "2026-05-14T21:17:11.000Z"
-        },
-        {
-          "id": "vc_steipete_ec28648ecd",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Morgan: Re @steipete Thanks Peter, I’ve been super impressed with how much OpenClaw has improved over the last month. As someone that’s been usin...",
-          "url": "https://x.com/steipete/status/2055041160381427803",
           "postedAt": "2026-05-14T21:17:11.000Z"
         },
         {
@@ -290,33 +353,6 @@
           "postedAt": "2026-05-14T20:55:28.000Z"
         },
         {
-          "id": "vc_steipete_df37cbbebf",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "We've been working really hard on performance, reliability, security, and stability. Invented whole new automation flows with crabbox, automated video...",
-          "url": "https://x.com/steipete/status/2055026017291370701",
-          "postedAt": "2026-05-14T20:42:37.000Z"
-        },
-        {
-          "id": "vc_steipete_58004ed0c1",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT OpenAI: You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and ap...",
-          "url": "https://x.com/steipete/status/2055026042155221132",
-          "postedAt": "2026-05-14T20:06:12.000Z"
-        },
-        {
-          "id": "vc_steipete_1107404ee2",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "mcporter 0.11.0 is live I use mcporter mainly as more stable browser automation cli these days and for agents to test MCPs without having to restart. ...",
-          "url": "https://x.com/steipete/status/2054986075232199038",
-          "postedAt": "2026-05-14T18:03:54.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_1a6bc8633c",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -326,15 +362,6 @@
           "postedAt": "2026-05-14T17:47:03.000Z"
         },
         {
-          "id": "vc_dotey_41f36b171e",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Tw93: 顺着最近发布的 Mole Mac 这个事情，想给大伙分享一下我这两天经历的神奇时刻。感谢这个去年在三亚泳池边的小玩具项目，让我认识了很多海外有趣的开发...",
-          "url": "https://x.com/dotey/status/2054985603440148574",
-          "postedAt": "2026-05-14T14:08:22.000Z"
-        },
-        {
           "id": "vc_Khazix0918_8b1eda11ea",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -342,15 +369,6 @@
           "title": "我靠！刚看到GitHub上，飞书CLI的star数过万了hhh 牛啊。。。 感觉那个周末一起床，发现飞书开源CLI才过去没几天==。",
           "url": "https://x.com/Khazix0918/status/2054902047766716476",
           "postedAt": "2026-05-14T12:30:01.000Z"
-        },
-        {
-          "id": "vc_dotey_cf8753f7df",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 响马: 人的欲望是无限的。写了 20 年代码的人，脑子里面有无数因为体力约束不能实现的点子，ai 不但没有剥夺他们的乐趣，反而成为他们的鸦片。 比如我。😎",
-          "url": "https://x.com/dotey/status/2054994121299775948",
-          "postedAt": "2026-05-14T08:04:19.000Z"
         },
         {
           "id": "vc_Khazix0918_12b6305ca4",
@@ -387,28 +405,10 @@
           "title": "great excitement from enterprises wanting to adopt codex",
           "url": "https://x.com/gdb/status/2054710146924683586",
           "postedAt": "2026-05-13T23:47:28.000Z"
-        },
-        {
-          "id": "vc_sama_ee4d33e53c",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "i get some anxiety not using the smartest-available model/settings. but sometimes i dont mind if it's really slow. i wonder if we should focus more on...",
-          "url": "https://x.com/sama/status/2054627102922797323",
-          "postedAt": "2026-05-13T18:17:29.000Z"
-        },
-        {
-          "id": "vc_sama_388c06e128",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "codex is the best AI coding product and we want to make it easy to try. for the next 30 days, we are giving companies that want to try switching over ...",
-          "url": "https://x.com/sama/status/2054626219858293128",
-          "postedAt": "2026-05-13T18:13:58.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-15T04:17:20.730Z",
+      "lastUpdated": "2026-05-15T14:34:48.031Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-15T04:17:21.844Z",
+      "lastUpdated": "2026-05-15T14:34:49.362Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,54 @@
       },
       "articles": [
         {
+          "id": "om_03c7b1b304",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Garnier taps ‘Love Island’ star to pitch hair ‘moose’ to next generation",
+          "url": "https://www.marketingdive.com/news/garnier-taps-love-island-star-to-pitch-hair-moose-to-next-generation/820237/",
+          "postedAt": "2026-05-15T13:00:00.000Z"
+        },
+        {
+          "id": "om_6e16459e35",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Social insights fail to reach decision-makers: Here’s what the numbers say",
+          "url": "https://www.marketingdive.com/news/social-insights-fail-to-reach-decision-makers-heres-what-the-numbers-say/820311/",
+          "postedAt": "2026-05-15T12:56:00.000Z"
+        },
+        {
+          "id": "om_2e37c027b2",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why would a social media platform tell you to get off your phone?",
+          "url": "https://www.marketingbrew.com/stories/pinterest-offline-experiential-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-15T10:00:00.000Z"
+        },
+        {
+          "id": "om_8991ed3156",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "One Quarter of North American Agencies Have Shifted to Fixed-Free Pricing",
+          "url": "https://www.adweek.com/agencies/one-quarter-of-north-american-agencies-have-shifted-to-fixed-free-pricing/",
+          "postedAt": "2026-05-15T09:00:00.000Z"
+        },
+        {
+          "id": "om_c9d9ecc597",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Marketers on the Move: Hires at Gap, Saucony, Fanatics, and More",
+          "url": "https://www.adweek.com/brand-marketing/marketers-on-the-move-hires-at-gap-saucony-fanatics-and-more/",
+          "postedAt": "2026-05-15T08:36:23.000Z"
+        },
+        {
+          "id": "om_2ef6144bfc",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 10 Campaigns That Caught Our Eye, From Dove to Hinge",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-10-campaigns-that-caught-our-eye-from-dove-to-hinge/",
+          "postedAt": "2026-05-15T06:00:00.000Z"
+        },
+        {
           "id": "om_9899c29342",
           "source": "Social Media Today",
           "lang": "en",
@@ -715,6 +763,14 @@
           "title": "LinkedIn plans to host gated, creator-led events",
           "url": "https://www.socialmediatoday.com/news/linkedin-plans-to-host-gated-creator-led-events/820319/",
           "postedAt": "2026-05-14T21:10:25.000Z"
+        },
+        {
+          "id": "om_fcfc823cd4",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "At Upfronts, Warner Bros. Discovery focuses on cultural influence over showmanship",
+          "url": "https://www.marketingbrew.com/stories/at-upfronts-warner-bros-discovery-focuses-on-cultural-influence-over-showmanship?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-14T21:01:17.000Z"
         },
         {
           "id": "om_330217cf24",
@@ -795,66 +851,10 @@
           "title": "Best Buy debuts consultation spaces within Ikea stores",
           "url": "https://www.retaildive.com/news/best-buy-ikea-expand-partnership-consultation-spaces/820219/",
           "postedAt": "2026-05-14T15:17:00.000Z"
-        },
-        {
-          "id": "om_6867aa5433",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "TikTok looks beyond brand discovery with travel booking and more",
-          "url": "https://www.marketingdive.com/news/tiktok-looks-beyond-brand-discovery-with-travel-booking-and-more/820227/",
-          "postedAt": "2026-05-14T15:00:00.000Z"
-        },
-        {
-          "id": "om_4f3bbd9b8d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Wacoal America’s new CEO on running a brand worn by many, known by few",
-          "url": "https://www.retaildive.com/news/wacoal-intimates-brand-awareness-retail-expansion/819933/",
-          "postedAt": "2026-05-14T14:39:00.000Z"
-        },
-        {
-          "id": "om_181940e3aa",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Netflix flexes new capabilities as ad biz doubles geographic reach",
-          "url": "https://www.marketingdive.com/news/netflix-flexes-new-capabilities-as-ad-biz-doubles-geographic-reach/820098/",
-          "postedAt": "2026-05-14T14:04:00.000Z"
-        },
-        {
-          "id": "om_a6611c42fc",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Rufus who? Alexa for Shopping brings AI to Amazon’s search bar",
-          "url": "https://www.retaildive.com/news/amazon-ai-alexa-for-shopping/820218/",
-          "postedAt": "2026-05-14T13:51:00.000Z"
-        },
-        {
-          "id": "om_fb2533f061",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Miller Lite puts 12-pack in soccer ball as part of World Cup campaign",
-          "url": "https://www.marketingdive.com/news/miller-lite-embraces-interest-in-world-cup-match-balls-in-new-campaign/820164/",
-          "postedAt": "2026-05-14T13:45:00.000Z"
-        },
-        {
-          "id": "om_9e37ed8efa",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "NBCU Ads Leader Says Brands Are Still Betting on Late Night TV",
-          "url": "https://www.adweek.com/convergent-tv/nbcu-ads-leader-says-brands-are-still-betting-on-late-night-tv/",
-          "postedAt": "2026-05-14T13:29:57.000Z"
-        },
-        {
-          "id": "om_760e7b8e96",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Svedka’s senior brand director on the vodka’s future-forward marketing",
-          "url": "https://www.marketingdive.com/news/svedkas-senior-brand-director-on-the-vodkas-future-forward-marketing/819502/",
-          "postedAt": "2026-05-14T12:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-15T04:18:01.617Z",
+      "lastUpdated": "2026-05-15T14:34:57.521Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
