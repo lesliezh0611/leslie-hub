@@ -227,13 +227,112 @@
       ],
       "articles": [
         {
-          "id": "vc_steipete_aad1e695b1",
+          "id": "vc_dotey_ec4bdfee23",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "看卡兹克提到飞书 CLI 的 star 数过万了，意料之中，飞书确实是目前国内 Agent 最友好平台，我自己也常用飞书 cli 抓去飞书文档为 markdown 和下载文档图片 通常...",
+          "url": "https://x.com/dotey/status/2055140306044027244",
+          "postedAt": "2026-05-15T04:16:46.000Z"
+        },
+        {
+          "id": "vc_dotey_1edadea407",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "http://x.com/i/article/2054823397448712192",
+          "url": "https://x.com/dotey/status/2055097242755706984",
+          "postedAt": "2026-05-15T01:25:39.000Z"
+        },
+        {
+          "id": "vc_steipete_21b5823983",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "I give up. I am not a human.",
-          "url": "https://x.com/steipete/status/2054907133993406800",
-          "postedAt": "2026-05-14T12:50:13.000Z"
+          "title": "RT Colin: Re @morganlinton @steipete It’s so good! Feels like opus days for me on codex now",
+          "url": "https://x.com/steipete/status/2055046901783814540",
+          "postedAt": "2026-05-14T21:54:59.000Z"
+        },
+        {
+          "id": "vc_sama_0d2159ebb0",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "also all this:",
+          "url": "https://x.com/sama/status/2055034714231345475",
+          "postedAt": "2026-05-14T21:17:11.000Z"
+        },
+        {
+          "id": "vc_steipete_ec28648ecd",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Morgan: Re @steipete Thanks Peter, I’ve been super impressed with how much OpenClaw has improved over the last month. As someone that’s been usin...",
+          "url": "https://x.com/steipete/status/2055041160381427803",
+          "postedAt": "2026-05-14T21:17:11.000Z"
+        },
+        {
+          "id": "vc_sama_ccf532785e",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "Codex in the ChatGPT mobile app!",
+          "url": "https://x.com/sama/status/2055034461591588916",
+          "postedAt": "2026-05-14T21:16:10.000Z"
+        },
+        {
+          "id": "vc_dotey_174f85574c",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "OpenAI 把 Codex 搬进了 ChatGPT 手机 App，今天在 iOS 和安卓上同步开启 preview，所有 ChatGPT 用户都能用，包括免费版和最低价的 Go 套餐。 手机端不是让你在...",
+          "url": "https://x.com/dotey/status/2055029251762422196",
+          "postedAt": "2026-05-14T20:55:28.000Z"
+        },
+        {
+          "id": "vc_steipete_df37cbbebf",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "We've been working really hard on performance, reliability, security, and stability. Invented whole new automation flows with crabbox, automated video...",
+          "url": "https://x.com/steipete/status/2055026017291370701",
+          "postedAt": "2026-05-14T20:42:37.000Z"
+        },
+        {
+          "id": "vc_steipete_58004ed0c1",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT OpenAI: You've been asking for this one... Now in preview: Codex in the ChatGPT mobile app. Start new work, review outputs, steer execution, and ap...",
+          "url": "https://x.com/steipete/status/2055026042155221132",
+          "postedAt": "2026-05-14T20:06:12.000Z"
+        },
+        {
+          "id": "vc_steipete_1107404ee2",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "mcporter 0.11.0 is live I use mcporter mainly as more stable browser automation cli these days and for agents to test MCPs without having to restart. ...",
+          "url": "https://x.com/steipete/status/2054986075232199038",
+          "postedAt": "2026-05-14T18:03:54.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_1a6bc8633c",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "I will be co-hosting an event in SF next Sat (5/23)! I've been thinking a lot about how to manage & curate CONTEXT for agents. I'm inviting everyone w...",
+          "url": "https://x.com/zarazhangrui/status/2054981832408760782",
+          "postedAt": "2026-05-14T17:47:03.000Z"
+        },
+        {
+          "id": "vc_dotey_41f36b171e",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT Tw93: 顺着最近发布的 Mole Mac 这个事情，想给大伙分享一下我这两天经历的神奇时刻。感谢这个去年在三亚泳池边的小玩具项目，让我认识了很多海外有趣的开发...",
+          "url": "https://x.com/dotey/status/2054985603440148574",
+          "postedAt": "2026-05-14T14:08:22.000Z"
         },
         {
           "id": "vc_Khazix0918_8b1eda11ea",
@@ -245,22 +344,13 @@
           "postedAt": "2026-05-14T12:30:01.000Z"
         },
         {
-          "id": "vc_steipete_f5a1a621ee",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Wrote a skill that runs codex /review in a loop until there's no booboos anymore. Caveat: It won't fix system architecture for ya, so you still need B...",
-          "url": "https://x.com/steipete/status/2054850632067019173",
-          "postedAt": "2026-05-14T09:05:42.000Z"
-        },
-        {
-          "id": "vc_dotey_4aa4117aa9",
+          "id": "vc_dotey_cf8753f7df",
           "source": "dotey",
           "sourceName": "宝玉",
           "platform": "x",
-          "title": "Cursor 的设计模式还挺好用的。 但是有个细节问题，当我 \"Plan New Idea\"，如果提示词使用的中文，那么生成的设计文档最好也是中文。现在每次我中文提示词，设计...",
-          "url": "https://x.com/dotey/status/2054818046515073316",
-          "postedAt": "2026-05-14T06:56:13.000Z"
+          "title": "RT 响马: 人的欲望是无限的。写了 20 年代码的人，脑子里面有无数因为体力约束不能实现的点子，ai 不但没有剥夺他们的乐趣，反而成为他们的鸦片。 比如我。😎",
+          "url": "https://x.com/dotey/status/2054994121299775948",
+          "postedAt": "2026-05-14T08:04:19.000Z"
         },
         {
           "id": "vc_Khazix0918_12b6305ca4",
@@ -272,24 +362,6 @@
           "postedAt": "2026-05-14T05:17:27.000Z"
         },
         {
-          "id": "vc_dotey_71e926032d",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Anthropic 刚推出 Claude for Small Business，把 AI 直接集成到 QuickBooks、PayPal、HubSpot、Canva、DocuSign 这些小企业每天用的工具里。你只要打开 Claude ...",
-          "url": "https://x.com/dotey/status/2054776883493904838",
-          "postedAt": "2026-05-14T04:12:39.000Z"
-        },
-        {
-          "id": "vc_dotey_059774217d",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "问：上下文（Context）和上下文窗口（Context Window）什么差别？ 这两个概念经常被混用，但其实指的是不同层面的东西： 上下文是指 AI Agent 在执行任务时实际...",
-          "url": "https://x.com/dotey/status/2054774181808488756",
-          "postedAt": "2026-05-14T04:01:55.000Z"
-        },
-        {
           "id": "vc_sama_5d1ef1db57",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -297,15 +369,6 @@
           "title": "being a dad is the thing that has most exceeded already-high-expectations in my whole life",
           "url": "https://x.com/sama/status/2054773491522822264",
           "postedAt": "2026-05-14T03:59:10.000Z"
-        },
-        {
-          "id": "vc_dotey_5bb4c8f398",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "baoyu-skills 新加了一个 Skill： 微信群聊总结 Skill：https://github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-wechat-summary 依赖于 wx-cli：https:...",
-          "url": "https://x.com/dotey/status/2054768295534846239",
-          "postedAt": "2026-05-14T03:38:32.000Z"
         },
         {
           "id": "vc_gdb_6b663b0451",
@@ -326,42 +389,6 @@
           "postedAt": "2026-05-13T23:47:28.000Z"
         },
         {
-          "id": "vc_steipete_755d015b95",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Omar Shahine: Shit wow I just gave my @openclaw Lobster a real phone number using @twilio and called him. Mind blown. Took 20 min to set up. I stil...",
-          "url": "https://x.com/steipete/status/2054803321756520606",
-          "postedAt": "2026-05-13T23:18:51.000Z"
-        },
-        {
-          "id": "vc_steipete_5a0c480e38",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Crabbox 0.13.0 is live 🧪 Modal sandbox runs 🧼 Full resync for stale workdirs 🪟 Native Windows script + preflight support 🔧 Clearer SSH/syn...",
-          "url": "https://x.com/steipete/status/2054690836613324997",
-          "postedAt": "2026-05-13T22:30:44.000Z"
-        },
-        {
-          "id": "vc_dotey_7e0a78fd57",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "还记得上次 Claude 停掉了 Claude Code 订阅在 OpenClaw 的调用吗？甚至连 claude -p 这种调用都限制了，不能再共享 Claude 订阅。 但当还留了个口子，就是基于 ...",
-          "url": "https://x.com/dotey/status/2054664841412092392",
-          "postedAt": "2026-05-13T20:47:26.000Z"
-        },
-        {
-          "id": "vc_steipete_893893e9e4",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Streaming an Android phone to my Mac in a data center via Tailscale + https://github.com/genymobile/scrcpy and my claw controls it via http://peekaboo...",
-          "url": "https://x.com/steipete/status/2054647734418756012",
-          "postedAt": "2026-05-13T19:39:28.000Z"
-        },
-        {
           "id": "vc_sama_ee4d33e53c",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -378,37 +405,10 @@
           "title": "codex is the best AI coding product and we want to make it easy to try. for the next 30 days, we are giving companies that want to try switching over ...",
           "url": "https://x.com/sama/status/2054626219858293128",
           "postedAt": "2026-05-13T18:13:58.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_e1bd5ecca0",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Calling for ugly PPTs I'm making a skill that turns any ugly PPT into a beautiful HTML deck with just one shot But first I need some samples of ugly P...",
-          "url": "https://x.com/zarazhangrui/status/2054625264286749138",
-          "postedAt": "2026-05-13T18:10:10.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_0a0fc82fca",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "半年前，我写了10个创作心法，没想到大家反响都特别好。 而这段时间，我给内部写的内容方法论也更新到了2.0。再加上最近我们有新的小伙伴入职，为了帮大家更好地...",
-          "url": "https://x.com/Khazix0918/status/2054512737368318388",
-          "postedAt": "2026-05-13T10:43:02.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_9c1266b9a6",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2054402933631184897",
-          "url": "https://x.com/Khazix0918/status/2054427838733042103",
-          "postedAt": "2026-05-13T05:05:40.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-14T14:40:08.852Z",
+      "lastUpdated": "2026-05-15T04:17:20.730Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_the_knowledge_project_c25daf02c3",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "[Outliers] Chung Ju-yung: The Hyundai Founder Who Put a Country on His Back",
+          "url": "https://fs.blog/knowledge-project-podcast/outliers-chung-ju-yung/",
+          "postedAt": "2026-05-14T09:50:00.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_d215fc76fc",
           "source": "Lenny's Podcast",
@@ -592,10 +600,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-14T14:40:10.459Z",
+      "lastUpdated": "2026-05-15T04:17:21.844Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -685,6 +693,118 @@
       },
       "articles": [
         {
+          "id": "om_9899c29342",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok announces activations for International Museum Day",
+          "url": "https://www.socialmediatoday.com/news/tiktok-announces-activations-for-international-museum-day/820324/",
+          "postedAt": "2026-05-14T21:40:39.000Z"
+        },
+        {
+          "id": "om_f1b241547e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Marc Jacobs to be acquired by Toys R Us parent company",
+          "url": "https://www.retaildive.com/news/marc-jacobs-to-be-acquired-by-toys-r-us-parent-company/820323/",
+          "postedAt": "2026-05-14T21:40:00.000Z"
+        },
+        {
+          "id": "om_dce2fe60f8",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "LinkedIn plans to host gated, creator-led events",
+          "url": "https://www.socialmediatoday.com/news/linkedin-plans-to-host-gated-creator-led-events/820319/",
+          "postedAt": "2026-05-14T21:10:25.000Z"
+        },
+        {
+          "id": "om_330217cf24",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "YouTube announces ad updates at 2026 Brandcast Event",
+          "url": "https://www.socialmediatoday.com/news/youtube-announces-ad-updates-at-2026-brandcast-event/820317/",
+          "postedAt": "2026-05-14T20:24:44.000Z"
+        },
+        {
+          "id": "om_8dba5a0424",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "YouTube puts creators of all sorts first at this year’s Brandcast",
+          "url": "https://www.marketingbrew.com/stories/youtube-creator-strategy-brandcast?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-14T20:11:09.000Z"
+        },
+        {
+          "id": "om_cfcc161d78",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Managing platforms, filming fandom, and approaching AI with care: Takeaways from our creator marketing event",
+          "url": "https://www.marketingbrew.com/stories/platforms-fandom-approaching-ai-creator-marketing?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-14T18:40:48.000Z"
+        },
+        {
+          "id": "om_8dc225b3b2",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Cup runneth over: Inside the alcohol brands pouring marketing into soccer this year",
+          "url": "https://www.marketingbrew.com/stories/alcohol-brands-world-cup-marketing-soccer?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-14T18:10:10.000Z"
+        },
+        {
+          "id": "om_fa7b8fc316",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK Commerce Advantage: Retail Media Is About To Take Even More TV Ad Spend",
+          "url": "https://www.adweek.com/commerce/adweek-commerce-advantage-retail-media-is-about-to-take-even-more-tv-ad-spend/",
+          "postedAt": "2026-05-14T17:09:55.000Z"
+        },
+        {
+          "id": "om_29f0fe9b67",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Purpose and Practice: Transforming Health Brands for the Modern Consumer",
+          "url": "https://www.adweek.com/brand-marketing/purpose-and-practice-transforming-health-brands-for-the-modern-consumer/",
+          "postedAt": "2026-05-14T16:27:11.000Z"
+        },
+        {
+          "id": "om_c930b17099",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Etsy debuts app in ChatGPT",
+          "url": "https://www.retaildive.com/news/etsy-debuts-chatgpt-app-ai-conversational-search/820083/",
+          "postedAt": "2026-05-14T16:24:00.000Z"
+        },
+        {
+          "id": "om_6e7654cf3c",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution",
+          "url": "https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/",
+          "postedAt": "2026-05-14T15:42:18.000Z"
+        },
+        {
+          "id": "om_3ebf9f90ed",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Dillard’s is so confident, it opened a new store",
+          "url": "https://www.retaildive.com/news/dillards-new-store-mall-macys-ohio-q1-earnings/820225/",
+          "postedAt": "2026-05-14T15:38:00.000Z"
+        },
+        {
+          "id": "om_4c15a089e1",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Best Buy debuts consultation spaces within Ikea stores",
+          "url": "https://www.retaildive.com/news/best-buy-ikea-expand-partnership-consultation-spaces/820219/",
+          "postedAt": "2026-05-14T15:17:00.000Z"
+        },
+        {
+          "id": "om_6867aa5433",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "TikTok looks beyond brand discovery with travel booking and more",
+          "url": "https://www.marketingdive.com/news/tiktok-looks-beyond-brand-discovery-with-travel-booking-and-more/820227/",
+          "postedAt": "2026-05-14T15:00:00.000Z"
+        },
+        {
           "id": "om_4f3bbd9b8d",
           "source": "Retail Dive",
           "lang": "en",
@@ -704,7 +824,7 @@
           "id": "om_a6611c42fc",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Amazon puts AI front and center with Alexa for Shopping",
+          "title": "Rufus who? Alexa for Shopping brings AI to Amazon’s search bar",
           "url": "https://www.retaildive.com/news/amazon-ai-alexa-for-shopping/820218/",
           "postedAt": "2026-05-14T13:51:00.000Z"
         },
@@ -717,12 +837,12 @@
           "postedAt": "2026-05-14T13:45:00.000Z"
         },
         {
-          "id": "om_1c008ec419",
-          "source": "The Verge",
+          "id": "om_9e37ed8efa",
+          "source": "Adweek",
           "lang": "en",
-          "title": "Dell and RAMageddon are watering down the Alienware brand",
-          "url": "https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding",
-          "postedAt": "2026-05-14T13:36:15.000Z"
+          "title": "NBCU Ads Leader Says Brands Are Still Betting on Late Night TV",
+          "url": "https://www.adweek.com/convergent-tv/nbcu-ads-leader-says-brands-are-still-betting-on-late-night-tv/",
+          "postedAt": "2026-05-14T13:29:57.000Z"
         },
         {
           "id": "om_760e7b8e96",
@@ -731,122 +851,10 @@
           "title": "Svedka’s senior brand director on the vodka’s future-forward marketing",
           "url": "https://www.marketingdive.com/news/svedkas-senior-brand-director-on-the-vodkas-future-forward-marketing/819502/",
           "postedAt": "2026-05-14T12:00:00.000Z"
-        },
-        {
-          "id": "om_253f9ab140",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "For its World Cup campaign, Lowe’s is betting big on Messi—literally",
-          "url": "https://www.marketingbrew.com/stories/world-cup-campaign-lowes-messi?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-14T12:00:00.000Z"
-        },
-        {
-          "id": "om_d43c9c3121",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Supergoop’s Lauren Weinberg on Mastering Human Centered-Marketing in an AI-Driven World",
-          "url": "https://www.adweek.com/brand-marketing/supergoops-lauren-weinberg-on-mastering-human-centered-marketing-in-an-ai-driven-world/",
-          "postedAt": "2026-05-14T10:21:26.000Z"
-        },
-        {
-          "id": "om_6782dd6e0b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Outgoing Weber Shandwick CEO Jim O’Leary Joins Penta",
-          "url": "https://www.adweek.com/agencies/outgoing-weber-shandwick-ceo-jim-oleary-joins-penta/",
-          "postedAt": "2026-05-14T10:15:39.000Z"
-        },
-        {
-          "id": "om_09be70723f",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside the White Sox's immaculate theme night strategy",
-          "url": "https://www.marketingbrew.com/stories/white-soxs-theme-nights-pope-hat?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-14T10:00:00.000Z"
-        },
-        {
-          "id": "om_c3a71a308b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Agencies Say New Cannes Lions Entry Rules Are ‘Burdensome,’ But Necessary",
-          "url": "https://www.adweek.com/agencies/agencies-say-new-cannes-lions-entry-rules-are-burdensome-but-necessary/",
-          "postedAt": "2026-05-14T06:00:00.000Z"
-        },
-        {
-          "id": "om_dc1e78d9f3",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Google Knocks Apple Out of First Place on Kantar’s Most Valuable Brands List",
-          "url": "https://www.adweek.com/brand-marketing/google-knocks-apple-out-of-first-place-on-kantars-most-valuable-brands-list/",
-          "postedAt": "2026-05-14T00:01:00.000Z"
-        },
-        {
-          "id": "om_8f6e8e2b06",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok introduces 2026 FIFA World Cup creator correspondents",
-          "url": "https://www.socialmediatoday.com/news/tiktok-introduces-2026-fifa-world-cup-creator-correspondents/820198/",
-          "postedAt": "2026-05-13T23:28:53.000Z"
-        },
-        {
-          "id": "om_1aec05eb8b",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Major ad tool announcements from TikTok World 2026",
-          "url": "https://www.socialmediatoday.com/news/major-ad-tool-announcements-from-tiktok-world-2026/820197/",
-          "postedAt": "2026-05-13T23:15:10.000Z"
-        },
-        {
-          "id": "om_8aa0b7151a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Retail Advertising Firm Stratacache Liquidates Its U.K. Business",
-          "url": "https://www.adweek.com/commerce/retail-advertising-firm-stratacache-liquidates-its-uk-business/",
-          "postedAt": "2026-05-13T19:51:13.000Z"
-        },
-        {
-          "id": "om_8d47ccefa3",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Stripe, Google partner on agentic commerce",
-          "url": "https://www.retaildive.com/news/stripe-google-partner-on-agentic-commerce/820088/",
-          "postedAt": "2026-05-13T19:20:00.000Z"
-        },
-        {
-          "id": "om_1363b36810",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Sports, stars, singing: With new CEO, Disney maintains splashy upfront strategy",
-          "url": "https://www.marketingbrew.com/stories/sports-stars-singing-disney-upfront?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-13T18:45:45.000Z"
-        },
-        {
-          "id": "om_ef2e2e4000",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "EXCLUSIVE: Amazon Scraps Planned API Fees After Backlash From Tech Firms",
-          "url": "https://www.adweek.com/commerce/exclusive-amazon-scraps-planned-api-fees-after-backlash-from-tech-firms/",
-          "postedAt": "2026-05-13T17:55:42.000Z"
-        },
-        {
-          "id": "om_45bc5dc44e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "YouTube Goes All-In on Creator Shows, Pitches Itself as the Future of Media",
-          "url": "https://www.adweek.com/convergent-tv/youtube-brandcast-2026-creators/",
-          "postedAt": "2026-05-13T17:30:00.000Z"
-        },
-        {
-          "id": "om_5c66324ba4",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Fox sticks to its upfronts script, focusing on streaming and sports",
-          "url": "https://www.marketingbrew.com/stories/fox-upfront-streaming-sports-baywatch?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-13T17:17:56.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-14T14:40:13.104Z",
+      "lastUpdated": "2026-05-15T04:18:01.617Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
