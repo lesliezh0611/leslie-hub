@@ -227,6 +227,51 @@
       ],
       "articles": [
         {
+          "id": "vc_gdb_77283c7010",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "codex for improving computational complexity",
+          "url": "https://x.com/gdb/status/2055646916499714488",
+          "postedAt": "2026-05-16T13:49:51.000Z"
+        },
+        {
+          "id": "vc_steipete_9cb71866ad",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Maksym Prokopov: Re @steipete Gave it a try and even addresses several findings in my pet project, thanks for sharing it Peter ❤️ https://prokopo...",
+          "url": "https://x.com/steipete/status/2055638903684509879",
+          "postedAt": "2026-05-16T13:16:37.000Z"
+        },
+        {
+          "id": "vc_steipete_3abafdac0c",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Looks like our focus on performance paid off.",
+          "url": "https://x.com/steipete/status/2055570810513850777",
+          "postedAt": "2026-05-16T08:47:26.000Z"
+        },
+        {
+          "id": "vc_dotey_c64378e919",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Codex Side Chat System Prompt: You are in a side conversation, not the main thread. This side conversation is for answering questions and lightweight ...",
+          "url": "https://x.com/dotey/status/2055551934317122014",
+          "postedAt": "2026-05-16T07:32:26.000Z"
+        },
+        {
+          "id": "vc_dotey_95028f5416",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "帮转 DeepSeek 招 Agent Harness 产品经理 职位描述 团队使命 Model + Harness = Agent 我们正在把 DeepSeek 的前沿模型能力，转化为领先的 Agent 产品。这其中...",
+          "url": "https://x.com/dotey/status/2055504619279675668",
+          "postedAt": "2026-05-16T04:24:25.000Z"
+        },
+        {
           "id": "vc_steipete_dc41978c04",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -236,11 +281,20 @@
           "postedAt": "2026-05-16T01:30:33.000Z"
         },
         {
+          "id": "vc_zarazhangrui_40bf3b59b7",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "RT swyx 🇸🇬 AIE Singapore!: holy shit lmao @Gavriel_Cohen he's seriously using this thing for conducting the foreign policy/parliamentary affairs...",
+          "url": "https://x.com/zarazhangrui/status/2055515190406566361",
+          "postedAt": "2026-05-16T00:58:25.000Z"
+        },
+        {
           "id": "vc_steipete_e3c61176f8",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "RT Vladimir Jeandillard 🚬: Re @pmarca The Goblins inside the LLM’s demand the tokens It makes sense Burn the tokens and the goblins shall rewards ...",
+          "title": "RT Vladimir Jeandillard ⌭: Re @pmarca The Goblins inside the LLM’s demand the tokens It makes sense Burn the tokens and the goblins shall rewards yo...",
           "url": "https://x.com/steipete/status/2055442310624616591",
           "postedAt": "2026-05-16T00:10:08.000Z"
         },
@@ -261,24 +315,6 @@
           "title": "run codex on every commit",
           "url": "https://x.com/gdb/status/2055436684666274020",
           "postedAt": "2026-05-15T23:54:28.000Z"
-        },
-        {
-          "id": "vc_steipete_0821d1abec",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Tyler Willis: Re @steipete I think a lot of people don't get that this will become accessible as the cost of intelligence continues to fall. Only a...",
-          "url": "https://x.com/steipete/status/2055416286344040887",
-          "postedAt": "2026-05-15T22:30:12.000Z"
-        },
-        {
-          "id": "vc_steipete_00b222a056",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Tahmeed Uzair Rahim: Honestly though - even my coo switched to using codex from Claude cowork",
-          "url": "https://x.com/steipete/status/2055407921035346334",
-          "postedAt": "2026-05-15T21:59:47.000Z"
         },
         {
           "id": "vc_dotey_9c61abe1d4",
@@ -344,24 +380,6 @@
           "postedAt": "2026-05-15T13:55:08.000Z"
         },
         {
-          "id": "vc_dotey_68d575c9e9",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Feiteng: 其实这些问题都能很好的解决了 1. 扔掉 whisper，换 ASR 模型，Qwen3-ASR 就很不错幻觉很少、也有一些别的ASR选择，whisper 幻觉多也要求 30s片段，...",
-          "url": "https://x.com/dotey/status/2055300067179774213",
-          "postedAt": "2026-05-15T10:43:14.000Z"
-        },
-        {
-          "id": "vc_dotey_0bf6ac107b",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Geek Lite: 为 macOS 原生 AppKit 打造的 Markdown 编辑器，基于 TextKit 2 构建并桥接到 SwiftUI。 https://github.com/nodes-app/swift-markdown-engine 这...",
-          "url": "https://x.com/dotey/status/2055328717165977680",
-          "postedAt": "2026-05-15T09:07:00.000Z"
-        },
-        {
           "id": "vc_Khazix0918_7343ecc5dd",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -387,28 +405,10 @@
           "title": "Codex in the ChatGPT mobile app!",
           "url": "https://x.com/sama/status/2055034461591588916",
           "postedAt": "2026-05-14T21:16:10.000Z"
-        },
-        {
-          "id": "vc_gdb_7e045f94e5",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "You can now use Codex, wherever you have it running, from the ChatGPT app. Huge step forward for universal usage of agents.",
-          "url": "https://x.com/gdb/status/2055034165968384099",
-          "postedAt": "2026-05-14T21:15:00.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_1a6bc8633c",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "I will be co-hosting an event in SF next Sat (5/23)! I've been thinking a lot about how to manage & curate CONTEXT for agents. I'm inviting everyone w...",
-          "url": "https://x.com/zarazhangrui/status/2054981832408760782",
-          "postedAt": "2026-05-14T17:47:03.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-16T04:01:09.480Z",
+      "lastUpdated": "2026-05-16T13:59:12.710Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-16T04:01:11.356Z",
+      "lastUpdated": "2026-05-16T13:59:14.028Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -854,7 +854,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-16T04:01:14.186Z",
+      "lastUpdated": "2026-05-16T13:59:16.285Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
