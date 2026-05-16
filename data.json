@@ -227,6 +227,114 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_dc41978c04",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Omar Shahine: When I started using @openclaw there were endless Blue Bubbles issues, PRs, regressions. It was a complex setup - webhook, password, ...",
+          "url": "https://x.com/steipete/status/2055464595423101074",
+          "postedAt": "2026-05-16T01:30:33.000Z"
+        },
+        {
+          "id": "vc_steipete_e3c61176f8",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Vladimir Jeandillard 🚬: Re @pmarca The Goblins inside the LLM’s demand the tokens It makes sense Burn the tokens and the goblins shall rewards ...",
+          "url": "https://x.com/steipete/status/2055442310624616591",
+          "postedAt": "2026-05-16T00:10:08.000Z"
+        },
+        {
+          "id": "vc_steipete_c454c2e9b6",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT OpenClaw🦞: Security in OpenClaw is getting sharper 🦞 🔒 fs-safe for root-bounded filesystem 🌐 Proxyline for policy-driven network egress...",
+          "url": "https://x.com/steipete/status/2055438393505394824",
+          "postedAt": "2026-05-15T23:58:44.000Z"
+        },
+        {
+          "id": "vc_gdb_4fb2c4f330",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "run codex on every commit",
+          "url": "https://x.com/gdb/status/2055436684666274020",
+          "postedAt": "2026-05-15T23:54:28.000Z"
+        },
+        {
+          "id": "vc_steipete_0821d1abec",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Tyler Willis: Re @steipete I think a lot of people don't get that this will become accessible as the cost of intelligence continues to fall. Only a...",
+          "url": "https://x.com/steipete/status/2055416286344040887",
+          "postedAt": "2026-05-15T22:30:12.000Z"
+        },
+        {
+          "id": "vc_steipete_00b222a056",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Tahmeed Uzair Rahim: Honestly though - even my coo switched to using codex from Claude cowork",
+          "url": "https://x.com/steipete/status/2055407921035346334",
+          "postedAt": "2026-05-15T21:59:47.000Z"
+        },
+        {
+          "id": "vc_dotey_9c61abe1d4",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "【ChatGPT 现在能看你的银行账户了】 OpenAI 今天给美国 Pro 用户开放了一个新功能：在 ChatGPT 里直接绑定银行、投资、信用卡等账户，看一个统一的资产 dashboa...",
+          "url": "https://x.com/dotey/status/2055365342445322385",
+          "postedAt": "2026-05-15T19:10:59.000Z"
+        },
+        {
+          "id": "vc_dotey_1874b3f4f6",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "ChatGPT 和 Codex 要合二为一 OpenAI 周五对内宣布新一轮组织调整。联合创始人兼总裁 Greg Brockman 正式接管公司产品战略，旗下 ChatGPT、编程智能体 Codex 以...",
+          "url": "https://x.com/dotey/status/2055357875262730608",
+          "postedAt": "2026-05-15T18:41:18.000Z"
+        },
+        {
+          "id": "vc_sama_87f4711775",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "i appreciate how seriously the team always takes these reports (even when the answer turns out to be 'i got used to the current level of magic and now...",
+          "url": "https://x.com/sama/status/2055356452286640630",
+          "postedAt": "2026-05-15T18:35:39.000Z"
+        },
+        {
+          "id": "vc_gdb_447acd3781",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Understand and manage your personal finances in ChatGPT. A further step towards ChatGPT becoming your personal agent, operating on your behalf 24/7, f...",
+          "url": "https://x.com/gdb/status/2055335361921130861",
+          "postedAt": "2026-05-15T17:11:51.000Z"
+        },
+        {
+          "id": "vc_sama_e50c551cfc",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "RT ChatGPT: A preview for Pro users: a new personal finance experience in ChatGPT. Pro users in the U.S. can securely connect financial accounts, see ...",
+          "url": "https://x.com/sama/status/2055355611848802803",
+          "postedAt": "2026-05-15T16:01:19.000Z"
+        },
+        {
+          "id": "vc_dotey_e6920420d6",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "老黄在北京体验豆汁前后的表情变化🐶 图源：https://www.weibo.com/3030737153/QFua0djaW",
+          "url": "https://x.com/dotey/status/2055310999654207508",
+          "postedAt": "2026-05-15T15:35:02.000Z"
+        },
+        {
           "id": "vc_gdb_d6a1d06fc2",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -236,49 +344,22 @@
           "postedAt": "2026-05-15T13:55:08.000Z"
         },
         {
-          "id": "vc_steipete_2706372b40",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
+          "id": "vc_dotey_68d575c9e9",
+          "source": "dotey",
+          "sourceName": "宝玉",
           "platform": "x",
-          "title": "QA and perf testing is paying off.",
-          "url": "https://x.com/steipete/status/2055275264590959078",
-          "postedAt": "2026-05-15T13:13:02.000Z"
+          "title": "RT Feiteng: 其实这些问题都能很好的解决了 1. 扔掉 whisper，换 ASR 模型，Qwen3-ASR 就很不错幻觉很少、也有一些别的ASR选择，whisper 幻觉多也要求 30s片段，...",
+          "url": "https://x.com/dotey/status/2055300067179774213",
+          "postedAt": "2026-05-15T10:43:14.000Z"
         },
         {
-          "id": "vc_steipete_fda95982db",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
+          "id": "vc_dotey_0bf6ac107b",
+          "source": "dotey",
+          "sourceName": "宝玉",
           "platform": "x",
-          "title": "https://github.com/sqlc-dev/sqlc is pretty sweet",
-          "url": "https://x.com/steipete/status/2055209490887119098",
-          "postedAt": "2026-05-15T08:51:41.000Z"
-        },
-        {
-          "id": "vc_steipete_933064fb43",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "built a new feature into discrawl (store media), codex said it's done, then I used my codex review skill... https://github.com/steipete/agent-scripts/...",
-          "url": "https://x.com/steipete/status/2055203470941061600",
-          "postedAt": "2026-05-15T08:27:45.000Z"
-        },
-        {
-          "id": "vc_steipete_5fa85fbbac",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Christoph Nakazawa: Re @steipete I landed at the exact same workflow. I think it's over for coding 🫡",
-          "url": "https://x.com/steipete/status/2055203884147134569",
-          "postedAt": "2026-05-15T08:27:07.000Z"
-        },
-        {
-          "id": "vc_steipete_f2c79052ee",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "CodexBar 0.26.0 is live ⚡ Kiro, Antigravity, OpenRouter, Kimi 🧭 calmer menus + keyboard nav 📊 better Codex/Claude limits and cost scoping 📦 ...",
-          "url": "https://x.com/steipete/status/2055163690790334865",
-          "postedAt": "2026-05-15T05:49:41.000Z"
+          "title": "RT Geek Lite: 为 macOS 原生 AppKit 打造的 Markdown 编辑器，基于 TextKit 2 构建并桥接到 SwiftUI。 https://github.com/nodes-app/swift-markdown-engine 这...",
+          "url": "https://x.com/dotey/status/2055328717165977680",
+          "postedAt": "2026-05-15T09:07:00.000Z"
         },
         {
           "id": "vc_Khazix0918_7343ecc5dd",
@@ -288,42 +369,6 @@
           "title": "http://x.com/i/article/2055129544903032832",
           "url": "https://x.com/Khazix0918/status/2055144905375359477",
           "postedAt": "2026-05-15T04:35:02.000Z"
-        },
-        {
-          "id": "vc_dotey_aed9781a37",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "不知道你们有没有用过微信聊天总结 Skill 里面的“毒舌版”，Claude 写的话有时候还挺“毒”的。 提示词是这样的： Roast 版基于普通版的话题骨架和素材，用毒舌...",
-          "url": "https://x.com/dotey/status/2055143967528726812",
-          "postedAt": "2026-05-15T04:31:19.000Z"
-        },
-        {
-          "id": "vc_dotey_a85d61f5db",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Bitcoin 玩家 cprkrn 在发帖说自己靠 Claude 找回了 11 年前丢掉的 5 个 BTC，按现价大约 40 万美元。 事情要追溯到十一年前。他当时嗑嗨了，改了钱包密码，转头...",
-          "url": "https://x.com/dotey/status/2055142106570600738",
-          "postedAt": "2026-05-15T04:23:55.000Z"
-        },
-        {
-          "id": "vc_dotey_ec4bdfee23",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "看卡兹克提到飞书 CLI 的 star 数过万了，意料之中，飞书确实是目前国内 Agent 最友好平台，我自己也常用飞书 cli 抓去飞书文档为 markdown 和下载文档图片 通常...",
-          "url": "https://x.com/dotey/status/2055140306044027244",
-          "postedAt": "2026-05-15T04:16:46.000Z"
-        },
-        {
-          "id": "vc_dotey_1edadea407",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "http://x.com/i/article/2054823397448712192",
-          "url": "https://x.com/dotey/status/2055097242755706984",
-          "postedAt": "2026-05-15T01:25:39.000Z"
         },
         {
           "id": "vc_sama_0d2159ebb0",
@@ -344,13 +389,13 @@
           "postedAt": "2026-05-14T21:16:10.000Z"
         },
         {
-          "id": "vc_dotey_174f85574c",
-          "source": "dotey",
-          "sourceName": "宝玉",
+          "id": "vc_gdb_7e045f94e5",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
           "platform": "x",
-          "title": "OpenAI 把 Codex 搬进了 ChatGPT 手机 App，今天在 iOS 和安卓上同步开启 preview，所有 ChatGPT 用户都能用，包括免费版和最低价的 Go 套餐。 手机端不是让你在...",
-          "url": "https://x.com/dotey/status/2055029251762422196",
-          "postedAt": "2026-05-14T20:55:28.000Z"
+          "title": "You can now use Codex, wherever you have it running, from the ChatGPT app. Huge step forward for universal usage of agents.",
+          "url": "https://x.com/gdb/status/2055034165968384099",
+          "postedAt": "2026-05-14T21:15:00.000Z"
         },
         {
           "id": "vc_zarazhangrui_1a6bc8633c",
@@ -360,55 +405,10 @@
           "title": "I will be co-hosting an event in SF next Sat (5/23)! I've been thinking a lot about how to manage & curate CONTEXT for agents. I'm inviting everyone w...",
           "url": "https://x.com/zarazhangrui/status/2054981832408760782",
           "postedAt": "2026-05-14T17:47:03.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_8b1eda11ea",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "我靠！刚看到GitHub上，飞书CLI的star数过万了hhh 牛啊。。。 感觉那个周末一起床，发现飞书开源CLI才过去没几天==。",
-          "url": "https://x.com/Khazix0918/status/2054902047766716476",
-          "postedAt": "2026-05-14T12:30:01.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_12b6305ca4",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2054779060820275200",
-          "url": "https://x.com/Khazix0918/status/2054793191094903025",
-          "postedAt": "2026-05-14T05:17:27.000Z"
-        },
-        {
-          "id": "vc_sama_5d1ef1db57",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "being a dad is the thing that has most exceeded already-high-expectations in my whole life",
-          "url": "https://x.com/sama/status/2054773491522822264",
-          "postedAt": "2026-05-14T03:59:10.000Z"
-        },
-        {
-          "id": "vc_gdb_6b663b0451",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "How we built the Codex sandbox for Windows:",
-          "url": "https://x.com/gdb/status/2054744721570820444",
-          "postedAt": "2026-05-14T02:04:51.000Z"
-        },
-        {
-          "id": "vc_gdb_2310bd0a58",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "great excitement from enterprises wanting to adopt codex",
-          "url": "https://x.com/gdb/status/2054710146924683586",
-          "postedAt": "2026-05-13T23:47:28.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-15T14:34:48.031Z",
+      "lastUpdated": "2026-05-16T04:01:09.480Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-15T14:34:49.362Z",
+      "lastUpdated": "2026-05-16T04:01:11.356Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,54 @@
       },
       "articles": [
         {
+          "id": "om_e226d1a38a",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Coworking with Charlie Tetrick",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-charlie-tetrick?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-15T20:44:21.000Z"
+        },
+        {
+          "id": "om_d54849458c",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "The best jokes from this year’s upfronts",
+          "url": "https://www.marketingbrew.com/stories/the-best-jokes-from-this-years-upfronts?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-15T17:49:03.000Z"
+        },
+        {
+          "id": "om_0e13645b26",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "The highs and lows from this year’s upfronts",
+          "url": "https://www.marketingbrew.com/stories/highs-and-lows-2026-upfronts?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-15T17:43:15.000Z"
+        },
+        {
+          "id": "om_e9b5d0a24c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Department stores losing market share to resale",
+          "url": "https://www.retaildive.com/news/department-stores-lose-market-share-resale-secondhand-apparel/820346/",
+          "postedAt": "2026-05-15T16:31:00.000Z"
+        },
+        {
+          "id": "om_88358c634d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Bed Bath & Beyond’s first co-branded store with The Container Store will open Saturday",
+          "url": "https://www.retaildive.com/news/bed-bath-beyond-container-store-cobranded-store-opens-texas/820360/",
+          "postedAt": "2026-05-15T16:10:00.000Z"
+        },
+        {
+          "id": "om_7914e57578",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: Another entertainment exec at Gap Inc., and tariff refunds trickle in",
+          "url": "https://www.retaildive.com/news/weekly-closeout-gap-leadership-tariff-refunds-retailers/820306/",
+          "postedAt": "2026-05-15T15:48:00.000Z"
+        },
+        {
           "id": "om_03c7b1b304",
           "source": "Marketing Dive",
           "lang": "en",
@@ -709,6 +757,14 @@
           "postedAt": "2026-05-15T12:56:00.000Z"
         },
         {
+          "id": "om_289bbe40e9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Week of May 4 Cable News Ratings: CNN Only Network With Growth",
+          "url": "https://www.adweek.com/tvnewser/week-of-may-4-2026-cable-news-ratings/",
+          "postedAt": "2026-05-15T12:31:21.000Z"
+        },
+        {
           "id": "om_2e37c027b2",
           "source": "Marketing Brew",
           "lang": "en",
@@ -720,7 +776,7 @@
           "id": "om_8991ed3156",
           "source": "Adweek",
           "lang": "en",
-          "title": "One Quarter of North American Agencies Have Shifted to Fixed-Free Pricing",
+          "title": "One Quarter of North American Agencies Have Shifted to Fixed-Fee Pricing",
           "url": "https://www.adweek.com/agencies/one-quarter-of-north-american-agencies-have-shifted-to-fixed-free-pricing/",
           "postedAt": "2026-05-15T09:00:00.000Z"
         },
@@ -789,72 +845,16 @@
           "postedAt": "2026-05-14T20:11:09.000Z"
         },
         {
-          "id": "om_cfcc161d78",
+          "id": "om_3df3328bb2",
           "source": "Marketing Brew",
           "lang": "en",
-          "title": "Managing platforms, filming fandom, and approaching AI with care: Takeaways from our creator marketing event",
-          "url": "https://www.marketingbrew.com/stories/platforms-fandom-approaching-ai-creator-marketing?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-14T18:40:48.000Z"
-        },
-        {
-          "id": "om_8dc225b3b2",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Cup runneth over: Inside the alcohol brands pouring marketing into soccer this year",
-          "url": "https://www.marketingbrew.com/stories/alcohol-brands-world-cup-marketing-soccer?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-14T18:10:10.000Z"
-        },
-        {
-          "id": "om_fa7b8fc316",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK Commerce Advantage: Retail Media Is About To Take Even More TV Ad Spend",
-          "url": "https://www.adweek.com/commerce/adweek-commerce-advantage-retail-media-is-about-to-take-even-more-tv-ad-spend/",
-          "postedAt": "2026-05-14T17:09:55.000Z"
-        },
-        {
-          "id": "om_29f0fe9b67",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Purpose and Practice: Transforming Health Brands for the Modern Consumer",
-          "url": "https://www.adweek.com/brand-marketing/purpose-and-practice-transforming-health-brands-for-the-modern-consumer/",
-          "postedAt": "2026-05-14T16:27:11.000Z"
-        },
-        {
-          "id": "om_c930b17099",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Etsy debuts app in ChatGPT",
-          "url": "https://www.retaildive.com/news/etsy-debuts-chatgpt-app-ai-conversational-search/820083/",
-          "postedAt": "2026-05-14T16:24:00.000Z"
-        },
-        {
-          "id": "om_6e7654cf3c",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution",
-          "url": "https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/",
-          "postedAt": "2026-05-14T15:42:18.000Z"
-        },
-        {
-          "id": "om_3ebf9f90ed",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Dillard’s is so confident, it opened a new store",
-          "url": "https://www.retaildive.com/news/dillards-new-store-mall-macys-ohio-q1-earnings/820225/",
-          "postedAt": "2026-05-14T15:38:00.000Z"
-        },
-        {
-          "id": "om_4c15a089e1",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Best Buy debuts consultation spaces within Ikea stores",
-          "url": "https://www.retaildive.com/news/best-buy-ikea-expand-partnership-consultation-spaces/820219/",
-          "postedAt": "2026-05-14T15:17:00.000Z"
+          "title": "At upfronts, Netflix says its vast library is what makes it ‘formidable’",
+          "url": "https://www.marketingbrew.com/stories/netflix-upfronts-pitch-library-content-breadth-scale?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-14T18:52:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-15T14:34:57.521Z",
+      "lastUpdated": "2026-05-16T04:01:14.186Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
