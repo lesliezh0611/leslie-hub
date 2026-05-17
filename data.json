@@ -227,6 +227,24 @@
       ],
       "articles": [
         {
+          "id": "vc_gdb_3a4a0a2c4c",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "you can just build things from your phone, with Codex in the ChatGPT app",
+          "url": "https://x.com/gdb/status/2055882172884763012",
+          "postedAt": "2026-05-17T05:24:41.000Z"
+        },
+        {
+          "id": "vc_steipete_bca0fdeac6",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Christoph Nakazawa: Codiff 0.1 is out * Fast Local Code Reviews * Optional LLM Walkthroughs * Inline Review Comments This is the best companion for...",
+          "url": "https://x.com/steipete/status/2055891876121608390",
+          "postedAt": "2026-05-17T05:20:59.000Z"
+        },
+        {
           "id": "vc_dotey_522dbe1b57",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -252,6 +270,15 @@
           "title": "http://x.com/i/article/2055813152315461632",
           "url": "https://x.com/dotey/status/2055819034671604048",
           "postedAt": "2026-05-17T01:13:47.000Z"
+        },
+        {
+          "id": "vc_steipete_8722b6fe42",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT josh avant: Just using Crabbox and it needed me to perform a browser-based OAuth flow.... so my clanker opened up a browser window w/ an active Web...",
+          "url": "https://x.com/steipete/status/2055959038190371133",
+          "postedAt": "2026-05-17T00:02:10.000Z"
         },
         {
           "id": "vc_gdb_9f378bc54e",
@@ -308,15 +335,6 @@
           "postedAt": "2026-05-16T20:34:02.000Z"
         },
         {
-          "id": "vc_steipete_3ca0cb9fe2",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "deslop your Claude code if you haven’t yet switched to Codex.",
-          "url": "https://x.com/steipete/status/2055747016727167035",
-          "postedAt": "2026-05-16T20:27:37.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_c19df08985",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -333,24 +351,6 @@
           "title": "每次 Codex 一重置就后悔之前没多用一点",
           "url": "https://x.com/dotey/status/2055725633603260439",
           "postedAt": "2026-05-16T19:02:39.000Z"
-        },
-        {
-          "id": "vc_gdb_3e08419823",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "using codex from the ChatGPT app is such a freeing experience. makes you realize how tethered you normally are to your computer.",
-          "url": "https://x.com/gdb/status/2055716225137701202",
-          "postedAt": "2026-05-16T18:25:16.000Z"
-        },
-        {
-          "id": "vc_steipete_7171d40dc6",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Tibo: Codex usage limits have now been reset across all paid plans. Enjoy the weekend!",
-          "url": "https://x.com/steipete/status/2055712920995090623",
-          "postedAt": "2026-05-16T17:51:03.000Z"
         },
         {
           "id": "vc_dotey_a793cbdb49",
@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-17T04:22:12.605Z",
+      "lastUpdated": "2026-05-17T13:56:39.297Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_17a7906d79",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Why we’re at the beginning of the AI hardware boom | Caitlin Kalinowski (ex–OpenAI, Meta, Apple)",
+          "url": "https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the",
+          "postedAt": "2026-05-17T12:31:57.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_19dd64f7ab",
           "source": "Lenny's Podcast",
@@ -542,14 +550,6 @@
           "topic": "🎙️ This week on How I AI: The internal AI tool that’s transforming how Stripe designs products",
           "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-internal",
           "postedAt": "2026-05-04T15:01:56.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_a05e40ad20",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "The internal AI tool that’s transforming how Stripe designs products | Owen Williams",
-          "url": "https://www.lennysnewsletter.com/p/the-internal-ai-tool-thats-transforming",
-          "postedAt": "2026-05-04T12:03:59.000Z"
         }
       ],
       "books": [
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-17T04:22:13.802Z",
+      "lastUpdated": "2026-05-17T13:56:40.898Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -854,7 +854,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-17T04:22:16.178Z",
+      "lastUpdated": "2026-05-17T13:56:43.868Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
