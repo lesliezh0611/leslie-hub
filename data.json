@@ -227,31 +227,139 @@
       ],
       "articles": [
         {
-          "id": "vc_gdb_77283c7010",
+          "id": "vc_dotey_522dbe1b57",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Writing -> Opus 4.6 is the best Translation -> Gemini 3.1 Pro is the best",
+          "url": "https://x.com/dotey/status/2055860356044509417",
+          "postedAt": "2026-05-17T03:57:59.000Z"
+        },
+        {
+          "id": "vc_steipete_780857701c",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Blake: codex fixed my claude code set up and now its 100x better. Maybe i just need codex.",
+          "url": "https://x.com/steipete/status/2055856657389785210",
+          "postedAt": "2026-05-17T02:31:49.000Z"
+        },
+        {
+          "id": "vc_dotey_f79c247327",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "http://x.com/i/article/2055813152315461632",
+          "url": "https://x.com/dotey/status/2055819034671604048",
+          "postedAt": "2026-05-17T01:13:47.000Z"
+        },
+        {
+          "id": "vc_gdb_9f378bc54e",
           "source": "gdb",
           "sourceName": "Greg Brockman",
           "platform": "x",
-          "title": "codex for improving computational complexity",
-          "url": "https://x.com/gdb/status/2055646916499714488",
-          "postedAt": "2026-05-16T13:49:51.000Z"
+          "title": "tokens are rapidly becoming the universal input for solving problems",
+          "url": "https://x.com/gdb/status/2055791741320733158",
+          "postedAt": "2026-05-16T23:25:20.000Z"
         },
         {
-          "id": "vc_steipete_9cb71866ad",
+          "id": "vc_steipete_8487d05dd2",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "RT Maksym Prokopov: Re @steipete Gave it a try and even addresses several findings in my pet project, thanks for sharing it Peter ❤️ https://prokopo...",
-          "url": "https://x.com/steipete/status/2055638903684509879",
-          "postedAt": "2026-05-16T13:16:37.000Z"
+          "title": "my brain: don't read the hacker news comments, don't read the hacker news comments me: reads the hacker news comments",
+          "url": "https://x.com/steipete/status/2055775661755715974",
+          "postedAt": "2026-05-16T22:21:26.000Z"
         },
         {
-          "id": "vc_steipete_3abafdac0c",
+          "id": "vc_gdb_6bc59bc756",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Countrywide ChatGPT Plus access for Malta:",
+          "url": "https://x.com/gdb/status/2055774659379908926",
+          "postedAt": "2026-05-16T22:17:27.000Z"
+        },
+        {
+          "id": "vc_gdb_b8cb4dce91",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "chronicle makes you realize how quickly you forget what you’ve been doing all day",
+          "url": "https://x.com/gdb/status/2055769256399114677",
+          "postedAt": "2026-05-16T21:55:59.000Z"
+        },
+        {
+          "id": "vc_steipete_cdcfe5ed9d",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "Looks like our focus on performance paid off.",
-          "url": "https://x.com/steipete/status/2055570810513850777",
-          "postedAt": "2026-05-16T08:47:26.000Z"
+          "title": "RT Daniel Endara: Re I tried http://clawpatch.ai on a smaller project. It worked very well. What I did like is I had Codex ( no setup necessary ) get ...",
+          "url": "https://x.com/steipete/status/2055777908854022645",
+          "postedAt": "2026-05-16T21:22:38.000Z"
+        },
+        {
+          "id": "vc_gdb_3b2bf47f0f",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "keep the feedback coming, team will keep shipping",
+          "url": "https://x.com/gdb/status/2055748633723576437",
+          "postedAt": "2026-05-16T20:34:02.000Z"
+        },
+        {
+          "id": "vc_steipete_3ca0cb9fe2",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "deslop your Claude code if you haven’t yet switched to Codex.",
+          "url": "https://x.com/steipete/status/2055747016727167035",
+          "postedAt": "2026-05-16T20:27:37.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_c19df08985",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "AI psychosis: cycling between two mental states every single day ↑ after using coding agents: holy shit I'm omnipotent. I can build anything. I've ne...",
+          "url": "https://x.com/zarazhangrui/status/2055728641913536762",
+          "postedAt": "2026-05-16T19:14:36.000Z"
+        },
+        {
+          "id": "vc_dotey_aeb865e5f9",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "每次 Codex 一重置就后悔之前没多用一点",
+          "url": "https://x.com/dotey/status/2055725633603260439",
+          "postedAt": "2026-05-16T19:02:39.000Z"
+        },
+        {
+          "id": "vc_gdb_3e08419823",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "using codex from the ChatGPT app is such a freeing experience. makes you realize how tethered you normally are to your computer.",
+          "url": "https://x.com/gdb/status/2055716225137701202",
+          "postedAt": "2026-05-16T18:25:16.000Z"
+        },
+        {
+          "id": "vc_steipete_7171d40dc6",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Tibo: Codex usage limits have now been reset across all paid plans. Enjoy the weekend!",
+          "url": "https://x.com/steipete/status/2055712920995090623",
+          "postedAt": "2026-05-16T17:51:03.000Z"
+        },
+        {
+          "id": "vc_dotey_a793cbdb49",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "让 AI 干很长时间的活，核心是规划和验证： 1. 如原推那样规划成小的阶段 2. 另外每个阶段最好有明确的验证方法，这一步很重要，可以是自动化测试（单元测试、集...",
+          "url": "https://x.com/dotey/status/2055682292937326638",
+          "postedAt": "2026-05-16T16:10:26.000Z"
         },
         {
           "id": "vc_dotey_c64378e919",
@@ -263,24 +371,6 @@
           "postedAt": "2026-05-16T07:32:26.000Z"
         },
         {
-          "id": "vc_dotey_95028f5416",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "帮转 DeepSeek 招 Agent Harness 产品经理 职位描述 团队使命 Model + Harness = Agent 我们正在把 DeepSeek 的前沿模型能力，转化为领先的 Agent 产品。这其中...",
-          "url": "https://x.com/dotey/status/2055504619279675668",
-          "postedAt": "2026-05-16T04:24:25.000Z"
-        },
-        {
-          "id": "vc_steipete_dc41978c04",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Omar Shahine: When I started using @openclaw there were endless Blue Bubbles issues, PRs, regressions. It was a complex setup - webhook, password, ...",
-          "url": "https://x.com/steipete/status/2055464595423101074",
-          "postedAt": "2026-05-16T01:30:33.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_40bf3b59b7",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -288,51 +378,6 @@
           "title": "RT swyx 🇸🇬 AIE Singapore!: holy shit lmao @Gavriel_Cohen he's seriously using this thing for conducting the foreign policy/parliamentary affairs...",
           "url": "https://x.com/zarazhangrui/status/2055515190406566361",
           "postedAt": "2026-05-16T00:58:25.000Z"
-        },
-        {
-          "id": "vc_steipete_e3c61176f8",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Vladimir Jeandillard ⌭: Re @pmarca The Goblins inside the LLM’s demand the tokens It makes sense Burn the tokens and the goblins shall rewards yo...",
-          "url": "https://x.com/steipete/status/2055442310624616591",
-          "postedAt": "2026-05-16T00:10:08.000Z"
-        },
-        {
-          "id": "vc_steipete_c454c2e9b6",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT OpenClaw🦞: Security in OpenClaw is getting sharper 🦞 🔒 fs-safe for root-bounded filesystem 🌐 Proxyline for policy-driven network egress...",
-          "url": "https://x.com/steipete/status/2055438393505394824",
-          "postedAt": "2026-05-15T23:58:44.000Z"
-        },
-        {
-          "id": "vc_gdb_4fb2c4f330",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "run codex on every commit",
-          "url": "https://x.com/gdb/status/2055436684666274020",
-          "postedAt": "2026-05-15T23:54:28.000Z"
-        },
-        {
-          "id": "vc_dotey_9c61abe1d4",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "【ChatGPT 现在能看你的银行账户了】 OpenAI 今天给美国 Pro 用户开放了一个新功能：在 ChatGPT 里直接绑定银行、投资、信用卡等账户，看一个统一的资产 dashboa...",
-          "url": "https://x.com/dotey/status/2055365342445322385",
-          "postedAt": "2026-05-15T19:10:59.000Z"
-        },
-        {
-          "id": "vc_dotey_1874b3f4f6",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "ChatGPT 和 Codex 要合二为一 OpenAI 周五对内宣布新一轮组织调整。联合创始人兼总裁 Greg Brockman 正式接管公司产品战略，旗下 ChatGPT、编程智能体 Codex 以...",
-          "url": "https://x.com/dotey/status/2055357875262730608",
-          "postedAt": "2026-05-15T18:41:18.000Z"
         },
         {
           "id": "vc_sama_87f4711775",
@@ -344,15 +389,6 @@
           "postedAt": "2026-05-15T18:35:39.000Z"
         },
         {
-          "id": "vc_gdb_447acd3781",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Understand and manage your personal finances in ChatGPT. A further step towards ChatGPT becoming your personal agent, operating on your behalf 24/7, f...",
-          "url": "https://x.com/gdb/status/2055335361921130861",
-          "postedAt": "2026-05-15T17:11:51.000Z"
-        },
-        {
           "id": "vc_sama_e50c551cfc",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -362,24 +398,6 @@
           "postedAt": "2026-05-15T16:01:19.000Z"
         },
         {
-          "id": "vc_dotey_e6920420d6",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "老黄在北京体验豆汁前后的表情变化🐶 图源：https://www.weibo.com/3030737153/QFua0djaW",
-          "url": "https://x.com/dotey/status/2055310999654207508",
-          "postedAt": "2026-05-15T15:35:02.000Z"
-        },
-        {
-          "id": "vc_gdb_d6a1d06fc2",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "codex for finding local businesses who may need help building a website:",
-          "url": "https://x.com/gdb/status/2055285857628676399",
-          "postedAt": "2026-05-15T13:55:08.000Z"
-        },
-        {
           "id": "vc_Khazix0918_7343ecc5dd",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -387,28 +405,10 @@
           "title": "http://x.com/i/article/2055129544903032832",
           "url": "https://x.com/Khazix0918/status/2055144905375359477",
           "postedAt": "2026-05-15T04:35:02.000Z"
-        },
-        {
-          "id": "vc_sama_0d2159ebb0",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "also all this:",
-          "url": "https://x.com/sama/status/2055034714231345475",
-          "postedAt": "2026-05-14T21:17:11.000Z"
-        },
-        {
-          "id": "vc_sama_ccf532785e",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "Codex in the ChatGPT mobile app!",
-          "url": "https://x.com/sama/status/2055034461591588916",
-          "postedAt": "2026-05-14T21:16:10.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-16T13:59:12.710Z",
+      "lastUpdated": "2026-05-17T04:22:12.605Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_19dd64f7ab",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: Screening AI slop in hiring, Wispr Flow alternatives for voice transcription, multi-agent pipeline vs. MCP, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-screening-ai-slop",
+          "postedAt": "2026-05-16T21:46:34.000Z"
+        },
         {
           "id": "en_pod_the_knowledge_project_c25daf02c3",
           "source": "The Knowledge Project",
@@ -542,14 +550,6 @@
           "topic": "The internal AI tool that’s transforming how Stripe designs products | Owen Williams",
           "url": "https://www.lennysnewsletter.com/p/the-internal-ai-tool-thats-transforming",
           "postedAt": "2026-05-04T12:03:59.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_d426aeca08",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Why cultivating agency matters more than cultivating skills in the AI era | Max Schoening (Head of Product, Notion)",
-          "url": "https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more",
-          "postedAt": "2026-05-03T12:30:59.000Z"
         }
       ],
       "books": [
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-16T13:59:14.028Z",
+      "lastUpdated": "2026-05-17T04:22:13.802Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -692,6 +692,22 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_b391aa045b",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
+          "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+          "postedAt": "2026-05-16T19:26:14.000Z"
+        },
+        {
+          "id": "om_f0002791ae",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Snap, YouTube, and TikTok settle suit over harm to students",
+          "url": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
+          "postedAt": "2026-05-16T18:34:23.000Z"
+        },
         {
           "id": "om_e226d1a38a",
           "source": "Marketing Brew",
@@ -835,26 +851,10 @@
           "title": "YouTube announces ad updates at 2026 Brandcast Event",
           "url": "https://www.socialmediatoday.com/news/youtube-announces-ad-updates-at-2026-brandcast-event/820317/",
           "postedAt": "2026-05-14T20:24:44.000Z"
-        },
-        {
-          "id": "om_8dba5a0424",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "YouTube puts creators of all sorts first at this year’s Brandcast",
-          "url": "https://www.marketingbrew.com/stories/youtube-creator-strategy-brandcast?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-14T20:11:09.000Z"
-        },
-        {
-          "id": "om_3df3328bb2",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "At upfronts, Netflix says its vast library is what makes it ‘formidable’",
-          "url": "https://www.marketingbrew.com/stories/netflix-upfronts-pitch-library-content-breadth-scale?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-14T18:52:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-16T13:59:16.285Z",
+      "lastUpdated": "2026-05-17T04:22:16.178Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
