@@ -227,6 +227,87 @@
       ],
       "articles": [
         {
+          "id": "vc_gdb_1bab0ca9c0",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Codex for unsubscribing from unwanted marketing emails",
+          "url": "https://x.com/gdb/status/2056223743446245519",
+          "postedAt": "2026-05-18T04:01:57.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_70d32d1b7d",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2056219899337248768",
+          "url": "https://x.com/Khazix0918/status/2056222671223112105",
+          "postedAt": "2026-05-18T03:57:42.000Z"
+        },
+        {
+          "id": "vc_gdb_6d95fa8bb6",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "codex for deeply personal insights",
+          "url": "https://x.com/gdb/status/2056186307320095145",
+          "postedAt": "2026-05-18T01:33:12.000Z"
+        },
+        {
+          "id": "vc_sama_d28e9c5583",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "ChatGPT Images 2.0 💚 India. Already more than 1 billion images created there; awesome to see.",
+          "url": "https://x.com/sama/status/2056165722804654196",
+          "postedAt": "2026-05-18T00:11:24.000Z"
+        },
+        {
+          "id": "vc_gdb_c367e69930",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "so much joy in asking codex for random questions at work (such as finding some specific spreadsheet i'd been looking at a while ago), much more fun th...",
+          "url": "https://x.com/gdb/status/2056139383330513237",
+          "postedAt": "2026-05-17T22:26:44.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_5c80cc3871",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "People consistently overestimate how hard it is to build something and underestimate how hard it is to win people’s attention once you’ve built it",
+          "url": "https://x.com/zarazhangrui/status/2056132881630826952",
+          "postedAt": "2026-05-17T22:00:54.000Z"
+        },
+        {
+          "id": "vc_steipete_df80af953a",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Rhys: the average person has only ever used ChatGPT 3.5 Instant and has no idea what the models can do",
+          "url": "https://x.com/steipete/status/2056226908564521002",
+          "postedAt": "2026-05-17T19:01:25.000Z"
+        },
+        {
+          "id": "vc_gdb_32be729c15",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "link together your devices with Codex to develop from anywhere, anytime",
+          "url": "https://x.com/gdb/status/2056046844921172243",
+          "postedAt": "2026-05-17T16:19:01.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_e381227316",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "RT Smita Barooah: The quiet grief of adult friendship: One of the most beautiful articles I've read in a while. Hits hard https://timesofindia.indiati...",
+          "url": "https://x.com/zarazhangrui/status/2056175543570321431",
+          "postedAt": "2026-05-17T05:46:32.000Z"
+        },
+        {
           "id": "vc_gdb_3a4a0a2c4c",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -281,15 +362,6 @@
           "postedAt": "2026-05-17T00:02:10.000Z"
         },
         {
-          "id": "vc_gdb_9f378bc54e",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "tokens are rapidly becoming the universal input for solving problems",
-          "url": "https://x.com/gdb/status/2055791741320733158",
-          "postedAt": "2026-05-16T23:25:20.000Z"
-        },
-        {
           "id": "vc_steipete_8487d05dd2",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -297,42 +369,6 @@
           "title": "my brain: don't read the hacker news comments, don't read the hacker news comments me: reads the hacker news comments",
           "url": "https://x.com/steipete/status/2055775661755715974",
           "postedAt": "2026-05-16T22:21:26.000Z"
-        },
-        {
-          "id": "vc_gdb_6bc59bc756",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Countrywide ChatGPT Plus access for Malta:",
-          "url": "https://x.com/gdb/status/2055774659379908926",
-          "postedAt": "2026-05-16T22:17:27.000Z"
-        },
-        {
-          "id": "vc_gdb_b8cb4dce91",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "chronicle makes you realize how quickly you forget what you’ve been doing all day",
-          "url": "https://x.com/gdb/status/2055769256399114677",
-          "postedAt": "2026-05-16T21:55:59.000Z"
-        },
-        {
-          "id": "vc_steipete_cdcfe5ed9d",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Daniel Endara: Re I tried http://clawpatch.ai on a smaller project. It worked very well. What I did like is I had Codex ( no setup necessary ) get ...",
-          "url": "https://x.com/steipete/status/2055777908854022645",
-          "postedAt": "2026-05-16T21:22:38.000Z"
-        },
-        {
-          "id": "vc_gdb_3b2bf47f0f",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "keep the feedback coming, team will keep shipping",
-          "url": "https://x.com/gdb/status/2055748633723576437",
-          "postedAt": "2026-05-16T20:34:02.000Z"
         },
         {
           "id": "vc_zarazhangrui_c19df08985",
@@ -369,46 +405,10 @@
           "title": "Codex Side Chat System Prompt: You are in a side conversation, not the main thread. This side conversation is for answering questions and lightweight ...",
           "url": "https://x.com/dotey/status/2055551934317122014",
           "postedAt": "2026-05-16T07:32:26.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_40bf3b59b7",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "RT swyx 🇸🇬 AIE Singapore!: holy shit lmao @Gavriel_Cohen he's seriously using this thing for conducting the foreign policy/parliamentary affairs...",
-          "url": "https://x.com/zarazhangrui/status/2055515190406566361",
-          "postedAt": "2026-05-16T00:58:25.000Z"
-        },
-        {
-          "id": "vc_sama_87f4711775",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "i appreciate how seriously the team always takes these reports (even when the answer turns out to be 'i got used to the current level of magic and now...",
-          "url": "https://x.com/sama/status/2055356452286640630",
-          "postedAt": "2026-05-15T18:35:39.000Z"
-        },
-        {
-          "id": "vc_sama_e50c551cfc",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "RT ChatGPT: A preview for Pro users: a new personal finance experience in ChatGPT. Pro users in the U.S. can securely connect financial accounts, see ...",
-          "url": "https://x.com/sama/status/2055355611848802803",
-          "postedAt": "2026-05-15T16:01:19.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_7343ecc5dd",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2055129544903032832",
-          "url": "https://x.com/Khazix0918/status/2055144905375359477",
-          "postedAt": "2026-05-15T04:35:02.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-17T13:56:39.297Z",
+      "lastUpdated": "2026-05-18T04:41:23.789Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-17T13:56:40.898Z",
+      "lastUpdated": "2026-05-18T04:41:25.388Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -692,6 +692,30 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_55669d4273",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Creator content drives brands on Snapchat",
+          "url": "https://www.socialmediatoday.com/news/creator-content-drives-brands-on-snapchat/820438/",
+          "postedAt": "2026-05-17T20:24:18.000Z"
+        },
+        {
+          "id": "om_90aa6876cf",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Social media drives consumer discover, per Meta",
+          "url": "https://www.socialmediatoday.com/news/social-media-drives-consumer-discover-per-meta/820437/",
+          "postedAt": "2026-05-17T20:08:52.000Z"
+        },
+        {
+          "id": "om_6fcc1f690b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Publicis to Acquire LiveRamp for $2.2 Billion",
+          "url": "https://www.adweek.com/agencies/publicis-to-acquire-liveramp-for-22-billion/",
+          "postedAt": "2026-05-17T12:00:00.000Z"
+        },
         {
           "id": "om_b391aa045b",
           "source": "TechCrunch",
@@ -827,34 +851,10 @@
           "title": "Marc Jacobs to be acquired by Toys R Us parent company",
           "url": "https://www.retaildive.com/news/marc-jacobs-to-be-acquired-by-toys-r-us-parent-company/820323/",
           "postedAt": "2026-05-14T21:40:00.000Z"
-        },
-        {
-          "id": "om_dce2fe60f8",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "LinkedIn plans to host gated, creator-led events",
-          "url": "https://www.socialmediatoday.com/news/linkedin-plans-to-host-gated-creator-led-events/820319/",
-          "postedAt": "2026-05-14T21:10:25.000Z"
-        },
-        {
-          "id": "om_fcfc823cd4",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "At Upfronts, Warner Bros. Discovery focuses on cultural influence over showmanship",
-          "url": "https://www.marketingbrew.com/stories/at-upfronts-warner-bros-discovery-focuses-on-cultural-influence-over-showmanship?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-14T21:01:17.000Z"
-        },
-        {
-          "id": "om_330217cf24",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "YouTube announces ad updates at 2026 Brandcast Event",
-          "url": "https://www.socialmediatoday.com/news/youtube-announces-ad-updates-at-2026-brandcast-event/820317/",
-          "postedAt": "2026-05-14T20:24:44.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-17T13:56:43.868Z",
+      "lastUpdated": "2026-05-18T04:41:29.453Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
