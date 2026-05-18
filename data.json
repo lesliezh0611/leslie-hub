@@ -227,6 +227,33 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_f05497b340",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Tak 🦞: ClawSweeper now turns OpenClaw PR review into a tiny crustacean RPG. Ranks: S 🦀 challenger crab A 🦞 diamond lobster B 🐚 platinum...",
+          "url": "https://x.com/steipete/status/2056395993730404741",
+          "postedAt": "2026-05-18T14:26:47.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_ffffd48c01",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "这个分析太牛逼了，比我们自己内部分析强好多。。。",
+          "url": "https://x.com/Khazix0918/status/2056258482459029968",
+          "postedAt": "2026-05-18T06:20:00.000Z"
+        },
+        {
+          "id": "vc_dotey_413c01f8c5",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "http://x.com/i/article/2056234281895088128",
+          "url": "https://x.com/dotey/status/2056247701264630062",
+          "postedAt": "2026-05-18T05:37:09.000Z"
+        },
+        {
           "id": "vc_gdb_1bab0ca9c0",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -362,15 +389,6 @@
           "postedAt": "2026-05-17T00:02:10.000Z"
         },
         {
-          "id": "vc_steipete_8487d05dd2",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "my brain: don't read the hacker news comments, don't read the hacker news comments me: reads the hacker news comments",
-          "url": "https://x.com/steipete/status/2055775661755715974",
-          "postedAt": "2026-05-16T22:21:26.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_c19df08985",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -387,28 +405,10 @@
           "title": "每次 Codex 一重置就后悔之前没多用一点",
           "url": "https://x.com/dotey/status/2055725633603260439",
           "postedAt": "2026-05-16T19:02:39.000Z"
-        },
-        {
-          "id": "vc_dotey_a793cbdb49",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "让 AI 干很长时间的活，核心是规划和验证： 1. 如原推那样规划成小的阶段 2. 另外每个阶段最好有明确的验证方法，这一步很重要，可以是自动化测试（单元测试、集...",
-          "url": "https://x.com/dotey/status/2055682292937326638",
-          "postedAt": "2026-05-16T16:10:26.000Z"
-        },
-        {
-          "id": "vc_dotey_c64378e919",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Codex Side Chat System Prompt: You are in a side conversation, not the main thread. This side conversation is for answering questions and lightweight ...",
-          "url": "https://x.com/dotey/status/2055551934317122014",
-          "postedAt": "2026-05-16T07:32:26.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-18T04:41:23.789Z",
+      "lastUpdated": "2026-05-18T15:56:26.833Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_5976346bca",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: HTML is the new Markdown: How Anthropic engineers are building with Claude Code",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown",
+          "postedAt": "2026-05-18T15:00:52.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_3768575627",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "HTML is the new Markdown: How Anthropic engineers are building with Claude Code | Thariq Shihipar",
+          "url": "https://www.lennysnewsletter.com/p/html-is-the-new-markdown-how-anthropic",
+          "postedAt": "2026-05-18T12:02:11.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_17a7906d79",
           "source": "Lenny's Podcast",
@@ -534,22 +550,6 @@
           "topic": "Quests, token leaderboards, and a skills marketplace: The elite AI adoption playbook | John Kim (Sendbird)",
           "url": "https://www.lennysnewsletter.com/p/quests-token-leaderboards-and-a-skills",
           "postedAt": "2026-05-06T12:03:39.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_fd8d10de6a",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Why SaaS freemium playbooks don’t work in AI, and what to do instead",
-          "url": "https://www.lennysnewsletter.com/p/why-saas-freemium-playbooks-dont",
-          "postedAt": "2026-05-05T13:03:32.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_047ce3ab15",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ This week on How I AI: The internal AI tool that’s transforming how Stripe designs products",
-          "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-internal",
-          "postedAt": "2026-05-04T15:01:56.000Z"
         }
       ],
       "books": [
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-18T04:41:25.388Z",
+      "lastUpdated": "2026-05-18T15:56:28.019Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,19 +693,115 @@
       },
       "articles": [
         {
-          "id": "om_55669d4273",
+          "id": "om_c9c102087e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "9 national TV publishers join initiative to address industry fragmentation",
+          "url": "https://www.marketingdive.com/news/9-national-tv-publishers-join-initiative-to-address-industry-fragmentation/820398/",
+          "postedAt": "2026-05-18T15:00:00.000Z"
+        },
+        {
+          "id": "om_b9930438f7",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "DoorDash taps ex-Amazon exec as CMO",
+          "url": "https://www.marketingdive.com/news/doordash-taps-ex-amazon-exec-as-cmo/820478/",
+          "postedAt": "2026-05-18T14:51:00.000Z"
+        },
+        {
+          "id": "om_3c653edc70",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Where Nike’s marketing comeback is stumbling — and where it can still win",
+          "url": "https://www.retaildive.com/news/where-nikes-marketing-comeback-is-stumbling-and-where-it-can-still-win/820115/",
+          "postedAt": "2026-05-18T14:45:00.000Z"
+        },
+        {
+          "id": "om_4a6e27f013",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Publicis buys LiveRamp for $2.2B to improve AI agent sophistication",
+          "url": "https://www.marketingdive.com/news/publicis-buys-liveramp-for-22b-to-improve-ai-agent-sophistication/820455/",
+          "postedAt": "2026-05-18T14:35:00.000Z"
+        },
+        {
+          "id": "om_47d3aca311",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Dollar Tree is boosting logistics resiliency",
+          "url": "https://www.retaildive.com/news/dollar-tree-logistics-resiliency-distribution-center/820334/",
+          "postedAt": "2026-05-18T13:53:00.000Z"
+        },
+        {
+          "id": "om_98fdf16dc6",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How brands are taking the marketing pitch for the World Cup",
+          "url": "https://www.marketingdive.com/news/how-brands-are-taking-the-marketing-pitch-for-the-world-cup/818434/",
+          "postedAt": "2026-05-18T12:00:00.000Z"
+        },
+        {
+          "id": "om_6ce9bcd45e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "DoorDash Brings On Ex-Amazon Exec as New CMO",
+          "url": "https://www.adweek.com/commerce/doordash-brings-on-ex-amazon-exec-as-new-cmo/",
+          "postedAt": "2026-05-18T10:00:00.000Z"
+        },
+        {
+          "id": "om_d44afc48f9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Nearly 91% of marketers believe their platform results are overstated. Here’s what it’s costing them.",
+          "url": "https://www.marketingdive.com/spons/nearly-91-of-marketers-believe-their-platform-results-are-overstated-here/816171/",
+          "postedAt": "2026-05-18T09:00:00.000Z"
+        },
+        {
+          "id": "om_0afa76f47d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The associate gap: Why your AI investment depends on the people running your stores",
+          "url": "https://www.retaildive.com/spons/the-associate-gap-why-your-ai-investment-depends-on-the-people-running-you/820071/",
+          "postedAt": "2026-05-18T09:00:00.000Z"
+        },
+        {
+          "id": "om_34c4d61148",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Marketplace growth is outpacing ecommerce. Here’s why payments infrastructure will shape who scales.",
+          "url": "https://www.retaildive.com/spons/marketplace-growth-is-outpacing-ecommerce-heres-why-payments-infrastructu/820273/",
+          "postedAt": "2026-05-18T09:00:00.000Z"
+        },
+        {
+          "id": "om_c66c9a407d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "1 in 5 shoppers left their wallet at home today. Is your store ready for them?",
+          "url": "https://www.retaildive.com/spons/1-in-5-shoppers-left-their-wallet-at-home-today-is-your-store-ready-for-th/820068/",
+          "postedAt": "2026-05-18T09:00:00.000Z"
+        },
+        {
+          "id": "om_ca44635f86",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "EXCLUSIVE: Omnicom Advertising Creative Lead Javier Campopiano Exits Months After IPG Takeover",
+          "url": "https://www.adweek.com/agencies/exclusive-omnicom-advertising-creative-lead-javier-campopiano-exits-months-after-ipg-takeover/",
+          "postedAt": "2026-05-18T08:00:00.000Z"
+        },
+        {
+          "id": "om_49098ea958",
           "source": "Social Media Today",
           "lang": "en",
-          "title": "Creator content drives brands on Snapchat",
-          "url": "https://www.socialmediatoday.com/news/creator-content-drives-brands-on-snapchat/820438/",
+          "title": "Creator content drives brand success on Snapchat",
+          "url": "https://www.socialmediatoday.com/news/creator-content-drives-brand-success-on-snapchat/820438/",
           "postedAt": "2026-05-17T20:24:18.000Z"
         },
         {
-          "id": "om_90aa6876cf",
+          "id": "om_66a1e3134f",
           "source": "Social Media Today",
           "lang": "en",
-          "title": "Social media drives consumer discover, per Meta",
-          "url": "https://www.socialmediatoday.com/news/social-media-drives-consumer-discover-per-meta/820437/",
+          "title": "Social media drives consumer discovery, per Meta",
+          "url": "https://www.socialmediatoday.com/news/social-media-drives-consumer-discovery-per-meta/820437/",
           "postedAt": "2026-05-17T20:08:52.000Z"
         },
         {
@@ -723,14 +819,6 @@
           "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
           "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
           "postedAt": "2026-05-16T19:26:14.000Z"
-        },
-        {
-          "id": "om_f0002791ae",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Snap, YouTube, and TikTok settle suit over harm to students",
-          "url": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
-          "postedAt": "2026-05-16T18:34:23.000Z"
         },
         {
           "id": "om_e226d1a38a",
@@ -763,98 +851,10 @@
           "title": "Department stores losing market share to resale",
           "url": "https://www.retaildive.com/news/department-stores-lose-market-share-resale-secondhand-apparel/820346/",
           "postedAt": "2026-05-15T16:31:00.000Z"
-        },
-        {
-          "id": "om_88358c634d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bed Bath & Beyond’s first co-branded store with The Container Store will open Saturday",
-          "url": "https://www.retaildive.com/news/bed-bath-beyond-container-store-cobranded-store-opens-texas/820360/",
-          "postedAt": "2026-05-15T16:10:00.000Z"
-        },
-        {
-          "id": "om_7914e57578",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Weekly Closeout: Another entertainment exec at Gap Inc., and tariff refunds trickle in",
-          "url": "https://www.retaildive.com/news/weekly-closeout-gap-leadership-tariff-refunds-retailers/820306/",
-          "postedAt": "2026-05-15T15:48:00.000Z"
-        },
-        {
-          "id": "om_03c7b1b304",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Garnier taps ‘Love Island’ star to pitch hair ‘moose’ to next generation",
-          "url": "https://www.marketingdive.com/news/garnier-taps-love-island-star-to-pitch-hair-moose-to-next-generation/820237/",
-          "postedAt": "2026-05-15T13:00:00.000Z"
-        },
-        {
-          "id": "om_6e16459e35",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Social insights fail to reach decision-makers: Here’s what the numbers say",
-          "url": "https://www.marketingdive.com/news/social-insights-fail-to-reach-decision-makers-heres-what-the-numbers-say/820311/",
-          "postedAt": "2026-05-15T12:56:00.000Z"
-        },
-        {
-          "id": "om_289bbe40e9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Week of May 4 Cable News Ratings: CNN Only Network With Growth",
-          "url": "https://www.adweek.com/tvnewser/week-of-may-4-2026-cable-news-ratings/",
-          "postedAt": "2026-05-15T12:31:21.000Z"
-        },
-        {
-          "id": "om_2e37c027b2",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why would a social media platform tell you to get off your phone?",
-          "url": "https://www.marketingbrew.com/stories/pinterest-offline-experiential-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-15T10:00:00.000Z"
-        },
-        {
-          "id": "om_8991ed3156",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "One Quarter of North American Agencies Have Shifted to Fixed-Fee Pricing",
-          "url": "https://www.adweek.com/agencies/one-quarter-of-north-american-agencies-have-shifted-to-fixed-free-pricing/",
-          "postedAt": "2026-05-15T09:00:00.000Z"
-        },
-        {
-          "id": "om_c9d9ecc597",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketers on the Move: Hires at Gap, Saucony, Fanatics, and More",
-          "url": "https://www.adweek.com/brand-marketing/marketers-on-the-move-hires-at-gap-saucony-fanatics-and-more/",
-          "postedAt": "2026-05-15T08:36:23.000Z"
-        },
-        {
-          "id": "om_2ef6144bfc",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 10 Campaigns That Caught Our Eye, From Dove to Hinge",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-10-campaigns-that-caught-our-eye-from-dove-to-hinge/",
-          "postedAt": "2026-05-15T06:00:00.000Z"
-        },
-        {
-          "id": "om_9899c29342",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok announces activations for International Museum Day",
-          "url": "https://www.socialmediatoday.com/news/tiktok-announces-activations-for-international-museum-day/820324/",
-          "postedAt": "2026-05-14T21:40:39.000Z"
-        },
-        {
-          "id": "om_f1b241547e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Marc Jacobs to be acquired by Toys R Us parent company",
-          "url": "https://www.retaildive.com/news/marc-jacobs-to-be-acquired-by-toys-r-us-parent-company/820323/",
-          "postedAt": "2026-05-14T21:40:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-18T04:41:29.453Z",
+      "lastUpdated": "2026-05-18T15:56:29.954Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
