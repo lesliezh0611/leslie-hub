@@ -227,6 +227,69 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_0e3008feb7",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Andrej Karpathy 官宣加入 Anthropic",
+          "url": "https://x.com/dotey/status/2056758623338942530",
+          "postedAt": "2026-05-19T15:27:23.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_9531ff06ac",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "卧槽！！太炸裂了。。。",
+          "url": "https://x.com/Khazix0918/status/2056758441423855942",
+          "postedAt": "2026-05-19T15:26:39.000Z"
+        },
+        {
+          "id": "vc_dotey_365b421a50",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Gemini 新 UI 很讨厌的是无法像以前一样把常用的 Gem 固定在左侧边栏了，我有几个 Gem 是经常用的，现在每次要点进 Gems，然后去几十个 Gem 找到我要用的，点击...",
+          "url": "https://x.com/dotey/status/2056758117535244797",
+          "postedAt": "2026-05-19T15:25:22.000Z"
+        },
+        {
+          "id": "vc_karpathy_6cf0c26e20",
+          "source": "karpathy",
+          "sourceName": "Andrej Karpathy",
+          "platform": "x",
+          "title": "Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the...",
+          "url": "https://x.com/karpathy/status/2056753169888334312",
+          "postedAt": "2026-05-19T15:05:42.000Z"
+        },
+        {
+          "id": "vc_steipete_8ac0020377",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Boxmining: OpenClaw 5.18 (@openclaw) feels like one of those updates that quietly makes agents way less annoying to run. Faster gateway restarts ar...",
+          "url": "https://x.com/steipete/status/2056682295671562276",
+          "postedAt": "2026-05-19T06:43:01.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_a0ac426930",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "自从Codex上了远程控制，可以用我的macbook和手机来控制我家里的mac mini进行coding，我打开Claude Code的次数真的好像越来越少了。。。",
+          "url": "https://x.com/Khazix0918/status/2056601182068732316",
+          "postedAt": "2026-05-19T05:01:46.000Z"
+        },
+        {
+          "id": "vc_dotey_f60b41122c",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT Nous Research: 感谢 @dotey 将他的 baoyu-comic skill 移植到 Hermes Agent！ 这个 skill 可以把一段 prompt 或源文档转成多页知识漫画，支持 6 种风格、7 ...",
+          "url": "https://x.com/dotey/status/2056612558098899263",
+          "postedAt": "2026-05-19T04:19:04.000Z"
+        },
+        {
           "id": "vc_Khazix0918_51ae0f54dc",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -243,6 +306,15 @@
           "title": "Keep getting this error in Claude Code recently; is it just me or are others getting this too? How to resolve this? API Error: The socket connection w...",
           "url": "https://x.com/zarazhangrui/status/2056527354772722127",
           "postedAt": "2026-05-19T00:08:24.000Z"
+        },
+        {
+          "id": "vc_steipete_7be55681fe",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Henry Mascot: OpenClaw 2026.5.18 summary: Reliability pass - Telegram media now lands in the right forum topic - final replies are less likely to v...",
+          "url": "https://x.com/steipete/status/2056636561773461998",
+          "postedAt": "2026-05-18T23:11:14.000Z"
         },
         {
           "id": "vc_dotey_c2bf209b78",
@@ -299,15 +371,6 @@
           "postedAt": "2026-05-18T18:04:44.000Z"
         },
         {
-          "id": "vc_dotey_9abf37bc0f",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Cursor 发布 Composer 2.5 Cursor 今天上线自家编程模型 Composer 2.5。主打长任务上更顶得住、复杂指令跟得更稳，官方称效率最多能比同等水平的模型高出十倍。...",
-          "url": "https://x.com/dotey/status/2056432162635731438",
-          "postedAt": "2026-05-18T17:50:08.000Z"
-        },
-        {
           "id": "vc_gdb_21daae6efd",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -326,6 +389,15 @@
           "postedAt": "2026-05-18T14:26:47.000Z"
         },
         {
+          "id": "vc_steipete_3bf929fb12",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Vincent Koc: You don't get good at building overnight, you have to keep building and learning as you go. I just recently updated my github readme t...",
+          "url": "https://x.com/steipete/status/2056636552063640047",
+          "postedAt": "2026-05-18T09:43:28.000Z"
+        },
+        {
           "id": "vc_Khazix0918_ffffd48c01",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -333,82 +405,10 @@
           "title": "这个分析太牛逼了，比我们自己内部分析强好多。。。",
           "url": "https://x.com/Khazix0918/status/2056258482459029968",
           "postedAt": "2026-05-18T06:20:00.000Z"
-        },
-        {
-          "id": "vc_dotey_413c01f8c5",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "http://x.com/i/article/2056234281895088128",
-          "url": "https://x.com/dotey/status/2056247701264630062",
-          "postedAt": "2026-05-18T05:37:09.000Z"
-        },
-        {
-          "id": "vc_gdb_1bab0ca9c0",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Codex for unsubscribing from unwanted marketing emails",
-          "url": "https://x.com/gdb/status/2056223743446245519",
-          "postedAt": "2026-05-18T04:01:57.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_70d32d1b7d",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2056219899337248768",
-          "url": "https://x.com/Khazix0918/status/2056222671223112105",
-          "postedAt": "2026-05-18T03:57:42.000Z"
-        },
-        {
-          "id": "vc_gdb_6d95fa8bb6",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "codex for deeply personal insights",
-          "url": "https://x.com/gdb/status/2056186307320095145",
-          "postedAt": "2026-05-18T01:33:12.000Z"
-        },
-        {
-          "id": "vc_sama_d28e9c5583",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "ChatGPT Images 2.0 💚 India. Already more than 1 billion images created there; awesome to see.",
-          "url": "https://x.com/sama/status/2056165722804654196",
-          "postedAt": "2026-05-18T00:11:24.000Z"
-        },
-        {
-          "id": "vc_steipete_38348596f7",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Ben Miller: \"@Microsoft is piloting '#ClawPilot,' an always-on AI assistant built on the open-source @OpenClaw framework, with over 3,000 employees...",
-          "url": "https://x.com/steipete/status/2056433572181954732",
-          "postedAt": "2026-05-17T23:10:52.000Z"
-        },
-        {
-          "id": "vc_gdb_c367e69930",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "so much joy in asking codex for random questions at work (such as finding some specific spreadsheet i'd been looking at a while ago), much more fun th...",
-          "url": "https://x.com/gdb/status/2056139383330513237",
-          "postedAt": "2026-05-17T22:26:44.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_5c80cc3871",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "People consistently overestimate how hard it is to build something and underestimate how hard it is to win people’s attention once you’ve built it",
-          "url": "https://x.com/zarazhangrui/status/2056132881630826952",
-          "postedAt": "2026-05-17T22:00:54.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-19T04:33:31.353Z",
+      "lastUpdated": "2026-05-19T15:49:00.235Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_a8f8de0618",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "The Lenny and Friends Summit is back!",
+          "url": "https://www.lennysnewsletter.com/p/the-lenny-and-friends-summit-is-back",
+          "postedAt": "2026-05-19T15:27:24.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_5976346bca",
           "source": "Lenny's Podcast",
@@ -542,14 +550,6 @@
           "topic": "#496 – FFmpeg: The Incredible Technology Behind Video on the Internet",
           "url": "https://lexfridman.com/ffmpeg/?utm_source=rss&utm_medium=rss&utm_campaign=ffmpeg",
           "postedAt": "2026-05-06T22:06:47.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_cd45e18925",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Quests, token leaderboards, and a skills marketplace: The elite AI adoption playbook | John Kim (Sendbird)",
-          "url": "https://www.lennysnewsletter.com/p/quests-token-leaderboards-and-a-skills",
-          "postedAt": "2026-05-06T12:03:39.000Z"
         }
       ],
       "books": [
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-19T04:33:33.179Z",
+      "lastUpdated": "2026-05-19T15:49:01.462Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,78 @@
       },
       "articles": [
         {
+          "id": "om_731a83afb3",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target taps former Walmart exec as supply chain, logistics chief",
+          "url": "https://www.retaildive.com/news/target-former-walmart-exec-supply-chain-logistics-chief/820611/",
+          "postedAt": "2026-05-19T15:30:00.000Z"
+        },
+        {
+          "id": "om_22a873bebb",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Former Calvin Klein exec will be Banana Republic’s CEO",
+          "url": "https://www.retaildive.com/news/calvin-klein-exec-banana-republic-ceo-gap/820573/",
+          "postedAt": "2026-05-19T15:24:00.000Z"
+        },
+        {
+          "id": "om_cc0177001c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "At Home CEO to retire after leading it through bankruptcy",
+          "url": "https://www.retaildive.com/news/at-home-ceo-brad-weston-retires-post-bankruptcy/820589/",
+          "postedAt": "2026-05-19T15:05:00.000Z"
+        },
+        {
+          "id": "om_7be397062e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Oscar Mayer’s Wienermobile race returns with bolder media blitz",
+          "url": "https://www.marketingdive.com/news/oscar-mayers-wienermobile-race-returns-with-bolder-media-blitz/820584/",
+          "postedAt": "2026-05-19T14:57:00.000Z"
+        },
+        {
+          "id": "om_11d0661c8a",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside Hint’s satirical, sexed-up campaign to make consumers crave water",
+          "url": "https://www.marketingbrew.com/stories/hints-sexy-water-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-19T13:01:49.000Z"
+        },
+        {
+          "id": "om_e764598240",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ring Leader: How Ōura Became an Icon of the Wearable Health Movement",
+          "url": "https://www.adweek.com/brand-marketing/ring-leader-how-oura-became-an-icon-of-the-wearable-health-movement/",
+          "postedAt": "2026-05-19T09:19:16.000Z"
+        },
+        {
+          "id": "om_a8a3115fb3",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Jim Lecinski on the New Zero Moment of Truth in the AI Era",
+          "url": "https://www.adweek.com/brand-marketing/jim-lecinski-on-the-new-zero-moment-of-truth-in-the-ai-era/",
+          "postedAt": "2026-05-19T09:18:12.000Z"
+        },
+        {
+          "id": "om_2f5a56acec",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why Marketers Must Look for New Opportunities in ‘Cultural Time Zones’",
+          "url": "https://www.adweek.com/agencies/why-marketers-must-look-for-new-opportunities-in-cultural-time-zones/",
+          "postedAt": "2026-05-19T09:00:00.000Z"
+        },
+        {
+          "id": "om_61db9c062d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Moburst’s Latest $11.8M Investment Round Is More Than Just Your Typical Deal",
+          "url": "https://www.adweek.com/agencies/mobursts-latest-118m-investment-round-is-more-than-just-your-typical-deal/",
+          "postedAt": "2026-05-19T08:30:00.000Z"
+        },
+        {
           "id": "om_5abecfeb24",
           "source": "Social Media Today",
           "lang": "en",
@@ -779,82 +851,10 @@
           "title": "DoorDash taps ex-Amazon exec as CMO",
           "url": "https://www.marketingdive.com/news/doordash-taps-ex-amazon-exec-as-cmo/820478/",
           "postedAt": "2026-05-18T14:51:00.000Z"
-        },
-        {
-          "id": "om_3c653edc70",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Where Nike’s marketing comeback is stumbling — and where it can still win",
-          "url": "https://www.retaildive.com/news/where-nikes-marketing-comeback-is-stumbling-and-where-it-can-still-win/820115/",
-          "postedAt": "2026-05-18T14:45:00.000Z"
-        },
-        {
-          "id": "om_4a6e27f013",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Publicis buys LiveRamp for $2.2B to improve AI agent sophistication",
-          "url": "https://www.marketingdive.com/news/publicis-buys-liveramp-for-22b-to-improve-ai-agent-sophistication/820455/",
-          "postedAt": "2026-05-18T14:35:00.000Z"
-        },
-        {
-          "id": "om_47d3aca311",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Dollar Tree is boosting logistics resiliency",
-          "url": "https://www.retaildive.com/news/dollar-tree-logistics-resiliency-distribution-center/820334/",
-          "postedAt": "2026-05-18T13:53:00.000Z"
-        },
-        {
-          "id": "om_98fdf16dc6",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How brands are taking the marketing pitch for the World Cup",
-          "url": "https://www.marketingdive.com/news/how-brands-are-taking-the-marketing-pitch-for-the-world-cup/818434/",
-          "postedAt": "2026-05-18T12:00:00.000Z"
-        },
-        {
-          "id": "om_6ce9bcd45e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "DoorDash Brings On Ex-Amazon Exec as New CMO",
-          "url": "https://www.adweek.com/commerce/doordash-brings-on-ex-amazon-exec-as-new-cmo/",
-          "postedAt": "2026-05-18T10:00:00.000Z"
-        },
-        {
-          "id": "om_d44afc48f9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Nearly 91% of marketers believe their platform results are overstated. Here’s what it’s costing them.",
-          "url": "https://www.marketingdive.com/spons/nearly-91-of-marketers-believe-their-platform-results-are-overstated-here/816171/",
-          "postedAt": "2026-05-18T09:00:00.000Z"
-        },
-        {
-          "id": "om_c66c9a407d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "1 in 5 shoppers left their wallet at home today. Is your store ready for them?",
-          "url": "https://www.retaildive.com/spons/1-in-5-shoppers-left-their-wallet-at-home-today-is-your-store-ready-for-th/820068/",
-          "postedAt": "2026-05-18T09:00:00.000Z"
-        },
-        {
-          "id": "om_34c4d61148",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Marketplace growth is outpacing ecommerce. Here’s why payments infrastructure will shape who scales.",
-          "url": "https://www.retaildive.com/spons/marketplace-growth-is-outpacing-ecommerce-heres-why-payments-infrastructu/820273/",
-          "postedAt": "2026-05-18T09:00:00.000Z"
-        },
-        {
-          "id": "om_ca44635f86",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "EXCLUSIVE: Omnicom Advertising Creative Lead Javier Campopiano Exits Months After IPG Takeover",
-          "url": "https://www.adweek.com/agencies/exclusive-omnicom-advertising-creative-lead-javier-campopiano-exits-months-after-ipg-takeover/",
-          "postedAt": "2026-05-18T08:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-19T04:33:35.330Z",
+      "lastUpdated": "2026-05-19T15:49:03.365Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
