@@ -227,6 +227,96 @@
       ],
       "articles": [
         {
+          "id": "vc_Khazix0918_51ae0f54dc",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "凌晨见啊==。🙂",
+          "url": "https://x.com/Khazix0918/status/2056577635791311049",
+          "postedAt": "2026-05-19T03:28:12.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_0ed356a1ff",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Keep getting this error in Claude Code recently; is it just me or are others getting this too? How to resolve this? API Error: The socket connection w...",
+          "url": "https://x.com/zarazhangrui/status/2056527354772722127",
+          "postedAt": "2026-05-19T00:08:24.000Z"
+        },
+        {
+          "id": "vc_dotey_c2bf209b78",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "马斯克起诉 OpenAI 案败诉，输在“告晚了” 加州奥克兰联邦法院的陪审团周一一致裁定，马斯克对 OpenAI 和 Sam Altman 的诉讼超过法定时效，全部主张被驳回。陪...",
+          "url": "https://x.com/dotey/status/2056495238684770487",
+          "postedAt": "2026-05-18T22:00:47.000Z"
+        },
+        {
+          "id": "vc_steipete_b4c92cb421",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Josh Lehman: lossless-claw 0.11.1 — the focus mode release 🎯 /lossless focus curates your context ↩️ /lossless unfocus brings the normal cont...",
+          "url": "https://x.com/steipete/status/2056501411823661526",
+          "postedAt": "2026-05-18T21:56:57.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_9b57d9db9b",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "If you have had success with Gbrain/LLM Wiki/other context management techniques for agents, and you're in the Bay Area, would love to invite you to d...",
+          "url": "https://x.com/zarazhangrui/status/2056464721549926414",
+          "postedAt": "2026-05-18T19:59:31.000Z"
+        },
+        {
+          "id": "vc_dotey_eda39c797b",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "我几乎不用codex和Claude code的fast mode，速度实际上快得没那么明显，主要是token消耗太快用不起",
+          "url": "https://x.com/dotey/status/2056460668480389338",
+          "postedAt": "2026-05-18T19:43:25.000Z"
+        },
+        {
+          "id": "vc_gdb_a9d9943819",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Keep your Mac awake so you can build and work from your phone, with Codex in the ChatGPT app:",
+          "url": "https://x.com/gdb/status/2056448588754903316",
+          "postedAt": "2026-05-18T18:55:25.000Z"
+        },
+        {
+          "id": "vc_sama_58d8cb7284",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "chatgpt has gotten soooo much better with the latest update. really proud of the team for this one.",
+          "url": "https://x.com/sama/status/2056435834333934051",
+          "postedAt": "2026-05-18T18:04:44.000Z"
+        },
+        {
+          "id": "vc_dotey_9abf37bc0f",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Cursor 发布 Composer 2.5 Cursor 今天上线自家编程模型 Composer 2.5。主打长任务上更顶得住、复杂指令跟得更稳，官方称效率最多能比同等水平的模型高出十倍。...",
+          "url": "https://x.com/dotey/status/2056432162635731438",
+          "postedAt": "2026-05-18T17:50:08.000Z"
+        },
+        {
+          "id": "vc_gdb_21daae6efd",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "how to use /goal in codex — keep Codex working on a persistent objective until it's solved:",
+          "url": "https://x.com/gdb/status/2056430780809892252",
+          "postedAt": "2026-05-18T17:44:39.000Z"
+        },
+        {
           "id": "vc_steipete_f05497b340",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -290,6 +380,15 @@
           "postedAt": "2026-05-18T00:11:24.000Z"
         },
         {
+          "id": "vc_steipete_38348596f7",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Ben Miller: \"@Microsoft is piloting '#ClawPilot,' an always-on AI assistant built on the open-source @OpenClaw framework, with over 3,000 employees...",
+          "url": "https://x.com/steipete/status/2056433572181954732",
+          "postedAt": "2026-05-17T23:10:52.000Z"
+        },
+        {
           "id": "vc_gdb_c367e69930",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -306,109 +405,10 @@
           "title": "People consistently overestimate how hard it is to build something and underestimate how hard it is to win people’s attention once you’ve built it",
           "url": "https://x.com/zarazhangrui/status/2056132881630826952",
           "postedAt": "2026-05-17T22:00:54.000Z"
-        },
-        {
-          "id": "vc_steipete_df80af953a",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Rhys: the average person has only ever used ChatGPT 3.5 Instant and has no idea what the models can do",
-          "url": "https://x.com/steipete/status/2056226908564521002",
-          "postedAt": "2026-05-17T19:01:25.000Z"
-        },
-        {
-          "id": "vc_gdb_32be729c15",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "link together your devices with Codex to develop from anywhere, anytime",
-          "url": "https://x.com/gdb/status/2056046844921172243",
-          "postedAt": "2026-05-17T16:19:01.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_e381227316",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "RT Smita Barooah: The quiet grief of adult friendship: One of the most beautiful articles I've read in a while. Hits hard https://timesofindia.indiati...",
-          "url": "https://x.com/zarazhangrui/status/2056175543570321431",
-          "postedAt": "2026-05-17T05:46:32.000Z"
-        },
-        {
-          "id": "vc_gdb_3a4a0a2c4c",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "you can just build things from your phone, with Codex in the ChatGPT app",
-          "url": "https://x.com/gdb/status/2055882172884763012",
-          "postedAt": "2026-05-17T05:24:41.000Z"
-        },
-        {
-          "id": "vc_steipete_bca0fdeac6",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Christoph Nakazawa: Codiff 0.1 is out * Fast Local Code Reviews * Optional LLM Walkthroughs * Inline Review Comments This is the best companion for...",
-          "url": "https://x.com/steipete/status/2055891876121608390",
-          "postedAt": "2026-05-17T05:20:59.000Z"
-        },
-        {
-          "id": "vc_dotey_522dbe1b57",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Writing -> Opus 4.6 is the best Translation -> Gemini 3.1 Pro is the best",
-          "url": "https://x.com/dotey/status/2055860356044509417",
-          "postedAt": "2026-05-17T03:57:59.000Z"
-        },
-        {
-          "id": "vc_steipete_780857701c",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Blake: codex fixed my claude code set up and now its 100x better. Maybe i just need codex.",
-          "url": "https://x.com/steipete/status/2055856657389785210",
-          "postedAt": "2026-05-17T02:31:49.000Z"
-        },
-        {
-          "id": "vc_dotey_f79c247327",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "http://x.com/i/article/2055813152315461632",
-          "url": "https://x.com/dotey/status/2055819034671604048",
-          "postedAt": "2026-05-17T01:13:47.000Z"
-        },
-        {
-          "id": "vc_steipete_8722b6fe42",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT josh avant: Just using Crabbox and it needed me to perform a browser-based OAuth flow.... so my clanker opened up a browser window w/ an active Web...",
-          "url": "https://x.com/steipete/status/2055959038190371133",
-          "postedAt": "2026-05-17T00:02:10.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_c19df08985",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "AI psychosis: cycling between two mental states every single day ↑ after using coding agents: holy shit I'm omnipotent. I can build anything. I've ne...",
-          "url": "https://x.com/zarazhangrui/status/2055728641913536762",
-          "postedAt": "2026-05-16T19:14:36.000Z"
-        },
-        {
-          "id": "vc_dotey_aeb865e5f9",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "每次 Codex 一重置就后悔之前没多用一点",
-          "url": "https://x.com/dotey/status/2055725633603260439",
-          "postedAt": "2026-05-16T19:02:39.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-18T15:56:26.833Z",
+      "lastUpdated": "2026-05-19T04:33:31.353Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-18T15:56:28.019Z",
+      "lastUpdated": "2026-05-19T04:33:33.179Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,78 @@
       },
       "articles": [
         {
+          "id": "om_5abecfeb24",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Pinterest wants brands to start thinking about Christmas",
+          "url": "https://www.socialmediatoday.com/news/pinterest-wants-brands-to-start-thinking-about-christmas/820547/",
+          "postedAt": "2026-05-18T21:09:56.000Z"
+        },
+        {
+          "id": "om_fd78b8a8d1",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta adds new creator publishing tools",
+          "url": "https://www.socialmediatoday.com/news/meta-adds-new-creator-publishing-tools/820542/",
+          "postedAt": "2026-05-18T20:52:53.000Z"
+        },
+        {
+          "id": "om_54a10970a0",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "X announces creator-driven ad partnership",
+          "url": "https://www.socialmediatoday.com/news/x-announces-creator-driven-ad-partnership/820540/",
+          "postedAt": "2026-05-18T20:46:34.000Z"
+        },
+        {
+          "id": "om_f464ae12ef",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Dr Pepper gets into microdramas for return of dirty soda-inspired flavor",
+          "url": "https://www.marketingdive.com/news/dr-pepper-taps-into-microdrama-trend-for-creamy-coconut-return/820499/",
+          "postedAt": "2026-05-18T18:52:00.000Z"
+        },
+        {
+          "id": "om_8c88defc29",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Article reveals plans for its first US retail stores",
+          "url": "https://www.retaildive.com/news/article-furniture-brand-first-us-retail-stores/820340/",
+          "postedAt": "2026-05-18T18:34:00.000Z"
+        },
+        {
+          "id": "om_112a8f6459",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Amid upfronts sports overload, pitches around data, AI come into focus",
+          "url": "https://www.marketingdive.com/news/amid-upfronts-sports-overload-pitches-around-data-ai-come-into-focus/820444/",
+          "postedAt": "2026-05-18T16:41:00.000Z"
+        },
+        {
+          "id": "om_41d1622f2d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Lululemon claps back at Chip Wilson after spurned settlement offer",
+          "url": "https://www.retaildive.com/news/lululemon-chip-wilson-criticism-proxy-fight-settlement/820490/",
+          "postedAt": "2026-05-18T16:41:00.000Z"
+        },
+        {
+          "id": "om_1dd5b6bb97",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Madewell plans to open 3 stores, starting this week",
+          "url": "https://www.retaildive.com/news/madewell-three-store-openings-sag-harbor-new-york-connecticut-oregon/820470/",
+          "postedAt": "2026-05-18T16:21:00.000Z"
+        },
+        {
+          "id": "om_0bda8f4cda",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Claire’s eyes expansion to 7K retail locations",
+          "url": "https://www.retaildive.com/news/claires-retail-expansion-licensing-centric-brands/820476/",
+          "postedAt": "2026-05-18T16:17:00.000Z"
+        },
+        {
           "id": "om_c9c102087e",
           "source": "Marketing Dive",
           "lang": "en",
@@ -757,11 +829,11 @@
           "postedAt": "2026-05-18T09:00:00.000Z"
         },
         {
-          "id": "om_0afa76f47d",
+          "id": "om_c66c9a407d",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "The associate gap: Why your AI investment depends on the people running your stores",
-          "url": "https://www.retaildive.com/spons/the-associate-gap-why-your-ai-investment-depends-on-the-people-running-you/820071/",
+          "title": "1 in 5 shoppers left their wallet at home today. Is your store ready for them?",
+          "url": "https://www.retaildive.com/spons/1-in-5-shoppers-left-their-wallet-at-home-today-is-your-store-ready-for-th/820068/",
           "postedAt": "2026-05-18T09:00:00.000Z"
         },
         {
@@ -773,88 +845,16 @@
           "postedAt": "2026-05-18T09:00:00.000Z"
         },
         {
-          "id": "om_c66c9a407d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "1 in 5 shoppers left their wallet at home today. Is your store ready for them?",
-          "url": "https://www.retaildive.com/spons/1-in-5-shoppers-left-their-wallet-at-home-today-is-your-store-ready-for-th/820068/",
-          "postedAt": "2026-05-18T09:00:00.000Z"
-        },
-        {
           "id": "om_ca44635f86",
           "source": "Adweek",
           "lang": "en",
           "title": "EXCLUSIVE: Omnicom Advertising Creative Lead Javier Campopiano Exits Months After IPG Takeover",
           "url": "https://www.adweek.com/agencies/exclusive-omnicom-advertising-creative-lead-javier-campopiano-exits-months-after-ipg-takeover/",
           "postedAt": "2026-05-18T08:00:00.000Z"
-        },
-        {
-          "id": "om_49098ea958",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Creator content drives brand success on Snapchat",
-          "url": "https://www.socialmediatoday.com/news/creator-content-drives-brand-success-on-snapchat/820438/",
-          "postedAt": "2026-05-17T20:24:18.000Z"
-        },
-        {
-          "id": "om_66a1e3134f",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Social media drives consumer discovery, per Meta",
-          "url": "https://www.socialmediatoday.com/news/social-media-drives-consumer-discovery-per-meta/820437/",
-          "postedAt": "2026-05-17T20:08:52.000Z"
-        },
-        {
-          "id": "om_6fcc1f690b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Publicis to Acquire LiveRamp for $2.2 Billion",
-          "url": "https://www.adweek.com/agencies/publicis-to-acquire-liveramp-for-22-billion/",
-          "postedAt": "2026-05-17T12:00:00.000Z"
-        },
-        {
-          "id": "om_b391aa045b",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
-          "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
-          "postedAt": "2026-05-16T19:26:14.000Z"
-        },
-        {
-          "id": "om_e226d1a38a",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Coworking with Charlie Tetrick",
-          "url": "https://www.marketingbrew.com/stories/coworking-with-charlie-tetrick?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-15T20:44:21.000Z"
-        },
-        {
-          "id": "om_d54849458c",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "The best jokes from this year’s upfronts",
-          "url": "https://www.marketingbrew.com/stories/the-best-jokes-from-this-years-upfronts?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-15T17:49:03.000Z"
-        },
-        {
-          "id": "om_0e13645b26",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "The highs and lows from this year’s upfronts",
-          "url": "https://www.marketingbrew.com/stories/highs-and-lows-2026-upfronts?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-15T17:43:15.000Z"
-        },
-        {
-          "id": "om_e9b5d0a24c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Department stores losing market share to resale",
-          "url": "https://www.retaildive.com/news/department-stores-lose-market-share-resale-secondhand-apparel/820346/",
-          "postedAt": "2026-05-15T16:31:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-18T15:56:29.954Z",
+      "lastUpdated": "2026-05-19T04:33:35.330Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
