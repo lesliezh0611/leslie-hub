@@ -227,6 +227,33 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_fb9dbc9e3a",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "DeepSeek 招做 Agent 的产品经理和研发",
+          "url": "https://x.com/dotey/status/2057090684306276524",
+          "postedAt": "2026-05-20T13:26:52.000Z"
+        },
+        {
+          "id": "vc_dotey_fd524f3d8a",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "终于有个不用侧边栏的 Agent App 设计，但是像浏览器一样顶部 Tab 的体验是否好还不好说。 有个问题就是内存占用必然会更厉害，因为侧边栏切换，默认全局只有一...",
+          "url": "https://x.com/dotey/status/2057088956974449086",
+          "postedAt": "2026-05-20T13:20:00.000Z"
+        },
+        {
+          "id": "vc_steipete_a96ac37f6f",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Can't recommend @cotypist https://cotypist.app enough. Autocomplete everywhere.",
+          "url": "https://x.com/steipete/status/2057040636449116222",
+          "postedAt": "2026-05-20T10:08:00.000Z"
+        },
+        {
           "id": "vc_gdb_ca8f97edce",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -234,6 +261,15 @@
           "title": "openai offering to invest $2M in API credits in every @ycombinator startup in the current batch. compute for powering the next generation of startups.",
           "url": "https://x.com/gdb/status/2056948285038887255",
           "postedAt": "2026-05-20T04:01:02.000Z"
+        },
+        {
+          "id": "vc_dotey_912039f452",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT Teknium 🪽: Re Or if you're new here, setup Hermes Agent today! (and yes, used @dotey's excellent built in infographic skill to make this image :...",
+          "url": "https://x.com/dotey/status/2056966931622621338",
+          "postedAt": "2026-05-20T03:36:42.000Z"
         },
         {
           "id": "vc_sama_6531f08903",
@@ -281,15 +317,6 @@
           "postedAt": "2026-05-19T22:25:49.000Z"
         },
         {
-          "id": "vc_dotey_4593261658",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Antigravity 2.0 和 Codex 长一个样😂 Google 舍得拉下脸抄一下 UI/UX 也不是坏事，这样不会像 Gemini UI 那样难用了",
-          "url": "https://x.com/dotey/status/2056862526239908047",
-          "postedAt": "2026-05-19T22:20:15.000Z"
-        },
-        {
           "id": "vc_steipete_1e18a28016",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -317,6 +344,15 @@
           "postedAt": "2026-05-19T19:12:31.000Z"
         },
         {
+          "id": "vc_steipete_99da5c6820",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Angel 🌼: So Google engineers use Codex, good to know",
+          "url": "https://x.com/steipete/status/2057005860988002738",
+          "postedAt": "2026-05-19T18:32:22.000Z"
+        },
+        {
           "id": "vc_sama_0d5d5b598d",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -324,6 +360,15 @@
           "title": "if this tweet gets 1 like, tibo will reset codex rate limits",
           "url": "https://x.com/sama/status/2056804900017947046",
           "postedAt": "2026-05-19T18:31:16.000Z"
+        },
+        {
+          "id": "vc_steipete_fc32822342",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Lisan al Gaib: GPT-5.5-medium has lower end-to-end latency, uses less tokens and is overall smarter and cheaper than Gemini 3.5 Flash it might genu...",
+          "url": "https://x.com/steipete/status/2057012155866587474",
+          "postedAt": "2026-05-19T18:24:48.000Z"
         },
         {
           "id": "vc_zarazhangrui_6fba52e35b",
@@ -353,15 +398,6 @@
           "postedAt": "2026-05-19T15:26:39.000Z"
         },
         {
-          "id": "vc_dotey_365b421a50",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Gemini 新 UI 很讨厌的是无法像以前一样把常用的 Gem 固定在左侧边栏了，我有几个 Gem 是经常用的，现在每次要点进 Gems，然后去几十个 Gem 找到我要用的，点击...",
-          "url": "https://x.com/dotey/status/2056758117535244797",
-          "postedAt": "2026-05-19T15:25:22.000Z"
-        },
-        {
           "id": "vc_karpathy_6cf0c26e20",
           "source": "karpathy",
           "sourceName": "Andrej Karpathy",
@@ -369,46 +405,10 @@
           "title": "Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the...",
           "url": "https://x.com/karpathy/status/2056753169888334312",
           "postedAt": "2026-05-19T15:05:42.000Z"
-        },
-        {
-          "id": "vc_steipete_8ac0020377",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Boxmining: OpenClaw 5.18 (@openclaw) feels like one of those updates that quietly makes agents way less annoying to run. Faster gateway restarts ar...",
-          "url": "https://x.com/steipete/status/2056682295671562276",
-          "postedAt": "2026-05-19T06:43:01.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_a0ac426930",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "自从Codex上了远程控制，可以用我的macbook和手机来控制我家里的mac mini进行coding，我打开Claude Code的次数真的好像越来越少了。。。",
-          "url": "https://x.com/Khazix0918/status/2056601182068732316",
-          "postedAt": "2026-05-19T05:01:46.000Z"
-        },
-        {
-          "id": "vc_dotey_f60b41122c",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Nous Research: 感谢 @dotey 将他的 baoyu-comic skill 移植到 Hermes Agent！ 这个 skill 可以把一段 prompt 或源文档转成多页知识漫画，支持 6 种风格、7 ...",
-          "url": "https://x.com/dotey/status/2056612558098899263",
-          "postedAt": "2026-05-19T04:19:04.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_51ae0f54dc",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "凌晨见啊==。🙂",
-          "url": "https://x.com/Khazix0918/status/2056577635791311049",
-          "postedAt": "2026-05-19T03:28:12.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-20T04:35:55.240Z",
+      "lastUpdated": "2026-05-20T15:55:16.938Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-20T04:35:56.488Z",
+      "lastUpdated": "2026-05-20T15:55:18.323Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,12 +693,116 @@
       },
       "articles": [
         {
-          "id": "om_d7e4f9ad62",
+          "id": "om_de5f85912a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Can Target’s small upgrades to carts, bathrooms lead to big wins?",
+          "url": "https://www.retaildive.com/news/target-store-upgrades-shopping-carts-bathrooms/820602/",
+          "postedAt": "2026-05-20T15:37:00.000Z"
+        },
+        {
+          "id": "om_bce92a91dc",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
-          "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
-          "postedAt": "2026-05-19T17:45:00.000Z"
+          "title": "Customers say Trump Mobile is leaking their personal information",
+          "url": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
+          "postedAt": "2026-05-20T15:28:55.000Z"
+        },
+        {
+          "id": "om_eaec852dc4",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target hits bullseye with ‘impressive’ earnings",
+          "url": "https://www.retaildive.com/news/target-impressive-earnings-q1/820713/",
+          "postedAt": "2026-05-20T15:21:00.000Z"
+        },
+        {
+          "id": "om_31ec1f90a2",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "OpenAI is allowing financial services brands into the ChatGPT ads pilot",
+          "url": "https://www.marketingbrew.com/stories/openai-financial-services-brands-chatgpt-ads-pilot?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-20T15:17:47.000Z"
+        },
+        {
+          "id": "om_6cd339ac79",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Trump Mobile may be leaking customer addresses",
+          "url": "https://www.theverge.com/gadgets/934522/trump-mobile-may-be-leaking-customer-addresses",
+          "postedAt": "2026-05-20T15:12:42.000Z"
+        },
+        {
+          "id": "om_44f0320c63",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Ally courts millennial, Gen Z customers with new brand platform",
+          "url": "https://www.marketingdive.com/news/ally-billboard-marketing-gen-z-millennials-digital-banking-branches/820727/",
+          "postedAt": "2026-05-20T15:05:00.000Z"
+        },
+        {
+          "id": "om_61b182f212",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "E.l.f. blends into ‘Survivor 50’ finale with challenge-themed spots",
+          "url": "https://www.marketingdive.com/news/elf-blends-into-survivor-50-finale-with-challenge-themed-spots/820705/",
+          "postedAt": "2026-05-20T14:50:00.000Z"
+        },
+        {
+          "id": "om_870b5632e7",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Visa taps Jason Sudeikis, soccer stars for ‘Tap In’ World Cup campaign",
+          "url": "https://www.marketingbrew.com/stories/visa-jason-sudeikis-world-cup-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-20T14:49:03.000Z"
+        },
+        {
+          "id": "om_5abe2220af",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Michaels boosts party supplies by 60%, opens DIY bars",
+          "url": "https://www.retaildive.com/news/michaels-boosts-party-supplies-opens-diy-bars/820605/",
+          "postedAt": "2026-05-20T14:23:00.000Z"
+        },
+        {
+          "id": "om_af699a66f4",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+          "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+          "postedAt": "2026-05-20T14:00:00.000Z"
+        },
+        {
+          "id": "om_1ee3add66c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Centenario Tequila celebrates Mexican pride in campaign ahead of World Cup",
+          "url": "https://www.marketingdive.com/news/centenario-tequila-celebrates-mexican-pride-in-campaign-ahead-of-world-cup/820633/",
+          "postedAt": "2026-05-20T13:02:00.000Z"
+        },
+        {
+          "id": "om_4c1f362738",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "After 3 Years of Missed Sales, Target Reports Growth, but Warns of Upcoming Headwinds",
+          "url": "https://www.adweek.com/commerce/after-3-years-of-missed-sales-target-reports-growth-but-warns-that-it-may-not-last/",
+          "postedAt": "2026-05-20T09:29:20.000Z"
+        },
+        {
+          "id": "om_f7ad233098",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ford’s Global CMO Lisa Materazzo to Exit",
+          "url": "https://www.adweek.com/brand-marketing/fords-global-cmo-lisa-materazzo-to-exit/",
+          "postedAt": "2026-05-20T07:52:21.000Z"
+        },
+        {
+          "id": "om_06d0532526",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Heinz Brings Back the Iconic Glass Bottle To Mark Its 157th Birthday",
+          "url": "https://www.adweek.com/brand-marketing/heinz-brings-back-the-iconic-glass-bottle-to-mark-its-157th-birthday/",
+          "postedAt": "2026-05-20T07:00:00.000Z"
         },
         {
           "id": "om_4241590c2c",
@@ -747,114 +851,10 @@
           "title": "Oscar Mayer’s Wienermobile race returns with bolder media blitz",
           "url": "https://www.marketingdive.com/news/oscar-mayers-wienermobile-race-returns-with-bolder-media-blitz/820584/",
           "postedAt": "2026-05-19T14:57:00.000Z"
-        },
-        {
-          "id": "om_11d0661c8a",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside Hint’s satirical, sexed-up campaign to make consumers crave water",
-          "url": "https://www.marketingbrew.com/stories/hints-sexy-water-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-19T13:01:49.000Z"
-        },
-        {
-          "id": "om_e764598240",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ring Leader: How Ōura Became an Icon of the Wearable Health Movement",
-          "url": "https://www.adweek.com/brand-marketing/ring-leader-how-oura-became-an-icon-of-the-wearable-health-movement/",
-          "postedAt": "2026-05-19T09:19:16.000Z"
-        },
-        {
-          "id": "om_a8a3115fb3",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Jim Lecinski on the New Zero Moment of Truth in the AI Era",
-          "url": "https://www.adweek.com/brand-marketing/jim-lecinski-on-the-new-zero-moment-of-truth-in-the-ai-era/",
-          "postedAt": "2026-05-19T09:18:12.000Z"
-        },
-        {
-          "id": "om_2f5a56acec",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why Marketers Must Look for New Opportunities in ‘Cultural Time Zones’",
-          "url": "https://www.adweek.com/agencies/why-marketers-must-look-for-new-opportunities-in-cultural-time-zones/",
-          "postedAt": "2026-05-19T09:00:00.000Z"
-        },
-        {
-          "id": "om_61db9c062d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Moburst’s Latest $11.8M Investment Round Is More Than Just Your Typical Deal",
-          "url": "https://www.adweek.com/agencies/mobursts-latest-118m-investment-round-is-more-than-just-your-typical-deal/",
-          "postedAt": "2026-05-19T08:30:00.000Z"
-        },
-        {
-          "id": "om_5abecfeb24",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Pinterest wants brands to start thinking about Christmas",
-          "url": "https://www.socialmediatoday.com/news/pinterest-wants-brands-to-start-thinking-about-christmas/820547/",
-          "postedAt": "2026-05-18T21:09:56.000Z"
-        },
-        {
-          "id": "om_fd78b8a8d1",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Meta adds new creator publishing tools",
-          "url": "https://www.socialmediatoday.com/news/meta-adds-new-creator-publishing-tools/820542/",
-          "postedAt": "2026-05-18T20:52:53.000Z"
-        },
-        {
-          "id": "om_54a10970a0",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "X announces creator-driven ad partnership",
-          "url": "https://www.socialmediatoday.com/news/x-announces-creator-driven-ad-partnership/820540/",
-          "postedAt": "2026-05-18T20:46:34.000Z"
-        },
-        {
-          "id": "om_f464ae12ef",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Dr Pepper gets into microdramas for return of dirty soda-inspired flavor",
-          "url": "https://www.marketingdive.com/news/dr-pepper-taps-into-microdrama-trend-for-creamy-coconut-return/820499/",
-          "postedAt": "2026-05-18T18:52:00.000Z"
-        },
-        {
-          "id": "om_8c88defc29",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Article reveals plans for its first US retail stores",
-          "url": "https://www.retaildive.com/news/article-furniture-brand-first-us-retail-stores/820340/",
-          "postedAt": "2026-05-18T18:34:00.000Z"
-        },
-        {
-          "id": "om_112a8f6459",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Amid upfronts sports overload, pitches around data, AI come into focus",
-          "url": "https://www.marketingdive.com/news/amid-upfronts-sports-overload-pitches-around-data-ai-come-into-focus/820444/",
-          "postedAt": "2026-05-18T16:41:00.000Z"
-        },
-        {
-          "id": "om_41d1622f2d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Lululemon claps back at Chip Wilson after spurned settlement offer",
-          "url": "https://www.retaildive.com/news/lululemon-chip-wilson-criticism-proxy-fight-settlement/820490/",
-          "postedAt": "2026-05-18T16:41:00.000Z"
-        },
-        {
-          "id": "om_1dd5b6bb97",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Madewell plans to open 3 stores, starting this week",
-          "url": "https://www.retaildive.com/news/madewell-three-store-openings-sag-harbor-new-york-connecticut-oregon/820470/",
-          "postedAt": "2026-05-18T16:21:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-20T04:35:59.150Z",
+      "lastUpdated": "2026-05-20T15:55:24.389Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
