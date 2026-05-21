@@ -227,22 +227,121 @@
       ],
       "articles": [
         {
-          "id": "vc_dotey_fb9dbc9e3a",
+          "id": "vc_dotey_a6f71fa690",
           "source": "dotey",
           "sourceName": "宝玉",
           "platform": "x",
-          "title": "DeepSeek 招做 Agent 的产品经理和研发",
-          "url": "https://x.com/dotey/status/2057090684306276524",
-          "postedAt": "2026-05-20T13:26:52.000Z"
+          "title": "这图还挺有意思，描述了 AI 时代的 T 型开发者需要的能力模型。 （一）生成式 AI 应用 (GenAI usage) 这块内容像一把大伞，横跨在整个 T字的最顶层。这意味着，...",
+          "url": "https://x.com/dotey/status/2057300607715741861",
+          "postedAt": "2026-05-21T03:21:02.000Z"
         },
         {
-          "id": "vc_dotey_fd524f3d8a",
+          "id": "vc_Khazix0918_029815720b",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2057294425135722496",
+          "url": "https://x.com/Khazix0918/status/2057299527254847932",
+          "postedAt": "2026-05-21T03:16:44.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_ac588705ac",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Great slide from the “How to thrive as an AI-era developer” session at Google I/O today I think this T-shape will apply to not just developers but e...",
+          "url": "https://x.com/zarazhangrui/status/2057267931025957348",
+          "postedAt": "2026-05-21T01:11:11.000Z"
+        },
+        {
+          "id": "vc_dotey_4e5632b4d7",
           "source": "dotey",
           "sourceName": "宝玉",
           "platform": "x",
-          "title": "终于有个不用侧边栏的 Agent App 设计，但是像浏览器一样顶部 Tab 的体验是否好还不好说。 有个问题就是内存占用必然会更厉害，因为侧边栏切换，默认全局只有一...",
-          "url": "https://x.com/dotey/status/2057088956974449086",
-          "postedAt": "2026-05-20T13:20:00.000Z"
+          "title": "http://x.com/i/article/2057247064115838976",
+          "url": "https://x.com/dotey/status/2057250417638035555",
+          "postedAt": "2026-05-21T00:01:36.000Z"
+        },
+        {
+          "id": "vc_dotey_742bbe70c6",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "这位博主做了系列 Google Omni vs Seedance 2.0的对比视频，看起来差距还是蛮明显",
+          "url": "https://x.com/dotey/status/2057245845964181593",
+          "postedAt": "2026-05-20T23:43:26.000Z"
+        },
+        {
+          "id": "vc_sama_49459f8e8d",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "three of the things we are most excited about: 1. AGI accelerating research 2. AGI accelerating companies 3. personal AGI accelerating everyone in ach...",
+          "url": "https://x.com/sama/status/2057218997503086888",
+          "postedAt": "2026-05-20T21:56:44.000Z"
+        },
+        {
+          "id": "vc_dotey_6f6d224e95",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT eraera: Re @dotey 这才是今天迷茫的年轻人需要的，而不是什么：“你们要拥抱AI” 这样的说教。",
+          "url": "https://x.com/dotey/status/2057215630915338748",
+          "postedAt": "2026-05-20T21:20:56.000Z"
+        },
+        {
+          "id": "vc_sama_5ed4a1405f",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "a general-purpose model solved a major open problem in mathematics. we'll be saying this a lot over the coming years, but this is a kinda big mileston...",
+          "url": "https://x.com/sama/status/2057203171198636251",
+          "postedAt": "2026-05-20T20:53:51.000Z"
+        },
+        {
+          "id": "vc_sama_ac0dca4101",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "RT Sebastien Bubeck: http://x.com/i/article/2057150538202976256",
+          "url": "https://x.com/sama/status/2057203380028916099",
+          "postedAt": "2026-05-20T19:53:29.000Z"
+        },
+        {
+          "id": "vc_dotey_d70ceb4b28",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "上周末好几场美国大学毕业典礼上，只要演讲嘉宾一夸 AI，台下就开始嘘。 被嘘得最惨的是前 Google CEO Eric Schmidt。他在亚利桑那大学的演讲里把 AI 比作一张火...",
+          "url": "https://x.com/dotey/status/2057183190301679842",
+          "postedAt": "2026-05-20T19:34:27.000Z"
+        },
+        {
+          "id": "vc_sama_76efc8881b",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "RT Noam Brown: Today, we’re sharing that a general-purpose internal @openai model achieved a breakthrough on one of the best-known combinatorial geom...",
+          "url": "https://x.com/sama/status/2057203288131694884",
+          "postedAt": "2026-05-20T19:14:37.000Z"
+        },
+        {
+          "id": "vc_sama_139441501e",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "RT Sheryl Hsu: It’s a really special time to be alive…some thoughts from training this model 🧵",
+          "url": "https://x.com/sama/status/2057204170407727590",
+          "postedAt": "2026-05-20T19:09:15.000Z"
+        },
+        {
+          "id": "vc_steipete_9ac95585dc",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Trevin Chow: love http://clawpatch.ai, so useful. Wrote a thin skill to help make my workflows easier especially when trying to parallelize fixes, ...",
+          "url": "https://x.com/steipete/status/2057180463593099326",
+          "postedAt": "2026-05-20T15:26:41.000Z"
         },
         {
           "id": "vc_steipete_a96ac37f6f",
@@ -261,24 +360,6 @@
           "title": "openai offering to invest $2M in API credits in every @ycombinator startup in the current batch. compute for powering the next generation of startups.",
           "url": "https://x.com/gdb/status/2056948285038887255",
           "postedAt": "2026-05-20T04:01:02.000Z"
-        },
-        {
-          "id": "vc_dotey_912039f452",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Teknium 🪽: Re Or if you're new here, setup Hermes Agent today! (and yes, used @dotey's excellent built in infographic skill to make this image :...",
-          "url": "https://x.com/dotey/status/2056966931622621338",
-          "postedAt": "2026-05-20T03:36:42.000Z"
-        },
-        {
-          "id": "vc_sama_6531f08903",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "i am excited to see what will happen with tokenmaxxing startups, both for how they work internally and the products they can build. openai offered to ...",
-          "url": "https://x.com/sama/status/2056933166875857290",
-          "postedAt": "2026-05-20T03:00:57.000Z"
         },
         {
           "id": "vc_steipete_e27e768792",
@@ -308,6 +389,15 @@
           "postedAt": "2026-05-19T23:10:24.000Z"
         },
         {
+          "id": "vc_steipete_4112ea238d",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT This Week in Startups: Someone connected Open Claw to their Meta Ray-Bans. Shawn looks at a box of lens wipes and tells his agent to add them to hi...",
+          "url": "https://x.com/steipete/status/2057183160627024190",
+          "postedAt": "2026-05-19T23:07:18.000Z"
+        },
+        {
           "id": "vc_gdb_e38804edcc",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -315,100 +405,10 @@
           "title": "we are offering discounted tokens and certainty on capacity availability in exchange for 1-3 year commits. we expect that the world will feel increasi...",
           "url": "https://x.com/gdb/status/2056863925791293675",
           "postedAt": "2026-05-19T22:25:49.000Z"
-        },
-        {
-          "id": "vc_steipete_1e18a28016",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT OpenClaw🦞: OpenClaw just plugged into X, and now your own hardware gets the claws. 🦞 Bring your Grok, SuperGrok or X Premium subscription to ...",
-          "url": "https://x.com/steipete/status/2056845604379046308",
-          "postedAt": "2026-05-19T19:56:39.000Z"
-        },
-        {
-          "id": "vc_gdb_658442e436",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "SynthID for checking if an image was generated by OpenAI:",
-          "url": "https://x.com/gdb/status/2056820240860778750",
-          "postedAt": "2026-05-19T19:32:13.000Z"
-        },
-        {
-          "id": "vc_dotey_50fc5ee577",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Codex 看起来又双叒叕重置了！ 感觉又错过了 几十亿 Token！",
-          "url": "https://x.com/dotey/status/2056815281675096122",
-          "postedAt": "2026-05-19T19:12:31.000Z"
-        },
-        {
-          "id": "vc_steipete_99da5c6820",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Angel 🌼: So Google engineers use Codex, good to know",
-          "url": "https://x.com/steipete/status/2057005860988002738",
-          "postedAt": "2026-05-19T18:32:22.000Z"
-        },
-        {
-          "id": "vc_sama_0d5d5b598d",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "if this tweet gets 1 like, tibo will reset codex rate limits",
-          "url": "https://x.com/sama/status/2056804900017947046",
-          "postedAt": "2026-05-19T18:31:16.000Z"
-        },
-        {
-          "id": "vc_steipete_fc32822342",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Lisan al Gaib: GPT-5.5-medium has lower end-to-end latency, uses less tokens and is overall smarter and cheaper than Gemini 3.5 Flash it might genu...",
-          "url": "https://x.com/steipete/status/2057012155866587474",
-          "postedAt": "2026-05-19T18:24:48.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_6fba52e35b",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "RT Samuel Zhang: Introducing Reposeek. The best code your agent can write is code it doesn't have to. Most agents start from a blank slate. But the sl...",
-          "url": "https://x.com/zarazhangrui/status/2056852996336898526",
-          "postedAt": "2026-05-19T16:02:31.000Z"
-        },
-        {
-          "id": "vc_dotey_0e3008feb7",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Andrej Karpathy 官宣加入 Anthropic",
-          "url": "https://x.com/dotey/status/2056758623338942530",
-          "postedAt": "2026-05-19T15:27:23.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_9531ff06ac",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "卧槽！！太炸裂了。。。",
-          "url": "https://x.com/Khazix0918/status/2056758441423855942",
-          "postedAt": "2026-05-19T15:26:39.000Z"
-        },
-        {
-          "id": "vc_karpathy_6cf0c26e20",
-          "source": "karpathy",
-          "sourceName": "Andrej Karpathy",
-          "platform": "x",
-          "title": "Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the...",
-          "url": "https://x.com/karpathy/status/2056753169888334312",
-          "postedAt": "2026-05-19T15:05:42.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-20T15:55:16.938Z",
+      "lastUpdated": "2026-05-21T04:43:33.201Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-20T15:55:18.323Z",
+      "lastUpdated": "2026-05-21T04:43:34.417Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,94 @@
       },
       "articles": [
         {
+          "id": "om_0dcba1b6ba",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+          "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+          "postedAt": "2026-05-21T00:28:31.000Z"
+        },
+        {
+          "id": "om_adca3c8a62",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok highlights value of app for SMBs",
+          "url": "https://www.socialmediatoday.com/news/tiktok-highlights-value-of-app-for-smbs/820803/",
+          "postedAt": "2026-05-20T21:36:36.000Z"
+        },
+        {
+          "id": "om_ef53ebda5b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Vox Media’s Unsold Brands Field Penske Interest and Executive Departures",
+          "url": "https://www.adweek.com/media/vox-media-murdoch-penske-popsugar-she-media/",
+          "postedAt": "2026-05-20T19:20:11.000Z"
+        },
+        {
+          "id": "om_d8901ab280",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How do holding companies decide which agency brands to sunset?",
+          "url": "https://www.marketingbrew.com/stories/how-do-holding-companies-decide-which-agency-brands-to-sunset?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-20T18:34:14.000Z"
+        },
+        {
+          "id": "om_301a1ff64c",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
+          "url": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
+          "postedAt": "2026-05-20T18:14:04.000Z"
+        },
+        {
+          "id": "om_a90f310dc6",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Authentic Brands Group has a new CEO, but Jamie Salter is sticking around",
+          "url": "https://www.retaildive.com/news/authentic-brands-group-ceo-jamie-salter-steps-down/820748/",
+          "postedAt": "2026-05-20T18:11:00.000Z"
+        },
+        {
+          "id": "om_b0ae89ec5f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "AI referrals make shoppers more likely to either return — or never come back",
+          "url": "https://www.retaildive.com/news/ai-referrals-shoppers-more-likely-return-again-never-come-back/820464/",
+          "postedAt": "2026-05-20T16:58:00.000Z"
+        },
+        {
+          "id": "om_02da341ec9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Vans ekes out sliver of growth in the US",
+          "url": "https://www.retaildive.com/news/vans-sliver-growth-us-americas-vf-corp-north-face/820711/",
+          "postedAt": "2026-05-20T16:47:00.000Z"
+        },
+        {
+          "id": "om_03deba13bf",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "‘Switzerland Is No Longer Neutral’: LiveRamp Faces Risk of Client Pullback Under Publicis",
+          "url": "https://www.adweek.com/agencies/switzerland-is-no-longer-neutral-liveramp-faces-risk-of-client-pullback-under-publicis/",
+          "postedAt": "2026-05-20T16:44:25.000Z"
+        },
+        {
+          "id": "om_64e57a0102",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Lowe’s efforts to win over pros could save it from the home sector’s challenges",
+          "url": "https://www.retaildive.com/news/lowes-pros-growth-home-sector-challenges/820732/",
+          "postedAt": "2026-05-20T16:40:00.000Z"
+        },
+        {
+          "id": "om_274ac921f5",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Google upgrades AI search ads: what marketers need to know",
+          "url": "https://www.marketingdive.com/news/google-upgrades-ai-search-ads-what-marketers-need-to-know/820663/",
+          "postedAt": "2026-05-20T16:00:00.000Z"
+        },
+        {
           "id": "om_de5f85912a",
           "source": "Retail Dive",
           "lang": "en",
@@ -723,14 +811,6 @@
           "title": "OpenAI is allowing financial services brands into the ChatGPT ads pilot",
           "url": "https://www.marketingbrew.com/stories/openai-financial-services-brands-chatgpt-ads-pilot?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-05-20T15:17:47.000Z"
-        },
-        {
-          "id": "om_6cd339ac79",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Trump Mobile may be leaking customer addresses",
-          "url": "https://www.theverge.com/gadgets/934522/trump-mobile-may-be-leaking-customer-addresses",
-          "postedAt": "2026-05-20T15:12:42.000Z"
         },
         {
           "id": "om_44f0320c63",
@@ -765,96 +845,16 @@
           "postedAt": "2026-05-20T14:23:00.000Z"
         },
         {
-          "id": "om_af699a66f4",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-          "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
-          "postedAt": "2026-05-20T14:00:00.000Z"
-        },
-        {
-          "id": "om_1ee3add66c",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Centenario Tequila celebrates Mexican pride in campaign ahead of World Cup",
-          "url": "https://www.marketingdive.com/news/centenario-tequila-celebrates-mexican-pride-in-campaign-ahead-of-world-cup/820633/",
-          "postedAt": "2026-05-20T13:02:00.000Z"
-        },
-        {
-          "id": "om_4c1f362738",
+          "id": "om_4a8adf77ff",
           "source": "Adweek",
           "lang": "en",
-          "title": "After 3 Years of Missed Sales, Target Reports Growth, but Warns of Upcoming Headwinds",
-          "url": "https://www.adweek.com/commerce/after-3-years-of-missed-sales-target-reports-growth-but-warns-that-it-may-not-last/",
-          "postedAt": "2026-05-20T09:29:20.000Z"
-        },
-        {
-          "id": "om_f7ad233098",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ford’s Global CMO Lisa Materazzo to Exit",
-          "url": "https://www.adweek.com/brand-marketing/fords-global-cmo-lisa-materazzo-to-exit/",
-          "postedAt": "2026-05-20T07:52:21.000Z"
-        },
-        {
-          "id": "om_06d0532526",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Heinz Brings Back the Iconic Glass Bottle To Mark Its 157th Birthday",
-          "url": "https://www.adweek.com/brand-marketing/heinz-brings-back-the-iconic-glass-bottle-to-mark-its-157th-birthday/",
-          "postedAt": "2026-05-20T07:00:00.000Z"
-        },
-        {
-          "id": "om_4241590c2c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Ikea franchisor to cut 850 jobs",
-          "url": "https://www.retaildive.com/news/inter-ikea-group-layoffs-cut-850-jobs/820614/",
-          "postedAt": "2026-05-19T16:11:00.000Z"
-        },
-        {
-          "id": "om_75743ae793",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "YouTube’s SVOD business is helping fuel the platform’s domination of TV, too",
-          "url": "https://www.marketingbrew.com/stories/youtubes-svod-business-platforms-tv?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-19T15:48:07.000Z"
-        },
-        {
-          "id": "om_731a83afb3",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target taps former Walmart exec as supply chain, logistics chief",
-          "url": "https://www.retaildive.com/news/target-former-walmart-exec-supply-chain-logistics-chief/820611/",
-          "postedAt": "2026-05-19T15:30:00.000Z"
-        },
-        {
-          "id": "om_22a873bebb",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Former Calvin Klein exec will be Banana Republic’s CEO",
-          "url": "https://www.retaildive.com/news/calvin-klein-exec-banana-republic-ceo-gap/820573/",
-          "postedAt": "2026-05-19T15:24:00.000Z"
-        },
-        {
-          "id": "om_cc0177001c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "At Home CEO to retire after leading it through bankruptcy",
-          "url": "https://www.retaildive.com/news/at-home-ceo-brad-weston-retires-post-bankruptcy/820589/",
-          "postedAt": "2026-05-19T15:05:00.000Z"
-        },
-        {
-          "id": "om_7be397062e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Oscar Mayer’s Wienermobile race returns with bolder media blitz",
-          "url": "https://www.marketingdive.com/news/oscar-mayers-wienermobile-race-returns-with-bolder-media-blitz/820584/",
-          "postedAt": "2026-05-19T14:57:00.000Z"
+          "title": "LiveRamp’s Data Gives Publicis a New Way Into Commerce Media and Agentic AI",
+          "url": "https://www.adweek.com/commerce/liveramps-data-gives-publicis-a-new-way-into-commerce-media-and-agentic-ai/",
+          "postedAt": "2026-05-20T14:04:08.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-20T15:55:24.389Z",
+      "lastUpdated": "2026-05-21T04:43:38.670Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
