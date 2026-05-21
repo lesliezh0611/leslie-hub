@@ -227,6 +227,51 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_7a09229dd1",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "codex 迭代很快，新增了很多功能在手机端： • 编译完成，推送到位：现在你可以接收代码轮次编译完成（turn completion）的实时通知了，不用盯着屏幕等。 • 断...",
+          "url": "https://x.com/dotey/status/2057467744124109151",
+          "postedAt": "2026-05-21T14:25:10.000Z"
+        },
+        {
+          "id": "vc_gdb_b8b1857b73",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "our math result is a milestone in new knowledge generation by AI. very exciting to imagine similar results in other scientific fields. \"It's very hard...",
+          "url": "https://x.com/gdb/status/2057365298873811303",
+          "postedAt": "2026-05-21T07:38:05.000Z"
+        },
+        {
+          "id": "vc_gdb_95acfe9cbb",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "ChatGPT team ships",
+          "url": "https://x.com/gdb/status/2057341198369452252",
+          "postedAt": "2026-05-21T06:02:19.000Z"
+        },
+        {
+          "id": "vc_steipete_cb7f23ebab",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT dax: ceo of doritos: every time you think \"this meal doesn't need doritos\" i can guarantee you it does",
+          "url": "https://x.com/steipete/status/2057416417289425131",
+          "postedAt": "2026-05-21T04:58:37.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_3215190e6a",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "I think that in an AI-native team, - ICs should start thinking like managers: how to delegate tasks to agents, how to set standards & verify output - ...",
+          "url": "https://x.com/zarazhangrui/status/2057324988009685208",
+          "postedAt": "2026-05-21T04:57:55.000Z"
+        },
+        {
           "id": "vc_dotey_a6f71fa690",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -272,6 +317,15 @@
           "postedAt": "2026-05-20T23:43:26.000Z"
         },
         {
+          "id": "vc_steipete_018044ea9a",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT labib: codex compaction is arguably the single biggest user experience improvement in ai in the last 6ish months and does not get as much hype as i...",
+          "url": "https://x.com/steipete/status/2057418222043820348",
+          "postedAt": "2026-05-20T22:10:31.000Z"
+        },
+        {
           "id": "vc_sama_49459f8e8d",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -306,15 +360,6 @@
           "title": "RT Sebastien Bubeck: http://x.com/i/article/2057150538202976256",
           "url": "https://x.com/sama/status/2057203380028916099",
           "postedAt": "2026-05-20T19:53:29.000Z"
-        },
-        {
-          "id": "vc_dotey_d70ceb4b28",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "上周末好几场美国大学毕业典礼上，只要演讲嘉宾一夸 AI，台下就开始嘘。 被嘘得最惨的是前 Google CEO Eric Schmidt。他在亚利桑那大学的演讲里把 AI 比作一张火...",
-          "url": "https://x.com/dotey/status/2057183190301679842",
-          "postedAt": "2026-05-20T19:34:27.000Z"
         },
         {
           "id": "vc_sama_76efc8881b",
@@ -360,55 +405,10 @@
           "title": "openai offering to invest $2M in API credits in every @ycombinator startup in the current batch. compute for powering the next generation of startups.",
           "url": "https://x.com/gdb/status/2056948285038887255",
           "postedAt": "2026-05-20T04:01:02.000Z"
-        },
-        {
-          "id": "vc_steipete_e27e768792",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Tak 🦞: Now OpenClaw contributors can hatch their PR eggs when their PRs are merged 🐣 Come and contribute to the best open source project in t...",
-          "url": "https://x.com/steipete/status/2056902147778695403",
-          "postedAt": "2026-05-20T00:16:31.000Z"
-        },
-        {
-          "id": "vc_gdb_fc44dcc9f3",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "codex app is very good",
-          "url": "https://x.com/gdb/status/2056882844270739883",
-          "postedAt": "2026-05-19T23:40:59.000Z"
-        },
-        {
-          "id": "vc_gdb_1c246184da",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "the team is doing great work on agentic security",
-          "url": "https://x.com/gdb/status/2056875145277387180",
-          "postedAt": "2026-05-19T23:10:24.000Z"
-        },
-        {
-          "id": "vc_steipete_4112ea238d",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT This Week in Startups: Someone connected Open Claw to their Meta Ray-Bans. Shawn looks at a box of lens wipes and tells his agent to add them to hi...",
-          "url": "https://x.com/steipete/status/2057183160627024190",
-          "postedAt": "2026-05-19T23:07:18.000Z"
-        },
-        {
-          "id": "vc_gdb_e38804edcc",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "we are offering discounted tokens and certainty on capacity availability in exchange for 1-3 year commits. we expect that the world will feel increasi...",
-          "url": "https://x.com/gdb/status/2056863925791293675",
-          "postedAt": "2026-05-19T22:25:49.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-21T04:43:33.201Z",
+      "lastUpdated": "2026-05-21T15:51:13.485Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-21T04:43:34.417Z",
+      "lastUpdated": "2026-05-21T15:51:14.682Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,102 @@
       },
       "articles": [
         {
+          "id": "om_7929ff1a00",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart warns of price increases due to fuel costs",
+          "url": "https://www.retaildive.com/news/walmart-price-increases-iran-war-fuel-costs-q1/820845/",
+          "postedAt": "2026-05-21T15:19:00.000Z"
+        },
+        {
+          "id": "om_8d9eb9f801",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Lee jeans sold to brand management firm for up to $1B",
+          "url": "https://www.retaildive.com/news/kontoor-sells-lee-jeans-authentic-brands-one-billion/820843/",
+          "postedAt": "2026-05-21T15:15:00.000Z"
+        },
+        {
+          "id": "om_11dcf46726",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Manischewitz celebrates Jewish matchmaking with reality dating series",
+          "url": "https://www.marketingdive.com/news/manischewitz-celebrates-jewish-matchmaking-with-reality-dating-series/820751/",
+          "postedAt": "2026-05-21T15:00:00.000Z"
+        },
+        {
+          "id": "om_f6475707a2",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Athletic Brewing opens marketing tap to stand out in crowded summer",
+          "url": "https://www.marketingdive.com/news/athletic-brewing-pours-more-into-marketing-to-stand-out-in-crowded-summer/820838/",
+          "postedAt": "2026-05-21T14:47:00.000Z"
+        },
+        {
+          "id": "om_e662c861e9",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+          "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+          "postedAt": "2026-05-21T13:52:23.000Z"
+        },
+        {
+          "id": "om_96d9508e8e",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why Coinbase is leaning on product-focused marketing for the first time",
+          "url": "https://www.marketingbrew.com/stories/why-coinbase-is-leaning-on-product-focused-marketing-for-the-first-time?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-21T13:43:08.000Z"
+        },
+        {
+          "id": "om_e7762e1205",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Google announces new AI Mode ad formats and agentic commerce tools at Google Marketing Live",
+          "url": "https://www.marketingbrew.com/stories/google-announces-new-ai-mode-ad-formats-and-agentic-commerce-tools-at-google-marketing-live?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-21T12:00:19.000Z"
+        },
+        {
+          "id": "om_ba0459e5f7",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Zevia’s CMO on how the ‘radically real’ soda is stepping up marketing",
+          "url": "https://www.marketingdive.com/news/zevias-cmo-on-how-the-radically-real-soda-is-stepping-up-marketing/820512/",
+          "postedAt": "2026-05-21T12:00:00.000Z"
+        },
+        {
+          "id": "om_f27913d925",
+          "source": "Wired",
+          "lang": "en",
+          "title": "3 Best Smart Ring Brands: Oura, RingConn, and Samsung (2026)",
+          "url": "https://www.wired.com/gallery/best-smart-rings/",
+          "postedAt": "2026-05-21T11:01:00.000Z"
+        },
+        {
+          "id": "om_c8bd6944d4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Walmart’s Ad Growth Holds Steady, up 37% in Q1",
+          "url": "https://www.adweek.com/commerce/walmarts-ad-growth-holds-steady-up-37-in-q1/",
+          "postedAt": "2026-05-21T09:56:48.000Z"
+        },
+        {
+          "id": "om_6326d41d86",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The $15 Trillion Audience Marketers Still Treat Like an Afterthought",
+          "url": "https://www.adweek.com/brand-marketing/the-15-trillion-audience-marketers-still-treat-like-an-afterthought/",
+          "postedAt": "2026-05-21T09:29:39.000Z"
+        },
+        {
+          "id": "om_fa7e30e34a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Publicis’ Carla Serrano Warns Women Could Pay the Price Amid AI Shift",
+          "url": "https://www.adweek.com/agencies/publicis-carla-serrano-warns-women-could-pay-the-price-amid-ai-shift/",
+          "postedAt": "2026-05-21T06:15:26.000Z"
+        },
+        {
           "id": "om_0dcba1b6ba",
           "source": "TechCrunch",
           "lang": "en",
@@ -725,14 +821,6 @@
           "postedAt": "2026-05-20T18:34:14.000Z"
         },
         {
-          "id": "om_301a1ff64c",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
-          "url": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
-          "postedAt": "2026-05-20T18:14:04.000Z"
-        },
-        {
           "id": "om_a90f310dc6",
           "source": "Retail Dive",
           "lang": "en",
@@ -763,98 +851,10 @@
           "title": "‘Switzerland Is No Longer Neutral’: LiveRamp Faces Risk of Client Pullback Under Publicis",
           "url": "https://www.adweek.com/agencies/switzerland-is-no-longer-neutral-liveramp-faces-risk-of-client-pullback-under-publicis/",
           "postedAt": "2026-05-20T16:44:25.000Z"
-        },
-        {
-          "id": "om_64e57a0102",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Lowe’s efforts to win over pros could save it from the home sector’s challenges",
-          "url": "https://www.retaildive.com/news/lowes-pros-growth-home-sector-challenges/820732/",
-          "postedAt": "2026-05-20T16:40:00.000Z"
-        },
-        {
-          "id": "om_274ac921f5",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Google upgrades AI search ads: what marketers need to know",
-          "url": "https://www.marketingdive.com/news/google-upgrades-ai-search-ads-what-marketers-need-to-know/820663/",
-          "postedAt": "2026-05-20T16:00:00.000Z"
-        },
-        {
-          "id": "om_de5f85912a",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Can Target’s small upgrades to carts, bathrooms lead to big wins?",
-          "url": "https://www.retaildive.com/news/target-store-upgrades-shopping-carts-bathrooms/820602/",
-          "postedAt": "2026-05-20T15:37:00.000Z"
-        },
-        {
-          "id": "om_bce92a91dc",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Customers say Trump Mobile is leaking their personal information",
-          "url": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
-          "postedAt": "2026-05-20T15:28:55.000Z"
-        },
-        {
-          "id": "om_eaec852dc4",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target hits bullseye with ‘impressive’ earnings",
-          "url": "https://www.retaildive.com/news/target-impressive-earnings-q1/820713/",
-          "postedAt": "2026-05-20T15:21:00.000Z"
-        },
-        {
-          "id": "om_31ec1f90a2",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "OpenAI is allowing financial services brands into the ChatGPT ads pilot",
-          "url": "https://www.marketingbrew.com/stories/openai-financial-services-brands-chatgpt-ads-pilot?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-20T15:17:47.000Z"
-        },
-        {
-          "id": "om_44f0320c63",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Ally courts millennial, Gen Z customers with new brand platform",
-          "url": "https://www.marketingdive.com/news/ally-billboard-marketing-gen-z-millennials-digital-banking-branches/820727/",
-          "postedAt": "2026-05-20T15:05:00.000Z"
-        },
-        {
-          "id": "om_61b182f212",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "E.l.f. blends into ‘Survivor 50’ finale with challenge-themed spots",
-          "url": "https://www.marketingdive.com/news/elf-blends-into-survivor-50-finale-with-challenge-themed-spots/820705/",
-          "postedAt": "2026-05-20T14:50:00.000Z"
-        },
-        {
-          "id": "om_870b5632e7",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Visa taps Jason Sudeikis, soccer stars for ‘Tap In’ World Cup campaign",
-          "url": "https://www.marketingbrew.com/stories/visa-jason-sudeikis-world-cup-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-20T14:49:03.000Z"
-        },
-        {
-          "id": "om_5abe2220af",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Michaels boosts party supplies by 60%, opens DIY bars",
-          "url": "https://www.retaildive.com/news/michaels-boosts-party-supplies-opens-diy-bars/820605/",
-          "postedAt": "2026-05-20T14:23:00.000Z"
-        },
-        {
-          "id": "om_4a8adf77ff",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "LiveRamp’s Data Gives Publicis a New Way Into Commerce Media and Agentic AI",
-          "url": "https://www.adweek.com/commerce/liveramps-data-gives-publicis-a-new-way-into-commerce-media-and-agentic-ai/",
-          "postedAt": "2026-05-20T14:04:08.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-21T04:43:38.670Z",
+      "lastUpdated": "2026-05-21T15:51:17.497Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
