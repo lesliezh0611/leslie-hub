@@ -227,6 +227,60 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_b411f74df9",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "帮转 DeepSeek Harness 团队招人",
+          "url": "https://x.com/dotey/status/2057835713442230638",
+          "postedAt": "2026-05-22T14:47:21.000Z"
+        },
+        {
+          "id": "vc_dotey_14671c41f6",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "最近针对 Codex 优化了一下 发送 X 文章的 Skill，如果安装了Codex 的 Chrome 插件，可以用 @chrome 使用 Chrome 发 X 文章，体验不错",
+          "url": "https://x.com/dotey/status/2057833292708122672",
+          "postedAt": "2026-05-22T14:37:44.000Z"
+        },
+        {
+          "id": "vc_gdb_9523f99466",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "try Appshots in the Codex app:",
+          "url": "https://x.com/gdb/status/2057802037757157838",
+          "postedAt": "2026-05-22T12:33:32.000Z"
+        },
+        {
+          "id": "vc_steipete_f03235515f",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Edd Mann: have really enjoyed using this tool recently! initial analysis and breakdown of semantic features within a system to then go on and revie...",
+          "url": "https://x.com/steipete/status/2057776578646401024",
+          "postedAt": "2026-05-22T08:26:16.000Z"
+        },
+        {
+          "id": "vc_dotey_39e6d9e32e",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 黄赟: Codex 能帮服装店老板复制销冠 这个场景早在去年，参加内部卖 13万私董会员的某厂长付费直播时听到的 他就在门店销冠的领口上，挂了一只麦克风。把1周...",
+          "url": "https://x.com/dotey/status/2057835088692256912",
+          "postedAt": "2026-05-22T07:08:46.000Z"
+        },
+        {
+          "id": "vc_gdb_1a1b199a12",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "trying to remember what it was like to code before codex",
+          "url": "https://x.com/gdb/status/2057704270531903811",
+          "postedAt": "2026-05-22T06:05:03.000Z"
+        },
+        {
           "id": "vc_Khazix0918_7d2abbed30",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -272,22 +326,13 @@
           "postedAt": "2026-05-22T02:18:19.000Z"
         },
         {
-          "id": "vc_dotey_a3e699bba4",
-          "source": "dotey",
-          "sourceName": "宝玉",
+          "id": "vc_steipete_65a6030f79",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "微软开始大规模收回内部员工的 Claude Code 许可证，要求开发者转向自家的 GitHub Copilot CLI。 据 The Verge 报道，微软去年 12 月开始在内部推广 Claude Code...",
-          "url": "https://x.com/dotey/status/2057646103697260783",
-          "postedAt": "2026-05-22T02:13:54.000Z"
-        },
-        {
-          "id": "vc_dotey_d75674bc93",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Jeff Li: “四大”会计师事务所正在从“招审计师”转向“招AI人才”。到 2026 年初，四大发布的招聘广告中，AI 专家的占比已经超过审计岗位占比。 ChatGPT 是...",
-          "url": "https://x.com/dotey/status/2057649372372860968",
-          "postedAt": "2026-05-22T00:36:01.000Z"
+          "title": "RT Justine Moore: Gemini continues to be the most fascinating model",
+          "url": "https://x.com/steipete/status/2057810491095843132",
+          "postedAt": "2026-05-22T01:47:01.000Z"
         },
         {
           "id": "vc_sama_4edeb6b5ed",
@@ -299,15 +344,6 @@
           "postedAt": "2026-05-22T00:09:27.000Z"
         },
         {
-          "id": "vc_dotey_b984e4bfb4",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Cursor 的手机版马上也要出了",
-          "url": "https://x.com/dotey/status/2057607356448473269",
-          "postedAt": "2026-05-21T23:39:56.000Z"
-        },
-        {
           "id": "vc_gdb_016f32df43",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -315,15 +351,6 @@
           "title": "OpenAI for YC companies:",
           "url": "https://x.com/gdb/status/2057582329548447770",
           "postedAt": "2026-05-21T22:00:30.000Z"
-        },
-        {
-          "id": "vc_gdb_c780a990af",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Daybreak for helping cybersecurity at major banks:",
-          "url": "https://x.com/gdb/status/2057561615868813631",
-          "postedAt": "2026-05-21T20:38:11.000Z"
         },
         {
           "id": "vc_sama_22e591f392",
@@ -335,13 +362,13 @@
           "postedAt": "2026-05-21T20:30:38.000Z"
         },
         {
-          "id": "vc_gdb_4ad6da829d",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
+          "id": "vc_steipete_95bc0af8aa",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "ChatGPT for PowerPoint:",
-          "url": "https://x.com/gdb/status/2057556336003416553",
-          "postedAt": "2026-05-21T20:17:12.000Z"
+          "title": "RT OpenAI Developers: It’s Codex Thursday, and yes, we have updates for you. First up: Appshots, a new way to bring the context of what you’re worki...",
+          "url": "https://x.com/steipete/status/2057810012953514189",
+          "postedAt": "2026-05-21T18:33:23.000Z"
         },
         {
           "id": "vc_sama_45d0fba095",
@@ -378,37 +405,10 @@
           "title": "http://x.com/i/article/2057294425135722496",
           "url": "https://x.com/Khazix0918/status/2057299527254847932",
           "postedAt": "2026-05-21T03:16:44.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_ac588705ac",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Great slide from the “How to thrive as an AI-era developer” session at Google I/O today I think this T-shape will apply to not just developers but e...",
-          "url": "https://x.com/zarazhangrui/status/2057267931025957348",
-          "postedAt": "2026-05-21T01:11:11.000Z"
-        },
-        {
-          "id": "vc_steipete_018044ea9a",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT labib: codex compaction is arguably the single biggest user experience improvement in ai in the last 6ish months and does not get as much hype as i...",
-          "url": "https://x.com/steipete/status/2057418222043820348",
-          "postedAt": "2026-05-20T22:10:31.000Z"
-        },
-        {
-          "id": "vc_sama_49459f8e8d",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "three of the things we are most excited about: 1. AGI accelerating research 2. AGI accelerating companies 3. personal AGI accelerating everyone in ach...",
-          "url": "https://x.com/sama/status/2057218997503086888",
-          "postedAt": "2026-05-20T21:56:44.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-22T04:35:35.737Z",
+      "lastUpdated": "2026-05-22T15:22:03.621Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-22T04:35:38.081Z",
+      "lastUpdated": "2026-05-22T15:22:04.775Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -692,6 +692,62 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_c88414cc6f",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Coworking with Christy Roach",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-christy-roach?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-22T15:03:51.000Z"
+        },
+        {
+          "id": "om_d5ce7eef31",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses",
+          "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
+          "postedAt": "2026-05-22T14:30:52.000Z"
+        },
+        {
+          "id": "om_97a3cf93cd",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "French’s mustard goes green as part of ‘Minions & Monsters’ tie-in",
+          "url": "https://www.marketingdive.com/news/frenchs-mustard-goes-green-as-part-of-minions-monsters-tie-in/820976/",
+          "postedAt": "2026-05-22T14:09:22.000Z"
+        },
+        {
+          "id": "om_764eec9dd8",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How TGL’s game stays on par with golf’s changing demographics",
+          "url": "https://www.marketingbrew.com/stories/tgl-golf-audience-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-22T12:31:43.000Z"
+        },
+        {
+          "id": "om_2d3c14715c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Campaign Trail: Skittles stays surreal for ‘uncomfortably soft’ gummies",
+          "url": "https://www.marketingdive.com/news/campaign-trail-skittles-stays-surreal-for-uncomfortably-soft-gummies/820683/",
+          "postedAt": "2026-05-22T12:00:00.000Z"
+        },
+        {
+          "id": "om_cafe08e3af",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Microsoft’s consumer marketing chief to leave next year",
+          "url": "https://www.theverge.com/news/935982/microsoft-yusuf-mehdi-leaving",
+          "postedAt": "2026-05-22T11:19:01.000Z"
+        },
+        {
+          "id": "om_1bfb9408a6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 9 Campaigns That Caught Our Eye, From Visa to Guinness",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-9-campaigns-that-caught-our-eye-from-visa-to-guinness/",
+          "postedAt": "2026-05-22T06:00:00.000Z"
+        },
         {
           "id": "om_5bb8d8831c",
           "source": "Social Media Today",
@@ -795,66 +851,10 @@
           "title": "Manischewitz celebrates Jewish matchmaking with reality dating series",
           "url": "https://www.marketingdive.com/news/manischewitz-celebrates-jewish-matchmaking-with-reality-dating-series/820751/",
           "postedAt": "2026-05-21T15:00:00.000Z"
-        },
-        {
-          "id": "om_6171f930a1",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "WPP Media Shows Signs of New Business Bounceback, Report Finds",
-          "url": "https://www.adweek.com/agencies/wpp-media-shows-signs-of-new-business-bounceback-report-finds/",
-          "postedAt": "2026-05-21T14:48:11.000Z"
-        },
-        {
-          "id": "om_f6475707a2",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Athletic Brewing opens marketing tap to stand out in crowded summer",
-          "url": "https://www.marketingdive.com/news/athletic-brewing-pours-more-into-marketing-to-stand-out-in-crowded-summer/820838/",
-          "postedAt": "2026-05-21T14:47:00.000Z"
-        },
-        {
-          "id": "om_e662c861e9",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-          "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-          "postedAt": "2026-05-21T13:52:23.000Z"
-        },
-        {
-          "id": "om_96d9508e8e",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why Coinbase is leaning on product-focused marketing for the first time",
-          "url": "https://www.marketingbrew.com/stories/why-coinbase-is-leaning-on-product-focused-marketing-for-the-first-time?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-21T13:43:08.000Z"
-        },
-        {
-          "id": "om_e7762e1205",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Google announces new AI Mode ad formats and agentic commerce tools at Google Marketing Live",
-          "url": "https://www.marketingbrew.com/stories/google-announces-new-ai-mode-ad-formats-and-agentic-commerce-tools-at-google-marketing-live?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-21T12:00:19.000Z"
-        },
-        {
-          "id": "om_8df2b68be9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Nike’s Surprise World Cup Cast Signals a New Marketing Playbook",
-          "url": "https://www.adweek.com/creativity/nikes-surprise-world-cup-cast-signals-a-new-marketing-playbook/",
-          "postedAt": "2026-05-21T12:00:00.000Z"
-        },
-        {
-          "id": "om_ba0459e5f7",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Zevia’s CMO on how the ‘radically real’ soda is stepping up marketing",
-          "url": "https://www.marketingdive.com/news/zevias-cmo-on-how-the-radically-real-soda-is-stepping-up-marketing/820512/",
-          "postedAt": "2026-05-21T12:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-22T04:35:41.439Z",
+      "lastUpdated": "2026-05-22T15:22:06.090Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
