@@ -227,6 +227,42 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_0dda9edcb5",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "This seems more ideological than technical.",
+          "url": "https://x.com/steipete/status/2058101804202602949",
+          "postedAt": "2026-05-23T08:24:42.000Z"
+        },
+        {
+          "id": "vc_steipete_146f640da7",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "I'm late to the party, but cmux is great. https://github.com/manaflow-ai/cmux current split: codex mac app: knowledege work, learning, reading cmux + ...",
+          "url": "https://x.com/steipete/status/2058093406874689770",
+          "postedAt": "2026-05-23T07:51:20.000Z"
+        },
+        {
+          "id": "vc_dotey_26f1451219",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "如果你同时用飞书和 Claude Code 的话，Zara Zhang这个开源项目 feishu-claude-code-bridge 值得一试，它可以让你在飞书里面直接连接 Claude Code，从飞书指挥 C...",
+          "url": "https://x.com/dotey/status/2058084478459826432",
+          "postedAt": "2026-05-23T07:15:51.000Z"
+        },
+        {
+          "id": "vc_dotey_468ad0bea6",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 小弟调调: Capcap 开源纯 AppKit 构建的截图工具 集窗口吸附截图、滚动拼接、标注和美化于一体的浮动截图工具 由 @skyrin1008 开发 👉 https://github.com/...",
+          "url": "https://x.com/dotey/status/2058062977660551285",
+          "postedAt": "2026-05-23T03:36:40.000Z"
+        },
+        {
           "id": "vc_dotey_29b14ef095",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -245,6 +281,15 @@
           "postedAt": "2026-05-23T02:27:35.000Z"
         },
         {
+          "id": "vc_dotey_b49f782a23",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 小弟调调: PermissionFlow 是 macOS 丝滑授权依赖包 欢迎大家给我小🌟🌟 以示鼓励哦 😁 👉 https://github.com/jaywcjlove/PermissionFlow",
+          "url": "https://x.com/dotey/status/2058059728131858859",
+          "postedAt": "2026-05-23T01:31:02.000Z"
+        },
+        {
           "id": "vc_steipete_c9325508d4",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -261,33 +306,6 @@
           "title": "RT DHH: For complicated agent work, it's amazing how much GPT5.5 has improved. I found 5.2 to be very far behind Opus. Now using Opus 4.7 after 5.5 fe...",
           "url": "https://x.com/steipete/status/2057947457892327910",
           "postedAt": "2026-05-22T19:29:18.000Z"
-        },
-        {
-          "id": "vc_dotey_0a778ad0e2",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT DeepSeek: We are making our discount permanent! 🎉 Enjoy building with DeepSeek-V4-Pro and bring your innovative ideas to life! 🚀",
-          "url": "https://x.com/dotey/status/2057865424843202793",
-          "postedAt": "2026-05-22T16:01:03.000Z"
-        },
-        {
-          "id": "vc_dotey_87acb03021",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 木马人2.0: 感谢宝玉老师 @dotey 的分享 我给大家分享一下具体步骤，3步搞定: 1. 安装 Codex 和 Chrome 插件： Codex：直接官网下载安装即可 Chrome插件：点...",
-          "url": "https://x.com/dotey/status/2057861808271053179",
-          "postedAt": "2026-05-22T15:56:40.000Z"
-        },
-        {
-          "id": "vc_dotey_b411f74df9",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "帮转 DeepSeek Harness 团队招人",
-          "url": "https://x.com/dotey/status/2057835713442230638",
-          "postedAt": "2026-05-22T14:47:21.000Z"
         },
         {
           "id": "vc_gdb_9523f99466",
@@ -344,15 +362,6 @@
           "postedAt": "2026-05-22T02:30:01.000Z"
         },
         {
-          "id": "vc_steipete_65a6030f79",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Justine Moore: Gemini continues to be the most fascinating model",
-          "url": "https://x.com/steipete/status/2057810491095843132",
-          "postedAt": "2026-05-22T01:47:01.000Z"
-        },
-        {
           "id": "vc_sama_4edeb6b5ed",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -369,15 +378,6 @@
           "title": "OpenAI for YC companies:",
           "url": "https://x.com/gdb/status/2057582329548447770",
           "postedAt": "2026-05-21T22:00:30.000Z"
-        },
-        {
-          "id": "vc_steipete_84d066561d",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Mitchell Hashimoto: Supply chain attacks and OSS sustainability go hand in hand. I've semi-seriously joked for years that OSS upstreams should peri...",
-          "url": "https://x.com/steipete/status/2057953423824167059",
-          "postedAt": "2026-05-21T21:03:27.000Z"
         },
         {
           "id": "vc_sama_22e591f392",
@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-23T04:07:26.369Z",
+      "lastUpdated": "2026-05-23T14:02:22.589Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-23T04:07:27.544Z",
+      "lastUpdated": "2026-05-23T14:02:23.782Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -707,6 +707,14 @@
           "title": "The best Memorial Day sales you can shop this weekend",
           "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
           "postedAt": "2026-05-22T17:32:33.000Z"
+        },
+        {
+          "id": "om_4b41fa06ee",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Hanging out in my favorite virtual coffee shop in Tokyo",
+          "url": "https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam",
+          "postedAt": "2026-05-22T17:16:55.000Z"
         },
         {
           "id": "om_80ba59ffc1",
@@ -843,18 +851,10 @@
           "title": "Roberto Cavalli to be acquired by Destination Maternity parent company",
           "url": "https://www.retaildive.com/news/roberto-cavalli-acquired-destination-maternity-parent-company-marquee-brands/820860/",
           "postedAt": "2026-05-21T16:17:00.000Z"
-        },
-        {
-          "id": "om_e2d8a14a15",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "David’s Bridal is ready to help couples budget their wedding",
-          "url": "https://www.retaildive.com/news/davids-bridal-ai-wedding-budget-tool-pearl-planner/820480/",
-          "postedAt": "2026-05-21T16:16:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-23T04:07:29.605Z",
+      "lastUpdated": "2026-05-23T14:02:25.298Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
