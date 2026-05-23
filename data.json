@@ -227,6 +227,60 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_29b14ef095",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Hermes Agent 架构的文档推荐直接看官方的文档，写的还算清楚。 然后用 Codex 或者 Claude Code 打开项目代码库，直接让 Agent 给你解释代码库，如果不清楚的你...",
+          "url": "https://x.com/dotey/status/2058020600166138188",
+          "postedAt": "2026-05-23T03:02:01.000Z"
+        },
+        {
+          "id": "vc_dotey_a5e284f1a3",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "帮转 AI Agent 实习生招聘",
+          "url": "https://x.com/dotey/status/2058011933891019240",
+          "postedAt": "2026-05-23T02:27:35.000Z"
+        },
+        {
+          "id": "vc_steipete_c9325508d4",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "We used bots so far to enforce a 10PR per “person” limit. Great to see GitHub shipping that natively!",
+          "url": "https://x.com/steipete/status/2057946259709628781",
+          "postedAt": "2026-05-22T22:06:37.000Z"
+        },
+        {
+          "id": "vc_steipete_59687cdda5",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT DHH: For complicated agent work, it's amazing how much GPT5.5 has improved. I found 5.2 to be very far behind Opus. Now using Opus 4.7 after 5.5 fe...",
+          "url": "https://x.com/steipete/status/2057947457892327910",
+          "postedAt": "2026-05-22T19:29:18.000Z"
+        },
+        {
+          "id": "vc_dotey_0a778ad0e2",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT DeepSeek: We are making our discount permanent! 🎉 Enjoy building with DeepSeek-V4-Pro and bring your innovative ideas to life! 🚀",
+          "url": "https://x.com/dotey/status/2057865424843202793",
+          "postedAt": "2026-05-22T16:01:03.000Z"
+        },
+        {
+          "id": "vc_dotey_87acb03021",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 木马人2.0: 感谢宝玉老师 @dotey 的分享 我给大家分享一下具体步骤，3步搞定: 1. 安装 Codex 和 Chrome 插件： Codex：直接官网下载安装即可 Chrome插件：点...",
+          "url": "https://x.com/dotey/status/2057861808271053179",
+          "postedAt": "2026-05-22T15:56:40.000Z"
+        },
+        {
           "id": "vc_dotey_b411f74df9",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -234,15 +288,6 @@
           "title": "帮转 DeepSeek Harness 团队招人",
           "url": "https://x.com/dotey/status/2057835713442230638",
           "postedAt": "2026-05-22T14:47:21.000Z"
-        },
-        {
-          "id": "vc_dotey_14671c41f6",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "最近针对 Codex 优化了一下 发送 X 文章的 Skill，如果安装了Codex 的 Chrome 插件，可以用 @chrome 使用 Chrome 发 X 文章，体验不错",
-          "url": "https://x.com/dotey/status/2057833292708122672",
-          "postedAt": "2026-05-22T14:37:44.000Z"
         },
         {
           "id": "vc_gdb_9523f99466",
@@ -263,15 +308,6 @@
           "postedAt": "2026-05-22T08:26:16.000Z"
         },
         {
-          "id": "vc_dotey_39e6d9e32e",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 黄赟: Codex 能帮服装店老板复制销冠 这个场景早在去年，参加内部卖 13万私董会员的某厂长付费直播时听到的 他就在门店销冠的领口上，挂了一只麦克风。把1周...",
-          "url": "https://x.com/dotey/status/2057835088692256912",
-          "postedAt": "2026-05-22T07:08:46.000Z"
-        },
-        {
           "id": "vc_gdb_1a1b199a12",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -290,15 +326,6 @@
           "postedAt": "2026-05-22T04:21:46.000Z"
         },
         {
-          "id": "vc_dotey_563fe588ba",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "如何在 Codex App 使用 /goal 的简单说明： 1. 升级 Codex App 到最新版本 2. 先在命令行运行一下下面的指令： > codex features enable goals 或者手动修改 ~/....",
-          "url": "https://x.com/dotey/status/2057672416071987378",
-          "postedAt": "2026-05-22T03:58:28.000Z"
-        },
-        {
           "id": "vc_gdb_280337f313",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -315,15 +342,6 @@
           "title": "codex for using all apps on your computer from your phone",
           "url": "https://x.com/gdb/status/2057650157358055625",
           "postedAt": "2026-05-22T02:30:01.000Z"
-        },
-        {
-          "id": "vc_dotey_9d7b811e48",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "同问： 执行 /goal 的过程中，达到限额了，等 5 小时限额恢复了，任务能自动继续？还是需要人手动输入“continue”继续？",
-          "url": "https://x.com/dotey/status/2057647214957117873",
-          "postedAt": "2026-05-22T02:18:19.000Z"
         },
         {
           "id": "vc_steipete_65a6030f79",
@@ -353,6 +371,15 @@
           "postedAt": "2026-05-21T22:00:30.000Z"
         },
         {
+          "id": "vc_steipete_84d066561d",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Mitchell Hashimoto: Supply chain attacks and OSS sustainability go hand in hand. I've semi-seriously joked for years that OSS upstreams should peri...",
+          "url": "https://x.com/steipete/status/2057953423824167059",
+          "postedAt": "2026-05-21T21:03:27.000Z"
+        },
+        {
           "id": "vc_sama_22e591f392",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -360,15 +387,6 @@
           "title": "new codex ships today!",
           "url": "https://x.com/sama/status/2057559714788258003",
           "postedAt": "2026-05-21T20:30:38.000Z"
-        },
-        {
-          "id": "vc_steipete_95bc0af8aa",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT OpenAI Developers: It’s Codex Thursday, and yes, we have updates for you. First up: Appshots, a new way to bring the context of what you’re worki...",
-          "url": "https://x.com/steipete/status/2057810012953514189",
-          "postedAt": "2026-05-21T18:33:23.000Z"
         },
         {
           "id": "vc_sama_45d0fba095",
@@ -380,15 +398,6 @@
           "postedAt": "2026-05-21T17:33:05.000Z"
         },
         {
-          "id": "vc_steipete_cb7f23ebab",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT dax: ceo of doritos: every time you think \"this meal doesn't need doritos\" i can guarantee you it does",
-          "url": "https://x.com/steipete/status/2057416417289425131",
-          "postedAt": "2026-05-21T04:58:37.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_3215190e6a",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -396,19 +405,10 @@
           "title": "I think that in an AI-native team, - ICs should start thinking like managers: how to delegate tasks to agents, how to set standards & verify output - ...",
           "url": "https://x.com/zarazhangrui/status/2057324988009685208",
           "postedAt": "2026-05-21T04:57:55.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_029815720b",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2057294425135722496",
-          "url": "https://x.com/Khazix0918/status/2057299527254847932",
-          "postedAt": "2026-05-21T03:16:44.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-22T15:22:03.621Z",
+      "lastUpdated": "2026-05-23T04:07:26.369Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_dcdbd649cf",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Goodbye, Lenny's Reads!",
+          "url": "https://www.lennysnewsletter.com/p/goodbye-lennys-reads",
+          "postedAt": "2026-05-22T15:41:05.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_6fdd27584d",
           "source": "Lenny's Podcast",
@@ -528,14 +536,6 @@
           "postedAt": "2026-05-10T12:03:32.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_42580aa520",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: What to do when non-PMs start shipping directly to production, thoughts on Claude Code’s pricing A/B test, the use of gen AI in games, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when",
-          "postedAt": "2026-05-09T18:18:35.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_642421856f",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-22T15:22:04.775Z",
+      "lastUpdated": "2026-05-23T04:07:27.544Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,54 @@
       },
       "articles": [
         {
+          "id": "om_87798da188",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "As the AI Battle Rages, Yusuf Mehdi Becomes the Latest Microsoft Veteran to Walk",
+          "url": "https://www.adweek.com/brand-marketing/ai-battle-microsoft-yusuf-mehdi/",
+          "postedAt": "2026-05-22T22:47:42.000Z"
+        },
+        {
+          "id": "om_e3fc9ba847",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "The best Memorial Day sales you can shop this weekend",
+          "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
+          "postedAt": "2026-05-22T17:32:33.000Z"
+        },
+        {
+          "id": "om_80ba59ffc1",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
+          "url": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
+          "postedAt": "2026-05-22T16:28:06.000Z"
+        },
+        {
+          "id": "om_2e447b8fb7",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "It’s official: Shein will acquire Everlane",
+          "url": "https://www.retaildive.com/news/official-shein-acquires-everlane/821004/",
+          "postedAt": "2026-05-22T16:27:00.000Z"
+        },
+        {
+          "id": "om_58d4725e59",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: John Varvatos quietly exits Under Armour and Victoria’s Secret’s ticker gets sexier",
+          "url": "https://www.retaildive.com/news/john-varvatos-exits-under-armour-victorias-secret-nyse-ticker-vsxy/820907/",
+          "postedAt": "2026-05-22T16:14:00.000Z"
+        },
+        {
+          "id": "om_9859afa557",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "If You Can Sell Insurance, You Can Sell Anything ft. Tory Pachis of Amica Insurance",
+          "url": "https://www.adweek.com/brand-marketing/if-you-can-sell-insurance-you-can-sell-anything-ft-tory-pachis-of-amica-insurance/",
+          "postedAt": "2026-05-22T15:09:29.000Z"
+        },
+        {
           "id": "om_c88414cc6f",
           "source": "Marketing Brew",
           "lang": "en",
@@ -717,6 +765,14 @@
           "postedAt": "2026-05-22T14:09:22.000Z"
         },
         {
+          "id": "om_f05a2efcc7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "OpenAI Is Hiring for a Top Marketing Exec To Promote Its Ads Business",
+          "url": "https://www.adweek.com/media/openai-is-hiring-for-a-top-marketing-exec-to-promote-its-ads-business/",
+          "postedAt": "2026-05-22T12:50:52.000Z"
+        },
+        {
           "id": "om_764eec9dd8",
           "source": "Marketing Brew",
           "lang": "en",
@@ -731,14 +787,6 @@
           "title": "Campaign Trail: Skittles stays surreal for ‘uncomfortably soft’ gummies",
           "url": "https://www.marketingdive.com/news/campaign-trail-skittles-stays-surreal-for-uncomfortably-soft-gummies/820683/",
           "postedAt": "2026-05-22T12:00:00.000Z"
-        },
-        {
-          "id": "om_cafe08e3af",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Microsoft’s consumer marketing chief to leave next year",
-          "url": "https://www.theverge.com/news/935982/microsoft-yusuf-mehdi-leaving",
-          "postedAt": "2026-05-22T11:19:01.000Z"
         },
         {
           "id": "om_1bfb9408a6",
@@ -803,58 +851,10 @@
           "title": "David’s Bridal is ready to help couples budget their wedding",
           "url": "https://www.retaildive.com/news/davids-bridal-ai-wedding-budget-tool-pearl-planner/820480/",
           "postedAt": "2026-05-21T16:16:00.000Z"
-        },
-        {
-          "id": "om_a75e9d5b3c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "What customers consider when using AI to shop",
-          "url": "https://www.retaildive.com/news/customers-consider-ai-shopping-retail/820880/",
-          "postedAt": "2026-05-21T16:08:00.000Z"
-        },
-        {
-          "id": "om_f798a0ccf7",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside One/Size’s oily F1-driven campaign",
-          "url": "https://www.marketingbrew.com/stories/one/size-patrick-starr-f1-campaign-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-21T16:00:48.000Z"
-        },
-        {
-          "id": "om_56a6793301",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketing Vanguard Summit 2026: 9 Truths Behind CMOs’ Most Urgent Priorities",
-          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-summit-2026-9-truths-behind-cmos-most-urgent-priorities/",
-          "postedAt": "2026-05-21T15:49:27.000Z"
-        },
-        {
-          "id": "om_7929ff1a00",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart warns of price increases due to fuel costs",
-          "url": "https://www.retaildive.com/news/walmart-price-increases-iran-war-fuel-costs-q1/820845/",
-          "postedAt": "2026-05-21T15:19:00.000Z"
-        },
-        {
-          "id": "om_8d9eb9f801",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Lee jeans sold to brand management firm for up to $1B",
-          "url": "https://www.retaildive.com/news/kontoor-sells-lee-jeans-authentic-brands-one-billion/820843/",
-          "postedAt": "2026-05-21T15:15:00.000Z"
-        },
-        {
-          "id": "om_11dcf46726",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Manischewitz celebrates Jewish matchmaking with reality dating series",
-          "url": "https://www.marketingdive.com/news/manischewitz-celebrates-jewish-matchmaking-with-reality-dating-series/820751/",
-          "postedAt": "2026-05-21T15:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-22T15:22:06.090Z",
+      "lastUpdated": "2026-05-23T04:07:29.605Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
