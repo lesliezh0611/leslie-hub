@@ -227,6 +227,24 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_d9dddb6a1f",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT CuiMao: 各位好，这真的是我最后一个关于Anthropic的故事了，本视频由seedance2制作完成。感谢你一直以来对我的关注。结尾有彩蛋。",
+          "url": "https://x.com/dotey/status/2058463809249976825",
+          "postedAt": "2026-05-24T08:02:49.000Z"
+        },
+        {
+          "id": "vc_dotey_0c5a490ea0",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "http://x.com/i/article/2058418354415644672",
+          "url": "https://x.com/dotey/status/2058421725256171718",
+          "postedAt": "2026-05-24T05:35:57.000Z"
+        },
+        {
           "id": "vc_gdb_31a0fa7a43",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -326,24 +344,6 @@
           "postedAt": "2026-05-23T16:09:54.000Z"
         },
         {
-          "id": "vc_dotey_f5e65a78f6",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 向阳乔木: 今晚跟 @HiTw93 直播的内容总结。 主持人 @yuanzi_owO（元子）和我，干货很多，也终于知道为啥人家做的产品审美都那么好！",
-          "url": "https://x.com/dotey/status/2058232582517436891",
-          "postedAt": "2026-05-23T15:52:39.000Z"
-        },
-        {
-          "id": "vc_dotey_26f1451219",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "如果你同时用飞书和 Claude Code 的话，Zara Zhang这个开源项目 feishu-claude-code-bridge 值得一试，它可以让你在飞书里面直接连接 Claude Code，从飞书指挥 C...",
-          "url": "https://x.com/dotey/status/2058084478459826432",
-          "postedAt": "2026-05-23T07:15:51.000Z"
-        },
-        {
           "id": "vc_gdb_9523f99466",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-24T04:38:09.619Z",
+      "lastUpdated": "2026-05-24T13:58:43.000Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_0defa1f0c5",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "The AI paradox: More automation, more humans, more work | Dan Shipper",
+          "url": "https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper",
+          "postedAt": "2026-05-24T12:31:49.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_b474596b96",
           "source": "Lenny's Podcast",
@@ -528,14 +536,6 @@
           "postedAt": "2026-05-11T16:02:49.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_426db5cae9",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Spec-driven development: The AI engineering workflow at Notion | Ryan Nystrom",
-          "url": "https://www.lennysnewsletter.com/p/spec-driven-development-the-ai-engineering",
-          "postedAt": "2026-05-11T12:03:12.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_642421856f",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-24T04:38:10.673Z",
+      "lastUpdated": "2026-05-24T13:58:44.179Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -854,7 +854,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-24T04:38:11.938Z",
+      "lastUpdated": "2026-05-24T13:58:45.852Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
