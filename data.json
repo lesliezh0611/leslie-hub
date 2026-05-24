@@ -227,22 +227,112 @@
       ],
       "articles": [
         {
-          "id": "vc_steipete_0dda9edcb5",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
+          "id": "vc_gdb_31a0fa7a43",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
           "platform": "x",
-          "title": "This seems more ideological than technical.",
-          "url": "https://x.com/steipete/status/2058101804202602949",
-          "postedAt": "2026-05-23T08:24:42.000Z"
+          "title": "under appreciated that codex is open source",
+          "url": "https://x.com/gdb/status/2058381548383096994",
+          "postedAt": "2026-05-24T02:56:18.000Z"
         },
         {
-          "id": "vc_steipete_146f640da7",
+          "id": "vc_steipete_cc770db522",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "I'm late to the party, but cmux is great. https://github.com/manaflow-ai/cmux current split: codex mac app: knowledege work, learning, reading cmux + ...",
-          "url": "https://x.com/steipete/status/2058093406874689770",
-          "postedAt": "2026-05-23T07:51:20.000Z"
+          "title": "I always wanted a GitHub dashboard: See my repos, open Issues/PRs, what version I released last, how many commits since last release. So I built one f...",
+          "url": "https://x.com/steipete/status/2058381186884411473",
+          "postedAt": "2026-05-24T02:54:52.000Z"
+        },
+        {
+          "id": "vc_steipete_c150a8765f",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Dorothy Bartomeo: Re @steipete It's the goblins 🖤",
+          "url": "https://x.com/steipete/status/2058336068533882899",
+          "postedAt": "2026-05-23T23:48:36.000Z"
+        },
+        {
+          "id": "vc_steipete_c2a5b4c8b1",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "codex... made a smiley? :)",
+          "url": "https://x.com/steipete/status/2058332234247987379",
+          "postedAt": "2026-05-23T23:40:21.000Z"
+        },
+        {
+          "id": "vc_dotey_30b6efe1f4",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Codex 交互做的真的挺好的，你可以方便的看当前运行的 SubAgents，以及每个 SubAgent 在做的事、用的提示词",
+          "url": "https://x.com/dotey/status/2058330410107449401",
+          "postedAt": "2026-05-23T23:33:06.000Z"
+        },
+        {
+          "id": "vc_dotey_f8126b8005",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Codex 额度又重置了，又亏了几十个亿😭",
+          "url": "https://x.com/dotey/status/2058301264992067603",
+          "postedAt": "2026-05-23T21:37:17.000Z"
+        },
+        {
+          "id": "vc_steipete_bf456e0b8e",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "It Twitter's too busy for you, try http://birdclaw.sh",
+          "url": "https://x.com/steipete/status/2058263360525730087",
+          "postedAt": "2026-05-23T19:06:40.000Z"
+        },
+        {
+          "id": "vc_steipete_57686794df",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "I built an autotriage skill for codex that has a set of guidelines + reads VISION.md from my repos, so issues/prs that have a clear way of - fit visio...",
+          "url": "https://x.com/steipete/status/2058240758801420530",
+          "postedAt": "2026-05-23T17:36:51.000Z"
+        },
+        {
+          "id": "vc_gdb_f942b0723f",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Codex for building and debugging an iPhone simulator end to end:",
+          "url": "https://x.com/gdb/status/2058232892266836141",
+          "postedAt": "2026-05-23T17:05:36.000Z"
+        },
+        {
+          "id": "vc_gdb_11f360047d",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "good location to build",
+          "url": "https://x.com/gdb/status/2058223176027439439",
+          "postedAt": "2026-05-23T16:26:59.000Z"
+        },
+        {
+          "id": "vc_dotey_f350f048ab",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "这种需求“置顶”几条对话就可以了，可以随时聊 但没必要所有任务都这么做",
+          "url": "https://x.com/dotey/status/2058218876404429189",
+          "postedAt": "2026-05-23T16:09:54.000Z"
+        },
+        {
+          "id": "vc_dotey_f5e65a78f6",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 向阳乔木: 今晚跟 @HiTw93 直播的内容总结。 主持人 @yuanzi_owO（元子）和我，干货很多，也终于知道为啥人家做的产品审美都那么好！",
+          "url": "https://x.com/dotey/status/2058232582517436891",
+          "postedAt": "2026-05-23T15:52:39.000Z"
         },
         {
           "id": "vc_dotey_26f1451219",
@@ -254,60 +344,6 @@
           "postedAt": "2026-05-23T07:15:51.000Z"
         },
         {
-          "id": "vc_dotey_468ad0bea6",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 小弟调调: Capcap 开源纯 AppKit 构建的截图工具 集窗口吸附截图、滚动拼接、标注和美化于一体的浮动截图工具 由 @skyrin1008 开发 👉 https://github.com/...",
-          "url": "https://x.com/dotey/status/2058062977660551285",
-          "postedAt": "2026-05-23T03:36:40.000Z"
-        },
-        {
-          "id": "vc_dotey_29b14ef095",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Hermes Agent 架构的文档推荐直接看官方的文档，写的还算清楚。 然后用 Codex 或者 Claude Code 打开项目代码库，直接让 Agent 给你解释代码库，如果不清楚的你...",
-          "url": "https://x.com/dotey/status/2058020600166138188",
-          "postedAt": "2026-05-23T03:02:01.000Z"
-        },
-        {
-          "id": "vc_dotey_a5e284f1a3",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "帮转 AI Agent 实习生招聘",
-          "url": "https://x.com/dotey/status/2058011933891019240",
-          "postedAt": "2026-05-23T02:27:35.000Z"
-        },
-        {
-          "id": "vc_dotey_b49f782a23",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 小弟调调: PermissionFlow 是 macOS 丝滑授权依赖包 欢迎大家给我小🌟🌟 以示鼓励哦 😁 👉 https://github.com/jaywcjlove/PermissionFlow",
-          "url": "https://x.com/dotey/status/2058059728131858859",
-          "postedAt": "2026-05-23T01:31:02.000Z"
-        },
-        {
-          "id": "vc_steipete_c9325508d4",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "We used bots so far to enforce a 10PR per “person” limit. Great to see GitHub shipping that natively!",
-          "url": "https://x.com/steipete/status/2057946259709628781",
-          "postedAt": "2026-05-22T22:06:37.000Z"
-        },
-        {
-          "id": "vc_steipete_59687cdda5",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT DHH: For complicated agent work, it's amazing how much GPT5.5 has improved. I found 5.2 to be very far behind Opus. Now using Opus 4.7 after 5.5 fe...",
-          "url": "https://x.com/steipete/status/2057947457892327910",
-          "postedAt": "2026-05-22T19:29:18.000Z"
-        },
-        {
           "id": "vc_gdb_9523f99466",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -315,15 +351,6 @@
           "title": "try Appshots in the Codex app:",
           "url": "https://x.com/gdb/status/2057802037757157838",
           "postedAt": "2026-05-22T12:33:32.000Z"
-        },
-        {
-          "id": "vc_steipete_f03235515f",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Edd Mann: have really enjoyed using this tool recently! initial analysis and breakdown of semantic features within a system to then go on and revie...",
-          "url": "https://x.com/steipete/status/2057776578646401024",
-          "postedAt": "2026-05-22T08:26:16.000Z"
         },
         {
           "id": "vc_gdb_1a1b199a12",
@@ -344,24 +371,6 @@
           "postedAt": "2026-05-22T04:21:46.000Z"
         },
         {
-          "id": "vc_gdb_280337f313",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "the model alone is no longer the product",
-          "url": "https://x.com/gdb/status/2057670776803996110",
-          "postedAt": "2026-05-22T03:51:57.000Z"
-        },
-        {
-          "id": "vc_gdb_6278fa73fd",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "codex for using all apps on your computer from your phone",
-          "url": "https://x.com/gdb/status/2057650157358055625",
-          "postedAt": "2026-05-22T02:30:01.000Z"
-        },
-        {
           "id": "vc_sama_4edeb6b5ed",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -369,15 +378,6 @@
           "title": "what problem do you most hope AI will solve in the future? maybe we can help!",
           "url": "https://x.com/sama/status/2057614780727480741",
           "postedAt": "2026-05-22T00:09:27.000Z"
-        },
-        {
-          "id": "vc_gdb_016f32df43",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "OpenAI for YC companies:",
-          "url": "https://x.com/gdb/status/2057582329548447770",
-          "postedAt": "2026-05-21T22:00:30.000Z"
         },
         {
           "id": "vc_sama_22e591f392",
@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-23T14:02:22.589Z",
+      "lastUpdated": "2026-05-24T04:38:09.619Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_b474596b96",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: Best AI cold outreach app, advice for college students interested in PM, the state of AI in design, the relevance of QA in 2026, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-best-ai-cold-outreach",
+          "postedAt": "2026-05-23T20:33:09.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_dcdbd649cf",
           "source": "Lenny's Podcast",
@@ -528,14 +536,6 @@
           "postedAt": "2026-05-11T12:03:12.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_6b33fa6bee",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
-          "url": "https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands",
-          "postedAt": "2026-05-10T12:03:32.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_642421856f",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-23T14:02:23.782Z",
+      "lastUpdated": "2026-05-24T04:38:10.673Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -699,14 +699,6 @@
           "title": "As the AI Battle Rages, Yusuf Mehdi Becomes the Latest Microsoft Veteran to Walk",
           "url": "https://www.adweek.com/brand-marketing/ai-battle-microsoft-yusuf-mehdi/",
           "postedAt": "2026-05-22T22:47:42.000Z"
-        },
-        {
-          "id": "om_e3fc9ba847",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "The best Memorial Day sales you can shop this weekend",
-          "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
-          "postedAt": "2026-05-22T17:32:33.000Z"
         },
         {
           "id": "om_4b41fa06ee",
@@ -851,10 +843,18 @@
           "title": "Roberto Cavalli to be acquired by Destination Maternity parent company",
           "url": "https://www.retaildive.com/news/roberto-cavalli-acquired-destination-maternity-parent-company-marquee-brands/820860/",
           "postedAt": "2026-05-21T16:17:00.000Z"
+        },
+        {
+          "id": "om_e2d8a14a15",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "David’s Bridal is ready to help couples budget their wedding",
+          "url": "https://www.retaildive.com/news/davids-bridal-ai-wedding-budget-tool-pearl-planner/820480/",
+          "postedAt": "2026-05-21T16:16:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-23T14:02:25.298Z",
+      "lastUpdated": "2026-05-24T04:38:11.938Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
