@@ -227,6 +227,78 @@
       ],
       "articles": [
         {
+          "id": "vc_Khazix0918_ba7fc5e516",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2058760327274409984",
+          "url": "https://x.com/Khazix0918/status/2058762058250977675",
+          "postedAt": "2026-05-25T04:08:19.000Z"
+        },
+        {
+          "id": "vc_gdb_83d58aedce",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "GPT-5.5 Pro for fact checking:",
+          "url": "https://x.com/gdb/status/2058750645394649410",
+          "postedAt": "2026-05-25T03:22:58.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_60fc2f8f27",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "正好刷到 hyper3D 发布了 Rodin Gen-2.5。 瞅了眼介绍有点猛，感觉算是全球头一个搞到千万级面数的 3D 生成模型了。 正好想起前段时间挺火的玩法，我就用 GPT-im...",
+          "url": "https://x.com/Khazix0918/status/2058725487812514036",
+          "postedAt": "2026-05-25T01:43:00.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_a58f77b99c",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "I recently discovered a life-changing Mac app “Amphetamine” which keeps your Mac awake even when lid is closed Much more reliable & easier to use th...",
+          "url": "https://x.com/zarazhangrui/status/2058643577421631538",
+          "postedAt": "2026-05-24T20:17:31.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_60ba187699",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Ran into a friend who was an engineering manager; she just voluntarily transitioned to be an IC and has never been happier because she can finally get...",
+          "url": "https://x.com/zarazhangrui/status/2058640897236140034",
+          "postedAt": "2026-05-24T20:06:52.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_a21dbb8cec",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "OpenAI being more open Also I just realized recently that Codex is open source",
+          "url": "https://x.com/zarazhangrui/status/2058604604422815832",
+          "postedAt": "2026-05-24T17:42:39.000Z"
+        },
+        {
+          "id": "vc_dotey_7435189f36",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT Toby!: （好担心自己变成杠精😂） 先说结论：观察方向对，但论证粗糙，外推过度，借鉴意义有限。本文展现出了作者她这个背景和level不应该呈现出的稚嫩感。...",
+          "url": "https://x.com/dotey/status/2058591666504716426",
+          "postedAt": "2026-05-24T16:50:30.000Z"
+        },
+        {
+          "id": "vc_dotey_a4848fd420",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "欢迎 caoz 正式启用 X👏",
+          "url": "https://x.com/dotey/status/2058586572077801898",
+          "postedAt": "2026-05-24T16:31:00.000Z"
+        },
+        {
           "id": "vc_dotey_d9dddb6a1f",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -234,6 +306,15 @@
           "title": "RT CuiMao: 各位好，这真的是我最后一个关于Anthropic的故事了，本视频由seedance2制作完成。感谢你一直以来对我的关注。结尾有彩蛋。",
           "url": "https://x.com/dotey/status/2058463809249976825",
           "postedAt": "2026-05-24T08:02:49.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_a3b3b80d38",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "RT Garry Tan: The companies I love working with in office hours are the ones where the founder has a specific, weird, earned insight that nobody else ...",
+          "url": "https://x.com/zarazhangrui/status/2058589355695059025",
+          "postedAt": "2026-05-24T07:57:32.000Z"
         },
         {
           "id": "vc_dotey_0c5a490ea0",
@@ -290,15 +371,6 @@
           "postedAt": "2026-05-23T23:33:06.000Z"
         },
         {
-          "id": "vc_dotey_f8126b8005",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Codex 额度又重置了，又亏了几十个亿😭",
-          "url": "https://x.com/dotey/status/2058301264992067603",
-          "postedAt": "2026-05-23T21:37:17.000Z"
-        },
-        {
           "id": "vc_steipete_bf456e0b8e",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -333,82 +405,10 @@
           "title": "good location to build",
           "url": "https://x.com/gdb/status/2058223176027439439",
           "postedAt": "2026-05-23T16:26:59.000Z"
-        },
-        {
-          "id": "vc_dotey_f350f048ab",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "这种需求“置顶”几条对话就可以了，可以随时聊 但没必要所有任务都这么做",
-          "url": "https://x.com/dotey/status/2058218876404429189",
-          "postedAt": "2026-05-23T16:09:54.000Z"
-        },
-        {
-          "id": "vc_gdb_9523f99466",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "try Appshots in the Codex app:",
-          "url": "https://x.com/gdb/status/2057802037757157838",
-          "postedAt": "2026-05-22T12:33:32.000Z"
-        },
-        {
-          "id": "vc_gdb_1a1b199a12",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "trying to remember what it was like to code before codex",
-          "url": "https://x.com/gdb/status/2057704270531903811",
-          "postedAt": "2026-05-22T06:05:03.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_7d2abbed30",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2057669036385968128",
-          "url": "https://x.com/Khazix0918/status/2057678279164023093",
-          "postedAt": "2026-05-22T04:21:46.000Z"
-        },
-        {
-          "id": "vc_sama_4edeb6b5ed",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "what problem do you most hope AI will solve in the future? maybe we can help!",
-          "url": "https://x.com/sama/status/2057614780727480741",
-          "postedAt": "2026-05-22T00:09:27.000Z"
-        },
-        {
-          "id": "vc_sama_22e591f392",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "new codex ships today!",
-          "url": "https://x.com/sama/status/2057559714788258003",
-          "postedAt": "2026-05-21T20:30:38.000Z"
-        },
-        {
-          "id": "vc_sama_45d0fba095",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "the attack at the mosque in san diego is one of the most chilling i have seen. my deepest condolences to the victims, families, and community.",
-          "url": "https://x.com/sama/status/2057515035472380237",
-          "postedAt": "2026-05-21T17:33:05.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_3215190e6a",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "I think that in an AI-native team, - ICs should start thinking like managers: how to delegate tasks to agents, how to set standards & verify output - ...",
-          "url": "https://x.com/zarazhangrui/status/2057324988009685208",
-          "postedAt": "2026-05-21T04:57:55.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-24T13:58:43.000Z",
+      "lastUpdated": "2026-05-25T04:50:52.132Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-24T13:58:44.179Z",
+      "lastUpdated": "2026-05-25T04:50:54.203Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,14 @@
       },
       "articles": [
         {
+          "id": "om_e3fc9ba847",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "The best Memorial Day sales you can shop this weekend",
+          "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
+          "postedAt": "2026-05-24T15:29:10.000Z"
+        },
+        {
           "id": "om_87798da188",
           "source": "Adweek",
           "lang": "en",
@@ -747,14 +755,6 @@
           "title": "Coworking with Christy Roach",
           "url": "https://www.marketingbrew.com/stories/coworking-with-christy-roach?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-05-22T15:03:51.000Z"
-        },
-        {
-          "id": "om_d5ce7eef31",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses",
-          "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
-          "postedAt": "2026-05-22T14:30:52.000Z"
         },
         {
           "id": "om_97a3cf93cd",
@@ -854,7 +854,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-24T13:58:45.852Z",
+      "lastUpdated": "2026-05-25T04:50:56.408Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
