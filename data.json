@@ -227,6 +227,60 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_88c1951328",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "去做一个 Agent Harness 这种事情价值不大了，怎么做也做不过模型公司，模型一升级好多活都白干了。 但是基于成熟的 Agent Harness 去做方案，大有可为。 MCP 只...",
+          "url": "https://x.com/dotey/status/2058929615058477106",
+          "postedAt": "2026-05-25T15:14:07.000Z"
+        },
+        {
+          "id": "vc_steipete_cee2263dc5",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "OpenClaw's dependency purge continues. Killed Sharp and Jimp. Replaced it with photon, a small WebAssembly that runs compiled Rust for image processin...",
+          "url": "https://x.com/steipete/status/2058922222790525272",
+          "postedAt": "2026-05-25T14:44:45.000Z"
+        },
+        {
+          "id": "vc_steipete_bd14e77640",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Folks: when you write skills, ask your agent to be token efficient, relax grammer. I see too many skills that write books in the skill description, an...",
+          "url": "https://x.com/steipete/status/2058917897590673525",
+          "postedAt": "2026-05-25T14:27:34.000Z"
+        },
+        {
+          "id": "vc_steipete_9236719bf9",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "There's security, and there's clankers.",
+          "url": "https://x.com/steipete/status/2058884046940225918",
+          "postedAt": "2026-05-25T12:13:03.000Z"
+        },
+        {
+          "id": "vc_steipete_76683e4571",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "New pet peeve: cli's that install new skills onto my system without asking.",
+          "url": "https://x.com/steipete/status/2058883349632934149",
+          "postedAt": "2026-05-25T12:10:17.000Z"
+        },
+        {
+          "id": "vc_dotey_2a9b1025ac",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "想起当年的梗😂 “kimicli用python是彻底的失败立刻重构为ts” 没想到还是搞了个 TS 版的 kimi-code https://github.com/MoonshotAI/kimi-code",
+          "url": "https://x.com/dotey/status/2058782251886817432",
+          "postedAt": "2026-05-25T05:28:33.000Z"
+        },
+        {
           "id": "vc_Khazix0918_ba7fc5e516",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -299,6 +353,15 @@
           "postedAt": "2026-05-24T16:31:00.000Z"
         },
         {
+          "id": "vc_steipete_f274023fcf",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Siddhartha Saxena: Anthropic onboarding day: Michael Scott introducing Karpathy like he just signed Wemby in free agency.",
+          "url": "https://x.com/steipete/status/2058793356948348947",
+          "postedAt": "2026-05-24T14:30:53.000Z"
+        },
+        {
           "id": "vc_dotey_d9dddb6a1f",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -317,15 +380,6 @@
           "postedAt": "2026-05-24T07:57:32.000Z"
         },
         {
-          "id": "vc_dotey_0c5a490ea0",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "http://x.com/i/article/2058418354415644672",
-          "url": "https://x.com/dotey/status/2058421725256171718",
-          "postedAt": "2026-05-24T05:35:57.000Z"
-        },
-        {
           "id": "vc_gdb_31a0fa7a43",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -333,60 +387,6 @@
           "title": "under appreciated that codex is open source",
           "url": "https://x.com/gdb/status/2058381548383096994",
           "postedAt": "2026-05-24T02:56:18.000Z"
-        },
-        {
-          "id": "vc_steipete_cc770db522",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "I always wanted a GitHub dashboard: See my repos, open Issues/PRs, what version I released last, how many commits since last release. So I built one f...",
-          "url": "https://x.com/steipete/status/2058381186884411473",
-          "postedAt": "2026-05-24T02:54:52.000Z"
-        },
-        {
-          "id": "vc_steipete_c150a8765f",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Dorothy Bartomeo: Re @steipete It's the goblins 🖤",
-          "url": "https://x.com/steipete/status/2058336068533882899",
-          "postedAt": "2026-05-23T23:48:36.000Z"
-        },
-        {
-          "id": "vc_steipete_c2a5b4c8b1",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "codex... made a smiley? :)",
-          "url": "https://x.com/steipete/status/2058332234247987379",
-          "postedAt": "2026-05-23T23:40:21.000Z"
-        },
-        {
-          "id": "vc_dotey_30b6efe1f4",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Codex 交互做的真的挺好的，你可以方便的看当前运行的 SubAgents，以及每个 SubAgent 在做的事、用的提示词",
-          "url": "https://x.com/dotey/status/2058330410107449401",
-          "postedAt": "2026-05-23T23:33:06.000Z"
-        },
-        {
-          "id": "vc_steipete_bf456e0b8e",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "It Twitter's too busy for you, try http://birdclaw.sh",
-          "url": "https://x.com/steipete/status/2058263360525730087",
-          "postedAt": "2026-05-23T19:06:40.000Z"
-        },
-        {
-          "id": "vc_steipete_57686794df",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "I built an autotriage skill for codex that has a set of guidelines + reads VISION.md from my repos, so issues/prs that have a clear way of - fit visio...",
-          "url": "https://x.com/steipete/status/2058240758801420530",
-          "postedAt": "2026-05-23T17:36:51.000Z"
         },
         {
           "id": "vc_gdb_f942b0723f",
@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-25T04:50:52.132Z",
+      "lastUpdated": "2026-05-25T15:28:49.966Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_2daa962caf",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: How the engineer behind Claude Cowork actually uses Claude Cowork & What launched at Google I/O 2026",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind",
+          "postedAt": "2026-05-25T15:02:59.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_4013f56bf6",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How the engineer behind Claude Cowork actually uses Claude | Felix Rieseberg (Anthropic)",
+          "url": "https://www.lennysnewsletter.com/p/how-the-engineer-behind-claude-cowork",
+          "postedAt": "2026-05-25T12:03:53.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_0defa1f0c5",
           "source": "Lenny's Podcast",
@@ -512,28 +528,12 @@
           "postedAt": "2026-05-17T12:31:57.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_19dd64f7ab",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Screening AI slop in hiring, Wispr Flow alternatives for voice transcription, multi-agent pipeline vs. MCP, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-screening-ai-slop",
-          "postedAt": "2026-05-16T21:46:34.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_c25daf02c3",
           "source": "The Knowledge Project",
           "platform": "podcast",
           "topic": "[Outliers] Chung Ju-yung: The Hyundai Founder Who Put a Country on His Back",
           "url": "https://fs.blog/knowledge-project-podcast/outliers-chung-ju-yung/",
           "postedAt": "2026-05-14T09:50:00.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_d215fc76fc",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: Quests, token leaderboards, and the elite AI adoption playbook & Notion’s spec-driven development",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-quests-token-leaderboards",
-          "postedAt": "2026-05-11T16:02:49.000Z"
         },
         {
           "id": "en_pod_the_knowledge_project_642421856f",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-25T04:50:54.203Z",
+      "lastUpdated": "2026-05-25T15:28:51.987Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,22 @@
       },
       "articles": [
         {
+          "id": "om_82f1a1f28d",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "X looks to improve its incentives for original creators",
+          "url": "https://www.socialmediatoday.com/news/x-looks-to-improve-its-incentives-for-original-creators/821051/",
+          "postedAt": "2026-05-25T06:27:13.000Z"
+        },
+        {
+          "id": "om_68e2806671",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok announces expanded partnership with Universal Music Group",
+          "url": "https://www.socialmediatoday.com/news/tiktok-announces-expanded-partnership-with-universal-music-group/821048/",
+          "postedAt": "2026-05-25T06:15:08.000Z"
+        },
+        {
           "id": "om_e3fc9ba847",
           "source": "The Verge",
           "lang": "en",
@@ -715,14 +731,6 @@
           "title": "Hanging out in my favorite virtual coffee shop in Tokyo",
           "url": "https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam",
           "postedAt": "2026-05-22T17:16:55.000Z"
-        },
-        {
-          "id": "om_80ba59ffc1",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
-          "url": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
-          "postedAt": "2026-05-22T16:28:06.000Z"
         },
         {
           "id": "om_2e447b8fb7",
@@ -843,18 +851,10 @@
           "title": "Roberto Cavalli to be acquired by Destination Maternity parent company",
           "url": "https://www.retaildive.com/news/roberto-cavalli-acquired-destination-maternity-parent-company-marquee-brands/820860/",
           "postedAt": "2026-05-21T16:17:00.000Z"
-        },
-        {
-          "id": "om_e2d8a14a15",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "David’s Bridal is ready to help couples budget their wedding",
-          "url": "https://www.retaildive.com/news/davids-bridal-ai-wedding-budget-tool-pearl-planner/820480/",
-          "postedAt": "2026-05-21T16:16:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-25T04:50:56.408Z",
+      "lastUpdated": "2026-05-25T15:28:54.211Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
