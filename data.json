@@ -227,6 +227,42 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_c0fb337d9e",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Markdown 当源代码，部分成立，但很多问题还没有解决，比如说： 1. 确定性问题 从汇编到高级编程语言，它都是确定性的，代码到生成物的结果几乎是一样的，但同一...",
+          "url": "https://x.com/dotey/status/2059303747327500758",
+          "postedAt": "2026-05-26T16:00:48.000Z"
+        },
+        {
+          "id": "vc_gdb_fe4e0a3712",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Codex for analyzing and organizing your Slack:",
+          "url": "https://x.com/gdb/status/2059301458873659819",
+          "postedAt": "2026-05-26T15:51:42.000Z"
+        },
+        {
+          "id": "vc_steipete_8547c94511",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Peter W. Kruger: 𝗢𝗽𝗲𝗻𝗖𝗹𝗮𝘄 𝘃𝘀. 𝗖𝗹𝗮𝘂𝗱𝗲? 𝗧𝗵𝗲 𝗷𝘂𝗿𝘆 𝗶𝘀 𝗼𝘂𝘁!🏛️�...",
+          "url": "https://x.com/steipete/status/2059231470544163287",
+          "postedAt": "2026-05-26T09:30:29.000Z"
+        },
+        {
+          "id": "vc_dotey_edd590ce69",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "+1 X Article 编辑器比微信公众号编辑器还难用！ 吹30个人的工程团队，却在产品功能和体验上几乎没什么作为；天天抓创作者分成那点破事，却对垃圾广告毫无作为",
+          "url": "https://x.com/dotey/status/2059143273889853709",
+          "postedAt": "2026-05-26T05:23:08.000Z"
+        },
+        {
           "id": "vc_dotey_ae6d259a75",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -245,6 +281,15 @@
           "postedAt": "2026-05-26T03:18:11.000Z"
         },
         {
+          "id": "vc_dotey_014726dc2d",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 响马: 有一种说法，说是现在很多 ai 工具，最后都会因为模型发展被吞噬掉。 且不说这个说法本身的是否正确，这个说法让我想起两句对联： 天公下雪不下雨，雪...",
+          "url": "https://x.com/dotey/status/2059151168752804154",
+          "postedAt": "2026-05-26T02:56:05.000Z"
+        },
+        {
           "id": "vc_dotey_0564533ca6",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -252,15 +297,6 @@
           "title": "微信就是太封闭了，要是开放一点能有很多有意思的衍生产品出来",
           "url": "https://x.com/dotey/status/2059093711875702898",
           "postedAt": "2026-05-26T02:06:11.000Z"
-        },
-        {
-          "id": "vc_dotey_3100985a7a",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "这图是 Hermes Agent 内置的 baoyu-infographic Skill 画的，效果不错👍",
-          "url": "https://x.com/dotey/status/2059063249753043358",
-          "postedAt": "2026-05-26T00:05:08.000Z"
         },
         {
           "id": "vc_gdb_6255067bb8",
@@ -272,13 +308,13 @@
           "postedAt": "2026-05-25T22:09:33.000Z"
         },
         {
-          "id": "vc_dotey_88c1951328",
-          "source": "dotey",
-          "sourceName": "宝玉",
+          "id": "vc_steipete_d9e869f9ab",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "去做一个 Agent Harness 这种事情价值不大了，怎么做也做不过模型公司，模型一升级好多活都白干了。 但是基于成熟的 Agent Harness 去做方案，大有可为。 MCP 只...",
-          "url": "https://x.com/dotey/status/2058929615058477106",
-          "postedAt": "2026-05-25T15:14:07.000Z"
+          "title": "RT DHH: I've had more \"I can't believe it's this good\" moments with GPT5.5 than any other model since Opus 4.5. It's shockingly, scarily capable. Days...",
+          "url": "https://x.com/steipete/status/2059230780665037271",
+          "postedAt": "2026-05-25T16:48:07.000Z"
         },
         {
           "id": "vc_steipete_cee2263dc5",
@@ -306,24 +342,6 @@
           "title": "There's security, and there's clankers.",
           "url": "https://x.com/steipete/status/2058884046940225918",
           "postedAt": "2026-05-25T12:13:03.000Z"
-        },
-        {
-          "id": "vc_steipete_76683e4571",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "New pet peeve: cli's that install new skills onto my system without asking.",
-          "url": "https://x.com/steipete/status/2058883349632934149",
-          "postedAt": "2026-05-25T12:10:17.000Z"
-        },
-        {
-          "id": "vc_dotey_2a9b1025ac",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "想起当年的梗😂 “kimicli用python是彻底的失败立刻重构为ts” 没想到还是搞了个 TS 版的 kimi-code https://github.com/MoonshotAI/kimi-code",
-          "url": "https://x.com/dotey/status/2058782251886817432",
-          "postedAt": "2026-05-25T05:28:33.000Z"
         },
         {
           "id": "vc_Khazix0918_ba7fc5e516",
@@ -380,15 +398,6 @@
           "postedAt": "2026-05-24T17:42:39.000Z"
         },
         {
-          "id": "vc_steipete_f274023fcf",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Siddhartha Saxena: Anthropic onboarding day: Michael Scott introducing Karpathy like he just signed Wemby in free agency.",
-          "url": "https://x.com/steipete/status/2058793356948348947",
-          "postedAt": "2026-05-24T14:30:53.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_a3b3b80d38",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -396,19 +405,10 @@
           "title": "RT Garry Tan: The companies I love working with in office hours are the ones where the founder has a specific, weird, earned insight that nobody else ...",
           "url": "https://x.com/zarazhangrui/status/2058589355695059025",
           "postedAt": "2026-05-24T07:57:32.000Z"
-        },
-        {
-          "id": "vc_gdb_31a0fa7a43",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "under appreciated that codex is open source",
-          "url": "https://x.com/gdb/status/2058381548383096994",
-          "postedAt": "2026-05-24T02:56:18.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-26T04:34:10.260Z",
+      "lastUpdated": "2026-05-26T16:09:21.353Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_275e74f41c",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Essential books for product builders—part 1",
+          "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart",
+          "postedAt": "2026-05-26T15:25:52.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_2daa962caf",
           "source": "Lenny's Podcast",
@@ -518,14 +526,6 @@
           "topic": "HTML is the new Markdown: How Anthropic engineers are building with Claude Code | Thariq Shihipar",
           "url": "https://www.lennysnewsletter.com/p/html-is-the-new-markdown-how-anthropic",
           "postedAt": "2026-05-18T12:02:11.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_17a7906d79",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Why we’re at the beginning of the AI hardware boom | Caitlin Kalinowski (ex–OpenAI, Meta, Apple)",
-          "url": "https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the",
-          "postedAt": "2026-05-17T12:31:57.000Z"
         },
         {
           "id": "en_pod_the_knowledge_project_c25daf02c3",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-26T04:34:11.699Z",
+      "lastUpdated": "2026-05-26T16:09:22.606Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,19 +693,131 @@
       },
       "articles": [
         {
-          "id": "om_e3fc9ba847",
-          "source": "The Verge",
+          "id": "om_5415f0d4ee",
+          "source": "Retail Dive",
           "lang": "en",
-          "title": "The best Memorial Day sales you can shop this weekend",
-          "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
-          "postedAt": "2026-05-25T16:04:11.000Z"
+          "title": "Google launches cross-retailer Universal Cart",
+          "url": "https://www.retaildive.com/news/google-launches-cross-retailer-universal-cart/820957/",
+          "postedAt": "2026-05-26T15:49:00.000Z"
         },
         {
-          "id": "om_82f1a1f28d",
+          "id": "om_a3e9497617",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Lowe’s courts DIY shoppers as AI tools boost online conversions",
+          "url": "https://www.retaildive.com/news/lowes-diy-shoppers-ai-tools-online-conversions/821019/",
+          "postedAt": "2026-05-26T15:45:00.000Z"
+        },
+        {
+          "id": "om_5dc8a1a031",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Shoe Carnival ditches rebanner strategy",
+          "url": "https://www.retaildive.com/news/shoe-carnival-ditches-shoe-station-rebanner-strategy/821043/",
+          "postedAt": "2026-05-26T15:21:00.000Z"
+        },
+        {
+          "id": "om_55b86b163b",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Essentia takes rule-defying campaign national for summer season",
+          "url": "https://www.marketingdive.com/news/essentia-takes-rule-defying-campaign-national-for-summer-season/821077/",
+          "postedAt": "2026-05-26T15:00:00.000Z"
+        },
+        {
+          "id": "om_c93cfc8186",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+          "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+          "postedAt": "2026-05-26T14:55:05.000Z"
+        },
+        {
+          "id": "om_cd549d2f0f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart ties expected tariff refunds to price strategy amid cost pressures",
+          "url": "https://www.retaildive.com/news/walmart-tariff-refunds-price-cuts-low-prices-strategy/821033/",
+          "postedAt": "2026-05-26T14:23:00.000Z"
+        },
+        {
+          "id": "om_60a9ffc2f6",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Under Armour reaches 25% SKU reduction goal",
+          "url": "https://www.retaildive.com/news/under-armour-sku-reduction-goal/820856/",
+          "postedAt": "2026-05-26T14:02:00.000Z"
+        },
+        {
+          "id": "om_0583c01552",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "5 reasons why Saks Global’s post-bankruptcy forecast is far-fetched",
+          "url": "https://www.retaildive.com/news/saks-global-post-bankruptcy-plan-forecast-bonkers/819338/",
+          "postedAt": "2026-05-26T13:58:00.000Z"
+        },
+        {
+          "id": "om_a02c37a010",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Liquid I.V. updates ad playbook with Amazon’s Brand Innovation Lab",
+          "url": "https://www.marketingdive.com/news/liquid-iv-updates-ad-playbook-with-amazons-brand-innovation-lab/820977/",
+          "postedAt": "2026-05-26T12:00:00.000Z"
+        },
+        {
+          "id": "om_3141360603",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Motorsport icon Susie Wolff on building a fandom for F1 Academy",
+          "url": "https://www.marketingbrew.com/stories/susie-wolff-f1-academy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-26T11:00:00.000Z"
+        },
+        {
+          "id": "om_d856c05830",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Primark Takes Its Boldest Shot Yet at Winning Over American Shoppers",
+          "url": "https://www.adweek.com/creativity/primark-takes-its-boldest-shot-yet-at-winning-over-american-shoppers/",
+          "postedAt": "2026-05-26T10:05:20.000Z"
+        },
+        {
+          "id": "om_7b5dccb30b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The TikTok effect: How viral trends are changing visual merchandising",
+          "url": "https://www.retaildive.com/spons/the-tiktok-effect-how-viral-trends-are-changing-visual-merchandising/820559/",
+          "postedAt": "2026-05-26T09:00:00.000Z"
+        },
+        {
+          "id": "om_70006bf795",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "What Brands Are Actually Worried About Behind Closed Doors, According to Ad Leaders",
+          "url": "https://www.adweek.com/convergent-tv/what-brands-are-actually-worried-about-behind-closed-doors-ad-leaders/",
+          "postedAt": "2026-05-26T06:00:00.000Z"
+        },
+        {
+          "id": "om_9bbd5059a7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ben & Jerry’s Ben Cohen Says Selling Your Business Is ‘A Shitty Goal’",
+          "url": "https://www.adweek.com/brand-marketing/ben-jerrys-ben-cohen-says-selling-your-business-is-a-shitty-goal/",
+          "postedAt": "2026-05-26T06:00:00.000Z"
+        },
+        {
+          "id": "om_ec32473a8b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Creative Leaders Place Their Bets on 19 Campaigns to Win at Cannes Lions 2026",
+          "url": "https://www.adweek.com/creativity/creative-leaders-place-their-bets-on-19-campaigns-to-win-at-cannes-lions-2026/",
+          "postedAt": "2026-05-26T06:00:00.000Z"
+        },
+        {
+          "id": "om_9c32cfde7c",
           "source": "Social Media Today",
           "lang": "en",
-          "title": "X looks to improve its incentives for original creators",
-          "url": "https://www.socialmediatoday.com/news/x-looks-to-improve-its-incentives-for-original-creators/821051/",
+          "title": "X looks to improve incentives for original creators",
+          "url": "https://www.socialmediatoday.com/news/x-looks-to-improve-incentives-for-original-creators/821051/",
           "postedAt": "2026-05-25T06:27:13.000Z"
         },
         {
@@ -733,128 +845,16 @@
           "postedAt": "2026-05-22T16:27:00.000Z"
         },
         {
-          "id": "om_58d4725e59",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Weekly Closeout: John Varvatos quietly exits Under Armour and Victoria’s Secret’s ticker gets sexier",
-          "url": "https://www.retaildive.com/news/john-varvatos-exits-under-armour-victorias-secret-nyse-ticker-vsxy/820907/",
-          "postedAt": "2026-05-22T16:14:00.000Z"
-        },
-        {
           "id": "om_9859afa557",
           "source": "Adweek",
           "lang": "en",
           "title": "If You Can Sell Insurance, You Can Sell Anything ft. Tory Pachis of Amica Insurance",
           "url": "https://www.adweek.com/brand-marketing/if-you-can-sell-insurance-you-can-sell-anything-ft-tory-pachis-of-amica-insurance/",
           "postedAt": "2026-05-22T15:09:29.000Z"
-        },
-        {
-          "id": "om_c88414cc6f",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Coworking with Christy Roach",
-          "url": "https://www.marketingbrew.com/stories/coworking-with-christy-roach?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-22T15:03:51.000Z"
-        },
-        {
-          "id": "om_97a3cf93cd",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "French’s mustard goes green as part of ‘Minions & Monsters’ tie-in",
-          "url": "https://www.marketingdive.com/news/frenchs-mustard-goes-green-as-part-of-minions-monsters-tie-in/820976/",
-          "postedAt": "2026-05-22T14:09:22.000Z"
-        },
-        {
-          "id": "om_f05a2efcc7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "OpenAI Is Hiring for a Top Marketing Exec To Promote Its Ads Business",
-          "url": "https://www.adweek.com/media/openai-is-hiring-for-a-top-marketing-exec-to-promote-its-ads-business/",
-          "postedAt": "2026-05-22T12:50:52.000Z"
-        },
-        {
-          "id": "om_764eec9dd8",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How TGL’s game stays on par with golf’s changing demographics",
-          "url": "https://www.marketingbrew.com/stories/tgl-golf-audience-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-22T12:31:43.000Z"
-        },
-        {
-          "id": "om_2d3c14715c",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Campaign Trail: Skittles stays surreal for ‘uncomfortably soft’ gummies",
-          "url": "https://www.marketingdive.com/news/campaign-trail-skittles-stays-surreal-for-uncomfortably-soft-gummies/820683/",
-          "postedAt": "2026-05-22T12:00:00.000Z"
-        },
-        {
-          "id": "om_1bfb9408a6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 9 Campaigns That Caught Our Eye, From Visa to Guinness",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-9-campaigns-that-caught-our-eye-from-visa-to-guinness/",
-          "postedAt": "2026-05-22T06:00:00.000Z"
-        },
-        {
-          "id": "om_5bb8d8831c",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok partners with Paul McCartney for album launch",
-          "url": "https://www.socialmediatoday.com/news/tiktok-partners-with-paul-mccartney-for-album-launch/820941/",
-          "postedAt": "2026-05-21T21:19:21.000Z"
-        },
-        {
-          "id": "om_94feb39e6e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Litter-Robot’s first CMO uses marketing to drive cat ownership",
-          "url": "https://www.marketingdive.com/news/how-litter-robots-first-cmo-uses-marketing-to-drive-cat-ownership/820863/",
-          "postedAt": "2026-05-21T17:09:00.000Z"
-        },
-        {
-          "id": "om_551d3de284",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Penske Media Is in Talks to Acquire Unsold Vox Media Brands",
-          "url": "https://www.adweek.com/media/penske-media-acquires-vox-media-brands/",
-          "postedAt": "2026-05-21T16:37:35.000Z"
-        },
-        {
-          "id": "om_21b0ef7e99",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amer Sports CFO: No visibility on tariff refunds",
-          "url": "https://www.retaildive.com/news/amer-sports-cfo-tariff-refunds-q1/820797/",
-          "postedAt": "2026-05-21T16:29:00.000Z"
-        },
-        {
-          "id": "om_49573997a5",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: Snapchat offers unified optimization approach to app marketers",
-          "url": "https://www.marketingdive.com/news/snapchat-offers-unified-optimization-approach-to-app-marketers/820884/",
-          "postedAt": "2026-05-21T16:17:00.000Z"
-        },
-        {
-          "id": "om_4dabb3def4",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Roberto Cavalli to be acquired by Destination Maternity parent company",
-          "url": "https://www.retaildive.com/news/roberto-cavalli-acquired-destination-maternity-parent-company-marquee-brands/820860/",
-          "postedAt": "2026-05-21T16:17:00.000Z"
-        },
-        {
-          "id": "om_e2d8a14a15",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "David’s Bridal is ready to help couples budget their wedding",
-          "url": "https://www.retaildive.com/news/davids-bridal-ai-wedding-budget-tool-pearl-planner/820480/",
-          "postedAt": "2026-05-21T16:16:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-26T04:34:13.748Z",
+      "lastUpdated": "2026-05-26T16:09:23.941Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
