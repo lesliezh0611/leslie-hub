@@ -227,13 +227,130 @@
       ],
       "articles": [
         {
-          "id": "vc_dotey_c0fb337d9e",
+          "id": "vc_sama_54cc69850d",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "🛫",
+          "url": "https://x.com/sama/status/2059492605634007125",
+          "postedAt": "2026-05-27T04:31:15.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_93c9511b5c",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2059469361900072960",
+          "url": "https://x.com/Khazix0918/status/2059476489687756848",
+          "postedAt": "2026-05-27T03:27:13.000Z"
+        },
+        {
+          "id": "vc_steipete_e92b32eb4f",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "autoreview is the most impactful skill I've added to my stack (next to http://crabbox.sh). It automatically reviews your code before landing a PR. Fin...",
+          "url": "https://x.com/steipete/status/2059453909819654554",
+          "postedAt": "2026-05-27T01:57:29.000Z"
+        },
+        {
+          "id": "vc_dotey_ad05add2ae",
           "source": "dotey",
           "sourceName": "宝玉",
           "platform": "x",
-          "title": "Markdown 当源代码，部分成立，但很多问题还没有解决，比如说： 1. 确定性问题 从汇编到高级编程语言，它都是确定性的，代码到生成物的结果几乎是一样的，但同一...",
-          "url": "https://x.com/dotey/status/2059303747327500758",
-          "postedAt": "2026-05-26T16:00:48.000Z"
+          "title": "RT Dash: 把 AI 想象成数字员工，一个人管理的下属员工的薪资，和自己的薪资 1 : 1，甚至 1 : 10 其实都是正常的。所以未来 AI Token 的费用成本和员工工资齐平...",
+          "url": "https://x.com/dotey/status/2059471328529297595",
+          "postedAt": "2026-05-27T01:13:09.000Z"
+        },
+        {
+          "id": "vc_dotey_1c026f48ea",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "可能你不需要 skill 管理工具，真正常用的只有几个 Skills，少量放全局 Skills，其他跟着项目走就够了",
+          "url": "https://x.com/dotey/status/2059442357196439956",
+          "postedAt": "2026-05-27T01:11:35.000Z"
+        },
+        {
+          "id": "vc_dotey_4561b9dced",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "以我的经验，只有明确的可以程序自动验收标准的 Skills 才能自我进化，比如说你写个 Skill 去优化代码性能，这个代码性能是可测量可量化的，那么给一些测试样例...",
+          "url": "https://x.com/dotey/status/2059434459783389397",
+          "postedAt": "2026-05-27T00:40:12.000Z"
+        },
+        {
+          "id": "vc_steipete_4d7687660d",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Also extracted our image-logic into a separate library. Especially useful if you want to ensure small hacked images don't explode your process. Raster...",
+          "url": "https://x.com/steipete/status/2059423344961671290",
+          "postedAt": "2026-05-26T23:56:02.000Z"
+        },
+        {
+          "id": "vc_steipete_674816dd0e",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "All the deps around opus are old or terrible, so vibed my own and replaced octoscript and opus-native. Performance of modern wasm on node/V8 is ~equiv...",
+          "url": "https://x.com/steipete/status/2059422568352714981",
+          "postedAt": "2026-05-26T23:52:57.000Z"
+        },
+        {
+          "id": "vc_steipete_09365e3c7d",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "What do people use for SSO/SCIM/Endpoint Security in 2026. As we're hiring people for the OpenClaw Foundation, I gotta level up.",
+          "url": "https://x.com/steipete/status/2059421603268608302",
+          "postedAt": "2026-05-26T23:49:07.000Z"
+        },
+        {
+          "id": "vc_dotey_32dcb98bba",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT AlexZ 🦀: 这组材料放在一起，结论并不是“软件工程要结束了”。恰恰相反，软件工程正在变得更工程化。 当 AI 只能补全代码时，我们关心模型能力。当 AI 能...",
+          "url": "https://x.com/dotey/status/2059426345713582316",
+          "postedAt": "2026-05-26T22:55:30.000Z"
+        },
+        {
+          "id": "vc_dotey_b304561519",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Stack Overflow 因为大家都用 AI 导致发帖量断崖式下跌，但它反而收入更高了 Stack Overflow 上个月只收到了 6866 个新提问，和 2008 年刚上线时差不多。曾经全...",
+          "url": "https://x.com/dotey/status/2059398406737436897",
+          "postedAt": "2026-05-26T22:16:56.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_6c43db0cbe",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "How my own usage of coding agents has changed in the past month: 1. Moved from the terminal to the Codex/Claude Code desktop apps. The Codex Mac app i...",
+          "url": "https://x.com/zarazhangrui/status/2059354487823978586",
+          "postedAt": "2026-05-26T19:22:25.000Z"
+        },
+        {
+          "id": "vc_gdb_6f9648a336",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "magical experience with codex on iPad",
+          "url": "https://x.com/gdb/status/2059315705779229144",
+          "postedAt": "2026-05-26T16:48:19.000Z"
+        },
+        {
+          "id": "vc_steipete_4b215017fd",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Serena Ge (Datacurve): Today we’re releasing DeepSWE, a new standard for agentic coding benchmarks. On public leaderboards, top models often look ...",
+          "url": "https://x.com/steipete/status/2059421776606585195",
+          "postedAt": "2026-05-26T16:18:34.000Z"
         },
         {
           "id": "vc_gdb_fe4e0a3712",
@@ -245,33 +362,6 @@
           "postedAt": "2026-05-26T15:51:42.000Z"
         },
         {
-          "id": "vc_steipete_8547c94511",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Peter W. Kruger: 𝗢𝗽𝗲𝗻𝗖𝗹𝗮𝘄 𝘃𝘀. 𝗖𝗹𝗮𝘂𝗱𝗲? 𝗧𝗵𝗲 𝗷𝘂𝗿𝘆 𝗶𝘀 𝗼𝘂𝘁!🏛️�...",
-          "url": "https://x.com/steipete/status/2059231470544163287",
-          "postedAt": "2026-05-26T09:30:29.000Z"
-        },
-        {
-          "id": "vc_dotey_edd590ce69",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "+1 X Article 编辑器比微信公众号编辑器还难用！ 吹30个人的工程团队，却在产品功能和体验上几乎没什么作为；天天抓创作者分成那点破事，却对垃圾广告毫无作为",
-          "url": "https://x.com/dotey/status/2059143273889853709",
-          "postedAt": "2026-05-26T05:23:08.000Z"
-        },
-        {
-          "id": "vc_dotey_ae6d259a75",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Agent 应用和传统 App + AI 的最大差别，在于执行的主体不同。 传统 App + AI，是人“操作” App，AI 只是辅助 Agent 应用，是人“指挥” Agent 去操作 App/cli...",
-          "url": "https://x.com/dotey/status/2059129670558200101",
-          "postedAt": "2026-05-26T04:29:04.000Z"
-        },
-        {
           "id": "vc_Khazix0918_91a0ad6826",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -281,24 +371,6 @@
           "postedAt": "2026-05-26T03:18:11.000Z"
         },
         {
-          "id": "vc_dotey_014726dc2d",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 响马: 有一种说法，说是现在很多 ai 工具，最后都会因为模型发展被吞噬掉。 且不说这个说法本身的是否正确，这个说法让我想起两句对联： 天公下雪不下雨，雪...",
-          "url": "https://x.com/dotey/status/2059151168752804154",
-          "postedAt": "2026-05-26T02:56:05.000Z"
-        },
-        {
-          "id": "vc_dotey_0564533ca6",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "微信就是太封闭了，要是开放一点能有很多有意思的衍生产品出来",
-          "url": "https://x.com/dotey/status/2059093711875702898",
-          "postedAt": "2026-05-26T02:06:11.000Z"
-        },
-        {
           "id": "vc_gdb_6255067bb8",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -306,42 +378,6 @@
           "title": "Codex for finding space on your laptop:",
           "url": "https://x.com/gdb/status/2059034161739182453",
           "postedAt": "2026-05-25T22:09:33.000Z"
-        },
-        {
-          "id": "vc_steipete_d9e869f9ab",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT DHH: I've had more \"I can't believe it's this good\" moments with GPT5.5 than any other model since Opus 4.5. It's shockingly, scarily capable. Days...",
-          "url": "https://x.com/steipete/status/2059230780665037271",
-          "postedAt": "2026-05-25T16:48:07.000Z"
-        },
-        {
-          "id": "vc_steipete_cee2263dc5",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "OpenClaw's dependency purge continues. Killed Sharp and Jimp. Replaced it with photon, a small WebAssembly that runs compiled Rust for image processin...",
-          "url": "https://x.com/steipete/status/2058922222790525272",
-          "postedAt": "2026-05-25T14:44:45.000Z"
-        },
-        {
-          "id": "vc_steipete_bd14e77640",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Folks: when you write skills, ask your agent to be token efficient, relax grammer. I see too many skills that write books in the skill description, an...",
-          "url": "https://x.com/steipete/status/2058917897590673525",
-          "postedAt": "2026-05-25T14:27:34.000Z"
-        },
-        {
-          "id": "vc_steipete_9236719bf9",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "There's security, and there's clankers.",
-          "url": "https://x.com/steipete/status/2058884046940225918",
-          "postedAt": "2026-05-25T12:13:03.000Z"
         },
         {
           "id": "vc_Khazix0918_ba7fc5e516",
@@ -369,46 +405,10 @@
           "title": "正好刷到 hyper3D 发布了 Rodin Gen-2.5。 瞅了眼介绍有点猛，感觉算是全球头一个搞到千万级面数的 3D 生成模型了。 正好想起前段时间挺火的玩法，我就用 GPT-im...",
           "url": "https://x.com/Khazix0918/status/2058725487812514036",
           "postedAt": "2026-05-25T01:43:00.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_a58f77b99c",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "I recently discovered a life-changing Mac app “Amphetamine” which keeps your Mac awake even when lid is closed Much more reliable & easier to use th...",
-          "url": "https://x.com/zarazhangrui/status/2058643577421631538",
-          "postedAt": "2026-05-24T20:17:31.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_60ba187699",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Ran into a friend who was an engineering manager; she just voluntarily transitioned to be an IC and has never been happier because she can finally get...",
-          "url": "https://x.com/zarazhangrui/status/2058640897236140034",
-          "postedAt": "2026-05-24T20:06:52.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_a21dbb8cec",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "OpenAI being more open Also I just realized recently that Codex is open source",
-          "url": "https://x.com/zarazhangrui/status/2058604604422815832",
-          "postedAt": "2026-05-24T17:42:39.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_a3b3b80d38",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "RT Garry Tan: The companies I love working with in office hours are the ones where the founder has a specific, weird, earned insight that nobody else ...",
-          "url": "https://x.com/zarazhangrui/status/2058589355695059025",
-          "postedAt": "2026-05-24T07:57:32.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-26T16:09:21.353Z",
+      "lastUpdated": "2026-05-27T04:47:30.709Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-26T16:09:22.606Z",
+      "lastUpdated": "2026-05-27T04:47:32.328Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,30 @@
       },
       "articles": [
         {
+          "id": "om_cae45ecc2b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Following Shein sale, Everlane founder launches new brand, ‘Still Radical’",
+          "url": "https://www.retaildive.com/news/shein-sale-everlane-founder-launches-new-brand-still-radical/821167/",
+          "postedAt": "2026-05-26T21:41:00.000Z"
+        },
+        {
+          "id": "om_945ad57aaf",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "YouTube highlights creators vying for Emmy nominations",
+          "url": "https://www.socialmediatoday.com/news/youtube-highlights-creators-vying-for-emmy-nominations/821168/",
+          "postedAt": "2026-05-26T21:02:16.000Z"
+        },
+        {
+          "id": "om_e3fc9ba847",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "The best Memorial Day sales you can still shop",
+          "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
+          "postedAt": "2026-05-26T16:10:06.000Z"
+        },
+        {
           "id": "om_5415f0d4ee",
           "source": "Retail Dive",
           "lang": "en",
@@ -715,6 +739,14 @@
           "title": "Shoe Carnival ditches rebanner strategy",
           "url": "https://www.retaildive.com/news/shoe-carnival-ditches-shoe-station-rebanner-strategy/821043/",
           "postedAt": "2026-05-26T15:21:00.000Z"
+        },
+        {
+          "id": "om_2b7683c0cc",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "OpenAI Hires ServiceNow CMO Colin Fleming to Lead Business Marketing Push",
+          "url": "https://www.adweek.com/media/openai-hires-servicenow-cmo-colin-fleming-to-lead-business-marketing-push/",
+          "postedAt": "2026-05-26T15:03:18.000Z"
         },
         {
           "id": "om_55b86b163b",
@@ -755,6 +787,14 @@
           "title": "5 reasons why Saks Global’s post-bankruptcy forecast is far-fetched",
           "url": "https://www.retaildive.com/news/saks-global-post-bankruptcy-plan-forecast-bonkers/819338/",
           "postedAt": "2026-05-26T13:58:00.000Z"
+        },
+        {
+          "id": "om_fa6f43d693",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Blueland Reinvented Its Packaging for the Retail Aisle",
+          "url": "https://www.adweek.com/commerce/how-blueland-reinvented-its-packaging-for-the-retail-aisle/",
+          "postedAt": "2026-05-26T12:50:54.000Z"
         },
         {
           "id": "om_a02c37a010",
@@ -811,50 +851,10 @@
           "title": "Creative Leaders Place Their Bets on 19 Campaigns to Win at Cannes Lions 2026",
           "url": "https://www.adweek.com/creativity/creative-leaders-place-their-bets-on-19-campaigns-to-win-at-cannes-lions-2026/",
           "postedAt": "2026-05-26T06:00:00.000Z"
-        },
-        {
-          "id": "om_9c32cfde7c",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "X looks to improve incentives for original creators",
-          "url": "https://www.socialmediatoday.com/news/x-looks-to-improve-incentives-for-original-creators/821051/",
-          "postedAt": "2026-05-25T06:27:13.000Z"
-        },
-        {
-          "id": "om_68e2806671",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok announces expanded partnership with Universal Music Group",
-          "url": "https://www.socialmediatoday.com/news/tiktok-announces-expanded-partnership-with-universal-music-group/821048/",
-          "postedAt": "2026-05-25T06:15:08.000Z"
-        },
-        {
-          "id": "om_87798da188",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "As the AI Battle Rages, Yusuf Mehdi Becomes the Latest Microsoft Veteran to Walk",
-          "url": "https://www.adweek.com/brand-marketing/ai-battle-microsoft-yusuf-mehdi/",
-          "postedAt": "2026-05-22T22:47:42.000Z"
-        },
-        {
-          "id": "om_2e447b8fb7",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "It’s official: Shein will acquire Everlane",
-          "url": "https://www.retaildive.com/news/official-shein-acquires-everlane/821004/",
-          "postedAt": "2026-05-22T16:27:00.000Z"
-        },
-        {
-          "id": "om_9859afa557",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "If You Can Sell Insurance, You Can Sell Anything ft. Tory Pachis of Amica Insurance",
-          "url": "https://www.adweek.com/brand-marketing/if-you-can-sell-insurance-you-can-sell-anything-ft-tory-pachis-of-amica-insurance/",
-          "postedAt": "2026-05-22T15:09:29.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-26T16:09:23.941Z",
+      "lastUpdated": "2026-05-27T04:47:34.510Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
