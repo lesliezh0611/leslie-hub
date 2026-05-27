@@ -227,6 +227,60 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_63e35ba470",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Agent 产品的设计，要看定位是以 Agent 为主还是以人为主 Agent 为辅。 如果 Agent 只是辅助，那么工作区在中间，Agent 干活区就在右侧。毕竟主要的场景都是人操...",
+          "url": "https://x.com/dotey/status/2059666423538983242",
+          "postedAt": "2026-05-27T16:01:56.000Z"
+        },
+        {
+          "id": "vc_gdb_0739ceb1bb",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Codex for transcribing and answering questions about a meeting in real time:",
+          "url": "https://x.com/gdb/status/2059662726256075023",
+          "postedAt": "2026-05-27T15:47:15.000Z"
+        },
+        {
+          "id": "vc_gdb_82b449502b",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "true but changing fast",
+          "url": "https://x.com/gdb/status/2059566028166934585",
+          "postedAt": "2026-05-27T09:23:00.000Z"
+        },
+        {
+          "id": "vc_steipete_cf2dce4dbb",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Kol Tregaskes: Many developers have suspected for months that GPT-5.5 outperforms Claude Sonnet for coding. But SWE-Bench reported near-parity, and...",
+          "url": "https://x.com/steipete/status/2059606752274866617",
+          "postedAt": "2026-05-27T08:31:05.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_9b5ec1706b",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "我也在努力让自己成为一个有趣的人。 但是我也害怕自由。 自由就像漫无边际的旷野。 但是我却不知道该往哪去。 所以才那么努力的工作、输出，为自己的人生尽可能...",
+          "url": "https://x.com/Khazix0918/status/2059540550240677998",
+          "postedAt": "2026-05-27T07:41:46.000Z"
+        },
+        {
+          "id": "vc_gdb_eb74974d2c",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "codex is great for any kind of work done with a computer:",
+          "url": "https://x.com/gdb/status/2059519197562929416",
+          "postedAt": "2026-05-27T06:16:55.000Z"
+        },
+        {
           "id": "vc_sama_54cc69850d",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -317,15 +371,6 @@
           "postedAt": "2026-05-26T22:55:30.000Z"
         },
         {
-          "id": "vc_dotey_b304561519",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Stack Overflow 因为大家都用 AI 导致发帖量断崖式下跌，但它反而收入更高了 Stack Overflow 上个月只收到了 6866 个新提问，和 2008 年刚上线时差不多。曾经全...",
-          "url": "https://x.com/dotey/status/2059398406737436897",
-          "postedAt": "2026-05-26T22:16:56.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_6c43db0cbe",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -344,15 +389,6 @@
           "postedAt": "2026-05-26T16:48:19.000Z"
         },
         {
-          "id": "vc_steipete_4b215017fd",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Serena Ge (Datacurve): Today we’re releasing DeepSWE, a new standard for agentic coding benchmarks. On public leaderboards, top models often look ...",
-          "url": "https://x.com/steipete/status/2059421776606585195",
-          "postedAt": "2026-05-26T16:18:34.000Z"
-        },
-        {
           "id": "vc_gdb_fe4e0a3712",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -369,46 +405,10 @@
           "title": "http://x.com/i/article/2059109266817208320",
           "url": "https://x.com/Khazix0918/status/2059111830111617150",
           "postedAt": "2026-05-26T03:18:11.000Z"
-        },
-        {
-          "id": "vc_gdb_6255067bb8",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Codex for finding space on your laptop:",
-          "url": "https://x.com/gdb/status/2059034161739182453",
-          "postedAt": "2026-05-25T22:09:33.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_ba7fc5e516",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2058760327274409984",
-          "url": "https://x.com/Khazix0918/status/2058762058250977675",
-          "postedAt": "2026-05-25T04:08:19.000Z"
-        },
-        {
-          "id": "vc_gdb_83d58aedce",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "GPT-5.5 Pro for fact checking:",
-          "url": "https://x.com/gdb/status/2058750645394649410",
-          "postedAt": "2026-05-25T03:22:58.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_60fc2f8f27",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "正好刷到 hyper3D 发布了 Rodin Gen-2.5。 瞅了眼介绍有点猛，感觉算是全球头一个搞到千万级面数的 3D 生成模型了。 正好想起前段时间挺火的玩法，我就用 GPT-im...",
-          "url": "https://x.com/Khazix0918/status/2058725487812514036",
-          "postedAt": "2026-05-25T01:43:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-27T04:47:30.709Z",
+      "lastUpdated": "2026-05-27T16:12:13.168Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_179a196144",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "The Codex feature that works while you sleep",
+          "url": "https://www.lennysnewsletter.com/p/the-codex-feature-that-works-while",
+          "postedAt": "2026-05-27T12:03:47.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_275e74f41c",
           "source": "Lenny's Podcast",
@@ -518,14 +526,6 @@
           "topic": "🎙️ How I AI: HTML is the new Markdown: How Anthropic engineers are building with Claude Code",
           "url": "https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown",
           "postedAt": "2026-05-18T15:00:52.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_3768575627",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "HTML is the new Markdown: How Anthropic engineers are building with Claude Code | Thariq Shihipar",
-          "url": "https://www.lennysnewsletter.com/p/html-is-the-new-markdown-how-anthropic",
-          "postedAt": "2026-05-18T12:02:11.000Z"
         },
         {
           "id": "en_pod_the_knowledge_project_c25daf02c3",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-27T04:47:32.328Z",
+      "lastUpdated": "2026-05-27T16:12:14.266Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,10 +693,66 @@
       },
       "articles": [
         {
+          "id": "om_be38ff4100",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart operations execs latest to leave amid leadership shakeup",
+          "url": "https://www.retaildive.com/news/walmart-operations-executives-leave-leadership-shakeup/821178/",
+          "postedAt": "2026-05-27T15:16:00.000Z"
+        },
+        {
+          "id": "om_71c4156895",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Oreo teams with K-pop supergroup BTS for global campaign",
+          "url": "https://www.marketingdive.com/news/oreo-teams-with-k-pop-supergroup-bts-for-global-campaign/821189/",
+          "postedAt": "2026-05-27T15:00:00.000Z"
+        },
+        {
+          "id": "om_86cccfb954",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Unilever’s creator marketing strategy takes center stage at World Cup",
+          "url": "https://www.marketingdive.com/news/unilevers-creator-marketing-strategy-takes-center-stage-at-world-cup/821182/",
+          "postedAt": "2026-05-27T14:55:00.000Z"
+        },
+        {
+          "id": "om_4eccc84651",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target, Walmart vie for beauty customers",
+          "url": "https://www.retaildive.com/news/target-walmart-beauty-customers-q1/820890/",
+          "postedAt": "2026-05-27T14:34:00.000Z"
+        },
+        {
+          "id": "om_95a525b3e8",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Chili’s remakes iconic Baby Back Ribs jingle — again — with Lizzo",
+          "url": "https://www.marketingdive.com/news/chilis-remakes-iconic-baby-back-ribs-jingle-again-with-lizzo/820810/",
+          "postedAt": "2026-05-27T13:00:00.000Z"
+        },
+        {
+          "id": "om_09d1a62222",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why so many brands are releasing music videos",
+          "url": "https://www.marketingbrew.com/stories/why-so-many-brands-are-releasing-music-videos?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-27T11:00:00.000Z"
+        },
+        {
+          "id": "om_69830c2c16",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Paris Hilton’s 11:11 Media Is Debuting a Deepfake Documentary on TikTok",
+          "url": "https://www.adweek.com/media/paris-hilton-1111-media-deepfake-documentary-mostly-human/",
+          "postedAt": "2026-05-27T09:00:00.000Z"
+        },
+        {
           "id": "om_cae45ecc2b",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Following Shein sale, Everlane founder launches new brand, ‘Still Radical’",
+          "title": "Following Shein sale, Everlane founder launches new brand",
           "url": "https://www.retaildive.com/news/shein-sale-everlane-founder-launches-new-brand-still-radical/821167/",
           "postedAt": "2026-05-26T21:41:00.000Z"
         },
@@ -707,14 +763,6 @@
           "title": "YouTube highlights creators vying for Emmy nominations",
           "url": "https://www.socialmediatoday.com/news/youtube-highlights-creators-vying-for-emmy-nominations/821168/",
           "postedAt": "2026-05-26T21:02:16.000Z"
-        },
-        {
-          "id": "om_e3fc9ba847",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "The best Memorial Day sales you can still shop",
-          "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
-          "postedAt": "2026-05-26T16:10:06.000Z"
         },
         {
           "id": "om_5415f0d4ee",
@@ -757,14 +805,6 @@
           "postedAt": "2026-05-26T15:00:00.000Z"
         },
         {
-          "id": "om_c93cfc8186",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-          "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
-          "postedAt": "2026-05-26T14:55:05.000Z"
-        },
-        {
           "id": "om_cd549d2f0f",
           "source": "Retail Dive",
           "lang": "en",
@@ -779,14 +819,6 @@
           "title": "Under Armour reaches 25% SKU reduction goal",
           "url": "https://www.retaildive.com/news/under-armour-sku-reduction-goal/820856/",
           "postedAt": "2026-05-26T14:02:00.000Z"
-        },
-        {
-          "id": "om_0583c01552",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "5 reasons why Saks Global’s post-bankruptcy forecast is far-fetched",
-          "url": "https://www.retaildive.com/news/saks-global-post-bankruptcy-plan-forecast-bonkers/819338/",
-          "postedAt": "2026-05-26T13:58:00.000Z"
         },
         {
           "id": "om_fa6f43d693",
@@ -819,42 +851,10 @@
           "title": "Primark Takes Its Boldest Shot Yet at Winning Over American Shoppers",
           "url": "https://www.adweek.com/creativity/primark-takes-its-boldest-shot-yet-at-winning-over-american-shoppers/",
           "postedAt": "2026-05-26T10:05:20.000Z"
-        },
-        {
-          "id": "om_7b5dccb30b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The TikTok effect: How viral trends are changing visual merchandising",
-          "url": "https://www.retaildive.com/spons/the-tiktok-effect-how-viral-trends-are-changing-visual-merchandising/820559/",
-          "postedAt": "2026-05-26T09:00:00.000Z"
-        },
-        {
-          "id": "om_70006bf795",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "What Brands Are Actually Worried About Behind Closed Doors, According to Ad Leaders",
-          "url": "https://www.adweek.com/convergent-tv/what-brands-are-actually-worried-about-behind-closed-doors-ad-leaders/",
-          "postedAt": "2026-05-26T06:00:00.000Z"
-        },
-        {
-          "id": "om_9bbd5059a7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ben & Jerry’s Ben Cohen Says Selling Your Business Is ‘A Shitty Goal’",
-          "url": "https://www.adweek.com/brand-marketing/ben-jerrys-ben-cohen-says-selling-your-business-is-a-shitty-goal/",
-          "postedAt": "2026-05-26T06:00:00.000Z"
-        },
-        {
-          "id": "om_ec32473a8b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Creative Leaders Place Their Bets on 19 Campaigns to Win at Cannes Lions 2026",
-          "url": "https://www.adweek.com/creativity/creative-leaders-place-their-bets-on-19-campaigns-to-win-at-cannes-lions-2026/",
-          "postedAt": "2026-05-26T06:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-27T04:47:34.510Z",
+      "lastUpdated": "2026-05-27T16:12:15.351Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
