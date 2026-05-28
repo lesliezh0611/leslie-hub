@@ -227,13 +227,94 @@
       ],
       "articles": [
         {
-          "id": "vc_dotey_63e35ba470",
+          "id": "vc_dotey_3ee6cc3f66",
           "source": "dotey",
           "sourceName": "宝玉",
           "platform": "x",
-          "title": "Agent 产品的设计，要看定位是以 Agent 为主还是以人为主 Agent 为辅。 如果 Agent 只是辅助，那么工作区在中间，Agent 干活区就在右侧。毕竟主要的场景都是人操...",
-          "url": "https://x.com/dotey/status/2059666423538983242",
-          "postedAt": "2026-05-27T16:01:56.000Z"
+          "title": "Agent 生成的结果要不要人工审查，取决于验证方法是不是可靠，以及模型能力是否够强，能理解任务并做好验证工作。 就写代码这种事来说，中间结果确实不需要太多...",
+          "url": "https://x.com/dotey/status/2059832074782089299",
+          "postedAt": "2026-05-28T03:00:11.000Z"
+        },
+        {
+          "id": "vc_dotey_3d50141cae",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT yan5xu: context 共享还是要有的。但分成两种看。 放在message history的session内context，prompt cache友好，因为有 tool use trajectory，后续的tool use...",
+          "url": "https://x.com/dotey/status/2059836085652291759",
+          "postedAt": "2026-05-28T02:42:50.000Z"
+        },
+        {
+          "id": "vc_gdb_5c9ffbdfa9",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "OpenAI for self-improving tax agents:",
+          "url": "https://x.com/gdb/status/2059784106955993236",
+          "postedAt": "2026-05-27T23:49:34.000Z"
+        },
+        {
+          "id": "vc_dotey_32537507ec",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "用好 Coding Agent，重点是两头，尤其是开头的部分，如果一开始就走偏了后面怎么改都改不好。 比如我要开发一个新功能，首先不是直接叫给 Agent 去写，会把需求...",
+          "url": "https://x.com/dotey/status/2059773942500298934",
+          "postedAt": "2026-05-27T23:09:11.000Z"
+        },
+        {
+          "id": "vc_dotey_76437fbbe4",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Claude Design 现在和 Claude AI 网站以及 Claude Code 共享额度了，之前是独立的额度，一不小心就没了。 这个产品推荐多用用，产品设计能力和 UI 设计能力挺不...",
+          "url": "https://x.com/dotey/status/2059770088236908723",
+          "postedAt": "2026-05-27T22:53:52.000Z"
+        },
+        {
+          "id": "vc_gdb_cc6cae54f0",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Underappreciated how capable GPT-5.5 is at cybersecurity:",
+          "url": "https://x.com/gdb/status/2059767326971724016",
+          "postedAt": "2026-05-27T22:42:54.000Z"
+        },
+        {
+          "id": "vc_gdb_60880b67e9",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Codex for parallel browser-using subagents:",
+          "url": "https://x.com/gdb/status/2059735815262249392",
+          "postedAt": "2026-05-27T20:37:41.000Z"
+        },
+        {
+          "id": "vc_gdb_e0a784715c",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "bring-your-own MCP servers:",
+          "url": "https://x.com/gdb/status/2059733344783630352",
+          "postedAt": "2026-05-27T20:27:52.000Z"
+        },
+        {
+          "id": "vc_dotey_97bc761256",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RepoPrompt 作者被 OpenAI 招安了，然后这软件现在免费了，即将开源。 如果你是 RepoPrompt 付费用户会给你送 Codex 的 Credits。",
+          "url": "https://x.com/dotey/status/2059729329119006928",
+          "postedAt": "2026-05-27T20:11:54.000Z"
+        },
+        {
+          "id": "vc_sama_c48de651a8",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "AI should dramatically increase quality of life and individual freedoms for people around the world. The OpenAI Foundation is making an initial $250M ...",
+          "url": "https://x.com/sama/status/2059677202917331431",
+          "postedAt": "2026-05-27T16:44:46.000Z"
         },
         {
           "id": "vc_gdb_0739ceb1bb",
@@ -243,15 +324,6 @@
           "title": "Codex for transcribing and answering questions about a meeting in real time:",
           "url": "https://x.com/gdb/status/2059662726256075023",
           "postedAt": "2026-05-27T15:47:15.000Z"
-        },
-        {
-          "id": "vc_gdb_82b449502b",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "true but changing fast",
-          "url": "https://x.com/gdb/status/2059566028166934585",
-          "postedAt": "2026-05-27T09:23:00.000Z"
         },
         {
           "id": "vc_steipete_cf2dce4dbb",
@@ -270,15 +342,6 @@
           "title": "我也在努力让自己成为一个有趣的人。 但是我也害怕自由。 自由就像漫无边际的旷野。 但是我却不知道该往哪去。 所以才那么努力的工作、输出，为自己的人生尽可能...",
           "url": "https://x.com/Khazix0918/status/2059540550240677998",
           "postedAt": "2026-05-27T07:41:46.000Z"
-        },
-        {
-          "id": "vc_gdb_eb74974d2c",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "codex is great for any kind of work done with a computer:",
-          "url": "https://x.com/gdb/status/2059519197562929416",
-          "postedAt": "2026-05-27T06:16:55.000Z"
         },
         {
           "id": "vc_sama_54cc69850d",
@@ -308,33 +371,6 @@
           "postedAt": "2026-05-27T01:57:29.000Z"
         },
         {
-          "id": "vc_dotey_ad05add2ae",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Dash: 把 AI 想象成数字员工，一个人管理的下属员工的薪资，和自己的薪资 1 : 1，甚至 1 : 10 其实都是正常的。所以未来 AI Token 的费用成本和员工工资齐平...",
-          "url": "https://x.com/dotey/status/2059471328529297595",
-          "postedAt": "2026-05-27T01:13:09.000Z"
-        },
-        {
-          "id": "vc_dotey_1c026f48ea",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "可能你不需要 skill 管理工具，真正常用的只有几个 Skills，少量放全局 Skills，其他跟着项目走就够了",
-          "url": "https://x.com/dotey/status/2059442357196439956",
-          "postedAt": "2026-05-27T01:11:35.000Z"
-        },
-        {
-          "id": "vc_dotey_4561b9dced",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "以我的经验，只有明确的可以程序自动验收标准的 Skills 才能自我进化，比如说你写个 Skill 去优化代码性能，这个代码性能是可测量可量化的，那么给一些测试样例...",
-          "url": "https://x.com/dotey/status/2059434459783389397",
-          "postedAt": "2026-05-27T00:40:12.000Z"
-        },
-        {
           "id": "vc_steipete_4d7687660d",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -362,15 +398,6 @@
           "postedAt": "2026-05-26T23:49:07.000Z"
         },
         {
-          "id": "vc_dotey_32dcb98bba",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT AlexZ 🦀: 这组材料放在一起，结论并不是“软件工程要结束了”。恰恰相反，软件工程正在变得更工程化。 当 AI 只能补全代码时，我们关心模型能力。当 AI 能...",
-          "url": "https://x.com/dotey/status/2059426345713582316",
-          "postedAt": "2026-05-26T22:55:30.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_6c43db0cbe",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -378,37 +405,10 @@
           "title": "How my own usage of coding agents has changed in the past month: 1. Moved from the terminal to the Codex/Claude Code desktop apps. The Codex Mac app i...",
           "url": "https://x.com/zarazhangrui/status/2059354487823978586",
           "postedAt": "2026-05-26T19:22:25.000Z"
-        },
-        {
-          "id": "vc_gdb_6f9648a336",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "magical experience with codex on iPad",
-          "url": "https://x.com/gdb/status/2059315705779229144",
-          "postedAt": "2026-05-26T16:48:19.000Z"
-        },
-        {
-          "id": "vc_gdb_fe4e0a3712",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Codex for analyzing and organizing your Slack:",
-          "url": "https://x.com/gdb/status/2059301458873659819",
-          "postedAt": "2026-05-26T15:51:42.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_91a0ad6826",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2059109266817208320",
-          "url": "https://x.com/Khazix0918/status/2059111830111617150",
-          "postedAt": "2026-05-26T03:18:11.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-27T16:12:13.168Z",
+      "lastUpdated": "2026-05-28T04:39:18.713Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -542,14 +542,6 @@
           "topic": "Winston Weinberg: Speed, Stress, and Better Decisions",
           "url": "https://fs.blog/knowledge-project-podcast/winston-weinberg/",
           "postedAt": "2026-05-07T09:55:00.000Z"
-        },
-        {
-          "id": "en_pod_lex_fridman_podcast_0855028b32",
-          "source": "Lex Fridman Podcast",
-          "platform": "podcast",
-          "topic": "#496 – FFmpeg: The Incredible Technology Behind Video on the Internet",
-          "url": "https://lexfridman.com/ffmpeg/?utm_source=rss&utm_medium=rss&utm_campaign=ffmpeg",
-          "postedAt": "2026-05-06T22:06:47.000Z"
         }
       ],
       "books": [
@@ -600,10 +592,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-27T16:12:14.266Z",
+      "lastUpdated": "2026-05-28T04:39:20.117Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -692,6 +684,30 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_0c1429c9de",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok drops second season of ‘In The Mix’ podcast",
+          "url": "https://www.socialmediatoday.com/news/tiktok-drops-second-season-of-in-the-mix-podcast/821310/",
+          "postedAt": "2026-05-27T21:36:50.000Z"
+        },
+        {
+          "id": "om_eff6fe1de1",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Bath & Body Works CEO: ‘We are in the early stages’ of transformation",
+          "url": "https://www.retaildive.com/news/bath-body-works-ceo-q1-earnings-early-stages-transformation/821207/",
+          "postedAt": "2026-05-27T16:16:00.000Z"
+        },
+        {
+          "id": "om_9866f32e7f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Marketers Keep Conflating Gen X With Boomers—And It’s Costing Them",
+          "url": "https://www.adweek.com/brand-marketing/marketers-keep-conflating-gen-x-with-boomers-and-its-costing-them/",
+          "postedAt": "2026-05-27T15:20:07.000Z"
+        },
         {
           "id": "om_be38ff4100",
           "source": "Retail Dive",
@@ -789,14 +805,6 @@
           "postedAt": "2026-05-26T15:21:00.000Z"
         },
         {
-          "id": "om_2b7683c0cc",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "OpenAI Hires ServiceNow CMO Colin Fleming to Lead Business Marketing Push",
-          "url": "https://www.adweek.com/media/openai-hires-servicenow-cmo-colin-fleming-to-lead-business-marketing-push/",
-          "postedAt": "2026-05-26T15:03:18.000Z"
-        },
-        {
           "id": "om_55b86b163b",
           "source": "Marketing Dive",
           "lang": "en",
@@ -811,22 +819,6 @@
           "title": "Walmart ties expected tariff refunds to price strategy amid cost pressures",
           "url": "https://www.retaildive.com/news/walmart-tariff-refunds-price-cuts-low-prices-strategy/821033/",
           "postedAt": "2026-05-26T14:23:00.000Z"
-        },
-        {
-          "id": "om_60a9ffc2f6",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Under Armour reaches 25% SKU reduction goal",
-          "url": "https://www.retaildive.com/news/under-armour-sku-reduction-goal/820856/",
-          "postedAt": "2026-05-26T14:02:00.000Z"
-        },
-        {
-          "id": "om_fa6f43d693",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Blueland Reinvented Its Packaging for the Retail Aisle",
-          "url": "https://www.adweek.com/commerce/how-blueland-reinvented-its-packaging-for-the-retail-aisle/",
-          "postedAt": "2026-05-26T12:50:54.000Z"
         },
         {
           "id": "om_a02c37a010",
@@ -845,16 +837,16 @@
           "postedAt": "2026-05-26T11:00:00.000Z"
         },
         {
-          "id": "om_d856c05830",
-          "source": "Adweek",
+          "id": "om_c88414cc6f",
+          "source": "Marketing Brew",
           "lang": "en",
-          "title": "Primark Takes Its Boldest Shot Yet at Winning Over American Shoppers",
-          "url": "https://www.adweek.com/creativity/primark-takes-its-boldest-shot-yet-at-winning-over-american-shoppers/",
-          "postedAt": "2026-05-26T10:05:20.000Z"
+          "title": "Coworking with Christy Roach",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-christy-roach?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-22T15:03:51.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-27T16:12:15.351Z",
+      "lastUpdated": "2026-05-28T04:39:21.396Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
