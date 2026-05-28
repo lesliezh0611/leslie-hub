@@ -227,6 +227,60 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_f7c5f9129a",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Every claw release spins up hundreds of CI machines to QA test and eventually creates a ledger.",
+          "url": "https://x.com/steipete/status/2059996262477222153",
+          "postedAt": "2026-05-28T13:52:36.000Z"
+        },
+        {
+          "id": "vc_steipete_7a032aeade",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Hit GitHub's rate limit one too many times, so I built octopool: a Cloudflare Worker that pools your team's PATs + GitHub App installations behind a s...",
+          "url": "https://x.com/steipete/status/2059989719870558309",
+          "postedAt": "2026-05-28T13:26:36.000Z"
+        },
+        {
+          "id": "vc_dotey_ec6be9fc64",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 响马: 看了时间线上对多 agent 的讨论，关木这篇我觉得可以读一下。 很多事情，不是模型升级可以解决的。注意力就是一项。越大的上下文可以容纳更多信息，但...",
+          "url": "https://x.com/dotey/status/2060035069360689268",
+          "postedAt": "2026-05-28T08:51:36.000Z"
+        },
+        {
+          "id": "vc_steipete_2245f0bacf",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Nelson Lopes: I'm finally testing @openclaw . This is crazy good, this thing is probably going to run my life. Congratulations @steipete ! But I wa...",
+          "url": "https://x.com/steipete/status/2059925856143745526",
+          "postedAt": "2026-05-28T07:33:09.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_759c4bb471",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2059853024466731008",
+          "url": "https://x.com/Khazix0918/status/2059857381841158252",
+          "postedAt": "2026-05-28T04:40:44.000Z"
+        },
+        {
+          "id": "vc_steipete_f6ccc42cc2",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Theo - t3.gg: You don't hate SWE-Bench enough. This is the actual prompt they use for every single test.",
+          "url": "https://x.com/steipete/status/2059978173446492282",
+          "postedAt": "2026-05-28T04:15:49.000Z"
+        },
+        {
           "id": "vc_dotey_3ee6cc3f66",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -299,15 +353,6 @@
           "postedAt": "2026-05-27T20:27:52.000Z"
         },
         {
-          "id": "vc_dotey_97bc761256",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RepoPrompt 作者被 OpenAI 招安了，然后这软件现在免费了，即将开源。 如果你是 RepoPrompt 付费用户会给你送 Codex 的 Credits。",
-          "url": "https://x.com/dotey/status/2059729329119006928",
-          "postedAt": "2026-05-27T20:11:54.000Z"
-        },
-        {
           "id": "vc_sama_c48de651a8",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -317,6 +362,15 @@
           "postedAt": "2026-05-27T16:44:46.000Z"
         },
         {
+          "id": "vc_steipete_865b831cda",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Ibragim: 🚨 SWE-rebench big March-May update! SWE-rebench is a live benchmark with fresh SWE tasks (issue+PR) from GitHub. updates: > we collecte...",
+          "url": "https://x.com/steipete/status/2059962543834104175",
+          "postedAt": "2026-05-27T15:52:05.000Z"
+        },
+        {
           "id": "vc_gdb_0739ceb1bb",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -324,15 +378,6 @@
           "title": "Codex for transcribing and answering questions about a meeting in real time:",
           "url": "https://x.com/gdb/status/2059662726256075023",
           "postedAt": "2026-05-27T15:47:15.000Z"
-        },
-        {
-          "id": "vc_steipete_cf2dce4dbb",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Kol Tregaskes: Many developers have suspected for months that GPT-5.5 outperforms Claude Sonnet for coding. But SWE-Bench reported near-parity, and...",
-          "url": "https://x.com/steipete/status/2059606752274866617",
-          "postedAt": "2026-05-27T08:31:05.000Z"
         },
         {
           "id": "vc_Khazix0918_9b5ec1706b",
@@ -360,55 +405,10 @@
           "title": "http://x.com/i/article/2059469361900072960",
           "url": "https://x.com/Khazix0918/status/2059476489687756848",
           "postedAt": "2026-05-27T03:27:13.000Z"
-        },
-        {
-          "id": "vc_steipete_e92b32eb4f",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "autoreview is the most impactful skill I've added to my stack (next to http://crabbox.sh). It automatically reviews your code before landing a PR. Fin...",
-          "url": "https://x.com/steipete/status/2059453909819654554",
-          "postedAt": "2026-05-27T01:57:29.000Z"
-        },
-        {
-          "id": "vc_steipete_4d7687660d",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Also extracted our image-logic into a separate library. Especially useful if you want to ensure small hacked images don't explode your process. Raster...",
-          "url": "https://x.com/steipete/status/2059423344961671290",
-          "postedAt": "2026-05-26T23:56:02.000Z"
-        },
-        {
-          "id": "vc_steipete_674816dd0e",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "All the deps around opus are old or terrible, so vibed my own and replaced octoscript and opus-native. Performance of modern wasm on node/V8 is ~equiv...",
-          "url": "https://x.com/steipete/status/2059422568352714981",
-          "postedAt": "2026-05-26T23:52:57.000Z"
-        },
-        {
-          "id": "vc_steipete_09365e3c7d",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "What do people use for SSO/SCIM/Endpoint Security in 2026. As we're hiring people for the OpenClaw Foundation, I gotta level up.",
-          "url": "https://x.com/steipete/status/2059421603268608302",
-          "postedAt": "2026-05-26T23:49:07.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_6c43db0cbe",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "How my own usage of coding agents has changed in the past month: 1. Moved from the terminal to the Codex/Claude Code desktop apps. The Codex Mac app i...",
-          "url": "https://x.com/zarazhangrui/status/2059354487823978586",
-          "postedAt": "2026-05-26T19:22:25.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-28T04:39:18.713Z",
+      "lastUpdated": "2026-05-28T16:33:33.584Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -534,14 +534,6 @@
           "topic": "[Outliers] Chung Ju-yung: The Hyundai Founder Who Put a Country on His Back",
           "url": "https://fs.blog/knowledge-project-podcast/outliers-chung-ju-yung/",
           "postedAt": "2026-05-14T09:50:00.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_642421856f",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "Winston Weinberg: Speed, Stress, and Better Decisions",
-          "url": "https://fs.blog/knowledge-project-podcast/winston-weinberg/",
-          "postedAt": "2026-05-07T09:55:00.000Z"
         }
       ],
       "books": [
@@ -592,10 +584,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-28T04:39:20.117Z",
+      "lastUpdated": "2026-05-28T16:33:34.761Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "11 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -685,12 +677,124 @@
       },
       "articles": [
         {
+          "id": "om_358aea64a5",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Une Femme pairs wine with literature for co-branded social promotion",
+          "url": "https://www.marketingdive.com/news/une-femme-pairs-wine-with-literature-for-co-branded-social-promotion/821338/",
+          "postedAt": "2026-05-28T16:16:00.000Z"
+        },
+        {
+          "id": "om_c640cd0be1",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "M&M’s gamifies ‘Love Island USA’ viewing experience as series partner",
+          "url": "https://www.marketingdive.com/news/mms-gamifies-love-island-usa-viewing-experience-as-series-partner/821322/",
+          "postedAt": "2026-05-28T15:24:00.000Z"
+        },
+        {
+          "id": "om_2b3dd80e65",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Best Buy incoming CEO: ‘We’re not just a retailer anymore’",
+          "url": "https://www.retaildive.com/news/best-buy-ceo-jason-bonfig-not-retailer-anymore-q1-earnings/821354/",
+          "postedAt": "2026-05-28T15:16:00.000Z"
+        },
+        {
+          "id": "om_f1e9392894",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Why Everlane and Shein are actually a good match",
+          "url": "https://www.retaildive.com/news/why-everlane-shein-actually-good-match/821268/",
+          "postedAt": "2026-05-28T15:10:00.000Z"
+        },
+        {
+          "id": "om_da2289b69d",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Pepsi extends food-focused push for summer of soccer with ads, activations",
+          "url": "https://www.marketingdive.com/news/pepsi-extends-food-focused-push-for-summer-of-soccer-with-ads-activations/821343/",
+          "postedAt": "2026-05-28T14:21:00.000Z"
+        },
+        {
+          "id": "om_ad23c19fad",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Chipotle’s rewards relaunch extends reach of its marketing flywheel",
+          "url": "https://www.marketingdive.com/news/how-chipotles-rewards-relaunch-extends-reach-of-marketing-flywheel/821300/",
+          "postedAt": "2026-05-28T11:53:00.000Z"
+        },
+        {
+          "id": "om_73e49c07dc",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ferrari Just Pulled a Jaguar",
+          "url": "https://www.adweek.com/brand-marketing/ferrari-just-pulled-a-jaguar/",
+          "postedAt": "2026-05-28T11:32:05.000Z"
+        },
+        {
+          "id": "om_af232bcb35",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Coors Banquet, Wrangler up bid to Gen Z country fans with beer-infused jeans",
+          "url": "https://www.marketingdive.com/news/coors-banquet-wrangler-up-bid-to-gen-z-country-fans-with-beer-infused-jean/821255/",
+          "postedAt": "2026-05-28T11:01:00.000Z"
+        },
+        {
+          "id": "om_1d33ec6d5e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Crocs Turned ‘Ugly’ Into Cultural Cool ft. CMO Terence Reilly",
+          "url": "https://www.adweek.com/brand-marketing/how-crocs-turned-ugly-into-cultural-cool-ft-cmo-terence-reilly/",
+          "postedAt": "2026-05-28T10:32:56.000Z"
+        },
+        {
+          "id": "om_871481f17e",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How Focus Features is building deeper film engagement on gaming platforms",
+          "url": "https://www.marketingbrew.com/stories/focus-features-fan-engagement-gaming-platforms-discord?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-28T10:00:00.000Z"
+        },
+        {
+          "id": "om_95b2cb98ef",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Marketers Can’t Optimize Their Way Out of Their Trust Problem",
+          "url": "https://www.adweek.com/brand-marketing/marketers-cant-optimize-their-way-out-of-their-trust-problem/",
+          "postedAt": "2026-05-28T09:00:00.000Z"
+        },
+        {
+          "id": "om_688e08b0de",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Mariana O’Kelly Leaves Leo Burnett to Lead Creative at DonerColle Partners",
+          "url": "https://www.adweek.com/agencies/mariana-okelly-leaves-leo-burnett-to-lead-creative-at-donercolle-partners/",
+          "postedAt": "2026-05-28T08:00:00.000Z"
+        },
+        {
+          "id": "om_da098ef47e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "A Guide to the New, Wide World of Agentic Advertising and Commerce Protocols",
+          "url": "https://www.adweek.com/media/a-guide-to-the-new-wide-world-of-agentic-advertising-and-commerce-protocols/",
+          "postedAt": "2026-05-28T06:00:00.000Z"
+        },
+        {
           "id": "om_0c1429c9de",
           "source": "Social Media Today",
           "lang": "en",
           "title": "TikTok drops second season of ‘In The Mix’ podcast",
           "url": "https://www.socialmediatoday.com/news/tiktok-drops-second-season-of-in-the-mix-podcast/821310/",
           "postedAt": "2026-05-27T21:36:50.000Z"
+        },
+        {
+          "id": "om_0a10b6c7c5",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: YouTube introduces more prominent AI labels",
+          "url": "https://www.marketingdive.com/news/sociable-youtube-introduces-more-prominent-ai-labels/821378/",
+          "postedAt": "2026-05-27T21:06:24.000Z"
         },
         {
           "id": "om_eff6fe1de1",
@@ -707,14 +811,6 @@
           "title": "Marketers Keep Conflating Gen X With Boomers—And It’s Costing Them",
           "url": "https://www.adweek.com/brand-marketing/marketers-keep-conflating-gen-x-with-boomers-and-its-costing-them/",
           "postedAt": "2026-05-27T15:20:07.000Z"
-        },
-        {
-          "id": "om_be38ff4100",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart operations execs latest to leave amid leadership shakeup",
-          "url": "https://www.retaildive.com/news/walmart-operations-executives-leave-leadership-shakeup/821178/",
-          "postedAt": "2026-05-27T15:16:00.000Z"
         },
         {
           "id": "om_71c4156895",
@@ -739,114 +835,10 @@
           "title": "Target, Walmart vie for beauty customers",
           "url": "https://www.retaildive.com/news/target-walmart-beauty-customers-q1/820890/",
           "postedAt": "2026-05-27T14:34:00.000Z"
-        },
-        {
-          "id": "om_95a525b3e8",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Chili’s remakes iconic Baby Back Ribs jingle — again — with Lizzo",
-          "url": "https://www.marketingdive.com/news/chilis-remakes-iconic-baby-back-ribs-jingle-again-with-lizzo/820810/",
-          "postedAt": "2026-05-27T13:00:00.000Z"
-        },
-        {
-          "id": "om_09d1a62222",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why so many brands are releasing music videos",
-          "url": "https://www.marketingbrew.com/stories/why-so-many-brands-are-releasing-music-videos?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-27T11:00:00.000Z"
-        },
-        {
-          "id": "om_69830c2c16",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Paris Hilton’s 11:11 Media Is Debuting a Deepfake Documentary on TikTok",
-          "url": "https://www.adweek.com/media/paris-hilton-1111-media-deepfake-documentary-mostly-human/",
-          "postedAt": "2026-05-27T09:00:00.000Z"
-        },
-        {
-          "id": "om_cae45ecc2b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Following Shein sale, Everlane founder launches new brand",
-          "url": "https://www.retaildive.com/news/shein-sale-everlane-founder-launches-new-brand-still-radical/821167/",
-          "postedAt": "2026-05-26T21:41:00.000Z"
-        },
-        {
-          "id": "om_945ad57aaf",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "YouTube highlights creators vying for Emmy nominations",
-          "url": "https://www.socialmediatoday.com/news/youtube-highlights-creators-vying-for-emmy-nominations/821168/",
-          "postedAt": "2026-05-26T21:02:16.000Z"
-        },
-        {
-          "id": "om_5415f0d4ee",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Google launches cross-retailer Universal Cart",
-          "url": "https://www.retaildive.com/news/google-launches-cross-retailer-universal-cart/820957/",
-          "postedAt": "2026-05-26T15:49:00.000Z"
-        },
-        {
-          "id": "om_a3e9497617",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Lowe’s courts DIY shoppers as AI tools boost online conversions",
-          "url": "https://www.retaildive.com/news/lowes-diy-shoppers-ai-tools-online-conversions/821019/",
-          "postedAt": "2026-05-26T15:45:00.000Z"
-        },
-        {
-          "id": "om_5dc8a1a031",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Shoe Carnival ditches rebanner strategy",
-          "url": "https://www.retaildive.com/news/shoe-carnival-ditches-shoe-station-rebanner-strategy/821043/",
-          "postedAt": "2026-05-26T15:21:00.000Z"
-        },
-        {
-          "id": "om_55b86b163b",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Essentia takes rule-defying campaign national for summer season",
-          "url": "https://www.marketingdive.com/news/essentia-takes-rule-defying-campaign-national-for-summer-season/821077/",
-          "postedAt": "2026-05-26T15:00:00.000Z"
-        },
-        {
-          "id": "om_cd549d2f0f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart ties expected tariff refunds to price strategy amid cost pressures",
-          "url": "https://www.retaildive.com/news/walmart-tariff-refunds-price-cuts-low-prices-strategy/821033/",
-          "postedAt": "2026-05-26T14:23:00.000Z"
-        },
-        {
-          "id": "om_a02c37a010",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Liquid I.V. updates ad playbook with Amazon’s Brand Innovation Lab",
-          "url": "https://www.marketingdive.com/news/liquid-iv-updates-ad-playbook-with-amazons-brand-innovation-lab/820977/",
-          "postedAt": "2026-05-26T12:00:00.000Z"
-        },
-        {
-          "id": "om_3141360603",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Motorsport icon Susie Wolff on building a fandom for F1 Academy",
-          "url": "https://www.marketingbrew.com/stories/susie-wolff-f1-academy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-26T11:00:00.000Z"
-        },
-        {
-          "id": "om_c88414cc6f",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Coworking with Christy Roach",
-          "url": "https://www.marketingbrew.com/stories/coworking-with-christy-roach?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-22T15:03:51.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-28T04:39:21.396Z",
+      "lastUpdated": "2026-05-28T16:33:36.428Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
