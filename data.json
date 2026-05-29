@@ -227,6 +227,51 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_5c4455c4af",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "“clanker” is not a slur. “vibe coding” is.",
+          "url": "https://x.com/steipete/status/2060371944168358250",
+          "postedAt": "2026-05-29T14:45:26.000Z"
+        },
+        {
+          "id": "vc_steipete_35e7a70183",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "No LLMs for finding bugs even?",
+          "url": "https://x.com/steipete/status/2060358460831682895",
+          "postedAt": "2026-05-29T13:51:51.000Z"
+        },
+        {
+          "id": "vc_steipete_5927c78b5e",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Couldn’t be more excited to have Vince on board. 🦞 Very few people understand the new ways, how software is built. He gets it.",
+          "url": "https://x.com/steipete/status/2060306947035832628",
+          "postedAt": "2026-05-29T10:27:09.000Z"
+        },
+        {
+          "id": "vc_steipete_d867a14358",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT DHH: Re @LundukeJournal",
+          "url": "https://x.com/steipete/status/2060360528002748448",
+          "postedAt": "2026-05-29T07:15:29.000Z"
+        },
+        {
+          "id": "vc_steipete_454825c02e",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Vaibhav (VB) Srivastav: Big Codex Mobile iOS update: - /side conversations - end-of-turn diff summaries - archived remote threads - one-tap model s...",
+          "url": "https://x.com/steipete/status/2060309866485338600",
+          "postedAt": "2026-05-29T07:05:35.000Z"
+        },
+        {
           "id": "vc_Khazix0918_53352a1ebf",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -263,24 +308,6 @@
           "postedAt": "2026-05-28T23:55:20.000Z"
         },
         {
-          "id": "vc_steipete_8269e22743",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Part of the work was rebuilding leaner and faster dependencies: - http://proxyline.dev - proxy layer - http://fs-safe.io - filesystem safety - http://...",
-          "url": "https://x.com/steipete/status/2060133435423789092",
-          "postedAt": "2026-05-28T22:57:41.000Z"
-        },
-        {
-          "id": "vc_steipete_ca52865fc7",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT OpenClaw🦞: OpenClaw’s latest sweep: cold agent turns 2.9x faster, warm turns 2.5x faster, tarball 59% smaller, deps down 42% from the monthly h...",
-          "url": "https://x.com/steipete/status/2060128295912366181",
-          "postedAt": "2026-05-28T22:28:50.000Z"
-        },
-        {
           "id": "vc_dotey_c75d5bcfe8",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -297,33 +324,6 @@
           "title": "RT 马东锡 NLP: Claude Opus 4.8 Model Card - 1M 上下文 GraphWalks，提升明显 - 增加了大量 multi-agent 内容 - 更加诚实，愿意承认产生代码中的缺陷 - 在 Age...",
           "url": "https://x.com/dotey/status/2060156816344895511",
           "postedAt": "2026-05-28T20:42:37.000Z"
-        },
-        {
-          "id": "vc_steipete_6685f08239",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "build the thing that builds the thing. https://openclaw.ai/ecosystem",
-          "url": "https://x.com/steipete/status/2060071399226495452",
-          "postedAt": "2026-05-28T18:51:10.000Z"
-        },
-        {
-          "id": "vc_steipete_6988b341f6",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT elie: this is so funny, training opus 4.7 on business skills makes it misaligned and dishonest 😭",
-          "url": "https://x.com/steipete/status/2060076426955497586",
-          "postedAt": "2026-05-28T18:01:52.000Z"
-        },
-        {
-          "id": "vc_steipete_6d3b0bb216",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT antirez: Anthropic did a big strategic error. Normally they compare their models with their old models. Instead today, now that everybody knows how...",
-          "url": "https://x.com/steipete/status/2060075586689667580",
-          "postedAt": "2026-05-28T17:40:14.000Z"
         },
         {
           "id": "vc_gdb_a0c9d9a078",
@@ -353,6 +353,15 @@
           "postedAt": "2026-05-28T04:40:44.000Z"
         },
         {
+          "id": "vc_gdb_87971a4106",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "please report any ChatGPT bugs in the thread below — team (and codex) working super hard to resolve them:",
+          "url": "https://x.com/gdb/status/2059831475495899191",
+          "postedAt": "2026-05-28T02:57:48.000Z"
+        },
+        {
           "id": "vc_gdb_5c9ffbdfa9",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -380,15 +389,6 @@
           "postedAt": "2026-05-27T20:37:41.000Z"
         },
         {
-          "id": "vc_gdb_e0a784715c",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "bring-your-own MCP servers:",
-          "url": "https://x.com/gdb/status/2059733344783630352",
-          "postedAt": "2026-05-27T20:27:52.000Z"
-        },
-        {
           "id": "vc_sama_c48de651a8",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-29T04:42:29.925Z",
+      "lastUpdated": "2026-05-29T16:08:24.664Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -592,7 +592,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-29T04:42:31.625Z",
+      "lastUpdated": "2026-05-29T16:08:27.700Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -685,11 +685,83 @@
       },
       "articles": [
         {
-          "id": "om_60d8a77045",
+          "id": "om_2af0dc2ff1",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Consumer sentiment falls to new low; cost of living ‘first-order’ worry",
+          "url": "https://www.retaildive.com/news/consumer-sentiment-falls-cost-living-inflation-Fed/821066/",
+          "postedAt": "2026-05-29T15:41:00.000Z"
+        },
+        {
+          "id": "om_183c83d359",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: Burlington plots store openings, Mattel expands Brick Shop",
+          "url": "https://www.retaildive.com/news/rei-union-turns-away-thousands-mattel-brick-shop-expands/821386/",
+          "postedAt": "2026-05-29T15:31:00.000Z"
+        },
+        {
+          "id": "om_233492a978",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "American Eagle rebalances marketing toward performance as sales slide",
+          "url": "https://www.marketingdive.com/news/american-eagle-rebalances-marketing-toward-performance-as-sales-slide/821470/",
+          "postedAt": "2026-05-29T15:09:00.000Z"
+        },
+        {
+          "id": "om_05f85475d4",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Dollar Tree CEO: ‘Our model is built for environments like this’",
+          "url": "https://www.retaildive.com/news/dollar-tree-q1-earnings-model-built-inflation-high-prices/821403/",
+          "postedAt": "2026-05-29T15:08:00.000Z"
+        },
+        {
+          "id": "om_cdf936fc70",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Go Figure: 3 big marketing numbers from May",
+          "url": "https://www.marketingdive.com/news/go-figure-3-big-marketing-numbers-from-may/821432/",
+          "postedAt": "2026-05-29T14:45:00.000Z"
+        },
+        {
+          "id": "om_195def10e0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Marketers on the Move: Hires and Promotions at OpenAI, CNN, Chloé and More",
+          "url": "https://www.adweek.com/brand-marketing/marketers-on-the-move-hires-and-promotions-at-openai-cnn-chloe-and-more/",
+          "postedAt": "2026-05-29T10:58:07.000Z"
+        },
+        {
+          "id": "om_5a825e67c5",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How a road trip across the USA informed Coca-Cola’s America 250 campaign",
+          "url": "https://www.marketingbrew.com/stories/how-a-road-trip-across-the-usa-informed-coca-colas-america-250-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-29T10:00:00.000Z"
+        },
+        {
+          "id": "om_9aa79358eb",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Experience Is Now the Product",
+          "url": "https://www.adweek.com/brand-marketing/the-experience-is-now-the-product/",
+          "postedAt": "2026-05-29T09:00:00.000Z"
+        },
+        {
+          "id": "om_e04cef1456",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 9 Campaigns That Caught Our Eye, From Etsy to NPR",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-9-campaigns-that-caught-our-eye-from-etsy-to-npr/",
+          "postedAt": "2026-05-29T06:00:00.000Z"
+        },
+        {
+          "id": "om_c15dd2c9d4",
           "source": "Social Media Today",
           "lang": "en",
-          "title": "TikTok Shops expands to new EU merchant countries",
-          "url": "https://www.socialmediatoday.com/news/tiktok-shops-expands-to-new-eu-merchant-countries/821443/",
+          "title": "TikTok Shop grows to new EU merchant countries",
+          "url": "https://www.socialmediatoday.com/news/tiktok-shop-grows-to-new-eu-merchant-countries/821443/",
           "postedAt": "2026-05-28T22:45:47.000Z"
         },
         {
@@ -757,14 +829,6 @@
           "postedAt": "2026-05-28T15:16:00.000Z"
         },
         {
-          "id": "om_f1e9392894",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Why Everlane and Shein are actually a good match",
-          "url": "https://www.retaildive.com/news/why-everlane-shein-actually-good-match/821268/",
-          "postedAt": "2026-05-28T15:10:00.000Z"
-        },
-        {
           "id": "om_da2289b69d",
           "source": "Marketing Dive",
           "lang": "en",
@@ -779,74 +843,10 @@
           "title": "How Chipotle’s rewards relaunch extends reach of its marketing flywheel",
           "url": "https://www.marketingdive.com/news/how-chipotles-rewards-relaunch-extends-reach-of-marketing-flywheel/821300/",
           "postedAt": "2026-05-28T11:53:00.000Z"
-        },
-        {
-          "id": "om_73e49c07dc",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ferrari Just Pulled a Jaguar",
-          "url": "https://www.adweek.com/brand-marketing/ferrari-just-pulled-a-jaguar/",
-          "postedAt": "2026-05-28T11:32:05.000Z"
-        },
-        {
-          "id": "om_af232bcb35",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Coors Banquet, Wrangler up bid to Gen Z country fans with beer-infused jeans",
-          "url": "https://www.marketingdive.com/news/coors-banquet-wrangler-up-bid-to-gen-z-country-fans-with-beer-infused-jean/821255/",
-          "postedAt": "2026-05-28T11:01:00.000Z"
-        },
-        {
-          "id": "om_52fcf0d736",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Crocs Turned ‘Ugly’ Into Cultural Cool ft. Chief Brand Officer Terence Reilly",
-          "url": "https://www.adweek.com/brand-marketing/how-crocs-turned-ugly-into-cultural-cool-ft-chief-brand-officer-terence-reilly/",
-          "postedAt": "2026-05-28T10:32:56.000Z"
-        },
-        {
-          "id": "om_871481f17e",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How Focus Features is building deeper film engagement on gaming platforms",
-          "url": "https://www.marketingbrew.com/stories/focus-features-fan-engagement-gaming-platforms-discord?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-28T10:00:00.000Z"
-        },
-        {
-          "id": "om_95b2cb98ef",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketers Can’t Optimize Their Way Out of Their Trust Problem",
-          "url": "https://www.adweek.com/brand-marketing/marketers-cant-optimize-their-way-out-of-their-trust-problem/",
-          "postedAt": "2026-05-28T09:00:00.000Z"
-        },
-        {
-          "id": "om_688e08b0de",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Mariana O’Kelly Leaves Leo Burnett to Lead Creative at DonerColle Partners",
-          "url": "https://www.adweek.com/agencies/mariana-okelly-leaves-leo-burnett-to-lead-creative-at-donercolle-partners/",
-          "postedAt": "2026-05-28T08:00:00.000Z"
-        },
-        {
-          "id": "om_da098ef47e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "A Guide to the New, Wide World of Agentic Advertising and Commerce Protocols",
-          "url": "https://www.adweek.com/media/a-guide-to-the-new-wide-world-of-agentic-advertising-and-commerce-protocols/",
-          "postedAt": "2026-05-28T06:00:00.000Z"
-        },
-        {
-          "id": "om_0c1429c9de",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok drops second season of ‘In The Mix’ podcast",
-          "url": "https://www.socialmediatoday.com/news/tiktok-drops-second-season-of-in-the-mix-podcast/821310/",
-          "postedAt": "2026-05-27T21:36:50.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-29T04:42:33.706Z",
+      "lastUpdated": "2026-05-29T16:08:28.936Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
