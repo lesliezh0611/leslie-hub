@@ -227,40 +227,121 @@
       ],
       "articles": [
         {
-          "id": "vc_steipete_f7c5f9129a",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
+          "id": "vc_Khazix0918_53352a1ebf",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
           "platform": "x",
-          "title": "Every claw release spins up hundreds of CI machines to QA test and eventually creates a ledger.",
-          "url": "https://x.com/steipete/status/2059996262477222153",
-          "postedAt": "2026-05-28T13:52:36.000Z"
+          "title": "http://x.com/i/article/2060199048204926976",
+          "url": "https://x.com/Khazix0918/status/2060204430327439517",
+          "postedAt": "2026-05-29T03:39:47.000Z"
         },
         {
-          "id": "vc_steipete_7a032aeade",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Hit GitHub's rate limit one too many times, so I built octopool: a Cloudflare Worker that pools your team's PATs + GitHub App installations behind a s...",
-          "url": "https://x.com/steipete/status/2059989719870558309",
-          "postedAt": "2026-05-28T13:26:36.000Z"
-        },
-        {
-          "id": "vc_dotey_ec6be9fc64",
+          "id": "vc_dotey_bc9558224e",
           "source": "dotey",
           "sourceName": "宝玉",
           "platform": "x",
-          "title": "RT 响马: 看了时间线上对多 agent 的讨论，关木这篇我觉得可以读一下。 很多事情，不是模型升级可以解决的。注意力就是一项。越大的上下文可以容纳更多信息，但...",
-          "url": "https://x.com/dotey/status/2060035069360689268",
-          "postedAt": "2026-05-28T08:51:36.000Z"
+          "title": "我赌codex明天会重置额度",
+          "url": "https://x.com/dotey/status/2060178543015772206",
+          "postedAt": "2026-05-29T01:56:55.000Z"
         },
         {
-          "id": "vc_steipete_2245f0bacf",
+          "id": "vc_dotey_b3ecf75180",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT LinearUncle: pi版本的动态工作流来啦， 对标opus 4.8新出的动态工作流，你可以用任意的大模型（例如deepseek, codex-5.5等） 这位大神就是之前破解claude co...",
+          "url": "https://x.com/dotey/status/2060203674132004945",
+          "postedAt": "2026-05-29T01:40:21.000Z"
+        },
+        {
+          "id": "vc_dotey_b373423084",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "写作4.6肯定比4.7强，是不是比4.8强还在测试中，目前感觉还是4.6好",
+          "url": "https://x.com/dotey/status/2060147946054651907",
+          "postedAt": "2026-05-28T23:55:20.000Z"
+        },
+        {
+          "id": "vc_steipete_8269e22743",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "RT Nelson Lopes: I'm finally testing @openclaw . This is crazy good, this thing is probably going to run my life. Congratulations @steipete ! But I wa...",
-          "url": "https://x.com/steipete/status/2059925856143745526",
-          "postedAt": "2026-05-28T07:33:09.000Z"
+          "title": "Part of the work was rebuilding leaner and faster dependencies: - http://proxyline.dev - proxy layer - http://fs-safe.io - filesystem safety - http://...",
+          "url": "https://x.com/steipete/status/2060133435423789092",
+          "postedAt": "2026-05-28T22:57:41.000Z"
+        },
+        {
+          "id": "vc_steipete_ca52865fc7",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT OpenClaw🦞: OpenClaw’s latest sweep: cold agent turns 2.9x faster, warm turns 2.5x faster, tarball 59% smaller, deps down 42% from the monthly h...",
+          "url": "https://x.com/steipete/status/2060128295912366181",
+          "postedAt": "2026-05-28T22:28:50.000Z"
+        },
+        {
+          "id": "vc_dotey_c75d5bcfe8",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Cursor 升级后可以用 Opus 4.8 了，有意思的是，它默认隐藏了 Opus 4.7，保留了 Opus 4.6，应该是有什么原因的吧？",
+          "url": "https://x.com/dotey/status/2060114618932928528",
+          "postedAt": "2026-05-28T21:42:54.000Z"
+        },
+        {
+          "id": "vc_dotey_725645c2ca",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 马东锡 NLP: Claude Opus 4.8 Model Card - 1M 上下文 GraphWalks，提升明显 - 增加了大量 multi-agent 内容 - 更加诚实，愿意承认产生代码中的缺陷 - 在 Age...",
+          "url": "https://x.com/dotey/status/2060156816344895511",
+          "postedAt": "2026-05-28T20:42:37.000Z"
+        },
+        {
+          "id": "vc_steipete_6685f08239",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "build the thing that builds the thing. https://openclaw.ai/ecosystem",
+          "url": "https://x.com/steipete/status/2060071399226495452",
+          "postedAt": "2026-05-28T18:51:10.000Z"
+        },
+        {
+          "id": "vc_steipete_6988b341f6",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT elie: this is so funny, training opus 4.7 on business skills makes it misaligned and dishonest 😭",
+          "url": "https://x.com/steipete/status/2060076426955497586",
+          "postedAt": "2026-05-28T18:01:52.000Z"
+        },
+        {
+          "id": "vc_steipete_6d3b0bb216",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT antirez: Anthropic did a big strategic error. Normally they compare their models with their old models. Instead today, now that everybody knows how...",
+          "url": "https://x.com/steipete/status/2060075586689667580",
+          "postedAt": "2026-05-28T17:40:14.000Z"
+        },
+        {
+          "id": "vc_gdb_a0c9d9a078",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "How @CGRTeams is working with @OpenAI to improve motorsports performance:",
+          "url": "https://x.com/gdb/status/2060045957463724372",
+          "postedAt": "2026-05-28T17:10:04.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_586c8a39dc",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "After talking to lots of companies about implementing AI, I noticed a trend: The most AI-forward companies are CENTRALLY MANAGING & providing shared a...",
+          "url": "https://x.com/zarazhangrui/status/2060039021418692943",
+          "postedAt": "2026-05-28T16:42:31.000Z"
         },
         {
           "id": "vc_Khazix0918_759c4bb471",
@@ -272,33 +353,6 @@
           "postedAt": "2026-05-28T04:40:44.000Z"
         },
         {
-          "id": "vc_steipete_f6ccc42cc2",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Theo - t3.gg: You don't hate SWE-Bench enough. This is the actual prompt they use for every single test.",
-          "url": "https://x.com/steipete/status/2059978173446492282",
-          "postedAt": "2026-05-28T04:15:49.000Z"
-        },
-        {
-          "id": "vc_dotey_3ee6cc3f66",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Agent 生成的结果要不要人工审查，取决于验证方法是不是可靠，以及模型能力是否够强，能理解任务并做好验证工作。 就写代码这种事来说，中间结果确实不需要太多...",
-          "url": "https://x.com/dotey/status/2059832074782089299",
-          "postedAt": "2026-05-28T03:00:11.000Z"
-        },
-        {
-          "id": "vc_dotey_3d50141cae",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT yan5xu: context 共享还是要有的。但分成两种看。 放在message history的session内context，prompt cache友好，因为有 tool use trajectory，后续的tool use...",
-          "url": "https://x.com/dotey/status/2059836085652291759",
-          "postedAt": "2026-05-28T02:42:50.000Z"
-        },
-        {
           "id": "vc_gdb_5c9ffbdfa9",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -306,24 +360,6 @@
           "title": "OpenAI for self-improving tax agents:",
           "url": "https://x.com/gdb/status/2059784106955993236",
           "postedAt": "2026-05-27T23:49:34.000Z"
-        },
-        {
-          "id": "vc_dotey_32537507ec",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "用好 Coding Agent，重点是两头，尤其是开头的部分，如果一开始就走偏了后面怎么改都改不好。 比如我要开发一个新功能，首先不是直接叫给 Agent 去写，会把需求...",
-          "url": "https://x.com/dotey/status/2059773942500298934",
-          "postedAt": "2026-05-27T23:09:11.000Z"
-        },
-        {
-          "id": "vc_dotey_76437fbbe4",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Claude Design 现在和 Claude AI 网站以及 Claude Code 共享额度了，之前是独立的额度，一不小心就没了。 这个产品推荐多用用，产品设计能力和 UI 设计能力挺不...",
-          "url": "https://x.com/dotey/status/2059770088236908723",
-          "postedAt": "2026-05-27T22:53:52.000Z"
         },
         {
           "id": "vc_gdb_cc6cae54f0",
@@ -362,24 +398,6 @@
           "postedAt": "2026-05-27T16:44:46.000Z"
         },
         {
-          "id": "vc_steipete_865b831cda",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Ibragim: 🚨 SWE-rebench big March-May update! SWE-rebench is a live benchmark with fresh SWE tasks (issue+PR) from GitHub. updates: > we collecte...",
-          "url": "https://x.com/steipete/status/2059962543834104175",
-          "postedAt": "2026-05-27T15:52:05.000Z"
-        },
-        {
-          "id": "vc_gdb_0739ceb1bb",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Codex for transcribing and answering questions about a meeting in real time:",
-          "url": "https://x.com/gdb/status/2059662726256075023",
-          "postedAt": "2026-05-27T15:47:15.000Z"
-        },
-        {
           "id": "vc_Khazix0918_9b5ec1706b",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -387,28 +405,10 @@
           "title": "我也在努力让自己成为一个有趣的人。 但是我也害怕自由。 自由就像漫无边际的旷野。 但是我却不知道该往哪去。 所以才那么努力的工作、输出，为自己的人生尽可能...",
           "url": "https://x.com/Khazix0918/status/2059540550240677998",
           "postedAt": "2026-05-27T07:41:46.000Z"
-        },
-        {
-          "id": "vc_sama_54cc69850d",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "🛫",
-          "url": "https://x.com/sama/status/2059492605634007125",
-          "postedAt": "2026-05-27T04:31:15.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_93c9511b5c",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2059469361900072960",
-          "url": "https://x.com/Khazix0918/status/2059476489687756848",
-          "postedAt": "2026-05-27T03:27:13.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-28T16:33:33.584Z",
+      "lastUpdated": "2026-05-29T04:42:29.925Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_a54a4ea2d7",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Claude Opus 4.8 is here. Is it as good as they say?",
+          "url": "https://www.lennysnewsletter.com/p/claude-opus-48-is-here-is-it-as-good",
+          "postedAt": "2026-05-28T21:35:07.000Z"
+        },
+        {
+          "id": "en_pod_the_knowledge_project_dd8214c71e",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "Proven, Better, New: Mark Pincus on the Rules of Innovation",
+          "url": "https://fs.blog/knowledge-project-podcast/mark-pincus/",
+          "postedAt": "2026-05-28T09:50:00.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_179a196144",
           "source": "Lenny's Podcast",
@@ -520,14 +536,6 @@
           "postedAt": "2026-05-19T15:27:24.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_5976346bca",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: HTML is the new Markdown: How Anthropic engineers are building with Claude Code",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown",
-          "postedAt": "2026-05-18T15:00:52.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_c25daf02c3",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -584,10 +592,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-28T16:33:34.761Z",
+      "lastUpdated": "2026-05-29T04:42:31.625Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "11 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -677,12 +685,60 @@
       },
       "articles": [
         {
+          "id": "om_60d8a77045",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok Shops expands to new EU merchant countries",
+          "url": "https://www.socialmediatoday.com/news/tiktok-shops-expands-to-new-eu-merchant-countries/821443/",
+          "postedAt": "2026-05-28T22:45:47.000Z"
+        },
+        {
+          "id": "om_3afee2c8db",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Reddit expands Shopify integration access globally",
+          "url": "https://www.socialmediatoday.com/news/reddit-expands-shopify-integration-access-globally/821439/",
+          "postedAt": "2026-05-28T21:27:32.000Z"
+        },
+        {
+          "id": "om_9504319dad",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Capri Holdings’ ‘biggest issue’ is footwear",
+          "url": "https://www.retaildive.com/news/capri-q4-earnings-footwear-strategy-Michael-Kors/821331/",
+          "postedAt": "2026-05-28T20:32:00.000Z"
+        },
+        {
+          "id": "om_66113b5f24",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How the National Women’s Soccer League is building momentum for brands",
+          "url": "https://www.marketingbrew.com/stories/national-womens-soccer-league-cmo-cco?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-28T17:11:07.000Z"
+        },
+        {
+          "id": "om_32b56b745d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Dick’s Sporting Goods launches AI adviser",
+          "url": "https://www.retaildive.com/news/dicks-sporting-goods-coach-ai-shopping-adviser/821356/",
+          "postedAt": "2026-05-28T17:02:00.000Z"
+        },
+        {
           "id": "om_358aea64a5",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Une Femme pairs wine with literature for co-branded social promotion",
           "url": "https://www.marketingdive.com/news/une-femme-pairs-wine-with-literature-for-co-branded-social-promotion/821338/",
           "postedAt": "2026-05-28T16:16:00.000Z"
+        },
+        {
+          "id": "om_d0824366a4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Overheated iPads, Lifeguards, and Changing Tides: The Unexpected Challenges of a Cannes Beach Takeover",
+          "url": "https://www.adweek.com/brand-marketing/overheated-ipads-lifeguards-and-changing-tides-the-unexpected-challenges-of-a-cannes-beach-takeover/",
+          "postedAt": "2026-05-28T16:09:39.000Z"
         },
         {
           "id": "om_c640cd0be1",
@@ -741,11 +797,11 @@
           "postedAt": "2026-05-28T11:01:00.000Z"
         },
         {
-          "id": "om_1d33ec6d5e",
+          "id": "om_52fcf0d736",
           "source": "Adweek",
           "lang": "en",
-          "title": "How Crocs Turned ‘Ugly’ Into Cultural Cool ft. CMO Terence Reilly",
-          "url": "https://www.adweek.com/brand-marketing/how-crocs-turned-ugly-into-cultural-cool-ft-cmo-terence-reilly/",
+          "title": "How Crocs Turned ‘Ugly’ Into Cultural Cool ft. Chief Brand Officer Terence Reilly",
+          "url": "https://www.adweek.com/brand-marketing/how-crocs-turned-ugly-into-cultural-cool-ft-chief-brand-officer-terence-reilly/",
           "postedAt": "2026-05-28T10:32:56.000Z"
         },
         {
@@ -787,58 +843,10 @@
           "title": "TikTok drops second season of ‘In The Mix’ podcast",
           "url": "https://www.socialmediatoday.com/news/tiktok-drops-second-season-of-in-the-mix-podcast/821310/",
           "postedAt": "2026-05-27T21:36:50.000Z"
-        },
-        {
-          "id": "om_0a10b6c7c5",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: YouTube introduces more prominent AI labels",
-          "url": "https://www.marketingdive.com/news/sociable-youtube-introduces-more-prominent-ai-labels/821378/",
-          "postedAt": "2026-05-27T21:06:24.000Z"
-        },
-        {
-          "id": "om_eff6fe1de1",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bath & Body Works CEO: ‘We are in the early stages’ of transformation",
-          "url": "https://www.retaildive.com/news/bath-body-works-ceo-q1-earnings-early-stages-transformation/821207/",
-          "postedAt": "2026-05-27T16:16:00.000Z"
-        },
-        {
-          "id": "om_9866f32e7f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketers Keep Conflating Gen X With Boomers—And It’s Costing Them",
-          "url": "https://www.adweek.com/brand-marketing/marketers-keep-conflating-gen-x-with-boomers-and-its-costing-them/",
-          "postedAt": "2026-05-27T15:20:07.000Z"
-        },
-        {
-          "id": "om_71c4156895",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Oreo teams with K-pop supergroup BTS for global campaign",
-          "url": "https://www.marketingdive.com/news/oreo-teams-with-k-pop-supergroup-bts-for-global-campaign/821189/",
-          "postedAt": "2026-05-27T15:00:00.000Z"
-        },
-        {
-          "id": "om_86cccfb954",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Unilever’s creator marketing strategy takes center stage at World Cup",
-          "url": "https://www.marketingdive.com/news/unilevers-creator-marketing-strategy-takes-center-stage-at-world-cup/821182/",
-          "postedAt": "2026-05-27T14:55:00.000Z"
-        },
-        {
-          "id": "om_4eccc84651",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target, Walmart vie for beauty customers",
-          "url": "https://www.retaildive.com/news/target-walmart-beauty-customers-q1/820890/",
-          "postedAt": "2026-05-27T14:34:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-28T16:33:36.428Z",
+      "lastUpdated": "2026-05-29T04:42:33.706Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
