@@ -227,6 +227,123 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_a8ed7868ac",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "我今天对群聊总结的 Skill 更新了个小功能，在群里 @bot，总结群聊记录的时候，就可以结合聊天记录的上下文，在总结的时候回复问题 具体参考：https://github.co...",
+          "url": "https://x.com/dotey/status/2060567807423607240",
+          "postedAt": "2026-05-30T03:43:43.000Z"
+        },
+        {
+          "id": "vc_dotey_1eeeefab19",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "为啥 Codex App 上一个版本要隐藏上下文用量？！现在新版本加回来了，但是得主动去设置打开！",
+          "url": "https://x.com/dotey/status/2060558157521313962",
+          "postedAt": "2026-05-30T03:05:22.000Z"
+        },
+        {
+          "id": "vc_dotey_a16626ab2b",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Codex 现在可以自己管理自己的会话了。创建会话、搜索会话、整理归档、置顶重要的、还能为并行任务拉起独立的 worktree，全都可以通过对话指令完成。 Codex 开始...",
+          "url": "https://x.com/dotey/status/2060545640552104112",
+          "postedAt": "2026-05-30T02:15:38.000Z"
+        },
+        {
+          "id": "vc_dotey_7962dccbeb",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "冷知识：GitHub Copilot 里面的 Gemini 3.5 Flash Token 消耗按 14 倍算，与之相对的： - Claude Sonnet 4.6 (1x) - Claude Opus 4.8 (15x) - Gemini 3.1 Pro (1...",
+          "url": "https://x.com/dotey/status/2060541910570197016",
+          "postedAt": "2026-05-30T02:00:49.000Z"
+        },
+        {
+          "id": "vc_dotey_c214aae920",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Q：我把数据库接入了 AI Agent，每次用手机发消息让它帮我查数据、导出文件，但 token 消耗特别大。我已经把工作流写进了 Agent 的 Memory 里，但它就是不按流程...",
+          "url": "https://x.com/dotey/status/2060538728011927954",
+          "postedAt": "2026-05-30T01:48:10.000Z"
+        },
+        {
+          "id": "vc_gdb_85441b9f51",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "codex for managing the codex UI:",
+          "url": "https://x.com/gdb/status/2060486309886443787",
+          "postedAt": "2026-05-29T22:19:52.000Z"
+        },
+        {
+          "id": "vc_gdb_a49680e89e",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "table of contents for your long-running chatgpt conversations:",
+          "url": "https://x.com/gdb/status/2060473854569467922",
+          "postedAt": "2026-05-29T21:30:23.000Z"
+        },
+        {
+          "id": "vc_gdb_0de5ffc531",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "OpenAI for realtime translation — speak in any of 70+ input languages and translate into 13 output ones:",
+          "url": "https://x.com/gdb/status/2060452095279415725",
+          "postedAt": "2026-05-29T20:03:55.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_dcba2b05c1",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "People use the term “AI psychosis” half-jokingly but I’d actually be very interested in seeing some studies on the effect of heavy AI usage on huma...",
+          "url": "https://x.com/zarazhangrui/status/2060435594334130467",
+          "postedAt": "2026-05-29T18:58:21.000Z"
+        },
+        {
+          "id": "vc_gdb_275da9c4cf",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Significant upgrades for Codex users on Windows:",
+          "url": "https://x.com/gdb/status/2060432274710315010",
+          "postedAt": "2026-05-29T18:45:09.000Z"
+        },
+        {
+          "id": "vc_gdb_cd722739b7",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "defensive acceleration in biology with Rosalind:",
+          "url": "https://x.com/gdb/status/2060421260304355384",
+          "postedAt": "2026-05-29T18:01:23.000Z"
+        },
+        {
+          "id": "vc_steipete_6d4806f260",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Brad Groux: Re OpenClaw folks will be at the Open Source Zone on the conference floor, @steipete also has a session on Tuesday, and we're hosting a...",
+          "url": "https://x.com/steipete/status/2060417252663480762",
+          "postedAt": "2026-05-29T17:42:59.000Z"
+        },
+        {
+          "id": "vc_steipete_13b4889a03",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Garry Tan: Have to report: Opus 4.8 is fucking awesome with OpenClaw It's much more clear about its fixes, what it's thinking, and how it works wit...",
+          "url": "https://x.com/steipete/status/2060403359396360349",
+          "postedAt": "2026-05-29T15:46:04.000Z"
+        },
+        {
           "id": "vc_steipete_5c4455c4af",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -254,24 +371,6 @@
           "postedAt": "2026-05-29T10:27:09.000Z"
         },
         {
-          "id": "vc_steipete_d867a14358",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT DHH: Re @LundukeJournal",
-          "url": "https://x.com/steipete/status/2060360528002748448",
-          "postedAt": "2026-05-29T07:15:29.000Z"
-        },
-        {
-          "id": "vc_steipete_454825c02e",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Vaibhav (VB) Srivastav: Big Codex Mobile iOS update: - /side conversations - end-of-turn diff summaries - archived remote threads - one-tap model s...",
-          "url": "https://x.com/steipete/status/2060309866485338600",
-          "postedAt": "2026-05-29T07:05:35.000Z"
-        },
-        {
           "id": "vc_Khazix0918_53352a1ebf",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -279,60 +378,6 @@
           "title": "http://x.com/i/article/2060199048204926976",
           "url": "https://x.com/Khazix0918/status/2060204430327439517",
           "postedAt": "2026-05-29T03:39:47.000Z"
-        },
-        {
-          "id": "vc_dotey_bc9558224e",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "我赌codex明天会重置额度",
-          "url": "https://x.com/dotey/status/2060178543015772206",
-          "postedAt": "2026-05-29T01:56:55.000Z"
-        },
-        {
-          "id": "vc_dotey_b3ecf75180",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT LinearUncle: pi版本的动态工作流来啦， 对标opus 4.8新出的动态工作流，你可以用任意的大模型（例如deepseek, codex-5.5等） 这位大神就是之前破解claude co...",
-          "url": "https://x.com/dotey/status/2060203674132004945",
-          "postedAt": "2026-05-29T01:40:21.000Z"
-        },
-        {
-          "id": "vc_dotey_b373423084",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "写作4.6肯定比4.7强，是不是比4.8强还在测试中，目前感觉还是4.6好",
-          "url": "https://x.com/dotey/status/2060147946054651907",
-          "postedAt": "2026-05-28T23:55:20.000Z"
-        },
-        {
-          "id": "vc_dotey_c75d5bcfe8",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Cursor 升级后可以用 Opus 4.8 了，有意思的是，它默认隐藏了 Opus 4.7，保留了 Opus 4.6，应该是有什么原因的吧？",
-          "url": "https://x.com/dotey/status/2060114618932928528",
-          "postedAt": "2026-05-28T21:42:54.000Z"
-        },
-        {
-          "id": "vc_dotey_725645c2ca",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 马东锡 NLP: Claude Opus 4.8 Model Card - 1M 上下文 GraphWalks，提升明显 - 增加了大量 multi-agent 内容 - 更加诚实，愿意承认产生代码中的缺陷 - 在 Age...",
-          "url": "https://x.com/dotey/status/2060156816344895511",
-          "postedAt": "2026-05-28T20:42:37.000Z"
-        },
-        {
-          "id": "vc_gdb_a0c9d9a078",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "How @CGRTeams is working with @OpenAI to improve motorsports performance:",
-          "url": "https://x.com/gdb/status/2060045957463724372",
-          "postedAt": "2026-05-28T17:10:04.000Z"
         },
         {
           "id": "vc_zarazhangrui_586c8a39dc",
@@ -353,42 +398,6 @@
           "postedAt": "2026-05-28T04:40:44.000Z"
         },
         {
-          "id": "vc_gdb_87971a4106",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "please report any ChatGPT bugs in the thread below — team (and codex) working super hard to resolve them:",
-          "url": "https://x.com/gdb/status/2059831475495899191",
-          "postedAt": "2026-05-28T02:57:48.000Z"
-        },
-        {
-          "id": "vc_gdb_5c9ffbdfa9",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "OpenAI for self-improving tax agents:",
-          "url": "https://x.com/gdb/status/2059784106955993236",
-          "postedAt": "2026-05-27T23:49:34.000Z"
-        },
-        {
-          "id": "vc_gdb_cc6cae54f0",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Underappreciated how capable GPT-5.5 is at cybersecurity:",
-          "url": "https://x.com/gdb/status/2059767326971724016",
-          "postedAt": "2026-05-27T22:42:54.000Z"
-        },
-        {
-          "id": "vc_gdb_60880b67e9",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Codex for parallel browser-using subagents:",
-          "url": "https://x.com/gdb/status/2059735815262249392",
-          "postedAt": "2026-05-27T20:37:41.000Z"
-        },
-        {
           "id": "vc_sama_c48de651a8",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -396,19 +405,10 @@
           "title": "AI should dramatically increase quality of life and individual freedoms for people around the world. The OpenAI Foundation is making an initial $250M ...",
           "url": "https://x.com/sama/status/2059677202917331431",
           "postedAt": "2026-05-27T16:44:46.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_9b5ec1706b",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "我也在努力让自己成为一个有趣的人。 但是我也害怕自由。 自由就像漫无边际的旷野。 但是我却不知道该往哪去。 所以才那么努力的工作、输出，为自己的人生尽可能...",
-          "url": "https://x.com/Khazix0918/status/2059540550240677998",
-          "postedAt": "2026-05-27T07:41:46.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-29T16:08:24.664Z",
+      "lastUpdated": "2026-05-30T04:16:43.875Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lex_fridman_podcast_bc3f4fb2e4",
+          "source": "Lex Fridman Podcast",
+          "platform": "podcast",
+          "topic": "#497 – Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE – Don Lincoln",
+          "url": "https://lexfridman.com/don-lincoln/?utm_source=rss&utm_medium=rss&utm_campaign=don-lincoln",
+          "postedAt": "2026-05-29T16:22:02.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_a54a4ea2d7",
           "source": "Lenny's Podcast",
@@ -592,10 +600,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-29T16:08:27.700Z",
+      "lastUpdated": "2026-05-30T04:16:45.060Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -684,6 +692,30 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_4e898835fd",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
+          "url": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
+          "postedAt": "2026-05-29T20:56:59.000Z"
+        },
+        {
+          "id": "om_a4ae376c44",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How optimizing for AI answers is taking over marketing, and other takeaways from AirOps’s Next conference",
+          "url": "https://www.marketingbrew.com/stories/optimizing-for-AEO-ai-answers-airops-next-conference-takeaways?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-05-29T18:31:33.000Z"
+        },
+        {
+          "id": "om_6c608ebfb6",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Fashion misses at Old Navy spell trouble for Gap Inc.",
+          "url": "https://www.retaildive.com/news/old-navy-fashion-misses-spell-trouble-gap-inc-q1-earnings/821459/",
+          "postedAt": "2026-05-29T16:13:00.000Z"
+        },
         {
           "id": "om_2af0dc2ff1",
           "source": "Retail Dive",
@@ -819,34 +851,10 @@
           "title": "M&M’s gamifies ‘Love Island USA’ viewing experience as series partner",
           "url": "https://www.marketingdive.com/news/mms-gamifies-love-island-usa-viewing-experience-as-series-partner/821322/",
           "postedAt": "2026-05-28T15:24:00.000Z"
-        },
-        {
-          "id": "om_2b3dd80e65",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Best Buy incoming CEO: ‘We’re not just a retailer anymore’",
-          "url": "https://www.retaildive.com/news/best-buy-ceo-jason-bonfig-not-retailer-anymore-q1-earnings/821354/",
-          "postedAt": "2026-05-28T15:16:00.000Z"
-        },
-        {
-          "id": "om_da2289b69d",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Pepsi extends food-focused push for summer of soccer with ads, activations",
-          "url": "https://www.marketingdive.com/news/pepsi-extends-food-focused-push-for-summer-of-soccer-with-ads-activations/821343/",
-          "postedAt": "2026-05-28T14:21:00.000Z"
-        },
-        {
-          "id": "om_ad23c19fad",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Chipotle’s rewards relaunch extends reach of its marketing flywheel",
-          "url": "https://www.marketingdive.com/news/how-chipotles-rewards-relaunch-extends-reach-of-marketing-flywheel/821300/",
-          "postedAt": "2026-05-28T11:53:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-29T16:08:28.936Z",
+      "lastUpdated": "2026-05-30T04:16:46.484Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
