@@ -227,6 +227,24 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_ef4fe54a07",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "I do this with codex all the time. Ask it to review code for bugs and it will tell you all good, tell it there is a bug and it will LOOP AND LOOP and ...",
+          "url": "https://x.com/steipete/status/2060672154727825718",
+          "postedAt": "2026-05-30T10:38:21.000Z"
+        },
+        {
+          "id": "vc_gdb_8c64d3dbcc",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "it’s great to build with codex",
+          "url": "https://x.com/gdb/status/2060581381093388430",
+          "postedAt": "2026-05-30T04:37:39.000Z"
+        },
+        {
           "id": "vc_dotey_a8ed7868ac",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -272,6 +290,15 @@
           "postedAt": "2026-05-30T01:48:10.000Z"
         },
         {
+          "id": "vc_steipete_c155c03193",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Mike Dodds: Re @kirancodes The thread, holy moly: https://github.com/jqwik-team/jqwik/issues/708",
+          "url": "https://x.com/steipete/status/2060659870525780366",
+          "postedAt": "2026-05-29T23:15:36.000Z"
+        },
+        {
           "id": "vc_gdb_85441b9f51",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -288,6 +315,15 @@
           "title": "table of contents for your long-running chatgpt conversations:",
           "url": "https://x.com/gdb/status/2060473854569467922",
           "postedAt": "2026-05-29T21:30:23.000Z"
+        },
+        {
+          "id": "vc_steipete_26ccbdfe2f",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Ibragim: first update: Claude Opus 4.8 – xhigh on march-may 110 tasks: 56.4% gpt-5-xhigh: 62.7% – $2.25 gpt-5.5-medium: 58.9% – $0.98 Opus 4.8 -...",
+          "url": "https://x.com/steipete/status/2060687473781481726",
+          "postedAt": "2026-05-29T20:27:22.000Z"
         },
         {
           "id": "vc_gdb_0de5ffc531",
@@ -317,15 +353,6 @@
           "postedAt": "2026-05-29T18:45:09.000Z"
         },
         {
-          "id": "vc_gdb_cd722739b7",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "defensive acceleration in biology with Rosalind:",
-          "url": "https://x.com/gdb/status/2060421260304355384",
-          "postedAt": "2026-05-29T18:01:23.000Z"
-        },
-        {
           "id": "vc_steipete_6d4806f260",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -335,40 +362,13 @@
           "postedAt": "2026-05-29T17:42:59.000Z"
         },
         {
-          "id": "vc_steipete_13b4889a03",
+          "id": "vc_steipete_ae6571366f",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "RT Garry Tan: Have to report: Opus 4.8 is fucking awesome with OpenClaw It's much more clear about its fixes, what it's thinking, and how it works wit...",
-          "url": "https://x.com/steipete/status/2060403359396360349",
-          "postedAt": "2026-05-29T15:46:04.000Z"
-        },
-        {
-          "id": "vc_steipete_5c4455c4af",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "“clanker” is not a slur. “vibe coding” is.",
-          "url": "https://x.com/steipete/status/2060371944168358250",
-          "postedAt": "2026-05-29T14:45:26.000Z"
-        },
-        {
-          "id": "vc_steipete_35e7a70183",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "No LLMs for finding bugs even?",
-          "url": "https://x.com/steipete/status/2060358460831682895",
-          "postedAt": "2026-05-29T13:51:51.000Z"
-        },
-        {
-          "id": "vc_steipete_5927c78b5e",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Couldn’t be more excited to have Vince on board. 🦞 Very few people understand the new ways, how software is built. He gets it.",
-          "url": "https://x.com/steipete/status/2060306947035832628",
-          "postedAt": "2026-05-29T10:27:09.000Z"
+          "title": "RT Lisan al Gaib: Cold take on what comes next: - OpenAI will flourish - Anthropic will continue to be profitable - Google will not catch up to Anthro...",
+          "url": "https://x.com/steipete/status/2060679499411308781",
+          "postedAt": "2026-05-29T16:09:44.000Z"
         },
         {
           "id": "vc_Khazix0918_53352a1ebf",
@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-30T04:16:43.875Z",
+      "lastUpdated": "2026-05-30T14:03:56.451Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-30T04:16:45.060Z",
+      "lastUpdated": "2026-05-30T14:03:57.921Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -692,6 +692,14 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_dd1a27ecb5",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "TikTok’s road to becoming a super app",
+          "url": "https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/",
+          "postedAt": "2026-05-30T13:00:00.000Z"
+        },
         {
           "id": "om_4e898835fd",
           "source": "Wired",
@@ -843,18 +851,10 @@
           "title": "Overheated iPads, Lifeguards, and Changing Tides: The Unexpected Challenges of a Cannes Beach Takeover",
           "url": "https://www.adweek.com/brand-marketing/overheated-ipads-lifeguards-and-changing-tides-the-unexpected-challenges-of-a-cannes-beach-takeover/",
           "postedAt": "2026-05-28T16:09:39.000Z"
-        },
-        {
-          "id": "om_c640cd0be1",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "M&M’s gamifies ‘Love Island USA’ viewing experience as series partner",
-          "url": "https://www.marketingdive.com/news/mms-gamifies-love-island-usa-viewing-experience-as-series-partner/821322/",
-          "postedAt": "2026-05-28T15:24:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-30T04:16:46.484Z",
+      "lastUpdated": "2026-05-30T14:03:59.944Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
