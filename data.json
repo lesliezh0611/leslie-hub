@@ -227,40 +227,112 @@
       ],
       "articles": [
         {
-          "id": "vc_steipete_ace3f27e8c",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
+          "id": "vc_dotey_fc6352db2d",
+          "source": "dotey",
+          "sourceName": "宝玉",
           "platform": "x",
-          "title": "The idea of OpenClaw is always that it should be yours. It's modular and lean, only add what you need. Fewer skills, fewer tools = your agent can work...",
-          "url": "https://x.com/steipete/status/2061072753998856696",
-          "postedAt": "2026-05-31T13:10:12.000Z"
+          "title": "自从 Claude Design 可以共享额度，可以用的次数多了很多，但 Token 消耗还是很厉害。不过做出来的东西真的很好，真的强烈建议你多用用，这是我近期用的最好的 A...",
+          "url": "https://x.com/dotey/status/2061297781864624210",
+          "postedAt": "2026-06-01T04:04:22.000Z"
         },
         {
-          "id": "vc_steipete_44631a6450",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
+          "id": "vc_dotey_ccdedb8c33",
+          "source": "dotey",
+          "sourceName": "宝玉",
           "platform": "x",
-          "title": "RT Vincent Koc: From YOLO to Auto. LLM-based auto security approvals to make things safer for our users, and works with ANY model. 🦞 https://opencl...",
-          "url": "https://x.com/steipete/status/2061072309968924936",
-          "postedAt": "2026-05-31T13:05:03.000Z"
+          "title": "我经常用 /goal ，主要用法： 1. 写一个 Checklist，让它一条条勾选 比如我逆向代码，会先用脚本做语法解析把完整的list整理成个json文件，让它分批去处理，每次...",
+          "url": "https://x.com/dotey/status/2061260768729809096",
+          "postedAt": "2026-06-01T01:37:18.000Z"
         },
         {
-          "id": "vc_steipete_8bba31f430",
+          "id": "vc_steipete_8d9d2c65f1",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "Finally got my visa sorted out and moving to San Francisco, just in time for MS Build and OpenClaw’s after hours! https://luma.com/OpenClaw-GitHub",
-          "url": "https://x.com/steipete/status/2061031509088231640",
-          "postedAt": "2026-05-31T10:26:18.000Z"
+          "title": "Been teaching codex to be my QA assistant. For every commit it creates a user-test scenario and uses webVNC (crabbox), computer/browser use (peekaboo/...",
+          "url": "https://x.com/steipete/status/2061208638027395490",
+          "postedAt": "2026-05-31T22:10:09.000Z"
         },
         {
-          "id": "vc_steipete_ec75709b42",
+          "id": "vc_zarazhangrui_da61d8fb53",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "“Real mastery is not exerting the most effort. It is achieving the outcome with the least necessary effort. Grinding is never good for any creative p...",
+          "url": "https://x.com/zarazhangrui/status/2061143524020822158",
+          "postedAt": "2026-05-31T17:51:24.000Z"
+        },
+        {
+          "id": "vc_steipete_932022aa2c",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "RT Theo - t3.gg: I am thankful that OpenAI trained their models to be helpful assistants",
-          "url": "https://x.com/steipete/status/2061032778372710601",
-          "postedAt": "2026-05-31T09:34:19.000Z"
+          "title": "RT SimonTNRE: Re @steipete After testing Hermes for a week, I can say confidently that my openclaw setup, which I have been tweaking for months is far...",
+          "url": "https://x.com/steipete/status/2061159408755720265",
+          "postedAt": "2026-05-31T17:38:51.000Z"
+        },
+        {
+          "id": "vc_dotey_5415786af6",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "帮转，晚点招AI作者、驻硅谷科技作者",
+          "url": "https://x.com/dotey/status/2061131307761930697",
+          "postedAt": "2026-05-31T17:02:52.000Z"
+        },
+        {
+          "id": "vc_steipete_ed6e12f413",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Kevin S Lin: as models continue to get smarter, the future of security approvals is going to involve having models in the loop. yolo is growing up!",
+          "url": "https://x.com/steipete/status/2061175806806667669",
+          "postedAt": "2026-05-31T16:54:53.000Z"
+        },
+        {
+          "id": "vc_sama_28df351ec0",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "OpenAI Robotics is hiring, looking for exceptional full-stack hardware, ops, systems, and ML engineers to help us program and manufacture robots that ...",
+          "url": "https://x.com/sama/status/2061117302528188712",
+          "postedAt": "2026-05-31T16:07:13.000Z"
+        },
+        {
+          "id": "vc_steipete_98563ecf94",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Haven't seen codex writing ad-hoc codemods before, but it just did for a bigger TypeScript migration. Impressed.",
+          "url": "https://x.com/steipete/status/2061115471760441692",
+          "postedAt": "2026-05-31T15:59:56.000Z"
+        },
+        {
+          "id": "vc_sama_585ef439a9",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "We want to help the world get a head start on biodefense: https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense/",
+          "url": "https://x.com/sama/status/2061101875303530871",
+          "postedAt": "2026-05-31T15:05:55.000Z"
+        },
+        {
+          "id": "vc_steipete_5d159600eb",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Simon Smith: With Codex at 5 million users, they’ve hit about 0.6% of ChatGPT’s roughly 900 million users. We are so, so early. The vast majority...",
+          "url": "https://x.com/steipete/status/2061175739483930877",
+          "postedAt": "2026-05-31T13:59:43.000Z"
+        },
+        {
+          "id": "vc_dotey_cef0c8ad18",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 响马: 每一个 subagent 都开始无限放大自己收到的目标，像极了一个极速膨胀的臃肿的公司。😂",
+          "url": "https://x.com/dotey/status/2061132200708276602",
+          "postedAt": "2026-05-31T11:00:59.000Z"
         },
         {
           "id": "vc_gdb_bde7eb8a94",
@@ -281,6 +353,15 @@
           "postedAt": "2026-05-31T06:16:04.000Z"
         },
         {
+          "id": "vc_sama_fe43df0a26",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "RT Tibo: Five million users would agree. Resetting the limits tomorrow morning to celebrate. Time to go /fast",
+          "url": "https://x.com/sama/status/2061097558819356732",
+          "postedAt": "2026-05-31T05:59:10.000Z"
+        },
+        {
           "id": "vc_zarazhangrui_6f5be460fd",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -290,49 +371,13 @@
           "postedAt": "2026-05-31T05:50:44.000Z"
         },
         {
-          "id": "vc_steipete_27bc1f48e0",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
+          "id": "vc_gdb_58fad6d0f7",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
           "platform": "x",
-          "title": "RT Benedict Kerres: Quite misleading 5.5 xhigh is at 70% at 6.6 dollars. Why not show that @datacurve ? Btw 5.5 high is at 62% and 4.47 dollars averag...",
-          "url": "https://x.com/steipete/status/2061040376245321799",
-          "postedAt": "2026-05-31T05:46:07.000Z"
-        },
-        {
-          "id": "vc_dotey_daf308cd29",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "通用 Agent 就是未来的操作系统了，就像现在我们操作电脑需要借助操作系统，以后我们跟 AI 通信会通过 Agent OS。 App 会有几种结局： - 消亡：Agent 自己就有能...",
-          "url": "https://x.com/dotey/status/2060949916256460894",
-          "postedAt": "2026-05-31T05:02:05.000Z"
-        },
-        {
-          "id": "vc_dotey_56e60d9893",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Do it ASAP",
-          "url": "https://x.com/dotey/status/2060943621927436452",
-          "postedAt": "2026-05-31T04:37:04.000Z"
-        },
-        {
-          "id": "vc_dotey_afadacdb4f",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "ChatGPT 的 Translate 功能做的不像是一个前沿 AI 团队的作品，像 10 年前的互联网产品经理设计的水平，ChatGPT 团队会被 Codex 团队合并不是没有理由的。 https...",
-          "url": "https://x.com/dotey/status/2060936552977400219",
-          "postedAt": "2026-05-31T04:08:59.000Z"
-        },
-        {
-          "id": "vc_dotey_ba3c2e6500",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Kimi Code、DeepSeek Harness 最好尽早做 GUI，尽早支持好办公任务，做通用 Agent。 卷 TUI 卷 Coding 没前途，当然 Coding 是基础能力，如果 Coding 都做不好其...",
-          "url": "https://x.com/dotey/status/2060930283348562027",
-          "postedAt": "2026-05-31T03:44:04.000Z"
+          "title": "GPT Realtime 2 unlocks some real magic:",
+          "url": "https://x.com/gdb/status/2060955146952077653",
+          "postedAt": "2026-05-31T05:22:52.000Z"
         },
         {
           "id": "vc_gdb_dae38fad39",
@@ -360,55 +405,10 @@
           "title": "codex for managing the codex UI:",
           "url": "https://x.com/gdb/status/2060486309886443787",
           "postedAt": "2026-05-29T22:19:52.000Z"
-        },
-        {
-          "id": "vc_gdb_a49680e89e",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "table of contents for your long-running chatgpt conversations:",
-          "url": "https://x.com/gdb/status/2060473854569467922",
-          "postedAt": "2026-05-29T21:30:23.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_dcba2b05c1",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "People use the term “AI psychosis” half-jokingly but I’d actually be very interested in seeing some studies on the effect of heavy AI usage on huma...",
-          "url": "https://x.com/zarazhangrui/status/2060435594334130467",
-          "postedAt": "2026-05-29T18:58:21.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_53352a1ebf",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2060199048204926976",
-          "url": "https://x.com/Khazix0918/status/2060204430327439517",
-          "postedAt": "2026-05-29T03:39:47.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_586c8a39dc",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "After talking to lots of companies about implementing AI, I noticed a trend: The most AI-forward companies are CENTRALLY MANAGING & providing shared a...",
-          "url": "https://x.com/zarazhangrui/status/2060039021418692943",
-          "postedAt": "2026-05-28T16:42:31.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_759c4bb471",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2059853024466731008",
-          "url": "https://x.com/Khazix0918/status/2059857381841158252",
-          "postedAt": "2026-05-28T04:40:44.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-31T14:10:57.160Z",
+      "lastUpdated": "2026-06-01T05:15:35.990Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-31T14:10:58.323Z",
+      "lastUpdated": "2026-06-01T05:15:37.630Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -854,7 +854,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-05-31T14:11:00.579Z",
+      "lastUpdated": "2026-06-01T05:15:40.517Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
