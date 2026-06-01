@@ -227,6 +227,78 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_7487d90ed7",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "活久见，Claude 也重置了额度！",
+          "url": "https://x.com/dotey/status/2061507315690279135",
+          "postedAt": "2026-06-01T17:56:59.000Z"
+        },
+        {
+          "id": "vc_dotey_b2d122aa3a",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "你不能指望一个模型在什么地方都是最强的，要像渣男一样才能用好 AI：去爱很多模型，去发掘他们的优秀点，东食西宿，组合着用 Opus 4.8 在写作不太行，但是在 UI...",
+          "url": "https://x.com/dotey/status/2061463713941492062",
+          "postedAt": "2026-06-01T15:03:44.000Z"
+        },
+        {
+          "id": "vc_dotey_03410dd29c",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 向阳乔木: 在 X 上看了不少文章封面，发现普遍都很丑，包括自己的。 我让@xiaoxiaodong01 发了一个他满意的提示词。 在此基础让 ChatGPT优化，把硬性限定词都...",
+          "url": "https://x.com/dotey/status/2061466277105811683",
+          "postedAt": "2026-06-01T15:00:25.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_fe1295fd31",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2061360923009564672",
+          "url": "https://x.com/Khazix0918/status/2061362750954086699",
+          "postedAt": "2026-06-01T08:22:32.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_4c1c53877a",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Why do I get so annoyed when a coding agent ends a message with \"just say the word\" You're my cofounder, not my servant",
+          "url": "https://x.com/zarazhangrui/status/2061341642544783801",
+          "postedAt": "2026-06-01T06:58:40.000Z"
+        },
+        {
+          "id": "vc_steipete_7ff5b573a3",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Vincent Koc: Super proud to be collaborating with @nvidia to analyze and release the largest SKILL security dataset based on @openclaw data. Full p...",
+          "url": "https://x.com/steipete/status/2061325512924860601",
+          "postedAt": "2026-06-01T05:54:01.000Z"
+        },
+        {
+          "id": "vc_steipete_ffd8a2a22b",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT OpenClaw🦞: Re On ClawHub, we take a multi-layered approach to skill scanning: 1. VirusTotal for malware risk in bundled code 2. Static analysis ...",
+          "url": "https://x.com/steipete/status/2061348154541244543",
+          "postedAt": "2026-06-01T05:48:55.000Z"
+        },
+        {
+          "id": "vc_steipete_e88bce21a3",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT OpenClaw🦞: In collaboration with @nvidia, we’re open-sourcing a dataset of security scans for 67,453 ClawHub skills on @huggingface: - NVIDIA S...",
+          "url": "https://x.com/steipete/status/2061348059091484884",
+          "postedAt": "2026-06-01T05:48:55.000Z"
+        },
+        {
           "id": "vc_dotey_fc6352db2d",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -272,24 +344,6 @@
           "postedAt": "2026-05-31T17:38:51.000Z"
         },
         {
-          "id": "vc_dotey_5415786af6",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "帮转，晚点招AI作者、驻硅谷科技作者",
-          "url": "https://x.com/dotey/status/2061131307761930697",
-          "postedAt": "2026-05-31T17:02:52.000Z"
-        },
-        {
-          "id": "vc_steipete_ed6e12f413",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Kevin S Lin: as models continue to get smarter, the future of security approvals is going to involve having models in the loop. yolo is growing up!",
-          "url": "https://x.com/steipete/status/2061175806806667669",
-          "postedAt": "2026-05-31T16:54:53.000Z"
-        },
-        {
           "id": "vc_sama_28df351ec0",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -297,15 +351,6 @@
           "title": "OpenAI Robotics is hiring, looking for exceptional full-stack hardware, ops, systems, and ML engineers to help us program and manufacture robots that ...",
           "url": "https://x.com/sama/status/2061117302528188712",
           "postedAt": "2026-05-31T16:07:13.000Z"
-        },
-        {
-          "id": "vc_steipete_98563ecf94",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Haven't seen codex writing ad-hoc codemods before, but it just did for a bigger TypeScript migration. Impressed.",
-          "url": "https://x.com/steipete/status/2061115471760441692",
-          "postedAt": "2026-05-31T15:59:56.000Z"
         },
         {
           "id": "vc_sama_585ef439a9",
@@ -317,24 +362,6 @@
           "postedAt": "2026-05-31T15:05:55.000Z"
         },
         {
-          "id": "vc_steipete_5d159600eb",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Simon Smith: With Codex at 5 million users, they’ve hit about 0.6% of ChatGPT’s roughly 900 million users. We are so, so early. The vast majority...",
-          "url": "https://x.com/steipete/status/2061175739483930877",
-          "postedAt": "2026-05-31T13:59:43.000Z"
-        },
-        {
-          "id": "vc_dotey_cef0c8ad18",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 响马: 每一个 subagent 都开始无限放大自己收到的目标，像极了一个极速膨胀的臃肿的公司。😂",
-          "url": "https://x.com/dotey/status/2061132200708276602",
-          "postedAt": "2026-05-31T11:00:59.000Z"
-        },
-        {
           "id": "vc_gdb_bde7eb8a94",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -342,15 +369,6 @@
           "title": "codex computer use is viscerally compelling",
           "url": "https://x.com/gdb/status/2060978248792907818",
           "postedAt": "2026-05-31T06:54:40.000Z"
-        },
-        {
-          "id": "vc_dotey_992ba82425",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "昨天不重置明天要重置🙄",
-          "url": "https://x.com/dotey/status/2060968537657655682",
-          "postedAt": "2026-05-31T06:16:04.000Z"
         },
         {
           "id": "vc_sama_fe43df0a26",
@@ -387,28 +405,10 @@
           "title": "AI for accelerating research, by expanding what mathematicians and scientists dare attempt:",
           "url": "https://x.com/gdb/status/2060611636767998241",
           "postedAt": "2026-05-30T06:37:53.000Z"
-        },
-        {
-          "id": "vc_gdb_8c64d3dbcc",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "it’s great to build with codex",
-          "url": "https://x.com/gdb/status/2060581381093388430",
-          "postedAt": "2026-05-30T04:37:39.000Z"
-        },
-        {
-          "id": "vc_gdb_85441b9f51",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "codex for managing the codex UI:",
-          "url": "https://x.com/gdb/status/2060486309886443787",
-          "postedAt": "2026-05-29T22:19:52.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-01T05:15:35.990Z",
+      "lastUpdated": "2026-06-01T18:15:42.606Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_005cd2c085",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: Codex Goals explained & Claude Opus 4.8 review & Building an iPhone app with zero technical skills",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-codex-goals-explained-and",
+          "postedAt": "2026-06-01T15:01:46.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_88ebf5ab4f",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Building an iPhone app with zero technical skills | Bryce Rattner Keithley",
+          "url": "https://www.lennysnewsletter.com/p/building-an-iphone-app-with-zero",
+          "postedAt": "2026-06-01T12:04:51.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_0f16b9b6d9",
           "source": "Lenny's Podcast",
@@ -528,22 +544,6 @@
           "postedAt": "2026-05-24T12:31:49.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_b474596b96",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Best AI cold outreach app, advice for college students interested in PM, the state of AI in design, the relevance of QA in 2026, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-best-ai-cold-outreach",
-          "postedAt": "2026-05-23T20:33:09.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_dcdbd649cf",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Goodbye, Lenny's Reads!",
-          "url": "https://www.lennysnewsletter.com/p/goodbye-lennys-reads",
-          "postedAt": "2026-05-22T15:41:05.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_c25daf02c3",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-01T05:15:37.630Z",
+      "lastUpdated": "2026-06-01T18:15:44.322Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,12 +693,156 @@
       },
       "articles": [
         {
-          "id": "om_dd1a27ecb5",
+          "id": "om_9707c64aae",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "TikTok’s road to becoming a super app",
-          "url": "https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/",
-          "postedAt": "2026-05-30T13:00:00.000Z"
+          "title": "A new app, The Mall, is building a universal feed for online shopping",
+          "url": "https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/",
+          "postedAt": "2026-06-01T17:50:18.000Z"
+        },
+        {
+          "id": "om_ad6c2e46dc",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Coworking with Kimberly Veale",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-kimberly-veale?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-01T16:39:13.000Z"
+        },
+        {
+          "id": "om_80ec5c2ba8",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "What Mattress Firm gained from contactless delivery",
+          "url": "https://www.retaildive.com/news/mattress-firm-contactless-delivery/821125/",
+          "postedAt": "2026-06-01T16:11:00.000Z"
+        },
+        {
+          "id": "om_0dc5004143",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Even with Sydney Sweeney, American Eagle struggles to sell women’s bottoms",
+          "url": "https://www.retaildive.com/news/american-eagle-struggles-selling-womens-bottoms/821490/",
+          "postedAt": "2026-06-01T16:08:00.000Z"
+        },
+        {
+          "id": "om_60edc853e8",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Pink hires chief merchandising officer",
+          "url": "https://www.retaildive.com/news/pink-hires-chief-merchandising-officer/821580/",
+          "postedAt": "2026-06-01T16:03:00.000Z"
+        },
+        {
+          "id": "om_78bd06f98f",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "NBCU points to premium video’s broad value as social marketing rises",
+          "url": "https://www.marketingdive.com/news/nbcu-points-to-premium-videos-broad-value-as-social-marketing-rises/821533/",
+          "postedAt": "2026-06-01T16:00:00.000Z"
+        },
+        {
+          "id": "om_06d809286f",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Walmart Connect expands offsite advertising ambitions with Yahoo, Magnite",
+          "url": "https://www.marketingdive.com/news/walmart-connect-expands-offsite-advertising-ambitions-with-yahoo-magnite/821575/",
+          "postedAt": "2026-06-01T15:13:00.000Z"
+        },
+        {
+          "id": "om_acf4372289",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart: Store-fulfilled deliveries getting faster",
+          "url": "https://www.retaildive.com/news/walmart-store-fulfilled-deliveries-getting-faster/821466/",
+          "postedAt": "2026-06-01T14:53:00.000Z"
+        },
+        {
+          "id": "om_a0e0126da2",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Café Bustelo turns Latin culture into temporary tattoos ahead of World Cup",
+          "url": "https://www.marketingdive.com/news/cafe-bustelo-turns-latin-culture-into-temporary-tattoos-ahead-of-world-cup/821579/",
+          "postedAt": "2026-06-01T14:50:00.000Z"
+        },
+        {
+          "id": "om_527abd3894",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Week of May 18 Morning News Ratings: CBS Mornings Only Broadcast to Record Week-to-Week Growth",
+          "url": "https://www.adweek.com/tvnewser/week-of-may-18-2026-morning-news-ratings/",
+          "postedAt": "2026-06-01T14:03:56.000Z"
+        },
+        {
+          "id": "om_fb360077ba",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "AI video platforms aim to overhaul creative workflows",
+          "url": "https://www.marketingbrew.com/stories/ai-video-platforms-marketers-creative-workflows?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-01T13:08:29.000Z"
+        },
+        {
+          "id": "om_323928f9c6",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Hyundai’s CMO on how to make the most of an official World Cup sponsorship",
+          "url": "https://www.marketingdive.com/news/hyundais-cmo-on-how-to-make-the-most-of-an-official-world-cup-sponsorship/821395/",
+          "postedAt": "2026-06-01T12:49:00.000Z"
+        },
+        {
+          "id": "om_bf00966d2d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "This New Tool Cuts Out Identity Providers By Linking Trade Desk Data With Brands’ First-Party IDs",
+          "url": "https://www.adweek.com/media/this-new-tool-cuts-out-identity-providers-by-linking-trade-desk-data-with-brands-first-party-ids/",
+          "postedAt": "2026-06-01T10:14:33.000Z"
+        },
+        {
+          "id": "om_50c7026e17",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "In World Cup Ad, Hyundai Signals Its Future Ambitions With Players You Don’t Know Yet",
+          "url": "https://www.adweek.com/brand-marketing/in-world-cup-ad-hyundai-signals-its-future-ambitions-with-players-you-dont-know-yet/",
+          "postedAt": "2026-06-01T09:00:00.000Z"
+        },
+        {
+          "id": "om_88d5adf38c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Trust is the new currency in commerce media",
+          "url": "https://www.marketingdive.com/spons/trust-is-the-new-currency-in-commerce-media/821254/",
+          "postedAt": "2026-06-01T09:00:00.000Z"
+        },
+        {
+          "id": "om_47d86ee203",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "What brands need to know about retail compliance before expanding wholesale",
+          "url": "https://www.retaildive.com/spons/what-brands-need-to-know-about-retail-compliance-before-expanding-wholesale/821450/",
+          "postedAt": "2026-06-01T09:00:00.000Z"
+        },
+        {
+          "id": "om_bef4c49ae9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "From pilots to platforms: The next chapter of AI in retail operations",
+          "url": "https://www.retaildive.com/spons/from-pilots-to-platforms-the-next-chapter-of-ai-in-retail-operations/820687/",
+          "postedAt": "2026-06-01T09:00:00.000Z"
+        },
+        {
+          "id": "om_e15a02e521",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Lionel Messi Became the Face of 1 in 4 World Cup Ads",
+          "url": "https://www.adweek.com/brand-marketing/how-lionel-messi-became-the-face-of-1-in-4-world-cup-ads/",
+          "postedAt": "2026-06-01T06:45:00.000Z"
+        },
+        {
+          "id": "om_f965a278aa",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Wyclef Jean on Owning the Future of the Creator Economy",
+          "url": "https://www.adweek.com/brand-marketing/wyclef-jean-on-owning-the-future-of-the-creator-economy/",
+          "postedAt": "2026-06-01T06:00:00.000Z"
         },
         {
           "id": "om_4e898835fd",
@@ -707,154 +851,10 @@
           "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
           "url": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
           "postedAt": "2026-05-29T20:56:59.000Z"
-        },
-        {
-          "id": "om_a4ae376c44",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How optimizing for AI answers is taking over marketing, and other takeaways from AirOps’s Next conference",
-          "url": "https://www.marketingbrew.com/stories/optimizing-for-AEO-ai-answers-airops-next-conference-takeaways?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-29T18:31:33.000Z"
-        },
-        {
-          "id": "om_6c608ebfb6",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Fashion misses at Old Navy spell trouble for Gap Inc.",
-          "url": "https://www.retaildive.com/news/old-navy-fashion-misses-spell-trouble-gap-inc-q1-earnings/821459/",
-          "postedAt": "2026-05-29T16:13:00.000Z"
-        },
-        {
-          "id": "om_2af0dc2ff1",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Consumer sentiment falls to new low; cost of living ‘first-order’ worry",
-          "url": "https://www.retaildive.com/news/consumer-sentiment-falls-cost-living-inflation-Fed/821066/",
-          "postedAt": "2026-05-29T15:41:00.000Z"
-        },
-        {
-          "id": "om_183c83d359",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Weekly Closeout: Burlington plots store openings, Mattel expands Brick Shop",
-          "url": "https://www.retaildive.com/news/rei-union-turns-away-thousands-mattel-brick-shop-expands/821386/",
-          "postedAt": "2026-05-29T15:31:00.000Z"
-        },
-        {
-          "id": "om_233492a978",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "American Eagle rebalances marketing toward performance as sales slide",
-          "url": "https://www.marketingdive.com/news/american-eagle-rebalances-marketing-toward-performance-as-sales-slide/821470/",
-          "postedAt": "2026-05-29T15:09:00.000Z"
-        },
-        {
-          "id": "om_05f85475d4",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Dollar Tree CEO: ‘Our model is built for environments like this’",
-          "url": "https://www.retaildive.com/news/dollar-tree-q1-earnings-model-built-inflation-high-prices/821403/",
-          "postedAt": "2026-05-29T15:08:00.000Z"
-        },
-        {
-          "id": "om_cdf936fc70",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Go Figure: 3 big marketing numbers from May",
-          "url": "https://www.marketingdive.com/news/go-figure-3-big-marketing-numbers-from-may/821432/",
-          "postedAt": "2026-05-29T14:45:00.000Z"
-        },
-        {
-          "id": "om_195def10e0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketers on the Move: Hires and Promotions at OpenAI, CNN, Chloé and More",
-          "url": "https://www.adweek.com/brand-marketing/marketers-on-the-move-hires-and-promotions-at-openai-cnn-chloe-and-more/",
-          "postedAt": "2026-05-29T10:58:07.000Z"
-        },
-        {
-          "id": "om_5a825e67c5",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How a road trip across the USA informed Coca-Cola’s America 250 campaign",
-          "url": "https://www.marketingbrew.com/stories/how-a-road-trip-across-the-usa-informed-coca-colas-america-250-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-29T10:00:00.000Z"
-        },
-        {
-          "id": "om_9aa79358eb",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Experience Is Now the Product",
-          "url": "https://www.adweek.com/brand-marketing/the-experience-is-now-the-product/",
-          "postedAt": "2026-05-29T09:00:00.000Z"
-        },
-        {
-          "id": "om_e04cef1456",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 9 Campaigns That Caught Our Eye, From Etsy to NPR",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-9-campaigns-that-caught-our-eye-from-etsy-to-npr/",
-          "postedAt": "2026-05-29T06:00:00.000Z"
-        },
-        {
-          "id": "om_c15dd2c9d4",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok Shop grows to new EU merchant countries",
-          "url": "https://www.socialmediatoday.com/news/tiktok-shop-grows-to-new-eu-merchant-countries/821443/",
-          "postedAt": "2026-05-28T22:45:47.000Z"
-        },
-        {
-          "id": "om_3afee2c8db",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Reddit expands Shopify integration access globally",
-          "url": "https://www.socialmediatoday.com/news/reddit-expands-shopify-integration-access-globally/821439/",
-          "postedAt": "2026-05-28T21:27:32.000Z"
-        },
-        {
-          "id": "om_9504319dad",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Capri Holdings’ ‘biggest issue’ is footwear",
-          "url": "https://www.retaildive.com/news/capri-q4-earnings-footwear-strategy-Michael-Kors/821331/",
-          "postedAt": "2026-05-28T20:32:00.000Z"
-        },
-        {
-          "id": "om_66113b5f24",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How the National Women’s Soccer League is building momentum for brands",
-          "url": "https://www.marketingbrew.com/stories/national-womens-soccer-league-cmo-cco?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-05-28T17:11:07.000Z"
-        },
-        {
-          "id": "om_32b56b745d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Dick’s Sporting Goods launches AI adviser",
-          "url": "https://www.retaildive.com/news/dicks-sporting-goods-coach-ai-shopping-adviser/821356/",
-          "postedAt": "2026-05-28T17:02:00.000Z"
-        },
-        {
-          "id": "om_358aea64a5",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Une Femme pairs wine with literature for co-branded social promotion",
-          "url": "https://www.marketingdive.com/news/une-femme-pairs-wine-with-literature-for-co-branded-social-promotion/821338/",
-          "postedAt": "2026-05-28T16:16:00.000Z"
-        },
-        {
-          "id": "om_d0824366a4",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Overheated iPads, Lifeguards, and Changing Tides: The Unexpected Challenges of a Cannes Beach Takeover",
-          "url": "https://www.adweek.com/brand-marketing/overheated-ipads-lifeguards-and-changing-tides-the-unexpected-challenges-of-a-cannes-beach-takeover/",
-          "postedAt": "2026-05-28T16:09:39.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-01T05:15:40.517Z",
+      "lastUpdated": "2026-06-01T18:15:45.760Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
