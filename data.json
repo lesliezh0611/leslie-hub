@@ -227,13 +227,76 @@
       ],
       "articles": [
         {
-          "id": "vc_dotey_7487d90ed7",
+          "id": "vc_Khazix0918_9ef88f47a4",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2061667400723156992",
+          "url": "https://x.com/Khazix0918/status/2061669881725309048",
+          "postedAt": "2026-06-02T04:42:58.000Z"
+        },
+        {
+          "id": "vc_gdb_a86a216d01",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "OpenAI + Amazon Bedrock:",
+          "url": "https://x.com/gdb/status/2061603059781054878",
+          "postedAt": "2026-06-02T00:17:26.000Z"
+        },
+        {
+          "id": "vc_gdb_7d31ece0fb",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "OpenAI is now available for enterprises on Amazon Bedrock:",
+          "url": "https://x.com/gdb/status/2061591739350282351",
+          "postedAt": "2026-06-01T23:32:27.000Z"
+        },
+        {
+          "id": "vc_steipete_938b183cc2",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "I told codex to use http://sag.sh whenever I'm distracted and it needs my help to be unblocked, and ever once it a while I hear it talking to me, and ...",
+          "url": "https://x.com/steipete/status/2061574752574283858",
+          "postedAt": "2026-06-01T22:24:57.000Z"
+        },
+        {
+          "id": "vc_dotey_b2d438a98a",
           "source": "dotey",
           "sourceName": "宝玉",
           "platform": "x",
-          "title": "活久见，Claude 也重置了额度！",
-          "url": "https://x.com/dotey/status/2061507315690279135",
-          "postedAt": "2026-06-01T17:56:59.000Z"
+          "title": "Cursor 在为用户增加使用额度。最近我重度使用了 Cursor 的 Agent，效果相当不错。我常用的 GUI Agent 里面，Codex App > Cursor > Claude Desktop。 几个亮点：...",
+          "url": "https://x.com/dotey/status/2061569125948760319",
+          "postedAt": "2026-06-01T22:02:36.000Z"
+        },
+        {
+          "id": "vc_dotey_e19785f6c7",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "It would be great if AI agents like Codex and Cursor could expose an API to web views. This would allow a webpage opened in the right pane to send pro...",
+          "url": "https://x.com/dotey/status/2061565621360337132",
+          "postedAt": "2026-06-01T21:48:40.000Z"
+        },
+        {
+          "id": "vc_sama_a905ff98f1",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "The OpenAI Foundation is doing a lot of wonderful things. Helping society become resilient to AI is going to be incredibly important. Much more to com...",
+          "url": "https://x.com/sama/status/2061562575322492937",
+          "postedAt": "2026-06-01T21:36:34.000Z"
+        },
+        {
+          "id": "vc_dotey_3a37897982",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "明天 Codex 和 OpenAI platform 会有什么重要更新呢？",
+          "url": "https://x.com/dotey/status/2061539606592360781",
+          "postedAt": "2026-06-01T20:05:18.000Z"
         },
         {
           "id": "vc_dotey_b2d122aa3a",
@@ -299,24 +362,6 @@
           "postedAt": "2026-06-01T05:48:55.000Z"
         },
         {
-          "id": "vc_dotey_fc6352db2d",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "自从 Claude Design 可以共享额度，可以用的次数多了很多，但 Token 消耗还是很厉害。不过做出来的东西真的很好，真的强烈建议你多用用，这是我近期用的最好的 A...",
-          "url": "https://x.com/dotey/status/2061297781864624210",
-          "postedAt": "2026-06-01T04:04:22.000Z"
-        },
-        {
-          "id": "vc_dotey_ccdedb8c33",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "我经常用 /goal ，主要用法： 1. 写一个 Checklist，让它一条条勾选 比如我逆向代码，会先用脚本做语法解析把完整的list整理成个json文件，让它分批去处理，每次...",
-          "url": "https://x.com/dotey/status/2061260768729809096",
-          "postedAt": "2026-06-01T01:37:18.000Z"
-        },
-        {
           "id": "vc_steipete_8d9d2c65f1",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -333,15 +378,6 @@
           "title": "“Real mastery is not exerting the most effort. It is achieving the outcome with the least necessary effort. Grinding is never good for any creative p...",
           "url": "https://x.com/zarazhangrui/status/2061143524020822158",
           "postedAt": "2026-05-31T17:51:24.000Z"
-        },
-        {
-          "id": "vc_steipete_932022aa2c",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT SimonTNRE: Re @steipete After testing Hermes for a week, I can say confidently that my openclaw setup, which I have been tweaking for months is far...",
-          "url": "https://x.com/steipete/status/2061159408755720265",
-          "postedAt": "2026-05-31T17:38:51.000Z"
         },
         {
           "id": "vc_sama_28df351ec0",
@@ -369,46 +405,10 @@
           "title": "codex computer use is viscerally compelling",
           "url": "https://x.com/gdb/status/2060978248792907818",
           "postedAt": "2026-05-31T06:54:40.000Z"
-        },
-        {
-          "id": "vc_sama_fe43df0a26",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "RT Tibo: Five million users would agree. Resetting the limits tomorrow morning to celebrate. Time to go /fast",
-          "url": "https://x.com/sama/status/2061097558819356732",
-          "postedAt": "2026-05-31T05:59:10.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_6f5be460fd",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "One thing I noticed about Opus 4.8 is that it stopped using em dashes in writing",
-          "url": "https://x.com/zarazhangrui/status/2060962160872919043",
-          "postedAt": "2026-05-31T05:50:44.000Z"
-        },
-        {
-          "id": "vc_gdb_58fad6d0f7",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "GPT Realtime 2 unlocks some real magic:",
-          "url": "https://x.com/gdb/status/2060955146952077653",
-          "postedAt": "2026-05-31T05:22:52.000Z"
-        },
-        {
-          "id": "vc_gdb_dae38fad39",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "AI for accelerating research, by expanding what mathematicians and scientists dare attempt:",
-          "url": "https://x.com/gdb/status/2060611636767998241",
-          "postedAt": "2026-05-30T06:37:53.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-01T18:15:42.606Z",
+      "lastUpdated": "2026-06-02T05:00:05.231Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -478,14 +478,6 @@
           "topic": "🧠 Community Wisdom: Catching people using AI during an interview, org design when everything lives in one person’s head, when to rename your product, from nurse to health-tech PM, and more",
           "url": "https://www.lennysnewsletter.com/p/community-wisdom-catching-people",
           "postedAt": "2026-05-30T16:43:36.000Z"
-        },
-        {
-          "id": "en_pod_lex_fridman_podcast_bc3f4fb2e4",
-          "source": "Lex Fridman Podcast",
-          "platform": "podcast",
-          "topic": "#497 – Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE – Don Lincoln",
-          "url": "https://lexfridman.com/don-lincoln/?utm_source=rss&utm_medium=rss&utm_campaign=don-lincoln",
-          "postedAt": "2026-05-29T16:22:02.000Z"
         },
         {
           "id": "en_pod_lenny_s_podcast_a54a4ea2d7",
@@ -600,10 +592,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-01T18:15:44.322Z",
+      "lastUpdated": "2026-06-02T05:00:12.119Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -692,6 +684,30 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_2f7ecaa7dc",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta hires Snap director of global content partnerships",
+          "url": "https://www.socialmediatoday.com/news/meta-hires-snap-director-of-global-content-partnerships/821672/",
+          "postedAt": "2026-06-01T23:20:48.000Z"
+        },
+        {
+          "id": "om_3791bcc0db",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands",
+          "url": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
+          "postedAt": "2026-06-01T21:18:23.000Z"
+        },
+        {
+          "id": "om_9a615a527f",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok announces Pride Month 2026 programming",
+          "url": "https://www.socialmediatoday.com/news/tiktok-announces-pride-month-2026-programming/821662/",
+          "postedAt": "2026-06-01T19:37:24.000Z"
+        },
         {
           "id": "om_9707c64aae",
           "source": "TechCrunch",
@@ -827,34 +843,10 @@
           "title": "From pilots to platforms: The next chapter of AI in retail operations",
           "url": "https://www.retaildive.com/spons/from-pilots-to-platforms-the-next-chapter-of-ai-in-retail-operations/820687/",
           "postedAt": "2026-06-01T09:00:00.000Z"
-        },
-        {
-          "id": "om_e15a02e521",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Lionel Messi Became the Face of 1 in 4 World Cup Ads",
-          "url": "https://www.adweek.com/brand-marketing/how-lionel-messi-became-the-face-of-1-in-4-world-cup-ads/",
-          "postedAt": "2026-06-01T06:45:00.000Z"
-        },
-        {
-          "id": "om_f965a278aa",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Wyclef Jean on Owning the Future of the Creator Economy",
-          "url": "https://www.adweek.com/brand-marketing/wyclef-jean-on-owning-the-future-of-the-creator-economy/",
-          "postedAt": "2026-06-01T06:00:00.000Z"
-        },
-        {
-          "id": "om_4e898835fd",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
-          "url": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
-          "postedAt": "2026-05-29T20:56:59.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-01T18:15:45.760Z",
+      "lastUpdated": "2026-06-02T05:00:14.533Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
