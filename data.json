@@ -227,6 +227,78 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_81a45759b7",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT Kai: 这就发了！ Proudly based on Kimi Code",
+          "url": "https://x.com/dotey/status/2062161661192966654",
+          "postedAt": "2026-06-03T12:44:16.000Z"
+        },
+        {
+          "id": "vc_steipete_45f98186d6",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Ryan Lopopolo: This is pretty rad. coreutils on Windows, based on uutils",
+          "url": "https://x.com/steipete/status/2062145268490104862",
+          "postedAt": "2026-06-03T11:13:45.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_0d19c9cb56",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "分享一个让Agent额度翻倍的小技巧。 之前发Codex教程的时候，评论区有一条留言被顶到了最高赞，是一个关于5小时额度窗口的小技巧。 然后发现很多朋友都说第一次...",
+          "url": "https://x.com/Khazix0918/status/2062103999839707188",
+          "postedAt": "2026-06-03T09:28:00.000Z"
+        },
+        {
+          "id": "vc_dotey_aa47ddbcc5",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 哥飞: Notion 为了拥有 .com 域名，来换掉之前的 .so 域名，甚至愿意出让部分股权给.com 域名拥有者。 现在，大家可以用 https://notion.com 来访问 Notion ...",
+          "url": "https://x.com/dotey/status/2062217493570097502",
+          "postedAt": "2026-06-03T09:08:50.000Z"
+        },
+        {
+          "id": "vc_gdb_fe3b8d759e",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "codex for computer work is growing very fast",
+          "url": "https://x.com/gdb/status/2062080673632895138",
+          "postedAt": "2026-06-03T07:55:18.000Z"
+        },
+        {
+          "id": "vc_dotey_f0c20c6a63",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Codex 这个小功能我很喜欢，直接一键 commit changes，自动生成 commit message",
+          "url": "https://x.com/dotey/status/2062050235895914926",
+          "postedAt": "2026-06-03T05:54:21.000Z"
+        },
+        {
+          "id": "vc_dotey_8c6d7a96b7",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "可以以假乱真了",
+          "url": "https://x.com/dotey/status/2062047835575468330",
+          "postedAt": "2026-06-03T05:44:49.000Z"
+        },
+        {
+          "id": "vc_dotey_86b8cab63e",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "虽然很多人吐槽 Opus 4.8，但是写 Mac App UI 真的强，Claude Design 设计出来，用 Opus 4.8 去实现，还原度相当不错。 感觉我要发布一个 Mac App for X 了",
+          "url": "https://x.com/dotey/status/2062043155579453715",
+          "postedAt": "2026-06-03T05:26:13.000Z"
+        },
+        {
           "id": "vc_Khazix0918_b162b36238",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -234,15 +306,6 @@
           "title": "http://x.com/i/article/2062025288771584000",
           "url": "https://x.com/Khazix0918/status/2062027075524112503",
           "postedAt": "2026-06-03T04:22:20.000Z"
-        },
-        {
-          "id": "vc_dotey_2b5ae26aba",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "\"Codex Computer Use\" is damaged and can't be opened. Version 26.601.21317 • Released Jun 2, 2026",
-          "url": "https://x.com/dotey/status/2062012342775251223",
-          "postedAt": "2026-06-03T03:23:47.000Z"
         },
         {
           "id": "vc_steipete_61a4043cae",
@@ -299,15 +362,6 @@
           "postedAt": "2026-06-02T18:29:13.000Z"
         },
         {
-          "id": "vc_dotey_f817c26243",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 向阳乔木: 我去，一句话建网站啊，还能分享给别人查看。 企业版，注意必须企业版更新Codex后， @ site 使用。 Codex这次更新有点强！ Anthropic 只是Design，...",
-          "url": "https://x.com/dotey/status/2061917292410069109",
-          "postedAt": "2026-06-02T18:18:21.000Z"
-        },
-        {
           "id": "vc_steipete_6574e1b6a6",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -317,33 +371,6 @@
           "postedAt": "2026-06-02T18:14:24.000Z"
         },
         {
-          "id": "vc_steipete_f06725bbfb",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Dona Sarkar: I am SO SO excited about the Windows x OpenClaw announcement at #MSBuild. I love that our 🦞 s can do all sorts of work for us (prep...",
-          "url": "https://x.com/steipete/status/2061874468826341416",
-          "postedAt": "2026-06-02T18:00:56.000Z"
-        },
-        {
-          "id": "vc_dotey_2a79c2ae43",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Hermes Agent GUI 客户端来了，现在 Agent 的主流是 GUI 了",
-          "url": "https://x.com/dotey/status/2061851653095985399",
-          "postedAt": "2026-06-02T16:45:16.000Z"
-        },
-        {
-          "id": "vc_dotey_27b1c9e2de",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT @evilcos: 玩 Vibe Coding 的朋友，特别划重点注意下这个，恶意代码喜欢藏的位置： Claude Code hijack (~/.claude/settings.json): A SessionStart hook is ...",
-          "url": "https://x.com/dotey/status/2061845622462742754",
-          "postedAt": "2026-06-02T16:21:18.000Z"
-        },
-        {
           "id": "vc_sama_1ac947af1b",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -351,15 +378,6 @@
           "title": "one of the quotes i find most inspiring on a hard day: \"Whatever your hand finds to do, do it with all your might, for in the realm of the dead, where...",
           "url": "https://x.com/sama/status/2061828631089844709",
           "postedAt": "2026-06-02T15:13:47.000Z"
-        },
-        {
-          "id": "vc_dotey_012ddc332c",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT yetone: 但是这个应该不能去把责任归到用户身上，而必须是归到 Anthropic 身上。因为新的模型刚推出的时候，它内部没经过大量的测试，导致 Inference Infra ...",
-          "url": "https://x.com/dotey/status/2061825318004867340",
-          "postedAt": "2026-06-02T11:14:46.000Z"
         },
         {
           "id": "vc_Khazix0918_9ef88f47a4",
@@ -387,28 +405,10 @@
           "title": "OpenAI is now available for enterprises on Amazon Bedrock:",
           "url": "https://x.com/gdb/status/2061591739350282351",
           "postedAt": "2026-06-01T23:32:27.000Z"
-        },
-        {
-          "id": "vc_sama_a905ff98f1",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "The OpenAI Foundation is doing a lot of wonderful things. Helping society become resilient to AI is going to be incredibly important. Much more to com...",
-          "url": "https://x.com/sama/status/2061562575322492937",
-          "postedAt": "2026-06-01T21:36:34.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_fe1295fd31",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2061360923009564672",
-          "url": "https://x.com/Khazix0918/status/2061362750954086699",
-          "postedAt": "2026-06-01T08:22:32.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-03T05:15:39.812Z",
+      "lastUpdated": "2026-06-03T17:17:06.207Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_7b248d78c9",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Gemini Omni: Clone yourself with AI in under 15 minutes",
+          "url": "https://www.lennysnewsletter.com/p/gemini-omni-clone-yourself-with-ai",
+          "postedAt": "2026-06-03T12:04:09.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_005cd2c085",
           "source": "Lenny's Podcast",
@@ -536,14 +544,6 @@
           "postedAt": "2026-05-25T12:03:53.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_0defa1f0c5",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "The AI paradox: More automation, more humans, more work | Dan Shipper",
-          "url": "https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper",
-          "postedAt": "2026-05-24T12:31:49.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_c25daf02c3",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-03T05:15:41.209Z",
+      "lastUpdated": "2026-06-03T17:17:07.474Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,86 @@
       },
       "articles": [
         {
+          "id": "om_feabb9ed89",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Steph Curry trades Under Armour partnership for a deal with Li-Ning",
+          "url": "https://www.retaildive.com/news/steph-curry-signs-li-ning-partnership-under-armour/821863/",
+          "postedAt": "2026-06-03T16:07:00.000Z"
+        },
+        {
+          "id": "om_8304c9a50a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Macy’s revamped half its stores and customers followed",
+          "url": "https://www.retaildive.com/news/macys-revamped-store-fleet-customers-followed-q1-earnings-growth/821844/",
+          "postedAt": "2026-06-03T15:49:00.000Z"
+        },
+        {
+          "id": "om_fbc9077404",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Ulta’s prestige beauty shines despite consumer pressure",
+          "url": "https://www.retaildive.com/news/ulta-prestige-beauty-growth-consumer-pressure-nyc-store-q1-earnings/821860/",
+          "postedAt": "2026-06-03T15:44:00.000Z"
+        },
+        {
+          "id": "om_c47af2f3d9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Indeed addresses job market disconnect with ads that put people first",
+          "url": "https://www.marketingdive.com/news/indeed-addresses-job-market-disconnect-with-ads-that-put-people-first/821847/",
+          "postedAt": "2026-06-03T15:00:00.000Z"
+        },
+        {
+          "id": "om_f5b2f22f4d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target’s ‘food-forward’ strategy includes supply chain improvements, too",
+          "url": "https://www.retaildive.com/news/target-food-distribution-center-thornton-colorado/821846/",
+          "postedAt": "2026-06-03T14:35:00.000Z"
+        },
+        {
+          "id": "om_16418e5f84",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "TikTok launches TikTok Pro Events, an app for cultural moments like the FIFA World Cup",
+          "url": "https://techcrunch.com/2026/06/03/tiktok-launches-tiktok-pro-events-an-app-for-cultural-moments-like-the-fifa-world-cup/",
+          "postedAt": "2026-06-03T14:04:38.000Z"
+        },
+        {
+          "id": "om_2feaa012cf",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Inside Belk’s latest collaboration with Sewing Down South",
+          "url": "https://www.retaildive.com/news/belk-crown-ivy-sewing-down-south-collection-pop-up-store/821677/",
+          "postedAt": "2026-06-03T13:43:00.000Z"
+        },
+        {
+          "id": "om_8b1ab2fbce",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How McDonald’s is serving up culture as part of its new strategic plan",
+          "url": "https://www.marketingdive.com/news/how-mcdonalds-is-serving-up-culture-as-part-of-its-new-strategic-plan/821833/",
+          "postedAt": "2026-06-03T13:41:00.000Z"
+        },
+        {
+          "id": "om_0d340c4399",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "En pointe: Why brands are embracing the aesthetics of ballet",
+          "url": "https://www.marketingbrew.com/stories/brands-en-pointe-why-ballet-aesthetics-and-performance-arts-are-appealing-to-audiences?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-03T11:00:00.000Z"
+        },
+        {
+          "id": "om_a8da67fe8e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "AI and Advertising: Protecting Creativity in an Automated World",
+          "url": "https://www.adweek.com/brand-marketing/ai-and-advertising-protecting-creativity-in-an-automated-world/",
+          "postedAt": "2026-06-03T08:00:00.000Z"
+        },
+        {
           "id": "om_598f3b34f3",
           "source": "Social Media Today",
           "lang": "en",
@@ -701,11 +781,11 @@
           "postedAt": "2026-06-02T21:37:11.000Z"
         },
         {
-          "id": "om_88a9d80921",
+          "id": "om_90821e32ff",
           "source": "Social Media Today",
           "lang": "en",
-          "title": "Meta tests connected Series reel option for video creators",
-          "url": "https://www.socialmediatoday.com/news/meta-tests-connected-series-reel-option-for-video-creators/821811/",
+          "title": "Meta tests connected Series Reels option for video creators",
+          "url": "https://www.socialmediatoday.com/news/meta-tests-connected-series-reels-option-for-video-creators/821811/",
           "postedAt": "2026-06-02T20:59:00.000Z"
         },
         {
@@ -749,22 +829,6 @@
           "postedAt": "2026-06-02T15:47:00.000Z"
         },
         {
-          "id": "om_4ff1fa8bf7",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Password manager Dashlane says hackers stole some customers’ password vaults",
-          "url": "https://techcrunch.com/2026/06/02/password-manager-dashlane-says-hackers-stole-some-customers-password-vaults/",
-          "postedAt": "2026-06-02T15:40:11.000Z"
-        },
-        {
-          "id": "om_4eebe7c365",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon reveals Prime Day dates",
-          "url": "https://www.retaildive.com/news/amazon-prime-day-dates-june-2026/821713/",
-          "postedAt": "2026-06-02T15:29:00.000Z"
-        },
-        {
           "id": "om_8240db9ca9",
           "source": "Adweek",
           "lang": "en",
@@ -781,80 +845,16 @@
           "postedAt": "2026-06-02T14:48:00.000Z"
         },
         {
-          "id": "om_01b3d290de",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "X caters to creators with new ‘React with Video’ feature",
-          "url": "https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/",
-          "postedAt": "2026-06-02T14:46:28.000Z"
-        },
-        {
-          "id": "om_575e116b56",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Mass retailers draw level with supermarkets as primary grocery destinations",
-          "url": "https://www.retaildive.com/news/grocery-shopping-supermarkets-mass-retailers-fmi-food/821692/",
-          "postedAt": "2026-06-02T14:39:00.000Z"
-        },
-        {
           "id": "om_f541e109ab",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "‘Minecraft’ expands creator marketing ambitions with affiliate program",
           "url": "https://www.marketingdive.com/news/minecraft-expands-creator-marketing-ambitions-with-affiliate-program/821694/",
           "postedAt": "2026-06-02T13:17:24.000Z"
-        },
-        {
-          "id": "om_701474e12f",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Turns out operating a free (branded) bus is harder than it looks",
-          "url": "https://www.marketingbrew.com/stories/ordinary-free-nyc-branded-bus-strategy-suspended?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-02T13:01:26.000Z"
-        },
-        {
-          "id": "om_e0eb3e5942",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why ClassPass invested $50M in marketing to supercharge partner growth",
-          "url": "https://www.marketingdive.com/news/why-classpass-invested-50m-in-marketing-to-supercharge-partner-growth/821612/",
-          "postedAt": "2026-06-02T13:00:00.000Z"
-        },
-        {
-          "id": "om_45b378e532",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why McDonald’s, Microsoft, and TikTok are Sponsoring Tribeca X for the First Time",
-          "url": "https://www.adweek.com/brand-marketing/why-mcdonalds-microsoft-and-tiktok-are-sponsoring-tribeca-x-for-the-first-time/",
-          "postedAt": "2026-06-02T12:11:52.000Z"
-        },
-        {
-          "id": "om_01bb9aa84f",
-          "source": "Wired",
-          "lang": "en",
-          "title": "How to Shop Like a Pro During Amazon Prime Day (2026)",
-          "url": "https://www.wired.com/story/amazon-prime-day-2026-tips-to-find-best-deals/",
-          "postedAt": "2026-06-02T11:02:00.000Z"
-        },
-        {
-          "id": "om_0267898fa2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ANA’s Bob Liodice on Media Transparency, AI, and the Future of Marketing",
-          "url": "https://www.adweek.com/brand-marketing/anas-bob-liodice-on-media-transparency-ai-and-the-future-of-marketing/",
-          "postedAt": "2026-06-02T10:25:55.000Z"
-        },
-        {
-          "id": "om_36e63c8127",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "From the Pantry to Game Day: How Kraft Heinz Keeps Iconic Brands at the Center of Culture",
-          "url": "https://www.adweek.com/brand-marketing/from-the-pantry-to-game-day-how-kraft-heinz-keeps-iconic-brands-at-the-center-of-culture/",
-          "postedAt": "2026-06-02T10:11:14.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-03T05:15:43.148Z",
+      "lastUpdated": "2026-06-03T17:17:10.228Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
