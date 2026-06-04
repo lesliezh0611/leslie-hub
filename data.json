@@ -227,6 +227,51 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_8068339e64",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Josh Lehman: OpenClaw is a big deal, but the systems that OpenClaw is pioneering to build software like this at agentic scale are at least as signi...",
+          "url": "https://x.com/steipete/status/2062559776542990402",
+          "postedAt": "2026-06-04T15:34:59.000Z"
+        },
+        {
+          "id": "vc_dotey_c86901da21",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT Evan You: I've left most of what I want to say in the VoidZero blog post. But worth repeating: Thank you @voidzerodev team for trusting me and join...",
+          "url": "https://x.com/dotey/status/2062558744261566756",
+          "postedAt": "2026-06-04T13:55:21.000Z"
+        },
+        {
+          "id": "vc_steipete_a2e86ed8ae",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Christoph Nakazawa: I’ve been dumping on OpenAI with low effort meme tweets that get too many views, but Codex is the best DevX acceleration produ...",
+          "url": "https://x.com/steipete/status/2062518369497055493",
+          "postedAt": "2026-06-04T06:35:20.000Z"
+        },
+        {
+          "id": "vc_dotey_a126b8f8b4",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "上次推荐的 Zara Zhang 的开源项目 feishu-claude-code-bridge ，可以把飞书和你本机的 Claude Code 连接起来，解决了用飞书保存所有消息历史，以及随时将飞书的...",
+          "url": "https://x.com/dotey/status/2062415262893134321",
+          "postedAt": "2026-06-04T06:04:51.000Z"
+        },
+        {
+          "id": "vc_dotey_7e706ccb22",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "最近 Codex GPT-5.5 给我的感觉是干活不如 Claude Opus 4.8，当然可能是因为我在开发 Mac 应用，Opus 更擅长一些",
+          "url": "https://x.com/dotey/status/2062410298695234046",
+          "postedAt": "2026-06-04T05:45:07.000Z"
+        },
+        {
           "id": "vc_dotey_c52c0e8329",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -254,15 +299,6 @@
           "postedAt": "2026-06-04T02:56:30.000Z"
         },
         {
-          "id": "vc_dotey_703f49f289",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "帮转：Cursor 招聘设计工程师",
-          "url": "https://x.com/dotey/status/2062358996632175080",
-          "postedAt": "2026-06-04T02:21:16.000Z"
-        },
-        {
           "id": "vc_steipete_c1d39dafe2",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -279,42 +315,6 @@
           "title": "RT Dave Nielsen: Re “Damn, we’re getting very close to the Dark Factory” - @steipete",
           "url": "https://x.com/steipete/status/2062354050574843916",
           "postedAt": "2026-06-04T01:32:50.000Z"
-        },
-        {
-          "id": "vc_steipete_97aa83be97",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Microsoft Developer: developers, developers, developers",
-          "url": "https://x.com/steipete/status/2062354164357927020",
-          "postedAt": "2026-06-04T01:28:22.000Z"
-        },
-        {
-          "id": "vc_dotey_02059e6e4d",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "让 Claude Design 设计个 Icon，用 SVG 给我直接画，看着还行，好歹是矢量的",
-          "url": "https://x.com/dotey/status/2062330943931662710",
-          "postedAt": "2026-06-04T00:29:47.000Z"
-        },
-        {
-          "id": "vc_steipete_625b7edc86",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Matt Gunnin: Ok so @steipete was right. Autoreview is by far the best skill I've ever installed. My process used to be branch > PR > CI + @coderabb...",
-          "url": "https://x.com/steipete/status/2062356043989217584",
-          "postedAt": "2026-06-04T00:17:41.000Z"
-        },
-        {
-          "id": "vc_dotey_bb66144f6e",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "请教：Claude Code （Desktop）总是弹窗要确认权限，有没有办法避免总是要 Allow，很烦人，已经启用了 Bypass Permissions",
-          "url": "https://x.com/dotey/status/2062309301901721814",
-          "postedAt": "2026-06-03T23:03:48.000Z"
         },
         {
           "id": "vc_gdb_dabcf696c8",
@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-04T05:04:10.149Z",
+      "lastUpdated": "2026-06-04T15:42:38.366Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -448,6 +448,14 @@
       ],
       "podcasts": [
         {
+          "id": "en_pod_the_knowledge_project_22af2bbf42",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "Mental Models That Change How You Think | Bill Gurley",
+          "url": "https://fs.blog/knowledge-project-podcast/bill-gurley/",
+          "postedAt": "2026-06-04T09:30:00.000Z"
+        },
+        {
           "id": "en_pod_lenny_s_podcast_7b248d78c9",
           "source": "Lenny's Podcast",
           "platform": "newsletter",
@@ -486,6 +494,14 @@
           "topic": "🧠 Community Wisdom: Catching people using AI during an interview, org design when everything lives in one person’s head, when to rename your product, from nurse to health-tech PM, and more",
           "url": "https://www.lennysnewsletter.com/p/community-wisdom-catching-people",
           "postedAt": "2026-05-30T16:43:36.000Z"
+        },
+        {
+          "id": "en_pod_lex_fridman_podcast_bc3f4fb2e4",
+          "source": "Lex Fridman Podcast",
+          "platform": "podcast",
+          "topic": "#497 – Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE – Don Lincoln",
+          "url": "https://lexfridman.com/don-lincoln/?utm_source=rss&utm_medium=rss&utm_campaign=don-lincoln",
+          "postedAt": "2026-05-29T16:22:02.000Z"
         },
         {
           "id": "en_pod_lenny_s_podcast_a54a4ea2d7",
@@ -534,14 +550,6 @@
           "topic": "How the engineer behind Claude Cowork actually uses Claude | Felix Rieseberg (Anthropic)",
           "url": "https://www.lennysnewsletter.com/p/how-the-engineer-behind-claude-cowork",
           "postedAt": "2026-05-25T12:03:53.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_c25daf02c3",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "[Outliers] Chung Ju-yung: The Hyundai Founder Who Put a Country on His Back",
-          "url": "https://fs.blog/knowledge-project-podcast/outliers-chung-ju-yung/",
-          "postedAt": "2026-05-14T09:50:00.000Z"
         }
       ],
       "books": [
@@ -592,10 +600,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-04T05:04:10.618Z",
+      "lastUpdated": "2026-06-04T15:42:40.316Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -685,10 +693,106 @@
       },
       "articles": [
         {
+          "id": "om_79ec307f5b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "QVC celebrates 40th anniversary with TikTok Shop event",
+          "url": "https://www.retaildive.com/news/qvc-40th-anniversary-tiktok-shop-super-brand-day/821814/",
+          "postedAt": "2026-06-04T15:33:00.000Z"
+        },
+        {
+          "id": "om_2ca0e72041",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Five Below nixes ‘Five Beyond’ store section",
+          "url": "https://www.retaildive.com/news/five-below-nixes-five-beyond-store-section-squishy-dumpling/821978/",
+          "postedAt": "2026-06-04T15:07:00.000Z"
+        },
+        {
+          "id": "om_92b5f4bcf6",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Chipotle nods to NBA milestones to dole out 53K free entrees",
+          "url": "https://www.marketingdive.com/news/chipotle-nods-to-53-year-old-nba-milestones-to-dole-out-53k-free-entrees/821913/",
+          "postedAt": "2026-06-04T15:00:00.000Z"
+        },
+        {
+          "id": "om_6810dfec74",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "DoorDash upgrades ad platform with LiveRamp pact, premium ad formats",
+          "url": "https://www.marketingdive.com/news/doordash-upgrades-ad-platform-with-liveramp-pact-premium-ad-formats/821976/",
+          "postedAt": "2026-06-04T14:57:00.000Z"
+        },
+        {
+          "id": "om_d754d65bf3",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "World Cup tests marketers’ ability to prove value of sponsorships",
+          "url": "https://www.marketingdive.com/news/the-world-cup-will-test-marketers-ability-to-prove-the-value-of-sponsorshi/821476/",
+          "postedAt": "2026-06-04T12:30:00.000Z"
+        },
+        {
+          "id": "om_ee96013ff4",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Stella Artois expenses bar tabs as part of World Cup on-premise push",
+          "url": "https://www.marketingdive.com/news/stella-artois-expenses-bar-tabs-as-part-of-world-cup-on-premise-push/821907/",
+          "postedAt": "2026-06-04T12:22:00.000Z"
+        },
+        {
+          "id": "om_812b5e0f41",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How brands are celebrating 250 years of America amid political polarization",
+          "url": "https://www.marketingdive.com/news/how-brands-are-celebrating-250-years-of-america-amid-political-polarization/821663/",
+          "postedAt": "2026-06-04T11:00:00.000Z"
+        },
+        {
+          "id": "om_a48b884766",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How US soccer clubs and leagues are scoring more fan data",
+          "url": "https://www.marketingbrew.com/stories/mls-nwsl-soccer-fan-data?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-04T11:00:00.000Z"
+        },
+        {
+          "id": "om_d20d3ba36f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Discount Tire Hires Arnold, Declaring the Category Should Finally Be Funny",
+          "url": "https://www.adweek.com/agencies/discount-tire-hires-arnold-declaring-the-category-should-finally-be-funny/",
+          "postedAt": "2026-06-04T06:00:00.000Z"
+        },
+        {
+          "id": "om_2e203cc113",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "EXCLUSIVE: Criteo Cuts ChatGPT Ad Minimums, Offers Incentives to Woo Retailer Brands",
+          "url": "https://www.adweek.com/media/exclusive-criteo-cuts-chatgpt-ad-minimums-offers-incentives-to-woo-retailer-brands/",
+          "postedAt": "2026-06-04T06:00:00.000Z"
+        },
+        {
+          "id": "om_c589a1e43d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "From Muppets to Miracles: How Fox Sports Is Hyping the World Cup",
+          "url": "https://www.adweek.com/brand-marketing/how-fox-sports-is-hyping-the-world-cup/",
+          "postedAt": "2026-06-04T06:00:00.000Z"
+        },
+        {
+          "id": "om_05c5ce7289",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Foreign Fans Are Skipping the World Cup. Sponsors Aren’t Worried.",
+          "url": "https://www.adweek.com/brand-marketing/foreign-fans-are-skipping-the-world-cup-sponsors-arent-worried/",
+          "postedAt": "2026-06-04T06:00:00.000Z"
+        },
+        {
           "id": "om_212c06e95e",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "Benchmark raises its first-ever growth fund as part of $2B capital raise",
+          "title": "Benchmark raises its first-ever growth fund as part of $2B capital haul",
           "url": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
           "postedAt": "2026-06-04T03:52:15.000Z"
         },
@@ -747,106 +851,10 @@
           "title": "Ulta’s prestige beauty shines despite consumer pressure",
           "url": "https://www.retaildive.com/news/ulta-prestige-beauty-growth-consumer-pressure-nyc-store-q1-earnings/821860/",
           "postedAt": "2026-06-03T15:44:00.000Z"
-        },
-        {
-          "id": "om_c47af2f3d9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Indeed addresses job market disconnect with ads that put people first",
-          "url": "https://www.marketingdive.com/news/indeed-addresses-job-market-disconnect-with-ads-that-put-people-first/821847/",
-          "postedAt": "2026-06-03T15:00:00.000Z"
-        },
-        {
-          "id": "om_f5b2f22f4d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target’s ‘food-forward’ strategy includes supply chain improvements, too",
-          "url": "https://www.retaildive.com/news/target-food-distribution-center-thornton-colorado/821846/",
-          "postedAt": "2026-06-03T14:35:00.000Z"
-        },
-        {
-          "id": "om_16418e5f84",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "TikTok launches TikTok Pro Events, an app for cultural moments like the FIFA World Cup",
-          "url": "https://techcrunch.com/2026/06/03/tiktok-launches-tiktok-pro-events-an-app-for-cultural-moments-like-the-fifa-world-cup/",
-          "postedAt": "2026-06-03T14:04:38.000Z"
-        },
-        {
-          "id": "om_2feaa012cf",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Inside Belk’s latest collaboration with Sewing Down South",
-          "url": "https://www.retaildive.com/news/belk-crown-ivy-sewing-down-south-collection-pop-up-store/821677/",
-          "postedAt": "2026-06-03T13:43:00.000Z"
-        },
-        {
-          "id": "om_8b1ab2fbce",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How McDonald’s is serving up culture as part of its new strategic plan",
-          "url": "https://www.marketingdive.com/news/how-mcdonalds-is-serving-up-culture-as-part-of-its-new-strategic-plan/821833/",
-          "postedAt": "2026-06-03T13:41:00.000Z"
-        },
-        {
-          "id": "om_0d340c4399",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "En pointe: Why brands are embracing the aesthetics of ballet",
-          "url": "https://www.marketingbrew.com/stories/brands-en-pointe-why-ballet-aesthetics-and-performance-arts-are-appealing-to-audiences?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-03T11:00:00.000Z"
-        },
-        {
-          "id": "om_a8da67fe8e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "AI and Advertising: Protecting Creativity in an Automated World",
-          "url": "https://www.adweek.com/brand-marketing/ai-and-advertising-protecting-creativity-in-an-automated-world/",
-          "postedAt": "2026-06-03T08:00:00.000Z"
-        },
-        {
-          "id": "om_598f3b34f3",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "SEMRush offers AI discovery tips for brands",
-          "url": "https://www.socialmediatoday.com/news/semrush-offers-ai-discovery-tips-for-brands/821817/",
-          "postedAt": "2026-06-02T21:37:11.000Z"
-        },
-        {
-          "id": "om_90821e32ff",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Meta tests connected Series Reels option for video creators",
-          "url": "https://www.socialmediatoday.com/news/meta-tests-connected-series-reels-option-for-video-creators/821811/",
-          "postedAt": "2026-06-02T20:59:00.000Z"
-        },
-        {
-          "id": "om_b29278d3dd",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Victoria’s Secret expects sales to top $7B this year",
-          "url": "https://www.retaildive.com/news/victorias-secret-sales-top-seven-billion-2026/821697/",
-          "postedAt": "2026-06-02T16:24:00.000Z"
-        },
-        {
-          "id": "om_b3abdedf62",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Dollar General sales soar as customers trade down at ‘accelerated’ rate",
-          "url": "https://www.retaildive.com/news/dollar-general-sales-soar-customers-trade-down/821715/",
-          "postedAt": "2026-06-02T16:09:00.000Z"
-        },
-        {
-          "id": "om_181ae2d775",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How Liquid I.V. got written into the plot of ‘Off Campus’",
-          "url": "https://www.marketingbrew.com/stories/liquid-i-v-off-campus-brand-integration-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-02T15:59:26.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-04T05:04:12.159Z",
+      "lastUpdated": "2026-06-04T15:42:43.120Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
