@@ -227,22 +227,112 @@
       ],
       "articles": [
         {
-          "id": "vc_dotey_81a45759b7",
+          "id": "vc_dotey_c52c0e8329",
           "source": "dotey",
           "sourceName": "宝玉",
           "platform": "x",
-          "title": "RT Kai: 这就发了！ Proudly based on Kimi Code",
-          "url": "https://x.com/dotey/status/2062161661192966654",
-          "postedAt": "2026-06-03T12:44:16.000Z"
+          "title": "RT 歸藏(guizang.ai): 做了个简单的小工具 即览 Glimpse 没有 AI，不联网，专注于解决手机上的 Markdown 和 HTML 的 AI 产出物预览问题。 ​ ​苹果审核卡了我三...",
+          "url": "https://x.com/dotey/status/2062398171251122205",
+          "postedAt": "2026-06-04T04:32:50.000Z"
         },
         {
-          "id": "vc_steipete_45f98186d6",
+          "id": "vc_steipete_8a0c0c0eb5",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "RT Ryan Lopopolo: This is pretty rad. coreutils on Windows, based on uutils",
-          "url": "https://x.com/steipete/status/2062145268490104862",
-          "postedAt": "2026-06-03T11:13:45.000Z"
+          "title": "Here’s the video of my talk at MS Build: Build the thing that builds the thing. https://build.microsoft.com/en-US/sessions/BRK245",
+          "url": "https://x.com/steipete/status/2062390654022332691",
+          "postedAt": "2026-06-04T04:27:03.000Z"
+        },
+        {
+          "id": "vc_dotey_60cebc0db0",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "AI Agent 对比 PC 和移动端不是完全取代的关系。 手机出来没有完全取代PC，但很多事情你可以随时随地处理了；AI Agent 也不会完全取代手机和PC，但很多时候你不...",
+          "url": "https://x.com/dotey/status/2062367862803533969",
+          "postedAt": "2026-06-04T02:56:30.000Z"
+        },
+        {
+          "id": "vc_dotey_703f49f289",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "帮转：Cursor 招聘设计工程师",
+          "url": "https://x.com/dotey/status/2062358996632175080",
+          "postedAt": "2026-06-04T02:21:16.000Z"
+        },
+        {
+          "id": "vc_steipete_c1d39dafe2",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT David Rodecker: Re Fastest Growing OpenSource App of All Time - awarded by GitHub to Peter Steinberger for OpenClaw!🦞",
+          "url": "https://x.com/steipete/status/2062353998766837846",
+          "postedAt": "2026-06-04T01:38:59.000Z"
+        },
+        {
+          "id": "vc_steipete_ce68113678",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Dave Nielsen: Re “Damn, we’re getting very close to the Dark Factory” - @steipete",
+          "url": "https://x.com/steipete/status/2062354050574843916",
+          "postedAt": "2026-06-04T01:32:50.000Z"
+        },
+        {
+          "id": "vc_steipete_97aa83be97",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Microsoft Developer: developers, developers, developers",
+          "url": "https://x.com/steipete/status/2062354164357927020",
+          "postedAt": "2026-06-04T01:28:22.000Z"
+        },
+        {
+          "id": "vc_dotey_02059e6e4d",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "让 Claude Design 设计个 Icon，用 SVG 给我直接画，看着还行，好歹是矢量的",
+          "url": "https://x.com/dotey/status/2062330943931662710",
+          "postedAt": "2026-06-04T00:29:47.000Z"
+        },
+        {
+          "id": "vc_steipete_625b7edc86",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Matt Gunnin: Ok so @steipete was right. Autoreview is by far the best skill I've ever installed. My process used to be branch > PR > CI + @coderabb...",
+          "url": "https://x.com/steipete/status/2062356043989217584",
+          "postedAt": "2026-06-04T00:17:41.000Z"
+        },
+        {
+          "id": "vc_dotey_bb66144f6e",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "请教：Claude Code （Desktop）总是弹窗要确认权限，有没有办法避免总是要 Allow，很烦人，已经启用了 Bypass Permissions",
+          "url": "https://x.com/dotey/status/2062309301901721814",
+          "postedAt": "2026-06-03T23:03:48.000Z"
+        },
+        {
+          "id": "vc_gdb_dabcf696c8",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "fly with codex",
+          "url": "https://x.com/gdb/status/2062279597149061564",
+          "postedAt": "2026-06-03T21:05:45.000Z"
+        },
+        {
+          "id": "vc_gdb_cd214c3c2a",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "We've put out a blueprint for democratic governance of frontier AI, and how America can build durable institutions for frontier AI safety:",
+          "url": "https://x.com/gdb/status/2062259921664835833",
+          "postedAt": "2026-06-03T19:47:34.000Z"
         },
         {
           "id": "vc_Khazix0918_0d19c9cb56",
@@ -254,15 +344,6 @@
           "postedAt": "2026-06-03T09:28:00.000Z"
         },
         {
-          "id": "vc_dotey_aa47ddbcc5",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 哥飞: Notion 为了拥有 .com 域名，来换掉之前的 .so 域名，甚至愿意出让部分股权给.com 域名拥有者。 现在，大家可以用 https://notion.com 来访问 Notion ...",
-          "url": "https://x.com/dotey/status/2062217493570097502",
-          "postedAt": "2026-06-03T09:08:50.000Z"
-        },
-        {
           "id": "vc_gdb_fe3b8d759e",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -270,33 +351,6 @@
           "title": "codex for computer work is growing very fast",
           "url": "https://x.com/gdb/status/2062080673632895138",
           "postedAt": "2026-06-03T07:55:18.000Z"
-        },
-        {
-          "id": "vc_dotey_f0c20c6a63",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Codex 这个小功能我很喜欢，直接一键 commit changes，自动生成 commit message",
-          "url": "https://x.com/dotey/status/2062050235895914926",
-          "postedAt": "2026-06-03T05:54:21.000Z"
-        },
-        {
-          "id": "vc_dotey_8c6d7a96b7",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "可以以假乱真了",
-          "url": "https://x.com/dotey/status/2062047835575468330",
-          "postedAt": "2026-06-03T05:44:49.000Z"
-        },
-        {
-          "id": "vc_dotey_86b8cab63e",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "虽然很多人吐槽 Opus 4.8，但是写 Mac App UI 真的强，Claude Design 设计出来，用 Opus 4.8 去实现，还原度相当不错。 感觉我要发布一个 Mac App for X 了",
-          "url": "https://x.com/dotey/status/2062043155579453715",
-          "postedAt": "2026-06-03T05:26:13.000Z"
         },
         {
           "id": "vc_Khazix0918_b162b36238",
@@ -308,13 +362,13 @@
           "postedAt": "2026-06-03T04:22:20.000Z"
         },
         {
-          "id": "vc_steipete_61a4043cae",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
+          "id": "vc_gdb_fc3e24669d",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
           "platform": "x",
-          "title": "RT Henry Sowell: I’ve got 4,000+ conversations buried in ChatGPT and Claude. I wanted to make them valuable for my day to day, so I built aicrawl. It...",
-          "url": "https://x.com/steipete/status/2062015637493297498",
-          "postedAt": "2026-06-03T02:59:17.000Z"
+          "title": "Build and launch apps to your team, using Codex:",
+          "url": "https://x.com/gdb/status/2061988413105156128",
+          "postedAt": "2026-06-03T01:48:42.000Z"
         },
         {
           "id": "vc_sama_9ff4829e12",
@@ -324,15 +378,6 @@
           "title": "theUSshould lead on AI by continuing to develop the very best models, making sure they're safe, and getting cyber tools into the hands of trusted defe...",
           "url": "https://x.com/sama/status/2061973280655904815",
           "postedAt": "2026-06-03T00:48:34.000Z"
-        },
-        {
-          "id": "vc_steipete_62d583c266",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT stubro 🇺🇸: So great to hear @steipete the Claw Father at Microsoft Build",
-          "url": "https://x.com/steipete/status/2061943381022929287",
-          "postedAt": "2026-06-02T22:17:24.000Z"
         },
         {
           "id": "vc_zarazhangrui_6b9556374a",
@@ -353,24 +398,6 @@
           "postedAt": "2026-06-02T20:26:32.000Z"
         },
         {
-          "id": "vc_steipete_7e5aae0372",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "It’s been great working with Omar to get observability and verifiable workspaces into OpenClaw.",
-          "url": "https://x.com/steipete/status/2061877813053907083",
-          "postedAt": "2026-06-02T18:29:13.000Z"
-        },
-        {
-          "id": "vc_steipete_6574e1b6a6",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Such a privilege to work with Microsoft to bring claws to enterprises!",
-          "url": "https://x.com/steipete/status/2061874084649025728",
-          "postedAt": "2026-06-02T18:14:24.000Z"
-        },
-        {
           "id": "vc_sama_1ac947af1b",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -378,37 +405,10 @@
           "title": "one of the quotes i find most inspiring on a hard day: \"Whatever your hand finds to do, do it with all your might, for in the realm of the dead, where...",
           "url": "https://x.com/sama/status/2061828631089844709",
           "postedAt": "2026-06-02T15:13:47.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_9ef88f47a4",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2061667400723156992",
-          "url": "https://x.com/Khazix0918/status/2061669881725309048",
-          "postedAt": "2026-06-02T04:42:58.000Z"
-        },
-        {
-          "id": "vc_gdb_a86a216d01",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "OpenAI + Amazon Bedrock:",
-          "url": "https://x.com/gdb/status/2061603059781054878",
-          "postedAt": "2026-06-02T00:17:26.000Z"
-        },
-        {
-          "id": "vc_gdb_7d31ece0fb",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "OpenAI is now available for enterprises on Amazon Bedrock:",
-          "url": "https://x.com/gdb/status/2061591739350282351",
-          "postedAt": "2026-06-01T23:32:27.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-03T17:17:06.207Z",
+      "lastUpdated": "2026-06-04T05:04:10.149Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -486,14 +486,6 @@
           "topic": "🧠 Community Wisdom: Catching people using AI during an interview, org design when everything lives in one person’s head, when to rename your product, from nurse to health-tech PM, and more",
           "url": "https://www.lennysnewsletter.com/p/community-wisdom-catching-people",
           "postedAt": "2026-05-30T16:43:36.000Z"
-        },
-        {
-          "id": "en_pod_lex_fridman_podcast_bc3f4fb2e4",
-          "source": "Lex Fridman Podcast",
-          "platform": "podcast",
-          "topic": "#497 – Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE – Don Lincoln",
-          "url": "https://lexfridman.com/don-lincoln/?utm_source=rss&utm_medium=rss&utm_campaign=don-lincoln",
-          "postedAt": "2026-05-29T16:22:02.000Z"
         },
         {
           "id": "en_pod_lenny_s_podcast_a54a4ea2d7",
@@ -600,10 +592,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-03T17:17:07.474Z",
+      "lastUpdated": "2026-06-04T05:04:10.618Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -692,6 +684,46 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_212c06e95e",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Benchmark raises its first-ever growth fund as part of $2B capital raise",
+          "url": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
+          "postedAt": "2026-06-04T03:52:15.000Z"
+        },
+        {
+          "id": "om_b71fc616b0",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Quick commerce FirstClub doubles valuation to $255M in nine months",
+          "url": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
+          "postedAt": "2026-06-04T00:30:00.000Z"
+        },
+        {
+          "id": "om_711e87a350",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok launches separate event-based app",
+          "url": "https://www.socialmediatoday.com/news/tiktok-launches-separate-event-based-app/821953/",
+          "postedAt": "2026-06-03T21:06:37.000Z"
+        },
+        {
+          "id": "om_ef663d3cd1",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Substack’s new ‘Reply Rules’ feature lets creators control how people respond",
+          "url": "https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/",
+          "postedAt": "2026-06-03T19:08:55.000Z"
+        },
+        {
+          "id": "om_7bcbad427f",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Ultrahuman says hackers accessed customers’ wellness data via internal tool",
+          "url": "https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/",
+          "postedAt": "2026-06-03T17:30:52.000Z"
+        },
         {
           "id": "om_feabb9ed89",
           "source": "Retail Dive",
@@ -789,14 +821,6 @@
           "postedAt": "2026-06-02T20:59:00.000Z"
         },
         {
-          "id": "om_51a1d3d271",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Meta rolls out global expansion of teen content restrictions",
-          "url": "https://www.socialmediatoday.com/news/meta-rolls-out-global-expansion-of-teen-content-restrictions/821806/",
-          "postedAt": "2026-06-02T19:38:47.000Z"
-        },
-        {
           "id": "om_b29278d3dd",
           "source": "Retail Dive",
           "lang": "en",
@@ -819,42 +843,10 @@
           "title": "How Liquid I.V. got written into the plot of ‘Off Campus’",
           "url": "https://www.marketingbrew.com/stories/liquid-i-v-off-campus-brand-integration-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-06-02T15:59:26.000Z"
-        },
-        {
-          "id": "om_70cfe5167c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon offers AI agent tech to other retailers",
-          "url": "https://www.retaildive.com/news/amazon-to-offer-ai-agents-to-other-retailers/821597/",
-          "postedAt": "2026-06-02T15:47:00.000Z"
-        },
-        {
-          "id": "om_8240db9ca9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "OpenAI Needs Two CMOs Because It Has a Problem Marketing Can’t Solve",
-          "url": "https://www.adweek.com/brand-marketing/openai-needs-two-cmos-because-it-has-a-problem-marketing-cant-solve/",
-          "postedAt": "2026-06-02T14:53:32.000Z"
-        },
-        {
-          "id": "om_8abbce000e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Snickers wins praise from Reeses for bigger push behind peanut butter",
-          "url": "https://www.marketingdive.com/news/snickers-wins-praise-from-reeses-for-bigger-push-behind-peanut-butter/821696/",
-          "postedAt": "2026-06-02T14:48:00.000Z"
-        },
-        {
-          "id": "om_f541e109ab",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "‘Minecraft’ expands creator marketing ambitions with affiliate program",
-          "url": "https://www.marketingdive.com/news/minecraft-expands-creator-marketing-ambitions-with-affiliate-program/821694/",
-          "postedAt": "2026-06-02T13:17:24.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-03T17:17:10.228Z",
+      "lastUpdated": "2026-06-04T05:04:12.159Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
