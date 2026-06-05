@@ -227,6 +227,87 @@
       ],
       "articles": [
         {
+          "id": "vc_Khazix0918_cf1bfa1c13",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2062721652467941376",
+          "url": "https://x.com/Khazix0918/status/2062731170337763796",
+          "postedAt": "2026-06-05T03:00:09.000Z"
+        },
+        {
+          "id": "vc_sama_d80cce15c0",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "man the early days of the internet were so special",
+          "url": "https://x.com/sama/status/2062661191969972645",
+          "postedAt": "2026-06-04T22:22:05.000Z"
+        },
+        {
+          "id": "vc_sama_ba5951500a",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "build and publish web apps with chatgpt! i really wish i had this when i was a kid, but i do miss hypercard.",
+          "url": "https://x.com/sama/status/2062661071761211561",
+          "postedAt": "2026-06-04T22:21:36.000Z"
+        },
+        {
+          "id": "vc_sama_24f1d7b33f",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "big upgrade to chatgpt memory rolling out today!",
+          "url": "https://x.com/sama/status/2062660086787613116",
+          "postedAt": "2026-06-04T22:17:41.000Z"
+        },
+        {
+          "id": "vc_dotey_a567abc122",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "做一个非官方的 X 客户端是有风险的事，我当然不会乱发 API 请求，但是保不准写出 Bug 来发了一坨请求而不自知被封号了就不合算了，优先开发个 Debug 工具，可以...",
+          "url": "https://x.com/dotey/status/2062639853305569288",
+          "postedAt": "2026-06-04T20:57:17.000Z"
+        },
+        {
+          "id": "vc_dotey_9baddbec42",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "产品设计的重要性：）",
+          "url": "https://x.com/dotey/status/2062593766658015636",
+          "postedAt": "2026-06-04T17:54:09.000Z"
+        },
+        {
+          "id": "vc_steipete_8c8120ae46",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Ashley Wolf: Last night we celebrated @openclaw, the fastest growing project on GitHub. In just six months, @steipete, dozens of maintainers, and t...",
+          "url": "https://x.com/steipete/status/2062682058934354232",
+          "postedAt": "2026-06-04T17:34:05.000Z"
+        },
+        {
+          "id": "vc_dotey_f6cabbd393",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "如果有条件的话，选你能用的上的最聪明的 2-3 个就够了。只有你很在乎成本的情况下或者要做一些研究工作，才需要去使用其他便宜些的模型。 再聪明的模型一个也不...",
+          "url": "https://x.com/dotey/status/2062586895779946817",
+          "postedAt": "2026-06-04T17:26:51.000Z"
+        },
+        {
+          "id": "vc_dotey_2b00c48bb7",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "我知道的所有做AI Agent的团队都很拼，不是老板逼着的，是为了心中理想，所以心甘情愿加班和搞封闭开发👍 有点我好奇的是：Kimi 团队在开发 Kimi Code 的时候...",
+          "url": "https://x.com/dotey/status/2062583066594287901",
+          "postedAt": "2026-06-04T17:11:38.000Z"
+        },
+        {
           "id": "vc_steipete_8068339e64",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -254,33 +335,6 @@
           "postedAt": "2026-06-04T06:35:20.000Z"
         },
         {
-          "id": "vc_dotey_a126b8f8b4",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "上次推荐的 Zara Zhang 的开源项目 feishu-claude-code-bridge ，可以把飞书和你本机的 Claude Code 连接起来，解决了用飞书保存所有消息历史，以及随时将飞书的...",
-          "url": "https://x.com/dotey/status/2062415262893134321",
-          "postedAt": "2026-06-04T06:04:51.000Z"
-        },
-        {
-          "id": "vc_dotey_7e706ccb22",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "最近 Codex GPT-5.5 给我的感觉是干活不如 Claude Opus 4.8，当然可能是因为我在开发 Mac 应用，Opus 更擅长一些",
-          "url": "https://x.com/dotey/status/2062410298695234046",
-          "postedAt": "2026-06-04T05:45:07.000Z"
-        },
-        {
-          "id": "vc_dotey_c52c0e8329",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 歸藏(guizang.ai): 做了个简单的小工具 即览 Glimpse 没有 AI，不联网，专注于解决手机上的 Markdown 和 HTML 的 AI 产出物预览问题。 ​ ​苹果审核卡了我三...",
-          "url": "https://x.com/dotey/status/2062398171251122205",
-          "postedAt": "2026-06-04T04:32:50.000Z"
-        },
-        {
           "id": "vc_steipete_8a0c0c0eb5",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -288,15 +342,6 @@
           "title": "Here’s the video of my talk at MS Build: Build the thing that builds the thing. https://build.microsoft.com/en-US/sessions/BRK245",
           "url": "https://x.com/steipete/status/2062390654022332691",
           "postedAt": "2026-06-04T04:27:03.000Z"
-        },
-        {
-          "id": "vc_dotey_60cebc0db0",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "AI Agent 对比 PC 和移动端不是完全取代的关系。 手机出来没有完全取代PC，但很多事情你可以随时随地处理了；AI Agent 也不会完全取代手机和PC，但很多时候你不...",
-          "url": "https://x.com/dotey/status/2062367862803533969",
-          "postedAt": "2026-06-04T02:56:30.000Z"
         },
         {
           "id": "vc_steipete_c1d39dafe2",
@@ -308,13 +353,13 @@
           "postedAt": "2026-06-04T01:38:59.000Z"
         },
         {
-          "id": "vc_steipete_ce68113678",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
+          "id": "vc_gdb_0b4ec2d0ae",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
           "platform": "x",
-          "title": "RT Dave Nielsen: Re “Damn, we’re getting very close to the Dark Factory” - @steipete",
-          "url": "https://x.com/steipete/status/2062354050574843916",
-          "postedAt": "2026-06-04T01:32:50.000Z"
+          "title": "Major upgrade to GPT-Rosalind, with much better intelligence for drug discovery, analysis, design, and experimental workflows:",
+          "url": "https://x.com/gdb/status/2062292268602773747",
+          "postedAt": "2026-06-03T21:56:07.000Z"
         },
         {
           "id": "vc_gdb_dabcf696c8",
@@ -335,6 +380,15 @@
           "postedAt": "2026-06-03T19:47:34.000Z"
         },
         {
+          "id": "vc_sama_4ffcfdcc6f",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "RT OpenAI: It's time to fly.",
+          "url": "https://x.com/sama/status/2062587844338561351",
+          "postedAt": "2026-06-03T19:05:25.000Z"
+        },
+        {
           "id": "vc_Khazix0918_0d19c9cb56",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -351,64 +405,10 @@
           "title": "codex for computer work is growing very fast",
           "url": "https://x.com/gdb/status/2062080673632895138",
           "postedAt": "2026-06-03T07:55:18.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_b162b36238",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2062025288771584000",
-          "url": "https://x.com/Khazix0918/status/2062027075524112503",
-          "postedAt": "2026-06-03T04:22:20.000Z"
-        },
-        {
-          "id": "vc_gdb_fc3e24669d",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Build and launch apps to your team, using Codex:",
-          "url": "https://x.com/gdb/status/2061988413105156128",
-          "postedAt": "2026-06-03T01:48:42.000Z"
-        },
-        {
-          "id": "vc_sama_9ff4829e12",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "theUSshould lead on AI by continuing to develop the very best models, making sure they're safe, and getting cyber tools into the hands of trusted defe...",
-          "url": "https://x.com/sama/status/2061973280655904815",
-          "postedAt": "2026-06-03T00:48:34.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_6b9556374a",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "From OpenAI's latest Codex report: \"Knowledge workers now represent about 20% of Codex users and are adopting it more than 3 times as fast as develope...",
-          "url": "https://x.com/zarazhangrui/status/2061924300698091760",
-          "postedAt": "2026-06-02T21:33:56.000Z"
-        },
-        {
-          "id": "vc_karpathy_5684f95a42",
-          "source": "karpathy",
-          "sourceName": "Andrej Karpathy",
-          "platform": "x",
-          "title": "RT Thariq: http://x.com/i/article/2061850535708483585",
-          "url": "https://x.com/karpathy/status/2061928642029158853",
-          "postedAt": "2026-06-02T20:26:32.000Z"
-        },
-        {
-          "id": "vc_sama_1ac947af1b",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "one of the quotes i find most inspiring on a hard day: \"Whatever your hand finds to do, do it with all your might, for in the realm of the dead, where...",
-          "url": "https://x.com/sama/status/2061828631089844709",
-          "postedAt": "2026-06-02T15:13:47.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-04T15:42:38.366Z",
+      "lastUpdated": "2026-06-05T04:46:00.029Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-04T15:42:40.316Z",
+      "lastUpdated": "2026-06-05T04:46:01.865Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,102 @@
       },
       "articles": [
         {
+          "id": "om_6010b743dc",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok launches micro-drama development program",
+          "url": "https://www.socialmediatoday.com/news/tiktok-launches-micro-drama-development-program/822079/",
+          "postedAt": "2026-06-04T20:45:36.000Z"
+        },
+        {
+          "id": "om_5e8f928311",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta launches creator assistant chatbot",
+          "url": "https://www.socialmediatoday.com/news/meta-launches-creator-assistant-chatbot/822077/",
+          "postedAt": "2026-06-04T20:31:42.000Z"
+        },
+        {
+          "id": "om_a129e2535c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Violife slices through dairy-free cheese misconceptions with social series",
+          "url": "https://www.marketingdive.com/news/violife-slices-through-dairy-free-cheese-misconceptions-with-social-series/822009/",
+          "postedAt": "2026-06-04T17:50:00.000Z"
+        },
+        {
+          "id": "om_58503746eb",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Week of May 25 Cable News Ratings: MS NOW Has Demo Growth in Primetime and Total Day",
+          "url": "https://www.adweek.com/tvnewser/week-of-may-25-2026-cable-news-ratings/",
+          "postedAt": "2026-06-04T17:34:43.000Z"
+        },
+        {
+          "id": "om_78b5d3623d",
+          "source": "Wired",
+          "lang": "en",
+          "title": "The TikTok Ban Was Never About TikTok",
+          "url": "https://www.wired.com/story/made-in-china-tiktok-never-dies/",
+          "postedAt": "2026-06-04T17:06:21.000Z"
+        },
+        {
+          "id": "om_62f14d0b55",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Walmart Enters Restaurant Delivery With 1,400 Subway Locations",
+          "url": "https://www.adweek.com/commerce/walmart-enters-restaurant-delivery-with-1400-subway-locations/",
+          "postedAt": "2026-06-04T17:00:00.000Z"
+        },
+        {
+          "id": "om_bb2befd262",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: Reddit expands Shopify integration access globally",
+          "url": "https://www.marketingdive.com/news/sociable-reddit-expands-shopify-integration-access-globally/822011/",
+          "postedAt": "2026-06-04T17:00:00.000Z"
+        },
+        {
+          "id": "om_2eaaa9154f",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why marketers must rethink loyalty as AI reshapes consumer connections",
+          "url": "https://www.marketingdive.com/news/why-marketers-must-rethink-loyalty-as-ai-reshapes-consumer-connections/822003/",
+          "postedAt": "2026-06-04T17:00:00.000Z"
+        },
+        {
+          "id": "om_0907209d74",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Meta rolls out a new AI creator assistant on Facebook",
+          "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+          "postedAt": "2026-06-04T16:32:48.000Z"
+        },
+        {
+          "id": "om_110630c693",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target Circle Deal Days kicks off in June",
+          "url": "https://www.retaildive.com/news/target-circle-deal-days-june/821997/",
+          "postedAt": "2026-06-04T16:07:00.000Z"
+        },
+        {
+          "id": "om_389ef538df",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside imaging company Prenuvo’s creator strategy",
+          "url": "https://www.marketingbrew.com/stories/inside-prenuvos-influencer-strategy-how-the-imaging-company-works-with-celebrities-and-influencers-to-promote-proactive-healthcare?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-04T16:00:00.000Z"
+        },
+        {
+          "id": "om_77ddf028ed",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Retailers turn to AI for productivity, personalized shopping",
+          "url": "https://www.retaildive.com/news/gap-best-buy-dicks-retailers-ai-personalization/821843/",
+          "postedAt": "2026-06-04T15:50:00.000Z"
+        },
+        {
           "id": "om_79ec307f5b",
           "source": "Retail Dive",
           "lang": "en",
@@ -725,6 +821,14 @@
           "postedAt": "2026-06-04T14:57:00.000Z"
         },
         {
+          "id": "om_8657f99099",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Week of May 25 Morning News Ratings: Today Sees Demo Growth Post-Holiday",
+          "url": "https://www.adweek.com/tvnewser/week-of-may-25-2026-morning-news-ratings/",
+          "postedAt": "2026-06-04T14:08:44.000Z"
+        },
+        {
           "id": "om_d754d65bf3",
           "source": "Marketing Dive",
           "lang": "en",
@@ -747,114 +851,10 @@
           "title": "How brands are celebrating 250 years of America amid political polarization",
           "url": "https://www.marketingdive.com/news/how-brands-are-celebrating-250-years-of-america-amid-political-polarization/821663/",
           "postedAt": "2026-06-04T11:00:00.000Z"
-        },
-        {
-          "id": "om_a48b884766",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How US soccer clubs and leagues are scoring more fan data",
-          "url": "https://www.marketingbrew.com/stories/mls-nwsl-soccer-fan-data?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-04T11:00:00.000Z"
-        },
-        {
-          "id": "om_d20d3ba36f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Discount Tire Hires Arnold, Declaring the Category Should Finally Be Funny",
-          "url": "https://www.adweek.com/agencies/discount-tire-hires-arnold-declaring-the-category-should-finally-be-funny/",
-          "postedAt": "2026-06-04T06:00:00.000Z"
-        },
-        {
-          "id": "om_2e203cc113",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "EXCLUSIVE: Criteo Cuts ChatGPT Ad Minimums, Offers Incentives to Woo Retailer Brands",
-          "url": "https://www.adweek.com/media/exclusive-criteo-cuts-chatgpt-ad-minimums-offers-incentives-to-woo-retailer-brands/",
-          "postedAt": "2026-06-04T06:00:00.000Z"
-        },
-        {
-          "id": "om_c589a1e43d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "From Muppets to Miracles: How Fox Sports Is Hyping the World Cup",
-          "url": "https://www.adweek.com/brand-marketing/how-fox-sports-is-hyping-the-world-cup/",
-          "postedAt": "2026-06-04T06:00:00.000Z"
-        },
-        {
-          "id": "om_05c5ce7289",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Foreign Fans Are Skipping the World Cup. Sponsors Aren’t Worried.",
-          "url": "https://www.adweek.com/brand-marketing/foreign-fans-are-skipping-the-world-cup-sponsors-arent-worried/",
-          "postedAt": "2026-06-04T06:00:00.000Z"
-        },
-        {
-          "id": "om_212c06e95e",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Benchmark raises its first-ever growth fund as part of $2B capital haul",
-          "url": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
-          "postedAt": "2026-06-04T03:52:15.000Z"
-        },
-        {
-          "id": "om_b71fc616b0",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Quick commerce FirstClub doubles valuation to $255M in nine months",
-          "url": "https://techcrunch.com/2026/06/03/firstclub-doubles-valuation-to-255m-in-nine-months-on-quality-first-grocery-bet/",
-          "postedAt": "2026-06-04T00:30:00.000Z"
-        },
-        {
-          "id": "om_711e87a350",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok launches separate event-based app",
-          "url": "https://www.socialmediatoday.com/news/tiktok-launches-separate-event-based-app/821953/",
-          "postedAt": "2026-06-03T21:06:37.000Z"
-        },
-        {
-          "id": "om_ef663d3cd1",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Substack’s new ‘Reply Rules’ feature lets creators control how people respond",
-          "url": "https://techcrunch.com/2026/06/03/substacks-new-reply-rules-feature-lets-creators-control-how-people-respond/",
-          "postedAt": "2026-06-03T19:08:55.000Z"
-        },
-        {
-          "id": "om_7bcbad427f",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Ultrahuman says hackers accessed customers’ wellness data via internal tool",
-          "url": "https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/",
-          "postedAt": "2026-06-03T17:30:52.000Z"
-        },
-        {
-          "id": "om_feabb9ed89",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Steph Curry trades Under Armour partnership for a deal with Li-Ning",
-          "url": "https://www.retaildive.com/news/steph-curry-signs-li-ning-partnership-under-armour/821863/",
-          "postedAt": "2026-06-03T16:07:00.000Z"
-        },
-        {
-          "id": "om_8304c9a50a",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Macy’s revamped half its stores and customers followed",
-          "url": "https://www.retaildive.com/news/macys-revamped-store-fleet-customers-followed-q1-earnings-growth/821844/",
-          "postedAt": "2026-06-03T15:49:00.000Z"
-        },
-        {
-          "id": "om_fbc9077404",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Ulta’s prestige beauty shines despite consumer pressure",
-          "url": "https://www.retaildive.com/news/ulta-prestige-beauty-growth-consumer-pressure-nyc-store-q1-earnings/821860/",
-          "postedAt": "2026-06-03T15:44:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-04T15:42:43.120Z",
+      "lastUpdated": "2026-06-05T04:46:05.011Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
