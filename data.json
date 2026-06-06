@@ -227,6 +227,87 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_37909c7b9a",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "《图解Skill》需要复制粘贴的内容基本都在 GitHub Repo，包括一些我之前没开源的自己用的 Skills，比如从播客文字稿生成访谈稿的 Skill，理论上来说你不买书也可...",
+          "url": "https://x.com/dotey/status/2063107627744145812",
+          "postedAt": "2026-06-06T03:56:03.000Z"
+        },
+        {
+          "id": "vc_dotey_3a8c1effaf",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Codex 里面可以 Review 代码的修改（比如选择Last turn就是上一次 AI 更改的），然后可以对部分内容进行评论，评论的内容会直接附加在左侧的会话内，提交就可以...",
+          "url": "https://x.com/dotey/status/2063104010148557018",
+          "postedAt": "2026-06-06T03:41:41.000Z"
+        },
+        {
+          "id": "vc_gdb_0b8c7ecfaf",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "so much more fun to use a computer via codex",
+          "url": "https://x.com/gdb/status/2063102501847757197",
+          "postedAt": "2026-06-06T03:35:41.000Z"
+        },
+        {
+          "id": "vc_dotey_a482f2d932",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "我比你还惨，给几家 AI 公司做牛做马 既怕 Token 不够用，又怕 Token 没用完！",
+          "url": "https://x.com/dotey/status/2063079705956237316",
+          "postedAt": "2026-06-06T02:05:06.000Z"
+        },
+        {
+          "id": "vc_gdb_a98efa6b20",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "email integration with chatgpt",
+          "url": "https://x.com/gdb/status/2063056196735504796",
+          "postedAt": "2026-06-06T00:31:41.000Z"
+        },
+        {
+          "id": "vc_dotey_9ceb560dd2",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "现在 Codex 的设置已经多到要靠搜索来解决了。 但是作为一个成熟的 Agent，难道交互不应该是在 Chat 里面说一句：“Hey Codex，帮我修改一下 XX 设置”？",
+          "url": "https://x.com/dotey/status/2062988578393628724",
+          "postedAt": "2026-06-05T20:03:00.000Z"
+        },
+        {
+          "id": "vc_dotey_014e2c8de5",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Cursor 也支持在浏览器端标记 UI 了，这样修改 UI 起来就方便多了",
+          "url": "https://x.com/dotey/status/2062958132758708253",
+          "postedAt": "2026-06-05T18:02:01.000Z"
+        },
+        {
+          "id": "vc_steipete_4d2aa236e9",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Y Combinator: We're excited to announce Peter Steinberger as a speaker at Startup School 2026! @steipete is the creator of OpenClaw, the open-sourc...",
+          "url": "https://x.com/steipete/status/2062998730446696867",
+          "postedAt": "2026-06-05T17:00:00.000Z"
+        },
+        {
+          "id": "vc_sama_a679775c03",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "RT Nikolay Savinov: Excited to share that I’ve joined OpenAI in London to work on pretraining! I’ve spent the last few years on pretraining and long...",
+          "url": "https://x.com/sama/status/2063077418748002510",
+          "postedAt": "2026-06-05T15:44:51.000Z"
+        },
+        {
           "id": "vc_steipete_91d5842312",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -243,15 +324,6 @@
           "title": "RT Hung Vinh: It's a crime that this repo only has under 400 stars. /autoreview and /handoff are literally two of the best agent skills I've ever used...",
           "url": "https://x.com/steipete/status/2062876009872187400",
           "postedAt": "2026-06-05T07:51:12.000Z"
-        },
-        {
-          "id": "vc_dotey_3732b68276",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 小互: 兄弟们，福利来了 宝玉老师 @dotey 不是写了一本新书《图解Skill》嘛 非常不错，我的很多技能也是和宝玉老师学习的 本质分享开源的思想，今天开始我也...",
-          "url": "https://x.com/dotey/status/2062787401001365530",
-          "postedAt": "2026-06-05T06:35:03.000Z"
         },
         {
           "id": "vc_Khazix0918_cf1bfa1c13",
@@ -308,51 +380,6 @@
           "postedAt": "2026-06-04T22:17:41.000Z"
         },
         {
-          "id": "vc_steipete_196637cf7a",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Chris: Wait, this is actually a goated memory update, why isn’t anyone talking about this? Claude has “Dreams” in its agent/API stack, but OpenA...",
-          "url": "https://x.com/steipete/status/2062889321779408911",
-          "postedAt": "2026-06-04T22:01:36.000Z"
-        },
-        {
-          "id": "vc_dotey_a567abc122",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "做一个非官方的 X 客户端是有风险的事，我当然不会乱发 API 请求，但是保不准写出 Bug 来发了一坨请求而不自知被封号了就不合算了，优先开发个 Debug 工具，可以...",
-          "url": "https://x.com/dotey/status/2062639853305569288",
-          "postedAt": "2026-06-04T20:57:17.000Z"
-        },
-        {
-          "id": "vc_dotey_9baddbec42",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "产品设计的重要性：）",
-          "url": "https://x.com/dotey/status/2062593766658015636",
-          "postedAt": "2026-06-04T17:54:09.000Z"
-        },
-        {
-          "id": "vc_dotey_f6cabbd393",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "如果有条件的话，选你能用的上的最聪明的 2-3 个就够了。只有你很在乎成本的情况下或者要做一些研究工作，才需要去使用其他便宜些的模型。 再聪明的模型一个也不...",
-          "url": "https://x.com/dotey/status/2062586895779946817",
-          "postedAt": "2026-06-04T17:26:51.000Z"
-        },
-        {
-          "id": "vc_dotey_2b00c48bb7",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "我知道的所有做AI Agent的团队都很拼，不是老板逼着的，是为了心中理想，所以心甘情愿加班和搞封闭开发👍 有点我好奇的是：Kimi 团队在开发 Kimi Code 的时候...",
-          "url": "https://x.com/dotey/status/2062583066594287901",
-          "postedAt": "2026-06-04T17:11:38.000Z"
-        },
-        {
           "id": "vc_gdb_0b4ec2d0ae",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -378,37 +405,10 @@
           "title": "We've put out a blueprint for democratic governance of frontier AI, and how America can build durable institutions for frontier AI safety:",
           "url": "https://x.com/gdb/status/2062259921664835833",
           "postedAt": "2026-06-03T19:47:34.000Z"
-        },
-        {
-          "id": "vc_sama_4ffcfdcc6f",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "RT OpenAI: It's time to fly.",
-          "url": "https://x.com/sama/status/2062587844338561351",
-          "postedAt": "2026-06-03T19:05:25.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_0d19c9cb56",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "分享一个让Agent额度翻倍的小技巧。 之前发Codex教程的时候，评论区有一条留言被顶到了最高赞，是一个关于5小时额度窗口的小技巧。 然后发现很多朋友都说第一次...",
-          "url": "https://x.com/Khazix0918/status/2062103999839707188",
-          "postedAt": "2026-06-03T09:28:00.000Z"
-        },
-        {
-          "id": "vc_gdb_fe3b8d759e",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "codex for computer work is growing very fast",
-          "url": "https://x.com/gdb/status/2062080673632895138",
-          "postedAt": "2026-06-03T07:55:18.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-05T15:27:38.982Z",
+      "lastUpdated": "2026-06-06T04:19:43.132Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-05T15:27:40.293Z",
+      "lastUpdated": "2026-06-06T04:19:44.725Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,38 @@
       },
       "articles": [
         {
+          "id": "om_47e0f9e01e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Torrid heads to the post office, mall to woo customers",
+          "url": "https://www.retaildive.com/news/torrid-mail-mall-customer-acquisition-reactivation-q1-earnings/822120/",
+          "postedAt": "2026-06-05T16:59:00.000Z"
+        },
+        {
+          "id": "om_36db77c8d2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: Nike’s reality check, GameStop’s record earnings",
+          "url": "https://www.retaildive.com/news/nike-guidance-reality-check-gamestop-highest-quarterly-net-income/822081/",
+          "postedAt": "2026-06-05T16:22:00.000Z"
+        },
+        {
+          "id": "om_7fb75f5a91",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart extends into restaurant delivery with Subway deal",
+          "url": "https://www.retaildive.com/news/walmart-restaurant-delivery-subway/822125/",
+          "postedAt": "2026-06-05T16:09:00.000Z"
+        },
+        {
+          "id": "om_55a6e0f73c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The World Cup Is Back, But U.S. Brands Are Still Lost in Translation",
+          "url": "https://www.adweek.com/media/the-world-cup-is-back-but-us-brands-are-still-lost-in-translation/",
+          "postedAt": "2026-06-05T14:03:41.000Z"
+        },
+        {
           "id": "om_2f022af71e",
           "source": "Marketing Dive",
           "lang": "en",
@@ -707,6 +739,14 @@
           "title": "'Funding joy': How NYC Pride planned for another year of reduced corporate allyship",
           "url": "https://www.marketingbrew.com/stories/funding-joy-how-nyc-pride-planned-for-another-year-of-reduced-corporate-allyship?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-06-05T12:13:15.000Z"
+        },
+        {
+          "id": "om_bb73d71ebe",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Oura’s CMO Took It From Sleep Tracker to Wellness Disruptor",
+          "url": "https://www.adweek.com/brand-marketing/how-ouras-cmo-took-it-from-sleep-tracker-to-wellness-disruptor/",
+          "postedAt": "2026-06-05T11:41:38.000Z"
         },
         {
           "id": "om_080fd3840c",
@@ -805,56 +845,16 @@
           "postedAt": "2026-06-04T17:00:00.000Z"
         },
         {
-          "id": "om_0907209d74",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Meta rolls out a new AI creator assistant on Facebook",
-          "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-          "postedAt": "2026-06-04T16:32:48.000Z"
-        },
-        {
           "id": "om_110630c693",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Target Circle Deal Days kicks off in June",
           "url": "https://www.retaildive.com/news/target-circle-deal-days-june/821997/",
           "postedAt": "2026-06-04T16:07:00.000Z"
-        },
-        {
-          "id": "om_389ef538df",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside imaging company Prenuvo’s creator strategy",
-          "url": "https://www.marketingbrew.com/stories/inside-prenuvos-influencer-strategy-how-the-imaging-company-works-with-celebrities-and-influencers-to-promote-proactive-healthcare?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-04T16:00:00.000Z"
-        },
-        {
-          "id": "om_77ddf028ed",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Retailers turn to AI for productivity, personalized shopping",
-          "url": "https://www.retaildive.com/news/gap-best-buy-dicks-retailers-ai-personalization/821843/",
-          "postedAt": "2026-06-04T15:50:00.000Z"
-        },
-        {
-          "id": "om_79ec307f5b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "QVC celebrates 40th anniversary with TikTok Shop event",
-          "url": "https://www.retaildive.com/news/qvc-40th-anniversary-tiktok-shop-super-brand-day/821814/",
-          "postedAt": "2026-06-04T15:33:00.000Z"
-        },
-        {
-          "id": "om_2ca0e72041",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Five Below nixes ‘Five Beyond’ store section",
-          "url": "https://www.retaildive.com/news/five-below-nixes-five-beyond-store-section-squishy-dumpling/821978/",
-          "postedAt": "2026-06-04T15:07:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-05T15:27:41.820Z",
+      "lastUpdated": "2026-06-06T04:19:47.423Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
