@@ -227,6 +227,15 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_4b75458ce7",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT josh avant: life update: i've joined the @openclaw foundation as member of technical staff. i couldn't be more excited to be working alongside some...",
+          "url": "https://x.com/steipete/status/2063242172107993240",
+          "postedAt": "2026-06-06T10:50:01.000Z"
+        },
+        {
           "id": "vc_dotey_37909c7b9a",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -254,6 +263,15 @@
           "postedAt": "2026-06-06T03:35:41.000Z"
         },
         {
+          "id": "vc_steipete_5fadb25da0",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT josh avant: Do I know any passionate Android maintainers? We could use the help on OpenClaw. Grab the repo, start PRing, and drop into #clawtributo...",
+          "url": "https://x.com/steipete/status/2063255157648081133",
+          "postedAt": "2026-06-06T02:56:33.000Z"
+        },
+        {
           "id": "vc_dotey_a482f2d932",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -270,6 +288,33 @@
           "title": "email integration with chatgpt",
           "url": "https://x.com/gdb/status/2063056196735504796",
           "postedAt": "2026-06-06T00:31:41.000Z"
+        },
+        {
+          "id": "vc_steipete_283dbf1b5e",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Christoph Nakazawa: The answer to receiving more contributions with agents is not going closed source, it's using more agents to maintain it. Hard ...",
+          "url": "https://x.com/steipete/status/2063145331764662654",
+          "postedAt": "2026-06-05T23:01:02.000Z"
+        },
+        {
+          "id": "vc_steipete_315f8e7ff6",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Jen Zhu: Massive output uptick due to agentic AI. Complete flat adoption.",
+          "url": "https://x.com/steipete/status/2063255145480405003",
+          "postedAt": "2026-06-05T22:58:19.000Z"
+        },
+        {
+          "id": "vc_steipete_ff768c3a39",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Scott Hanselman 🌮: VibeOS - Fully Hallucinated Operating System from Microsoft BUILD #msbuild by @stevensanderson (genius) (relax, it's a joke)",
+          "url": "https://x.com/steipete/status/2063144775679725842",
+          "postedAt": "2026-06-05T21:01:49.000Z"
         },
         {
           "id": "vc_dotey_9ceb560dd2",
@@ -290,15 +335,6 @@
           "postedAt": "2026-06-05T18:02:01.000Z"
         },
         {
-          "id": "vc_steipete_4d2aa236e9",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Y Combinator: We're excited to announce Peter Steinberger as a speaker at Startup School 2026! @steipete is the creator of OpenClaw, the open-sourc...",
-          "url": "https://x.com/steipete/status/2062998730446696867",
-          "postedAt": "2026-06-05T17:00:00.000Z"
-        },
-        {
           "id": "vc_sama_a679775c03",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -308,24 +344,6 @@
           "postedAt": "2026-06-05T15:44:51.000Z"
         },
         {
-          "id": "vc_steipete_91d5842312",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Charlie Marsh: Ladybird is no longer accepting public pull requests. I don't know what to do about it yet, but the dynamics of open source are chan...",
-          "url": "https://x.com/steipete/status/2062913598511624547",
-          "postedAt": "2026-06-05T14:53:45.000Z"
-        },
-        {
-          "id": "vc_steipete_51373998f3",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Hung Vinh: It's a crime that this repo only has under 400 stars. /autoreview and /handoff are literally two of the best agent skills I've ever used...",
-          "url": "https://x.com/steipete/status/2062876009872187400",
-          "postedAt": "2026-06-05T07:51:12.000Z"
-        },
-        {
           "id": "vc_Khazix0918_cf1bfa1c13",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -333,24 +351,6 @@
           "title": "http://x.com/i/article/2062721652467941376",
           "url": "https://x.com/Khazix0918/status/2062731170337763796",
           "postedAt": "2026-06-05T03:00:09.000Z"
-        },
-        {
-          "id": "vc_steipete_4f6f086683",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Omar Shahine: Last night at the @github office, I had the opportunity to host a fireside chat with Peter Steinberger and Dave Morin and chat about ...",
-          "url": "https://x.com/steipete/status/2062879316409769993",
-          "postedAt": "2026-06-05T02:07:42.000Z"
-        },
-        {
-          "id": "vc_steipete_08adec2198",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Corey Quinn: Asking your competitors to pause development right after you file your S-1 is the single most effective moat-building exercise I've se...",
-          "url": "https://x.com/steipete/status/2062886233144283390",
-          "postedAt": "2026-06-05T00:59:27.000Z"
         },
         {
           "id": "vc_sama_d80cce15c0",
@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-06T04:19:43.132Z",
+      "lastUpdated": "2026-06-06T14:07:32.897Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-06T04:19:44.725Z",
+      "lastUpdated": "2026-06-06T14:07:34.122Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -692,6 +692,14 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_856df43b35",
+          "source": "Wired",
+          "lang": "en",
+          "title": "‘It’s Not a Joke’: A ‘Simpsons’ Writer Holds His First Presidential Campaign Rally",
+          "url": "https://www.wired.com/story/simpsons-writer-dan-greaney-holds-his-first-presidential-campaign-rally/",
+          "postedAt": "2026-06-06T09:00:00.000Z"
+        },
         {
           "id": "om_47e0f9e01e",
           "source": "Retail Dive",
@@ -843,18 +851,10 @@
           "title": "Sociable: Reddit expands Shopify integration access globally",
           "url": "https://www.marketingdive.com/news/sociable-reddit-expands-shopify-integration-access-globally/822011/",
           "postedAt": "2026-06-04T17:00:00.000Z"
-        },
-        {
-          "id": "om_110630c693",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target Circle Deal Days kicks off in June",
-          "url": "https://www.retaildive.com/news/target-circle-deal-days-june/821997/",
-          "postedAt": "2026-06-04T16:07:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-06T04:19:47.423Z",
+      "lastUpdated": "2026-06-06T14:07:36.339Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
