@@ -227,31 +227,103 @@
       ],
       "articles": [
         {
-          "id": "vc_steipete_4b75458ce7",
+          "id": "vc_dotey_f5a258a8bf",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "对比一下 GPT-5.5 的设计效果和 Opus 4.8 的设计效果 我真不是尬黑 GPT-5.5，我这种审美水平都能看出来差距 使用 Skill：https://github.com/JimLiu/baoyu-desig...",
+          "url": "https://x.com/dotey/status/2063464057647075379",
+          "postedAt": "2026-06-07T03:32:23.000Z"
+        },
+        {
+          "id": "vc_dotey_4cfc13fbb5",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Cursor's new browser + element annotation turns it into a design studio. Meet Cursor Design 🎨 — Claude Design, running locally. Describe a screen ...",
+          "url": "https://x.com/dotey/status/2063448680808452573",
+          "postedAt": "2026-06-07T02:31:17.000Z"
+        },
+        {
+          "id": "vc_dotey_16d13ae6b8",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Here are 8 brilliant product design tips straight from Claude Design. Simple, profound, and essential for every creator and builder: 1. A prototype no...",
+          "url": "https://x.com/dotey/status/2063444443991097775",
+          "postedAt": "2026-06-07T02:14:27.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_4a1ae64074",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Really enjoyed this talk! The value of static content is going down, the value of live interaction is going up People want to connect with the human b...",
+          "url": "https://x.com/zarazhangrui/status/2063391758189572266",
+          "postedAt": "2026-06-06T22:45:05.000Z"
+        },
+        {
+          "id": "vc_dotey_39c28d96f9",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Claude Desktop 的人一定是有超大显示屏，所以设计出来的 Side chat 才这么袖珍！根本没法好好浏览，甚至内容都无法直接复制出来！",
+          "url": "https://x.com/dotey/status/2063374139826565180",
+          "postedAt": "2026-06-06T21:35:05.000Z"
+        },
+        {
+          "id": "vc_steipete_a1b80e0cc8",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "RT josh avant: life update: i've joined the @openclaw foundation as member of technical staff. i couldn't be more excited to be working alongside some...",
-          "url": "https://x.com/steipete/status/2063242172107993240",
-          "postedAt": "2026-06-06T10:50:01.000Z"
+          "title": "RT Ivan Kuznetsov: Re I've just implemented Patrol: a self-improvement loop that slices the repo and looks for issues to fix. I got the idea from http...",
+          "url": "https://x.com/steipete/status/2063340221660545507",
+          "postedAt": "2026-06-06T18:47:14.000Z"
         },
         {
-          "id": "vc_dotey_37909c7b9a",
+          "id": "vc_steipete_5572c3b8ea",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Corey Quinn: Is this why Claude keeps saying it’s time to stop working?",
+          "url": "https://x.com/steipete/status/2063453905741398461",
+          "postedAt": "2026-06-06T18:29:04.000Z"
+        },
+        {
+          "id": "vc_steipete_53dd979fcb",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Vincent Koc: 2 months ago i gave a wake up call to engineers. Some thought i was gloating about tokenmaxxing. But the acceleration is real. I gave ...",
+          "url": "https://x.com/steipete/status/2063331695286469047",
+          "postedAt": "2026-06-06T17:57:15.000Z"
+        },
+        {
+          "id": "vc_dotey_cd29c851f4",
           "source": "dotey",
           "sourceName": "宝玉",
           "platform": "x",
-          "title": "《图解Skill》需要复制粘贴的内容基本都在 GitHub Repo，包括一些我之前没开源的自己用的 Skills，比如从播客文字稿生成访谈稿的 Skill，理论上来说你不买书也可...",
-          "url": "https://x.com/dotey/status/2063107627744145812",
-          "postedAt": "2026-06-06T03:56:03.000Z"
+          "title": "审美 Claude opus 4.8 > GPT 5，设计相关任务还是得 Opus",
+          "url": "https://x.com/dotey/status/2063314623613337822",
+          "postedAt": "2026-06-06T17:38:35.000Z"
         },
         {
-          "id": "vc_dotey_3a8c1effaf",
-          "source": "dotey",
-          "sourceName": "宝玉",
+          "id": "vc_steipete_ac8f59ad46",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "Codex 里面可以 Review 代码的修改（比如选择Last turn就是上一次 AI 更改的），然后可以对部分内容进行评论，评论的内容会直接附加在左侧的会话内，提交就可以...",
-          "url": "https://x.com/dotey/status/2063104010148557018",
-          "postedAt": "2026-06-06T03:41:41.000Z"
+          "title": "RT Armin Ronacher ⇌: Some weekend thoughts of recent mob behaviors. https://lucumr.pocoo.org/2026/6/6/communities-of-not/",
+          "url": "https://x.com/steipete/status/2063335000200909230",
+          "postedAt": "2026-06-06T15:24:51.000Z"
+        },
+        {
+          "id": "vc_steipete_44db5e85af",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT jason: Me looking at modern GitHub code review bots and then looking at whatever @steipete build in 5 days.",
+          "url": "https://x.com/steipete/status/2063340665623421180",
+          "postedAt": "2026-06-06T14:45:59.000Z"
         },
         {
           "id": "vc_gdb_0b8c7ecfaf",
@@ -263,24 +335,6 @@
           "postedAt": "2026-06-06T03:35:41.000Z"
         },
         {
-          "id": "vc_steipete_5fadb25da0",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT josh avant: Do I know any passionate Android maintainers? We could use the help on OpenClaw. Grab the repo, start PRing, and drop into #clawtributo...",
-          "url": "https://x.com/steipete/status/2063255157648081133",
-          "postedAt": "2026-06-06T02:56:33.000Z"
-        },
-        {
-          "id": "vc_dotey_a482f2d932",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "我比你还惨，给几家 AI 公司做牛做马 既怕 Token 不够用，又怕 Token 没用完！",
-          "url": "https://x.com/dotey/status/2063079705956237316",
-          "postedAt": "2026-06-06T02:05:06.000Z"
-        },
-        {
           "id": "vc_gdb_a98efa6b20",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -288,51 +342,6 @@
           "title": "email integration with chatgpt",
           "url": "https://x.com/gdb/status/2063056196735504796",
           "postedAt": "2026-06-06T00:31:41.000Z"
-        },
-        {
-          "id": "vc_steipete_283dbf1b5e",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Christoph Nakazawa: The answer to receiving more contributions with agents is not going closed source, it's using more agents to maintain it. Hard ...",
-          "url": "https://x.com/steipete/status/2063145331764662654",
-          "postedAt": "2026-06-05T23:01:02.000Z"
-        },
-        {
-          "id": "vc_steipete_315f8e7ff6",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Jen Zhu: Massive output uptick due to agentic AI. Complete flat adoption.",
-          "url": "https://x.com/steipete/status/2063255145480405003",
-          "postedAt": "2026-06-05T22:58:19.000Z"
-        },
-        {
-          "id": "vc_steipete_ff768c3a39",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Scott Hanselman 🌮: VibeOS - Fully Hallucinated Operating System from Microsoft BUILD #msbuild by @stevensanderson (genius) (relax, it's a joke)",
-          "url": "https://x.com/steipete/status/2063144775679725842",
-          "postedAt": "2026-06-05T21:01:49.000Z"
-        },
-        {
-          "id": "vc_dotey_9ceb560dd2",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "现在 Codex 的设置已经多到要靠搜索来解决了。 但是作为一个成熟的 Agent，难道交互不应该是在 Chat 里面说一句：“Hey Codex，帮我修改一下 XX 设置”？",
-          "url": "https://x.com/dotey/status/2062988578393628724",
-          "postedAt": "2026-06-05T20:03:00.000Z"
-        },
-        {
-          "id": "vc_dotey_014e2c8de5",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Cursor 也支持在浏览器端标记 UI 了，这样修改 UI 起来就方便多了",
-          "url": "https://x.com/dotey/status/2062958132758708253",
-          "postedAt": "2026-06-05T18:02:01.000Z"
         },
         {
           "id": "vc_sama_a679775c03",
@@ -380,6 +389,15 @@
           "postedAt": "2026-06-04T22:17:41.000Z"
         },
         {
+          "id": "vc_gdb_1f92bd2868",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "much better ChatGPT memory:",
+          "url": "https://x.com/gdb/status/2062608071411540196",
+          "postedAt": "2026-06-04T18:51:00.000Z"
+        },
+        {
           "id": "vc_gdb_0b4ec2d0ae",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -387,28 +405,10 @@
           "title": "Major upgrade to GPT-Rosalind, with much better intelligence for drug discovery, analysis, design, and experimental workflows:",
           "url": "https://x.com/gdb/status/2062292268602773747",
           "postedAt": "2026-06-03T21:56:07.000Z"
-        },
-        {
-          "id": "vc_gdb_dabcf696c8",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "fly with codex",
-          "url": "https://x.com/gdb/status/2062279597149061564",
-          "postedAt": "2026-06-03T21:05:45.000Z"
-        },
-        {
-          "id": "vc_gdb_cd214c3c2a",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "We've put out a blueprint for democratic governance of frontier AI, and how America can build durable institutions for frontier AI safety:",
-          "url": "https://x.com/gdb/status/2062259921664835833",
-          "postedAt": "2026-06-03T19:47:34.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-06T14:07:32.897Z",
+      "lastUpdated": "2026-06-07T04:55:34.285Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_b5b507502a",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: Bootstrapping vs. raising funding, building the roadmap of your vibe-coded app, AI agents and data integrity, your first project as an APM, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-bootstrapping-vs",
+          "postedAt": "2026-06-06T17:14:54.000Z"
+        },
         {
           "id": "en_pod_the_knowledge_project_22af2bbf42",
           "source": "The Knowledge Project",
@@ -542,14 +550,6 @@
           "topic": "🎙️ How I AI: How the engineer behind Claude Cowork actually uses Claude Cowork & What launched at Google I/O 2026",
           "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind",
           "postedAt": "2026-05-25T15:02:59.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_4013f56bf6",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How the engineer behind Claude Cowork actually uses Claude | Felix Rieseberg (Anthropic)",
-          "url": "https://www.lennysnewsletter.com/p/how-the-engineer-behind-claude-cowork",
-          "postedAt": "2026-05-25T12:03:53.000Z"
         }
       ],
       "books": [
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-06T14:07:34.122Z",
+      "lastUpdated": "2026-06-07T04:55:35.488Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -854,7 +854,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-06T14:07:36.339Z",
+      "lastUpdated": "2026-06-07T04:55:37.168Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
