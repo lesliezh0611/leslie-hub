@@ -227,31 +227,112 @@
       ],
       "articles": [
         {
-          "id": "vc_dotey_acf5c989d0",
-          "source": "dotey",
-          "sourceName": "宝玉",
+          "id": "vc_Khazix0918_a412a38209",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
           "platform": "x",
-          "title": "RT 导演BK｜专注游戏纪录片: 这一段剧情的节奏设计也很不错，让我对这个游戏的幕后制作人员产生了兴趣",
-          "url": "https://x.com/dotey/status/2063516317785764345",
-          "postedAt": "2026-06-07T06:38:06.000Z"
+          "title": "http://x.com/i/article/2063827681960235009",
+          "url": "https://x.com/Khazix0918/status/2063842283502686599",
+          "postedAt": "2026-06-08T04:35:19.000Z"
         },
         {
-          "id": "vc_dotey_4cfc13fbb5",
+          "id": "vc_dotey_1efa2f6a76",
           "source": "dotey",
           "sourceName": "宝玉",
           "platform": "x",
-          "title": "Cursor's new browser + element annotation turns it into a design studio. Meet Cursor Design 🎨 — Claude Design, running locally. Describe a screen ...",
-          "url": "https://x.com/dotey/status/2063448680808452573",
-          "postedAt": "2026-06-07T02:31:17.000Z"
+          "title": "长时间运行 Agent，Agent 能自行验证才是关键，否则可能只是浪费 Token",
+          "url": "https://x.com/dotey/status/2063800780050608603",
+          "postedAt": "2026-06-08T01:50:24.000Z"
         },
         {
-          "id": "vc_dotey_16d13ae6b8",
+          "id": "vc_dotey_1ef4c89539",
           "source": "dotey",
           "sourceName": "宝玉",
           "platform": "x",
-          "title": "Here are 8 brilliant product design tips straight from Claude Design. Simple, profound, and essential for every creator and builder: 1. A prototype no...",
-          "url": "https://x.com/dotey/status/2063444443991097775",
-          "postedAt": "2026-06-07T02:14:27.000Z"
+          "title": "RT 象牙山刘能: 在AI时代，每个程序员都活成了自己最讨厌的那种 team leader： 1. 半年不写一行代码，编程能力严重退化，还自诩\"我也是搞技术的“ 2. 开会的时候...",
+          "url": "https://x.com/dotey/status/2063821281858867342",
+          "postedAt": "2026-06-08T01:00:50.000Z"
+        },
+        {
+          "id": "vc_gdb_914447a4dc",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "interesting",
+          "url": "https://x.com/gdb/status/2063786462647079408",
+          "postedAt": "2026-06-08T00:53:30.000Z"
+        },
+        {
+          "id": "vc_sama_e49be0b8ca",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "interesting recursive loop here maybe",
+          "url": "https://x.com/sama/status/2063779477419901071",
+          "postedAt": "2026-06-08T00:25:45.000Z"
+        },
+        {
+          "id": "vc_dotey_3efaf8a7d7",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Claude Code 虽然移动端可以 remote control，但是 plan 后不能 bypass permission，需要不停的确认，神烦",
+          "url": "https://x.com/dotey/status/2063758466573795692",
+          "postedAt": "2026-06-07T23:02:15.000Z"
+        },
+        {
+          "id": "vc_steipete_806c05d273",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Tibo: I have a new kind of big button that I can press for Codex. Over the next 100 days, we will select one person per day who does impressive or ...",
+          "url": "https://x.com/steipete/status/2063781015970292067",
+          "postedAt": "2026-06-07T22:21:38.000Z"
+        },
+        {
+          "id": "vc_steipete_bbc916e121",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Here’s your monthly reminder that you shouldn’t be prompting coding agents anymore. You should be designing loops that prompt your agents.",
+          "url": "https://x.com/steipete/status/2063697162748260627",
+          "postedAt": "2026-06-07T18:58:39.000Z"
+        },
+        {
+          "id": "vc_dotey_85398899e4",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "ChatGPT 要变 AgentGPT 了 当然 ChatGPT 应该不会改名字，但 ChatGPT 应该不再是一个单纯的 Chat 工具了。 OpenAI 内部一位高管对《金融时报》说：\"Chat is dead...",
+          "url": "https://x.com/dotey/status/2063686036895478162",
+          "postedAt": "2026-06-07T18:14:27.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_b20e07d5d0",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "I think one reason that my Frontend Slides skill has grown so much organically is because slides are inherently social People see these cool slides an...",
+          "url": "https://x.com/zarazhangrui/status/2063638307586662539",
+          "postedAt": "2026-06-07T15:04:47.000Z"
+        },
+        {
+          "id": "vc_dotey_0c55ef5a09",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "这个确实，Deep Research 方面 Claude 做的不怎么样，ChatGPT 的 DeepResearch 做的最好，Gemini 也不错，胜在搜索能力强，通常我会用 ChatGPT 和 Gemini 一起做...",
+          "url": "https://x.com/dotey/status/2063629577495167436",
+          "postedAt": "2026-06-07T14:30:06.000Z"
+        },
+        {
+          "id": "vc_gdb_9e03ec6f73",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Whenever I don’t use codex for a task, I ask myself why and usually realize that there’s some missing context, I needed to write a skill, or I just ...",
+          "url": "https://x.com/gdb/status/2063437915347136554",
+          "postedAt": "2026-06-07T01:48:30.000Z"
         },
         {
           "id": "vc_zarazhangrui_4a1ae64074",
@@ -261,15 +342,6 @@
           "title": "Really enjoyed this talk! The value of static content is going down, the value of live interaction is going up People want to connect with the human b...",
           "url": "https://x.com/zarazhangrui/status/2063391758189572266",
           "postedAt": "2026-06-06T22:45:05.000Z"
-        },
-        {
-          "id": "vc_dotey_39c28d96f9",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Claude Desktop 的人一定是有超大显示屏，所以设计出来的 Side chat 才这么袖珍！根本没法好好浏览，甚至内容都无法直接复制出来！",
-          "url": "https://x.com/dotey/status/2063374139826565180",
-          "postedAt": "2026-06-06T21:35:05.000Z"
         },
         {
           "id": "vc_steipete_a1b80e0cc8",
@@ -297,33 +369,6 @@
           "title": "RT Vincent Koc: 2 months ago i gave a wake up call to engineers. Some thought i was gloating about tokenmaxxing. But the acceleration is real. I gave ...",
           "url": "https://x.com/steipete/status/2063331695286469047",
           "postedAt": "2026-06-06T17:57:15.000Z"
-        },
-        {
-          "id": "vc_dotey_cd29c851f4",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "审美 Claude opus 4.8 > GPT 5，设计相关任务还是得 Opus",
-          "url": "https://x.com/dotey/status/2063314623613337822",
-          "postedAt": "2026-06-06T17:38:35.000Z"
-        },
-        {
-          "id": "vc_steipete_ac8f59ad46",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Armin Ronacher ⇌: Some weekend thoughts of recent mob behaviors. https://lucumr.pocoo.org/2026/6/6/communities-of-not/",
-          "url": "https://x.com/steipete/status/2063335000200909230",
-          "postedAt": "2026-06-06T15:24:51.000Z"
-        },
-        {
-          "id": "vc_steipete_44db5e85af",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT jason: Me looking at modern GitHub code review bots and then looking at whatever @steipete build in 5 days.",
-          "url": "https://x.com/steipete/status/2063340665623421180",
-          "postedAt": "2026-06-06T14:45:59.000Z"
         },
         {
           "id": "vc_gdb_0b8c7ecfaf",
@@ -360,55 +405,10 @@
           "title": "http://x.com/i/article/2062721652467941376",
           "url": "https://x.com/Khazix0918/status/2062731170337763796",
           "postedAt": "2026-06-05T03:00:09.000Z"
-        },
-        {
-          "id": "vc_sama_d80cce15c0",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "man the early days of the internet were so special",
-          "url": "https://x.com/sama/status/2062661191969972645",
-          "postedAt": "2026-06-04T22:22:05.000Z"
-        },
-        {
-          "id": "vc_sama_ba5951500a",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "build and publish web apps with chatgpt! i really wish i had this when i was a kid, but i do miss hypercard.",
-          "url": "https://x.com/sama/status/2062661071761211561",
-          "postedAt": "2026-06-04T22:21:36.000Z"
-        },
-        {
-          "id": "vc_sama_24f1d7b33f",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "big upgrade to chatgpt memory rolling out today!",
-          "url": "https://x.com/sama/status/2062660086787613116",
-          "postedAt": "2026-06-04T22:17:41.000Z"
-        },
-        {
-          "id": "vc_gdb_1f92bd2868",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "much better ChatGPT memory:",
-          "url": "https://x.com/gdb/status/2062608071411540196",
-          "postedAt": "2026-06-04T18:51:00.000Z"
-        },
-        {
-          "id": "vc_gdb_0b4ec2d0ae",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Major upgrade to GPT-Rosalind, with much better intelligence for drug discovery, analysis, design, and experimental workflows:",
-          "url": "https://x.com/gdb/status/2062292268602773747",
-          "postedAt": "2026-06-03T21:56:07.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-07T14:19:36.950Z",
+      "lastUpdated": "2026-06-08T05:01:00.513Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -512,14 +512,6 @@
           "postedAt": "2026-05-30T16:43:36.000Z"
         },
         {
-          "id": "en_pod_lex_fridman_podcast_bc3f4fb2e4",
-          "source": "Lex Fridman Podcast",
-          "platform": "podcast",
-          "topic": "#497 – Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE – Don Lincoln",
-          "url": "https://lexfridman.com/don-lincoln/?utm_source=rss&utm_medium=rss&utm_campaign=don-lincoln",
-          "postedAt": "2026-05-29T16:22:02.000Z"
-        },
-        {
           "id": "en_pod_lenny_s_podcast_a54a4ea2d7",
           "source": "Lenny's Podcast",
           "platform": "newsletter",
@@ -600,10 +592,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-07T14:19:38.807Z",
+      "lastUpdated": "2026-06-08T05:01:09.786Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -692,6 +684,14 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_94ed59667f",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Halo: Campaign Evolved arrives July 28th",
+          "url": "https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026",
+          "postedAt": "2026-06-07T18:45:06.000Z"
+        },
         {
           "id": "om_fe8993d136",
           "source": "Wired",
@@ -813,14 +813,6 @@
           "postedAt": "2026-06-04T20:31:42.000Z"
         },
         {
-          "id": "om_ab996c1697",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "AI ‘content creators’ are getting harder to spot",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
-          "postedAt": "2026-06-04T18:31:15.000Z"
-        },
-        {
           "id": "om_a129e2535c",
           "source": "Marketing Dive",
           "lang": "en",
@@ -837,24 +829,24 @@
           "postedAt": "2026-06-04T17:34:43.000Z"
         },
         {
-          "id": "om_62f14d0b55",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Walmart Enters Restaurant Delivery With 1,400 Subway Locations",
-          "url": "https://www.adweek.com/commerce/walmart-enters-restaurant-delivery-with-1400-subway-locations/",
-          "postedAt": "2026-06-04T17:00:00.000Z"
-        },
-        {
           "id": "om_2eaaa9154f",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Why marketers must rethink loyalty as AI reshapes consumer connections",
           "url": "https://www.marketingdive.com/news/why-marketers-must-rethink-loyalty-as-ai-reshapes-consumer-connections/822003/",
           "postedAt": "2026-06-04T17:00:00.000Z"
+        },
+        {
+          "id": "om_bb2befd262",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: Reddit expands Shopify integration access globally",
+          "url": "https://www.marketingdive.com/news/sociable-reddit-expands-shopify-integration-access-globally/822011/",
+          "postedAt": "2026-06-04T17:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-07T14:19:40.709Z",
+      "lastUpdated": "2026-06-08T05:01:11.492Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
