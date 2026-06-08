@@ -227,6 +227,15 @@
       ],
       "articles": [
         {
+          "id": "vc_Khazix0918_6e2b909245",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "最近几天，微信Agent曝光的消息越来越多了。 我简单汇总一下： 6月2日，据外媒，腾讯正在测试一款嵌入微信的AI Agent，用户在微信主界面向右滑动即可唤出Agent对...",
+          "url": "https://x.com/Khazix0918/status/2063923890272051228",
+          "postedAt": "2026-06-08T09:59:35.000Z"
+        },
+        {
           "id": "vc_Khazix0918_a412a38209",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -344,6 +353,15 @@
           "postedAt": "2026-06-06T22:45:05.000Z"
         },
         {
+          "id": "vc_steipete_7fa37939b6",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Ryan Brewer: This is an intentional decision in our products. Same thing goes for ChatGPT for Excel, Sheets and Powerpoint. If you run out of limit...",
+          "url": "https://x.com/steipete/status/2063888456963821650",
+          "postedAt": "2026-06-06T20:09:07.000Z"
+        },
+        {
           "id": "vc_steipete_a1b80e0cc8",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -360,15 +378,6 @@
           "title": "RT Corey Quinn: Is this why Claude keeps saying it’s time to stop working?",
           "url": "https://x.com/steipete/status/2063453905741398461",
           "postedAt": "2026-06-06T18:29:04.000Z"
-        },
-        {
-          "id": "vc_steipete_53dd979fcb",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Vincent Koc: 2 months ago i gave a wake up call to engineers. Some thought i was gloating about tokenmaxxing. But the acceleration is real. I gave ...",
-          "url": "https://x.com/steipete/status/2063331695286469047",
-          "postedAt": "2026-06-06T17:57:15.000Z"
         },
         {
           "id": "vc_gdb_0b8c7ecfaf",
@@ -396,19 +405,10 @@
           "title": "RT Nikolay Savinov: Excited to share that I’ve joined OpenAI in London to work on pretraining! I’ve spent the last few years on pretraining and long...",
           "url": "https://x.com/sama/status/2063077418748002510",
           "postedAt": "2026-06-05T15:44:51.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_cf1bfa1c13",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2062721652467941376",
-          "url": "https://x.com/Khazix0918/status/2062731170337763796",
-          "postedAt": "2026-06-05T03:00:09.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-08T05:01:00.513Z",
+      "lastUpdated": "2026-06-08T16:18:20.844Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_1fb14707d9",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: Gemini Omni: Clone yourself with AI in under 15 minutes & Shopping with Claude",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-gemini-omni-clone-yourself",
+          "postedAt": "2026-06-08T15:01:21.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_ad20cc63d6",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Shopping with Claude: How to find quality brands, automate returns, and buy things that last 100 years | Nicole Ruiz",
+          "url": "https://www.lennysnewsletter.com/p/shopping-with-claude",
+          "postedAt": "2026-06-08T12:03:27.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_fd72e175df",
           "source": "Lenny's Podcast",
@@ -512,6 +528,14 @@
           "postedAt": "2026-05-30T16:43:36.000Z"
         },
         {
+          "id": "en_pod_lex_fridman_podcast_bc3f4fb2e4",
+          "source": "Lex Fridman Podcast",
+          "platform": "podcast",
+          "topic": "#497 – Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE – Don Lincoln",
+          "url": "https://lexfridman.com/don-lincoln/?utm_source=rss&utm_medium=rss&utm_campaign=don-lincoln",
+          "postedAt": "2026-05-29T16:22:02.000Z"
+        },
+        {
           "id": "en_pod_lenny_s_podcast_a54a4ea2d7",
           "source": "Lenny's Podcast",
           "platform": "newsletter",
@@ -526,22 +550,6 @@
           "topic": "Proven, Better, New: Mark Pincus on the Rules of Innovation",
           "url": "https://fs.blog/knowledge-project-podcast/mark-pincus/",
           "postedAt": "2026-05-28T09:50:00.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_179a196144",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "The Codex feature that works while you sleep",
-          "url": "https://www.lennysnewsletter.com/p/the-codex-feature-that-works-while",
-          "postedAt": "2026-05-27T12:03:47.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_275e74f41c",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Essential books for product builders—part 1",
-          "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart",
-          "postedAt": "2026-05-26T15:25:52.000Z"
         }
       ],
       "books": [
@@ -592,10 +600,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-08T05:01:09.786Z",
+      "lastUpdated": "2026-06-08T16:18:21.908Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -685,12 +693,116 @@
       },
       "articles": [
         {
-          "id": "om_94ed59667f",
-          "source": "The Verge",
+          "id": "om_c9e5fd07fe",
+          "source": "Marketing Brew",
           "lang": "en",
-          "title": "Halo: Campaign Evolved arrives July 28th",
-          "url": "https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026",
-          "postedAt": "2026-06-07T18:45:06.000Z"
+          "title": "Coworking with Romney Evans",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-romney-evans?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-08T16:10:00.000Z"
+        },
+        {
+          "id": "om_7cce8f175f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon launches AI image generator to narrow search queries",
+          "url": "https://www.retaildive.com/news/amazon-launches-ai-image-generator-search-bar-queries/822231/",
+          "postedAt": "2026-06-08T15:20:00.000Z"
+        },
+        {
+          "id": "om_1f4452a446",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "WPP puts a different type of ad talent to the test with new studio Hex",
+          "url": "https://www.marketingdive.com/news/wpp-puts-different-type-of-ad-talent-to-the-test-with-new-studio-hex/822227/",
+          "postedAt": "2026-06-08T15:08:00.000Z"
+        },
+        {
+          "id": "om_82912e623b",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why the time is now for experiential marketing — and how to get it right",
+          "url": "https://www.marketingdive.com/news/why-the-time-is-now-for-experiential-marketing-and-how-to-get-it-right/820588/",
+          "postedAt": "2026-06-08T15:00:00.000Z"
+        },
+        {
+          "id": "om_2cc07ca547",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Best Buy rolls out Meta Lab shop-in-shops",
+          "url": "https://www.retaildive.com/news/best-buy-meta-lab-shop-in-shops-open/822216/",
+          "postedAt": "2026-06-08T14:45:00.000Z"
+        },
+        {
+          "id": "om_c17c6ed7d5",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Fox One pitches itself as home of World Cup viewing for obsessive fans",
+          "url": "https://www.marketingdive.com/news/fox-one-pitches-itself-as-home-of-world-cup-viewing-for-obsessive-fans/822212/",
+          "postedAt": "2026-06-08T14:33:00.000Z"
+        },
+        {
+          "id": "om_b77afe4a9d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Delivery reliability trumps speed, Macy’s and Ulta execs say",
+          "url": "https://www.retaildive.com/news/retailer-delivery-reliability-trumps-speed-macys-ulta/822175/",
+          "postedAt": "2026-06-08T14:23:00.000Z"
+        },
+        {
+          "id": "om_e75c925f32",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "How brands are celebrating 250 years of America amid political polarization",
+          "url": "https://www.retaildive.com/news/how-brands-are-celebrating-250-years-of-america-amid-political-polarization/822176/",
+          "postedAt": "2026-06-08T13:55:00.000Z"
+        },
+        {
+          "id": "om_b0df9236b7",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why Tropicana is rejuvenating its creative but keeping the same strategy",
+          "url": "https://www.marketingdive.com/news/why-tropicana-is-rejuvenating-its-creative-but-keeping-the-same-strategy/822096/",
+          "postedAt": "2026-06-08T13:00:00.000Z"
+        },
+        {
+          "id": "om_8da1b60bd0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "EXCLUSIVE: Accenture Song Will Buy Whalar, Gaining Global Scale in Influencer Marketing",
+          "url": "https://www.adweek.com/commerce/exclusive-accenture-song-will-buywhalar-gaining-global-scale-in-influencer-marketing/",
+          "postedAt": "2026-06-08T11:15:00.000Z"
+        },
+        {
+          "id": "om_7de23c04c3",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside Nespresso’s dual-ambassador strategy",
+          "url": "https://www.marketingbrew.com/stories/nespresso-dual-ambassador-strategy-dua-lipa-george-clooney?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-08T10:00:00.000Z"
+        },
+        {
+          "id": "om_d99919d395",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How modern loyalty programs drive behavior and revenue",
+          "url": "https://www.marketingdive.com/spons/how-modern-loyalty-programs-drive-behavior-and-revenue/821396/",
+          "postedAt": "2026-06-08T09:00:00.000Z"
+        },
+        {
+          "id": "om_f32deec3bc",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Loyalty is the new growth engine and retailers are just starting to figure that out",
+          "url": "https://www.retaildive.com/spons/loyalty-is-the-new-growth-engine-and-retailers-are-just-starting-to-figure/822090/",
+          "postedAt": "2026-06-08T09:00:00.000Z"
+        },
+        {
+          "id": "om_a691ea7e90",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Agentic commerce: AI is now your shopper’s first stop. Showing up is just the beginning.",
+          "url": "https://www.retaildive.com/spons/agentic-commerce-ai-is-now-your-shoppers-first-stop-showing-up-is-just-t/821824/",
+          "postedAt": "2026-06-08T09:00:00.000Z"
         },
         {
           "id": "om_fe8993d136",
@@ -725,14 +837,6 @@
           "postedAt": "2026-06-05T16:22:00.000Z"
         },
         {
-          "id": "om_7fb75f5a91",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart extends into restaurant delivery with Subway deal",
-          "url": "https://www.retaildive.com/news/walmart-restaurant-delivery-subway/822125/",
-          "postedAt": "2026-06-05T16:09:00.000Z"
-        },
-        {
           "id": "om_55a6e0f73c",
           "source": "Adweek",
           "lang": "en",
@@ -747,106 +851,10 @@
           "title": "Campaign Trail: Coca-Cola rides a roller coaster of World Cup emotions",
           "url": "https://www.marketingdive.com/news/campaign-trail-coca-cola-rides-a-roller-coaster-of-world-cup-emotions/821781/",
           "postedAt": "2026-06-05T13:54:00.000Z"
-        },
-        {
-          "id": "om_67c8648e5a",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "'Funding joy': How NYC Pride planned for another year of reduced corporate allyship",
-          "url": "https://www.marketingbrew.com/stories/funding-joy-how-nyc-pride-planned-for-another-year-of-reduced-corporate-allyship?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-05T12:13:15.000Z"
-        },
-        {
-          "id": "om_bb73d71ebe",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Oura’s CMO Took It From Sleep Tracker to Wellness Disruptor",
-          "url": "https://www.adweek.com/brand-marketing/how-ouras-cmo-took-it-from-sleep-tracker-to-wellness-disruptor/",
-          "postedAt": "2026-06-05T11:41:38.000Z"
-        },
-        {
-          "id": "om_080fd3840c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Strategy Behind USA Today Co.’s Big Identity Shift With Kristin Roberts and Lark-Marie Anton",
-          "url": "https://www.adweek.com/brand-marketing/the-strategy-behind-usa-today-cos-big-identity-shift-with-kristin-roberts-and-lark-marie-anton/",
-          "postedAt": "2026-06-05T09:13:46.000Z"
-        },
-        {
-          "id": "om_a429a8e671",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Making Brand Magic Happen When Everyone’s Doing the Same Thing ft. Deena Bahri of Nutrafol",
-          "url": "https://www.adweek.com/brand-marketing/making-brand-magic-happen-when-everyones-doing-the-same-thing-ft-deena-bahri-of-nutrafol/",
-          "postedAt": "2026-06-05T08:57:57.000Z"
-        },
-        {
-          "id": "om_bbd0f1d6f9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Agencies Race to Snap Up Amazon and Walmart Specialists",
-          "url": "https://www.adweek.com/commerce/agencies-race-to-snap-up-amazon-and-walmart-specialists/",
-          "postedAt": "2026-06-05T06:00:00.000Z"
-        },
-        {
-          "id": "om_d459e90dc6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 12 Campaigns That Caught Our Eye, From Nike to McDonald’s",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-12-campaigns-that-caught-our-eye-from-nike-to-mcdonalds/",
-          "postedAt": "2026-06-05T06:00:00.000Z"
-        },
-        {
-          "id": "om_4cce5b786c",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok launches microdrama development program",
-          "url": "https://www.socialmediatoday.com/news/tiktok-launches-microdrama-development-program/822079/",
-          "postedAt": "2026-06-04T20:45:36.000Z"
-        },
-        {
-          "id": "om_5e8f928311",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Meta launches creator assistant chatbot",
-          "url": "https://www.socialmediatoday.com/news/meta-launches-creator-assistant-chatbot/822077/",
-          "postedAt": "2026-06-04T20:31:42.000Z"
-        },
-        {
-          "id": "om_a129e2535c",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Violife slices through dairy-free cheese misconceptions with social series",
-          "url": "https://www.marketingdive.com/news/violife-slices-through-dairy-free-cheese-misconceptions-with-social-series/822009/",
-          "postedAt": "2026-06-04T17:50:00.000Z"
-        },
-        {
-          "id": "om_58503746eb",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Week of May 25 Cable News Ratings: MS NOW Has Demo Growth in Primetime and Total Day",
-          "url": "https://www.adweek.com/tvnewser/week-of-may-25-2026-cable-news-ratings/",
-          "postedAt": "2026-06-04T17:34:43.000Z"
-        },
-        {
-          "id": "om_2eaaa9154f",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why marketers must rethink loyalty as AI reshapes consumer connections",
-          "url": "https://www.marketingdive.com/news/why-marketers-must-rethink-loyalty-as-ai-reshapes-consumer-connections/822003/",
-          "postedAt": "2026-06-04T17:00:00.000Z"
-        },
-        {
-          "id": "om_bb2befd262",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: Reddit expands Shopify integration access globally",
-          "url": "https://www.marketingdive.com/news/sociable-reddit-expands-shopify-integration-access-globally/822011/",
-          "postedAt": "2026-06-04T17:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-08T05:01:11.492Z",
+      "lastUpdated": "2026-06-08T16:18:23.625Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
