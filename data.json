@@ -227,6 +227,114 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_c39b1e9f71",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "乾隆把和珅留给了嘉靖",
+          "url": "https://x.com/dotey/status/2064186004190146668",
+          "postedAt": "2026-06-09T03:21:08.000Z"
+        },
+        {
+          "id": "vc_dotey_b7061c6a2b",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "baoyu-design skill 现在支持导入 Design System，以及在新建项目时添加导入的 Design System 比我想的要麻烦的多：https://github.com/JimLiu/baoyu-design/pul...",
+          "url": "https://x.com/dotey/status/2064182459718091202",
+          "postedAt": "2026-06-09T03:07:03.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_f9c8d3e981",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Actually I think the new world might be: Markdown, HTML, SVG SVG is underrated",
+          "url": "https://x.com/zarazhangrui/status/2064108976565092706",
+          "postedAt": "2026-06-08T22:15:03.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_86953ae1f4",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "This part is so well-written and resonated SO much: \"I am the programming equivalent of a home cook\"",
+          "url": "https://x.com/zarazhangrui/status/2064101916725096810",
+          "postedAt": "2026-06-08T21:47:00.000Z"
+        },
+        {
+          "id": "vc_dotey_54d00a38d1",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 马东锡 NLP: http://x.com/i/article/2064090102452621312",
+          "url": "https://x.com/dotey/status/2064151393796071613",
+          "postedAt": "2026-06-08T21:34:20.000Z"
+        },
+        {
+          "id": "vc_gdb_dd98494a85",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "The goals we're working towards at OpenAI, to achieve the OpenAI mission and expand human agency as AI progresses: https://openai.com/index/built-to-b...",
+          "url": "https://x.com/gdb/status/2064093657888960998",
+          "postedAt": "2026-06-08T21:14:11.000Z"
+        },
+        {
+          "id": "vc_sama_b46d6edf11",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "Here is our current plan for OpenAI: https://openai.com/index/built-to-benefit-everyone-our-plan/",
+          "url": "https://x.com/sama/status/2064088940932641225",
+          "postedAt": "2026-06-08T20:55:27.000Z"
+        },
+        {
+          "id": "vc_dotey_524a849e8e",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "帮转，豆包手机团队招设计工程师",
+          "url": "https://x.com/dotey/status/2064069492850708484",
+          "postedAt": "2026-06-08T19:38:10.000Z"
+        },
+        {
+          "id": "vc_steipete_9cfadba57e",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Kevin S Lin: twitter feeds are looping these past few days the pushback seems to be that it’s a workflow for the 1% while there’s some truth to t...",
+          "url": "https://x.com/steipete/status/2064028742591054188",
+          "postedAt": "2026-06-08T16:21:40.000Z"
+        },
+        {
+          "id": "vc_steipete_4bf09aa335",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Andrew Ambrosino: can’t wait to see the new Ciri today",
+          "url": "https://x.com/steipete/status/2064025494350422067",
+          "postedAt": "2026-06-08T15:12:18.000Z"
+        },
+        {
+          "id": "vc_dotey_a90a45f4d1",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 小互: http://x.com/i/article/2063968924019163136",
+          "url": "https://x.com/dotey/status/2064063109560406023",
+          "postedAt": "2026-06-08T13:11:39.000Z"
+        },
+        {
+          "id": "vc_steipete_4d79b116cc",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT George: Folks it is just control loop Think of Kubernetes. You write desired state/spec, what to observe/status, the controller, and the kubelet. Y...",
+          "url": "https://x.com/steipete/status/2064028603361140865",
+          "postedAt": "2026-06-08T12:14:32.000Z"
+        },
+        {
           "id": "vc_Khazix0918_6e2b909245",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -243,24 +351,6 @@
           "title": "http://x.com/i/article/2063827681960235009",
           "url": "https://x.com/Khazix0918/status/2063842283502686599",
           "postedAt": "2026-06-08T04:35:19.000Z"
-        },
-        {
-          "id": "vc_dotey_1efa2f6a76",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "长时间运行 Agent，Agent 能自行验证才是关键，否则可能只是浪费 Token",
-          "url": "https://x.com/dotey/status/2063800780050608603",
-          "postedAt": "2026-06-08T01:50:24.000Z"
-        },
-        {
-          "id": "vc_dotey_1ef4c89539",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 象牙山刘能: 在AI时代，每个程序员都活成了自己最讨厌的那种 team leader： 1. 半年不写一行代码，编程能力严重退化，还自诩\"我也是搞技术的“ 2. 开会的时候...",
-          "url": "https://x.com/dotey/status/2063821281858867342",
-          "postedAt": "2026-06-08T01:00:50.000Z"
         },
         {
           "id": "vc_gdb_914447a4dc",
@@ -281,15 +371,6 @@
           "postedAt": "2026-06-08T00:25:45.000Z"
         },
         {
-          "id": "vc_dotey_3efaf8a7d7",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Claude Code 虽然移动端可以 remote control，但是 plan 后不能 bypass permission，需要不停的确认，神烦",
-          "url": "https://x.com/dotey/status/2063758466573795692",
-          "postedAt": "2026-06-07T23:02:15.000Z"
-        },
-        {
           "id": "vc_steipete_806c05d273",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -308,15 +389,6 @@
           "postedAt": "2026-06-07T18:58:39.000Z"
         },
         {
-          "id": "vc_dotey_85398899e4",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "ChatGPT 要变 AgentGPT 了 当然 ChatGPT 应该不会改名字，但 ChatGPT 应该不再是一个单纯的 Chat 工具了。 OpenAI 内部一位高管对《金融时报》说：\"Chat is dead...",
-          "url": "https://x.com/dotey/status/2063686036895478162",
-          "postedAt": "2026-06-07T18:14:27.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_b20e07d5d0",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -326,15 +398,6 @@
           "postedAt": "2026-06-07T15:04:47.000Z"
         },
         {
-          "id": "vc_dotey_0c55ef5a09",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "这个确实，Deep Research 方面 Claude 做的不怎么样，ChatGPT 的 DeepResearch 做的最好，Gemini 也不错，胜在搜索能力强，通常我会用 ChatGPT 和 Gemini 一起做...",
-          "url": "https://x.com/dotey/status/2063629577495167436",
-          "postedAt": "2026-06-07T14:30:06.000Z"
-        },
-        {
           "id": "vc_gdb_9e03ec6f73",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -342,73 +405,10 @@
           "title": "Whenever I don’t use codex for a task, I ask myself why and usually realize that there’s some missing context, I needed to write a skill, or I just ...",
           "url": "https://x.com/gdb/status/2063437915347136554",
           "postedAt": "2026-06-07T01:48:30.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_4a1ae64074",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Really enjoyed this talk! The value of static content is going down, the value of live interaction is going up People want to connect with the human b...",
-          "url": "https://x.com/zarazhangrui/status/2063391758189572266",
-          "postedAt": "2026-06-06T22:45:05.000Z"
-        },
-        {
-          "id": "vc_steipete_7fa37939b6",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Ryan Brewer: This is an intentional decision in our products. Same thing goes for ChatGPT for Excel, Sheets and Powerpoint. If you run out of limit...",
-          "url": "https://x.com/steipete/status/2063888456963821650",
-          "postedAt": "2026-06-06T20:09:07.000Z"
-        },
-        {
-          "id": "vc_steipete_a1b80e0cc8",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Ivan Kuznetsov: Re I've just implemented Patrol: a self-improvement loop that slices the repo and looks for issues to fix. I got the idea from http...",
-          "url": "https://x.com/steipete/status/2063340221660545507",
-          "postedAt": "2026-06-06T18:47:14.000Z"
-        },
-        {
-          "id": "vc_steipete_5572c3b8ea",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Corey Quinn: Is this why Claude keeps saying it’s time to stop working?",
-          "url": "https://x.com/steipete/status/2063453905741398461",
-          "postedAt": "2026-06-06T18:29:04.000Z"
-        },
-        {
-          "id": "vc_gdb_0b8c7ecfaf",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "so much more fun to use a computer via codex",
-          "url": "https://x.com/gdb/status/2063102501847757197",
-          "postedAt": "2026-06-06T03:35:41.000Z"
-        },
-        {
-          "id": "vc_gdb_a98efa6b20",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "email integration with chatgpt",
-          "url": "https://x.com/gdb/status/2063056196735504796",
-          "postedAt": "2026-06-06T00:31:41.000Z"
-        },
-        {
-          "id": "vc_sama_a679775c03",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "RT Nikolay Savinov: Excited to share that I’ve joined OpenAI in London to work on pretraining! I’ve spent the last few years on pretraining and long...",
-          "url": "https://x.com/sama/status/2063077418748002510",
-          "postedAt": "2026-06-05T15:44:51.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-08T16:18:20.844Z",
+      "lastUpdated": "2026-06-09T04:33:51.881Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-08T16:18:21.908Z",
+      "lastUpdated": "2026-06-09T04:33:53.740Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,12 +693,44 @@
       },
       "articles": [
         {
+          "id": "om_57ee1a381b",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok announces 2026 Community Fest plans",
+          "url": "https://www.socialmediatoday.com/news/tiktok-announces-2026-community-fest-plans/822306/",
+          "postedAt": "2026-06-08T21:25:17.000Z"
+        },
+        {
+          "id": "om_2f885d2211",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Polymarket and Kalshi Say Influencer Partners Can’t Deny Election Results, Actually",
+          "url": "https://www.wired.com/story/kalshi-polymarket-influencer-election-denial-spencer-pratt/",
+          "postedAt": "2026-06-08T21:23:27.000Z"
+        },
+        {
+          "id": "om_14946061c5",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Saks Global faces pivotal year as court approves bankruptcy exit plans",
+          "url": "https://www.retaildive.com/news/saks-global-bankruptcy-exit-court-approval/822240/",
+          "postedAt": "2026-06-08T16:27:00.000Z"
+        },
+        {
           "id": "om_c9e5fd07fe",
           "source": "Marketing Brew",
           "lang": "en",
           "title": "Coworking with Romney Evans",
           "url": "https://www.marketingbrew.com/stories/coworking-with-romney-evans?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-06-08T16:10:00.000Z"
+        },
+        {
+          "id": "om_3782924ffc",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "‘The human touch’: Inside Etsy’s life-by-numbers brand campaign",
+          "url": "https://www.marketingbrew.com/stories/etsy-life-by-numbers-brand-campaign-celebrate-being-human?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-08T15:38:09.000Z"
         },
         {
           "id": "om_7cce8f175f",
@@ -749,6 +781,14 @@
           "postedAt": "2026-06-08T14:23:00.000Z"
         },
         {
+          "id": "om_3227f87d6a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Through Visa Partnership, EA Sports FC Rides World Cup Wave Without Mentioning FIFA",
+          "url": "https://www.adweek.com/brand-marketing/through-visa-partnership-ea-sports-fc-rides-world-cup-wave-without-mentioning-fifa/",
+          "postedAt": "2026-06-08T14:22:29.000Z"
+        },
+        {
           "id": "om_e75c925f32",
           "source": "Retail Dive",
           "lang": "en",
@@ -763,6 +803,14 @@
           "title": "Why Tropicana is rejuvenating its creative but keeping the same strategy",
           "url": "https://www.marketingdive.com/news/why-tropicana-is-rejuvenating-its-creative-but-keeping-the-same-strategy/822096/",
           "postedAt": "2026-06-08T13:00:00.000Z"
+        },
+        {
+          "id": "om_1c2562cf43",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "EXCLUSIVE: Kantar Hires Martina Suess Cromer As Its Top U.S. Marketer",
+          "url": "https://www.adweek.com/brand-marketing/exclusive-kantar-hires-martina-suess-cromer-as-its-top-us-marketer/",
+          "postedAt": "2026-06-08T12:16:43.000Z"
         },
         {
           "id": "om_8da1b60bd0",
@@ -803,58 +851,10 @@
           "title": "Agentic commerce: AI is now your shopper’s first stop. Showing up is just the beginning.",
           "url": "https://www.retaildive.com/spons/agentic-commerce-ai-is-now-your-shoppers-first-stop-showing-up-is-just-t/821824/",
           "postedAt": "2026-06-08T09:00:00.000Z"
-        },
-        {
-          "id": "om_fe8993d136",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Best Red-Light Therapy for Hair Restoration and Regrowth (2026)",
-          "url": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
-          "postedAt": "2026-06-07T10:02:00.000Z"
-        },
-        {
-          "id": "om_856df43b35",
-          "source": "Wired",
-          "lang": "en",
-          "title": "‘It’s Not a Joke’: A ‘Simpsons’ Writer Holds His First Presidential Campaign Rally",
-          "url": "https://www.wired.com/story/simpsons-writer-dan-greaney-holds-his-first-presidential-campaign-rally/",
-          "postedAt": "2026-06-06T09:00:00.000Z"
-        },
-        {
-          "id": "om_47e0f9e01e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Torrid heads to the post office, mall to woo customers",
-          "url": "https://www.retaildive.com/news/torrid-mail-mall-customer-acquisition-reactivation-q1-earnings/822120/",
-          "postedAt": "2026-06-05T16:59:00.000Z"
-        },
-        {
-          "id": "om_36db77c8d2",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Weekly Closeout: Nike’s reality check, GameStop’s record earnings",
-          "url": "https://www.retaildive.com/news/nike-guidance-reality-check-gamestop-highest-quarterly-net-income/822081/",
-          "postedAt": "2026-06-05T16:22:00.000Z"
-        },
-        {
-          "id": "om_55a6e0f73c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The World Cup Is Back, But U.S. Brands Are Still Lost in Translation",
-          "url": "https://www.adweek.com/media/the-world-cup-is-back-but-us-brands-are-still-lost-in-translation/",
-          "postedAt": "2026-06-05T14:03:41.000Z"
-        },
-        {
-          "id": "om_2f022af71e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Campaign Trail: Coca-Cola rides a roller coaster of World Cup emotions",
-          "url": "https://www.marketingdive.com/news/campaign-trail-coca-cola-rides-a-roller-coaster-of-world-cup-emotions/821781/",
-          "postedAt": "2026-06-05T13:54:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-08T16:18:23.625Z",
+      "lastUpdated": "2026-06-09T04:33:56.635Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
