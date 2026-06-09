@@ -227,6 +227,33 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_858ad0fece",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 刀刀: 看到 @berryxia 做的出版社级新书海报太惊艳了！直接被种草 🔥 我给 @dotey 和 @wshuyi 两位老师的新书也试着做了两个版本： 左图：《图解Skill - AI...",
+          "url": "https://x.com/dotey/status/2064361005375713396",
+          "postedAt": "2026-06-09T09:16:32.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_c66289ccb7",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2064208729172746240",
+          "url": "https://x.com/Khazix0918/status/2064215034201559142",
+          "postedAt": "2026-06-09T05:16:30.000Z"
+        },
+        {
+          "id": "vc_dotey_ed9fd5790f",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 图拉鼎: 影视飓风招 Java，感兴趣的同学看过来。PS：base 杭州良渚。",
+          "url": "https://x.com/dotey/status/2064218719883006456",
+          "postedAt": "2026-06-09T04:51:33.000Z"
+        },
+        {
           "id": "vc_dotey_c39b1e9f71",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -290,15 +317,6 @@
           "postedAt": "2026-06-08T20:55:27.000Z"
         },
         {
-          "id": "vc_dotey_524a849e8e",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "帮转，豆包手机团队招设计工程师",
-          "url": "https://x.com/dotey/status/2064069492850708484",
-          "postedAt": "2026-06-08T19:38:10.000Z"
-        },
-        {
           "id": "vc_steipete_9cfadba57e",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -315,15 +333,6 @@
           "title": "RT Andrew Ambrosino: can’t wait to see the new Ciri today",
           "url": "https://x.com/steipete/status/2064025494350422067",
           "postedAt": "2026-06-08T15:12:18.000Z"
-        },
-        {
-          "id": "vc_dotey_a90a45f4d1",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 小互: http://x.com/i/article/2063968924019163136",
-          "url": "https://x.com/dotey/status/2064063109560406023",
-          "postedAt": "2026-06-08T13:11:39.000Z"
         },
         {
           "id": "vc_steipete_4d79b116cc",
@@ -396,19 +405,10 @@
           "title": "I think one reason that my Frontend Slides skill has grown so much organically is because slides are inherently social People see these cool slides an...",
           "url": "https://x.com/zarazhangrui/status/2063638307586662539",
           "postedAt": "2026-06-07T15:04:47.000Z"
-        },
-        {
-          "id": "vc_gdb_9e03ec6f73",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Whenever I don’t use codex for a task, I ask myself why and usually realize that there’s some missing context, I needed to write a skill, or I just ...",
-          "url": "https://x.com/gdb/status/2063437915347136554",
-          "postedAt": "2026-06-07T01:48:30.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-09T04:33:51.881Z",
+      "lastUpdated": "2026-06-09T15:26:38.655Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_0e66368174",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Essential books for product builders—part 2",
+          "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart-611",
+          "postedAt": "2026-06-09T13:11:29.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_1fb14707d9",
           "source": "Lenny's Podcast",
@@ -536,14 +544,6 @@
           "postedAt": "2026-05-29T16:22:02.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_a54a4ea2d7",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Claude Opus 4.8 is here. Is it as good as they say?",
-          "url": "https://www.lennysnewsletter.com/p/claude-opus-48-is-here-is-it-as-good",
-          "postedAt": "2026-05-28T21:35:07.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_dd8214c71e",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-09T04:33:53.740Z",
+      "lastUpdated": "2026-06-09T15:26:39.872Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,126 @@
       },
       "articles": [
         {
+          "id": "om_0b6c651284",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Connecticut becomes second state to regulate dynamic pricing",
+          "url": "https://www.retaildive.com/news/connecticut-new-york-dynamic-pricing-bills-grocery-retail/822337/",
+          "postedAt": "2026-06-09T15:18:00.000Z"
+        },
+        {
+          "id": "om_3f2788e13a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Optimus Prime will take your call: Hasbro leans into AI-driven licensing",
+          "url": "https://www.marketingdive.com/news/hasbro-launches-ai-studio-to-license-optimus-prime-mr-potato-head/822356/",
+          "postedAt": "2026-06-09T15:00:00.000Z"
+        },
+        {
+          "id": "om_8d0f97e458",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Nike and Adidas take their rivalry to the World Cup. Who will win?",
+          "url": "https://www.retaildive.com/news/nike-adidas-world-cup-retail-marketing-rivalry/822335/",
+          "postedAt": "2026-06-09T14:34:00.000Z"
+        },
+        {
+          "id": "om_c8db6b69f5",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Media spend on customer acquisition accelerates amid rush to AI: Gartner",
+          "url": "https://www.marketingdive.com/news/customer-acquisition-media-spend-accelerates-amid-rush-to-ai-gartner/822274/",
+          "postedAt": "2026-06-09T13:35:00.000Z"
+        },
+        {
+          "id": "om_8e75397856",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Nike and Adidas take their rivalry to the World Cup. Who will win?",
+          "url": "https://www.marketingdive.com/news/nike-adidas-take-rivalry-to-world-cup-who-will-win/822288/",
+          "postedAt": "2026-06-09T13:06:00.000Z"
+        },
+        {
+          "id": "om_c9b9772ef5",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How soccer creators are helping to make the World Cup more than a moment",
+          "url": "https://www.marketingbrew.com/stories/soccer-creators-influencers-world-cup?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-09T11:00:00.000Z"
+        },
+        {
+          "id": "om_674ab1edb9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Submissions Now Open for ADWEEK Agency of the Year 2026",
+          "url": "https://www.adweek.com/agencies/submissions-now-open-for-adweek-agency-of-the-year-2026/",
+          "postedAt": "2026-06-09T07:00:54.000Z"
+        },
+        {
+          "id": "om_691bd8c084",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Discipline Behind Enduring Brands",
+          "url": "https://www.adweek.com/brand-marketing/the-discipline-behind-enduring-brands/",
+          "postedAt": "2026-06-09T06:00:00.000Z"
+        },
+        {
+          "id": "om_913f627a2c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Knix Hires Ex-Nike Marketer Cyntia Leo as CMO Amid U.S. Expansion",
+          "url": "https://www.adweek.com/commerce/knix-hires-ex-nike-marketer-cyntia-leo-as-cmo-amid-us-expansion/",
+          "postedAt": "2026-06-09T06:00:00.000Z"
+        },
+        {
+          "id": "om_5a91749a99",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK’s Commerce All-Stars 2026: Bringing Excitement Back to Shopping",
+          "url": "https://www.adweek.com/brand-marketing/adweeks-commerce-all-stars-2026-bringing-excitement-back-to-shopping/",
+          "postedAt": "2026-06-09T06:00:00.000Z"
+        },
+        {
+          "id": "om_2f94e220c7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Shopsense AI Bets on Shoppable Intelligence With New CEO",
+          "url": "https://www.adweek.com/media/shopsense-ai-bets-on-shoppable-intelligence-with-new-ceo/",
+          "postedAt": "2026-06-09T06:00:00.000Z"
+        },
+        {
+          "id": "om_193c7909cd",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK’s Cannes Lions 2026 Map: Your Key to the Croisette",
+          "url": "https://www.adweek.com/brand-marketing/adweeks-cannes-lions-2026-map-your-key-to-the-croisette/",
+          "postedAt": "2026-06-09T06:00:00.000Z"
+        },
+        {
+          "id": "om_a5fa0e957f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Priyanka Chopra Jonas Is the Luxury Brand Whisperer",
+          "url": "https://www.adweek.com/brand-marketing/priyanka-chopra-jonas-is-the-luxury-brand-whisperer/",
+          "postedAt": "2026-06-09T06:00:00.000Z"
+        },
+        {
+          "id": "om_ecf3d9caca",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Editor’s Note: Welcome to Cannes! The Robots Are Expecting You",
+          "url": "https://www.adweek.com/brand-marketing/editors-note-june-2026-welcome-to-cannes/",
+          "postedAt": "2026-06-09T06:00:00.000Z"
+        },
+        {
+          "id": "om_12c7ecc8ed",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
+          "url": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
+          "postedAt": "2026-06-09T05:07:17.000Z"
+        },
+        {
           "id": "om_57ee1a381b",
           "source": "Social Media Today",
           "lang": "en",
@@ -731,130 +851,10 @@
           "title": "‘The human touch’: Inside Etsy’s life-by-numbers brand campaign",
           "url": "https://www.marketingbrew.com/stories/etsy-life-by-numbers-brand-campaign-celebrate-being-human?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-06-08T15:38:09.000Z"
-        },
-        {
-          "id": "om_7cce8f175f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon launches AI image generator to narrow search queries",
-          "url": "https://www.retaildive.com/news/amazon-launches-ai-image-generator-search-bar-queries/822231/",
-          "postedAt": "2026-06-08T15:20:00.000Z"
-        },
-        {
-          "id": "om_1f4452a446",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "WPP puts a different type of ad talent to the test with new studio Hex",
-          "url": "https://www.marketingdive.com/news/wpp-puts-different-type-of-ad-talent-to-the-test-with-new-studio-hex/822227/",
-          "postedAt": "2026-06-08T15:08:00.000Z"
-        },
-        {
-          "id": "om_82912e623b",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why the time is now for experiential marketing — and how to get it right",
-          "url": "https://www.marketingdive.com/news/why-the-time-is-now-for-experiential-marketing-and-how-to-get-it-right/820588/",
-          "postedAt": "2026-06-08T15:00:00.000Z"
-        },
-        {
-          "id": "om_2cc07ca547",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Best Buy rolls out Meta Lab shop-in-shops",
-          "url": "https://www.retaildive.com/news/best-buy-meta-lab-shop-in-shops-open/822216/",
-          "postedAt": "2026-06-08T14:45:00.000Z"
-        },
-        {
-          "id": "om_c17c6ed7d5",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Fox One pitches itself as home of World Cup viewing for obsessive fans",
-          "url": "https://www.marketingdive.com/news/fox-one-pitches-itself-as-home-of-world-cup-viewing-for-obsessive-fans/822212/",
-          "postedAt": "2026-06-08T14:33:00.000Z"
-        },
-        {
-          "id": "om_b77afe4a9d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Delivery reliability trumps speed, Macy’s and Ulta execs say",
-          "url": "https://www.retaildive.com/news/retailer-delivery-reliability-trumps-speed-macys-ulta/822175/",
-          "postedAt": "2026-06-08T14:23:00.000Z"
-        },
-        {
-          "id": "om_3227f87d6a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Through Visa Partnership, EA Sports FC Rides World Cup Wave Without Mentioning FIFA",
-          "url": "https://www.adweek.com/brand-marketing/through-visa-partnership-ea-sports-fc-rides-world-cup-wave-without-mentioning-fifa/",
-          "postedAt": "2026-06-08T14:22:29.000Z"
-        },
-        {
-          "id": "om_e75c925f32",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "How brands are celebrating 250 years of America amid political polarization",
-          "url": "https://www.retaildive.com/news/how-brands-are-celebrating-250-years-of-america-amid-political-polarization/822176/",
-          "postedAt": "2026-06-08T13:55:00.000Z"
-        },
-        {
-          "id": "om_b0df9236b7",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why Tropicana is rejuvenating its creative but keeping the same strategy",
-          "url": "https://www.marketingdive.com/news/why-tropicana-is-rejuvenating-its-creative-but-keeping-the-same-strategy/822096/",
-          "postedAt": "2026-06-08T13:00:00.000Z"
-        },
-        {
-          "id": "om_1c2562cf43",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "EXCLUSIVE: Kantar Hires Martina Suess Cromer As Its Top U.S. Marketer",
-          "url": "https://www.adweek.com/brand-marketing/exclusive-kantar-hires-martina-suess-cromer-as-its-top-us-marketer/",
-          "postedAt": "2026-06-08T12:16:43.000Z"
-        },
-        {
-          "id": "om_8da1b60bd0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "EXCLUSIVE: Accenture Song Will Buy Whalar, Gaining Global Scale in Influencer Marketing",
-          "url": "https://www.adweek.com/commerce/exclusive-accenture-song-will-buywhalar-gaining-global-scale-in-influencer-marketing/",
-          "postedAt": "2026-06-08T11:15:00.000Z"
-        },
-        {
-          "id": "om_7de23c04c3",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside Nespresso’s dual-ambassador strategy",
-          "url": "https://www.marketingbrew.com/stories/nespresso-dual-ambassador-strategy-dua-lipa-george-clooney?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-08T10:00:00.000Z"
-        },
-        {
-          "id": "om_d99919d395",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How modern loyalty programs drive behavior and revenue",
-          "url": "https://www.marketingdive.com/spons/how-modern-loyalty-programs-drive-behavior-and-revenue/821396/",
-          "postedAt": "2026-06-08T09:00:00.000Z"
-        },
-        {
-          "id": "om_f32deec3bc",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Loyalty is the new growth engine and retailers are just starting to figure that out",
-          "url": "https://www.retaildive.com/spons/loyalty-is-the-new-growth-engine-and-retailers-are-just-starting-to-figure/822090/",
-          "postedAt": "2026-06-08T09:00:00.000Z"
-        },
-        {
-          "id": "om_a691ea7e90",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Agentic commerce: AI is now your shopper’s first stop. Showing up is just the beginning.",
-          "url": "https://www.retaildive.com/spons/agentic-commerce-ai-is-now-your-shoppers-first-stop-showing-up-is-just-t/821824/",
-          "postedAt": "2026-06-08T09:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-09T04:33:56.635Z",
+      "lastUpdated": "2026-06-09T15:26:41.746Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
