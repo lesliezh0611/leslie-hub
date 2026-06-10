@@ -227,6 +227,78 @@
       ],
       "articles": [
         {
+          "id": "vc_Khazix0918_417a0376b3",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2064543977328832512",
+          "url": "https://x.com/Khazix0918/status/2064546404559999014",
+          "postedAt": "2026-06-10T03:13:14.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_d80e8aeb3d",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "I will be doing a virtual talk this Friday on my vibe coding process. As a non-technical person who has somehow managed to get 30k stars on GitHub, I ...",
+          "url": "https://x.com/zarazhangrui/status/2064486120386379950",
+          "postedAt": "2026-06-09T23:13:42.000Z"
+        },
+        {
+          "id": "vc_dotey_cecda65f1b",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "REST 了！ 但是 Fable 5 真的消耗流量超快，我刚升级了 $200 的套餐，根本不够用",
+          "url": "https://x.com/dotey/status/2064470271185080365",
+          "postedAt": "2026-06-09T22:10:43.000Z"
+        },
+        {
+          "id": "vc_gdb_cc9f3b62c0",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Cool to see University of North Dakota (where I took a number of classes growing up) innovating and trying out offering A.I degrees: https://www.nytim...",
+          "url": "https://x.com/gdb/status/2064469421490659751",
+          "postedAt": "2026-06-09T22:07:20.000Z"
+        },
+        {
+          "id": "vc_steipete_39fd7a0424",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT josh avant: 🦞 Big security update for users and enterprise: Custom install policy for plugins and skills! 🔒 OpenClaw will call an executable ...",
+          "url": "https://x.com/steipete/status/2064485037484191939",
+          "postedAt": "2026-06-09T20:40:06.000Z"
+        },
+        {
+          "id": "vc_karpathy_3c7730e843",
+          "source": "karpathy",
+          "sourceName": "Andrej Karpathy",
+          "platform": "x",
+          "title": "This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's ...",
+          "url": "https://x.com/karpathy/status/2064409694761054332",
+          "postedAt": "2026-06-09T18:10:00.000Z"
+        },
+        {
+          "id": "vc_dotey_a47e5a6689",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Anthropic 今天同时发布了两个模型：Claude Fable 5 和 Claude Mythos 5。 两个模型用的是同一个底座，区别在于 Fable 5 加了一套安全分类器，面向所有用户开放...",
+          "url": "https://x.com/dotey/status/2064397772103528771",
+          "postedAt": "2026-06-09T17:22:38.000Z"
+        },
+        {
+          "id": "vc_dotey_ccc2d1acc0",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "要换电脑，卡的不行",
+          "url": "https://x.com/dotey/status/2064383776076009787",
+          "postedAt": "2026-06-09T16:27:01.000Z"
+        },
+        {
           "id": "vc_dotey_858ad0fece",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -254,24 +326,6 @@
           "postedAt": "2026-06-09T04:51:33.000Z"
         },
         {
-          "id": "vc_dotey_c39b1e9f71",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "乾隆把和珅留给了嘉靖",
-          "url": "https://x.com/dotey/status/2064186004190146668",
-          "postedAt": "2026-06-09T03:21:08.000Z"
-        },
-        {
-          "id": "vc_dotey_b7061c6a2b",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "baoyu-design skill 现在支持导入 Design System，以及在新建项目时添加导入的 Design System 比我想的要麻烦的多：https://github.com/JimLiu/baoyu-design/pul...",
-          "url": "https://x.com/dotey/status/2064182459718091202",
-          "postedAt": "2026-06-09T03:07:03.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_f9c8d3e981",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -290,15 +344,6 @@
           "postedAt": "2026-06-08T21:47:00.000Z"
         },
         {
-          "id": "vc_dotey_54d00a38d1",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 马东锡 NLP: http://x.com/i/article/2064090102452621312",
-          "url": "https://x.com/dotey/status/2064151393796071613",
-          "postedAt": "2026-06-08T21:34:20.000Z"
-        },
-        {
           "id": "vc_gdb_dd98494a85",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -315,6 +360,15 @@
           "title": "Here is our current plan for OpenAI: https://openai.com/index/built-to-benefit-everyone-our-plan/",
           "url": "https://x.com/sama/status/2064088940932641225",
           "postedAt": "2026-06-08T20:55:27.000Z"
+        },
+        {
+          "id": "vc_steipete_39af93ec06",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT sam henri gold: iOS 27 framework references “foldState” and “angleDegrees” but I’m sure that’s nothing",
+          "url": "https://x.com/steipete/status/2064562062525890801",
+          "postedAt": "2026-06-08T19:39:58.000Z"
         },
         {
           "id": "vc_steipete_9cfadba57e",
@@ -351,64 +405,10 @@
           "title": "最近几天，微信Agent曝光的消息越来越多了。 我简单汇总一下： 6月2日，据外媒，腾讯正在测试一款嵌入微信的AI Agent，用户在微信主界面向右滑动即可唤出Agent对...",
           "url": "https://x.com/Khazix0918/status/2063923890272051228",
           "postedAt": "2026-06-08T09:59:35.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_a412a38209",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2063827681960235009",
-          "url": "https://x.com/Khazix0918/status/2063842283502686599",
-          "postedAt": "2026-06-08T04:35:19.000Z"
-        },
-        {
-          "id": "vc_gdb_914447a4dc",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "interesting",
-          "url": "https://x.com/gdb/status/2063786462647079408",
-          "postedAt": "2026-06-08T00:53:30.000Z"
-        },
-        {
-          "id": "vc_sama_e49be0b8ca",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "interesting recursive loop here maybe",
-          "url": "https://x.com/sama/status/2063779477419901071",
-          "postedAt": "2026-06-08T00:25:45.000Z"
-        },
-        {
-          "id": "vc_steipete_806c05d273",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Tibo: I have a new kind of big button that I can press for Codex. Over the next 100 days, we will select one person per day who does impressive or ...",
-          "url": "https://x.com/steipete/status/2063781015970292067",
-          "postedAt": "2026-06-07T22:21:38.000Z"
-        },
-        {
-          "id": "vc_steipete_bbc916e121",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Here’s your monthly reminder that you shouldn’t be prompting coding agents anymore. You should be designing loops that prompt your agents.",
-          "url": "https://x.com/steipete/status/2063697162748260627",
-          "postedAt": "2026-06-07T18:58:39.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_b20e07d5d0",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "I think one reason that my Frontend Slides skill has grown so much organically is because slides are inherently social People see these cool slides an...",
-          "url": "https://x.com/zarazhangrui/status/2063638307586662539",
-          "postedAt": "2026-06-07T15:04:47.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-09T15:26:38.655Z",
+      "lastUpdated": "2026-06-10T04:47:49.586Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_88c5b48566",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Claude Fable 5 review: what the new Mythos model gets right (and very wrong)",
+          "url": "https://www.lennysnewsletter.com/p/claude-fable-5-review-what-the-new",
+          "postedAt": "2026-06-09T18:32:03.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_0e66368174",
           "source": "Lenny's Podcast",
@@ -528,14 +536,6 @@
           "postedAt": "2026-05-31T12:31:43.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_d582d4c857",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Catching people using AI during an interview, org design when everything lives in one person’s head, when to rename your product, from nurse to health-tech PM, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-catching-people",
-          "postedAt": "2026-05-30T16:43:36.000Z"
-        },
-        {
           "id": "en_pod_lex_fridman_podcast_bc3f4fb2e4",
           "source": "Lex Fridman Podcast",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-09T15:26:39.872Z",
+      "lastUpdated": "2026-06-10T04:47:50.804Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,12 +693,52 @@
       },
       "articles": [
         {
+          "id": "om_5aeef6b21f",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok shares performance data on FMCG campaigns",
+          "url": "https://www.socialmediatoday.com/news/tiktok-shares-performance-data-on-fmcg-campaigns/822448/",
+          "postedAt": "2026-06-09T21:41:23.000Z"
+        },
+        {
+          "id": "om_1dd27a5947",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK, Code and Theory, and ElevenLabs Are Bringing You an AI Radio Station at Cannes",
+          "url": "https://www.adweek.com/agencies/adweek-code-and-theory-and-elevenlabs-are-bringing-you-an-ai-radio-station-at-cannes/",
+          "postedAt": "2026-06-09T16:35:40.000Z"
+        },
+        {
           "id": "om_0b6c651284",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Connecticut becomes second state to regulate dynamic pricing",
           "url": "https://www.retaildive.com/news/connecticut-new-york-dynamic-pricing-bills-grocery-retail/822337/",
           "postedAt": "2026-06-09T15:18:00.000Z"
+        },
+        {
+          "id": "om_8b26ea472c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Thredup Has a New Feature That Competes Head-on With Poshmark",
+          "url": "https://www.adweek.com/commerce/thredup-has-a-new-feature-that-competes-head-on-with-poshmark/",
+          "postedAt": "2026-06-09T15:12:49.000Z"
+        },
+        {
+          "id": "om_92027e054b",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Never heard of Rivian? With its new SUV, the EV brand wants to change that",
+          "url": "https://www.marketingbrew.com/stories/rivian-r2-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-09T15:09:59.000Z"
+        },
+        {
+          "id": "om_f6e204b64b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Bed Bath & Beyond continues acquisition spree",
+          "url": "https://www.retaildive.com/news/bed-bath-beyond-acquisition-installation-renovation/822351/",
+          "postedAt": "2026-06-09T15:01:00.000Z"
         },
         {
           "id": "om_3f2788e13a",
@@ -717,12 +757,36 @@
           "postedAt": "2026-06-09T14:34:00.000Z"
         },
         {
+          "id": "om_04292d604a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How New CMO Jill Cress Is Pushing Babylist Past the Registry",
+          "url": "https://www.adweek.com/brand-marketing/how-new-cmo-jill-cress-is-pushing-babylist-past-the-registry/",
+          "postedAt": "2026-06-09T13:58:59.000Z"
+        },
+        {
+          "id": "om_37c7ff9fb1",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Experience Economy of Sports Marketing with the Atlanta Hawks’ Steve Koonin",
+          "url": "https://www.adweek.com/brand-marketing/the-experience-economy-of-sports-marketing-with-the-atlanta-hawks-steve-koonin/",
+          "postedAt": "2026-06-09T13:47:49.000Z"
+        },
+        {
           "id": "om_c8db6b69f5",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Media spend on customer acquisition accelerates amid rush to AI: Gartner",
           "url": "https://www.marketingdive.com/news/customer-acquisition-media-spend-accelerates-amid-rush-to-ai-gartner/822274/",
           "postedAt": "2026-06-09T13:35:00.000Z"
+        },
+        {
+          "id": "om_e4d1e5564e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Nestlé’s Stefan Kovačević on Building Brands for Both Humans and AI",
+          "url": "https://www.adweek.com/brand-marketing/nestles-stefan-kovacevic-on-building-brands-for-both-humans-and-ai/",
+          "postedAt": "2026-06-09T13:10:49.000Z"
         },
         {
           "id": "om_8e75397856",
@@ -765,62 +829,6 @@
           "postedAt": "2026-06-09T06:00:00.000Z"
         },
         {
-          "id": "om_5a91749a99",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK’s Commerce All-Stars 2026: Bringing Excitement Back to Shopping",
-          "url": "https://www.adweek.com/brand-marketing/adweeks-commerce-all-stars-2026-bringing-excitement-back-to-shopping/",
-          "postedAt": "2026-06-09T06:00:00.000Z"
-        },
-        {
-          "id": "om_2f94e220c7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Shopsense AI Bets on Shoppable Intelligence With New CEO",
-          "url": "https://www.adweek.com/media/shopsense-ai-bets-on-shoppable-intelligence-with-new-ceo/",
-          "postedAt": "2026-06-09T06:00:00.000Z"
-        },
-        {
-          "id": "om_193c7909cd",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK’s Cannes Lions 2026 Map: Your Key to the Croisette",
-          "url": "https://www.adweek.com/brand-marketing/adweeks-cannes-lions-2026-map-your-key-to-the-croisette/",
-          "postedAt": "2026-06-09T06:00:00.000Z"
-        },
-        {
-          "id": "om_a5fa0e957f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Priyanka Chopra Jonas Is the Luxury Brand Whisperer",
-          "url": "https://www.adweek.com/brand-marketing/priyanka-chopra-jonas-is-the-luxury-brand-whisperer/",
-          "postedAt": "2026-06-09T06:00:00.000Z"
-        },
-        {
-          "id": "om_ecf3d9caca",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Editor’s Note: Welcome to Cannes! The Robots Are Expecting You",
-          "url": "https://www.adweek.com/brand-marketing/editors-note-june-2026-welcome-to-cannes/",
-          "postedAt": "2026-06-09T06:00:00.000Z"
-        },
-        {
-          "id": "om_12c7ecc8ed",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet",
-          "url": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
-          "postedAt": "2026-06-09T05:07:17.000Z"
-        },
-        {
-          "id": "om_57ee1a381b",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok announces 2026 Community Fest plans",
-          "url": "https://www.socialmediatoday.com/news/tiktok-announces-2026-community-fest-plans/822306/",
-          "postedAt": "2026-06-08T21:25:17.000Z"
-        },
-        {
           "id": "om_2f885d2211",
           "source": "Wired",
           "lang": "en",
@@ -843,18 +851,10 @@
           "title": "Coworking with Romney Evans",
           "url": "https://www.marketingbrew.com/stories/coworking-with-romney-evans?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-06-08T16:10:00.000Z"
-        },
-        {
-          "id": "om_3782924ffc",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "‘The human touch’: Inside Etsy’s life-by-numbers brand campaign",
-          "url": "https://www.marketingbrew.com/stories/etsy-life-by-numbers-brand-campaign-celebrate-being-human?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-08T15:38:09.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-09T15:26:41.746Z",
+      "lastUpdated": "2026-06-10T04:47:52.438Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
