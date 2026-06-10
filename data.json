@@ -227,6 +227,42 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_e695c308e5",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "是对的，用 Claude Design 更省 tokens。它是专用 harness，少了很多无关的工具和 skills。但速度不如本地快，每一次工具调用要通过浏览器和虚拟机交互，所以会...",
+          "url": "https://x.com/dotey/status/2064606942354358668",
+          "postedAt": "2026-06-10T07:13:48.000Z"
+        },
+        {
+          "id": "vc_dotey_17e9fd1a2f",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT Feiteng: Boris Cherny(Claude Code 的创始人兼负责人) @bcherny 和 Cat Wu(Claude Code 产品负责人) 复盘 Claude Code 第一年: 一年前通用版上线，第一个 de...",
+          "url": "https://x.com/dotey/status/2064596313702805997",
+          "postedAt": "2026-06-10T06:25:23.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_26e2f0301e",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "The barrier for non-technical people using coding agents was never the interface. Chatting is the easiest UI ever invented The barrier is that they do...",
+          "url": "https://x.com/zarazhangrui/status/2064587398529606082",
+          "postedAt": "2026-06-10T05:56:08.000Z"
+        },
+        {
+          "id": "vc_dotey_161e4d9c25",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "大量测试 Claude Design 后我的一个结论： UI/UX 设计方面 Claude 4.8 就够好了，Fable 5 没有体现出更好的 UI/UX 设计能力，甚至还不如 Claude 4.8 的设计效果...",
+          "url": "https://x.com/dotey/status/2064581575711260827",
+          "postedAt": "2026-06-10T05:33:00.000Z"
+        },
+        {
           "id": "vc_Khazix0918_417a0376b3",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -290,24 +326,6 @@
           "postedAt": "2026-06-09T17:22:38.000Z"
         },
         {
-          "id": "vc_dotey_ccc2d1acc0",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "要换电脑，卡的不行",
-          "url": "https://x.com/dotey/status/2064383776076009787",
-          "postedAt": "2026-06-09T16:27:01.000Z"
-        },
-        {
-          "id": "vc_dotey_858ad0fece",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 刀刀: 看到 @berryxia 做的出版社级新书海报太惊艳了！直接被种草 🔥 我给 @dotey 和 @wshuyi 两位老师的新书也试着做了两个版本： 左图：《图解Skill - AI...",
-          "url": "https://x.com/dotey/status/2064361005375713396",
-          "postedAt": "2026-06-09T09:16:32.000Z"
-        },
-        {
           "id": "vc_Khazix0918_c66289ccb7",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -315,15 +333,6 @@
           "title": "http://x.com/i/article/2064208729172746240",
           "url": "https://x.com/Khazix0918/status/2064215034201559142",
           "postedAt": "2026-06-09T05:16:30.000Z"
-        },
-        {
-          "id": "vc_dotey_ed9fd5790f",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 图拉鼎: 影视飓风招 Java，感兴趣的同学看过来。PS：base 杭州良渚。",
-          "url": "https://x.com/dotey/status/2064218719883006456",
-          "postedAt": "2026-06-09T04:51:33.000Z"
         },
         {
           "id": "vc_zarazhangrui_f9c8d3e981",
@@ -396,19 +405,10 @@
           "title": "RT George: Folks it is just control loop Think of Kubernetes. You write desired state/spec, what to observe/status, the controller, and the kubelet. Y...",
           "url": "https://x.com/steipete/status/2064028603361140865",
           "postedAt": "2026-06-08T12:14:32.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_6e2b909245",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "最近几天，微信Agent曝光的消息越来越多了。 我简单汇总一下： 6月2日，据外媒，腾讯正在测试一款嵌入微信的AI Agent，用户在微信主界面向右滑动即可唤出Agent对...",
-          "url": "https://x.com/Khazix0918/status/2063923890272051228",
-          "postedAt": "2026-06-08T09:59:35.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-10T04:47:49.586Z",
+      "lastUpdated": "2026-06-10T16:07:56.294Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-10T04:47:50.804Z",
+      "lastUpdated": "2026-06-10T16:07:57.521Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,150 @@
       },
       "articles": [
         {
+          "id": "om_f277f377a5",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Consumer pain worsens as inflation hits 3-year high",
+          "url": "https://www.retaildive.com/news/may-inflation-highest-three-years/822482/",
+          "postedAt": "2026-06-10T15:45:00.000Z"
+        },
+        {
+          "id": "om_b7d90af907",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Targeting Amazon Prime Day, Walmart Deals event moves to June",
+          "url": "https://www.retaildive.com/news/amazon-prime-day-competitor-walmart-deals-event-june/822471/",
+          "postedAt": "2026-06-10T14:47:00.000Z"
+        },
+        {
+          "id": "om_7c9b25aa86",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Accenture acquires Whalar agency to gain creator economy advantage",
+          "url": "https://www.marketingdive.com/news/accenture-acquires-whalar-agency-to-gain-creator-economy-advantage/822473/",
+          "postedAt": "2026-06-10T14:37:00.000Z"
+        },
+        {
+          "id": "om_ccc0d94e90",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Pinterest bets on creators with Amazon Storefront integration",
+          "url": "https://techcrunch.com/2026/06/10/pinterest-bets-on-creators-with-amazon-storefront-integration/",
+          "postedAt": "2026-06-10T14:34:45.000Z"
+        },
+        {
+          "id": "om_ce82cf151c",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "ServiceNow tells customers a bug left some of their data exposed to the internet",
+          "url": "https://techcrunch.com/2026/06/10/servicenow-tells-customers-a-bug-left-some-of-their-data-exposed-to-the-internet/",
+          "postedAt": "2026-06-10T14:13:02.000Z"
+        },
+        {
+          "id": "om_4ce9da5232",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Why marketers must rethink loyalty as AI reshapes consumer connections",
+          "url": "https://www.retaildive.com/news/marketers-rethink-loyalty-ai-reshapes-consumer-connections/822305/",
+          "postedAt": "2026-06-10T14:02:00.000Z"
+        },
+        {
+          "id": "om_9cf4055cc2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart, Wing add 7 markets to drone delivery expansion plan",
+          "url": "https://www.retaildive.com/news/walmart-wing-add-7-markets-to-drone-delivery-expansion-plan/822380/",
+          "postedAt": "2026-06-10T13:49:00.000Z"
+        },
+        {
+          "id": "om_bebcf89a3a",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "New York now requires disclosure of AI performers in ads. How will that change transparency in advertising?",
+          "url": "https://www.marketingbrew.com/stories/new-york-ai-performers-disclosure-advertising-transparency-effects?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-10T13:17:16.000Z"
+        },
+        {
+          "id": "om_79a5d170b1",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "The problem for brands isn’t their marketing strategy — it’s their structure",
+          "url": "https://www.marketingdive.com/news/the-problem-for-brands-isnt-their-marketing-strategy-its-their-structur/821400/",
+          "postedAt": "2026-06-10T13:00:00.000Z"
+        },
+        {
+          "id": "om_9144c90326",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Jelly Belly is repositioning its brand for ‘social epicureans’",
+          "url": "https://www.marketingdive.com/news/how-jelly-belly-is-repositioning-its-brand-for-social-epicureans/822169/",
+          "postedAt": "2026-06-10T13:00:00.000Z"
+        },
+        {
+          "id": "om_32ae040450",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Beauty shoppers are hunting for value. Dollar stores are ready.",
+          "url": "https://www.retaildive.com/news/beauty-shoppers-value-hunting-dollar-stores-ready/822255/",
+          "postedAt": "2026-06-10T13:00:00.000Z"
+        },
+        {
+          "id": "om_163a5d6196",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Havas Acquires Youth Culture Agency Archrival to Expand Play in North America",
+          "url": "https://www.adweek.com/agencies/havas-acquires-youth-culture-agency-archrival-to-expand-play-in-north-america/",
+          "postedAt": "2026-06-10T11:45:00.000Z"
+        },
+        {
+          "id": "om_bd35870237",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why AT&T gave $1.2 million to first-time feature filmmakers",
+          "url": "https://www.marketingbrew.com/stories/att-untold-stories-tribeca-festival-brand-strategy-supporting-filmmakers?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-10T10:00:00.000Z"
+        },
+        {
+          "id": "om_6a9130332b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "How retailers are building more resilient delivery networks in 2026",
+          "url": "https://www.retaildive.com/spons/how-retailers-are-building-more-resilient-delivery-networks-in-2026/822310/",
+          "postedAt": "2026-06-10T09:00:00.000Z"
+        },
+        {
+          "id": "om_2f34f47a2d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Virtual Vanguard Recap: Rethinking Privacy: Consumer Trust and Data Consent",
+          "url": "https://www.adweek.com/brand-marketing/virtual-vanguard-recap-rethinking-privacy-consumer-trust-and-data-consent/",
+          "postedAt": "2026-06-10T08:00:00.000Z"
+        },
+        {
+          "id": "om_6170bc33c8",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Dentsu Revives 360i With Lean Team and Fixed-Fee Model",
+          "url": "https://www.adweek.com/agencies/dentsu-revives-360i-with-four-person-team-and-fixed-fee-model/",
+          "postedAt": "2026-06-10T08:00:00.000Z"
+        },
+        {
+          "id": "om_9a85671c48",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How American Eagle is kicking off its deal with the new face of soccer",
+          "url": "https://www.marketingdive.com/news/how-american-eagle-is-kicking-off-its-deal-with-the-new-face-of-soccer/822332/",
+          "postedAt": "2026-06-10T06:01:00.000Z"
+        },
+        {
+          "id": "om_389da6b15f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Noble People’s Mike McHale Brings Radio Cabinets Into the 21st Century",
+          "url": "https://www.adweek.com/agencies/noble-people-mike-mchale-radio-blue/",
+          "postedAt": "2026-06-10T06:00:00.000Z"
+        },
+        {
           "id": "om_5aeef6b21f",
           "source": "Social Media Today",
           "lang": "en",
@@ -707,154 +851,10 @@
           "title": "ADWEEK, Code and Theory, and ElevenLabs Are Bringing You an AI Radio Station at Cannes",
           "url": "https://www.adweek.com/agencies/adweek-code-and-theory-and-elevenlabs-are-bringing-you-an-ai-radio-station-at-cannes/",
           "postedAt": "2026-06-09T16:35:40.000Z"
-        },
-        {
-          "id": "om_0b6c651284",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Connecticut becomes second state to regulate dynamic pricing",
-          "url": "https://www.retaildive.com/news/connecticut-new-york-dynamic-pricing-bills-grocery-retail/822337/",
-          "postedAt": "2026-06-09T15:18:00.000Z"
-        },
-        {
-          "id": "om_8b26ea472c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Thredup Has a New Feature That Competes Head-on With Poshmark",
-          "url": "https://www.adweek.com/commerce/thredup-has-a-new-feature-that-competes-head-on-with-poshmark/",
-          "postedAt": "2026-06-09T15:12:49.000Z"
-        },
-        {
-          "id": "om_92027e054b",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Never heard of Rivian? With its new SUV, the EV brand wants to change that",
-          "url": "https://www.marketingbrew.com/stories/rivian-r2-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-09T15:09:59.000Z"
-        },
-        {
-          "id": "om_f6e204b64b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bed Bath & Beyond continues acquisition spree",
-          "url": "https://www.retaildive.com/news/bed-bath-beyond-acquisition-installation-renovation/822351/",
-          "postedAt": "2026-06-09T15:01:00.000Z"
-        },
-        {
-          "id": "om_3f2788e13a",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Optimus Prime will take your call: Hasbro leans into AI-driven licensing",
-          "url": "https://www.marketingdive.com/news/hasbro-launches-ai-studio-to-license-optimus-prime-mr-potato-head/822356/",
-          "postedAt": "2026-06-09T15:00:00.000Z"
-        },
-        {
-          "id": "om_8d0f97e458",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Nike and Adidas take their rivalry to the World Cup. Who will win?",
-          "url": "https://www.retaildive.com/news/nike-adidas-world-cup-retail-marketing-rivalry/822335/",
-          "postedAt": "2026-06-09T14:34:00.000Z"
-        },
-        {
-          "id": "om_04292d604a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How New CMO Jill Cress Is Pushing Babylist Past the Registry",
-          "url": "https://www.adweek.com/brand-marketing/how-new-cmo-jill-cress-is-pushing-babylist-past-the-registry/",
-          "postedAt": "2026-06-09T13:58:59.000Z"
-        },
-        {
-          "id": "om_37c7ff9fb1",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Experience Economy of Sports Marketing with the Atlanta Hawks’ Steve Koonin",
-          "url": "https://www.adweek.com/brand-marketing/the-experience-economy-of-sports-marketing-with-the-atlanta-hawks-steve-koonin/",
-          "postedAt": "2026-06-09T13:47:49.000Z"
-        },
-        {
-          "id": "om_c8db6b69f5",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Media spend on customer acquisition accelerates amid rush to AI: Gartner",
-          "url": "https://www.marketingdive.com/news/customer-acquisition-media-spend-accelerates-amid-rush-to-ai-gartner/822274/",
-          "postedAt": "2026-06-09T13:35:00.000Z"
-        },
-        {
-          "id": "om_e4d1e5564e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Nestlé’s Stefan Kovačević on Building Brands for Both Humans and AI",
-          "url": "https://www.adweek.com/brand-marketing/nestles-stefan-kovacevic-on-building-brands-for-both-humans-and-ai/",
-          "postedAt": "2026-06-09T13:10:49.000Z"
-        },
-        {
-          "id": "om_8e75397856",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Nike and Adidas take their rivalry to the World Cup. Who will win?",
-          "url": "https://www.marketingdive.com/news/nike-adidas-take-rivalry-to-world-cup-who-will-win/822288/",
-          "postedAt": "2026-06-09T13:06:00.000Z"
-        },
-        {
-          "id": "om_c9b9772ef5",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How soccer creators are helping to make the World Cup more than a moment",
-          "url": "https://www.marketingbrew.com/stories/soccer-creators-influencers-world-cup?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-09T11:00:00.000Z"
-        },
-        {
-          "id": "om_674ab1edb9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Submissions Now Open for ADWEEK Agency of the Year 2026",
-          "url": "https://www.adweek.com/agencies/submissions-now-open-for-adweek-agency-of-the-year-2026/",
-          "postedAt": "2026-06-09T07:00:54.000Z"
-        },
-        {
-          "id": "om_691bd8c084",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Discipline Behind Enduring Brands",
-          "url": "https://www.adweek.com/brand-marketing/the-discipline-behind-enduring-brands/",
-          "postedAt": "2026-06-09T06:00:00.000Z"
-        },
-        {
-          "id": "om_913f627a2c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Knix Hires Ex-Nike Marketer Cyntia Leo as CMO Amid U.S. Expansion",
-          "url": "https://www.adweek.com/commerce/knix-hires-ex-nike-marketer-cyntia-leo-as-cmo-amid-us-expansion/",
-          "postedAt": "2026-06-09T06:00:00.000Z"
-        },
-        {
-          "id": "om_2f885d2211",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Polymarket and Kalshi Say Influencer Partners Can’t Deny Election Results, Actually",
-          "url": "https://www.wired.com/story/kalshi-polymarket-influencer-election-denial-spencer-pratt/",
-          "postedAt": "2026-06-08T21:23:27.000Z"
-        },
-        {
-          "id": "om_14946061c5",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Saks Global faces pivotal year as court approves bankruptcy exit plans",
-          "url": "https://www.retaildive.com/news/saks-global-bankruptcy-exit-court-approval/822240/",
-          "postedAt": "2026-06-08T16:27:00.000Z"
-        },
-        {
-          "id": "om_c9e5fd07fe",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Coworking with Romney Evans",
-          "url": "https://www.marketingbrew.com/stories/coworking-with-romney-evans?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-08T16:10:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-10T04:47:52.438Z",
+      "lastUpdated": "2026-06-10T16:07:59.631Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
