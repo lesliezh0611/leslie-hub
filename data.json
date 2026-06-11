@@ -227,6 +227,78 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_d5cdb618c0",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "DeepSeek 招 Agent Harness 研究员，能是世界范围内第一次招聘“Harness研究员” https://app.mokahr.com/su/mCyA8 ● 招聘岗位：Agent Harness 研究员（实习/全...",
+          "url": "https://x.com/dotey/status/2064907115223720355",
+          "postedAt": "2026-06-11T03:06:35.000Z"
+        },
+        {
+          "id": "vc_dotey_3364afca94",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "这段视频展示了一个极其前沿且硬核的视频制作方式：视频完全没有使用传统的非编软件（如 Premiere 或 Final Cut），而是由 Claude Code 配合 Fable 5 通过全自动...",
+          "url": "https://x.com/dotey/status/2064904545298194855",
+          "postedAt": "2026-06-11T02:56:22.000Z"
+        },
+        {
+          "id": "vc_gdb_52182f87ca",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Use your Oracle cloud commitment for OpenAI products: https://openai.com/index/openai-on-oracle-cloud/",
+          "url": "https://x.com/gdb/status/2064899797593792687",
+          "postedAt": "2026-06-11T02:37:30.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_054d19b853",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "This is so good Increasingly the output of an agency looks like a folder of files for agents, instead of one-off assets \"Get paid for your mind, not y...",
+          "url": "https://x.com/zarazhangrui/status/2064843560248332577",
+          "postedAt": "2026-06-10T22:54:02.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_a7a8ff60a5",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "People should build agents/skills for their cross-functional teams. For example, if a design team builds a design agent/skill for the marketing team (...",
+          "url": "https://x.com/zarazhangrui/status/2064835289559023958",
+          "postedAt": "2026-06-10T22:21:10.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_fc4f35af29",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "It seems like most startups in San Francisco are selling products to each other When I ask founders who their target audience is, 90% of the time it's...",
+          "url": "https://x.com/zarazhangrui/status/2064825302359150870",
+          "postedAt": "2026-06-10T21:41:29.000Z"
+        },
+        {
+          "id": "vc_dotey_662b43826a",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Claude Design 有一个完整的 Agent 运行环境，如果把它跟 Claude Code 比较的话，只是它基于浏览器和虚拟机来构建的。它有45个工具，有24个内置skills。运行方式...",
+          "url": "https://x.com/dotey/status/2064749906800111892",
+          "postedAt": "2026-06-10T16:41:53.000Z"
+        },
+        {
+          "id": "vc_steipete_5292d5b6bf",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Armin Ronacher ⇌: Some thoughts of mine that nobody asked for on the EU's fight with Apple and my worries related to Mythos and Fable. https://luc...",
+          "url": "https://x.com/steipete/status/2064748856466636810",
+          "postedAt": "2026-06-10T15:45:00.000Z"
+        },
+        {
           "id": "vc_dotey_e695c308e5",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -254,15 +326,6 @@
           "postedAt": "2026-06-10T05:56:08.000Z"
         },
         {
-          "id": "vc_dotey_161e4d9c25",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "大量测试 Claude Design 后我的一个结论： UI/UX 设计方面 Claude 4.8 就够好了，Fable 5 没有体现出更好的 UI/UX 设计能力，甚至还不如 Claude 4.8 的设计效果...",
-          "url": "https://x.com/dotey/status/2064581575711260827",
-          "postedAt": "2026-06-10T05:33:00.000Z"
-        },
-        {
           "id": "vc_Khazix0918_417a0376b3",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -279,15 +342,6 @@
           "title": "I will be doing a virtual talk this Friday on my vibe coding process. As a non-technical person who has somehow managed to get 30k stars on GitHub, I ...",
           "url": "https://x.com/zarazhangrui/status/2064486120386379950",
           "postedAt": "2026-06-09T23:13:42.000Z"
-        },
-        {
-          "id": "vc_dotey_cecda65f1b",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "REST 了！ 但是 Fable 5 真的消耗流量超快，我刚升级了 $200 的套餐，根本不够用",
-          "url": "https://x.com/dotey/status/2064470271185080365",
-          "postedAt": "2026-06-09T22:10:43.000Z"
         },
         {
           "id": "vc_gdb_cc9f3b62c0",
@@ -317,15 +371,6 @@
           "postedAt": "2026-06-09T18:10:00.000Z"
         },
         {
-          "id": "vc_dotey_a47e5a6689",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Anthropic 今天同时发布了两个模型：Claude Fable 5 和 Claude Mythos 5。 两个模型用的是同一个底座，区别在于 Fable 5 加了一套安全分类器，面向所有用户开放...",
-          "url": "https://x.com/dotey/status/2064397772103528771",
-          "postedAt": "2026-06-09T17:22:38.000Z"
-        },
-        {
           "id": "vc_Khazix0918_c66289ccb7",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -333,24 +378,6 @@
           "title": "http://x.com/i/article/2064208729172746240",
           "url": "https://x.com/Khazix0918/status/2064215034201559142",
           "postedAt": "2026-06-09T05:16:30.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_f9c8d3e981",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Actually I think the new world might be: Markdown, HTML, SVG SVG is underrated",
-          "url": "https://x.com/zarazhangrui/status/2064108976565092706",
-          "postedAt": "2026-06-08T22:15:03.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_86953ae1f4",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "This part is so well-written and resonated SO much: \"I am the programming equivalent of a home cook\"",
-          "url": "https://x.com/zarazhangrui/status/2064101916725096810",
-          "postedAt": "2026-06-08T21:47:00.000Z"
         },
         {
           "id": "vc_gdb_dd98494a85",
@@ -378,37 +405,10 @@
           "title": "RT sam henri gold: iOS 27 framework references “foldState” and “angleDegrees” but I’m sure that’s nothing",
           "url": "https://x.com/steipete/status/2064562062525890801",
           "postedAt": "2026-06-08T19:39:58.000Z"
-        },
-        {
-          "id": "vc_steipete_9cfadba57e",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Kevin S Lin: twitter feeds are looping these past few days the pushback seems to be that it’s a workflow for the 1% while there’s some truth to t...",
-          "url": "https://x.com/steipete/status/2064028742591054188",
-          "postedAt": "2026-06-08T16:21:40.000Z"
-        },
-        {
-          "id": "vc_steipete_4bf09aa335",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Andrew Ambrosino: can’t wait to see the new Ciri today",
-          "url": "https://x.com/steipete/status/2064025494350422067",
-          "postedAt": "2026-06-08T15:12:18.000Z"
-        },
-        {
-          "id": "vc_steipete_4d79b116cc",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT George: Folks it is just control loop Think of Kubernetes. You write desired state/spec, what to observe/status, the controller, and the kubelet. Y...",
-          "url": "https://x.com/steipete/status/2064028603361140865",
-          "postedAt": "2026-06-08T12:14:32.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-10T16:07:56.294Z",
+      "lastUpdated": "2026-06-11T04:58:17.857Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-10T16:07:57.521Z",
+      "lastUpdated": "2026-06-11T04:58:19.177Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,38 @@
       },
       "articles": [
         {
+          "id": "om_338b8cd7f5",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "LinkedIn launches its own Creator Marketplace",
+          "url": "https://www.socialmediatoday.com/news/linkedin-launches-its-own-creator-marketplace/822569/",
+          "postedAt": "2026-06-10T20:36:51.000Z"
+        },
+        {
+          "id": "om_ddb7eef3b5",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Disney is mostly sold out of ad inventory through Game 5 of NBA Finals",
+          "url": "https://www.marketingbrew.com/stories/disney-nba-finals-ads?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-10T19:55:56.000Z"
+        },
+        {
+          "id": "om_35bdb52fc3",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "ChatGPT ads get measurement boost from new LiveRamp partnership",
+          "url": "https://www.marketingdive.com/news/chatgpt-ads-get-measurement-boost-from-new-liveramp-partnership/822416/",
+          "postedAt": "2026-06-10T18:00:00.000Z"
+        },
+        {
+          "id": "om_4dd9f153b9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Latin America’s World Cup Ads Have a Secret U.S. Brands Keep Missing",
+          "url": "https://www.adweek.com/brand-marketing/latin-americas-world-cup-ads-have-a-secret-us-brands-keep-missing/",
+          "postedAt": "2026-06-10T17:20:22.000Z"
+        },
+        {
           "id": "om_f277f377a5",
           "source": "Retail Dive",
           "lang": "en",
@@ -725,12 +757,12 @@
           "postedAt": "2026-06-10T14:34:45.000Z"
         },
         {
-          "id": "om_ce82cf151c",
-          "source": "TechCrunch",
+          "id": "om_1b28f36e5f",
+          "source": "Adweek",
           "lang": "en",
-          "title": "ServiceNow tells customers a bug left some of their data exposed to the internet",
-          "url": "https://techcrunch.com/2026/06/10/servicenow-tells-customers-a-bug-left-some-of-their-data-exposed-to-the-internet/",
-          "postedAt": "2026-06-10T14:13:02.000Z"
+          "title": "Over Two-Thirds of Consumers Will Ditch Brands They Don’t Trust",
+          "url": "https://www.adweek.com/agencies/over-two-thirds-of-consumers-will-ditch-brands-they-dont-trust/",
+          "postedAt": "2026-06-10T14:03:57.000Z"
         },
         {
           "id": "om_4ce9da5232",
@@ -755,6 +787,14 @@
           "title": "New York now requires disclosure of AI performers in ads. How will that change transparency in advertising?",
           "url": "https://www.marketingbrew.com/stories/new-york-ai-performers-disclosure-advertising-transparency-effects?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-06-10T13:17:16.000Z"
+        },
+        {
+          "id": "om_b5bc8bb795",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Hollywood Studios Hope for Movie Home Runs With MLB Tie-In",
+          "url": "https://www.adweek.com/brand-marketing/hollywood-studios-hope-for-movie-home-runs-with-mlb-tie-in/",
+          "postedAt": "2026-06-10T13:04:27.000Z"
         },
         {
           "id": "om_79a5d170b1",
@@ -811,50 +851,10 @@
           "title": "Virtual Vanguard Recap: Rethinking Privacy: Consumer Trust and Data Consent",
           "url": "https://www.adweek.com/brand-marketing/virtual-vanguard-recap-rethinking-privacy-consumer-trust-and-data-consent/",
           "postedAt": "2026-06-10T08:00:00.000Z"
-        },
-        {
-          "id": "om_6170bc33c8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Dentsu Revives 360i With Lean Team and Fixed-Fee Model",
-          "url": "https://www.adweek.com/agencies/dentsu-revives-360i-with-four-person-team-and-fixed-fee-model/",
-          "postedAt": "2026-06-10T08:00:00.000Z"
-        },
-        {
-          "id": "om_9a85671c48",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How American Eagle is kicking off its deal with the new face of soccer",
-          "url": "https://www.marketingdive.com/news/how-american-eagle-is-kicking-off-its-deal-with-the-new-face-of-soccer/822332/",
-          "postedAt": "2026-06-10T06:01:00.000Z"
-        },
-        {
-          "id": "om_389da6b15f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Noble People’s Mike McHale Brings Radio Cabinets Into the 21st Century",
-          "url": "https://www.adweek.com/agencies/noble-people-mike-mchale-radio-blue/",
-          "postedAt": "2026-06-10T06:00:00.000Z"
-        },
-        {
-          "id": "om_5aeef6b21f",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok shares performance data on FMCG campaigns",
-          "url": "https://www.socialmediatoday.com/news/tiktok-shares-performance-data-on-fmcg-campaigns/822448/",
-          "postedAt": "2026-06-09T21:41:23.000Z"
-        },
-        {
-          "id": "om_1dd27a5947",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK, Code and Theory, and ElevenLabs Are Bringing You an AI Radio Station at Cannes",
-          "url": "https://www.adweek.com/agencies/adweek-code-and-theory-and-elevenlabs-are-bringing-you-an-ai-radio-station-at-cannes/",
-          "postedAt": "2026-06-09T16:35:40.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-10T16:07:59.631Z",
+      "lastUpdated": "2026-06-11T04:58:21.160Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
