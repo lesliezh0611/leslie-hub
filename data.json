@@ -227,6 +227,33 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_9c619d2490",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT @tunguz: Our Anthropic overlords deciding which prompts the peasants are allowed to use.",
+          "url": "https://x.com/steipete/status/2065350955412115747",
+          "postedAt": "2026-06-12T08:30:14.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_b69b56d3e5",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2065311442065317888",
+          "url": "https://x.com/Khazix0918/status/2065312751749390542",
+          "postedAt": "2026-06-12T05:58:26.000Z"
+        },
+        {
+          "id": "vc_steipete_ad5f5a2e28",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Andrew Ambrosino: we shipped the Tibo button",
+          "url": "https://x.com/steipete/status/2065335106357854553",
+          "postedAt": "2026-06-12T03:11:43.000Z"
+        },
+        {
           "id": "vc_dotey_833e04ce74",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -234,6 +261,15 @@
           "title": "一竿一线一山水，一漂一钩一逍遥。 鱼咬不咬随它去，坐看云起日头高。 一杯一椅一 Agent，一聊一等一逍遥。 跑完没跑不必盯，起身续水伸个腰。",
           "url": "https://x.com/dotey/status/2065253289751359566",
           "postedAt": "2026-06-12T02:02:09.000Z"
+        },
+        {
+          "id": "vc_steipete_0ea6dad4c2",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Nick Dobos: Re @MatthewBerman Ship of thesus Rewrite the entire codebase for each new model release",
+          "url": "https://x.com/steipete/status/2065356843061514621",
+          "postedAt": "2026-06-12T01:35:53.000Z"
         },
         {
           "id": "vc_dotey_94dd632ef7",
@@ -263,6 +299,15 @@
           "postedAt": "2026-06-12T00:36:40.000Z"
         },
         {
+          "id": "vc_dotey_a3f089ac8e",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 马东锡 NLP: http://x.com/i/article/2065193949380403200",
+          "url": "https://x.com/dotey/status/2065431784557281743",
+          "postedAt": "2026-06-11T22:32:57.000Z"
+        },
+        {
           "id": "vc_steipete_45e329cf87",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -272,13 +317,13 @@
           "postedAt": "2026-06-11T20:58:58.000Z"
         },
         {
-          "id": "vc_dotey_c6b941fb23",
-          "source": "dotey",
-          "sourceName": "宝玉",
+          "id": "vc_steipete_3c9974c42c",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "AI 没有重新定义软件工程，AI 放大了软件工程的重要性",
-          "url": "https://x.com/dotey/status/2065170379664973949",
-          "postedAt": "2026-06-11T20:32:42.000Z"
+          "title": "RT Ryan Brewer: Damn how did this leak???",
+          "url": "https://x.com/steipete/status/2065352744018247926",
+          "postedAt": "2026-06-11T20:38:23.000Z"
         },
         {
           "id": "vc_sama_71086403f3",
@@ -306,42 +351,6 @@
           "title": "This is tomorrow! Sneak peek of the deck I'll be sharing:",
           "url": "https://x.com/zarazhangrui/status/2065140462709506108",
           "postedAt": "2026-06-11T18:33:49.000Z"
-        },
-        {
-          "id": "vc_steipete_04680f656f",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "writing mac apps is still hard.",
-          "url": "https://x.com/steipete/status/2065132980398444945",
-          "postedAt": "2026-06-11T18:04:05.000Z"
-        },
-        {
-          "id": "vc_steipete_ae1c464ba3",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Part of the OpenClaw hardening work is reducing surface risk; for some media conversion we had to shell out to ffmpeg. In the next release that can no...",
-          "url": "https://x.com/steipete/status/2064999763397980286",
-          "postedAt": "2026-06-11T09:14:44.000Z"
-        },
-        {
-          "id": "vc_steipete_5f1091f4bc",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Here's a simple loop: Tell codex to maintain your repos, wake up every 5 minutes and direct work to threads. That makes it easy to parallelize+steer w...",
-          "url": "https://x.com/steipete/status/2064998499780084154",
-          "postedAt": "2026-06-11T09:09:42.000Z"
-        },
-        {
-          "id": "vc_steipete_6935fd48ef",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Gergely Orosz: This shows yet again how this limitation was never about \"safety\" but about Anthropic doing stuff just because they thought they can...",
-          "url": "https://x.com/steipete/status/2065003719771730063",
-          "postedAt": "2026-06-11T08:12:04.000Z"
         },
         {
           "id": "vc_Khazix0918_45badb85f4",
@@ -396,19 +405,10 @@
           "title": "The barrier for non-technical people using coding agents was never the interface. Chatting is the easiest UI ever invented The barrier is that they do...",
           "url": "https://x.com/zarazhangrui/status/2064587398529606082",
           "postedAt": "2026-06-10T05:56:08.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_417a0376b3",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2064543977328832512",
-          "url": "https://x.com/Khazix0918/status/2064546404559999014",
-          "postedAt": "2026-06-10T03:13:14.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-12T05:02:03.921Z",
+      "lastUpdated": "2026-06-12T15:39:06.744Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-12T05:02:05.404Z",
+      "lastUpdated": "2026-06-12T15:39:08.038Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -692,6 +692,46 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_6824069a88",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Geico Gecko steps into new role as AI-generated podcast guest",
+          "url": "https://www.marketingdive.com/news/geico-gecko-steps-into-new-role-as-ai-generated-podcast-guest/822767/",
+          "postedAt": "2026-06-12T14:32:00.000Z"
+        },
+        {
+          "id": "om_99d8aa380b",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: Google enlists Walmart Connect to enhance YouTube ad insights",
+          "url": "https://www.marketingdive.com/news/sociable-google-enlists-walmart-connect-to-enhance-youtube-ad-insights/822769/",
+          "postedAt": "2026-06-12T13:41:00.000Z"
+        },
+        {
+          "id": "om_589f3987eb",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "AI disclosure labels don’t hurt ad performance: Here’s what the numbers say",
+          "url": "https://www.marketingdive.com/news/ai-disclosure-labels-dont-hurt-ad-performance-heres-what-the-numbers-say/822711/",
+          "postedAt": "2026-06-12T12:00:00.000Z"
+        },
+        {
+          "id": "om_9d2f858a0a",
+          "source": "Wired",
+          "lang": "en",
+          "title": "The US Is Requiring Foreign Influencers to Get Work Visas for the 2026 World Cup",
+          "url": "https://www.wired.com/story/2026-world-cup-us-influencers-visa/",
+          "postedAt": "2026-06-12T10:00:00.000Z"
+        },
+        {
+          "id": "om_6f8d4fcca6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 10 Campaigns That Caught Our Eye, From Uber Eats to American Eagle",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-10-campaigns-that-caught-our-eye-from-uber-eats-to-american-eagle/",
+          "postedAt": "2026-06-12T06:00:00.000Z"
+        },
         {
           "id": "om_e3ccc007d0",
           "source": "Social Media Today",
@@ -811,50 +851,10 @@
           "title": "Why T-Mobile is going all-in on customer rewards",
           "url": "https://www.marketingbrew.com/stories/why-t-mobile-is-going-all-in-on-customer-rewards?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-06-11T10:00:00.000Z"
-        },
-        {
-          "id": "om_0fbb9d0e12",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Amazon Exec Reveals What the New Alexa Has That Rufus Didn’t",
-          "url": "https://www.adweek.com/commerce/amazon-exec-reveals-what-the-new-alexa-has-that-rufus-didnt/",
-          "postedAt": "2026-06-11T09:00:00.000Z"
-        },
-        {
-          "id": "om_bedc473935",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Crocs Made a Punchline Into a Competitive Advantage",
-          "url": "https://www.adweek.com/brand-marketing/how-crocs-made-a-punchline-into-a-competitive-advantage/",
-          "postedAt": "2026-06-11T08:56:34.000Z"
-        },
-        {
-          "id": "om_ddb7eef3b5",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Disney is mostly sold out of ad inventory through Game 5 of NBA Finals",
-          "url": "https://www.marketingbrew.com/stories/disney-nba-finals-ads?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-10T19:55:56.000Z"
-        },
-        {
-          "id": "om_35bdb52fc3",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "ChatGPT ads get measurement boost from new LiveRamp partnership",
-          "url": "https://www.marketingdive.com/news/chatgpt-ads-get-measurement-boost-from-new-liveramp-partnership/822416/",
-          "postedAt": "2026-06-10T18:00:00.000Z"
-        },
-        {
-          "id": "om_f277f377a5",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Consumer pain worsens as inflation hits 3-year high",
-          "url": "https://www.retaildive.com/news/may-inflation-highest-three-years/822482/",
-          "postedAt": "2026-06-10T15:45:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-12T05:02:07.127Z",
+      "lastUpdated": "2026-06-12T15:39:10.012Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
