@@ -227,6 +227,96 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_833e04ce74",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "一竿一线一山水，一漂一钩一逍遥。 鱼咬不咬随它去，坐看云起日头高。 一杯一椅一 Agent，一聊一等一逍遥。 跑完没跑不必盯，起身续水伸个腰。",
+          "url": "https://x.com/dotey/status/2065253289751359566",
+          "postedAt": "2026-06-12T02:02:09.000Z"
+        },
+        {
+          "id": "vc_dotey_94dd632ef7",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Codex 真是把 Token 用量重置玩出花开了，邀请好友，双方都获得一次重置机会，自己重置。",
+          "url": "https://x.com/dotey/status/2065241545532395595",
+          "postedAt": "2026-06-12T01:15:29.000Z"
+        },
+        {
+          "id": "vc_dotey_53623abe5c",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 歸藏(guizang.ai): http://x.com/i/article/2065096982310567936",
+          "url": "https://x.com/dotey/status/2065240929640808874",
+          "postedAt": "2026-06-12T00:38:47.000Z"
+        },
+        {
+          "id": "vc_dotey_4c14454608",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "收到 ChatGPT pro 的纪念笔了，感谢 @ChatGPTapp ❤️",
+          "url": "https://x.com/dotey/status/2065231779095531731",
+          "postedAt": "2026-06-12T00:36:40.000Z"
+        },
+        {
+          "id": "vc_steipete_45e329cf87",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Getting Chris to do a PR with Codex!",
+          "url": "https://x.com/steipete/status/2065176989359808636",
+          "postedAt": "2026-06-11T20:58:58.000Z"
+        },
+        {
+          "id": "vc_dotey_c6b941fb23",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "AI 没有重新定义软件工程，AI 放大了软件工程的重要性",
+          "url": "https://x.com/dotey/status/2065170379664973949",
+          "postedAt": "2026-06-11T20:32:42.000Z"
+        },
+        {
+          "id": "vc_sama_71086403f3",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "really looking forward to working together!",
+          "url": "https://x.com/sama/status/2065160791205310565",
+          "postedAt": "2026-06-11T19:54:36.000Z"
+        },
+        {
+          "id": "vc_gdb_d6be39a031",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "welcome @ona_hq to the team, to help organizations deploy agents securely in production!",
+          "url": "https://x.com/gdb/status/2065155654286020628",
+          "postedAt": "2026-06-11T19:34:11.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_349ec171e6",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "This is tomorrow! Sneak peek of the deck I'll be sharing:",
+          "url": "https://x.com/zarazhangrui/status/2065140462709506108",
+          "postedAt": "2026-06-11T18:33:49.000Z"
+        },
+        {
+          "id": "vc_steipete_04680f656f",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "writing mac apps is still hard.",
+          "url": "https://x.com/steipete/status/2065132980398444945",
+          "postedAt": "2026-06-11T18:04:05.000Z"
+        },
+        {
           "id": "vc_steipete_ae1c464ba3",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -254,33 +344,6 @@
           "postedAt": "2026-06-11T08:12:04.000Z"
         },
         {
-          "id": "vc_dotey_a85097ef46",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "baoyu-design skill （让你本地运行 Claude Design 的 Skill）更新，现在支持导入 figma 本地文件（Figma可以保存成 xxx.fig 文件）。比如你有一个设计系统的 Fi...",
-          "url": "https://x.com/dotey/status/2064959133535658144",
-          "postedAt": "2026-06-11T06:33:17.000Z"
-        },
-        {
-          "id": "vc_dotey_b081055375",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "OpenDoor 裁掉了其在印度的整个离岸团队（200多人），并正以美国本土规模更小的 AI 原生团队取而代之。 AI 未来可能也会影响外包行业的运作模式。",
-          "url": "https://x.com/dotey/status/2064950294711013807",
-          "postedAt": "2026-06-11T05:58:09.000Z"
-        },
-        {
-          "id": "vc_dotey_68b6e558bf",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "哈哈，越来越多的企业终于发现 AI 比员工还贵了！",
-          "url": "https://x.com/dotey/status/2064946543791128758",
-          "postedAt": "2026-06-11T05:43:15.000Z"
-        },
-        {
           "id": "vc_Khazix0918_45badb85f4",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -290,24 +353,6 @@
           "postedAt": "2026-06-11T05:13:39.000Z"
         },
         {
-          "id": "vc_dotey_d5cdb618c0",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "DeepSeek 招 Agent Harness 研究员，能是世界范围内第一次招聘“Harness研究员” https://app.mokahr.com/su/mCyA8 ● 招聘岗位：Agent Harness 研究员（实习/全...",
-          "url": "https://x.com/dotey/status/2064907115223720355",
-          "postedAt": "2026-06-11T03:06:35.000Z"
-        },
-        {
-          "id": "vc_dotey_3364afca94",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "这段视频展示了一个极其前沿且硬核的视频制作方式：视频完全没有使用传统的非编软件（如 Premiere 或 Final Cut），而是由 Claude Code 配合 Fable 5 通过全自动...",
-          "url": "https://x.com/dotey/status/2064904545298194855",
-          "postedAt": "2026-06-11T02:56:22.000Z"
-        },
-        {
           "id": "vc_gdb_52182f87ca",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -315,15 +360,6 @@
           "title": "Use your Oracle cloud commitment for OpenAI products: https://openai.com/index/openai-on-oracle-cloud/",
           "url": "https://x.com/gdb/status/2064899797593792687",
           "postedAt": "2026-06-11T02:37:30.000Z"
-        },
-        {
-          "id": "vc_steipete_7d078dda76",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Arnaud Bertrand: By the way, public service announcement: if you're one of the numerous people posting about Anthropic's dystopian ways and you're ...",
-          "url": "https://x.com/steipete/status/2065008372953538788",
-          "postedAt": "2026-06-11T02:08:02.000Z"
         },
         {
           "id": "vc_zarazhangrui_054d19b853",
@@ -353,15 +389,6 @@
           "postedAt": "2026-06-10T21:41:29.000Z"
         },
         {
-          "id": "vc_steipete_8d223ff272",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT SemiAnalysis: Re Recently, we purchased one of each Anthropic/OpenAI subscription plan and randomly ran long horizon coding tasks until we exhauste...",
-          "url": "https://x.com/steipete/status/2064997080192696678",
-          "postedAt": "2026-06-10T21:00:43.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_26e2f0301e",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -378,37 +405,10 @@
           "title": "http://x.com/i/article/2064543977328832512",
           "url": "https://x.com/Khazix0918/status/2064546404559999014",
           "postedAt": "2026-06-10T03:13:14.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_d80e8aeb3d",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "I will be doing a virtual talk this Friday on my vibe coding process. As a non-technical person who has somehow managed to get 30k stars on GitHub, I ...",
-          "url": "https://x.com/zarazhangrui/status/2064486120386379950",
-          "postedAt": "2026-06-09T23:13:42.000Z"
-        },
-        {
-          "id": "vc_gdb_cc9f3b62c0",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Cool to see University of North Dakota (where I took a number of classes growing up) innovating and trying out offering A.I degrees: https://www.nytim...",
-          "url": "https://x.com/gdb/status/2064469421490659751",
-          "postedAt": "2026-06-09T22:07:20.000Z"
-        },
-        {
-          "id": "vc_karpathy_3c7730e843",
-          "source": "karpathy",
-          "sourceName": "Andrej Karpathy",
-          "platform": "x",
-          "title": "This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's ...",
-          "url": "https://x.com/karpathy/status/2064409694761054332",
-          "postedAt": "2026-06-09T18:10:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-11T16:20:17.062Z",
+      "lastUpdated": "2026-06-12T05:02:03.921Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-11T16:20:18.290Z",
+      "lastUpdated": "2026-06-12T05:02:05.404Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -692,6 +692,22 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_e3ccc007d0",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "LinkedIn outlines effective B2B marketing strategies",
+          "url": "https://www.socialmediatoday.com/news/linkedin-outlines-effective-b2b-marketing-strategies/822753/",
+          "postedAt": "2026-06-11T23:07:17.000Z"
+        },
+        {
+          "id": "om_431d0585e2",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Sir Martin Sorrell Sees No Easy Exit for Holding Companies",
+          "url": "https://www.adweek.com/brand-marketing/sir-martin-sorrell-sees-no-easy-exit-for-holding-companies/",
+          "postedAt": "2026-06-11T17:16:08.000Z"
+        },
         {
           "id": "om_419d9454ed",
           "source": "Retail Dive",
@@ -813,30 +829,6 @@
           "postedAt": "2026-06-11T08:56:34.000Z"
         },
         {
-          "id": "om_963cd69a05",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "These 18 Campaigns Are Competing for the Coveted Cannes Titanium Lion",
-          "url": "https://www.adweek.com/creativity/these-18-campaigns-are-competing-for-the-coveted-cannes-titanium-lion/",
-          "postedAt": "2026-06-11T07:31:02.000Z"
-        },
-        {
-          "id": "om_0a6b0c68cc",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Walmart Challenges Amazon With New Google Deal",
-          "url": "https://www.adweek.com/commerce/walmart-challenges-amazon-with-google-deal/",
-          "postedAt": "2026-06-11T06:00:00.000Z"
-        },
-        {
-          "id": "om_338b8cd7f5",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "LinkedIn launches its own Creator Marketplace",
-          "url": "https://www.socialmediatoday.com/news/linkedin-launches-its-own-creator-marketplace/822569/",
-          "postedAt": "2026-06-10T20:36:51.000Z"
-        },
-        {
           "id": "om_ddb7eef3b5",
           "source": "Marketing Brew",
           "lang": "en",
@@ -851,10 +843,18 @@
           "title": "ChatGPT ads get measurement boost from new LiveRamp partnership",
           "url": "https://www.marketingdive.com/news/chatgpt-ads-get-measurement-boost-from-new-liveramp-partnership/822416/",
           "postedAt": "2026-06-10T18:00:00.000Z"
+        },
+        {
+          "id": "om_f277f377a5",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Consumer pain worsens as inflation hits 3-year high",
+          "url": "https://www.retaildive.com/news/may-inflation-highest-three-years/822482/",
+          "postedAt": "2026-06-10T15:45:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-11T16:20:20.283Z",
+      "lastUpdated": "2026-06-12T05:02:07.127Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
