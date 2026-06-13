@@ -227,6 +227,42 @@
       ],
       "articles": [
         {
+          "id": "vc_Khazix0918_b55c0e5b51",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2065786589650026496",
+          "url": "https://x.com/Khazix0918/status/2065790596653183156",
+          "postedAt": "2026-06-13T13:37:13.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_3494ab275d",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "千言万语汇成一句话： 国产之光，无愧于此。 GLM 5.2今晚Coding Plan上线，下周开源。",
+          "url": "https://x.com/Khazix0918/status/2065710147931087298",
+          "postedAt": "2026-06-13T08:17:32.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_137e41b454",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "There are SO many people, friends, acquaintances, followers, startups, asking me to try their new AI products every day Like I get at least 3 such req...",
+          "url": "https://x.com/zarazhangrui/status/2065696088519270402",
+          "postedAt": "2026-06-13T07:21:40.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_0b71b446e6",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "A viral product has a founder people can see and hear People buy from people. A screen recording from the founder beats a corporate promo video or a w...",
+          "url": "https://x.com/zarazhangrui/status/2065674426197393779",
+          "postedAt": "2026-06-13T05:55:36.000Z"
+        },
+        {
           "id": "vc_steipete_063dcfdcb5",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -308,6 +344,15 @@
           "postedAt": "2026-06-12T16:37:19.000Z"
         },
         {
+          "id": "vc_zarazhangrui_fa32071da7",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "RT YouMind: YouMind 1.0 is officially here. The loudest story about creating is a heavy one. More discipline. More originality. More talent. More audi...",
+          "url": "https://x.com/zarazhangrui/status/2065668004608909465",
+          "postedAt": "2026-06-12T07:00:01.000Z"
+        },
+        {
           "id": "vc_Khazix0918_b69b56d3e5",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -360,55 +405,10 @@
           "title": "welcome @ona_hq to the team, to help organizations deploy agents securely in production!",
           "url": "https://x.com/gdb/status/2065155654286020628",
           "postedAt": "2026-06-11T19:34:11.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_349ec171e6",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "This is tomorrow! Sneak peek of the deck I'll be sharing:",
-          "url": "https://x.com/zarazhangrui/status/2065140462709506108",
-          "postedAt": "2026-06-11T18:33:49.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_45badb85f4",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2064933671258439680",
-          "url": "https://x.com/Khazix0918/status/2064939092606103893",
-          "postedAt": "2026-06-11T05:13:39.000Z"
-        },
-        {
-          "id": "vc_gdb_52182f87ca",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Use your Oracle cloud commitment for OpenAI products: https://openai.com/index/openai-on-oracle-cloud/",
-          "url": "https://x.com/gdb/status/2064899797593792687",
-          "postedAt": "2026-06-11T02:37:30.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_054d19b853",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "This is so good Increasingly the output of an agency looks like a folder of files for agents, instead of one-off assets \"Get paid for your mind, not y...",
-          "url": "https://x.com/zarazhangrui/status/2064843560248332577",
-          "postedAt": "2026-06-10T22:54:02.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_a7a8ff60a5",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "People should build agents/skills for their cross-functional teams. For example, if a design team builds a design agent/skill for the marketing team (...",
-          "url": "https://x.com/zarazhangrui/status/2064835289559023958",
-          "postedAt": "2026-06-10T22:21:10.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-13T04:50:25.386Z",
+      "lastUpdated": "2026-06-13T14:24:54.016Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-13T04:50:26.615Z",
+      "lastUpdated": "2026-06-13T14:24:55.281Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -854,7 +854,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-13T04:50:28.244Z",
+      "lastUpdated": "2026-06-13T14:24:57.106Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
