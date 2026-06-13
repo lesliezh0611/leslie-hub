@@ -227,13 +227,85 @@
       ],
       "articles": [
         {
-          "id": "vc_steipete_9c619d2490",
+          "id": "vc_steipete_063dcfdcb5",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
           "platform": "x",
-          "title": "RT @tunguz: Our Anthropic overlords deciding which prompts the peasants are allowed to use.",
-          "url": "https://x.com/steipete/status/2065350955412115747",
-          "postedAt": "2026-06-12T08:30:14.000Z"
+          "title": "I can barely keep up with implementing/testing/landing all the Issues/PRs folks submit to https://github.com/openclaw/crabbox#providers Codex runs INS...",
+          "url": "https://x.com/steipete/status/2065650561484267540",
+          "postedAt": "2026-06-13T04:20:46.000Z"
+        },
+        {
+          "id": "vc_dotey_9cab512343",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 图拉鼎: 本来要 Anthropic 要在旧金山搞“Fable 5 Build Day”的，现在降为“Opus 4.8 Build Day”了。哈哈哈哈哈哈哈哈哈。",
+          "url": "https://x.com/dotey/status/2065651866361352437",
+          "postedAt": "2026-06-13T04:16:31.000Z"
+        },
+        {
+          "id": "vc_steipete_ab40b18d2b",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Will Manidis: Dario (48 hours ago): “US gov should be able to block model deployment” USG: *export controls models* Dario: “not like that”",
+          "url": "https://x.com/steipete/status/2065617841861329105",
+          "postedAt": "2026-06-13T00:47:11.000Z"
+        },
+        {
+          "id": "vc_steipete_64a5460c82",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "“not consistently candid in their communications” is my fav new americanism. https://www.theinformation.com/articles/anthropic-blindsides-business-p...",
+          "url": "https://x.com/steipete/status/2065574894545560062",
+          "postedAt": "2026-06-12T23:20:06.000Z"
+        },
+        {
+          "id": "vc_steipete_fa0eec0c9e",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "codex -C ~/projects/openclaw -m gpt-5.5-cyber time",
+          "url": "https://x.com/steipete/status/2065567852162355551",
+          "postedAt": "2026-06-12T22:52:07.000Z"
+        },
+        {
+          "id": "vc_steipete_2c416fd8e5",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "How am I only now finding out about appshots? I was dragging screenshots into codex live a caveman.",
+          "url": "https://x.com/steipete/status/2065564094879637546",
+          "postedAt": "2026-06-12T22:37:11.000Z"
+        },
+        {
+          "id": "vc_gdb_79e7135adb",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "powerful & cool way to navigate a website, makes it feel so much more interactive and intuitive",
+          "url": "https://x.com/gdb/status/2065514424278901018",
+          "postedAt": "2026-06-12T19:19:48.000Z"
+        },
+        {
+          "id": "vc_karpathy_d83ba76251",
+          "source": "karpathy",
+          "sourceName": "Andrej Karpathy",
+          "platform": "x",
+          "title": "In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circl...",
+          "url": "https://x.com/karpathy/status/2065490793092337691",
+          "postedAt": "2026-06-12T17:45:54.000Z"
+        },
+        {
+          "id": "vc_dotey_7d9294e6a8",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "祝贺 YouMind 发布 1.0 🎉",
+          "url": "https://x.com/dotey/status/2065473530829934958",
+          "postedAt": "2026-06-12T16:37:19.000Z"
         },
         {
           "id": "vc_Khazix0918_b69b56d3e5",
@@ -245,13 +317,13 @@
           "postedAt": "2026-06-12T05:58:26.000Z"
         },
         {
-          "id": "vc_steipete_ad5f5a2e28",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
+          "id": "vc_dotey_129ca4f1d9",
+          "source": "dotey",
+          "sourceName": "宝玉",
           "platform": "x",
-          "title": "RT Andrew Ambrosino: we shipped the Tibo button",
-          "url": "https://x.com/steipete/status/2065335106357854553",
-          "postedAt": "2026-06-12T03:11:43.000Z"
+          "title": "RT LinearUncle: 如果你要追求终极的coding agent自由，目前只有pi才能给你安心。 如果你一直想试试 pi + deepseek，但是不知道怎么配置，强烈推荐新手查看这篇...",
+          "url": "https://x.com/dotey/status/2065648410640748583",
+          "postedAt": "2026-06-12T04:50:38.000Z"
         },
         {
           "id": "vc_dotey_833e04ce74",
@@ -263,15 +335,6 @@
           "postedAt": "2026-06-12T02:02:09.000Z"
         },
         {
-          "id": "vc_steipete_0ea6dad4c2",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Nick Dobos: Re @MatthewBerman Ship of thesus Rewrite the entire codebase for each new model release",
-          "url": "https://x.com/steipete/status/2065356843061514621",
-          "postedAt": "2026-06-12T01:35:53.000Z"
-        },
-        {
           "id": "vc_dotey_94dd632ef7",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -279,51 +342,6 @@
           "title": "Codex 真是把 Token 用量重置玩出花开了，邀请好友，双方都获得一次重置机会，自己重置。",
           "url": "https://x.com/dotey/status/2065241545532395595",
           "postedAt": "2026-06-12T01:15:29.000Z"
-        },
-        {
-          "id": "vc_dotey_53623abe5c",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 歸藏(guizang.ai): http://x.com/i/article/2065096982310567936",
-          "url": "https://x.com/dotey/status/2065240929640808874",
-          "postedAt": "2026-06-12T00:38:47.000Z"
-        },
-        {
-          "id": "vc_dotey_4c14454608",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "收到 ChatGPT pro 的纪念笔了，感谢 @ChatGPTapp ❤️",
-          "url": "https://x.com/dotey/status/2065231779095531731",
-          "postedAt": "2026-06-12T00:36:40.000Z"
-        },
-        {
-          "id": "vc_dotey_a3f089ac8e",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 马东锡 NLP: http://x.com/i/article/2065193949380403200",
-          "url": "https://x.com/dotey/status/2065431784557281743",
-          "postedAt": "2026-06-11T22:32:57.000Z"
-        },
-        {
-          "id": "vc_steipete_45e329cf87",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Getting Chris to do a PR with Codex!",
-          "url": "https://x.com/steipete/status/2065176989359808636",
-          "postedAt": "2026-06-11T20:58:58.000Z"
-        },
-        {
-          "id": "vc_steipete_3c9974c42c",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Ryan Brewer: Damn how did this leak???",
-          "url": "https://x.com/steipete/status/2065352744018247926",
-          "postedAt": "2026-06-11T20:38:23.000Z"
         },
         {
           "id": "vc_sama_71086403f3",
@@ -387,28 +405,10 @@
           "title": "People should build agents/skills for their cross-functional teams. For example, if a design team builds a design agent/skill for the marketing team (...",
           "url": "https://x.com/zarazhangrui/status/2064835289559023958",
           "postedAt": "2026-06-10T22:21:10.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_fc4f35af29",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "It seems like most startups in San Francisco are selling products to each other When I ask founders who their target audience is, 90% of the time it's...",
-          "url": "https://x.com/zarazhangrui/status/2064825302359150870",
-          "postedAt": "2026-06-10T21:41:29.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_26e2f0301e",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "The barrier for non-technical people using coding agents was never the interface. Chatting is the easiest UI ever invented The barrier is that they do...",
-          "url": "https://x.com/zarazhangrui/status/2064587398529606082",
-          "postedAt": "2026-06-10T05:56:08.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-12T15:39:06.744Z",
+      "lastUpdated": "2026-06-13T04:50:25.386Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-12T15:39:08.038Z",
+      "lastUpdated": "2026-06-13T04:50:26.615Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,22 @@
       },
       "articles": [
         {
+          "id": "om_b6e651db0e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Sleep Number files for bankruptcy, inks merger deal",
+          "url": "https://www.retaildive.com/news/sleep-number-files-bankruptcy-inks-merger-deal/822775/",
+          "postedAt": "2026-06-12T16:22:00.000Z"
+        },
+        {
+          "id": "om_c68199ab23",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: Trump loves inflation and Abercrombie opens a ‘pinnacle’ store in SoHo",
+          "url": "https://www.retaildive.com/news/the-weekly-closeout-trump-loves-inflation-and-abercrombie-opens-a-pinnacl/822705/",
+          "postedAt": "2026-06-12T15:53:00.000Z"
+        },
+        {
           "id": "om_6824069a88",
           "source": "Marketing Dive",
           "lang": "en",
@@ -707,6 +723,14 @@
           "title": "Sociable: Google enlists Walmart Connect to enhance YouTube ad insights",
           "url": "https://www.marketingdive.com/news/sociable-google-enlists-walmart-connect-to-enhance-youtube-ad-insights/822769/",
           "postedAt": "2026-06-12T13:41:00.000Z"
+        },
+        {
+          "id": "om_347f738493",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "5 Marketer Moves to Know This Week: Knix, Bayer, and More",
+          "url": "https://www.adweek.com/brand-marketing/5-marketers-moves-to-know-this-week-knix-bayer-and-more/",
+          "postedAt": "2026-06-12T12:57:29.000Z"
         },
         {
           "id": "om_589f3987eb",
@@ -827,34 +851,10 @@
           "title": "EXCLUSIVE: HP Hands Global Media to Publicis, Ending Omnicom’s 17-Year Run",
           "url": "https://www.adweek.com/agencies/exclusive-hp-hands-global-media-to-publicis-ending-omnicoms-17-year-run/",
           "postedAt": "2026-06-11T11:20:06.000Z"
-        },
-        {
-          "id": "om_8efeae1d83",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Secret Behind Marketing Sleep and Disrupting a $585 Billion Health Market ft. CEO Tim Rosa",
-          "url": "https://www.adweek.com/brand-marketing/the-secret-behind-marketing-sleep-and-disrupting-a-585-billion-health-market-ft-ceo-tim-rosa/",
-          "postedAt": "2026-06-11T11:13:03.000Z"
-        },
-        {
-          "id": "om_eab3d4ffaa",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Audio First: How Tonies Is Winning the Battle for Kids’ Attention",
-          "url": "https://www.adweek.com/brand-marketing/audio-first-how-tonies-is-winning-the-battle-for-kids-attention/",
-          "postedAt": "2026-06-11T10:45:16.000Z"
-        },
-        {
-          "id": "om_09de375aa9",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why T-Mobile is going all-in on customer rewards",
-          "url": "https://www.marketingbrew.com/stories/why-t-mobile-is-going-all-in-on-customer-rewards?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-11T10:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-12T15:39:10.012Z",
+      "lastUpdated": "2026-06-13T04:50:28.244Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
