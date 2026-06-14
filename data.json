@@ -227,6 +227,24 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_93b4b57121",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "当年 GPT 3.5 的时候，很多人在提示词里面让它把自己当成 GPT-4，号称性能就更好，你现在信吗？",
+          "url": "https://x.com/dotey/status/2066056108884566122",
+          "postedAt": "2026-06-14T07:12:16.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_fdfec83eeb",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Great essay on taste and how to cultivate it Taste is not just personal preference; good taste requires mastery and experience",
+          "url": "https://x.com/zarazhangrui/status/2066036778713362747",
+          "postedAt": "2026-06-14T05:55:27.000Z"
+        },
+        {
           "id": "vc_steipete_7ad2326ae4",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -297,15 +315,6 @@
           "title": "RT jason: Re @steipete https://jxnl.co/writing/2026/05/10/codex-maxxing/",
           "url": "https://x.com/steipete/status/2065940661866807297",
           "postedAt": "2026-06-13T21:45:42.000Z"
-        },
-        {
-          "id": "vc_dotey_b9aaf5ea69",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "首先这个 Skill 很好，另外提供一个额外选择： 可以试试用 Claude Design 生成一份简历试试，也许你会喜欢",
-          "url": "https://x.com/dotey/status/2065863609507258631",
-          "postedAt": "2026-06-13T18:27:21.000Z"
         },
         {
           "id": "vc_Khazix0918_b55c0e5b51",
@@ -396,19 +405,10 @@
           "title": "really looking forward to working together!",
           "url": "https://x.com/sama/status/2065160791205310565",
           "postedAt": "2026-06-11T19:54:36.000Z"
-        },
-        {
-          "id": "vc_gdb_d6be39a031",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "welcome @ona_hq to the team, to help organizations deploy agents securely in production!",
-          "url": "https://x.com/gdb/status/2065155654286020628",
-          "postedAt": "2026-06-11T19:34:11.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-14T05:05:48.433Z",
+      "lastUpdated": "2026-06-14T14:27:40.084Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_21d7efc54b",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "The hidden pattern behind successful products | Mark Pincus (Founder of Zynga)",
+          "url": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful",
+          "postedAt": "2026-06-14T12:31:44.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_ac6a024f40",
           "source": "Lenny's Podcast",
@@ -528,14 +536,6 @@
           "postedAt": "2026-06-01T15:01:46.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_88ebf5ab4f",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Building an iPhone app with zero technical skills | Bryce Rattner Keithley",
-          "url": "https://www.lennysnewsletter.com/p/building-an-iphone-app-with-zero",
-          "postedAt": "2026-06-01T12:04:51.000Z"
-        },
-        {
           "id": "en_pod_lex_fridman_podcast_bc3f4fb2e4",
           "source": "Lex Fridman Podcast",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-14T05:05:50.523Z",
+      "lastUpdated": "2026-06-14T14:27:41.141Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -854,7 +854,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-14T05:05:53.152Z",
+      "lastUpdated": "2026-06-14T14:27:43.046Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
