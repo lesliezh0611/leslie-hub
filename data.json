@@ -227,6 +227,87 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_7ad2326ae4",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "This shortage of chips is getting out of hand.",
+          "url": "https://x.com/steipete/status/2065998839467933862",
+          "postedAt": "2026-06-14T03:24:42.000Z"
+        },
+        {
+          "id": "vc_steipete_541af60bc0",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Got a PayPal verification text and thought I been hacked, but it was just codex signing up for a web service it needed.",
+          "url": "https://x.com/steipete/status/2065997212015067508",
+          "postedAt": "2026-06-14T03:18:14.000Z"
+        },
+        {
+          "id": "vc_dotey_b302f3856c",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "模型是根本，Harness层相对好补齐，但Harness这层不需要太多垂直领域的，Claude Design 很快就会合并到 Claude Desktop，Codex 在下一代或者几代模型能力够了后...",
+          "url": "https://x.com/dotey/status/2065991056261312674",
+          "postedAt": "2026-06-14T02:53:46.000Z"
+        },
+        {
+          "id": "vc_dotey_2af840b400",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "精细调整字型字号颜色，确实是设计师的日常。但我觉得用 AI Agent 辅助设计之后，修改的方式也得跟着变： 1、设计系统要用起来 为什么需要手动精调字型字号、颜...",
+          "url": "https://x.com/dotey/status/2065980545645895966",
+          "postedAt": "2026-06-14T02:12:00.000Z"
+        },
+        {
+          "id": "vc_dotey_d45fe3ec32",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "给 Agent 交代任务的时候一定说清楚怎么验证，然后就怎么需要管中间结果了",
+          "url": "https://x.com/dotey/status/2065948642301685829",
+          "postedAt": "2026-06-14T00:05:14.000Z"
+        },
+        {
+          "id": "vc_steipete_f45c05f1d2",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Omar Shahine: Add this shortcut to your iOS Home Screen so you can search for Codex. And use this icon https://raw.githubusercontent.com/lobehub/lo...",
+          "url": "https://x.com/steipete/status/2065998694877626387",
+          "postedAt": "2026-06-13T23:55:55.000Z"
+        },
+        {
+          "id": "vc_dotey_1cadbb9921",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "举一个具体的用 Claude Design 更新设计和代码的例子 我有一个视频字幕编辑器工具，是 Claude Design 做的设计，之前标题文字和下面的信息是放在一行，标题一长...",
+          "url": "https://x.com/dotey/status/2065940342264770589",
+          "postedAt": "2026-06-13T23:32:15.000Z"
+        },
+        {
+          "id": "vc_steipete_cf986a5d0a",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT jason: Re @steipete https://jxnl.co/writing/2026/05/10/codex-maxxing/",
+          "url": "https://x.com/steipete/status/2065940661866807297",
+          "postedAt": "2026-06-13T21:45:42.000Z"
+        },
+        {
+          "id": "vc_dotey_b9aaf5ea69",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "首先这个 Skill 很好，另外提供一个额外选择： 可以试试用 Claude Design 生成一份简历试试，也许你会喜欢",
+          "url": "https://x.com/dotey/status/2065863609507258631",
+          "postedAt": "2026-06-13T18:27:21.000Z"
+        },
+        {
           "id": "vc_Khazix0918_b55c0e5b51",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -272,51 +353,6 @@
           "postedAt": "2026-06-13T04:20:46.000Z"
         },
         {
-          "id": "vc_dotey_9cab512343",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 图拉鼎: 本来要 Anthropic 要在旧金山搞“Fable 5 Build Day”的，现在降为“Opus 4.8 Build Day”了。哈哈哈哈哈哈哈哈哈。",
-          "url": "https://x.com/dotey/status/2065651866361352437",
-          "postedAt": "2026-06-13T04:16:31.000Z"
-        },
-        {
-          "id": "vc_steipete_ab40b18d2b",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Will Manidis: Dario (48 hours ago): “US gov should be able to block model deployment” USG: *export controls models* Dario: “not like that”",
-          "url": "https://x.com/steipete/status/2065617841861329105",
-          "postedAt": "2026-06-13T00:47:11.000Z"
-        },
-        {
-          "id": "vc_steipete_64a5460c82",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "“not consistently candid in their communications” is my fav new americanism. https://www.theinformation.com/articles/anthropic-blindsides-business-p...",
-          "url": "https://x.com/steipete/status/2065574894545560062",
-          "postedAt": "2026-06-12T23:20:06.000Z"
-        },
-        {
-          "id": "vc_steipete_fa0eec0c9e",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "codex -C ~/projects/openclaw -m gpt-5.5-cyber time",
-          "url": "https://x.com/steipete/status/2065567852162355551",
-          "postedAt": "2026-06-12T22:52:07.000Z"
-        },
-        {
-          "id": "vc_steipete_2c416fd8e5",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "How am I only now finding out about appshots? I was dragging screenshots into codex live a caveman.",
-          "url": "https://x.com/steipete/status/2065564094879637546",
-          "postedAt": "2026-06-12T22:37:11.000Z"
-        },
-        {
           "id": "vc_gdb_79e7135adb",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -335,15 +371,6 @@
           "postedAt": "2026-06-12T17:45:54.000Z"
         },
         {
-          "id": "vc_dotey_7d9294e6a8",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "祝贺 YouMind 发布 1.0 🎉",
-          "url": "https://x.com/dotey/status/2065473530829934958",
-          "postedAt": "2026-06-12T16:37:19.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_fa32071da7",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -360,33 +387,6 @@
           "title": "http://x.com/i/article/2065311442065317888",
           "url": "https://x.com/Khazix0918/status/2065312751749390542",
           "postedAt": "2026-06-12T05:58:26.000Z"
-        },
-        {
-          "id": "vc_dotey_129ca4f1d9",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT LinearUncle: 如果你要追求终极的coding agent自由，目前只有pi才能给你安心。 如果你一直想试试 pi + deepseek，但是不知道怎么配置，强烈推荐新手查看这篇...",
-          "url": "https://x.com/dotey/status/2065648410640748583",
-          "postedAt": "2026-06-12T04:50:38.000Z"
-        },
-        {
-          "id": "vc_dotey_833e04ce74",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "一竿一线一山水，一漂一钩一逍遥。 鱼咬不咬随它去，坐看云起日头高。 一杯一椅一 Agent，一聊一等一逍遥。 跑完没跑不必盯，起身续水伸个腰。",
-          "url": "https://x.com/dotey/status/2065253289751359566",
-          "postedAt": "2026-06-12T02:02:09.000Z"
-        },
-        {
-          "id": "vc_dotey_94dd632ef7",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Codex 真是把 Token 用量重置玩出花开了，邀请好友，双方都获得一次重置机会，自己重置。",
-          "url": "https://x.com/dotey/status/2065241545532395595",
-          "postedAt": "2026-06-12T01:15:29.000Z"
         },
         {
           "id": "vc_sama_71086403f3",
@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-13T14:24:54.016Z",
+      "lastUpdated": "2026-06-14T05:05:48.433Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_ac6a024f40",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: How AI is changing product operating models, tracking work stress with Whoop, whether you need a portfolio of AI side projects, marketing for tiny teams, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-how-ai-is-changing",
+          "postedAt": "2026-06-13T20:54:15.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_88c5b48566",
           "source": "Lenny's Podcast",
@@ -528,14 +536,6 @@
           "postedAt": "2026-06-01T12:04:51.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_0f16b9b6d9",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "A rational conversation on where AI is actually going | Benedict Evans",
-          "url": "https://www.lennysnewsletter.com/p/a-rational-conversation-on-where",
-          "postedAt": "2026-05-31T12:31:43.000Z"
-        },
-        {
           "id": "en_pod_lex_fridman_podcast_bc3f4fb2e4",
           "source": "Lex Fridman Podcast",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-13T14:24:55.281Z",
+      "lastUpdated": "2026-06-14T05:05:50.523Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -854,7 +854,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-13T14:24:57.106Z",
+      "lastUpdated": "2026-06-14T05:05:53.152Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
