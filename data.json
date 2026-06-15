@@ -227,13 +227,85 @@
       ],
       "articles": [
         {
-          "id": "vc_dotey_93b4b57121",
+          "id": "vc_zarazhangrui_61acf3150a",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "You don't make a good skill by writing a skill. You make it by doing the thing, fixing it 20 times, then telling the AI to bottle up everything you ju...",
+          "url": "https://x.com/zarazhangrui/status/2066388749244854771",
+          "postedAt": "2026-06-15T05:14:04.000Z"
+        },
+        {
+          "id": "vc_dotey_82c2d47295",
           "source": "dotey",
           "sourceName": "宝玉",
           "platform": "x",
-          "title": "当年 GPT 3.5 的时候，很多人在提示词里面让它把自己当成 GPT-4，号称性能就更好，你现在信吗？",
-          "url": "https://x.com/dotey/status/2066056108884566122",
-          "postedAt": "2026-06-14T07:12:16.000Z"
+          "title": "中国水墨艺术图的提示词👍",
+          "url": "https://x.com/dotey/status/2066382186081636702",
+          "postedAt": "2026-06-15T04:47:59.000Z"
+        },
+        {
+          "id": "vc_dotey_15c0eef1dc",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Lovable 的设计负责人 Felix Haas 在社交媒体上分享了一篇关于\"AI 时代高效团队\"的观察，七条经验总结，来自这家增长速度惊人的 AI 创业公司内部视角。 几条有意...",
+          "url": "https://x.com/dotey/status/2066349458904744224",
+          "postedAt": "2026-06-15T02:37:56.000Z"
+        },
+        {
+          "id": "vc_dotey_3298dc45a9",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "我在做 baoyu-skills 时，做了一个尝试，就是用了一个 EXTEND.md 文件保存用户自定义设置，当时我想的是 Agent 读起来方便。 但是这导致一个问题，Markdown 不是...",
+          "url": "https://x.com/dotey/status/2066314944950268139",
+          "postedAt": "2026-06-15T00:20:47.000Z"
+        },
+        {
+          "id": "vc_dotey_cd011d9b3e",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 马东锡 NLP: http://x.com/i/article/2066281164134825984",
+          "url": "https://x.com/dotey/status/2066313246340960590",
+          "postedAt": "2026-06-14T22:45:27.000Z"
+        },
+        {
+          "id": "vc_dotey_63a7b0e22e",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "微软 CEO Satya Nadella 发了一篇长文，提出了一个新概念：Token 资本。 他的核心论点是，AI 时代每家公司都需要同时经营两种资本。一种是传统的人力资本，员工...",
+          "url": "https://x.com/dotey/status/2066280904725836283",
+          "postedAt": "2026-06-14T22:05:31.000Z"
+        },
+        {
+          "id": "vc_steipete_bb82f21ce2",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Pietro Schirano: I basically never write my own /goal anymore. I ask Codex to write one for itself, and one for each agent it spawns. Like this �...",
+          "url": "https://x.com/steipete/status/2066246419694948365",
+          "postedAt": "2026-06-14T18:26:59.000Z"
+        },
+        {
+          "id": "vc_steipete_193f717f79",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Nex: The Rio 3.5 model broke the internet this week. The plot twist? It’s essentially our open-source model, Nex N2 Pro, wearing a different hat. ...",
+          "url": "https://x.com/steipete/status/2066247939572269515",
+          "postedAt": "2026-06-14T15:26:11.000Z"
+        },
+        {
+          "id": "vc_steipete_fd28cf03fb",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT SIGKITTEN: I'm doing one quick targeted pass so I can give you the exact answer rather than hand-waving",
+          "url": "https://x.com/steipete/status/2066253830119956689",
+          "postedAt": "2026-06-14T15:21:11.000Z"
         },
         {
           "id": "vc_zarazhangrui_fdfec83eeb",
@@ -261,60 +333,6 @@
           "title": "Got a PayPal verification text and thought I been hacked, but it was just codex signing up for a web service it needed.",
           "url": "https://x.com/steipete/status/2065997212015067508",
           "postedAt": "2026-06-14T03:18:14.000Z"
-        },
-        {
-          "id": "vc_dotey_b302f3856c",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "模型是根本，Harness层相对好补齐，但Harness这层不需要太多垂直领域的，Claude Design 很快就会合并到 Claude Desktop，Codex 在下一代或者几代模型能力够了后...",
-          "url": "https://x.com/dotey/status/2065991056261312674",
-          "postedAt": "2026-06-14T02:53:46.000Z"
-        },
-        {
-          "id": "vc_dotey_2af840b400",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "精细调整字型字号颜色，确实是设计师的日常。但我觉得用 AI Agent 辅助设计之后，修改的方式也得跟着变： 1、设计系统要用起来 为什么需要手动精调字型字号、颜...",
-          "url": "https://x.com/dotey/status/2065980545645895966",
-          "postedAt": "2026-06-14T02:12:00.000Z"
-        },
-        {
-          "id": "vc_dotey_d45fe3ec32",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "给 Agent 交代任务的时候一定说清楚怎么验证，然后就怎么需要管中间结果了",
-          "url": "https://x.com/dotey/status/2065948642301685829",
-          "postedAt": "2026-06-14T00:05:14.000Z"
-        },
-        {
-          "id": "vc_steipete_f45c05f1d2",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Omar Shahine: Add this shortcut to your iOS Home Screen so you can search for Codex. And use this icon https://raw.githubusercontent.com/lobehub/lo...",
-          "url": "https://x.com/steipete/status/2065998694877626387",
-          "postedAt": "2026-06-13T23:55:55.000Z"
-        },
-        {
-          "id": "vc_dotey_1cadbb9921",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "举一个具体的用 Claude Design 更新设计和代码的例子 我有一个视频字幕编辑器工具，是 Claude Design 做的设计，之前标题文字和下面的信息是放在一行，标题一长...",
-          "url": "https://x.com/dotey/status/2065940342264770589",
-          "postedAt": "2026-06-13T23:32:15.000Z"
-        },
-        {
-          "id": "vc_steipete_cf986a5d0a",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT jason: Re @steipete https://jxnl.co/writing/2026/05/10/codex-maxxing/",
-          "url": "https://x.com/steipete/status/2065940661866807297",
-          "postedAt": "2026-06-13T21:45:42.000Z"
         },
         {
           "id": "vc_Khazix0918_b55c0e5b51",
@@ -353,15 +371,6 @@
           "postedAt": "2026-06-13T05:55:36.000Z"
         },
         {
-          "id": "vc_steipete_063dcfdcb5",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "I can barely keep up with implementing/testing/landing all the Issues/PRs folks submit to https://github.com/openclaw/crabbox#providers Codex runs INS...",
-          "url": "https://x.com/steipete/status/2065650561484267540",
-          "postedAt": "2026-06-13T04:20:46.000Z"
-        },
-        {
           "id": "vc_gdb_79e7135adb",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -396,19 +405,10 @@
           "title": "http://x.com/i/article/2065311442065317888",
           "url": "https://x.com/Khazix0918/status/2065312751749390542",
           "postedAt": "2026-06-12T05:58:26.000Z"
-        },
-        {
-          "id": "vc_sama_71086403f3",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "really looking forward to working together!",
-          "url": "https://x.com/sama/status/2065160791205310565",
-          "postedAt": "2026-06-11T19:54:36.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-14T14:27:40.084Z",
+      "lastUpdated": "2026-06-15T05:27:00.357Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -451,7 +451,7 @@
           "id": "en_pod_lenny_s_podcast_21d7efc54b",
           "source": "Lenny's Podcast",
           "platform": "newsletter",
-          "topic": "The hidden pattern behind successful products | Mark Pincus (Founder of Zynga)",
+          "topic": "The hidden pattern behind successful products | Mark Pincus (founder of Zynga)",
           "url": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful",
           "postedAt": "2026-06-14T12:31:44.000Z"
         },
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-14T14:27:41.141Z",
+      "lastUpdated": "2026-06-15T05:27:01.580Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -692,6 +692,22 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_411c5fde26",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok launches digital trading cards for 2026 FIFA World Cup",
+          "url": "https://www.socialmediatoday.com/news/tiktok-launches-digital-trading-cards-for-2026-fifa-world-cup/822867/",
+          "postedAt": "2026-06-14T23:27:48.000Z"
+        },
+        {
+          "id": "om_78aafea411",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "6 Brands That Cheered for the New York Knicks’ Historic NBA Championship Win",
+          "url": "https://www.adweek.com/creativity/6-brands-that-cheered-for-the-new-york-knicks-historic-nba-championship-win/",
+          "postedAt": "2026-06-14T15:19:53.000Z"
+        },
         {
           "id": "om_b6e651db0e",
           "source": "Retail Dive",
@@ -835,26 +851,10 @@
           "title": "FIFA World Cup 26 Ad Tracker: Brands Kick Off Summer of Soccer",
           "url": "https://www.adweek.com/brand-marketing/fifa-world-cup-26-ad-tracker-brands-kick-off-summer-of-soccer/",
           "postedAt": "2026-06-11T12:05:00.000Z"
-        },
-        {
-          "id": "om_522334e1d2",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How GSTV steps up audience targeting with Stagwell’s agentic system",
-          "url": "https://www.marketingdive.com/news/how-gstv-steps-up-audience-targeting-with-stagwells-agentic-system/822396/",
-          "postedAt": "2026-06-11T12:00:00.000Z"
-        },
-        {
-          "id": "om_833c7f58da",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "EXCLUSIVE: HP Hands Global Media to Publicis, Ending Omnicom’s 17-Year Run",
-          "url": "https://www.adweek.com/agencies/exclusive-hp-hands-global-media-to-publicis-ending-omnicoms-17-year-run/",
-          "postedAt": "2026-06-11T11:20:06.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-14T14:27:43.046Z",
+      "lastUpdated": "2026-06-15T05:27:03.081Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
