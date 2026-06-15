@@ -227,13 +227,67 @@
       ],
       "articles": [
         {
-          "id": "vc_zarazhangrui_61acf3150a",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
+          "id": "vc_dotey_fb3c88742d",
+          "source": "dotey",
+          "sourceName": "宝玉",
           "platform": "x",
-          "title": "You don't make a good skill by writing a skill. You make it by doing the thing, fixing it 20 times, then telling the AI to bottle up everything you ju...",
-          "url": "https://x.com/zarazhangrui/status/2066388749244854771",
-          "postedAt": "2026-06-15T05:14:04.000Z"
+          "title": "在微信读书飙升版排名 15 了，感谢大家💗",
+          "url": "https://x.com/dotey/status/2066538404351742352",
+          "postedAt": "2026-06-15T15:08:44.000Z"
+        },
+        {
+          "id": "vc_steipete_9ea571405a",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Wanted to buy a new Mac Studio for San Francisco. We don’t even know how to make these anymore.",
+          "url": "https://x.com/steipete/status/2066471737068232835",
+          "postedAt": "2026-06-15T10:43:49.000Z"
+        },
+        {
+          "id": "vc_steipete_6f26e02b52",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Stratechery: Anthropic's Safety Superpower Anthropic's belief in its own commitment to safety gives the company license to aggressively favor its b...",
+          "url": "https://x.com/steipete/status/2066510094666268769",
+          "postedAt": "2026-06-15T10:00:00.000Z"
+        },
+        {
+          "id": "vc_steipete_6c9684b71e",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Mosh + tmux/zellij is a lifesaver for bad in-flight internet. (i prefer zellij but either works)",
+          "url": "https://x.com/steipete/status/2066427449551036469",
+          "postedAt": "2026-06-15T07:47:50.000Z"
+        },
+        {
+          "id": "vc_steipete_ed08e0c612",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Steve Ruiz: Codex hit Figma's MCP limit and then just opened Figma in a browser tab to keep working",
+          "url": "https://x.com/steipete/status/2066441146750955737",
+          "postedAt": "2026-06-15T06:51:44.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_2412855ad4",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "Codex现在对我最大的作用，就是在手机上启动家里电脑上的Claude code，然后开启远程控制，方便我在手机上继续coding...🤣🤣🤣 说实话， Claude自己客户端...",
+          "url": "https://x.com/Khazix0918/status/2066401470485057976",
+          "postedAt": "2026-06-15T06:04:37.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_cc3d4afe85",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "Prompt该退环境了，未来属于Loop Engineering。 最近，AI行业又出现了一个有趣的新词。Loop Engineering。 如果你关注AI这个领域的话，这两天应该都会刷到。推特...",
+          "url": "https://x.com/Khazix0918/status/2066394718519656909",
+          "postedAt": "2026-06-15T05:37:47.000Z"
         },
         {
           "id": "vc_dotey_82c2d47295",
@@ -272,15 +326,6 @@
           "postedAt": "2026-06-14T22:45:27.000Z"
         },
         {
-          "id": "vc_dotey_63a7b0e22e",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "微软 CEO Satya Nadella 发了一篇长文，提出了一个新概念：Token 资本。 他的核心论点是，AI 时代每家公司都需要同时经营两种资本。一种是传统的人力资本，员工...",
-          "url": "https://x.com/dotey/status/2066280904725836283",
-          "postedAt": "2026-06-14T22:05:31.000Z"
-        },
-        {
           "id": "vc_steipete_bb82f21ce2",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -290,24 +335,6 @@
           "postedAt": "2026-06-14T18:26:59.000Z"
         },
         {
-          "id": "vc_steipete_193f717f79",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Nex: The Rio 3.5 model broke the internet this week. The plot twist? It’s essentially our open-source model, Nex N2 Pro, wearing a different hat. ...",
-          "url": "https://x.com/steipete/status/2066247939572269515",
-          "postedAt": "2026-06-14T15:26:11.000Z"
-        },
-        {
-          "id": "vc_steipete_fd28cf03fb",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT SIGKITTEN: I'm doing one quick targeted pass so I can give you the exact answer rather than hand-waving",
-          "url": "https://x.com/steipete/status/2066253830119956689",
-          "postedAt": "2026-06-14T15:21:11.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_fdfec83eeb",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -315,24 +342,6 @@
           "title": "Great essay on taste and how to cultivate it Taste is not just personal preference; good taste requires mastery and experience",
           "url": "https://x.com/zarazhangrui/status/2066036778713362747",
           "postedAt": "2026-06-14T05:55:27.000Z"
-        },
-        {
-          "id": "vc_steipete_7ad2326ae4",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "This shortage of chips is getting out of hand.",
-          "url": "https://x.com/steipete/status/2065998839467933862",
-          "postedAt": "2026-06-14T03:24:42.000Z"
-        },
-        {
-          "id": "vc_steipete_541af60bc0",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Got a PayPal verification text and thought I been hacked, but it was just codex signing up for a web service it needed.",
-          "url": "https://x.com/steipete/status/2065997212015067508",
-          "postedAt": "2026-06-14T03:18:14.000Z"
         },
         {
           "id": "vc_Khazix0918_b55c0e5b51",
@@ -396,19 +405,10 @@
           "title": "RT YouMind: YouMind 1.0 is officially here. The loudest story about creating is a heavy one. More discipline. More originality. More talent. More audi...",
           "url": "https://x.com/zarazhangrui/status/2065668004608909465",
           "postedAt": "2026-06-12T07:00:01.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_b69b56d3e5",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2065311442065317888",
-          "url": "https://x.com/Khazix0918/status/2065312751749390542",
-          "postedAt": "2026-06-12T05:58:26.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-15T05:27:00.357Z",
+      "lastUpdated": "2026-06-15T17:26:58.247Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_d1445bb0fe",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: Claude Fable 5 review & How Braintrust uses AI agents, evals, and CI to ship better software",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and",
+          "postedAt": "2026-06-15T15:01:32.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_c2449f3f97",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How Braintrust uses AI agents, evals, and CI to ship better software | Ankur Goyal",
+          "url": "https://www.lennysnewsletter.com/p/how-braintrust-uses-ai-agents-evals",
+          "postedAt": "2026-06-15T12:04:03.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_21d7efc54b",
           "source": "Lenny's Podcast",
@@ -520,22 +536,6 @@
           "postedAt": "2026-06-04T09:30:00.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_7b248d78c9",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Gemini Omni: Clone yourself with AI in under 15 minutes",
-          "url": "https://www.lennysnewsletter.com/p/gemini-omni-clone-yourself-with-ai",
-          "postedAt": "2026-06-03T12:04:09.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_005cd2c085",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: Codex Goals explained & Claude Opus 4.8 review & Building an iPhone app with zero technical skills",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-codex-goals-explained-and",
-          "postedAt": "2026-06-01T15:01:46.000Z"
-        },
-        {
           "id": "en_pod_lex_fridman_podcast_bc3f4fb2e4",
           "source": "Lex Fridman Podcast",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-15T05:27:01.580Z",
+      "lastUpdated": "2026-06-15T17:26:59.680Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,126 @@
       },
       "articles": [
         {
+          "id": "om_5dd85892d4",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "ANA and 4As offer guidelines to make agency pitches more bearable",
+          "url": "https://www.marketingdive.com/news/ana-and-4as-offer-guidelines-to-make-agency-pitches-more-bearable/822823/",
+          "postedAt": "2026-06-15T16:00:00.000Z"
+        },
+        {
+          "id": "om_c9ec2fe1f7",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Dick’s plots 100 Lids shop-in-shops by the end of the summer",
+          "url": "https://www.retaildive.com/news/dicks-sporting-goods-lids-shop-in-shops/822901/",
+          "postedAt": "2026-06-15T15:58:00.000Z"
+        },
+        {
+          "id": "om_1d474550bc",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Dentsu brings back 360i brand as social-first solution primed for AI",
+          "url": "https://www.marketingdive.com/news/dentsu-brings-back-360i-brand-as-social-first-solution-primed-for-ai/822905/",
+          "postedAt": "2026-06-15T15:56:00.000Z"
+        },
+        {
+          "id": "om_baa795f58d",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+          "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+          "postedAt": "2026-06-15T14:34:45.000Z"
+        },
+        {
+          "id": "om_a951742e31",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Fox acquires Roku for $22B to accelerate streaming advertising business",
+          "url": "https://www.marketingdive.com/news/fox-acquires-roku-for-22b-to-accelerate-streaming-advertising-business/822890/",
+          "postedAt": "2026-06-15T14:27:00.000Z"
+        },
+        {
+          "id": "om_8eb46b5e0b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Consumer sentiment rises from 4-month slump as gas prices fall",
+          "url": "https://www.retaildive.com/news/consumer-sentiment-rises-four-month-slump-gas-price-falls/822883/",
+          "postedAt": "2026-06-15T14:17:00.000Z"
+        },
+        {
+          "id": "om_c438926f37",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "‘Not Suitable for Work’ is very suitable for brands",
+          "url": "https://www.marketingbrew.com/stories/not-suitable-for-work-is-very-suitable-for-brands?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-15T14:07:31.000Z"
+        },
+        {
+          "id": "om_144cf4e8c4",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Consumers are worried about a recession. How should brands respond?",
+          "url": "https://www.marketingdive.com/news/consumers-are-worried-about-a-recession-how-should-brands-respond/822897/",
+          "postedAt": "2026-06-15T14:00:00.000Z"
+        },
+        {
+          "id": "om_9750806a9b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Tractor Supply taps AI to help scale last-mile delivery network",
+          "url": "https://www.retaildive.com/news/tractor-supply-taps-ai-to-help-scale-last-mile-delivery-network/822654/",
+          "postedAt": "2026-06-15T13:40:00.000Z"
+        },
+        {
+          "id": "om_71ff4ad3c8",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Dick’s, like many vacationers, is spending the summer in the Hamptons",
+          "url": "https://www.retaildive.com/news/dicks-sporting-goods-private-label-pop-up-hamptons-summer/822577/",
+          "postedAt": "2026-06-15T13:00:00.000Z"
+        },
+        {
+          "id": "om_df82de86d5",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "EA rolls out advertising platform with enhanced offerings for brands",
+          "url": "https://www.marketingdive.com/news/ea-rolls-out-advertising-platform-with-enhanced-offerings-for-brands/822833/",
+          "postedAt": "2026-06-15T12:00:00.000Z"
+        },
+        {
+          "id": "om_b8737fac61",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "KFC’s brand evolution looks to set the standard for fried chicken QSRs",
+          "url": "https://www.marketingdive.com/news/kfcs-brand-evolution-looks-to-set-the-standard-for-fried-chicken-qsrs/822546/",
+          "postedAt": "2026-06-15T11:00:00.000Z"
+        },
+        {
+          "id": "om_49d07d7240",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Dawn is the most trusted brand in America for the second year in a row: report",
+          "url": "https://www.marketingbrew.com/stories/dawn-most-trusted-brand-report?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-15T09:01:00.000Z"
+        },
+        {
+          "id": "om_a7732c755c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "90% of retailers are using AI. Far fewer are ready to run it at scale",
+          "url": "https://www.retaildive.com/spons/90-of-retailers-are-using-ai-far-fewer-are-ready-to-run-it-at-scale/822118/",
+          "postedAt": "2026-06-15T09:00:00.000Z"
+        },
+        {
+          "id": "om_c0cbd31849",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The customer signals hiding in your ecommerce data — and what to do with them",
+          "url": "https://www.retaildive.com/spons/the-customer-signals-hiding-in-your-ecommerce-data-and-what-to-do-with-th/821939/",
+          "postedAt": "2026-06-15T09:00:00.000Z"
+        },
+        {
           "id": "om_411c5fde26",
           "source": "Social Media Today",
           "lang": "en",
@@ -701,28 +821,12 @@
           "postedAt": "2026-06-14T23:27:48.000Z"
         },
         {
-          "id": "om_78aafea411",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "6 Brands That Cheered for the New York Knicks’ Historic NBA Championship Win",
-          "url": "https://www.adweek.com/creativity/6-brands-that-cheered-for-the-new-york-knicks-historic-nba-championship-win/",
-          "postedAt": "2026-06-14T15:19:53.000Z"
-        },
-        {
           "id": "om_b6e651db0e",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Sleep Number files for bankruptcy, inks merger deal",
           "url": "https://www.retaildive.com/news/sleep-number-files-bankruptcy-inks-merger-deal/822775/",
           "postedAt": "2026-06-12T16:22:00.000Z"
-        },
-        {
-          "id": "om_c68199ab23",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Weekly Closeout: Trump loves inflation and Abercrombie opens a ‘pinnacle’ store in SoHo",
-          "url": "https://www.retaildive.com/news/the-weekly-closeout-trump-loves-inflation-and-abercrombie-opens-a-pinnacl/822705/",
-          "postedAt": "2026-06-12T15:53:00.000Z"
         },
         {
           "id": "om_6824069a88",
@@ -741,120 +845,16 @@
           "postedAt": "2026-06-12T13:41:00.000Z"
         },
         {
-          "id": "om_347f738493",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "5 Marketer Moves to Know This Week: Knix, Bayer, and More",
-          "url": "https://www.adweek.com/brand-marketing/5-marketers-moves-to-know-this-week-knix-bayer-and-more/",
-          "postedAt": "2026-06-12T12:57:29.000Z"
-        },
-        {
-          "id": "om_589f3987eb",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "AI disclosure labels don’t hurt ad performance: Here’s what the numbers say",
-          "url": "https://www.marketingdive.com/news/ai-disclosure-labels-dont-hurt-ad-performance-heres-what-the-numbers-say/822711/",
-          "postedAt": "2026-06-12T12:00:00.000Z"
-        },
-        {
           "id": "om_9d2f858a0a",
           "source": "Wired",
           "lang": "en",
           "title": "The US Is Requiring Foreign Influencers to Get Work Visas for the 2026 World Cup",
           "url": "https://www.wired.com/story/2026-world-cup-us-influencers-visa/",
           "postedAt": "2026-06-12T10:00:00.000Z"
-        },
-        {
-          "id": "om_6f8d4fcca6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 10 Campaigns That Caught Our Eye, From Uber Eats to American Eagle",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-10-campaigns-that-caught-our-eye-from-uber-eats-to-american-eagle/",
-          "postedAt": "2026-06-12T06:00:00.000Z"
-        },
-        {
-          "id": "om_e3ccc007d0",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "LinkedIn outlines effective B2B marketing strategies",
-          "url": "https://www.socialmediatoday.com/news/linkedin-outlines-effective-b2b-marketing-strategies/822753/",
-          "postedAt": "2026-06-11T23:07:17.000Z"
-        },
-        {
-          "id": "om_431d0585e2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Sir Martin Sorrell Sees No Easy Exit for Holding Companies",
-          "url": "https://www.adweek.com/brand-marketing/sir-martin-sorrell-sees-no-easy-exit-for-holding-companies/",
-          "postedAt": "2026-06-11T17:16:08.000Z"
-        },
-        {
-          "id": "om_419d9454ed",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Is Stitch Fix proving naysayers wrong?",
-          "url": "https://www.retaildive.com/news/is-stitch-fix-proving-naysayers-wrong-Q3-turnaround/822632/",
-          "postedAt": "2026-06-11T15:48:00.000Z"
-        },
-        {
-          "id": "om_324bc0c9c6",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Shoe Carnival changes corporate name to Shoe Station Group",
-          "url": "https://www.retaildive.com/news/shoe-carnival-name-change-shoe-station-group-ticker-nasdaq/822618/",
-          "postedAt": "2026-06-11T15:03:00.000Z"
-        },
-        {
-          "id": "om_9c0a9b1ccf",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: Pinterest adds Amazon Storefront linking",
-          "url": "https://www.marketingdive.com/news/pinterest-adds-amazon-storefront-linking/822639/",
-          "postedAt": "2026-06-11T14:58:00.000Z"
-        },
-        {
-          "id": "om_07eac46707",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "L’Oréal Paris helps shape ‘Legally Blonde’ origin story in streaming tie-up",
-          "url": "https://www.marketingdive.com/news/loreal-paris-helps-shape-legally-blonde-origin-story-in-streaming-tie-up/822611/",
-          "postedAt": "2026-06-11T14:36:00.000Z"
-        },
-        {
-          "id": "om_6d003e0ee8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Nordstrom, Adidas team up for World Cup style",
-          "url": "https://www.retaildive.com/news/nordstrom-adidas-team-world-cup-style-corner-pop-up/822496/",
-          "postedAt": "2026-06-11T14:32:00.000Z"
-        },
-        {
-          "id": "om_e85a9495c3",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "How American Eagle is kicking off its deal with the new face of soccer",
-          "url": "https://www.retaildive.com/news/how-american-eagle-is-kicking-off-its-deal-with-the-new-face-of-soccer/822465/",
-          "postedAt": "2026-06-11T14:05:00.000Z"
-        },
-        {
-          "id": "om_16f5fa36fe",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Bumble’s YouTube advice show tackles dating anxiety amid user slump",
-          "url": "https://www.marketingdive.com/news/bumbles-youtube-advice-show-tackles-dating-anxiety-amid-user-slump/822551/",
-          "postedAt": "2026-06-11T14:00:00.000Z"
-        },
-        {
-          "id": "om_78a648efa7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "FIFA World Cup 26 Ad Tracker: Brands Kick Off Summer of Soccer",
-          "url": "https://www.adweek.com/brand-marketing/fifa-world-cup-26-ad-tracker-brands-kick-off-summer-of-soccer/",
-          "postedAt": "2026-06-11T12:05:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-15T05:27:03.081Z",
+      "lastUpdated": "2026-06-15T17:27:01.782Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
