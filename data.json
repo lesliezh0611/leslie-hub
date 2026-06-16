@@ -227,6 +227,60 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_6d67ebc6f6",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "SpaceX 今天宣布，以 600 亿美元全股票交易收购 AI 代码编辑器 Cursor 的母公司 Anysphere。这是 SpaceX 上市仅数天后的第一笔大型收购。 这笔交易不算意外。4 ...",
+          "url": "https://x.com/dotey/status/2066923691565580683",
+          "postedAt": "2026-06-16T16:39:44.000Z"
+        },
+        {
+          "id": "vc_steipete_0fc509d623",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Lindsay McCallum Rémy: just two guys talking about loops",
+          "url": "https://x.com/steipete/status/2066917041156587569",
+          "postedAt": "2026-06-16T16:01:19.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_87d9a6435c",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "聊聊这个可能被大家低估的Agent场景。 今天去了腾讯活动的现场，当了下主持和评委。 也跟很多选手，还有腾讯云的几个大佬交流了一下。 还真的有点新东西冲击的，...",
+          "url": "https://x.com/Khazix0918/status/2066895528982655317",
+          "postedAt": "2026-06-16T14:47:49.000Z"
+        },
+        {
+          "id": "vc_steipete_02ac057851",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT prinz: Two years ago, reasoning models did not exist. GPT-4o and Sonnet 3.5 were SOTA. One year ago, the best publicly available model was o3, and ...",
+          "url": "https://x.com/steipete/status/2066919133137035715",
+          "postedAt": "2026-06-16T13:48:04.000Z"
+        },
+        {
+          "id": "vc_dotey_e9126467db",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Claude Code 的 dynamic workflows 用不起，一个简单任务，几分钟就 31 个 Agents，消耗了 1.3 M Tokens，周 Token 用量从 11% 跳到了 20%（Pro @ 20x），犯不着...",
+          "url": "https://x.com/dotey/status/2066777376399245356",
+          "postedAt": "2026-06-16T06:58:20.000Z"
+        },
+        {
+          "id": "vc_gdb_a596e1196d",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "great ux makes such a difference",
+          "url": "https://x.com/gdb/status/2066768795503595718",
+          "postedAt": "2026-06-16T06:24:14.000Z"
+        },
+        {
           "id": "vc_Khazix0918_001d7bd4d7",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -299,15 +353,6 @@
           "postedAt": "2026-06-15T17:21:13.000Z"
         },
         {
-          "id": "vc_dotey_fb3c88742d",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "在微信读书飙升版排名 15 了，感谢大家💗",
-          "url": "https://x.com/dotey/status/2066538404351742352",
-          "postedAt": "2026-06-15T15:08:44.000Z"
-        },
-        {
           "id": "vc_steipete_9ea571405a",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -315,33 +360,6 @@
           "title": "Wanted to buy a new Mac Studio for San Francisco. We don’t even know how to make these anymore.",
           "url": "https://x.com/steipete/status/2066471737068232835",
           "postedAt": "2026-06-15T10:43:49.000Z"
-        },
-        {
-          "id": "vc_steipete_6f26e02b52",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Stratechery: Anthropic's Safety Superpower Anthropic's belief in its own commitment to safety gives the company license to aggressively favor its b...",
-          "url": "https://x.com/steipete/status/2066510094666268769",
-          "postedAt": "2026-06-15T10:00:00.000Z"
-        },
-        {
-          "id": "vc_steipete_6c9684b71e",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Mosh + tmux/zellij is a lifesaver for bad in-flight internet. (i prefer zellij but either works)",
-          "url": "https://x.com/steipete/status/2066427449551036469",
-          "postedAt": "2026-06-15T07:47:50.000Z"
-        },
-        {
-          "id": "vc_dotey_be98fa16d8",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Jackywine: 警惕 AI 圈造新词博流量的老套路 遇到新词第一个先看着词是谁说的 LLM Wiki 是@Karpathy Loop Engineering 出自 @bcherny 直接去看原话 然后，看...",
-          "url": "https://x.com/dotey/status/2066622396019175883",
-          "postedAt": "2026-06-15T07:21:57.000Z"
         },
         {
           "id": "vc_Khazix0918_2412855ad4",
@@ -380,15 +398,6 @@
           "postedAt": "2026-06-13T13:37:13.000Z"
         },
         {
-          "id": "vc_Khazix0918_3494ab275d",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "千言万语汇成一句话： 国产之光，无愧于此。 GLM 5.2今晚Coding Plan上线，下周开源。",
-          "url": "https://x.com/Khazix0918/status/2065710147931087298",
-          "postedAt": "2026-06-13T08:17:32.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_137e41b454",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -396,19 +405,10 @@
           "title": "There are SO many people, friends, acquaintances, followers, startups, asking me to try their new AI products every day Like I get at least 3 such req...",
           "url": "https://x.com/zarazhangrui/status/2065696088519270402",
           "postedAt": "2026-06-13T07:21:40.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_0b71b446e6",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "A viral product has a founder people can see and hear People buy from people. A screen recording from the founder beats a corporate promo video or a w...",
-          "url": "https://x.com/zarazhangrui/status/2065674426197393779",
-          "postedAt": "2026-06-13T05:55:36.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-16T05:32:15.079Z",
+      "lastUpdated": "2026-06-16T17:20:43.822Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-16T05:32:16.699Z",
+      "lastUpdated": "2026-06-16T17:20:45.425Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,78 @@
       },
       "articles": [
         {
+          "id": "om_7c490f95f4",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Snap’s first consumer AR glasses are coming this fall for $2,195",
+          "url": "https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder",
+          "postedAt": "2026-06-16T17:05:26.000Z"
+        },
+        {
+          "id": "om_6157dadc5b",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+          "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+          "postedAt": "2026-06-16T16:49:44.000Z"
+        },
+        {
+          "id": "om_6dd42066da",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Victoria’s Secret investors back full board after proxy battle",
+          "url": "https://www.retaildive.com/news/victorias-secret-investors-back-board-proxy-fight-bbrc/823012/",
+          "postedAt": "2026-06-16T15:34:00.000Z"
+        },
+        {
+          "id": "om_0d2cd95174",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Coach unites celebrities, Gen Z storytelling under new brand platform",
+          "url": "https://www.marketingdive.com/news/coach-unites-celebrities-gen-z-storytelling-under-new-brand-platform/822999/",
+          "postedAt": "2026-06-16T14:45:00.000Z"
+        },
+        {
+          "id": "om_78a6ac6f97",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Florida sues TikTok for allegedly violating its social media ban for kids",
+          "url": "https://www.theverge.com/tech/950632/florida-tiktok-lawsuit-social-media-ban",
+          "postedAt": "2026-06-16T14:06:56.000Z"
+        },
+        {
+          "id": "om_7cb5b0169c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "The Macallan latches on to Gen Z’s zeal for special occasion splurges",
+          "url": "https://www.marketingdive.com/news/the-macallan-latches-on-to-gen-zs-zeal-for-special-occasion-splurges/822940/",
+          "postedAt": "2026-06-16T12:57:58.000Z"
+        },
+        {
+          "id": "om_ad3a346dab",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why data accuracy matters more than data scale amid the rise of AI",
+          "url": "https://www.marketingdive.com/news/why-data-accuracy-matters-more-than-data-scale-amid-the-rise-of-ai/821798/",
+          "postedAt": "2026-06-16T12:30:00.000Z"
+        },
+        {
+          "id": "om_5e63e2a031",
+          "source": "Wired",
+          "lang": "en",
+          "title": "TikTok Shoppers Thought They Were Bidding on iPhones. Instead, They Won Teddy Bears",
+          "url": "https://www.wired.com/story/tiktok-surprise-sets-iphones-teddy-bears/",
+          "postedAt": "2026-06-16T11:00:00.000Z"
+        },
+        {
+          "id": "om_f624df2775",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Agentic AI is rewriting the rules of value and monetization in commerce media",
+          "url": "https://www.marketingdive.com/spons/agentic-ai-is-rewriting-the-rules-of-value-and-monetization-in-commerce-med/822587/",
+          "postedAt": "2026-06-16T09:00:00.000Z"
+        },
+        {
           "id": "om_6ddaa30122",
           "source": "Social Media Today",
           "lang": "en",
@@ -707,14 +779,6 @@
           "title": "Reddit campaigns drive performance on and off the platform",
           "url": "https://www.socialmediatoday.com/news/reddit-campaigns-drive-performance-on-and-off-the-platform/822974/",
           "postedAt": "2026-06-15T21:24:42.000Z"
-        },
-        {
-          "id": "om_31fcb5576a",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Xbox is closing down Hellblade creator Ninja Theory",
-          "url": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua",
-          "postedAt": "2026-06-15T21:13:35.000Z"
         },
         {
           "id": "om_0cd44a8b52",
@@ -757,14 +821,6 @@
           "postedAt": "2026-06-15T15:56:00.000Z"
         },
         {
-          "id": "om_baa795f58d",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
-          "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-          "postedAt": "2026-06-15T14:34:45.000Z"
-        },
-        {
           "id": "om_a951742e31",
           "source": "Marketing Dive",
           "lang": "en",
@@ -795,66 +851,10 @@
           "title": "Consumers are worried about a recession. How should brands respond?",
           "url": "https://www.marketingdive.com/news/consumers-are-worried-about-a-recession-how-should-brands-respond/822897/",
           "postedAt": "2026-06-15T14:00:00.000Z"
-        },
-        {
-          "id": "om_9750806a9b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Tractor Supply taps AI to help scale last-mile delivery network",
-          "url": "https://www.retaildive.com/news/tractor-supply-taps-ai-to-help-scale-last-mile-delivery-network/822654/",
-          "postedAt": "2026-06-15T13:40:00.000Z"
-        },
-        {
-          "id": "om_71ff4ad3c8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Dick’s, like many vacationers, is spending the summer in the Hamptons",
-          "url": "https://www.retaildive.com/news/dicks-sporting-goods-private-label-pop-up-hamptons-summer/822577/",
-          "postedAt": "2026-06-15T13:00:00.000Z"
-        },
-        {
-          "id": "om_df82de86d5",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "EA rolls out advertising platform with enhanced offerings for brands",
-          "url": "https://www.marketingdive.com/news/ea-rolls-out-advertising-platform-with-enhanced-offerings-for-brands/822833/",
-          "postedAt": "2026-06-15T12:00:00.000Z"
-        },
-        {
-          "id": "om_b8737fac61",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "KFC’s brand evolution looks to set the standard for fried chicken QSRs",
-          "url": "https://www.marketingdive.com/news/kfcs-brand-evolution-looks-to-set-the-standard-for-fried-chicken-qsrs/822546/",
-          "postedAt": "2026-06-15T11:00:00.000Z"
-        },
-        {
-          "id": "om_49d07d7240",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Dawn is the most trusted brand in America for the second year in a row: report",
-          "url": "https://www.marketingbrew.com/stories/dawn-most-trusted-brand-report?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-15T09:01:00.000Z"
-        },
-        {
-          "id": "om_a7732c755c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "90% of retailers are using AI. Far fewer are ready to run it at scale",
-          "url": "https://www.retaildive.com/spons/90-of-retailers-are-using-ai-far-fewer-are-ready-to-run-it-at-scale/822118/",
-          "postedAt": "2026-06-15T09:00:00.000Z"
-        },
-        {
-          "id": "om_c0cbd31849",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The customer signals hiding in your ecommerce data — and what to do with them",
-          "url": "https://www.retaildive.com/spons/the-customer-signals-hiding-in-your-ecommerce-data-and-what-to-do-with-th/821939/",
-          "postedAt": "2026-06-15T09:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-16T05:32:19.275Z",
+      "lastUpdated": "2026-06-16T17:20:47.384Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
