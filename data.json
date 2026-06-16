@@ -227,6 +227,78 @@
       ],
       "articles": [
         {
+          "id": "vc_Khazix0918_001d7bd4d7",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2066749755095695360",
+          "url": "https://x.com/Khazix0918/status/2066751532847202616",
+          "postedAt": "2026-06-16T05:15:38.000Z"
+        },
+        {
+          "id": "vc_dotey_c7873e2702",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "用 Codex 反编译 Codex App 源码😜",
+          "url": "https://x.com/dotey/status/2066721468742881532",
+          "postedAt": "2026-06-16T03:16:10.000Z"
+        },
+        {
+          "id": "vc_dotey_535859e9c2",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "推荐关注 Codex 团队的 jason，这样他能多发一点 Codex 技术内幕文章",
+          "url": "https://x.com/dotey/status/2066684608226165232",
+          "postedAt": "2026-06-16T00:49:42.000Z"
+        },
+        {
+          "id": "vc_steipete_7b1d59d619",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Vaibhav (VB) Srivastav: Open Source runs on maintainers! at @OpenAI, we're committing $160,000 to sponsor the maintainers behind the Astral and Cod...",
+          "url": "https://x.com/steipete/status/2066645863904972936",
+          "postedAt": "2026-06-15T21:57:06.000Z"
+        },
+        {
+          "id": "vc_dotey_9f07504498",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "《图解Skill》配套 Repo 里面带的一个我日常用来整理写作 AI 资讯的 Skill：info-digest Skill 就是我日常看到一些 AI 资讯、新闻，就把内容贴进去让它生成资讯...",
+          "url": "https://x.com/dotey/status/2066621150395015310",
+          "postedAt": "2026-06-15T20:37:32.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_ab1be1f982",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "This is great UX, so intuitive",
+          "url": "https://x.com/zarazhangrui/status/2066601470678749270",
+          "postedAt": "2026-06-15T19:19:20.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_e41fd6d0e2",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "I just reached 70k followers on X 🙏🏼 X is where I learn in public & build in public. I've learned so much and met so many wonder people here If ...",
+          "url": "https://x.com/zarazhangrui/status/2066579717285957692",
+          "postedAt": "2026-06-15T17:52:54.000Z"
+        },
+        {
+          "id": "vc_steipete_0ca3550803",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Charles Rollet: NEW: Inside Cursor's wild rise. Lots of great new details: • CEO Michael Truell didn't pay himself for years • Cursor once made u...",
+          "url": "https://x.com/steipete/status/2066736858604646517",
+          "postedAt": "2026-06-15T17:21:13.000Z"
+        },
+        {
           "id": "vc_dotey_fb3c88742d",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -263,13 +335,13 @@
           "postedAt": "2026-06-15T07:47:50.000Z"
         },
         {
-          "id": "vc_steipete_ed08e0c612",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
+          "id": "vc_dotey_be98fa16d8",
+          "source": "dotey",
+          "sourceName": "宝玉",
           "platform": "x",
-          "title": "RT Steve Ruiz: Codex hit Figma's MCP limit and then just opened Figma in a browser tab to keep working",
-          "url": "https://x.com/steipete/status/2066441146750955737",
-          "postedAt": "2026-06-15T06:51:44.000Z"
+          "title": "RT Jackywine: 警惕 AI 圈造新词博流量的老套路 遇到新词第一个先看着词是谁说的 LLM Wiki 是@Karpathy Loop Engineering 出自 @bcherny 直接去看原话 然后，看...",
+          "url": "https://x.com/dotey/status/2066622396019175883",
+          "postedAt": "2026-06-15T07:21:57.000Z"
         },
         {
           "id": "vc_Khazix0918_2412855ad4",
@@ -288,51 +360,6 @@
           "title": "Prompt该退环境了，未来属于Loop Engineering。 最近，AI行业又出现了一个有趣的新词。Loop Engineering。 如果你关注AI这个领域的话，这两天应该都会刷到。推特...",
           "url": "https://x.com/Khazix0918/status/2066394718519656909",
           "postedAt": "2026-06-15T05:37:47.000Z"
-        },
-        {
-          "id": "vc_dotey_82c2d47295",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "中国水墨艺术图的提示词👍",
-          "url": "https://x.com/dotey/status/2066382186081636702",
-          "postedAt": "2026-06-15T04:47:59.000Z"
-        },
-        {
-          "id": "vc_dotey_15c0eef1dc",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Lovable 的设计负责人 Felix Haas 在社交媒体上分享了一篇关于\"AI 时代高效团队\"的观察，七条经验总结，来自这家增长速度惊人的 AI 创业公司内部视角。 几条有意...",
-          "url": "https://x.com/dotey/status/2066349458904744224",
-          "postedAt": "2026-06-15T02:37:56.000Z"
-        },
-        {
-          "id": "vc_dotey_3298dc45a9",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "我在做 baoyu-skills 时，做了一个尝试，就是用了一个 EXTEND.md 文件保存用户自定义设置，当时我想的是 Agent 读起来方便。 但是这导致一个问题，Markdown 不是...",
-          "url": "https://x.com/dotey/status/2066314944950268139",
-          "postedAt": "2026-06-15T00:20:47.000Z"
-        },
-        {
-          "id": "vc_dotey_cd011d9b3e",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 马东锡 NLP: http://x.com/i/article/2066281164134825984",
-          "url": "https://x.com/dotey/status/2066313246340960590",
-          "postedAt": "2026-06-14T22:45:27.000Z"
-        },
-        {
-          "id": "vc_steipete_bb82f21ce2",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Pietro Schirano: I basically never write my own /goal anymore. I ask Codex to write one for itself, and one for each agent it spawns. Like this �...",
-          "url": "https://x.com/steipete/status/2066246419694948365",
-          "postedAt": "2026-06-14T18:26:59.000Z"
         },
         {
           "id": "vc_zarazhangrui_fdfec83eeb",
@@ -378,37 +405,10 @@
           "title": "A viral product has a founder people can see and hear People buy from people. A screen recording from the founder beats a corporate promo video or a w...",
           "url": "https://x.com/zarazhangrui/status/2065674426197393779",
           "postedAt": "2026-06-13T05:55:36.000Z"
-        },
-        {
-          "id": "vc_gdb_79e7135adb",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "powerful & cool way to navigate a website, makes it feel so much more interactive and intuitive",
-          "url": "https://x.com/gdb/status/2065514424278901018",
-          "postedAt": "2026-06-12T19:19:48.000Z"
-        },
-        {
-          "id": "vc_karpathy_d83ba76251",
-          "source": "karpathy",
-          "sourceName": "Andrej Karpathy",
-          "platform": "x",
-          "title": "In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circl...",
-          "url": "https://x.com/karpathy/status/2065490793092337691",
-          "postedAt": "2026-06-12T17:45:54.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_fa32071da7",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "RT YouMind: YouMind 1.0 is officially here. The loudest story about creating is a heavy one. More discipline. More originality. More talent. More audi...",
-          "url": "https://x.com/zarazhangrui/status/2065668004608909465",
-          "postedAt": "2026-06-12T07:00:01.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-15T17:26:58.247Z",
+      "lastUpdated": "2026-06-16T05:32:15.079Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-15T17:26:59.680Z",
+      "lastUpdated": "2026-06-16T05:32:16.699Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,46 @@
       },
       "articles": [
         {
+          "id": "om_6ddaa30122",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok bans AI-generated voices in shopping livestreams",
+          "url": "https://www.socialmediatoday.com/news/tiktok-bans-ai-generated-voices-in-shopping-livestreams/822977/",
+          "postedAt": "2026-06-15T21:35:53.000Z"
+        },
+        {
+          "id": "om_28632b00d2",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Reddit campaigns drive performance on and off the platform",
+          "url": "https://www.socialmediatoday.com/news/reddit-campaigns-drive-performance-on-and-off-the-platform/822974/",
+          "postedAt": "2026-06-15T21:24:42.000Z"
+        },
+        {
+          "id": "om_31fcb5576a",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Xbox is closing down Hellblade creator Ninja Theory",
+          "url": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua",
+          "postedAt": "2026-06-15T21:13:35.000Z"
+        },
+        {
+          "id": "om_0cd44a8b52",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Coworking with Brian Kotlyar",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-brian-kotlyar?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-15T19:34:18.000Z"
+        },
+        {
+          "id": "om_88ffcbf022",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Base44 is one of the most-viewed brands on YouTube. Here’s a look at its ad strategy",
+          "url": "https://www.marketingbrew.com/stories/base44-app-advertising-strategy-youtube-smart-tvs-superbowl?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-15T18:45:41.000Z"
+        },
+        {
           "id": "om_5dd85892d4",
           "source": "Marketing Dive",
           "lang": "en",
@@ -720,7 +760,7 @@
           "id": "om_baa795f58d",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+          "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
           "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
           "postedAt": "2026-06-15T14:34:45.000Z"
         },
@@ -811,50 +851,10 @@
           "title": "The customer signals hiding in your ecommerce data — and what to do with them",
           "url": "https://www.retaildive.com/spons/the-customer-signals-hiding-in-your-ecommerce-data-and-what-to-do-with-th/821939/",
           "postedAt": "2026-06-15T09:00:00.000Z"
-        },
-        {
-          "id": "om_411c5fde26",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok launches digital trading cards for 2026 FIFA World Cup",
-          "url": "https://www.socialmediatoday.com/news/tiktok-launches-digital-trading-cards-for-2026-fifa-world-cup/822867/",
-          "postedAt": "2026-06-14T23:27:48.000Z"
-        },
-        {
-          "id": "om_b6e651db0e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Sleep Number files for bankruptcy, inks merger deal",
-          "url": "https://www.retaildive.com/news/sleep-number-files-bankruptcy-inks-merger-deal/822775/",
-          "postedAt": "2026-06-12T16:22:00.000Z"
-        },
-        {
-          "id": "om_6824069a88",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Geico Gecko steps into new role as AI-generated podcast guest",
-          "url": "https://www.marketingdive.com/news/geico-gecko-steps-into-new-role-as-ai-generated-podcast-guest/822767/",
-          "postedAt": "2026-06-12T14:32:00.000Z"
-        },
-        {
-          "id": "om_99d8aa380b",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: Google enlists Walmart Connect to enhance YouTube ad insights",
-          "url": "https://www.marketingdive.com/news/sociable-google-enlists-walmart-connect-to-enhance-youtube-ad-insights/822769/",
-          "postedAt": "2026-06-12T13:41:00.000Z"
-        },
-        {
-          "id": "om_9d2f858a0a",
-          "source": "Wired",
-          "lang": "en",
-          "title": "The US Is Requiring Foreign Influencers to Get Work Visas for the 2026 World Cup",
-          "url": "https://www.wired.com/story/2026-world-cup-us-influencers-visa/",
-          "postedAt": "2026-06-12T10:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-15T17:27:01.782Z",
+      "lastUpdated": "2026-06-16T05:32:19.275Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
