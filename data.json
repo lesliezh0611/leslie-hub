@@ -227,6 +227,24 @@
       ],
       "articles": [
         {
+          "id": "vc_gdb_ee75a014d8",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "AI for helping crack a health mystery. So many stories like this, and a clear motivation to be excited about AI:",
+          "url": "https://x.com/gdb/status/2067144669897859411",
+          "postedAt": "2026-06-17T07:17:49.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_e50128c78e",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "智谱 YYDS！ 官方评分也终于出来了，真是真的可以跟 Opus 4.8 掰掰手腕了",
+          "url": "https://x.com/Khazix0918/status/2067122426778145093",
+          "postedAt": "2026-06-17T05:49:26.000Z"
+        },
+        {
           "id": "vc_gdb_4bb119aa54",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -387,28 +405,10 @@
           "title": "I just reached 70k followers on X 🙏🏼 X is where I learn in public & build in public. I've learned so much and met so many wonder people here If ...",
           "url": "https://x.com/zarazhangrui/status/2066579717285957692",
           "postedAt": "2026-06-15T17:52:54.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_2412855ad4",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "Codex现在对我最大的作用，就是在手机上启动家里电脑上的Claude code，然后开启远程控制，方便我在手机上继续coding...🤣🤣🤣 说实话， Claude自己客户端...",
-          "url": "https://x.com/Khazix0918/status/2066401470485057976",
-          "postedAt": "2026-06-15T06:04:37.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_cc3d4afe85",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "Prompt该退环境了，未来属于Loop Engineering。 最近，AI行业又出现了一个有趣的新词。Loop Engineering。 如果你关注AI这个领域的话，这两天应该都会刷到。推特...",
-          "url": "https://x.com/Khazix0918/status/2066394718519656909",
-          "postedAt": "2026-06-15T05:37:47.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-17T05:15:45.081Z",
+      "lastUpdated": "2026-06-17T16:03:13.192Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_0d3f0e2401",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex",
+          "url": "https://www.lennysnewsletter.com/p/how-to-design-ai-agent-loops-schedules",
+          "postedAt": "2026-06-17T12:04:04.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_d1445bb0fe",
           "source": "Lenny's Podcast",
@@ -518,14 +526,6 @@
           "topic": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
           "url": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
           "postedAt": "2026-06-07T12:31:29.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_b5b507502a",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Bootstrapping vs. raising funding, building the roadmap of your vibe-coded app, AI agents and data integrity, your first project as an APM, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-bootstrapping-vs",
-          "postedAt": "2026-06-06T17:14:54.000Z"
         },
         {
           "id": "en_pod_the_knowledge_project_22af2bbf42",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-17T05:15:46.295Z",
+      "lastUpdated": "2026-06-17T16:03:14.475Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,20 +693,108 @@
       },
       "articles": [
         {
+          "id": "om_49a5041d66",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Maryland Container Store location, slated to be converted to co-branded Bed Bath & Beyond store, to close",
+          "url": "https://www.retaildive.com/news/bed-bath-and-beyond-container-store-gaithersburg-maryland-closes/823136/",
+          "postedAt": "2026-06-17T15:53:00.000Z"
+        },
+        {
+          "id": "om_284dd724c2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Vince CEO: A healthy Saks Global is ‘good for the industry’",
+          "url": "https://www.retaildive.com/news/vince-sales-growth-q1-earnings/823124/",
+          "postedAt": "2026-06-17T15:41:00.000Z"
+        },
+        {
+          "id": "om_a5b038f30a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Aleve tackles home improvement pain with social content and DIY stars",
+          "url": "https://www.marketingdive.com/news/aleve-tackles-home-improvement-pain-with-social-content-and-diy-stars/823074/",
+          "postedAt": "2026-06-17T15:28:00.000Z"
+        },
+        {
+          "id": "om_d479ce806d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Etsy goes after Prime Day with ‘Shop Other Jeffs’ campaign",
+          "url": "https://www.retaildive.com/news/etsy-marketing-campaign-amazon-prime-day-shop-other-jeffs/823118/",
+          "postedAt": "2026-06-17T15:10:00.000Z"
+        },
+        {
+          "id": "om_23d037210b",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "P&G’s latest branded microdrama is built on Albertsons retail media data",
+          "url": "https://www.marketingdive.com/news/pgs-latest-branded-microdrama-is-built-on-albertsons-retail-media-data/823121/",
+          "postedAt": "2026-06-17T14:23:00.000Z"
+        },
+        {
+          "id": "om_52073bfb18",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Hinge’s chief marketer on why community is more than a marketing channel",
+          "url": "https://www.marketingdive.com/news/hinges-chief-marketer-on-why-community-is-more-than-a-marketing-channel/823037/",
+          "postedAt": "2026-06-17T13:00:00.000Z"
+        },
+        {
+          "id": "om_167a782a24",
+          "source": "Wired",
+          "lang": "en",
+          "title": "I Found 22 Early Prime Day Deals That Are Worth Shopping Now",
+          "url": "https://www.wired.com/story/early-prime-day-deals-june-2026/",
+          "postedAt": "2026-06-17T12:22:45.000Z"
+        },
+        {
+          "id": "om_e02d401efa",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+          "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+          "postedAt": "2026-06-17T11:00:00.000Z"
+        },
+        {
+          "id": "om_4b7a80980c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How the World Cup fuels US soccer leagues and their brand partners",
+          "url": "https://www.marketingdive.com/news/how-the-world-cup-fuels-us-soccer-leagues-and-their-brand-partners/822712/",
+          "postedAt": "2026-06-17T11:00:00.000Z"
+        },
+        {
+          "id": "om_a577898ac0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How To Turn a Weekend Vibe Code Into a Cannes-Ready AI Radio Station In a Month",
+          "url": "https://www.adweek.com/agencies/how-to-turn-a-weekend-vibe-code-into-a-cannes-ready-ai-radio-station/",
+          "postedAt": "2026-06-17T07:00:00.000Z"
+        },
+        {
+          "id": "om_cea9d7c7e7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Home Depot and Behr Show How Far One World Cup Sponsorship Can Go",
+          "url": "https://www.adweek.com/brand-marketing/home-depot-and-behr-show-how-far-one-world-cup-sponsorship-can-go/",
+          "postedAt": "2026-06-17T06:00:00.000Z"
+        },
+        {
+          "id": "om_7c8bfb4ee9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Meet the 25 Execs Behind Amazon’s $70 Billion Ad Business",
+          "url": "https://www.adweek.com/commerce/meet-the-25-execs-behind-amazons-70-billion-ad-business/",
+          "postedAt": "2026-06-17T06:00:00.000Z"
+        },
+        {
           "id": "om_96fe76f34e",
           "source": "Adweek",
           "lang": "en",
           "title": "AI Cannot Replace Real Leadership",
           "url": "https://www.adweek.com/brand-marketing/ai-cannot-replace-real-leadership/",
           "postedAt": "2026-06-16T18:01:05.000Z"
-        },
-        {
-          "id": "om_f8d6bceb62",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Verizon’s ‘Simplicity’ flat-rate plan starts at $30 per month for new customers",
-          "url": "https://www.theverge.com/tech/950881/verizon-simplicity-plan-launch",
-          "postedAt": "2026-06-16T17:45:53.000Z"
         },
         {
           "id": "om_795cb4e22f",
@@ -763,98 +851,10 @@
           "title": "The Macallan latches on to Gen Z’s zeal for special occasion splurges",
           "url": "https://www.marketingdive.com/news/the-macallan-latches-on-to-gen-zs-zeal-for-special-occasion-splurges/822940/",
           "postedAt": "2026-06-16T12:57:58.000Z"
-        },
-        {
-          "id": "om_ad3a346dab",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why data accuracy matters more than data scale amid the rise of AI",
-          "url": "https://www.marketingdive.com/news/why-data-accuracy-matters-more-than-data-scale-amid-the-rise-of-ai/821798/",
-          "postedAt": "2026-06-16T12:30:00.000Z"
-        },
-        {
-          "id": "om_f71aba660b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Adobe Makes Its Biggest Cannes Lions Bet Yet Amid Race to Court Creators",
-          "url": "https://www.adweek.com/brand-marketing/adobe-makes-its-biggest-cannes-lions-bet-yet-amid-race-to-court-creators/",
-          "postedAt": "2026-06-16T11:56:26.000Z"
-        },
-        {
-          "id": "om_5e63e2a031",
-          "source": "Wired",
-          "lang": "en",
-          "title": "TikTok Shoppers Thought They Were Bidding on iPhones. Instead, They Won Teddy Bears",
-          "url": "https://www.wired.com/story/tiktok-surprise-sets-iphones-teddy-bears/",
-          "postedAt": "2026-06-16T11:00:00.000Z"
-        },
-        {
-          "id": "om_f624df2775",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Agentic AI is rewriting the rules of value and monetization in commerce media",
-          "url": "https://www.marketingdive.com/spons/agentic-ai-is-rewriting-the-rules-of-value-and-monetization-in-commerce-med/822587/",
-          "postedAt": "2026-06-16T09:00:00.000Z"
-        },
-        {
-          "id": "om_6ddaa30122",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok bans AI-generated voices in shopping livestreams",
-          "url": "https://www.socialmediatoday.com/news/tiktok-bans-ai-generated-voices-in-shopping-livestreams/822977/",
-          "postedAt": "2026-06-15T21:35:53.000Z"
-        },
-        {
-          "id": "om_28632b00d2",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Reddit campaigns drive performance on and off the platform",
-          "url": "https://www.socialmediatoday.com/news/reddit-campaigns-drive-performance-on-and-off-the-platform/822974/",
-          "postedAt": "2026-06-15T21:24:42.000Z"
-        },
-        {
-          "id": "om_0cd44a8b52",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Coworking with Brian Kotlyar",
-          "url": "https://www.marketingbrew.com/stories/coworking-with-brian-kotlyar?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-15T19:34:18.000Z"
-        },
-        {
-          "id": "om_88ffcbf022",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Base44 is one of the most-viewed brands on YouTube. Here’s a look at its ad strategy",
-          "url": "https://www.marketingbrew.com/stories/base44-app-advertising-strategy-youtube-smart-tvs-superbowl?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-15T18:45:41.000Z"
-        },
-        {
-          "id": "om_5dd85892d4",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "ANA and 4As offer guidelines to make agency pitches more bearable",
-          "url": "https://www.marketingdive.com/news/ana-and-4as-offer-guidelines-to-make-agency-pitches-more-bearable/822823/",
-          "postedAt": "2026-06-15T16:00:00.000Z"
-        },
-        {
-          "id": "om_c9ec2fe1f7",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Dick’s plots 100 Lids shop-in-shops by the end of the summer",
-          "url": "https://www.retaildive.com/news/dicks-sporting-goods-lids-shop-in-shops/822901/",
-          "postedAt": "2026-06-15T15:58:00.000Z"
-        },
-        {
-          "id": "om_1d474550bc",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Dentsu brings back 360i brand as social-first solution primed for AI",
-          "url": "https://www.marketingdive.com/news/dentsu-brings-back-360i-brand-as-social-first-solution-primed-for-ai/822905/",
-          "postedAt": "2026-06-15T15:56:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-17T05:15:48.263Z",
+      "lastUpdated": "2026-06-17T16:03:16.051Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
