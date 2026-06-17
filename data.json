@@ -227,13 +227,94 @@
       ],
       "articles": [
         {
-          "id": "vc_dotey_6d67ebc6f6",
+          "id": "vc_gdb_4bb119aa54",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "GPT-Realtime-2 is something new",
+          "url": "https://x.com/gdb/status/2067100786098831681",
+          "postedAt": "2026-06-17T04:23:26.000Z"
+        },
+        {
+          "id": "vc_dotey_36a94ae053",
           "source": "dotey",
           "sourceName": "宝玉",
           "platform": "x",
-          "title": "SpaceX 今天宣布，以 600 亿美元全股票交易收购 AI 代码编辑器 Cursor 的母公司 Anysphere。这是 SpaceX 上市仅数天后的第一笔大型收购。 这笔交易不算意外。4 ...",
-          "url": "https://x.com/dotey/status/2066923691565580683",
-          "postedAt": "2026-06-16T16:39:44.000Z"
+          "title": "RT Yangyi: 现在基于很多skills都可以构建视频 其实方法也非常简单 1、寻找一个你感兴趣的赛道 2、实践费曼学习法，不懂的就问AI 3、在牛马AI中安装一个视频生成...",
+          "url": "https://x.com/dotey/status/2067067700732395721",
+          "postedAt": "2026-06-17T02:08:29.000Z"
+        },
+        {
+          "id": "vc_dotey_15c677f8e2",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Codex 操控电脑的三种方式。Codex 团队成员 Jason 今天写了一篇详细指南，把三者的区别和适用场景理清楚了，这里做个精简版。 【1】Computer Use：最广，也最慢 ...",
+          "url": "https://x.com/dotey/status/2067033481142509588",
+          "postedAt": "2026-06-16T23:56:00.000Z"
+        },
+        {
+          "id": "vc_dotey_0f0163c6b1",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "NVIDIA GEAR 实验室发布了 ENPIRE，一套让 AI 编程 agent 自主操控真实机器人做实验的系统。是在真实物理世界里跑，让 AI 自己重置场景、跑实验、判断成败、查论...",
+          "url": "https://x.com/dotey/status/2067027033431875699",
+          "postedAt": "2026-06-16T23:30:22.000Z"
+        },
+        {
+          "id": "vc_steipete_69f5024d07",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT OpenClaw🦞: 🦞 OpenClaw 2026.6.8 just dropped. 💬 Richer Telegram + WhatsApp ⚡️ Sharper agent & Gateway recovery 🧠 New models + tougher ...",
+          "url": "https://x.com/steipete/status/2067082483271598389",
+          "postedAt": "2026-06-16T23:22:01.000Z"
+        },
+        {
+          "id": "vc_dotey_d23efe45dd",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT pippingg: 一个拼命往自己身上捅刀子的男孩——从人性角度剖析Anthropic Fable 5事件 今天是6月16日，距离美国政府强制Anthropic（简称A社）已经超过96小时，...",
+          "url": "https://x.com/dotey/status/2067032262537785535",
+          "postedAt": "2026-06-16T23:02:10.000Z"
+        },
+        {
+          "id": "vc_steipete_f520098a09",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Brent Traut: Codex now supports .worktreeinclude! Worktree enjoyers can now automatically copy over things like .env files, config files, agent ove...",
+          "url": "https://x.com/steipete/status/2067079534277439781",
+          "postedAt": "2026-06-16T22:17:53.000Z"
+        },
+        {
+          "id": "vc_dotey_92517c1d5c",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 金融汪: Bloomberg 获得了上周五美国商务部长卢特尼克写给Anthropic CEO 的信，信中命令Anthropic公司未经商务部许可，不得向世界任何地方的外国公民提供其Fa...",
+          "url": "https://x.com/dotey/status/2067009965693235278",
+          "postedAt": "2026-06-16T22:13:24.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_70b570aaf7",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "You don’t have to chase the cool thing. Do whatever you’re already doing so well that it becomes the cool thing. The cool thing is rarely cool when ...",
+          "url": "https://x.com/zarazhangrui/status/2066994434953421226",
+          "postedAt": "2026-06-16T21:20:50.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_ef47ac17a1",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Every other product right now is \"an AI agent that does everything in your work & life & integrates with everything.\" Cool, that's just Claude/Codex. ...",
+          "url": "https://x.com/zarazhangrui/status/2066936706281206165",
+          "postedAt": "2026-06-16T17:31:27.000Z"
         },
         {
           "id": "vc_steipete_0fc509d623",
@@ -263,15 +344,6 @@
           "postedAt": "2026-06-16T13:48:04.000Z"
         },
         {
-          "id": "vc_dotey_e9126467db",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Claude Code 的 dynamic workflows 用不起，一个简单任务，几分钟就 31 个 Agents，消耗了 1.3 M Tokens，周 Token 用量从 11% 跳到了 20%（Pro @ 20x），犯不着...",
-          "url": "https://x.com/dotey/status/2066777376399245356",
-          "postedAt": "2026-06-16T06:58:20.000Z"
-        },
-        {
           "id": "vc_gdb_a596e1196d",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -290,24 +362,6 @@
           "postedAt": "2026-06-16T05:15:38.000Z"
         },
         {
-          "id": "vc_dotey_c7873e2702",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "用 Codex 反编译 Codex App 源码😜",
-          "url": "https://x.com/dotey/status/2066721468742881532",
-          "postedAt": "2026-06-16T03:16:10.000Z"
-        },
-        {
-          "id": "vc_dotey_535859e9c2",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "推荐关注 Codex 团队的 jason，这样他能多发一点 Codex 技术内幕文章",
-          "url": "https://x.com/dotey/status/2066684608226165232",
-          "postedAt": "2026-06-16T00:49:42.000Z"
-        },
-        {
           "id": "vc_steipete_7b1d59d619",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -315,15 +369,6 @@
           "title": "RT Vaibhav (VB) Srivastav: Open Source runs on maintainers! at @OpenAI, we're committing $160,000 to sponsor the maintainers behind the Astral and Cod...",
           "url": "https://x.com/steipete/status/2066645863904972936",
           "postedAt": "2026-06-15T21:57:06.000Z"
-        },
-        {
-          "id": "vc_dotey_9f07504498",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "《图解Skill》配套 Repo 里面带的一个我日常用来整理写作 AI 资讯的 Skill：info-digest Skill 就是我日常看到一些 AI 资讯、新闻，就把内容贴进去让它生成资讯...",
-          "url": "https://x.com/dotey/status/2066621150395015310",
-          "postedAt": "2026-06-15T20:37:32.000Z"
         },
         {
           "id": "vc_zarazhangrui_ab1be1f982",
@@ -344,24 +389,6 @@
           "postedAt": "2026-06-15T17:52:54.000Z"
         },
         {
-          "id": "vc_steipete_0ca3550803",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Charles Rollet: NEW: Inside Cursor's wild rise. Lots of great new details: • CEO Michael Truell didn't pay himself for years • Cursor once made u...",
-          "url": "https://x.com/steipete/status/2066736858604646517",
-          "postedAt": "2026-06-15T17:21:13.000Z"
-        },
-        {
-          "id": "vc_steipete_9ea571405a",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Wanted to buy a new Mac Studio for San Francisco. We don’t even know how to make these anymore.",
-          "url": "https://x.com/steipete/status/2066471737068232835",
-          "postedAt": "2026-06-15T10:43:49.000Z"
-        },
-        {
           "id": "vc_Khazix0918_2412855ad4",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -378,37 +405,10 @@
           "title": "Prompt该退环境了，未来属于Loop Engineering。 最近，AI行业又出现了一个有趣的新词。Loop Engineering。 如果你关注AI这个领域的话，这两天应该都会刷到。推特...",
           "url": "https://x.com/Khazix0918/status/2066394718519656909",
           "postedAt": "2026-06-15T05:37:47.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_fdfec83eeb",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Great essay on taste and how to cultivate it Taste is not just personal preference; good taste requires mastery and experience",
-          "url": "https://x.com/zarazhangrui/status/2066036778713362747",
-          "postedAt": "2026-06-14T05:55:27.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_b55c0e5b51",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2065786589650026496",
-          "url": "https://x.com/Khazix0918/status/2065790596653183156",
-          "postedAt": "2026-06-13T13:37:13.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_137e41b454",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "There are SO many people, friends, acquaintances, followers, startups, asking me to try their new AI products every day Like I get at least 3 such req...",
-          "url": "https://x.com/zarazhangrui/status/2065696088519270402",
-          "postedAt": "2026-06-13T07:21:40.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-16T17:20:43.822Z",
+      "lastUpdated": "2026-06-17T05:15:45.081Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-16T17:20:45.425Z",
+      "lastUpdated": "2026-06-17T05:15:46.295Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,18 +693,34 @@
       },
       "articles": [
         {
-          "id": "om_7c490f95f4",
+          "id": "om_96fe76f34e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "AI Cannot Replace Real Leadership",
+          "url": "https://www.adweek.com/brand-marketing/ai-cannot-replace-real-leadership/",
+          "postedAt": "2026-06-16T18:01:05.000Z"
+        },
+        {
+          "id": "om_f8d6bceb62",
           "source": "The Verge",
           "lang": "en",
-          "title": "Snap’s first consumer AR glasses are coming this fall for $2,195",
-          "url": "https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder",
-          "postedAt": "2026-06-16T17:05:26.000Z"
+          "title": "Verizon’s ‘Simplicity’ flat-rate plan starts at $30 per month for new customers",
+          "url": "https://www.theverge.com/tech/950881/verizon-simplicity-plan-launch",
+          "postedAt": "2026-06-16T17:45:53.000Z"
+        },
+        {
+          "id": "om_795cb4e22f",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Creator marketing trends to watch at Cannes Lions 2026",
+          "url": "https://www.marketingbrew.com/stories/creator-marketing-trends-cannes-lions-2026?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-16T17:21:58.000Z"
         },
         {
           "id": "om_6157dadc5b",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+          "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
           "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
           "postedAt": "2026-06-16T16:49:44.000Z"
         },
@@ -725,12 +741,20 @@
           "postedAt": "2026-06-16T14:45:00.000Z"
         },
         {
-          "id": "om_78a6ac6f97",
-          "source": "The Verge",
+          "id": "om_ca9e9c8c44",
+          "source": "Adweek",
           "lang": "en",
-          "title": "Florida sues TikTok for allegedly violating its social media ban for kids",
-          "url": "https://www.theverge.com/tech/950632/florida-tiktok-lawsuit-social-media-ban",
-          "postedAt": "2026-06-16T14:06:56.000Z"
+          "title": "WARC: Strait of Hormuz Closure Could Cost Billions in Ad Spend Growth",
+          "url": "https://www.adweek.com/agencies/warc-strait-of-hormuz-closure-could-cost-billions-in-ad-spend-growth/",
+          "postedAt": "2026-06-16T14:22:33.000Z"
+        },
+        {
+          "id": "om_0f84a163c4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "2 Adtech Startups Team up To Solve Retail Media’s Biggest Problem",
+          "url": "https://www.adweek.com/commerce/2-adtech-startups-team-up-to-solve-retail-medias-biggest-problem/",
+          "postedAt": "2026-06-16T14:02:06.000Z"
         },
         {
           "id": "om_7cb5b0169c",
@@ -747,6 +771,14 @@
           "title": "Why data accuracy matters more than data scale amid the rise of AI",
           "url": "https://www.marketingdive.com/news/why-data-accuracy-matters-more-than-data-scale-amid-the-rise-of-ai/821798/",
           "postedAt": "2026-06-16T12:30:00.000Z"
+        },
+        {
+          "id": "om_f71aba660b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Adobe Makes Its Biggest Cannes Lions Bet Yet Amid Race to Court Creators",
+          "url": "https://www.adweek.com/brand-marketing/adobe-makes-its-biggest-cannes-lions-bet-yet-amid-race-to-court-creators/",
+          "postedAt": "2026-06-16T11:56:26.000Z"
         },
         {
           "id": "om_5e63e2a031",
@@ -819,42 +851,10 @@
           "title": "Dentsu brings back 360i brand as social-first solution primed for AI",
           "url": "https://www.marketingdive.com/news/dentsu-brings-back-360i-brand-as-social-first-solution-primed-for-ai/822905/",
           "postedAt": "2026-06-15T15:56:00.000Z"
-        },
-        {
-          "id": "om_a951742e31",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Fox acquires Roku for $22B to accelerate streaming advertising business",
-          "url": "https://www.marketingdive.com/news/fox-acquires-roku-for-22b-to-accelerate-streaming-advertising-business/822890/",
-          "postedAt": "2026-06-15T14:27:00.000Z"
-        },
-        {
-          "id": "om_8eb46b5e0b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Consumer sentiment rises from 4-month slump as gas prices fall",
-          "url": "https://www.retaildive.com/news/consumer-sentiment-rises-four-month-slump-gas-price-falls/822883/",
-          "postedAt": "2026-06-15T14:17:00.000Z"
-        },
-        {
-          "id": "om_c438926f37",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "‘Not Suitable for Work’ is very suitable for brands",
-          "url": "https://www.marketingbrew.com/stories/not-suitable-for-work-is-very-suitable-for-brands?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-15T14:07:31.000Z"
-        },
-        {
-          "id": "om_144cf4e8c4",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Consumers are worried about a recession. How should brands respond?",
-          "url": "https://www.marketingdive.com/news/consumers-are-worried-about-a-recession-how-should-brands-respond/822897/",
-          "postedAt": "2026-06-15T14:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-16T17:20:47.384Z",
+      "lastUpdated": "2026-06-17T05:15:48.263Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
