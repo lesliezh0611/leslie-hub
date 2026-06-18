@@ -227,6 +227,87 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_c281a285de",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT Cat Chen, @catchen@mastodon.world: 很多大公司会写好好看的技术博客，但如果你用这上面的文章来研究大公司的技术演化史的话，信三成就好了。很多时候技术博...",
+          "url": "https://x.com/dotey/status/2067453594417111533",
+          "postedAt": "2026-06-18T03:42:19.000Z"
+        },
+        {
+          "id": "vc_steipete_0eb4ee05a4",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Lucho: Re I was walking the same path: • “I need remote CLI for the gym” • “Actually I need an agent for this project” • “Actually I want a...",
+          "url": "https://x.com/steipete/status/2067467389881536853",
+          "postedAt": "2026-06-18T03:11:56.000Z"
+        },
+        {
+          "id": "vc_steipete_3af60e2b2d",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "sci-fi vibes intensify",
+          "url": "https://x.com/steipete/status/2067431311317352809",
+          "postedAt": "2026-06-18T02:16:50.000Z"
+        },
+        {
+          "id": "vc_steipete_68ad0500fc",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT MadChops: Re @midjourney babe wake up, new Fullbody Ultrasonic Computational Tomography device just dropped",
+          "url": "https://x.com/steipete/status/2067434764143910968",
+          "postedAt": "2026-06-18T02:02:54.000Z"
+        },
+        {
+          "id": "vc_sama_6311dfe492",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "We offer no explanation as to why Noams are so good at AI; we attribute their success, as all else, to divine benevolence.",
+          "url": "https://x.com/sama/status/2067427678529974740",
+          "postedAt": "2026-06-18T02:02:24.000Z"
+        },
+        {
+          "id": "vc_sama_73ba74dfcb",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "noam is one of the people I have most wanted to work with since the very beginning of openai. only took 10 years. i think it will be worth the wait!",
+          "url": "https://x.com/sama/status/2067427421083652131",
+          "postedAt": "2026-06-18T02:01:22.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_0f54b93ddd",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Don't use AI for writing until you develop your own taste and voice Using AI to write isn't inherently bad. The danger is using AI to write before you...",
+          "url": "https://x.com/zarazhangrui/status/2067423674689638652",
+          "postedAt": "2026-06-18T01:46:29.000Z"
+        },
+        {
+          "id": "vc_gdb_862dd4fc30",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "GPT-5.4 for improving a challenging reaction in medicinal chemistry:",
+          "url": "https://x.com/gdb/status/2067344606128468445",
+          "postedAt": "2026-06-17T20:32:18.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_30de7167cc",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "The thing about vibe coded personal apps: Building the thing takes a day. Finding out if you'll actually use it takes a week. Most of my dead projects...",
+          "url": "https://x.com/zarazhangrui/status/2067313780724551853",
+          "postedAt": "2026-06-17T18:29:48.000Z"
+        },
+        {
           "id": "vc_gdb_ee75a014d8",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -261,6 +342,15 @@
           "title": "RT Yangyi: 现在基于很多skills都可以构建视频 其实方法也非常简单 1、寻找一个你感兴趣的赛道 2、实践费曼学习法，不懂的就问AI 3、在牛马AI中安装一个视频生成...",
           "url": "https://x.com/dotey/status/2067067700732395721",
           "postedAt": "2026-06-17T02:08:29.000Z"
+        },
+        {
+          "id": "vc_gdb_f2e53c8da2",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "software engineering is so different now. hard to remember what it was like even 6 months ago.",
+          "url": "https://x.com/gdb/status/2067043685611790653",
+          "postedAt": "2026-06-17T00:36:33.000Z"
         },
         {
           "id": "vc_dotey_15c677f8e2",
@@ -308,15 +398,6 @@
           "postedAt": "2026-06-16T22:17:53.000Z"
         },
         {
-          "id": "vc_dotey_92517c1d5c",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 金融汪: Bloomberg 获得了上周五美国商务部长卢特尼克写给Anthropic CEO 的信，信中命令Anthropic公司未经商务部许可，不得向世界任何地方的外国公民提供其Fa...",
-          "url": "https://x.com/dotey/status/2067009965693235278",
-          "postedAt": "2026-06-16T22:13:24.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_70b570aaf7",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -324,91 +405,10 @@
           "title": "You don’t have to chase the cool thing. Do whatever you’re already doing so well that it becomes the cool thing. The cool thing is rarely cool when ...",
           "url": "https://x.com/zarazhangrui/status/2066994434953421226",
           "postedAt": "2026-06-16T21:20:50.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_ef47ac17a1",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Every other product right now is \"an AI agent that does everything in your work & life & integrates with everything.\" Cool, that's just Claude/Codex. ...",
-          "url": "https://x.com/zarazhangrui/status/2066936706281206165",
-          "postedAt": "2026-06-16T17:31:27.000Z"
-        },
-        {
-          "id": "vc_steipete_0fc509d623",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Lindsay McCallum Rémy: just two guys talking about loops",
-          "url": "https://x.com/steipete/status/2066917041156587569",
-          "postedAt": "2026-06-16T16:01:19.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_87d9a6435c",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "聊聊这个可能被大家低估的Agent场景。 今天去了腾讯活动的现场，当了下主持和评委。 也跟很多选手，还有腾讯云的几个大佬交流了一下。 还真的有点新东西冲击的，...",
-          "url": "https://x.com/Khazix0918/status/2066895528982655317",
-          "postedAt": "2026-06-16T14:47:49.000Z"
-        },
-        {
-          "id": "vc_steipete_02ac057851",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT prinz: Two years ago, reasoning models did not exist. GPT-4o and Sonnet 3.5 were SOTA. One year ago, the best publicly available model was o3, and ...",
-          "url": "https://x.com/steipete/status/2066919133137035715",
-          "postedAt": "2026-06-16T13:48:04.000Z"
-        },
-        {
-          "id": "vc_gdb_a596e1196d",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "great ux makes such a difference",
-          "url": "https://x.com/gdb/status/2066768795503595718",
-          "postedAt": "2026-06-16T06:24:14.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_001d7bd4d7",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2066749755095695360",
-          "url": "https://x.com/Khazix0918/status/2066751532847202616",
-          "postedAt": "2026-06-16T05:15:38.000Z"
-        },
-        {
-          "id": "vc_steipete_7b1d59d619",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Vaibhav (VB) Srivastav: Open Source runs on maintainers! at @OpenAI, we're committing $160,000 to sponsor the maintainers behind the Astral and Cod...",
-          "url": "https://x.com/steipete/status/2066645863904972936",
-          "postedAt": "2026-06-15T21:57:06.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_ab1be1f982",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "This is great UX, so intuitive",
-          "url": "https://x.com/zarazhangrui/status/2066601470678749270",
-          "postedAt": "2026-06-15T19:19:20.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_e41fd6d0e2",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "I just reached 70k followers on X 🙏🏼 X is where I learn in public & build in public. I've learned so much and met so many wonder people here If ...",
-          "url": "https://x.com/zarazhangrui/status/2066579717285957692",
-          "postedAt": "2026-06-15T17:52:54.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-17T16:03:13.192Z",
+      "lastUpdated": "2026-06-18T05:01:06.985Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -536,14 +536,6 @@
           "postedAt": "2026-06-04T09:30:00.000Z"
         },
         {
-          "id": "en_pod_lex_fridman_podcast_bc3f4fb2e4",
-          "source": "Lex Fridman Podcast",
-          "platform": "podcast",
-          "topic": "#497 – Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE – Don Lincoln",
-          "url": "https://lexfridman.com/don-lincoln/?utm_source=rss&utm_medium=rss&utm_campaign=don-lincoln",
-          "postedAt": "2026-05-29T16:22:02.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_dd8214c71e",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -600,10 +592,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-17T16:03:14.475Z",
+      "lastUpdated": "2026-06-18T05:01:09.893Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -693,12 +685,52 @@
       },
       "articles": [
         {
+          "id": "om_c88274577a",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta updates its livestream shopping tools",
+          "url": "https://www.socialmediatoday.com/news/meta-updates-its-livestream-shopping-tools/823223/",
+          "postedAt": "2026-06-17T21:34:49.000Z"
+        },
+        {
+          "id": "om_9eaf13de14",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Pinterest launches AI-powered ad and shopping tools",
+          "url": "https://www.socialmediatoday.com/news/pinterest-launches-ai-powered-ad-and-shopping-tools/823218/",
+          "postedAt": "2026-06-17T19:35:29.000Z"
+        },
+        {
+          "id": "om_6b79b914e9",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "‘Sex is back’: Why Brooklinen went from double entendre to ads that are ‘overt’",
+          "url": "https://www.marketingbrew.com/stories/brooklinen-sex-is-back-ad-campaign-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-17T17:34:41.000Z"
+        },
+        {
+          "id": "om_165d60c486",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Advertisers have spent $1.3 billion on digital ads touting AI: report",
+          "url": "https://www.marketingbrew.com/stories/AI-advertising-spend-usd-1-3-billion-digital-ads-sensor-tower?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-17T17:04:50.000Z"
+        },
+        {
           "id": "om_49a5041d66",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Maryland Container Store location, slated to be converted to co-branded Bed Bath & Beyond store, to close",
           "url": "https://www.retaildive.com/news/bed-bath-and-beyond-container-store-gaithersburg-maryland-closes/823136/",
           "postedAt": "2026-06-17T15:53:00.000Z"
+        },
+        {
+          "id": "om_993ec82b9c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Coach unites celebrities, Gen Z storytelling under new brand platform",
+          "url": "https://www.retaildive.com/news/coach-unites-celebrities-gen-z-storytelling-under-new-brand-platform/823018/",
+          "postedAt": "2026-06-17T15:43:00.000Z"
         },
         {
           "id": "om_284dd724c2",
@@ -733,6 +765,14 @@
           "postedAt": "2026-06-17T14:23:00.000Z"
         },
         {
+          "id": "om_db587ff473",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "ChatGPT is making room for ads from regulated verticals—but marketers aren’t ready to jump in at scale",
+          "url": "https://www.marketingbrew.com/stories/chatgpt-is-opening-the-advertising-door-to-some-regulated-verticals-but-most-marketers-arent-crossing-the-threshold-yet?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-17T14:14:01.000Z"
+        },
+        {
           "id": "om_52073bfb18",
           "source": "Marketing Dive",
           "lang": "en",
@@ -747,14 +787,6 @@
           "title": "I Found 22 Early Prime Day Deals That Are Worth Shopping Now",
           "url": "https://www.wired.com/story/early-prime-day-deals-june-2026/",
           "postedAt": "2026-06-17T12:22:45.000Z"
-        },
-        {
-          "id": "om_e02d401efa",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-          "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-          "postedAt": "2026-06-17T11:00:00.000Z"
         },
         {
           "id": "om_4b7a80980c",
@@ -805,56 +837,16 @@
           "postedAt": "2026-06-16T17:21:58.000Z"
         },
         {
-          "id": "om_6157dadc5b",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-          "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-          "postedAt": "2026-06-16T16:49:44.000Z"
-        },
-        {
           "id": "om_6dd42066da",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Victoria’s Secret investors back full board after proxy battle",
           "url": "https://www.retaildive.com/news/victorias-secret-investors-back-board-proxy-fight-bbrc/823012/",
           "postedAt": "2026-06-16T15:34:00.000Z"
-        },
-        {
-          "id": "om_0d2cd95174",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Coach unites celebrities, Gen Z storytelling under new brand platform",
-          "url": "https://www.marketingdive.com/news/coach-unites-celebrities-gen-z-storytelling-under-new-brand-platform/822999/",
-          "postedAt": "2026-06-16T14:45:00.000Z"
-        },
-        {
-          "id": "om_ca9e9c8c44",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "WARC: Strait of Hormuz Closure Could Cost Billions in Ad Spend Growth",
-          "url": "https://www.adweek.com/agencies/warc-strait-of-hormuz-closure-could-cost-billions-in-ad-spend-growth/",
-          "postedAt": "2026-06-16T14:22:33.000Z"
-        },
-        {
-          "id": "om_0f84a163c4",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "2 Adtech Startups Team up To Solve Retail Media’s Biggest Problem",
-          "url": "https://www.adweek.com/commerce/2-adtech-startups-team-up-to-solve-retail-medias-biggest-problem/",
-          "postedAt": "2026-06-16T14:02:06.000Z"
-        },
-        {
-          "id": "om_7cb5b0169c",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "The Macallan latches on to Gen Z’s zeal for special occasion splurges",
-          "url": "https://www.marketingdive.com/news/the-macallan-latches-on-to-gen-zs-zeal-for-special-occasion-splurges/822940/",
-          "postedAt": "2026-06-16T12:57:58.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-17T16:03:16.051Z",
+      "lastUpdated": "2026-06-18T05:01:11.895Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
