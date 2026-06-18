@@ -227,6 +227,33 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_d2ecb2eac1",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "期待早日看到 Mythos 级别的开源模型👍",
+          "url": "https://x.com/dotey/status/2067623884480721150",
+          "postedAt": "2026-06-18T15:02:03.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_b65e67e06f",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2067474789187698688",
+          "url": "https://x.com/Khazix0918/status/2067476685453447413",
+          "postedAt": "2026-06-18T05:17:08.000Z"
+        },
+        {
+          "id": "vc_gdb_eadf330a9a",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "a much better way to build iOS apps",
+          "url": "https://x.com/gdb/status/2067473704200863774",
+          "postedAt": "2026-06-18T05:05:17.000Z"
+        },
+        {
           "id": "vc_dotey_c281a285de",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -288,6 +315,24 @@
           "title": "Don't use AI for writing until you develop your own taste and voice Using AI to write isn't inherently bad. The danger is using AI to write before you...",
           "url": "https://x.com/zarazhangrui/status/2067423674689638652",
           "postedAt": "2026-06-18T01:46:29.000Z"
+        },
+        {
+          "id": "vc_steipete_6bf9b0343d",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Lisan al Gaib: new shape-rotator benchmark Fable and GPT-5.5 of course far ahead of the field but now look at GLM-5.2. it's ahead of Gemini 3.5 Fla...",
+          "url": "https://x.com/steipete/status/2067489806548963339",
+          "postedAt": "2026-06-17T21:21:02.000Z"
+        },
+        {
+          "id": "vc_steipete_7bc3c06518",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Josh Johnson: Meta HQ right now.",
+          "url": "https://x.com/steipete/status/2067494323239715077",
+          "postedAt": "2026-06-17T20:49:28.000Z"
         },
         {
           "id": "vc_gdb_862dd4fc30",
@@ -360,55 +405,10 @@
           "title": "Codex 操控电脑的三种方式。Codex 团队成员 Jason 今天写了一篇详细指南，把三者的区别和适用场景理清楚了，这里做个精简版。 【1】Computer Use：最广，也最慢 ...",
           "url": "https://x.com/dotey/status/2067033481142509588",
           "postedAt": "2026-06-16T23:56:00.000Z"
-        },
-        {
-          "id": "vc_dotey_0f0163c6b1",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "NVIDIA GEAR 实验室发布了 ENPIRE，一套让 AI 编程 agent 自主操控真实机器人做实验的系统。是在真实物理世界里跑，让 AI 自己重置场景、跑实验、判断成败、查论...",
-          "url": "https://x.com/dotey/status/2067027033431875699",
-          "postedAt": "2026-06-16T23:30:22.000Z"
-        },
-        {
-          "id": "vc_steipete_69f5024d07",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT OpenClaw🦞: 🦞 OpenClaw 2026.6.8 just dropped. 💬 Richer Telegram + WhatsApp ⚡️ Sharper agent & Gateway recovery 🧠 New models + tougher ...",
-          "url": "https://x.com/steipete/status/2067082483271598389",
-          "postedAt": "2026-06-16T23:22:01.000Z"
-        },
-        {
-          "id": "vc_dotey_d23efe45dd",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT pippingg: 一个拼命往自己身上捅刀子的男孩——从人性角度剖析Anthropic Fable 5事件 今天是6月16日，距离美国政府强制Anthropic（简称A社）已经超过96小时，...",
-          "url": "https://x.com/dotey/status/2067032262537785535",
-          "postedAt": "2026-06-16T23:02:10.000Z"
-        },
-        {
-          "id": "vc_steipete_f520098a09",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Brent Traut: Codex now supports .worktreeinclude! Worktree enjoyers can now automatically copy over things like .env files, config files, agent ove...",
-          "url": "https://x.com/steipete/status/2067079534277439781",
-          "postedAt": "2026-06-16T22:17:53.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_70b570aaf7",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "You don’t have to chase the cool thing. Do whatever you’re already doing so well that it becomes the cool thing. The cool thing is rarely cool when ...",
-          "url": "https://x.com/zarazhangrui/status/2066994434953421226",
-          "postedAt": "2026-06-16T21:20:50.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-18T05:01:06.985Z",
+      "lastUpdated": "2026-06-18T15:52:24.875Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_the_knowledge_project_2a0e0efe2b",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "Dr. Giulia Enders: How to Nourish Your Gut (And Keep It Thriving for Life)",
+          "url": "https://fs.blog/knowledge-project-podcast/dr-giulia-enders/",
+          "postedAt": "2026-06-18T09:45:00.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_0d3f0e2401",
           "source": "Lenny's Podcast",
@@ -536,12 +544,12 @@
           "postedAt": "2026-06-04T09:30:00.000Z"
         },
         {
-          "id": "en_pod_the_knowledge_project_dd8214c71e",
-          "source": "The Knowledge Project",
+          "id": "en_pod_lex_fridman_podcast_bc3f4fb2e4",
+          "source": "Lex Fridman Podcast",
           "platform": "podcast",
-          "topic": "Proven, Better, New: Mark Pincus on the Rules of Innovation",
-          "url": "https://fs.blog/knowledge-project-podcast/mark-pincus/",
-          "postedAt": "2026-05-28T09:50:00.000Z"
+          "topic": "#497 – Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE – Don Lincoln",
+          "url": "https://lexfridman.com/don-lincoln/?utm_source=rss&utm_medium=rss&utm_campaign=don-lincoln",
+          "postedAt": "2026-05-29T16:22:02.000Z"
         }
       ],
       "books": [
@@ -592,10 +600,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-18T05:01:09.893Z",
+      "lastUpdated": "2026-06-18T15:52:26.152Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -685,6 +693,102 @@
       },
       "articles": [
         {
+          "id": "om_6ca30cb31b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Bed Bath & Beyond to acquire real estate platform for $53M",
+          "url": "https://www.retaildive.com/news/bed-bath-beyond-acquires-real-estate-platform-fathom/823264/",
+          "postedAt": "2026-06-18T15:21:00.000Z"
+        },
+        {
+          "id": "om_6e5ea21c18",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "At Cannes Lions this year, marketers expect AI conversations to go from theoretical to practical",
+          "url": "https://www.marketingbrew.com/stories/cannes-lions-ai-from-theoretical-to-practical?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-18T15:12:30.000Z"
+        },
+        {
+          "id": "om_588b9a2ec4",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Uber Advertising expands beyond owned apps in play for more ad dollars",
+          "url": "https://www.marketingdive.com/news/uber-advertising-expands-beyond-owned-apps-in-play-for-more-ad-dollars/823164/",
+          "postedAt": "2026-06-18T15:10:00.000Z"
+        },
+        {
+          "id": "om_d6bb82ddbe",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Warner Bros. Discovery revamps ad-tech stack around agentic AI, AWS",
+          "url": "https://www.marketingdive.com/news/warner-bros-discovery-revamps-ad-tech-stack-around-agentic-ai-aws/823252/",
+          "postedAt": "2026-06-18T14:55:00.000Z"
+        },
+        {
+          "id": "om_28d79bffd6",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: Reddit study highlights user purchase behavior",
+          "url": "https://www.marketingdive.com/news/sociable-reddit-study-highlights-user-purchase-behavior/823273/",
+          "postedAt": "2026-06-18T14:50:00.000Z"
+        },
+        {
+          "id": "om_ffaf585feb",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Photoshop and Premiere now have AI assistants",
+          "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+          "postedAt": "2026-06-18T12:08:31.000Z"
+        },
+        {
+          "id": "om_6881c8d79e",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How the Kansas City Chiefs’ plan to hook the youngest sports fans",
+          "url": "https://www.marketingbrew.com/stories/kansas-city-chiefs-youth-marketing-mascot?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-18T10:00:00.000Z"
+        },
+        {
+          "id": "om_3397cc5949",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Instacart Teases the 3 Ad Formats Coming to Its AI Shopping Assistant",
+          "url": "https://www.adweek.com/commerce/instacart-teases-the-3-ad-formats-coming-to-its-ai-shopping-assistant/",
+          "postedAt": "2026-06-18T09:00:00.000Z"
+        },
+        {
+          "id": "om_b8d124adb8",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "WPP Enterprise Solutions and AWS Team Up on Agentic Transformation",
+          "url": "https://www.adweek.com/agencies/wpp-enterprise-solutions-and-aws-team-up-on-agentic-transformation/",
+          "postedAt": "2026-06-18T09:00:00.000Z"
+        },
+        {
+          "id": "om_9eb96892aa",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Omnicom Media Doubles Down on Initiative With New Leadership",
+          "url": "https://www.adweek.com/agencies/omnicom-media-doubles-down-on-initiative-with-new-leadership/",
+          "postedAt": "2026-06-18T08:03:53.000Z"
+        },
+        {
+          "id": "om_f6b5bc9511",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Horizon Media Builds the Plumbing for Agentic Ad Buying",
+          "url": "https://www.adweek.com/agencies/horizon-media-builds-the-plumbing-for-agentic-ad-buying/",
+          "postedAt": "2026-06-18T06:00:00.000Z"
+        },
+        {
+          "id": "om_ccdae65436",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Rembrand Rebuilt Spaceback to Turn Social Posts into AI-Powered Ads",
+          "url": "https://www.adweek.com/media/rembrand-rebuilt-spaceback-to-turn-social-posts-into-ai-powered-ads/",
+          "postedAt": "2026-06-18T06:00:00.000Z"
+        },
+        {
           "id": "om_c88274577a",
           "source": "Social Media Today",
           "lang": "en",
@@ -747,106 +851,10 @@
           "title": "Aleve tackles home improvement pain with social content and DIY stars",
           "url": "https://www.marketingdive.com/news/aleve-tackles-home-improvement-pain-with-social-content-and-diy-stars/823074/",
           "postedAt": "2026-06-17T15:28:00.000Z"
-        },
-        {
-          "id": "om_d479ce806d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Etsy goes after Prime Day with ‘Shop Other Jeffs’ campaign",
-          "url": "https://www.retaildive.com/news/etsy-marketing-campaign-amazon-prime-day-shop-other-jeffs/823118/",
-          "postedAt": "2026-06-17T15:10:00.000Z"
-        },
-        {
-          "id": "om_23d037210b",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "P&G’s latest branded microdrama is built on Albertsons retail media data",
-          "url": "https://www.marketingdive.com/news/pgs-latest-branded-microdrama-is-built-on-albertsons-retail-media-data/823121/",
-          "postedAt": "2026-06-17T14:23:00.000Z"
-        },
-        {
-          "id": "om_db587ff473",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "ChatGPT is making room for ads from regulated verticals—but marketers aren’t ready to jump in at scale",
-          "url": "https://www.marketingbrew.com/stories/chatgpt-is-opening-the-advertising-door-to-some-regulated-verticals-but-most-marketers-arent-crossing-the-threshold-yet?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-17T14:14:01.000Z"
-        },
-        {
-          "id": "om_52073bfb18",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Hinge’s chief marketer on why community is more than a marketing channel",
-          "url": "https://www.marketingdive.com/news/hinges-chief-marketer-on-why-community-is-more-than-a-marketing-channel/823037/",
-          "postedAt": "2026-06-17T13:00:00.000Z"
-        },
-        {
-          "id": "om_167a782a24",
-          "source": "Wired",
-          "lang": "en",
-          "title": "I Found 22 Early Prime Day Deals That Are Worth Shopping Now",
-          "url": "https://www.wired.com/story/early-prime-day-deals-june-2026/",
-          "postedAt": "2026-06-17T12:22:45.000Z"
-        },
-        {
-          "id": "om_4b7a80980c",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How the World Cup fuels US soccer leagues and their brand partners",
-          "url": "https://www.marketingdive.com/news/how-the-world-cup-fuels-us-soccer-leagues-and-their-brand-partners/822712/",
-          "postedAt": "2026-06-17T11:00:00.000Z"
-        },
-        {
-          "id": "om_a577898ac0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How To Turn a Weekend Vibe Code Into a Cannes-Ready AI Radio Station In a Month",
-          "url": "https://www.adweek.com/agencies/how-to-turn-a-weekend-vibe-code-into-a-cannes-ready-ai-radio-station/",
-          "postedAt": "2026-06-17T07:00:00.000Z"
-        },
-        {
-          "id": "om_cea9d7c7e7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Home Depot and Behr Show How Far One World Cup Sponsorship Can Go",
-          "url": "https://www.adweek.com/brand-marketing/home-depot-and-behr-show-how-far-one-world-cup-sponsorship-can-go/",
-          "postedAt": "2026-06-17T06:00:00.000Z"
-        },
-        {
-          "id": "om_7c8bfb4ee9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Meet the 25 Execs Behind Amazon’s $70 Billion Ad Business",
-          "url": "https://www.adweek.com/commerce/meet-the-25-execs-behind-amazons-70-billion-ad-business/",
-          "postedAt": "2026-06-17T06:00:00.000Z"
-        },
-        {
-          "id": "om_96fe76f34e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "AI Cannot Replace Real Leadership",
-          "url": "https://www.adweek.com/brand-marketing/ai-cannot-replace-real-leadership/",
-          "postedAt": "2026-06-16T18:01:05.000Z"
-        },
-        {
-          "id": "om_795cb4e22f",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Creator marketing trends to watch at Cannes Lions 2026",
-          "url": "https://www.marketingbrew.com/stories/creator-marketing-trends-cannes-lions-2026?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-16T17:21:58.000Z"
-        },
-        {
-          "id": "om_6dd42066da",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Victoria’s Secret investors back full board after proxy battle",
-          "url": "https://www.retaildive.com/news/victorias-secret-investors-back-board-proxy-fight-bbrc/823012/",
-          "postedAt": "2026-06-16T15:34:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-18T05:01:11.895Z",
+      "lastUpdated": "2026-06-18T15:52:27.759Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
