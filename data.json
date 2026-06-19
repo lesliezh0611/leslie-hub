@@ -227,6 +227,87 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_7477106c88",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Everything’s either a fast or slow API now.",
+          "url": "https://x.com/steipete/status/2067821739556413651",
+          "postedAt": "2026-06-19T04:08:15.000Z"
+        },
+        {
+          "id": "vc_gdb_f65d8b0c21",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "the reasoning paradigm unlocking medical progress for humanity",
+          "url": "https://x.com/gdb/status/2067722188027994275",
+          "postedAt": "2026-06-18T21:32:40.000Z"
+        },
+        {
+          "id": "vc_dotey_4978cb1c8d",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Claude Code 推出 Artifact 功能：AI 编程从终端走向可视化协作 Claude Code 现在可以把工作过程生成 Artifact，简单说就是一个实时更新的网页。PR 走查、系统架...",
+          "url": "https://x.com/dotey/status/2067708784106160322",
+          "postedAt": "2026-06-18T20:39:24.000Z"
+        },
+        {
+          "id": "vc_gdb_8eec110de8",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "you can now teach Codex by demonstration:",
+          "url": "https://x.com/gdb/status/2067700691062464887",
+          "postedAt": "2026-06-18T20:07:15.000Z"
+        },
+        {
+          "id": "vc_dotey_2bf00ea78d",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "OpenAI Codex 上线了 Record & Replay 功能：在 Mac 上把一个重复性操作演示一遍，Codex 会观察你的操作过程，自动生成一个可复用的 Skill。下次遇到同样的任务...",
+          "url": "https://x.com/dotey/status/2067699358586253663",
+          "postedAt": "2026-06-18T20:01:57.000Z"
+        },
+        {
+          "id": "vc_gdb_6af7d56269",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "We've collaborating with hundreds of physicians across 60 countries, 49 languages, and 26 specialties to make ChatGPT great at health-related question...",
+          "url": "https://x.com/gdb/status/2067675030335668270",
+          "postedAt": "2026-06-18T18:25:17.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_ebe51eb010",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Even more true today",
+          "url": "https://x.com/zarazhangrui/status/2067661289367998602",
+          "postedAt": "2026-06-18T17:30:41.000Z"
+        },
+        {
+          "id": "vc_gdb_c0a50ed1a0",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "OpenAI for helping find 18 new diagnoses across 376 previously unsolved medical cases. Includes diagnosing Kyra, who has been trying to understand her...",
+          "url": "https://x.com/gdb/status/2067648020934701541",
+          "postedAt": "2026-06-18T16:37:57.000Z"
+        },
+        {
+          "id": "vc_sama_7b2ae7a22a",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "RT Karan Singhal: One of the ways scaling test-time compute can benefit people most: have reasoning models think really hard about rare undiagnosed di...",
+          "url": "https://x.com/sama/status/2067654924884754926",
+          "postedAt": "2026-06-18T15:46:14.000Z"
+        },
+        {
           "id": "vc_dotey_d2ecb2eac1",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -317,98 +398,17 @@
           "postedAt": "2026-06-18T01:46:29.000Z"
         },
         {
-          "id": "vc_steipete_6bf9b0343d",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Lisan al Gaib: new shape-rotator benchmark Fable and GPT-5.5 of course far ahead of the field but now look at GLM-5.2. it's ahead of Gemini 3.5 Fla...",
-          "url": "https://x.com/steipete/status/2067489806548963339",
-          "postedAt": "2026-06-17T21:21:02.000Z"
-        },
-        {
-          "id": "vc_steipete_7bc3c06518",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Josh Johnson: Meta HQ right now.",
-          "url": "https://x.com/steipete/status/2067494323239715077",
-          "postedAt": "2026-06-17T20:49:28.000Z"
-        },
-        {
-          "id": "vc_gdb_862dd4fc30",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "GPT-5.4 for improving a challenging reaction in medicinal chemistry:",
-          "url": "https://x.com/gdb/status/2067344606128468445",
-          "postedAt": "2026-06-17T20:32:18.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_30de7167cc",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "The thing about vibe coded personal apps: Building the thing takes a day. Finding out if you'll actually use it takes a week. Most of my dead projects...",
-          "url": "https://x.com/zarazhangrui/status/2067313780724551853",
-          "postedAt": "2026-06-17T18:29:48.000Z"
-        },
-        {
-          "id": "vc_gdb_ee75a014d8",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "AI for helping crack a health mystery. So many stories like this, and a clear motivation to be excited about AI:",
-          "url": "https://x.com/gdb/status/2067144669897859411",
-          "postedAt": "2026-06-17T07:17:49.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_e50128c78e",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "智谱 YYDS！ 官方评分也终于出来了，真是真的可以跟 Opus 4.8 掰掰手腕了",
-          "url": "https://x.com/Khazix0918/status/2067122426778145093",
-          "postedAt": "2026-06-17T05:49:26.000Z"
-        },
-        {
-          "id": "vc_gdb_4bb119aa54",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "GPT-Realtime-2 is something new",
-          "url": "https://x.com/gdb/status/2067100786098831681",
-          "postedAt": "2026-06-17T04:23:26.000Z"
-        },
-        {
-          "id": "vc_dotey_36a94ae053",
+          "id": "vc_dotey_3f5d87af2a",
           "source": "dotey",
           "sourceName": "宝玉",
           "platform": "x",
-          "title": "RT Yangyi: 现在基于很多skills都可以构建视频 其实方法也非常简单 1、寻找一个你感兴趣的赛道 2、实践费曼学习法，不懂的就问AI 3、在牛马AI中安装一个视频生成...",
-          "url": "https://x.com/dotey/status/2067067700732395721",
-          "postedAt": "2026-06-17T02:08:29.000Z"
-        },
-        {
-          "id": "vc_gdb_f2e53c8da2",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "software engineering is so different now. hard to remember what it was like even 6 months ago.",
-          "url": "https://x.com/gdb/status/2067043685611790653",
-          "postedAt": "2026-06-17T00:36:33.000Z"
-        },
-        {
-          "id": "vc_dotey_15c677f8e2",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Codex 操控电脑的三种方式。Codex 团队成员 Jason 今天写了一篇详细指南，把三者的区别和适用场景理清楚了，这里做个精简版。 【1】Computer Use：最广，也最慢 ...",
-          "url": "https://x.com/dotey/status/2067033481142509588",
-          "postedAt": "2026-06-16T23:56:00.000Z"
+          "title": "RT Compute King: 大家现在能叫出一串名字：DeepSeek，千问，Kimi，混元，星火，文心一言…… 感觉好像就是ChatGPT一出来，中国本土公司一夜之间全冒出来了。但...",
+          "url": "https://x.com/dotey/status/2067690214915445174",
+          "postedAt": "2026-06-18T00:42:10.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-18T15:52:24.875Z",
+      "lastUpdated": "2026-06-19T05:23:30.082Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-18T15:52:26.152Z",
+      "lastUpdated": "2026-06-19T05:23:31.854Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,38 @@
       },
       "articles": [
         {
+          "id": "om_fc4495af21",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside Unilever’s World Cup sponsorship strategy",
+          "url": "https://www.marketingbrew.com/stories/unilevers-world-cup-sponsorship-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-18T17:00:24.000Z"
+        },
+        {
+          "id": "om_e6309286dc",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Coworking with Spencer Burke",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-spencer-burke?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-18T16:08:01.000Z"
+        },
+        {
+          "id": "om_74620f4ded",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "StockX to debut live shopping",
+          "url": "https://www.retaildive.com/news/stockx-debuts-live-shopping-auctions/823066/",
+          "postedAt": "2026-06-18T16:04:00.000Z"
+        },
+        {
+          "id": "om_0f9f631a1b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The CMO’s Secret to Board-Level Influence ft. US Bank’s Michael Lacorazza",
+          "url": "https://www.adweek.com/brand-marketing/the-cmos-secret-to-board-level-influence-ft-us-banks-michael-lacorazza/",
+          "postedAt": "2026-06-18T15:30:40.000Z"
+        },
+        {
           "id": "om_6ca30cb31b",
           "source": "Retail Dive",
           "lang": "en",
@@ -733,12 +765,28 @@
           "postedAt": "2026-06-18T14:50:00.000Z"
         },
         {
-          "id": "om_ffaf585feb",
-          "source": "The Verge",
+          "id": "om_85f9ff379a",
+          "source": "Adweek",
           "lang": "en",
-          "title": "Photoshop and Premiere now have AI assistants",
-          "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-          "postedAt": "2026-06-18T12:08:31.000Z"
+          "title": "Penske Media Acquires Remaining Vox Media Brands, Creates PMX Division",
+          "url": "https://www.adweek.com/dealroom/penske-media-vox-media-brands-pmx/",
+          "postedAt": "2026-06-18T14:32:50.000Z"
+        },
+        {
+          "id": "om_1653134af9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Shopify Wants To Be Merchants’ Built-in AI Agency",
+          "url": "https://www.adweek.com/commerce/shopify-wants-to-be-merchants-built-in-ai-agency/",
+          "postedAt": "2026-06-18T12:20:39.000Z"
+        },
+        {
+          "id": "om_b84274f716",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Fox Closes Upfront First, With ‘Market-Leading Pricing Growth’ and ‘No Rollbacks’",
+          "url": "https://www.adweek.com/convergent-tv/fox-close-upfront-market-leading-pricing-no-rollbacks/",
+          "postedAt": "2026-06-18T12:00:00.000Z"
         },
         {
           "id": "om_6881c8d79e",
@@ -773,22 +821,6 @@
           "postedAt": "2026-06-18T08:03:53.000Z"
         },
         {
-          "id": "om_f6b5bc9511",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Horizon Media Builds the Plumbing for Agentic Ad Buying",
-          "url": "https://www.adweek.com/agencies/horizon-media-builds-the-plumbing-for-agentic-ad-buying/",
-          "postedAt": "2026-06-18T06:00:00.000Z"
-        },
-        {
-          "id": "om_ccdae65436",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Rembrand Rebuilt Spaceback to Turn Social Posts into AI-Powered Ads",
-          "url": "https://www.adweek.com/media/rembrand-rebuilt-spaceback-to-turn-social-posts-into-ai-powered-ads/",
-          "postedAt": "2026-06-18T06:00:00.000Z"
-        },
-        {
           "id": "om_c88274577a",
           "source": "Social Media Today",
           "lang": "en",
@@ -819,42 +851,10 @@
           "title": "Advertisers have spent $1.3 billion on digital ads touting AI: report",
           "url": "https://www.marketingbrew.com/stories/AI-advertising-spend-usd-1-3-billion-digital-ads-sensor-tower?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-06-17T17:04:50.000Z"
-        },
-        {
-          "id": "om_49a5041d66",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Maryland Container Store location, slated to be converted to co-branded Bed Bath & Beyond store, to close",
-          "url": "https://www.retaildive.com/news/bed-bath-and-beyond-container-store-gaithersburg-maryland-closes/823136/",
-          "postedAt": "2026-06-17T15:53:00.000Z"
-        },
-        {
-          "id": "om_993ec82b9c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Coach unites celebrities, Gen Z storytelling under new brand platform",
-          "url": "https://www.retaildive.com/news/coach-unites-celebrities-gen-z-storytelling-under-new-brand-platform/823018/",
-          "postedAt": "2026-06-17T15:43:00.000Z"
-        },
-        {
-          "id": "om_284dd724c2",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Vince CEO: A healthy Saks Global is ‘good for the industry’",
-          "url": "https://www.retaildive.com/news/vince-sales-growth-q1-earnings/823124/",
-          "postedAt": "2026-06-17T15:41:00.000Z"
-        },
-        {
-          "id": "om_a5b038f30a",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Aleve tackles home improvement pain with social content and DIY stars",
-          "url": "https://www.marketingdive.com/news/aleve-tackles-home-improvement-pain-with-social-content-and-diy-stars/823074/",
-          "postedAt": "2026-06-17T15:28:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-18T15:52:27.759Z",
+      "lastUpdated": "2026-06-19T05:23:34.841Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
