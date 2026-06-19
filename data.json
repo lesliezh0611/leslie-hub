@@ -227,6 +227,42 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_cbfc6b7e94",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 宝玉: Re 公布抽奖结果了，使用评论没有直接触发，所以只好直接去问 Grok，这是会话： https://x.com/i/grok/share/fdde175c8e0d426ab62c41fd99b5a26e 中奖名...",
+          "url": "https://x.com/dotey/status/2067985241323573615",
+          "postedAt": "2026-06-19T14:57:20.000Z"
+        },
+        {
+          "id": "vc_gdb_3b1b47c632",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Codex app is very good",
+          "url": "https://x.com/gdb/status/2067884985596703079",
+          "postedAt": "2026-06-19T08:19:34.000Z"
+        },
+        {
+          "id": "vc_dotey_a42532f7d8",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "baoyu-design skill 更新：可以在制作 PPT、动画视频或者网站时调用 AI 生图技能配图了，当然需要你本地 Agent 有配置画图 Skill。 如果是 Codex 可以直接调用内...",
+          "url": "https://x.com/dotey/status/2067876611873964284",
+          "postedAt": "2026-06-19T07:46:18.000Z"
+        },
+        {
+          "id": "vc_gdb_c50e213880",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Launching credit usage analytics and updated spend controls for enterprises, available in our global admin console:",
+          "url": "https://x.com/gdb/status/2067843106469515603",
+          "postedAt": "2026-06-19T05:33:09.000Z"
+        },
+        {
           "id": "vc_steipete_7477106c88",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -234,6 +270,24 @@
           "title": "Everything’s either a fast or slow API now.",
           "url": "https://x.com/steipete/status/2067821739556413651",
           "postedAt": "2026-06-19T04:08:15.000Z"
+        },
+        {
+          "id": "vc_steipete_1fb694f3bd",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Fardeem: If you're on your way to building a billion dollar company that involves a web app, here are some of my notes on architecting the frontend...",
+          "url": "https://x.com/steipete/status/2067921964090667510",
+          "postedAt": "2026-06-19T02:52:43.000Z"
+        },
+        {
+          "id": "vc_steipete_6f6e8db257",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Theo - t3.gg: If you're curious how I managed to do over $20,000 in inference on the last 48 hours, here's a video all about it. Spoiler: loops are...",
+          "url": "https://x.com/steipete/status/2067876199695818928",
+          "postedAt": "2026-06-19T02:28:41.000Z"
         },
         {
           "id": "vc_gdb_f65d8b0c21",
@@ -290,15 +344,6 @@
           "postedAt": "2026-06-18T17:30:41.000Z"
         },
         {
-          "id": "vc_gdb_c0a50ed1a0",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "OpenAI for helping find 18 new diagnoses across 376 previously unsolved medical cases. Includes diagnosing Kyra, who has been trying to understand her...",
-          "url": "https://x.com/gdb/status/2067648020934701541",
-          "postedAt": "2026-06-18T16:37:57.000Z"
-        },
-        {
           "id": "vc_sama_7b2ae7a22a",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -326,24 +371,6 @@
           "postedAt": "2026-06-18T05:17:08.000Z"
         },
         {
-          "id": "vc_gdb_eadf330a9a",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "a much better way to build iOS apps",
-          "url": "https://x.com/gdb/status/2067473704200863774",
-          "postedAt": "2026-06-18T05:05:17.000Z"
-        },
-        {
-          "id": "vc_dotey_c281a285de",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Cat Chen, @catchen@mastodon.world: 很多大公司会写好好看的技术博客，但如果你用这上面的文章来研究大公司的技术演化史的话，信三成就好了。很多时候技术博...",
-          "url": "https://x.com/dotey/status/2067453594417111533",
-          "postedAt": "2026-06-18T03:42:19.000Z"
-        },
-        {
           "id": "vc_steipete_0eb4ee05a4",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -362,15 +389,6 @@
           "postedAt": "2026-06-18T02:16:50.000Z"
         },
         {
-          "id": "vc_steipete_68ad0500fc",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT MadChops: Re @midjourney babe wake up, new Fullbody Ultrasonic Computational Tomography device just dropped",
-          "url": "https://x.com/steipete/status/2067434764143910968",
-          "postedAt": "2026-06-18T02:02:54.000Z"
-        },
-        {
           "id": "vc_sama_6311dfe492",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -387,28 +405,10 @@
           "title": "noam is one of the people I have most wanted to work with since the very beginning of openai. only took 10 years. i think it will be worth the wait!",
           "url": "https://x.com/sama/status/2067427421083652131",
           "postedAt": "2026-06-18T02:01:22.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_0f54b93ddd",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Don't use AI for writing until you develop your own taste and voice Using AI to write isn't inherently bad. The danger is using AI to write before you...",
-          "url": "https://x.com/zarazhangrui/status/2067423674689638652",
-          "postedAt": "2026-06-18T01:46:29.000Z"
-        },
-        {
-          "id": "vc_dotey_3f5d87af2a",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Compute King: 大家现在能叫出一串名字：DeepSeek，千问，Kimi，混元，星火，文心一言…… 感觉好像就是ChatGPT一出来，中国本土公司一夜之间全冒出来了。但...",
-          "url": "https://x.com/dotey/status/2067690214915445174",
-          "postedAt": "2026-06-18T00:42:10.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-19T05:23:30.082Z",
+      "lastUpdated": "2026-06-19T15:42:22.546Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-19T05:23:31.854Z",
+      "lastUpdated": "2026-06-19T15:42:23.748Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -692,6 +692,30 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_6d334c4cd0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "7 Things That Hit This Week: Meta’s Next Stab at Commerce, New Hires at Sephora and Lowe’s, and Pinterest Goes Deep on AI",
+          "url": "https://www.adweek.com/commerce/7-things-that-hit-this-week-metas-next-stab-at-commerce-new-hires-at-sephora-and-lowes-and-pinterest-goes-deep-on-ai/",
+          "postedAt": "2026-06-19T10:25:25.000Z"
+        },
+        {
+          "id": "om_2ceac4e10b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "6 Top Local World Cup Ads: Adidas Backs Scotland, Brahma Dreams Big For Brazil and More",
+          "url": "https://www.adweek.com/brand-marketing/6-of-the-best-local-world-cup-ads-adidas-chooses-scotland-brahma-dreams-big-and-more/",
+          "postedAt": "2026-06-19T06:00:00.000Z"
+        },
+        {
+          "id": "om_4a19202408",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 11 Campaigns That Caught Our Eye, From Nike to Etsy",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-11-campaigns-that-caught-our-eye-from-nike-to-etsy/",
+          "postedAt": "2026-06-19T06:00:00.000Z"
+        },
         {
           "id": "om_fc4495af21",
           "source": "Marketing Brew",
@@ -805,22 +829,6 @@
           "postedAt": "2026-06-18T09:00:00.000Z"
         },
         {
-          "id": "om_b8d124adb8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "WPP Enterprise Solutions and AWS Team Up on Agentic Transformation",
-          "url": "https://www.adweek.com/agencies/wpp-enterprise-solutions-and-aws-team-up-on-agentic-transformation/",
-          "postedAt": "2026-06-18T09:00:00.000Z"
-        },
-        {
-          "id": "om_9eb96892aa",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Omnicom Media Doubles Down on Initiative With New Leadership",
-          "url": "https://www.adweek.com/agencies/omnicom-media-doubles-down-on-initiative-with-new-leadership/",
-          "postedAt": "2026-06-18T08:03:53.000Z"
-        },
-        {
           "id": "om_c88274577a",
           "source": "Social Media Today",
           "lang": "en",
@@ -843,18 +851,10 @@
           "title": "‘Sex is back’: Why Brooklinen went from double entendre to ads that are ‘overt’",
           "url": "https://www.marketingbrew.com/stories/brooklinen-sex-is-back-ad-campaign-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-06-17T17:34:41.000Z"
-        },
-        {
-          "id": "om_165d60c486",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Advertisers have spent $1.3 billion on digital ads touting AI: report",
-          "url": "https://www.marketingbrew.com/stories/AI-advertising-spend-usd-1-3-billion-digital-ads-sensor-tower?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-17T17:04:50.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-19T05:23:34.841Z",
+      "lastUpdated": "2026-06-19T15:42:25.726Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
