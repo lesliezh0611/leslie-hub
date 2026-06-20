@@ -227,6 +227,60 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_7688d7e521",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Codex 上线了一个跨设备任务迁移功能，叫 Handoff。你在笔记本上用 Codex 写代码写到一半，合上盖子之前，可以把正在进行的任务连同代码状态一起迁移到远程服务...",
+          "url": "https://x.com/dotey/status/2068183780938985827",
+          "postedAt": "2026-06-20T04:06:53.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_8f659965c2",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "The 3 most important things that set someone apart in the AI age: - Agency - Taste - Distribution",
+          "url": "https://x.com/zarazhangrui/status/2068094591220531583",
+          "postedAt": "2026-06-19T22:12:28.000Z"
+        },
+        {
+          "id": "vc_steipete_1ccce474d6",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Guinness Chen: Codex can now hand off threads between local and remote hosts. Start work on your laptop, send it to a remote box before you close t...",
+          "url": "https://x.com/steipete/status/2068132941645980103",
+          "postedAt": "2026-06-19T20:04:05.000Z"
+        },
+        {
+          "id": "vc_dotey_e44d6b51ec",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Skill 和软件一样，需要不断迭代的，而且你用户越多，遇到的各种问题就越多，就需要去解决各种边边角角的问题，才能越来越好用。 比如 @yangyi 昨天在他的牛马AI...",
+          "url": "https://x.com/dotey/status/2068042001895809420",
+          "postedAt": "2026-06-19T18:43:30.000Z"
+        },
+        {
+          "id": "vc_gdb_a08fdfc3ee",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "OpenAI for helping families facing rare genetic diseases. This was done with o3 which is over a year old, amazing to think what will be possible with ...",
+          "url": "https://x.com/gdb/status/2068016345451831480",
+          "postedAt": "2026-06-19T17:01:33.000Z"
+        },
+        {
+          "id": "vc_dotey_74dd53ac2f",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT Barret李靖: 大概一个月多前，电脑中了木马，潜伏了一个月才被发现，也导致了我的 X 账号被盗。 让 Claude 和 Codex 逐一分析系统进程时，找到了一个叫做 com...",
+          "url": "https://x.com/dotey/status/2068087624758177881",
+          "postedAt": "2026-06-19T15:47:35.000Z"
+        },
+        {
           "id": "vc_dotey_cbfc6b7e94",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -299,15 +353,6 @@
           "postedAt": "2026-06-18T21:32:40.000Z"
         },
         {
-          "id": "vc_dotey_4978cb1c8d",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Claude Code 推出 Artifact 功能：AI 编程从终端走向可视化协作 Claude Code 现在可以把工作过程生成 Artifact，简单说就是一个实时更新的网页。PR 走查、系统架...",
-          "url": "https://x.com/dotey/status/2067708784106160322",
-          "postedAt": "2026-06-18T20:39:24.000Z"
-        },
-        {
           "id": "vc_gdb_8eec110de8",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -315,24 +360,6 @@
           "title": "you can now teach Codex by demonstration:",
           "url": "https://x.com/gdb/status/2067700691062464887",
           "postedAt": "2026-06-18T20:07:15.000Z"
-        },
-        {
-          "id": "vc_dotey_2bf00ea78d",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "OpenAI Codex 上线了 Record & Replay 功能：在 Mac 上把一个重复性操作演示一遍，Codex 会观察你的操作过程，自动生成一个可复用的 Skill。下次遇到同样的任务...",
-          "url": "https://x.com/dotey/status/2067699358586253663",
-          "postedAt": "2026-06-18T20:01:57.000Z"
-        },
-        {
-          "id": "vc_gdb_6af7d56269",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "We've collaborating with hundreds of physicians across 60 countries, 49 languages, and 26 specialties to make ChatGPT great at health-related question...",
-          "url": "https://x.com/gdb/status/2067675030335668270",
-          "postedAt": "2026-06-18T18:25:17.000Z"
         },
         {
           "id": "vc_zarazhangrui_ebe51eb010",
@@ -353,15 +380,6 @@
           "postedAt": "2026-06-18T15:46:14.000Z"
         },
         {
-          "id": "vc_dotey_d2ecb2eac1",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "期待早日看到 Mythos 级别的开源模型👍",
-          "url": "https://x.com/dotey/status/2067623884480721150",
-          "postedAt": "2026-06-18T15:02:03.000Z"
-        },
-        {
           "id": "vc_Khazix0918_b65e67e06f",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -380,15 +398,6 @@
           "postedAt": "2026-06-18T03:11:56.000Z"
         },
         {
-          "id": "vc_steipete_3af60e2b2d",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "sci-fi vibes intensify",
-          "url": "https://x.com/steipete/status/2067431311317352809",
-          "postedAt": "2026-06-18T02:16:50.000Z"
-        },
-        {
           "id": "vc_sama_6311dfe492",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -396,19 +405,10 @@
           "title": "We offer no explanation as to why Noams are so good at AI; we attribute their success, as all else, to divine benevolence.",
           "url": "https://x.com/sama/status/2067427678529974740",
           "postedAt": "2026-06-18T02:02:24.000Z"
-        },
-        {
-          "id": "vc_sama_73ba74dfcb",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "noam is one of the people I have most wanted to work with since the very beginning of openai. only took 10 years. i think it will be worth the wait!",
-          "url": "https://x.com/sama/status/2067427421083652131",
-          "postedAt": "2026-06-18T02:01:22.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-19T15:42:22.546Z",
+      "lastUpdated": "2026-06-20T04:40:28.234Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -542,14 +542,6 @@
           "topic": "Mental Models That Change How You Think | Bill Gurley",
           "url": "https://fs.blog/knowledge-project-podcast/bill-gurley/",
           "postedAt": "2026-06-04T09:30:00.000Z"
-        },
-        {
-          "id": "en_pod_lex_fridman_podcast_bc3f4fb2e4",
-          "source": "Lex Fridman Podcast",
-          "platform": "podcast",
-          "topic": "#497 – Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE – Don Lincoln",
-          "url": "https://lexfridman.com/don-lincoln/?utm_source=rss&utm_medium=rss&utm_campaign=don-lincoln",
-          "postedAt": "2026-05-29T16:22:02.000Z"
         }
       ],
       "books": [
@@ -600,10 +592,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-19T15:42:23.748Z",
+      "lastUpdated": "2026-06-20T04:40:29.333Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -692,6 +684,14 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_c672828324",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+          "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+          "postedAt": "2026-06-19T16:08:17.000Z"
+        },
         {
           "id": "om_6d334c4cd0",
           "source": "Adweek",
@@ -843,18 +843,10 @@
           "title": "Pinterest launches AI-powered ad and shopping tools",
           "url": "https://www.socialmediatoday.com/news/pinterest-launches-ai-powered-ad-and-shopping-tools/823218/",
           "postedAt": "2026-06-17T19:35:29.000Z"
-        },
-        {
-          "id": "om_6b79b914e9",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "‘Sex is back’: Why Brooklinen went from double entendre to ads that are ‘overt’",
-          "url": "https://www.marketingbrew.com/stories/brooklinen-sex-is-back-ad-campaign-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-17T17:34:41.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-19T15:42:25.726Z",
+      "lastUpdated": "2026-06-20T04:40:31.265Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
