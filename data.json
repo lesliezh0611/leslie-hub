@@ -227,6 +227,24 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_68e8e122d8",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "这个提示词挺酷，针织玩偶",
+          "url": "https://x.com/dotey/status/2068221289609715803",
+          "postedAt": "2026-06-20T06:35:55.000Z"
+        },
+        {
+          "id": "vc_steipete_d914860839",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Hannes speaks both developer and agents. Blessed to have him on the team!",
+          "url": "https://x.com/steipete/status/2068199277277401419",
+          "postedAt": "2026-06-20T05:08:27.000Z"
+        },
+        {
           "id": "vc_dotey_7688d7e521",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -297,15 +315,6 @@
           "title": "Codex app is very good",
           "url": "https://x.com/gdb/status/2067884985596703079",
           "postedAt": "2026-06-19T08:19:34.000Z"
-        },
-        {
-          "id": "vc_dotey_a42532f7d8",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "baoyu-design skill 更新：可以在制作 PPT、动画视频或者网站时调用 AI 生图技能配图了，当然需要你本地 Agent 有配置画图 Skill。 如果是 Codex 可以直接调用内...",
-          "url": "https://x.com/dotey/status/2067876611873964284",
-          "postedAt": "2026-06-19T07:46:18.000Z"
         },
         {
           "id": "vc_gdb_c50e213880",
@@ -389,15 +398,6 @@
           "postedAt": "2026-06-18T05:17:08.000Z"
         },
         {
-          "id": "vc_steipete_0eb4ee05a4",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Lucho: Re I was walking the same path: • “I need remote CLI for the gym” • “Actually I need an agent for this project” • “Actually I want a...",
-          "url": "https://x.com/steipete/status/2067467389881536853",
-          "postedAt": "2026-06-18T03:11:56.000Z"
-        },
-        {
           "id": "vc_sama_6311dfe492",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-20T04:40:28.234Z",
+      "lastUpdated": "2026-06-20T14:29:10.176Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -592,7 +592,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-20T04:40:29.333Z",
+      "lastUpdated": "2026-06-20T14:29:11.599Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -684,6 +684,14 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_ddf3622a42",
+          "source": "Wired",
+          "lang": "en",
+          "title": "I Found 29 Early Prime Day Deals That Are Worth Shopping Now (2026)",
+          "url": "https://www.wired.com/story/early-prime-day-deals-june-2026-2/",
+          "postedAt": "2026-06-20T10:38:00.000Z"
+        },
         {
           "id": "om_c672828324",
           "source": "TechCrunch",
@@ -835,18 +843,10 @@
           "title": "Meta updates its livestream shopping tools",
           "url": "https://www.socialmediatoday.com/news/meta-updates-its-livestream-shopping-tools/823223/",
           "postedAt": "2026-06-17T21:34:49.000Z"
-        },
-        {
-          "id": "om_9eaf13de14",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Pinterest launches AI-powered ad and shopping tools",
-          "url": "https://www.socialmediatoday.com/news/pinterest-launches-ai-powered-ad-and-shopping-tools/823218/",
-          "postedAt": "2026-06-17T19:35:29.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-20T04:40:31.265Z",
+      "lastUpdated": "2026-06-20T14:29:13.259Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
