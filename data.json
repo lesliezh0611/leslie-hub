@@ -227,6 +227,69 @@
       ],
       "articles": [
         {
+          "id": "vc_zarazhangrui_9450ecda1f",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Sometimes I wonder if joining a large company is actually riskier than joining a startup/starting your own company",
+          "url": "https://x.com/zarazhangrui/status/2068522129193418759",
+          "postedAt": "2026-06-21T02:31:21.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_d8df2f6b2e",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Proactiveness sounds nice in theory but is so hard to get right",
+          "url": "https://x.com/zarazhangrui/status/2068509088452071594",
+          "postedAt": "2026-06-21T01:39:32.000Z"
+        },
+        {
+          "id": "vc_dotey_ae6b7b21f0",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 钟二信: Cowart：Codex + 无限画布工具插件开源，大家可以来试试啦，这个插件先取名叫 Cowart，别问为什么叫这个，我只能说 Code with Art 这种冠冕堂皇的理...",
+          "url": "https://x.com/dotey/status/2068462257265164574",
+          "postedAt": "2026-06-20T21:45:16.000Z"
+        },
+        {
+          "id": "vc_steipete_be97659eff",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "If you are in Japan🇯🇵 or do business there, here's your chance to get lots of tokens!",
+          "url": "https://x.com/steipete/status/2068428180004942319",
+          "postedAt": "2026-06-20T20:18:02.000Z"
+        },
+        {
+          "id": "vc_steipete_3ea904d282",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Sam Denty: There’s an OSS implementation of the codex permission flow in Swift here: https://github.com/zats/permiso",
+          "url": "https://x.com/steipete/status/2068476455647125757",
+          "postedAt": "2026-06-20T19:32:32.000Z"
+        },
+        {
+          "id": "vc_dotey_97bad424da",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT Sam Denty: There’s an OSS implementation of the codex permission flow in Swift here: https://github.com/zats/permiso",
+          "url": "https://x.com/dotey/status/2068543142303768659",
+          "postedAt": "2026-06-20T19:32:32.000Z"
+        },
+        {
+          "id": "vc_dotey_c1c51baa39",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "这些问题跟传统软件工程一样，你都能在软件工程里面找到答案，只不过执行的主体不再是人，而是人+Agent。 【1】让 Agent 生成的代码能更好地满足需求 1）需求分...",
+          "url": "https://x.com/dotey/status/2068363092904276316",
+          "postedAt": "2026-06-20T15:59:24.000Z"
+        },
+        {
           "id": "vc_dotey_68e8e122d8",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -272,15 +335,6 @@
           "postedAt": "2026-06-19T20:04:05.000Z"
         },
         {
-          "id": "vc_dotey_e44d6b51ec",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Skill 和软件一样，需要不断迭代的，而且你用户越多，遇到的各种问题就越多，就需要去解决各种边边角角的问题，才能越来越好用。 比如 @yangyi 昨天在他的牛马AI...",
-          "url": "https://x.com/dotey/status/2068042001895809420",
-          "postedAt": "2026-06-19T18:43:30.000Z"
-        },
-        {
           "id": "vc_gdb_a08fdfc3ee",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -288,24 +342,6 @@
           "title": "OpenAI for helping families facing rare genetic diseases. This was done with o3 which is over a year old, amazing to think what will be possible with ...",
           "url": "https://x.com/gdb/status/2068016345451831480",
           "postedAt": "2026-06-19T17:01:33.000Z"
-        },
-        {
-          "id": "vc_dotey_74dd53ac2f",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Barret李靖: 大概一个月多前，电脑中了木马，潜伏了一个月才被发现，也导致了我的 X 账号被盗。 让 Claude 和 Codex 逐一分析系统进程时，找到了一个叫做 com...",
-          "url": "https://x.com/dotey/status/2068087624758177881",
-          "postedAt": "2026-06-19T15:47:35.000Z"
-        },
-        {
-          "id": "vc_dotey_cbfc6b7e94",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 宝玉: Re 公布抽奖结果了，使用评论没有直接触发，所以只好直接去问 Grok，这是会话： https://x.com/i/grok/share/fdde175c8e0d426ab62c41fd99b5a26e 中奖名...",
-          "url": "https://x.com/dotey/status/2067985241323573615",
-          "postedAt": "2026-06-19T14:57:20.000Z"
         },
         {
           "id": "vc_gdb_3b1b47c632",
@@ -333,24 +369,6 @@
           "title": "Everything’s either a fast or slow API now.",
           "url": "https://x.com/steipete/status/2067821739556413651",
           "postedAt": "2026-06-19T04:08:15.000Z"
-        },
-        {
-          "id": "vc_steipete_1fb694f3bd",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Fardeem: If you're on your way to building a billion dollar company that involves a web app, here are some of my notes on architecting the frontend...",
-          "url": "https://x.com/steipete/status/2067921964090667510",
-          "postedAt": "2026-06-19T02:52:43.000Z"
-        },
-        {
-          "id": "vc_steipete_6f6e8db257",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Theo - t3.gg: If you're curious how I managed to do over $20,000 in inference on the last 48 hours, here's a video all about it. Spoiler: loops are...",
-          "url": "https://x.com/steipete/status/2067876199695818928",
-          "postedAt": "2026-06-19T02:28:41.000Z"
         },
         {
           "id": "vc_gdb_f65d8b0c21",
@@ -387,28 +405,10 @@
           "title": "RT Karan Singhal: One of the ways scaling test-time compute can benefit people most: have reasoning models think really hard about rare undiagnosed di...",
           "url": "https://x.com/sama/status/2067654924884754926",
           "postedAt": "2026-06-18T15:46:14.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_b65e67e06f",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2067474789187698688",
-          "url": "https://x.com/Khazix0918/status/2067476685453447413",
-          "postedAt": "2026-06-18T05:17:08.000Z"
-        },
-        {
-          "id": "vc_sama_6311dfe492",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "We offer no explanation as to why Noams are so good at AI; we attribute their success, as all else, to divine benevolence.",
-          "url": "https://x.com/sama/status/2067427678529974740",
-          "postedAt": "2026-06-18T02:02:24.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-20T14:29:10.176Z",
+      "lastUpdated": "2026-06-21T05:17:54.567Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_fcd16813b1",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: Fractional CPO compensation, free e-signature tools, why some users pay but never use your product, sharing Claude Code context across a team, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-fractional-cpo-compensation",
+          "postedAt": "2026-06-20T15:53:05.000Z"
+        },
         {
           "id": "en_pod_the_knowledge_project_2a0e0efe2b",
           "source": "The Knowledge Project",
@@ -528,14 +536,6 @@
           "postedAt": "2026-06-08T12:03:27.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_fd72e175df",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
-          "url": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
-          "postedAt": "2026-06-07T12:31:29.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_22af2bbf42",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -592,7 +592,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-20T14:29:11.599Z",
+      "lastUpdated": "2026-06-21T05:17:55.764Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -846,7 +846,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-20T14:29:13.259Z",
+      "lastUpdated": "2026-06-21T05:17:57.130Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
