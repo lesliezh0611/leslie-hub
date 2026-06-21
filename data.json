@@ -227,6 +227,42 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_96438e2966",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "要不怎么说微信傲慢呢，AI 时代不支持 markdown 还觉得理所因当，总觉得自己特别牛逼，可以制定标准，别人都得听它的。 但凡好的标准，微信就不想去支持的，或者...",
+          "url": "https://x.com/dotey/status/2068702092689043732",
+          "postedAt": "2026-06-21T14:26:28.000Z"
+        },
+        {
+          "id": "vc_dotey_f3244835dc",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "帮转招人，DeepSeek Harness",
+          "url": "https://x.com/dotey/status/2068697546508149050",
+          "postedAt": "2026-06-21T14:08:24.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_f5e9a4ce93",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "Anthropic突然大赦天下了，居然把我24年初就被封掉的Google账号解封了，怒氪200刀，我的Claude账号和Google账号终于对上了，也终于可以用Claude原生的chrome插件...",
+          "url": "https://x.com/Khazix0918/status/2068642377926050254",
+          "postedAt": "2026-06-21T10:29:11.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_133d016a3d",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "I hoard X bookmarks and never read them. So I built an extension that injects a bookmarked post into my main feed every time I open X (almost like an ...",
+          "url": "https://x.com/zarazhangrui/status/2068568920613953626",
+          "postedAt": "2026-06-21T05:37:17.000Z"
+        },
+        {
           "id": "vc_zarazhangrui_9450ecda1f",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -290,15 +326,6 @@
           "postedAt": "2026-06-20T15:59:24.000Z"
         },
         {
-          "id": "vc_dotey_68e8e122d8",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "这个提示词挺酷，针织玩偶",
-          "url": "https://x.com/dotey/status/2068221289609715803",
-          "postedAt": "2026-06-20T06:35:55.000Z"
-        },
-        {
           "id": "vc_steipete_d914860839",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -306,15 +333,6 @@
           "title": "Hannes speaks both developer and agents. Blessed to have him on the team!",
           "url": "https://x.com/steipete/status/2068199277277401419",
           "postedAt": "2026-06-20T05:08:27.000Z"
-        },
-        {
-          "id": "vc_dotey_7688d7e521",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Codex 上线了一个跨设备任务迁移功能，叫 Handoff。你在笔记本上用 Codex 写代码写到一半，合上盖子之前，可以把正在进行的任务连同代码状态一起迁移到远程服务...",
-          "url": "https://x.com/dotey/status/2068183780938985827",
-          "postedAt": "2026-06-20T04:06:53.000Z"
         },
         {
           "id": "vc_zarazhangrui_8f659965c2",
@@ -387,28 +405,10 @@
           "title": "you can now teach Codex by demonstration:",
           "url": "https://x.com/gdb/status/2067700691062464887",
           "postedAt": "2026-06-18T20:07:15.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_ebe51eb010",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Even more true today",
-          "url": "https://x.com/zarazhangrui/status/2067661289367998602",
-          "postedAt": "2026-06-18T17:30:41.000Z"
-        },
-        {
-          "id": "vc_sama_7b2ae7a22a",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "RT Karan Singhal: One of the ways scaling test-time compute can benefit people most: have reasoning models think really hard about rare undiagnosed di...",
-          "url": "https://x.com/sama/status/2067654924884754926",
-          "postedAt": "2026-06-18T15:46:14.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-21T05:17:54.567Z",
+      "lastUpdated": "2026-06-21T14:31:58.191Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_6eae7ddbcc",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Building the most AI-pilled engineering team in the world | Fiona Fung (Manager of the Claude Code and Cowork Teams)",
+          "url": "https://www.lennysnewsletter.com/p/building-the-most-ai-pilled-engineering",
+          "postedAt": "2026-06-21T12:31:43.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_fcd16813b1",
           "source": "Lenny's Podcast",
@@ -528,14 +536,6 @@
           "postedAt": "2026-06-08T15:01:21.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_ad20cc63d6",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Shopping with Claude: How to find quality brands, automate returns, and buy things that last 100 years | Nicole Ruiz",
-          "url": "https://www.lennysnewsletter.com/p/shopping-with-claude",
-          "postedAt": "2026-06-08T12:03:27.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_22af2bbf42",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -592,7 +592,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-21T05:17:55.764Z",
+      "lastUpdated": "2026-06-21T14:31:59.495Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -846,7 +846,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-21T05:17:57.130Z",
+      "lastUpdated": "2026-06-21T14:32:01.486Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
