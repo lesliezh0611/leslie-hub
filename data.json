@@ -227,13 +227,67 @@
       ],
       "articles": [
         {
-          "id": "vc_dotey_96438e2966",
+          "id": "vc_Khazix0918_e5192845e0",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2068923862918877184",
+          "url": "https://x.com/Khazix0918/status/2068927263035506977",
+          "postedAt": "2026-06-22T05:21:12.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_53282147f0",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "A good rule of thumb for preventing AI slop (in writing, design, etc): Is your input (the context) longer than the output? I've found that for the AI ...",
+          "url": "https://x.com/zarazhangrui/status/2068923768500793603",
+          "postedAt": "2026-06-22T05:07:19.000Z"
+        },
+        {
+          "id": "vc_steipete_1f9049a524",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Vincent Koc: Another day and more tooling, Clawrouter under MIT license is a @cloudflare based rust WASM that allows ephemeral single API key for a...",
+          "url": "https://x.com/steipete/status/2068910736831898085",
+          "postedAt": "2026-06-22T03:53:03.000Z"
+        },
+        {
+          "id": "vc_dotey_8b9cf4e5bc",
           "source": "dotey",
           "sourceName": "宝玉",
           "platform": "x",
-          "title": "要不怎么说微信傲慢呢，AI 时代不支持 markdown 还觉得理所因当，总觉得自己特别牛逼，可以制定标准，别人都得听它的。 但凡好的标准，微信就不想去支持的，或者...",
-          "url": "https://x.com/dotey/status/2068702092689043732",
-          "postedAt": "2026-06-21T14:26:28.000Z"
+          "title": "RT Felix 的上下文: 十分推荐这个 skill，尤其是自己没有什么前端和 UI 经验的人 前两张图是使用这个 skill 之后的样式，第三张图是旧的样式，确实要更加好看一...",
+          "url": "https://x.com/dotey/status/2068900261351788871",
+          "postedAt": "2026-06-22T03:29:43.000Z"
+        },
+        {
+          "id": "vc_steipete_c00d86cdca",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Make that side button useful:",
+          "url": "https://x.com/steipete/status/2068829766900412920",
+          "postedAt": "2026-06-21T22:53:48.000Z"
+        },
+        {
+          "id": "vc_dotey_cc49b42cb5",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT Barret李靖: LLM 每一轮迭代，都会让一批创业者丢掉生意。今天跟一位朋友聊，他说模型越强，他却越兴奋。 他是做硬件集成解决方案的，前十年在工厂摸爬滚打，...",
+          "url": "https://x.com/dotey/status/2068749491587412427",
+          "postedAt": "2026-06-21T15:30:00.000Z"
+        },
+        {
+          "id": "vc_dotey_19601fdcd6",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "翻译还是得用 Gemini 3.1 Pro 最好，翻译质量是没办法通过工作流弥补的，Opus-4.8 自身写作能力不行翻译的总是很生硬",
+          "url": "https://x.com/dotey/status/2068709091501838520",
+          "postedAt": "2026-06-21T14:54:16.000Z"
         },
         {
           "id": "vc_dotey_f3244835dc",
@@ -308,24 +362,6 @@
           "postedAt": "2026-06-20T19:32:32.000Z"
         },
         {
-          "id": "vc_dotey_97bad424da",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Sam Denty: There’s an OSS implementation of the codex permission flow in Swift here: https://github.com/zats/permiso",
-          "url": "https://x.com/dotey/status/2068543142303768659",
-          "postedAt": "2026-06-20T19:32:32.000Z"
-        },
-        {
-          "id": "vc_dotey_c1c51baa39",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "这些问题跟传统软件工程一样，你都能在软件工程里面找到答案，只不过执行的主体不再是人，而是人+Agent。 【1】让 Agent 生成的代码能更好地满足需求 1）需求分...",
-          "url": "https://x.com/dotey/status/2068363092904276316",
-          "postedAt": "2026-06-20T15:59:24.000Z"
-        },
-        {
           "id": "vc_steipete_d914860839",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -342,15 +378,6 @@
           "title": "The 3 most important things that set someone apart in the AI age: - Agency - Taste - Distribution",
           "url": "https://x.com/zarazhangrui/status/2068094591220531583",
           "postedAt": "2026-06-19T22:12:28.000Z"
-        },
-        {
-          "id": "vc_steipete_1ccce474d6",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Guinness Chen: Codex can now hand off threads between local and remote hosts. Start work on your laptop, send it to a remote box before you close t...",
-          "url": "https://x.com/steipete/status/2068132941645980103",
-          "postedAt": "2026-06-19T20:04:05.000Z"
         },
         {
           "id": "vc_gdb_a08fdfc3ee",
@@ -378,37 +405,10 @@
           "title": "Launching credit usage analytics and updated spend controls for enterprises, available in our global admin console:",
           "url": "https://x.com/gdb/status/2067843106469515603",
           "postedAt": "2026-06-19T05:33:09.000Z"
-        },
-        {
-          "id": "vc_steipete_7477106c88",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Everything’s either a fast or slow API now.",
-          "url": "https://x.com/steipete/status/2067821739556413651",
-          "postedAt": "2026-06-19T04:08:15.000Z"
-        },
-        {
-          "id": "vc_gdb_f65d8b0c21",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "the reasoning paradigm unlocking medical progress for humanity",
-          "url": "https://x.com/gdb/status/2067722188027994275",
-          "postedAt": "2026-06-18T21:32:40.000Z"
-        },
-        {
-          "id": "vc_gdb_8eec110de8",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "you can now teach Codex by demonstration:",
-          "url": "https://x.com/gdb/status/2067700691062464887",
-          "postedAt": "2026-06-18T20:07:15.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-21T14:31:58.191Z",
+      "lastUpdated": "2026-06-22T05:30:05.835Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -592,7 +592,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-21T14:31:59.495Z",
+      "lastUpdated": "2026-06-22T05:30:09.834Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -685,6 +685,46 @@
       },
       "articles": [
         {
+          "id": "om_28fc42e656",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Amazon Pushes Conversational AI Ads Onto the Open Internet",
+          "url": "https://www.adweek.com/commerce/amazon-pushes-conversational-ai-ads-onto-the-open-internet/",
+          "postedAt": "2026-06-22T01:00:00.000Z"
+        },
+        {
+          "id": "om_6d5955ee61",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Embracing The Spirit of Cannes Without Actually Being There",
+          "url": "https://www.adweek.com/brand-marketing/embracing-the-spirit-of-cannes-without-actually-being-there/",
+          "postedAt": "2026-06-22T00:00:00.000Z"
+        },
+        {
+          "id": "om_31898c2757",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Indie Agency Dept Takes Aim at Holdco AI Stacks With Open Orchestration Layer",
+          "url": "https://www.adweek.com/agencies/indie-agency-dept-takes-aim-at-holdco-ai-stacks-with-open-orchestration-layer/",
+          "postedAt": "2026-06-21T23:00:00.000Z"
+        },
+        {
+          "id": "om_f17da1933a",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "LinkedIn lets users set core brand rules",
+          "url": "https://www.socialmediatoday.com/news/linkedin-lets-users-set-core-brand-rules/823351/",
+          "postedAt": "2026-06-21T21:39:35.000Z"
+        },
+        {
+          "id": "om_fd097b7304",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+          "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+          "postedAt": "2026-06-21T16:35:00.000Z"
+        },
+        {
           "id": "om_ddf3622a42",
           "source": "Wired",
           "lang": "en",
@@ -699,6 +739,14 @@
           "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
           "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
           "postedAt": "2026-06-19T16:08:17.000Z"
+        },
+        {
+          "id": "om_50b104eb11",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”",
+          "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+          "postedAt": "2026-06-19T13:00:00.000Z"
         },
         {
           "id": "om_6d334c4cd0",
@@ -795,58 +843,10 @@
           "title": "Sociable: Reddit study highlights user purchase behavior",
           "url": "https://www.marketingdive.com/news/sociable-reddit-study-highlights-user-purchase-behavior/823273/",
           "postedAt": "2026-06-18T14:50:00.000Z"
-        },
-        {
-          "id": "om_85f9ff379a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Penske Media Acquires Remaining Vox Media Brands, Creates PMX Division",
-          "url": "https://www.adweek.com/dealroom/penske-media-vox-media-brands-pmx/",
-          "postedAt": "2026-06-18T14:32:50.000Z"
-        },
-        {
-          "id": "om_1653134af9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Shopify Wants To Be Merchants’ Built-in AI Agency",
-          "url": "https://www.adweek.com/commerce/shopify-wants-to-be-merchants-built-in-ai-agency/",
-          "postedAt": "2026-06-18T12:20:39.000Z"
-        },
-        {
-          "id": "om_b84274f716",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Fox Closes Upfront First, With ‘Market-Leading Pricing Growth’ and ‘No Rollbacks’",
-          "url": "https://www.adweek.com/convergent-tv/fox-close-upfront-market-leading-pricing-no-rollbacks/",
-          "postedAt": "2026-06-18T12:00:00.000Z"
-        },
-        {
-          "id": "om_6881c8d79e",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How the Kansas City Chiefs’ plan to hook the youngest sports fans",
-          "url": "https://www.marketingbrew.com/stories/kansas-city-chiefs-youth-marketing-mascot?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-18T10:00:00.000Z"
-        },
-        {
-          "id": "om_3397cc5949",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Instacart Teases the 3 Ad Formats Coming to Its AI Shopping Assistant",
-          "url": "https://www.adweek.com/commerce/instacart-teases-the-3-ad-formats-coming-to-its-ai-shopping-assistant/",
-          "postedAt": "2026-06-18T09:00:00.000Z"
-        },
-        {
-          "id": "om_c88274577a",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Meta updates its livestream shopping tools",
-          "url": "https://www.socialmediatoday.com/news/meta-updates-its-livestream-shopping-tools/823223/",
-          "postedAt": "2026-06-17T21:34:49.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-21T14:32:01.486Z",
+      "lastUpdated": "2026-06-22T05:30:11.767Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
