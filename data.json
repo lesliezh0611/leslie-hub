@@ -227,6 +227,69 @@
       ],
       "articles": [
         {
+          "id": "vc_Khazix0918_cb9efc1920",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "今天，我终于拿到了微信Agent小微的灰度内测资格。 花了一个小时上手体验了一圈，激动得连发了两条朋友圈。 我本来以为是只会做一些通用的东西，比如调调小程序...",
+          "url": "https://x.com/Khazix0918/status/2069082627836109026",
+          "postedAt": "2026-06-22T15:38:34.000Z"
+        },
+        {
+          "id": "vc_steipete_567e4d393f",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Armin Ronacher ⇌: Why do people think there is more clarity in their communications when they throw their thoughts into an LLM before sharing? I’...",
+          "url": "https://x.com/steipete/status/2069089504745660695",
+          "postedAt": "2026-06-22T12:06:35.000Z"
+        },
+        {
+          "id": "vc_steipete_483ee9995f",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "This is becoming my favorite way to read Twitter. http://birdclaw.sh",
+          "url": "https://x.com/steipete/status/2068965200343224367",
+          "postedAt": "2026-06-22T07:51:57.000Z"
+        },
+        {
+          "id": "vc_steipete_d9553df34e",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "People here discussing what happened with OpenClaw. The hype died down. We improved quality and grew a team. We created a non-profit whereas competior...",
+          "url": "https://x.com/steipete/status/2068961217524490739",
+          "postedAt": "2026-06-22T07:36:08.000Z"
+        },
+        {
+          "id": "vc_steipete_82281ce70d",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "I was skeptical about the multi-model routing. Seems my hinch was right.",
+          "url": "https://x.com/steipete/status/2068960117253632160",
+          "postedAt": "2026-06-22T07:31:46.000Z"
+        },
+        {
+          "id": "vc_dotey_f12350e310",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT Bruce🐼: 晚点LateTask这篇访谈的信息量非常大，关于百度美研、Scaling Law、OpenAI、Anthropic、Cerebras的往事。 > \"Dario 能进百度，其实是他职业生涯里...",
+          "url": "https://x.com/dotey/status/2069080479819534653",
+          "postedAt": "2026-06-22T06:53:14.000Z"
+        },
+        {
+          "id": "vc_steipete_ba211f67e5",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT elie: to be clear, this is a closed source orchestrator on top of closed source models. if before you didn't control the models, now you don't even...",
+          "url": "https://x.com/steipete/status/2068963410868674650",
+          "postedAt": "2026-06-22T06:10:45.000Z"
+        },
+        {
           "id": "vc_Khazix0918_e5192845e0",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -236,24 +299,6 @@
           "postedAt": "2026-06-22T05:21:12.000Z"
         },
         {
-          "id": "vc_zarazhangrui_53282147f0",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "A good rule of thumb for preventing AI slop (in writing, design, etc): Is your input (the context) longer than the output? I've found that for the AI ...",
-          "url": "https://x.com/zarazhangrui/status/2068923768500793603",
-          "postedAt": "2026-06-22T05:07:19.000Z"
-        },
-        {
-          "id": "vc_steipete_1f9049a524",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Vincent Koc: Another day and more tooling, Clawrouter under MIT license is a @cloudflare based rust WASM that allows ephemeral single API key for a...",
-          "url": "https://x.com/steipete/status/2068910736831898085",
-          "postedAt": "2026-06-22T03:53:03.000Z"
-        },
-        {
           "id": "vc_dotey_8b9cf4e5bc",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -261,15 +306,6 @@
           "title": "RT Felix 的上下文: 十分推荐这个 skill，尤其是自己没有什么前端和 UI 经验的人 前两张图是使用这个 skill 之后的样式，第三张图是旧的样式，确实要更加好看一...",
           "url": "https://x.com/dotey/status/2068900261351788871",
           "postedAt": "2026-06-22T03:29:43.000Z"
-        },
-        {
-          "id": "vc_steipete_c00d86cdca",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Make that side button useful:",
-          "url": "https://x.com/steipete/status/2068829766900412920",
-          "postedAt": "2026-06-21T22:53:48.000Z"
         },
         {
           "id": "vc_dotey_cc49b42cb5",
@@ -335,42 +371,6 @@
           "postedAt": "2026-06-21T01:39:32.000Z"
         },
         {
-          "id": "vc_dotey_ae6b7b21f0",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 钟二信: Cowart：Codex + 无限画布工具插件开源，大家可以来试试啦，这个插件先取名叫 Cowart，别问为什么叫这个，我只能说 Code with Art 这种冠冕堂皇的理...",
-          "url": "https://x.com/dotey/status/2068462257265164574",
-          "postedAt": "2026-06-20T21:45:16.000Z"
-        },
-        {
-          "id": "vc_steipete_be97659eff",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "If you are in Japan🇯🇵 or do business there, here's your chance to get lots of tokens!",
-          "url": "https://x.com/steipete/status/2068428180004942319",
-          "postedAt": "2026-06-20T20:18:02.000Z"
-        },
-        {
-          "id": "vc_steipete_3ea904d282",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Sam Denty: There’s an OSS implementation of the codex permission flow in Swift here: https://github.com/zats/permiso",
-          "url": "https://x.com/steipete/status/2068476455647125757",
-          "postedAt": "2026-06-20T19:32:32.000Z"
-        },
-        {
-          "id": "vc_steipete_d914860839",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Hannes speaks both developer and agents. Blessed to have him on the team!",
-          "url": "https://x.com/steipete/status/2068199277277401419",
-          "postedAt": "2026-06-20T05:08:27.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_8f659965c2",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-22T05:30:05.835Z",
+      "lastUpdated": "2026-06-22T17:13:24.169Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_0a32f997c9",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: How to write AI agent loops in Claude Code and Codex + How Claude Mythos found a 15-year-old bug in Mozilla Firefox",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
+          "postedAt": "2026-06-22T15:02:37.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_7651769e95",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How Claude Mythos found a 15-year-old bug in Mozilla Firefox | Brian Grinstead",
+          "url": "https://www.lennysnewsletter.com/p/how-claude-mythos-found-a-15-year",
+          "postedAt": "2026-06-22T12:03:06.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_6eae7ddbcc",
           "source": "Lenny's Podcast",
@@ -520,22 +536,6 @@
           "postedAt": "2026-06-09T18:32:03.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_0e66368174",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Essential books for product builders—part 2",
-          "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart-611",
-          "postedAt": "2026-06-09T13:11:29.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_1fb14707d9",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: Gemini Omni: Clone yourself with AI in under 15 minutes & Shopping with Claude",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-gemini-omni-clone-yourself",
-          "postedAt": "2026-06-08T15:01:21.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_22af2bbf42",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -592,7 +592,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-22T05:30:09.834Z",
+      "lastUpdated": "2026-06-22T17:13:25.906Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -685,168 +685,168 @@
       },
       "articles": [
         {
-          "id": "om_28fc42e656",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Amazon Pushes Conversational AI Ads Onto the Open Internet",
-          "url": "https://www.adweek.com/commerce/amazon-pushes-conversational-ai-ads-onto-the-open-internet/",
-          "postedAt": "2026-06-22T01:00:00.000Z"
-        },
-        {
-          "id": "om_6d5955ee61",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Embracing The Spirit of Cannes Without Actually Being There",
-          "url": "https://www.adweek.com/brand-marketing/embracing-the-spirit-of-cannes-without-actually-being-there/",
-          "postedAt": "2026-06-22T00:00:00.000Z"
-        },
-        {
-          "id": "om_31898c2757",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Indie Agency Dept Takes Aim at Holdco AI Stacks With Open Orchestration Layer",
-          "url": "https://www.adweek.com/agencies/indie-agency-dept-takes-aim-at-holdco-ai-stacks-with-open-orchestration-layer/",
-          "postedAt": "2026-06-21T23:00:00.000Z"
-        },
-        {
-          "id": "om_f17da1933a",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "LinkedIn lets users set core brand rules",
-          "url": "https://www.socialmediatoday.com/news/linkedin-lets-users-set-core-brand-rules/823351/",
-          "postedAt": "2026-06-21T21:39:35.000Z"
-        },
-        {
-          "id": "om_fd097b7304",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
-          "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
-          "postedAt": "2026-06-21T16:35:00.000Z"
-        },
-        {
-          "id": "om_ddf3622a42",
+          "id": "om_8874780f3a",
           "source": "Wired",
           "lang": "en",
-          "title": "I Found 29 Early Prime Day Deals That Are Worth Shopping Now (2026)",
-          "url": "https://www.wired.com/story/early-prime-day-deals-june-2026-2/",
-          "postedAt": "2026-06-20T10:38:00.000Z"
+          "title": "I Found 37 Early Prime Day Deals That Are Worth Shopping Now (2026)",
+          "url": "https://www.wired.com/story/early-prime-day-deals-june-2026-3/",
+          "postedAt": "2026-06-22T17:01:33.000Z"
         },
         {
-          "id": "om_c672828324",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-          "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-          "postedAt": "2026-06-19T16:08:17.000Z"
-        },
-        {
-          "id": "om_50b104eb11",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”",
-          "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-          "postedAt": "2026-06-19T13:00:00.000Z"
-        },
-        {
-          "id": "om_6d334c4cd0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "7 Things That Hit This Week: Meta’s Next Stab at Commerce, New Hires at Sephora and Lowe’s, and Pinterest Goes Deep on AI",
-          "url": "https://www.adweek.com/commerce/7-things-that-hit-this-week-metas-next-stab-at-commerce-new-hires-at-sephora-and-lowes-and-pinterest-goes-deep-on-ai/",
-          "postedAt": "2026-06-19T10:25:25.000Z"
-        },
-        {
-          "id": "om_2ceac4e10b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "6 Top Local World Cup Ads: Adidas Backs Scotland, Brahma Dreams Big For Brazil and More",
-          "url": "https://www.adweek.com/brand-marketing/6-of-the-best-local-world-cup-ads-adidas-chooses-scotland-brahma-dreams-big-and-more/",
-          "postedAt": "2026-06-19T06:00:00.000Z"
-        },
-        {
-          "id": "om_4a19202408",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 11 Campaigns That Caught Our Eye, From Nike to Etsy",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-11-campaigns-that-caught-our-eye-from-nike-to-etsy/",
-          "postedAt": "2026-06-19T06:00:00.000Z"
-        },
-        {
-          "id": "om_fc4495af21",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside Unilever’s World Cup sponsorship strategy",
-          "url": "https://www.marketingbrew.com/stories/unilevers-world-cup-sponsorship-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-18T17:00:24.000Z"
-        },
-        {
-          "id": "om_e6309286dc",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Coworking with Spencer Burke",
-          "url": "https://www.marketingbrew.com/stories/coworking-with-spencer-burke?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-18T16:08:01.000Z"
-        },
-        {
-          "id": "om_74620f4ded",
+          "id": "om_3722ad62b9",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "StockX to debut live shopping",
-          "url": "https://www.retaildive.com/news/stockx-debuts-live-shopping-auctions/823066/",
-          "postedAt": "2026-06-18T16:04:00.000Z"
+          "title": "Amazon’s Prime Day sale could spur $26.3B in US e-commerce",
+          "url": "https://www.retaildive.com/news/amazon-prime-day-sale-twenty-six-billion-us-e-commerce-2026/823368/",
+          "postedAt": "2026-06-22T16:07:00.000Z"
         },
         {
-          "id": "om_0f9f631a1b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The CMO’s Secret to Board-Level Influence ft. US Bank’s Michael Lacorazza",
-          "url": "https://www.adweek.com/brand-marketing/the-cmos-secret-to-board-level-influence-ft-us-banks-michael-lacorazza/",
-          "postedAt": "2026-06-18T15:30:40.000Z"
-        },
-        {
-          "id": "om_6ca30cb31b",
+          "id": "om_fed5174999",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Bed Bath & Beyond to acquire real estate platform for $53M",
-          "url": "https://www.retaildive.com/news/bed-bath-beyond-acquires-real-estate-platform-fathom/823264/",
-          "postedAt": "2026-06-18T15:21:00.000Z"
+          "title": "Glossier secures $45M in debt financing",
+          "url": "https://www.retaildive.com/news/glossier-secures-debt-financing-tiger-finance/823384/",
+          "postedAt": "2026-06-22T16:04:00.000Z"
         },
         {
-          "id": "om_6e5ea21c18",
+          "id": "om_65963d716e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Bed Bath & Beyond wants consumers to dig up old coupons",
+          "url": "https://www.retaildive.com/news/bed-bath-beyond-coupon-sweepstakes/823394/",
+          "postedAt": "2026-06-22T15:59:00.000Z"
+        },
+        {
+          "id": "om_f61e068f7d",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Target, DirecTV team to track premium video advertising’s sales impact",
+          "url": "https://www.marketingdive.com/news/target-directv-team-to-track-premium-video-advertisings-sales-impact/823311/",
+          "postedAt": "2026-06-22T15:00:00.000Z"
+        },
+        {
+          "id": "om_25d6d66453",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "BJ’s Wholesale Club uses tariff refunds to cut prices",
+          "url": "https://www.retaildive.com/news/bjs-wholesale-club-tariff-refunds-cut-prices/823371/",
+          "postedAt": "2026-06-22T14:14:00.000Z"
+        },
+        {
+          "id": "om_47cbe7c375",
           "source": "Marketing Brew",
           "lang": "en",
-          "title": "At Cannes Lions this year, marketers expect AI conversations to go from theoretical to practical",
-          "url": "https://www.marketingbrew.com/stories/cannes-lions-ai-from-theoretical-to-practical?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-18T15:12:30.000Z"
+          "title": "Cannes 2026: My job is just beach",
+          "url": "https://www.marketingbrew.com/stories/cannes-2026-day-one-dispatch?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-22T14:03:03.000Z"
         },
         {
-          "id": "om_588b9a2ec4",
-          "source": "Marketing Dive",
+          "id": "om_36661e2ecd",
+          "source": "TechCrunch",
           "lang": "en",
-          "title": "Uber Advertising expands beyond owned apps in play for more ad dollars",
-          "url": "https://www.marketingdive.com/news/uber-advertising-expands-beyond-owned-apps-in-play-for-more-ad-dollars/823164/",
-          "postedAt": "2026-06-18T15:10:00.000Z"
+          "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
+          "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+          "postedAt": "2026-06-22T14:00:00.000Z"
         },
         {
-          "id": "om_d6bb82ddbe",
+          "id": "om_8f9928570e",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Warner Bros. Discovery revamps ad-tech stack around agentic AI, AWS",
-          "url": "https://www.marketingdive.com/news/warner-bros-discovery-revamps-ad-tech-stack-around-agentic-ai-aws/823252/",
-          "postedAt": "2026-06-18T14:55:00.000Z"
+          "title": "How NBA players will deal directly with brands through a new union arm",
+          "url": "https://www.marketingdive.com/news/how-nba-players-will-deal-directly-with-brands-through-a-new-union-arm/823266/",
+          "postedAt": "2026-06-22T13:42:00.000Z"
         },
         {
-          "id": "om_28d79bffd6",
+          "id": "om_4d14c3c240",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Why furniture delivery isn’t part of Ollie’s plans",
+          "url": "https://www.retaildive.com/news/delivery-isnt-part-ollies-plans-furniture/823049/",
+          "postedAt": "2026-06-22T13:00:00.000Z"
+        },
+        {
+          "id": "om_637b76ee15",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Code and Theory Teams With Adobe to Help Sports Teams Operate Like Media Companies",
+          "url": "https://www.adweek.com/agencies/code-and-theory-adobe-help-sports-teams-operate-like-media-companies/",
+          "postedAt": "2026-06-22T12:39:35.000Z"
+        },
+        {
+          "id": "om_92ba8dba38",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How AB InBev Won 183 Cannes Lions in Five Years",
+          "url": "https://www.adweek.com/brand-marketing/how-ab-inbev-won-183-cannes-lions-in-five-years/",
+          "postedAt": "2026-06-22T11:18:03.000Z"
+        },
+        {
+          "id": "om_e6d7f28b78",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why the National Basketball Players Association is debuting a B2C brand",
+          "url": "https://www.marketingbrew.com/stories/nbpa-plyrs-untd-brand?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-22T11:00:00.000Z"
+        },
+        {
+          "id": "om_4673f1d60c",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Sociable: Reddit study highlights user purchase behavior",
-          "url": "https://www.marketingdive.com/news/sociable-reddit-study-highlights-user-purchase-behavior/823273/",
-          "postedAt": "2026-06-18T14:50:00.000Z"
+          "title": "CMOs prioritize organizational influence over long-term brand growth",
+          "url": "https://www.marketingdive.com/news/cmos-prioritize-organizational-influence-over-long-term-brand-growth/823330/",
+          "postedAt": "2026-06-22T10:00:00.000Z"
+        },
+        {
+          "id": "om_21e15d8eff",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "CeraVe’s Kevin Durant campaign led to a 43% sales lift—here’s how",
+          "url": "https://www.marketingbrew.com/stories/ceraves-kevin-durant-campaign-led-to-a-43-sales-lift?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-22T09:01:00.000Z"
+        },
+        {
+          "id": "om_263917eef4",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why we made Snowflake’s marketing team “Customer Zero” for AI",
+          "url": "https://www.marketingdive.com/spons/why-we-made-snowflakes-marketing-team-customer-zero-for-ai/823173/",
+          "postedAt": "2026-06-22T09:00:00.000Z"
+        },
+        {
+          "id": "om_8fe2585117",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "From invisible to recommended: How brands become visible to AI shopping agents",
+          "url": "https://www.retaildive.com/spons/from-invisible-to-recommended-how-brands-become-visible-to-ai-shopping-age/822985/",
+          "postedAt": "2026-06-22T09:00:00.000Z"
+        },
+        {
+          "id": "om_b80c94c50f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "What a 1937 candy store figured out about omnichannel that most retailers haven’t",
+          "url": "https://www.retaildive.com/spons/what-a-1937-candy-store-figured-out-about-omnichannel-that-most-retailers-h/822874/",
+          "postedAt": "2026-06-22T09:00:00.000Z"
+        },
+        {
+          "id": "om_3f5dadd04c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Squaring agility and identity to drive long-term success",
+          "url": "https://www.retaildive.com/spons/squaring-agility-and-identity-to-drive-long-term-success/822813/",
+          "postedAt": "2026-06-22T09:00:00.000Z"
+        },
+        {
+          "id": "om_564d8eefbb",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "NBCU Looks to Rock Brand Partnerships With New Unified Creative Offering",
+          "url": "https://www.adweek.com/convergent-tv/nbcu-to-rock-brand-partnerships-with-new-unified-creative-offering/",
+          "postedAt": "2026-06-22T06:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-22T05:30:11.767Z",
+      "lastUpdated": "2026-06-22T17:13:28.623Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
