@@ -227,6 +227,87 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_01bd323e52",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "I feel the same about shared office spaces.",
+          "url": "https://x.com/steipete/status/2069254835686576316",
+          "postedAt": "2026-06-23T03:02:52.000Z"
+        },
+        {
+          "id": "vc_gdb_0ed6536538",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "OpenAI for Samsung:",
+          "url": "https://x.com/gdb/status/2069232102483378395",
+          "postedAt": "2026-06-23T01:32:32.000Z"
+        },
+        {
+          "id": "vc_dotey_cf4e24b6c0",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT LinearUncle: Codex 疯狂写磁盘的问题已经修复了 ✅ 但 Codex App 暂时还没更新，需要手动更新 Codex CLI 到 0.142.0 才能解决问题。 两种更新方式： 方式一...",
+          "url": "https://x.com/dotey/status/2069228715330904278",
+          "postedAt": "2026-06-22T23:59:58.000Z"
+        },
+        {
+          "id": "vc_steipete_7cf0bc3fc5",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT jason: another Codex for OSS update: Oh My Zsh Ollama MarkItDown Langflow scrcpy LangChain llama.cpp shadcn/ui RustDesk three.js v2rayN Browser Use...",
+          "url": "https://x.com/steipete/status/2069240753994530929",
+          "postedAt": "2026-06-22T22:44:01.000Z"
+        },
+        {
+          "id": "vc_gdb_6a163cc64a",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Patch the Planet: using frontier AI and working with professional security researchers to secure critical OSS projects",
+          "url": "https://x.com/gdb/status/2069182357144580584",
+          "postedAt": "2026-06-22T22:14:52.000Z"
+        },
+        {
+          "id": "vc_steipete_820429923f",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Sam Willis: /goal make postgres multithreaded .... 1k commits 124k lines 786 changed files 10 days later",
+          "url": "https://x.com/steipete/status/2069163022766227640",
+          "postedAt": "2026-06-22T19:55:01.000Z"
+        },
+        {
+          "id": "vc_steipete_0b80ae7154",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Patch the Planet.",
+          "url": "https://x.com/steipete/status/2069132838356840857",
+          "postedAt": "2026-06-22T18:58:05.000Z"
+        },
+        {
+          "id": "vc_gdb_1c02d1a6f8",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Codex Security plugin for security teams: deep scans, validating findings, tracing attack paths, building threat models, generating codebase-specific ...",
+          "url": "https://x.com/gdb/status/2069128701850386834",
+          "postedAt": "2026-06-22T18:41:39.000Z"
+        },
+        {
+          "id": "vc_sama_eac2b1e57f",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "We want to help all companies be secure, working with the USG and the security ecosystem. *The full version of GPT-5.5-Cyber is here; state of the art...",
+          "url": "https://x.com/sama/status/2069121360744550796",
+          "postedAt": "2026-06-22T18:12:29.000Z"
+        },
+        {
           "id": "vc_Khazix0918_cb9efc1920",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -245,33 +326,6 @@
           "postedAt": "2026-06-22T12:06:35.000Z"
         },
         {
-          "id": "vc_steipete_483ee9995f",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "This is becoming my favorite way to read Twitter. http://birdclaw.sh",
-          "url": "https://x.com/steipete/status/2068965200343224367",
-          "postedAt": "2026-06-22T07:51:57.000Z"
-        },
-        {
-          "id": "vc_steipete_d9553df34e",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "People here discussing what happened with OpenClaw. The hype died down. We improved quality and grew a team. We created a non-profit whereas competior...",
-          "url": "https://x.com/steipete/status/2068961217524490739",
-          "postedAt": "2026-06-22T07:36:08.000Z"
-        },
-        {
-          "id": "vc_steipete_82281ce70d",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "I was skeptical about the multi-model routing. Seems my hinch was right.",
-          "url": "https://x.com/steipete/status/2068960117253632160",
-          "postedAt": "2026-06-22T07:31:46.000Z"
-        },
-        {
           "id": "vc_dotey_f12350e310",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -279,15 +333,6 @@
           "title": "RT Bruce🐼: 晚点LateTask这篇访谈的信息量非常大，关于百度美研、Scaling Law、OpenAI、Anthropic、Cerebras的往事。 > \"Dario 能进百度，其实是他职业生涯里...",
           "url": "https://x.com/dotey/status/2069080479819534653",
           "postedAt": "2026-06-22T06:53:14.000Z"
-        },
-        {
-          "id": "vc_steipete_ba211f67e5",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT elie: to be clear, this is a closed source orchestrator on top of closed source models. if before you didn't control the models, now you don't even...",
-          "url": "https://x.com/steipete/status/2068963410868674650",
-          "postedAt": "2026-06-22T06:10:45.000Z"
         },
         {
           "id": "vc_Khazix0918_e5192845e0",
@@ -299,6 +344,15 @@
           "postedAt": "2026-06-22T05:21:12.000Z"
         },
         {
+          "id": "vc_dotey_7a6ca3a29c",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 马东锡 NLP: http://x.com/i/article/2068605217508126721",
+          "url": "https://x.com/dotey/status/2069142128131723584",
+          "postedAt": "2026-06-22T05:02:00.000Z"
+        },
+        {
           "id": "vc_dotey_8b9cf4e5bc",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -308,6 +362,15 @@
           "postedAt": "2026-06-22T03:29:43.000Z"
         },
         {
+          "id": "vc_gdb_2efb5e06f9",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "codex for testing every single feature in your app:",
+          "url": "https://x.com/gdb/status/2068761809318990054",
+          "postedAt": "2026-06-21T18:23:45.000Z"
+        },
+        {
           "id": "vc_dotey_cc49b42cb5",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -315,24 +378,6 @@
           "title": "RT Barret李靖: LLM 每一轮迭代，都会让一批创业者丢掉生意。今天跟一位朋友聊，他说模型越强，他却越兴奋。 他是做硬件集成解决方案的，前十年在工厂摸爬滚打，...",
           "url": "https://x.com/dotey/status/2068749491587412427",
           "postedAt": "2026-06-21T15:30:00.000Z"
-        },
-        {
-          "id": "vc_dotey_19601fdcd6",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "翻译还是得用 Gemini 3.1 Pro 最好，翻译质量是没办法通过工作流弥补的，Opus-4.8 自身写作能力不行翻译的总是很生硬",
-          "url": "https://x.com/dotey/status/2068709091501838520",
-          "postedAt": "2026-06-21T14:54:16.000Z"
-        },
-        {
-          "id": "vc_dotey_f3244835dc",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "帮转招人，DeepSeek Harness",
-          "url": "https://x.com/dotey/status/2068697546508149050",
-          "postedAt": "2026-06-21T14:08:24.000Z"
         },
         {
           "id": "vc_Khazix0918_f5e9a4ce93",
@@ -360,55 +405,10 @@
           "title": "Sometimes I wonder if joining a large company is actually riskier than joining a startup/starting your own company",
           "url": "https://x.com/zarazhangrui/status/2068522129193418759",
           "postedAt": "2026-06-21T02:31:21.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_d8df2f6b2e",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Proactiveness sounds nice in theory but is so hard to get right",
-          "url": "https://x.com/zarazhangrui/status/2068509088452071594",
-          "postedAt": "2026-06-21T01:39:32.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_8f659965c2",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "The 3 most important things that set someone apart in the AI age: - Agency - Taste - Distribution",
-          "url": "https://x.com/zarazhangrui/status/2068094591220531583",
-          "postedAt": "2026-06-19T22:12:28.000Z"
-        },
-        {
-          "id": "vc_gdb_a08fdfc3ee",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "OpenAI for helping families facing rare genetic diseases. This was done with o3 which is over a year old, amazing to think what will be possible with ...",
-          "url": "https://x.com/gdb/status/2068016345451831480",
-          "postedAt": "2026-06-19T17:01:33.000Z"
-        },
-        {
-          "id": "vc_gdb_3b1b47c632",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Codex app is very good",
-          "url": "https://x.com/gdb/status/2067884985596703079",
-          "postedAt": "2026-06-19T08:19:34.000Z"
-        },
-        {
-          "id": "vc_gdb_c50e213880",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Launching credit usage analytics and updated spend controls for enterprises, available in our global admin console:",
-          "url": "https://x.com/gdb/status/2067843106469515603",
-          "postedAt": "2026-06-19T05:33:09.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-22T17:13:24.169Z",
+      "lastUpdated": "2026-06-23T04:19:39.980Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -467,7 +467,7 @@
           "id": "en_pod_lenny_s_podcast_6eae7ddbcc",
           "source": "Lenny's Podcast",
           "platform": "newsletter",
-          "topic": "Building the most AI-pilled engineering team in the world | Fiona Fung (Manager of the Claude Code and Cowork Teams)",
+          "topic": "What happens after coding is solved? | Fiona Fung (Manager of the Claude Code and Cowork Teams)",
           "url": "https://www.lennysnewsletter.com/p/building-the-most-ai-pilled-engineering",
           "postedAt": "2026-06-21T12:31:43.000Z"
         },
@@ -592,7 +592,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-22T17:13:25.906Z",
+      "lastUpdated": "2026-06-23T04:19:41.836Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -685,6 +685,38 @@
       },
       "articles": [
         {
+          "id": "om_a872e12aa5",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Reddit launches more integrated ad options to assure shoppers",
+          "url": "https://www.socialmediatoday.com/news/reddit-launches-more-integrated-ad-options-to-assure-shoppers/823466/",
+          "postedAt": "2026-06-22T21:25:00.000Z"
+        },
+        {
+          "id": "om_8338a1892e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How the NFL Is Building Connections Outside the Field With 72andSunny",
+          "url": "https://www.adweek.com/brand-marketing/how-the-nfl-is-building-connections-outside-the-field-with-72andsunny/",
+          "postedAt": "2026-06-22T21:11:42.000Z"
+        },
+        {
+          "id": "om_7ad259929c",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok adds new AI creation tools for marketers",
+          "url": "https://www.socialmediatoday.com/news/tiktok-adds-new-ai-creation-tools-for-marketers/823463/",
+          "postedAt": "2026-06-22T21:01:15.000Z"
+        },
+        {
+          "id": "om_687749fb34",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Cannes Lions 2026 Gallery: The Buzziest Events, Biggest Names, and Hottest Parties",
+          "url": "https://www.adweek.com/agencies/cannes-lions-2026-gallery-events-celebrities-panels-activations-parties/",
+          "postedAt": "2026-06-22T19:27:38.000Z"
+        },
+        {
           "id": "om_8874780f3a",
           "source": "Wired",
           "lang": "en",
@@ -723,6 +755,14 @@
           "title": "Target, DirecTV team to track premium video advertising’s sales impact",
           "url": "https://www.marketingdive.com/news/target-directv-team-to-track-premium-video-advertisings-sales-impact/823311/",
           "postedAt": "2026-06-22T15:00:00.000Z"
+        },
+        {
+          "id": "om_5dea4e9a21",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Samsung TV Plus Is Letting Users Shop With Their Remotes Thanks to Amazon Partnership",
+          "url": "https://www.adweek.com/commerce/samsung-tv-plus-shop-with-remote-amazon-partnership/",
+          "postedAt": "2026-06-22T14:14:33.000Z"
         },
         {
           "id": "om_25d6d66453",
@@ -803,50 +843,10 @@
           "title": "CeraVe’s Kevin Durant campaign led to a 43% sales lift—here’s how",
           "url": "https://www.marketingbrew.com/stories/ceraves-kevin-durant-campaign-led-to-a-43-sales-lift?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-06-22T09:01:00.000Z"
-        },
-        {
-          "id": "om_263917eef4",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why we made Snowflake’s marketing team “Customer Zero” for AI",
-          "url": "https://www.marketingdive.com/spons/why-we-made-snowflakes-marketing-team-customer-zero-for-ai/823173/",
-          "postedAt": "2026-06-22T09:00:00.000Z"
-        },
-        {
-          "id": "om_8fe2585117",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "From invisible to recommended: How brands become visible to AI shopping agents",
-          "url": "https://www.retaildive.com/spons/from-invisible-to-recommended-how-brands-become-visible-to-ai-shopping-age/822985/",
-          "postedAt": "2026-06-22T09:00:00.000Z"
-        },
-        {
-          "id": "om_b80c94c50f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "What a 1937 candy store figured out about omnichannel that most retailers haven’t",
-          "url": "https://www.retaildive.com/spons/what-a-1937-candy-store-figured-out-about-omnichannel-that-most-retailers-h/822874/",
-          "postedAt": "2026-06-22T09:00:00.000Z"
-        },
-        {
-          "id": "om_3f5dadd04c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Squaring agility and identity to drive long-term success",
-          "url": "https://www.retaildive.com/spons/squaring-agility-and-identity-to-drive-long-term-success/822813/",
-          "postedAt": "2026-06-22T09:00:00.000Z"
-        },
-        {
-          "id": "om_564d8eefbb",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "NBCU Looks to Rock Brand Partnerships With New Unified Creative Offering",
-          "url": "https://www.adweek.com/convergent-tv/nbcu-to-rock-brand-partnerships-with-new-unified-creative-offering/",
-          "postedAt": "2026-06-22T06:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-22T17:13:28.623Z",
+      "lastUpdated": "2026-06-23T04:19:44.838Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
