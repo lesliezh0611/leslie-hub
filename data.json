@@ -227,6 +227,15 @@
       ],
       "articles": [
         {
+          "id": "vc_Khazix0918_3441315b72",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2069297858969497600",
+          "url": "https://x.com/Khazix0918/status/2069301802642853911",
+          "postedAt": "2026-06-23T06:09:30.000Z"
+        },
+        {
           "id": "vc_steipete_01bd323e52",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -396,19 +405,10 @@
           "title": "I hoard X bookmarks and never read them. So I built an extension that injects a bookmarked post into my main feed every time I open X (almost like an ...",
           "url": "https://x.com/zarazhangrui/status/2068568920613953626",
           "postedAt": "2026-06-21T05:37:17.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_9450ecda1f",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Sometimes I wonder if joining a large company is actually riskier than joining a startup/starting your own company",
-          "url": "https://x.com/zarazhangrui/status/2068522129193418759",
-          "postedAt": "2026-06-21T02:31:21.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-23T04:19:39.980Z",
+      "lastUpdated": "2026-06-23T15:23:58.326Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_20efbaf51e",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "The new inner game: Your unfair advantage in the age of AI",
+          "url": "https://www.lennysnewsletter.com/p/the-new-inner-game-your-unfair-advantage",
+          "postedAt": "2026-06-23T12:45:59.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_0a32f997c9",
           "source": "Lenny's Podcast",
@@ -528,14 +536,6 @@
           "postedAt": "2026-06-13T20:54:15.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_88c5b48566",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Claude Fable 5 review: what the new Mythos model gets right (and very wrong)",
-          "url": "https://www.lennysnewsletter.com/p/claude-fable-5-review-what-the-new",
-          "postedAt": "2026-06-09T18:32:03.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_22af2bbf42",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -592,7 +592,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-23T04:19:41.836Z",
+      "lastUpdated": "2026-06-23T15:23:59.840Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -685,6 +685,118 @@
       },
       "articles": [
         {
+          "id": "om_919ba233d7",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach",
+          "url": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
+          "postedAt": "2026-06-23T15:12:37.000Z"
+        },
+        {
+          "id": "om_c303d49acb",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Why Lowe’s wants content creators in its network to pitch product ideas",
+          "url": "https://www.retaildive.com/news/why-lowes-wants-content-creators-in-its-network-to-pitch-product-ideas/823490/",
+          "postedAt": "2026-06-23T14:33:00.000Z"
+        },
+        {
+          "id": "om_81810118ed",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Meta debuts new, cheaper smart glasses under its own brand",
+          "url": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
+          "postedAt": "2026-06-23T14:11:23.000Z"
+        },
+        {
+          "id": "om_3ef7f8273b",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Gap brings AI to owned marketing channels across brand portfolio",
+          "url": "https://www.marketingdive.com/news/gap-brings-ai-to-owned-marketing-channels-across-brand-portfolio/823491/",
+          "postedAt": "2026-06-23T14:07:00.000Z"
+        },
+        {
+          "id": "om_0584e3e8c9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "What defines ChatGPT ads? ‘Super intentional’ users, OpenAI tells Cannes",
+          "url": "https://www.marketingdive.com/news/how-openai-positioning-chatgpt-ads-cannes-lions-debut/823476/",
+          "postedAt": "2026-06-23T13:13:00.000Z"
+        },
+        {
+          "id": "om_4ac4cb1039",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why Lowe’s wants content creators in its network to pitch product ideas",
+          "url": "https://www.marketingdive.com/news/why-lowes-wants-content-creators-in-its-network-to-pitch-product-ideas/823379/",
+          "postedAt": "2026-06-23T13:00:00.000Z"
+        },
+        {
+          "id": "om_7b2341cd89",
+          "source": "Wired",
+          "lang": "en",
+          "title": "We're Tracking Prime Day Live To Find Sales Worth Shopping in 2026",
+          "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-2026/",
+          "postedAt": "2026-06-23T12:35:41.000Z"
+        },
+        {
+          "id": "om_ec2b1e5406",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why Pinterest’s top product marketer thinks the company can own search",
+          "url": "https://www.marketingbrew.com/stories/cannes-lions-pinterest-julie-towns-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-23T12:32:24.000Z"
+        },
+        {
+          "id": "om_f84f4b8501",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Amazon’s New Date for Prime Day 2026 Throws a Wrench Into Brands’ Plans",
+          "url": "https://www.adweek.com/commerce/amazons-new-date-for-prime-day-2026-throws-a-wrench-into-brands-plans/",
+          "postedAt": "2026-06-23T06:00:00.000Z"
+        },
+        {
+          "id": "om_b6325e3d2e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Omnicom’s Flywheel Found a Way to Inject Brands Into Amazon, Walmart, and Target’s AI Assistants",
+          "url": "https://www.adweek.com/commerce/omnicoms-flywheel-found-a-way-to-inject-brands-into-amazon-walmart-and-targets-ai-assistants/",
+          "postedAt": "2026-06-23T06:00:00.000Z"
+        },
+        {
+          "id": "om_22ab31afcd",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Instacart Wants to Co-Create Ads With Brands",
+          "url": "https://www.adweek.com/commerce/instacart-wants-to-co-create-ads-with-brands/",
+          "postedAt": "2026-06-23T03:00:00.000Z"
+        },
+        {
+          "id": "om_11d9470a9d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Meta Bets on AI Creative Tool and Creator Infrastructure to Justify its $145B Capex",
+          "url": "https://www.adweek.com/media/meta-bets-on-ai-creative-tool-and-creator-infrastructure-to-justify-its-145b-capex/",
+          "postedAt": "2026-06-23T03:00:00.000Z"
+        },
+        {
+          "id": "om_f789043f81",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "EXCLUSIVE: Brands Can Now Buy Albertsons Conversational Search Ads Through Criteo",
+          "url": "https://www.adweek.com/commerce/exclusive-brands-can-now-buy-albertsons-conversational-search-ads-through-criteo/",
+          "postedAt": "2026-06-23T01:00:00.000Z"
+        },
+        {
+          "id": "om_f36a391e13",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Alexa Is Becoming a Shopping Agent for Advertisers Outside Amazon",
+          "url": "https://www.adweek.com/commerce/alexa-is-becoming-a-shopping-agent-for-advertisers-outside-amazon/",
+          "postedAt": "2026-06-23T01:00:00.000Z"
+        },
+        {
           "id": "om_a872e12aa5",
           "source": "Social Media Today",
           "lang": "en",
@@ -731,122 +843,10 @@
           "title": "Amazon’s Prime Day sale could spur $26.3B in US e-commerce",
           "url": "https://www.retaildive.com/news/amazon-prime-day-sale-twenty-six-billion-us-e-commerce-2026/823368/",
           "postedAt": "2026-06-22T16:07:00.000Z"
-        },
-        {
-          "id": "om_fed5174999",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Glossier secures $45M in debt financing",
-          "url": "https://www.retaildive.com/news/glossier-secures-debt-financing-tiger-finance/823384/",
-          "postedAt": "2026-06-22T16:04:00.000Z"
-        },
-        {
-          "id": "om_65963d716e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bed Bath & Beyond wants consumers to dig up old coupons",
-          "url": "https://www.retaildive.com/news/bed-bath-beyond-coupon-sweepstakes/823394/",
-          "postedAt": "2026-06-22T15:59:00.000Z"
-        },
-        {
-          "id": "om_f61e068f7d",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Target, DirecTV team to track premium video advertising’s sales impact",
-          "url": "https://www.marketingdive.com/news/target-directv-team-to-track-premium-video-advertisings-sales-impact/823311/",
-          "postedAt": "2026-06-22T15:00:00.000Z"
-        },
-        {
-          "id": "om_5dea4e9a21",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Samsung TV Plus Is Letting Users Shop With Their Remotes Thanks to Amazon Partnership",
-          "url": "https://www.adweek.com/commerce/samsung-tv-plus-shop-with-remote-amazon-partnership/",
-          "postedAt": "2026-06-22T14:14:33.000Z"
-        },
-        {
-          "id": "om_25d6d66453",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "BJ’s Wholesale Club uses tariff refunds to cut prices",
-          "url": "https://www.retaildive.com/news/bjs-wholesale-club-tariff-refunds-cut-prices/823371/",
-          "postedAt": "2026-06-22T14:14:00.000Z"
-        },
-        {
-          "id": "om_47cbe7c375",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Cannes 2026: My job is just beach",
-          "url": "https://www.marketingbrew.com/stories/cannes-2026-day-one-dispatch?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-22T14:03:03.000Z"
-        },
-        {
-          "id": "om_36661e2ecd",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
-          "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
-          "postedAt": "2026-06-22T14:00:00.000Z"
-        },
-        {
-          "id": "om_8f9928570e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How NBA players will deal directly with brands through a new union arm",
-          "url": "https://www.marketingdive.com/news/how-nba-players-will-deal-directly-with-brands-through-a-new-union-arm/823266/",
-          "postedAt": "2026-06-22T13:42:00.000Z"
-        },
-        {
-          "id": "om_4d14c3c240",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Why furniture delivery isn’t part of Ollie’s plans",
-          "url": "https://www.retaildive.com/news/delivery-isnt-part-ollies-plans-furniture/823049/",
-          "postedAt": "2026-06-22T13:00:00.000Z"
-        },
-        {
-          "id": "om_637b76ee15",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Code and Theory Teams With Adobe to Help Sports Teams Operate Like Media Companies",
-          "url": "https://www.adweek.com/agencies/code-and-theory-adobe-help-sports-teams-operate-like-media-companies/",
-          "postedAt": "2026-06-22T12:39:35.000Z"
-        },
-        {
-          "id": "om_92ba8dba38",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How AB InBev Won 183 Cannes Lions in Five Years",
-          "url": "https://www.adweek.com/brand-marketing/how-ab-inbev-won-183-cannes-lions-in-five-years/",
-          "postedAt": "2026-06-22T11:18:03.000Z"
-        },
-        {
-          "id": "om_e6d7f28b78",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why the National Basketball Players Association is debuting a B2C brand",
-          "url": "https://www.marketingbrew.com/stories/nbpa-plyrs-untd-brand?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-22T11:00:00.000Z"
-        },
-        {
-          "id": "om_4673f1d60c",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "CMOs prioritize organizational influence over long-term brand growth",
-          "url": "https://www.marketingdive.com/news/cmos-prioritize-organizational-influence-over-long-term-brand-growth/823330/",
-          "postedAt": "2026-06-22T10:00:00.000Z"
-        },
-        {
-          "id": "om_21e15d8eff",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "CeraVe’s Kevin Durant campaign led to a 43% sales lift—here’s how",
-          "url": "https://www.marketingbrew.com/stories/ceraves-kevin-durant-campaign-led-to-a-43-sales-lift?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-22T09:01:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-23T04:19:44.838Z",
+      "lastUpdated": "2026-06-23T15:24:02.385Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
