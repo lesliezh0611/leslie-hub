@@ -227,6 +227,87 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_a6e79c960c",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "分享一下我管理 Skills 的方式，偏极客风格，不一定适合所有人，但可以给大家提供一个思路。 一、Skills 只装在项目里，不装全局 Agent 的 Skills 可以装在全局...",
+          "url": "https://x.com/dotey/status/2069632132431929651",
+          "postedAt": "2026-06-24T04:02:06.000Z"
+        },
+        {
+          "id": "vc_dotey_d388cb50f4",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "吃的bug多，拉的bug也多……",
+          "url": "https://x.com/dotey/status/2069602746450284614",
+          "postedAt": "2026-06-24T02:05:20.000Z"
+        },
+        {
+          "id": "vc_steipete_2988b8c549",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Google fired the guy that made the google workspace cli, because he made the google workspace cli. Lucky me, Google can't fire me. https://gogcli.sh",
+          "url": "https://x.com/steipete/status/2069594195522941059",
+          "postedAt": "2026-06-24T01:31:22.000Z"
+        },
+        {
+          "id": "vc_dotey_6b57f3d4de",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 代码之外 Beyond Code: 这一期我们邀请到了中文 Web 前端社区早期非常有代表性的程序员 Winter 寒冬 @winter_cn 🎉 从他早期的梗开始，我们聊了程序员影响...",
+          "url": "https://x.com/dotey/status/2069634529191436289",
+          "postedAt": "2026-06-24T01:24:43.000Z"
+        },
+        {
+          "id": "vc_karpathy_945660f0a2",
+          "source": "karpathy",
+          "sourceName": "Andrej Karpathy",
+          "platform": "x",
+          "title": "This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activity org-wide. Once you do all of ...",
+          "url": "https://x.com/karpathy/status/2069547676849557725",
+          "postedAt": "2026-06-23T22:26:31.000Z"
+        },
+        {
+          "id": "vc_dotey_80a61b9faf",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT Orange AI: 看到即梦上的新模型这么贵，联想到最近总结出来的一个ROI 定律。 大模型训练和使用都遵循 ROI 定律 今天大家都去做coding和短剧 就是因为 算力、...",
+          "url": "https://x.com/dotey/status/2069544470756905104",
+          "postedAt": "2026-06-23T21:58:05.000Z"
+        },
+        {
+          "id": "vc_dotey_66a4bcdd12",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Google Workspace CLI 这项目当时我还转发过，没想到几个月过去，作者 Justin Poehnelt 因为这个项目被开除了。 Justin 在 Google 干了将近七年，岗位是 Workspa...",
+          "url": "https://x.com/dotey/status/2069537208378302874",
+          "postedAt": "2026-06-23T21:44:55.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_12ef041f50",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "RT Lena: Introducing yes&, the social platform built for creation. Creativity has never happened in isolation. A style. A pose. A sound. An outfit. We...",
+          "url": "https://x.com/zarazhangrui/status/2069523218172715116",
+          "postedAt": "2026-06-23T18:24:02.000Z"
+        },
+        {
+          "id": "vc_karpathy_73f51710a3",
+          "source": "karpathy",
+          "sourceName": "Andrej Karpathy",
+          "platform": "x",
+          "title": "RT Engram: http://x.com/i/article/2069463677733142528",
+          "url": "https://x.com/karpathy/status/2069579404163031082",
+          "postedAt": "2026-06-23T17:01:29.000Z"
+        },
+        {
           "id": "vc_Khazix0918_3441315b72",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -252,15 +333,6 @@
           "title": "OpenAI for Samsung:",
           "url": "https://x.com/gdb/status/2069232102483378395",
           "postedAt": "2026-06-23T01:32:32.000Z"
-        },
-        {
-          "id": "vc_dotey_cf4e24b6c0",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT LinearUncle: Codex 疯狂写磁盘的问题已经修复了 ✅ 但 Codex App 暂时还没更新，需要手动更新 Codex CLI 到 0.142.0 才能解决问题。 两种更新方式： 方式一...",
-          "url": "https://x.com/dotey/status/2069228715330904278",
-          "postedAt": "2026-06-22T23:59:58.000Z"
         },
         {
           "id": "vc_steipete_7cf0bc3fc5",
@@ -326,24 +398,6 @@
           "postedAt": "2026-06-22T15:38:34.000Z"
         },
         {
-          "id": "vc_steipete_567e4d393f",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Armin Ronacher ⇌: Why do people think there is more clarity in their communications when they throw their thoughts into an LLM before sharing? I’...",
-          "url": "https://x.com/steipete/status/2069089504745660695",
-          "postedAt": "2026-06-22T12:06:35.000Z"
-        },
-        {
-          "id": "vc_dotey_f12350e310",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Bruce🐼: 晚点LateTask这篇访谈的信息量非常大，关于百度美研、Scaling Law、OpenAI、Anthropic、Cerebras的往事。 > \"Dario 能进百度，其实是他职业生涯里...",
-          "url": "https://x.com/dotey/status/2069080479819534653",
-          "postedAt": "2026-06-22T06:53:14.000Z"
-        },
-        {
           "id": "vc_Khazix0918_e5192845e0",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -351,64 +405,10 @@
           "title": "http://x.com/i/article/2068923862918877184",
           "url": "https://x.com/Khazix0918/status/2068927263035506977",
           "postedAt": "2026-06-22T05:21:12.000Z"
-        },
-        {
-          "id": "vc_dotey_7a6ca3a29c",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 马东锡 NLP: http://x.com/i/article/2068605217508126721",
-          "url": "https://x.com/dotey/status/2069142128131723584",
-          "postedAt": "2026-06-22T05:02:00.000Z"
-        },
-        {
-          "id": "vc_dotey_8b9cf4e5bc",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Felix 的上下文: 十分推荐这个 skill，尤其是自己没有什么前端和 UI 经验的人 前两张图是使用这个 skill 之后的样式，第三张图是旧的样式，确实要更加好看一...",
-          "url": "https://x.com/dotey/status/2068900261351788871",
-          "postedAt": "2026-06-22T03:29:43.000Z"
-        },
-        {
-          "id": "vc_gdb_2efb5e06f9",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "codex for testing every single feature in your app:",
-          "url": "https://x.com/gdb/status/2068761809318990054",
-          "postedAt": "2026-06-21T18:23:45.000Z"
-        },
-        {
-          "id": "vc_dotey_cc49b42cb5",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Barret李靖: LLM 每一轮迭代，都会让一批创业者丢掉生意。今天跟一位朋友聊，他说模型越强，他却越兴奋。 他是做硬件集成解决方案的，前十年在工厂摸爬滚打，...",
-          "url": "https://x.com/dotey/status/2068749491587412427",
-          "postedAt": "2026-06-21T15:30:00.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_f5e9a4ce93",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "Anthropic突然大赦天下了，居然把我24年初就被封掉的Google账号解封了，怒氪200刀，我的Claude账号和Google账号终于对上了，也终于可以用Claude原生的chrome插件...",
-          "url": "https://x.com/Khazix0918/status/2068642377926050254",
-          "postedAt": "2026-06-21T10:29:11.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_133d016a3d",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "I hoard X bookmarks and never read them. So I built an extension that injects a bookmarked post into my main feed every time I open X (almost like an ...",
-          "url": "https://x.com/zarazhangrui/status/2068568920613953626",
-          "postedAt": "2026-06-21T05:37:17.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-23T15:23:58.326Z",
+      "lastUpdated": "2026-06-24T04:34:45.853Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -592,7 +592,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-23T15:23:59.840Z",
+      "lastUpdated": "2026-06-24T04:34:46.897Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -685,6 +685,142 @@
       },
       "articles": [
         {
+          "id": "om_6d1b14b969",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
+          "url": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
+          "postedAt": "2026-06-24T00:30:00.000Z"
+        },
+        {
+          "id": "om_c4ec7ca3d7",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+          "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+          "postedAt": "2026-06-23T23:30:00.000Z"
+        },
+        {
+          "id": "om_b235c5ec9c",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok partners with fitness tracking app",
+          "url": "https://www.socialmediatoday.com/news/tiktok-partners-with-fitness-tracking-app/823599/",
+          "postedAt": "2026-06-23T23:19:04.000Z"
+        },
+        {
+          "id": "om_ea03e83965",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Starbucks pilots TikTok program for boosting employee-generated content",
+          "url": "https://www.marketingdive.com/news/starbucks-pilots-tiktok-program-for-boosting-employee-generated-content/823565/",
+          "postedAt": "2026-06-23T21:12:00.000Z"
+        },
+        {
+          "id": "om_076d8febd0",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Klue says hackers stole credential from 2022 that led to customer data breaches",
+          "url": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/",
+          "postedAt": "2026-06-23T19:43:56.000Z"
+        },
+        {
+          "id": "om_6ff38ed1f0",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Bots are taking over the internet. What’s a brand to do?",
+          "url": "https://www.marketingbrew.com/stories/bot-internet-brands?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-23T17:55:05.000Z"
+        },
+        {
+          "id": "om_3179204dd4",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "LiveRamp CEO dishes on OpenAI partnership, looming Publicis acquisition",
+          "url": "https://www.marketingdive.com/news/liveramp-ceo-dishes-on-openai-partnership-looming-publicis-acquisition/823481/",
+          "postedAt": "2026-06-23T17:52:00.000Z"
+        },
+        {
+          "id": "om_e14a3b1150",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ashley Graham Is Loyal to JCPenney, Even at the Cost of a Little Glam",
+          "url": "https://www.adweek.com/brand-marketing/ashley-graham-is-loyal-to-jcpenney-even-at-the-cost-of-a-little-glam/",
+          "postedAt": "2026-06-23T16:56:23.000Z"
+        },
+        {
+          "id": "om_2a4c4058ed",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Culture as a Dinner Party: How Brands Earn Their Seat at the Table",
+          "url": "https://www.adweek.com/brand-marketing/culture-as-a-dinner-party-how-brands-earn-their-seat-at-the-table/",
+          "postedAt": "2026-06-23T16:37:39.000Z"
+        },
+        {
+          "id": "om_f7a28111dd",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Unilever’s Branden Goodman on the New Rules of Consumer Discovery",
+          "url": "https://www.adweek.com/brand-marketing/unilevers-branden-goodman-on-the-new-rules-of-consumer-discovery/",
+          "postedAt": "2026-06-23T16:27:49.000Z"
+        },
+        {
+          "id": "om_0f04c30cfb",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Best Buy CFO to exit",
+          "url": "https://www.retaildive.com/news/best-buy-cfo-matt-bilunas-exits/823494/",
+          "postedAt": "2026-06-23T16:14:00.000Z"
+        },
+        {
+          "id": "om_42af772bf8",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Cannes 2026: It’s getting hot in here",
+          "url": "https://www.marketingbrew.com/stories/cannes-2026-day-two-dispatch?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-23T16:07:15.000Z"
+        },
+        {
+          "id": "om_b28ab176bd",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "As News Advertising Gets Safer, Brands Cash In",
+          "url": "https://www.adweek.com/media/as-news-advertising-gets-safer-brands-cash-in/",
+          "postedAt": "2026-06-23T16:06:58.000Z"
+        },
+        {
+          "id": "om_917a45e2c5",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target to open 11 stores in July",
+          "url": "https://www.retaildive.com/news/target-open-eleven-new-stores-july/823521/",
+          "postedAt": "2026-06-23T16:00:00.000Z"
+        },
+        {
+          "id": "om_232de07c2f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "DoorDash launches conversational shopping assistant",
+          "url": "https://www.retaildive.com/news/doordash-grocery-tools-conversational-shopping-assistant-ai/822995/",
+          "postedAt": "2026-06-23T15:54:00.000Z"
+        },
+        {
+          "id": "om_65d51e7c8d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Gap Inc. plots AI-led marketing modernization effort",
+          "url": "https://www.retaildive.com/news/gap-ai-owned-marketing-channels/823507/",
+          "postedAt": "2026-06-23T15:39:00.000Z"
+        },
+        {
+          "id": "om_199a47c595",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Bath & Body Works to launch at Ulta Beauty",
+          "url": "https://www.retaildive.com/news/bath-body-works-launches-ulta-beauty/823473/",
+          "postedAt": "2026-06-23T15:35:00.000Z"
+        },
+        {
           "id": "om_919ba233d7",
           "source": "TechCrunch",
           "lang": "en",
@@ -693,160 +829,24 @@
           "postedAt": "2026-06-23T15:12:37.000Z"
         },
         {
+          "id": "om_91f6fdaa5e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Forget Time Sheets. Outcome-Based Payments Could Be the Future for Agencies",
+          "url": "https://www.adweek.com/agencies/outcome-based-payments-future-for-agencies/",
+          "postedAt": "2026-06-23T14:37:28.000Z"
+        },
+        {
           "id": "om_c303d49acb",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Why Lowe’s wants content creators in its network to pitch product ideas",
           "url": "https://www.retaildive.com/news/why-lowes-wants-content-creators-in-its-network-to-pitch-product-ideas/823490/",
           "postedAt": "2026-06-23T14:33:00.000Z"
-        },
-        {
-          "id": "om_81810118ed",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Meta debuts new, cheaper smart glasses under its own brand",
-          "url": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
-          "postedAt": "2026-06-23T14:11:23.000Z"
-        },
-        {
-          "id": "om_3ef7f8273b",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Gap brings AI to owned marketing channels across brand portfolio",
-          "url": "https://www.marketingdive.com/news/gap-brings-ai-to-owned-marketing-channels-across-brand-portfolio/823491/",
-          "postedAt": "2026-06-23T14:07:00.000Z"
-        },
-        {
-          "id": "om_0584e3e8c9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "What defines ChatGPT ads? ‘Super intentional’ users, OpenAI tells Cannes",
-          "url": "https://www.marketingdive.com/news/how-openai-positioning-chatgpt-ads-cannes-lions-debut/823476/",
-          "postedAt": "2026-06-23T13:13:00.000Z"
-        },
-        {
-          "id": "om_4ac4cb1039",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why Lowe’s wants content creators in its network to pitch product ideas",
-          "url": "https://www.marketingdive.com/news/why-lowes-wants-content-creators-in-its-network-to-pitch-product-ideas/823379/",
-          "postedAt": "2026-06-23T13:00:00.000Z"
-        },
-        {
-          "id": "om_7b2341cd89",
-          "source": "Wired",
-          "lang": "en",
-          "title": "We're Tracking Prime Day Live To Find Sales Worth Shopping in 2026",
-          "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-2026/",
-          "postedAt": "2026-06-23T12:35:41.000Z"
-        },
-        {
-          "id": "om_ec2b1e5406",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why Pinterest’s top product marketer thinks the company can own search",
-          "url": "https://www.marketingbrew.com/stories/cannes-lions-pinterest-julie-towns-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-23T12:32:24.000Z"
-        },
-        {
-          "id": "om_f84f4b8501",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Amazon’s New Date for Prime Day 2026 Throws a Wrench Into Brands’ Plans",
-          "url": "https://www.adweek.com/commerce/amazons-new-date-for-prime-day-2026-throws-a-wrench-into-brands-plans/",
-          "postedAt": "2026-06-23T06:00:00.000Z"
-        },
-        {
-          "id": "om_b6325e3d2e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Omnicom’s Flywheel Found a Way to Inject Brands Into Amazon, Walmart, and Target’s AI Assistants",
-          "url": "https://www.adweek.com/commerce/omnicoms-flywheel-found-a-way-to-inject-brands-into-amazon-walmart-and-targets-ai-assistants/",
-          "postedAt": "2026-06-23T06:00:00.000Z"
-        },
-        {
-          "id": "om_22ab31afcd",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Instacart Wants to Co-Create Ads With Brands",
-          "url": "https://www.adweek.com/commerce/instacart-wants-to-co-create-ads-with-brands/",
-          "postedAt": "2026-06-23T03:00:00.000Z"
-        },
-        {
-          "id": "om_11d9470a9d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Meta Bets on AI Creative Tool and Creator Infrastructure to Justify its $145B Capex",
-          "url": "https://www.adweek.com/media/meta-bets-on-ai-creative-tool-and-creator-infrastructure-to-justify-its-145b-capex/",
-          "postedAt": "2026-06-23T03:00:00.000Z"
-        },
-        {
-          "id": "om_f789043f81",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "EXCLUSIVE: Brands Can Now Buy Albertsons Conversational Search Ads Through Criteo",
-          "url": "https://www.adweek.com/commerce/exclusive-brands-can-now-buy-albertsons-conversational-search-ads-through-criteo/",
-          "postedAt": "2026-06-23T01:00:00.000Z"
-        },
-        {
-          "id": "om_f36a391e13",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Alexa Is Becoming a Shopping Agent for Advertisers Outside Amazon",
-          "url": "https://www.adweek.com/commerce/alexa-is-becoming-a-shopping-agent-for-advertisers-outside-amazon/",
-          "postedAt": "2026-06-23T01:00:00.000Z"
-        },
-        {
-          "id": "om_a872e12aa5",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Reddit launches more integrated ad options to assure shoppers",
-          "url": "https://www.socialmediatoday.com/news/reddit-launches-more-integrated-ad-options-to-assure-shoppers/823466/",
-          "postedAt": "2026-06-22T21:25:00.000Z"
-        },
-        {
-          "id": "om_8338a1892e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How the NFL Is Building Connections Outside the Field With 72andSunny",
-          "url": "https://www.adweek.com/brand-marketing/how-the-nfl-is-building-connections-outside-the-field-with-72andsunny/",
-          "postedAt": "2026-06-22T21:11:42.000Z"
-        },
-        {
-          "id": "om_7ad259929c",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok adds new AI creation tools for marketers",
-          "url": "https://www.socialmediatoday.com/news/tiktok-adds-new-ai-creation-tools-for-marketers/823463/",
-          "postedAt": "2026-06-22T21:01:15.000Z"
-        },
-        {
-          "id": "om_687749fb34",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Cannes Lions 2026 Gallery: The Buzziest Events, Biggest Names, and Hottest Parties",
-          "url": "https://www.adweek.com/agencies/cannes-lions-2026-gallery-events-celebrities-panels-activations-parties/",
-          "postedAt": "2026-06-22T19:27:38.000Z"
-        },
-        {
-          "id": "om_8874780f3a",
-          "source": "Wired",
-          "lang": "en",
-          "title": "I Found 37 Early Prime Day Deals That Are Worth Shopping Now (2026)",
-          "url": "https://www.wired.com/story/early-prime-day-deals-june-2026-3/",
-          "postedAt": "2026-06-22T17:01:33.000Z"
-        },
-        {
-          "id": "om_3722ad62b9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon’s Prime Day sale could spur $26.3B in US e-commerce",
-          "url": "https://www.retaildive.com/news/amazon-prime-day-sale-twenty-six-billion-us-e-commerce-2026/823368/",
-          "postedAt": "2026-06-22T16:07:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-23T15:24:02.385Z",
+      "lastUpdated": "2026-06-24T04:34:48.534Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
