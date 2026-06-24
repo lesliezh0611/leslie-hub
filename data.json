@@ -227,13 +227,40 @@
       ],
       "articles": [
         {
-          "id": "vc_dotey_a6e79c960c",
+          "id": "vc_steipete_5be3ab551f",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Peter Thomson: Re @pvncher @Steve_Yegge Well @cognition were right about Devin. And @steipete was right about Personal Assistant agents. And @Geoff...",
+          "url": "https://x.com/steipete/status/2069691481942536245",
+          "postedAt": "2026-06-24T07:35:38.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_2d74ed3f5f",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2069669405785772032",
+          "url": "https://x.com/Khazix0918/status/2069672408781594723",
+          "postedAt": "2026-06-24T06:42:09.000Z"
+        },
+        {
+          "id": "vc_dotey_f2f1c1d30b",
           "source": "dotey",
           "sourceName": "宝玉",
           "platform": "x",
-          "title": "分享一下我管理 Skills 的方式，偏极客风格，不一定适合所有人，但可以给大家提供一个思路。 一、Skills 只装在项目里，不装全局 Agent 的 Skills 可以装在全局...",
-          "url": "https://x.com/dotey/status/2069632132431929651",
-          "postedAt": "2026-06-24T04:02:06.000Z"
+          "title": "RT 数字生命卡兹克: http://x.com/i/article/2069669405785772032",
+          "url": "https://x.com/dotey/status/2069676011763970342",
+          "postedAt": "2026-06-24T06:42:09.000Z"
+        },
+        {
+          "id": "vc_steipete_d49323d2c5",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT OpenClaw🦞: 🦞 OpenClaw 2026.6.10 just dropped. Just a small release to keep things brewing: ⚡ Automatic fast mode for short talks 🧠 Much m...",
+          "url": "https://x.com/steipete/status/2069692403238539675",
+          "postedAt": "2026-06-24T05:56:47.000Z"
         },
         {
           "id": "vc_dotey_d388cb50f4",
@@ -263,6 +290,15 @@
           "postedAt": "2026-06-24T01:24:43.000Z"
         },
         {
+          "id": "vc_dotey_c874d13965",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT yan5xu: 最近推特被黑的有点多，@Cydiar404也中招了。都是2FA，没有任何提示，就被人拿去发帖。。。这就非常像我最近研究的浏览器登录态复用。。。大概率是某...",
+          "url": "https://x.com/dotey/status/2069668084260938097",
+          "postedAt": "2026-06-24T00:58:50.000Z"
+        },
+        {
           "id": "vc_karpathy_945660f0a2",
           "source": "karpathy",
           "sourceName": "Andrej Karpathy",
@@ -279,15 +315,6 @@
           "title": "RT Orange AI: 看到即梦上的新模型这么贵，联想到最近总结出来的一个ROI 定律。 大模型训练和使用都遵循 ROI 定律 今天大家都去做coding和短剧 就是因为 算力、...",
           "url": "https://x.com/dotey/status/2069544470756905104",
           "postedAt": "2026-06-23T21:58:05.000Z"
-        },
-        {
-          "id": "vc_dotey_66a4bcdd12",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Google Workspace CLI 这项目当时我还转发过，没想到几个月过去，作者 Justin Poehnelt 因为这个项目被开除了。 Justin 在 Google 干了将近七年，岗位是 Workspa...",
-          "url": "https://x.com/dotey/status/2069537208378302874",
-          "postedAt": "2026-06-23T21:44:55.000Z"
         },
         {
           "id": "vc_zarazhangrui_12ef041f50",
@@ -353,24 +380,6 @@
           "postedAt": "2026-06-22T22:14:52.000Z"
         },
         {
-          "id": "vc_steipete_820429923f",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Sam Willis: /goal make postgres multithreaded .... 1k commits 124k lines 786 changed files 10 days later",
-          "url": "https://x.com/steipete/status/2069163022766227640",
-          "postedAt": "2026-06-22T19:55:01.000Z"
-        },
-        {
-          "id": "vc_steipete_0b80ae7154",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Patch the Planet.",
-          "url": "https://x.com/steipete/status/2069132838356840857",
-          "postedAt": "2026-06-22T18:58:05.000Z"
-        },
-        {
           "id": "vc_gdb_1c02d1a6f8",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -396,19 +405,10 @@
           "title": "今天，我终于拿到了微信Agent小微的灰度内测资格。 花了一个小时上手体验了一圈，激动得连发了两条朋友圈。 我本来以为是只会做一些通用的东西，比如调调小程序...",
           "url": "https://x.com/Khazix0918/status/2069082627836109026",
           "postedAt": "2026-06-22T15:38:34.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_e5192845e0",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2068923862918877184",
-          "url": "https://x.com/Khazix0918/status/2068927263035506977",
-          "postedAt": "2026-06-22T05:21:12.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-24T04:34:45.853Z",
+      "lastUpdated": "2026-06-24T15:06:38.323Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_2c99441032",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "GLM 5.2: why I’m replacing Opus in Claude Code with this new model",
+          "url": "https://www.lennysnewsletter.com/p/glm-52-why-im-replacing-opus-in-claude",
+          "postedAt": "2026-06-24T12:03:52.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_20efbaf51e",
           "source": "Lenny's Podcast",
@@ -528,14 +536,6 @@
           "postedAt": "2026-06-14T12:31:44.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_ac6a024f40",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: How AI is changing product operating models, tracking work stress with Whoop, whether you need a portfolio of AI side projects, marketing for tiny teams, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-how-ai-is-changing",
-          "postedAt": "2026-06-13T20:54:15.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_22af2bbf42",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -592,7 +592,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-24T04:34:46.897Z",
+      "lastUpdated": "2026-06-24T15:06:39.826Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -684,6 +684,70 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_924277b3a3",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Albertsons integrates branded product placement into AI-search tool",
+          "url": "https://www.marketingdive.com/news/albertsons-media-collective-criteo-ai-search-brand-ads-ecommerce-omnichannel/823636/",
+          "postedAt": "2026-06-24T14:34:00.000Z"
+        },
+        {
+          "id": "om_82a09636e8",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Cannes 2026: Worth it",
+          "url": "https://www.marketingbrew.com/stories/cannes-lions-2026-day-3-dispatch-raye?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-24T14:10:06.000Z"
+        },
+        {
+          "id": "om_b9e39b8c0a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Expedia Group drives brand impact with creators — and Barbie’s Ken",
+          "url": "https://www.marketingdive.com/news/how-expedia-group-drives-brand-impact-with-creators-barbie-ken/823592/",
+          "postedAt": "2026-06-24T13:00:00.000Z"
+        },
+        {
+          "id": "om_5873dac985",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "The unexpected brands running creators want to work with",
+          "url": "https://www.marketingbrew.com/stories/running-influencer-sponsorships?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-24T12:25:27.000Z"
+        },
+        {
+          "id": "om_6f3826d19b",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Comscore and Amazon DSP are teaming up as Amazon’s CTV ambitions grow",
+          "url": "https://www.marketingbrew.com/stories/comscore-amazon-dsp-ctv-partnership?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-24T12:10:00.000Z"
+        },
+        {
+          "id": "om_a54ccce569",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Consumers are sick and tired of hearing about AI all the time",
+          "url": "https://www.marketingbrew.com/stories/harris-poll-ai-fatigue-less-trust-ai-generated-ads-cannes-lions?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-24T12:00:23.000Z"
+        },
+        {
+          "id": "om_10f02b4171",
+          "source": "Wired",
+          "lang": "en",
+          "title": "We're Tracking Prime Day Live To Find Sales Worth Shopping in 2026",
+          "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-24-2026/",
+          "postedAt": "2026-06-24T11:28:17.000Z"
+        },
+        {
+          "id": "om_d1d9955cca",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How PacSun’s CEO is putting her trust in Gen Z",
+          "url": "https://www.marketingbrew.com/stories/cannes-lions-pacsun-brieane-olson-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-24T07:33:46.000Z"
+        },
         {
           "id": "om_6d1b14b969",
           "source": "TechCrunch",
@@ -779,74 +843,10 @@
           "title": "Cannes 2026: It’s getting hot in here",
           "url": "https://www.marketingbrew.com/stories/cannes-2026-day-two-dispatch?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-06-23T16:07:15.000Z"
-        },
-        {
-          "id": "om_b28ab176bd",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "As News Advertising Gets Safer, Brands Cash In",
-          "url": "https://www.adweek.com/media/as-news-advertising-gets-safer-brands-cash-in/",
-          "postedAt": "2026-06-23T16:06:58.000Z"
-        },
-        {
-          "id": "om_917a45e2c5",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target to open 11 stores in July",
-          "url": "https://www.retaildive.com/news/target-open-eleven-new-stores-july/823521/",
-          "postedAt": "2026-06-23T16:00:00.000Z"
-        },
-        {
-          "id": "om_232de07c2f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "DoorDash launches conversational shopping assistant",
-          "url": "https://www.retaildive.com/news/doordash-grocery-tools-conversational-shopping-assistant-ai/822995/",
-          "postedAt": "2026-06-23T15:54:00.000Z"
-        },
-        {
-          "id": "om_65d51e7c8d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Gap Inc. plots AI-led marketing modernization effort",
-          "url": "https://www.retaildive.com/news/gap-ai-owned-marketing-channels/823507/",
-          "postedAt": "2026-06-23T15:39:00.000Z"
-        },
-        {
-          "id": "om_199a47c595",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bath & Body Works to launch at Ulta Beauty",
-          "url": "https://www.retaildive.com/news/bath-body-works-launches-ulta-beauty/823473/",
-          "postedAt": "2026-06-23T15:35:00.000Z"
-        },
-        {
-          "id": "om_919ba233d7",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach",
-          "url": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
-          "postedAt": "2026-06-23T15:12:37.000Z"
-        },
-        {
-          "id": "om_91f6fdaa5e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Forget Time Sheets. Outcome-Based Payments Could Be the Future for Agencies",
-          "url": "https://www.adweek.com/agencies/outcome-based-payments-future-for-agencies/",
-          "postedAt": "2026-06-23T14:37:28.000Z"
-        },
-        {
-          "id": "om_c303d49acb",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Why Lowe’s wants content creators in its network to pitch product ideas",
-          "url": "https://www.retaildive.com/news/why-lowes-wants-content-creators-in-its-network-to-pitch-product-ideas/823490/",
-          "postedAt": "2026-06-23T14:33:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-24T04:34:48.534Z",
+      "lastUpdated": "2026-06-24T15:06:41.918Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
