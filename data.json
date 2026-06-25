@@ -227,6 +227,87 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_c29e35fd14",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Anthropic 今天正式致信美国参议院银行委员会和白宫，指控阿里巴巴旗下的通义千问（Qwen）AI 实验室对 Claude 发动了迄今为止规模最大的蒸馏攻击。 根据 CNBC 和...",
+          "url": "https://x.com/dotey/status/2069979107903918149",
+          "postedAt": "2026-06-25T03:00:52.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_b48ac93ec8",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "The best founders post on X",
+          "url": "https://x.com/zarazhangrui/status/2069951925202903176",
+          "postedAt": "2026-06-25T01:12:51.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_fa17ea1668",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "The root cause of procrastination is not the lack of time It’s the lack of courage",
+          "url": "https://x.com/zarazhangrui/status/2069908420384428132",
+          "postedAt": "2026-06-24T22:19:59.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_381d4fe46d",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "“Community is your users’ relationships with you and with each other, and most teams never think to design it Community is the new moat Features get...",
+          "url": "https://x.com/zarazhangrui/status/2069900496304042343",
+          "postedAt": "2026-06-24T21:48:29.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_e15924a104",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "My favorite session from @figma Config today was this talk by Chelsea Larson, the head of content design at Anthropic Here are my notes",
+          "url": "https://x.com/zarazhangrui/status/2069897318627946702",
+          "postedAt": "2026-06-24T21:35:52.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_b1087beacb",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "The future of marketing will look more like eduction (esp for developer/builder marketing) People don’t wanna be marketed at They wanna learn",
+          "url": "https://x.com/zarazhangrui/status/2069889581412200848",
+          "postedAt": "2026-06-24T21:05:07.000Z"
+        },
+        {
+          "id": "vc_dotey_070a88e9f2",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "据 WIRED 报道，在围绕 Fable 5 模型解禁的谈判中，Anthropic 联合创始人 Tom Brown 已经取代 Amodei，成为与特朗普政府对话的主要代表。一位直接了解通话内容的...",
+          "url": "https://x.com/dotey/status/2069847686992314492",
+          "postedAt": "2026-06-24T18:18:39.000Z"
+        },
+        {
+          "id": "vc_gdb_451c99539e",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Big improvements to GPT-5.5 Instant, including being much more fun to talk to. Give it a try:",
+          "url": "https://x.com/gdb/status/2069845493199597944",
+          "postedAt": "2026-06-24T18:09:56.000Z"
+        },
+        {
+          "id": "vc_dotey_0011d1afb6",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "看起来Fable 5快要回归了，而且永久包含在订阅中。但不知道是否要更严格的身份认证才能用",
+          "url": "https://x.com/dotey/status/2069831225745813711",
+          "postedAt": "2026-06-24T17:13:14.000Z"
+        },
+        {
           "id": "vc_steipete_5be3ab551f",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -281,24 +362,6 @@
           "postedAt": "2026-06-24T01:31:22.000Z"
         },
         {
-          "id": "vc_dotey_6b57f3d4de",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 代码之外 Beyond Code: 这一期我们邀请到了中文 Web 前端社区早期非常有代表性的程序员 Winter 寒冬 @winter_cn 🎉 从他早期的梗开始，我们聊了程序员影响...",
-          "url": "https://x.com/dotey/status/2069634529191436289",
-          "postedAt": "2026-06-24T01:24:43.000Z"
-        },
-        {
-          "id": "vc_dotey_c874d13965",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT yan5xu: 最近推特被黑的有点多，@Cydiar404也中招了。都是2FA，没有任何提示，就被人拿去发帖。。。这就非常像我最近研究的浏览器登录态复用。。。大概率是某...",
-          "url": "https://x.com/dotey/status/2069668084260938097",
-          "postedAt": "2026-06-24T00:58:50.000Z"
-        },
-        {
           "id": "vc_karpathy_945660f0a2",
           "source": "karpathy",
           "sourceName": "Andrej Karpathy",
@@ -306,24 +369,6 @@
           "title": "This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activity org-wide. Once you do all of ...",
           "url": "https://x.com/karpathy/status/2069547676849557725",
           "postedAt": "2026-06-23T22:26:31.000Z"
-        },
-        {
-          "id": "vc_dotey_80a61b9faf",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Orange AI: 看到即梦上的新模型这么贵，联想到最近总结出来的一个ROI 定律。 大模型训练和使用都遵循 ROI 定律 今天大家都去做coding和短剧 就是因为 算力、...",
-          "url": "https://x.com/dotey/status/2069544470756905104",
-          "postedAt": "2026-06-23T21:58:05.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_12ef041f50",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "RT Lena: Introducing yes&, the social platform built for creation. Creativity has never happened in isolation. A style. A pose. A sound. An outfit. We...",
-          "url": "https://x.com/zarazhangrui/status/2069523218172715116",
-          "postedAt": "2026-06-23T18:24:02.000Z"
         },
         {
           "id": "vc_karpathy_73f51710a3",
@@ -360,55 +405,10 @@
           "title": "OpenAI for Samsung:",
           "url": "https://x.com/gdb/status/2069232102483378395",
           "postedAt": "2026-06-23T01:32:32.000Z"
-        },
-        {
-          "id": "vc_steipete_7cf0bc3fc5",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT jason: another Codex for OSS update: Oh My Zsh Ollama MarkItDown Langflow scrcpy LangChain llama.cpp shadcn/ui RustDesk three.js v2rayN Browser Use...",
-          "url": "https://x.com/steipete/status/2069240753994530929",
-          "postedAt": "2026-06-22T22:44:01.000Z"
-        },
-        {
-          "id": "vc_gdb_6a163cc64a",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Patch the Planet: using frontier AI and working with professional security researchers to secure critical OSS projects",
-          "url": "https://x.com/gdb/status/2069182357144580584",
-          "postedAt": "2026-06-22T22:14:52.000Z"
-        },
-        {
-          "id": "vc_gdb_1c02d1a6f8",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Codex Security plugin for security teams: deep scans, validating findings, tracing attack paths, building threat models, generating codebase-specific ...",
-          "url": "https://x.com/gdb/status/2069128701850386834",
-          "postedAt": "2026-06-22T18:41:39.000Z"
-        },
-        {
-          "id": "vc_sama_eac2b1e57f",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "We want to help all companies be secure, working with the USG and the security ecosystem. *The full version of GPT-5.5-Cyber is here; state of the art...",
-          "url": "https://x.com/sama/status/2069121360744550796",
-          "postedAt": "2026-06-22T18:12:29.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_cb9efc1920",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "今天，我终于拿到了微信Agent小微的灰度内测资格。 花了一个小时上手体验了一圈，激动得连发了两条朋友圈。 我本来以为是只会做一些通用的东西，比如调调小程序...",
-          "url": "https://x.com/Khazix0918/status/2069082627836109026",
-          "postedAt": "2026-06-22T15:38:34.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-24T15:06:38.323Z",
+      "lastUpdated": "2026-06-25T04:33:22.188Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -592,7 +592,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-24T15:06:39.826Z",
+      "lastUpdated": "2026-06-25T04:33:23.693Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -685,6 +685,94 @@
       },
       "articles": [
         {
+          "id": "om_b86026c972",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "The top tech Prime Day deals to shop on day two",
+          "url": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
+          "postedAt": "2026-06-24T23:49:51.000Z"
+        },
+        {
+          "id": "om_3005abda87",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Best Prime Day Deals on LED Masks and Hair Growth Tools That Actually Work",
+          "url": "https://www.wired.com/story/best-led-devices-prime-day-deals-2026/",
+          "postedAt": "2026-06-24T22:38:22.000Z"
+        },
+        {
+          "id": "om_9269f4879e",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta brings back Facebook Creator Studio",
+          "url": "https://www.socialmediatoday.com/news/meta-brings-back-facebook-creator-studio/823716/",
+          "postedAt": "2026-06-24T20:44:53.000Z"
+        },
+        {
+          "id": "om_b7024825b2",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Facebook rolls out an AI companion app for creators",
+          "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+          "postedAt": "2026-06-24T17:16:24.000Z"
+        },
+        {
+          "id": "om_b136df6a53",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart gets bullish on advertising business with Vibe.co acquisition",
+          "url": "https://www.retaildive.com/news/walmart-vibeco-acquisition-bullish-retail-advertising-business/823672/",
+          "postedAt": "2026-06-24T17:08:00.000Z"
+        },
+        {
+          "id": "om_1b710bc366",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why this branding expert thinks a trendy brand identity can be a weakness",
+          "url": "https://www.marketingbrew.com/stories/cannes-lions-red-antler-emily-heyward-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-24T16:51:25.000Z"
+        },
+        {
+          "id": "om_32bfdf81b2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target launches back-to-school season — and the first test of its turnaround",
+          "url": "https://www.retaildive.com/news/target-launches-back-to-school-season-first-test-turnaround/823628/",
+          "postedAt": "2026-06-24T16:25:00.000Z"
+        },
+        {
+          "id": "om_bd8078e551",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Beyond QR Codes: Matty Beckerman on the Future of Interactive Media",
+          "url": "https://www.adweek.com/commerce/beyond-qr-codes-matty-beckerman-on-the-future-of-interactive-media/",
+          "postedAt": "2026-06-24T16:11:32.000Z"
+        },
+        {
+          "id": "om_6b1b563ef0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Most Creative Patriotic Packaging for America’s 250th Birthday",
+          "url": "https://www.adweek.com/brand-marketing/the-most-creative-patriotic-packaging-for-americas-250th-birthday/",
+          "postedAt": "2026-06-24T15:59:13.000Z"
+        },
+        {
+          "id": "om_c592354423",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "SURVEY: Help Us Improve ADWEEK Awards",
+          "url": "https://www.adweek.com/brand-marketing/survey-help-us-improve-adweek-awards/",
+          "postedAt": "2026-06-24T14:57:36.000Z"
+        },
+        {
+          "id": "om_a20a121dcf",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Marketers Can Align AI With Real Business Growth",
+          "url": "https://www.adweek.com/media/how-marketers-can-align-ai-with-real-business-growth/",
+          "postedAt": "2026-06-24T14:49:08.000Z"
+        },
+        {
           "id": "om_924277b3a3",
           "source": "Marketing Dive",
           "lang": "en",
@@ -717,6 +805,14 @@
           "postedAt": "2026-06-24T12:25:27.000Z"
         },
         {
+          "id": "om_1cdd1dc76a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "3 Lessons Brands Can Learn From Bravo’s Summer House Virality",
+          "url": "https://www.adweek.com/brand-marketing/3-lessons-brands-can-learn-from-bravos-summer-house-virality/",
+          "postedAt": "2026-06-24T12:23:05.000Z"
+        },
+        {
           "id": "om_6f3826d19b",
           "source": "Marketing Brew",
           "lang": "en",
@@ -733,14 +829,6 @@
           "postedAt": "2026-06-24T12:00:23.000Z"
         },
         {
-          "id": "om_10f02b4171",
-          "source": "Wired",
-          "lang": "en",
-          "title": "We're Tracking Prime Day Live To Find Sales Worth Shopping in 2026",
-          "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-24-2026/",
-          "postedAt": "2026-06-24T11:28:17.000Z"
-        },
-        {
           "id": "om_d1d9955cca",
           "source": "Marketing Brew",
           "lang": "en",
@@ -749,104 +837,16 @@
           "postedAt": "2026-06-24T07:33:46.000Z"
         },
         {
-          "id": "om_6d1b14b969",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
-          "url": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
-          "postedAt": "2026-06-24T00:30:00.000Z"
-        },
-        {
-          "id": "om_c4ec7ca3d7",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
-          "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-          "postedAt": "2026-06-23T23:30:00.000Z"
-        },
-        {
           "id": "om_b235c5ec9c",
           "source": "Social Media Today",
           "lang": "en",
           "title": "TikTok partners with fitness tracking app",
           "url": "https://www.socialmediatoday.com/news/tiktok-partners-with-fitness-tracking-app/823599/",
           "postedAt": "2026-06-23T23:19:04.000Z"
-        },
-        {
-          "id": "om_ea03e83965",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Starbucks pilots TikTok program for boosting employee-generated content",
-          "url": "https://www.marketingdive.com/news/starbucks-pilots-tiktok-program-for-boosting-employee-generated-content/823565/",
-          "postedAt": "2026-06-23T21:12:00.000Z"
-        },
-        {
-          "id": "om_076d8febd0",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Klue says hackers stole credential from 2022 that led to customer data breaches",
-          "url": "https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/",
-          "postedAt": "2026-06-23T19:43:56.000Z"
-        },
-        {
-          "id": "om_6ff38ed1f0",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Bots are taking over the internet. What’s a brand to do?",
-          "url": "https://www.marketingbrew.com/stories/bot-internet-brands?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-23T17:55:05.000Z"
-        },
-        {
-          "id": "om_3179204dd4",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "LiveRamp CEO dishes on OpenAI partnership, looming Publicis acquisition",
-          "url": "https://www.marketingdive.com/news/liveramp-ceo-dishes-on-openai-partnership-looming-publicis-acquisition/823481/",
-          "postedAt": "2026-06-23T17:52:00.000Z"
-        },
-        {
-          "id": "om_e14a3b1150",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ashley Graham Is Loyal to JCPenney, Even at the Cost of a Little Glam",
-          "url": "https://www.adweek.com/brand-marketing/ashley-graham-is-loyal-to-jcpenney-even-at-the-cost-of-a-little-glam/",
-          "postedAt": "2026-06-23T16:56:23.000Z"
-        },
-        {
-          "id": "om_2a4c4058ed",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Culture as a Dinner Party: How Brands Earn Their Seat at the Table",
-          "url": "https://www.adweek.com/brand-marketing/culture-as-a-dinner-party-how-brands-earn-their-seat-at-the-table/",
-          "postedAt": "2026-06-23T16:37:39.000Z"
-        },
-        {
-          "id": "om_f7a28111dd",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Unilever’s Branden Goodman on the New Rules of Consumer Discovery",
-          "url": "https://www.adweek.com/brand-marketing/unilevers-branden-goodman-on-the-new-rules-of-consumer-discovery/",
-          "postedAt": "2026-06-23T16:27:49.000Z"
-        },
-        {
-          "id": "om_0f04c30cfb",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Best Buy CFO to exit",
-          "url": "https://www.retaildive.com/news/best-buy-cfo-matt-bilunas-exits/823494/",
-          "postedAt": "2026-06-23T16:14:00.000Z"
-        },
-        {
-          "id": "om_42af772bf8",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Cannes 2026: It’s getting hot in here",
-          "url": "https://www.marketingbrew.com/stories/cannes-2026-day-two-dispatch?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-23T16:07:15.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-24T15:06:41.918Z",
+      "lastUpdated": "2026-06-25T04:33:25.763Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
