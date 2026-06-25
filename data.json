@@ -227,6 +227,51 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_4851933259",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Fable 5 还没有回来",
+          "url": "https://x.com/dotey/status/2070153590342123836",
+          "postedAt": "2026-06-25T14:34:12.000Z"
+        },
+        {
+          "id": "vc_dotey_7c22584a09",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT Gezi: 孤落寡闻了，原来这些都是大家已经实践过的了 来自 @tmr11235 的blog https://blog.xlab.app/p/6a966aeb/ 还找到了 https://pi.dev/packages/pi-contex...",
+          "url": "https://x.com/dotey/status/2070152180603006985",
+          "postedAt": "2026-06-25T11:31:32.000Z"
+        },
+        {
+          "id": "vc_dotey_0259f9b19f",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 噪点noisepoint: 用宝玉老师 @dotey 的desgin skill做了个概念科普视频，直接把之前写的一篇git入门的文章仍他了，初版效果比想的要好很多，关键是方便，几分...",
+          "url": "https://x.com/dotey/status/2070149459892187463",
+          "postedAt": "2026-06-25T08:21:19.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_2125e4f117",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2070014478029103104",
+          "url": "https://x.com/Khazix0918/status/2070047038188957757",
+          "postedAt": "2026-06-25T07:30:48.000Z"
+        },
+        {
+          "id": "vc_dotey_96392e8822",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 铁锤人: 最近，很多人说豆包2.1 PRO在编程方面可用！！ 但很少人实际跑一个项目去测试它，我自己也好奇它到底行不行？ 所以，我准备让豆包自己看抖音，然后把...",
+          "url": "https://x.com/dotey/status/2070154538569314452",
+          "postedAt": "2026-06-25T04:21:43.000Z"
+        },
+        {
           "id": "vc_dotey_c29e35fd14",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -281,15 +326,6 @@
           "postedAt": "2026-06-24T21:05:07.000Z"
         },
         {
-          "id": "vc_dotey_070a88e9f2",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "据 WIRED 报道，在围绕 Fable 5 模型解禁的谈判中，Anthropic 联合创始人 Tom Brown 已经取代 Amodei，成为与特朗普政府对话的主要代表。一位直接了解通话内容的...",
-          "url": "https://x.com/dotey/status/2069847686992314492",
-          "postedAt": "2026-06-24T18:18:39.000Z"
-        },
-        {
           "id": "vc_gdb_451c99539e",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -297,15 +333,6 @@
           "title": "Big improvements to GPT-5.5 Instant, including being much more fun to talk to. Give it a try:",
           "url": "https://x.com/gdb/status/2069845493199597944",
           "postedAt": "2026-06-24T18:09:56.000Z"
-        },
-        {
-          "id": "vc_dotey_0011d1afb6",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "看起来Fable 5快要回归了，而且永久包含在订阅中。但不知道是否要更严格的身份认证才能用",
-          "url": "https://x.com/dotey/status/2069831225745813711",
-          "postedAt": "2026-06-24T17:13:14.000Z"
         },
         {
           "id": "vc_steipete_5be3ab551f",
@@ -326,15 +353,6 @@
           "postedAt": "2026-06-24T06:42:09.000Z"
         },
         {
-          "id": "vc_dotey_f2f1c1d30b",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 数字生命卡兹克: http://x.com/i/article/2069669405785772032",
-          "url": "https://x.com/dotey/status/2069676011763970342",
-          "postedAt": "2026-06-24T06:42:09.000Z"
-        },
-        {
           "id": "vc_steipete_d49323d2c5",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -342,15 +360,6 @@
           "title": "RT OpenClaw🦞: 🦞 OpenClaw 2026.6.10 just dropped. Just a small release to keep things brewing: ⚡ Automatic fast mode for short talks 🧠 Much m...",
           "url": "https://x.com/steipete/status/2069692403238539675",
           "postedAt": "2026-06-24T05:56:47.000Z"
-        },
-        {
-          "id": "vc_dotey_d388cb50f4",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "吃的bug多，拉的bug也多……",
-          "url": "https://x.com/dotey/status/2069602746450284614",
-          "postedAt": "2026-06-24T02:05:20.000Z"
         },
         {
           "id": "vc_steipete_2988b8c549",
@@ -396,19 +405,10 @@
           "title": "I feel the same about shared office spaces.",
           "url": "https://x.com/steipete/status/2069254835686576316",
           "postedAt": "2026-06-23T03:02:52.000Z"
-        },
-        {
-          "id": "vc_gdb_0ed6536538",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "OpenAI for Samsung:",
-          "url": "https://x.com/gdb/status/2069232102483378395",
-          "postedAt": "2026-06-23T01:32:32.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-25T04:33:22.188Z",
+      "lastUpdated": "2026-06-25T15:11:25.689Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -499,7 +499,7 @@
           "id": "en_pod_the_knowledge_project_2a0e0efe2b",
           "source": "The Knowledge Project",
           "platform": "podcast",
-          "topic": "Dr. Giulia Enders: How to Nourish Your Gut (And Keep It Thriving for Life)",
+          "topic": "How to Repair and Nourish Your Gut | Dr. Giulia Enders",
           "url": "https://fs.blog/knowledge-project-podcast/dr-giulia-enders/",
           "postedAt": "2026-06-18T09:45:00.000Z"
         },
@@ -534,14 +534,6 @@
           "topic": "The hidden pattern behind successful products | Mark Pincus (founder of Zynga)",
           "url": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful",
           "postedAt": "2026-06-14T12:31:44.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_22af2bbf42",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "Mental Models That Change How You Think | Bill Gurley",
-          "url": "https://fs.blog/knowledge-project-podcast/bill-gurley/",
-          "postedAt": "2026-06-04T09:30:00.000Z"
         }
       ],
       "books": [
@@ -592,10 +584,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-25T04:33:23.693Z",
+      "lastUpdated": "2026-06-25T15:11:27.529Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "11 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -685,12 +677,132 @@
       },
       "articles": [
         {
-          "id": "om_b86026c972",
-          "source": "The Verge",
+          "id": "om_d9d9e3a6f2",
+          "source": "Marketing Dive",
           "lang": "en",
-          "title": "The top tech Prime Day deals to shop on day two",
-          "url": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
-          "postedAt": "2026-06-24T23:49:51.000Z"
+          "title": "Taco Bell gives away emotional-support tacos as World Cup nerves run high",
+          "url": "https://www.marketingdive.com/news/taco-bell-gives-away-emotional-support-tacos-as-world-cup-nerves-run-high/823674/",
+          "postedAt": "2026-06-25T14:43:00.000Z"
+        },
+        {
+          "id": "om_a463407ca5",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: Meta launches integrated booking for lead ads",
+          "url": "https://www.marketingdive.com/news/sociable-meta-launches-integrated-booking-for-lead-ads/823766/",
+          "postedAt": "2026-06-25T14:40:00.000Z"
+        },
+        {
+          "id": "om_e8237446e7",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Cannes 2026: That’s all, folks",
+          "url": "https://www.marketingbrew.com/stories/cannes-2026-day-four-reddit?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-25T14:05:16.000Z"
+        },
+        {
+          "id": "om_f76f8953cf",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Backroom: The weight-loss era is not just about selling clothes",
+          "url": "https://www.retaildive.com/news/podcast-the-backroom-glp1-weight-loss-era-not-just-selling-clothes/823700/",
+          "postedAt": "2026-06-25T13:58:00.000Z"
+        },
+        {
+          "id": "om_554b85a65e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "As agentic advertising floods Cannes, Amazon touts its Alexa advantage",
+          "url": "https://www.marketingdive.com/news/as-agentic-advertising-floods-cannes-amazon-touts-its-alexa-advantage/823730/",
+          "postedAt": "2026-06-25T13:30:00.000Z"
+        },
+        {
+          "id": "om_5ac31e2ebc",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sprite unites tastemakers and fans to debate hip-hop’s greatest hits",
+          "url": "https://www.marketingdive.com/news/sprite-unites-tastemakers-and-fans-to-debate-hip-hops-greatest-hits/823546/",
+          "postedAt": "2026-06-25T13:00:00.000Z"
+        },
+        {
+          "id": "om_e8818af004",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Marketing’s next target audience? Co-workers",
+          "url": "https://www.marketingdive.com/news/marketings-next-target-audience-co-workers/822185/",
+          "postedAt": "2026-06-25T11:00:00.000Z"
+        },
+        {
+          "id": "om_84724612fd",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Meet the New Executive Running Microsoft’s $20B Ad Empire, Right as AI Rewrites the Rules",
+          "url": "https://www.adweek.com/brand-marketing/meet-the-new-executive-running-microsofts-20b-ad-empire-right-as-ai-rewrites-the-rules/",
+          "postedAt": "2026-06-25T10:46:26.000Z"
+        },
+        {
+          "id": "om_5141c9f65c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How to Make AI Work for Your Marketing Team",
+          "url": "https://www.adweek.com/creativity/how-to-make-ai-work-for-your-marketing-team/",
+          "postedAt": "2026-06-25T10:32:01.000Z"
+        },
+        {
+          "id": "om_27629438c2",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "YouTube Content Creators Are Winning the AI Search Game, Jellyfish Data Finds",
+          "url": "https://www.adweek.com/media/youtube-content-creators-are-winning-the-ai-search-game-jellyfish-data-finds/",
+          "postedAt": "2026-06-25T10:23:49.000Z"
+        },
+        {
+          "id": "om_c7f5f2c7a9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How AI Is Shaping the Future of Marketing",
+          "url": "https://www.adweek.com/brand-marketing/how-ai-is-shaping-the-future-of-marketing/",
+          "postedAt": "2026-06-25T10:23:22.000Z"
+        },
+        {
+          "id": "om_16c1c7a8d8",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Finding a Balance Between Short-Term Sales and Long-Term Growth",
+          "url": "https://www.adweek.com/brand-marketing/finding-a-balance-between-short-term-sales-and-long-term-growth/",
+          "postedAt": "2026-06-25T10:22:30.000Z"
+        },
+        {
+          "id": "om_60c7c58676",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Retail Media’s Next Evolution Starts With Smarter Questions",
+          "url": "https://www.adweek.com/commerce/retail-medias-next-evolution-starts-with-smarter-questions/",
+          "postedAt": "2026-06-25T10:20:27.000Z"
+        },
+        {
+          "id": "om_f3b1db24e9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Building Brands in Today’s Social-First Landscape",
+          "url": "https://www.adweek.com/social-marketing/building-brands-in-todays-social-first-landscape/",
+          "postedAt": "2026-06-25T10:19:58.000Z"
+        },
+        {
+          "id": "om_9d593aa0fe",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Human Advantage in an AI-Powered Marketing World",
+          "url": "https://www.adweek.com/brand-marketing/the-human-advantage-in-an-ai-powered-marketing-world/",
+          "postedAt": "2026-06-25T10:19:06.000Z"
+        },
+        {
+          "id": "om_8a859be897",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why Adobe was pretty much everywhere at this year’s Cannes Lions",
+          "url": "https://www.marketingbrew.com/stories/cannes-lions-adobe-dave-justice-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-25T07:26:53.000Z"
         },
         {
           "id": "om_3005abda87",
@@ -723,130 +835,10 @@
           "title": "Walmart gets bullish on advertising business with Vibe.co acquisition",
           "url": "https://www.retaildive.com/news/walmart-vibeco-acquisition-bullish-retail-advertising-business/823672/",
           "postedAt": "2026-06-24T17:08:00.000Z"
-        },
-        {
-          "id": "om_1b710bc366",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why this branding expert thinks a trendy brand identity can be a weakness",
-          "url": "https://www.marketingbrew.com/stories/cannes-lions-red-antler-emily-heyward-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-24T16:51:25.000Z"
-        },
-        {
-          "id": "om_32bfdf81b2",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target launches back-to-school season — and the first test of its turnaround",
-          "url": "https://www.retaildive.com/news/target-launches-back-to-school-season-first-test-turnaround/823628/",
-          "postedAt": "2026-06-24T16:25:00.000Z"
-        },
-        {
-          "id": "om_bd8078e551",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Beyond QR Codes: Matty Beckerman on the Future of Interactive Media",
-          "url": "https://www.adweek.com/commerce/beyond-qr-codes-matty-beckerman-on-the-future-of-interactive-media/",
-          "postedAt": "2026-06-24T16:11:32.000Z"
-        },
-        {
-          "id": "om_6b1b563ef0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Most Creative Patriotic Packaging for America’s 250th Birthday",
-          "url": "https://www.adweek.com/brand-marketing/the-most-creative-patriotic-packaging-for-americas-250th-birthday/",
-          "postedAt": "2026-06-24T15:59:13.000Z"
-        },
-        {
-          "id": "om_c592354423",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "SURVEY: Help Us Improve ADWEEK Awards",
-          "url": "https://www.adweek.com/brand-marketing/survey-help-us-improve-adweek-awards/",
-          "postedAt": "2026-06-24T14:57:36.000Z"
-        },
-        {
-          "id": "om_a20a121dcf",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Marketers Can Align AI With Real Business Growth",
-          "url": "https://www.adweek.com/media/how-marketers-can-align-ai-with-real-business-growth/",
-          "postedAt": "2026-06-24T14:49:08.000Z"
-        },
-        {
-          "id": "om_924277b3a3",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Albertsons integrates branded product placement into AI-search tool",
-          "url": "https://www.marketingdive.com/news/albertsons-media-collective-criteo-ai-search-brand-ads-ecommerce-omnichannel/823636/",
-          "postedAt": "2026-06-24T14:34:00.000Z"
-        },
-        {
-          "id": "om_82a09636e8",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Cannes 2026: Worth it",
-          "url": "https://www.marketingbrew.com/stories/cannes-lions-2026-day-3-dispatch-raye?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-24T14:10:06.000Z"
-        },
-        {
-          "id": "om_b9e39b8c0a",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Expedia Group drives brand impact with creators — and Barbie’s Ken",
-          "url": "https://www.marketingdive.com/news/how-expedia-group-drives-brand-impact-with-creators-barbie-ken/823592/",
-          "postedAt": "2026-06-24T13:00:00.000Z"
-        },
-        {
-          "id": "om_5873dac985",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "The unexpected brands running creators want to work with",
-          "url": "https://www.marketingbrew.com/stories/running-influencer-sponsorships?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-24T12:25:27.000Z"
-        },
-        {
-          "id": "om_1cdd1dc76a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "3 Lessons Brands Can Learn From Bravo’s Summer House Virality",
-          "url": "https://www.adweek.com/brand-marketing/3-lessons-brands-can-learn-from-bravos-summer-house-virality/",
-          "postedAt": "2026-06-24T12:23:05.000Z"
-        },
-        {
-          "id": "om_6f3826d19b",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Comscore and Amazon DSP are teaming up as Amazon’s CTV ambitions grow",
-          "url": "https://www.marketingbrew.com/stories/comscore-amazon-dsp-ctv-partnership?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-24T12:10:00.000Z"
-        },
-        {
-          "id": "om_a54ccce569",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Consumers are sick and tired of hearing about AI all the time",
-          "url": "https://www.marketingbrew.com/stories/harris-poll-ai-fatigue-less-trust-ai-generated-ads-cannes-lions?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-24T12:00:23.000Z"
-        },
-        {
-          "id": "om_d1d9955cca",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How PacSun’s CEO is putting her trust in Gen Z",
-          "url": "https://www.marketingbrew.com/stories/cannes-lions-pacsun-brieane-olson-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-24T07:33:46.000Z"
-        },
-        {
-          "id": "om_b235c5ec9c",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok partners with fitness tracking app",
-          "url": "https://www.socialmediatoday.com/news/tiktok-partners-with-fitness-tracking-app/823599/",
-          "postedAt": "2026-06-23T23:19:04.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-25T04:33:25.763Z",
+      "lastUpdated": "2026-06-25T15:11:30.148Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
