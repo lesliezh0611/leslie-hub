@@ -227,6 +227,24 @@
       ],
       "articles": [
         {
+          "id": "vc_Khazix0918_7154ae3d26",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2070397668338307072",
+          "url": "https://x.com/Khazix0918/status/2070403772703285575",
+          "postedAt": "2026-06-26T07:08:20.000Z"
+        },
+        {
+          "id": "vc_dotey_a1327b98f6",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "PPT Master 确实是最好的 PPT Skill 我新的 skill 写PPT也挺好，能导出可编辑版本，可以AI配图，可以在 Agent 内置浏览器中标记编辑 https://github.com/jimliu/...",
+          "url": "https://x.com/dotey/status/2070379812594606188",
+          "postedAt": "2026-06-26T05:33:07.000Z"
+        },
+        {
           "id": "vc_steipete_489b7bbe24",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -326,15 +344,6 @@
           "postedAt": "2026-06-25T14:34:12.000Z"
         },
         {
-          "id": "vc_dotey_7c22584a09",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT Gezi: 孤落寡闻了，原来这些都是大家已经实践过的了 来自 @tmr11235 的blog https://blog.xlab.app/p/6a966aeb/ 还找到了 https://pi.dev/packages/pi-contex...",
-          "url": "https://x.com/dotey/status/2070152180603006985",
-          "postedAt": "2026-06-25T11:31:32.000Z"
-        },
-        {
           "id": "vc_Khazix0918_2125e4f117",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -396,19 +405,10 @@
           "title": "Big improvements to GPT-5.5 Instant, including being much more fun to talk to. Give it a try:",
           "url": "https://x.com/gdb/status/2069845493199597944",
           "postedAt": "2026-06-24T18:09:56.000Z"
-        },
-        {
-          "id": "vc_gdb_75be5fd325",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Introducing Jalapeño — designed from scratch for LLM inference over nine months, accelerated by our models. Perf per watt looking incredible.",
-          "url": "https://x.com/gdb/status/2069809298612621629",
-          "postedAt": "2026-06-24T15:46:06.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-26T04:39:03.138Z",
+      "lastUpdated": "2026-06-26T14:47:04.770Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -584,7 +584,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-26T04:39:04.456Z",
+      "lastUpdated": "2026-06-26T14:47:05.941Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -677,28 +677,52 @@
       },
       "articles": [
         {
+          "id": "om_36af359e91",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "For America250, brands are taking a unifying—and decidedly unpolitical—approach",
+          "url": "https://www.marketingbrew.com/stories/america250-brand-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-26T13:27:32.000Z"
+        },
+        {
+          "id": "om_45ebc8494f",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "5 Cannes Lions takeaways as marketers wrestle with an industry in flux",
+          "url": "https://www.marketingdive.com/news/5-cannes-lions-takeaways-as-marketers-wrestle-with-an-industry-in-flux/823850/",
+          "postedAt": "2026-06-26T12:53:00.000Z"
+        },
+        {
+          "id": "om_1efab2496b",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Campaign Trail: The Honest Company delivers women’s bathroom truths",
+          "url": "https://www.marketingdive.com/news/campaign-trail-the-honest-company-delivers-womens-bathroom-truths/823679/",
+          "postedAt": "2026-06-26T11:00:00.000Z"
+        },
+        {
+          "id": "om_33d5003f7b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "EXCLUSIVE: McCann Global Chairman Daryl Lee to Depart",
+          "url": "https://www.adweek.com/agencies/exclusive-mccann-global-chairman-daryl-lee-to-depart/",
+          "postedAt": "2026-06-26T08:14:02.000Z"
+        },
+        {
+          "id": "om_e0dfe55d43",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "7 Things That Hit This Week: Walmart’s Blockbuster M&A, Pacvue Goes Offsite, and ChatGPT Ads Grow",
+          "url": "https://www.adweek.com/commerce/7-things-that-hit-this-week-walmarts-blockbuster-ma-pacvue-goes-offsite-and-chatgpt-ads-grow/",
+          "postedAt": "2026-06-26T06:00:00.000Z"
+        },
+        {
           "id": "om_43954c2eca",
           "source": "Social Media Today",
           "lang": "en",
           "title": "Google adds AI guidance to Demand Gen campaigns",
           "url": "https://www.socialmediatoday.com/news/google-adds-ai-guidance-to-demand-gen-campaigns/823847/",
           "postedAt": "2026-06-25T22:54:41.000Z"
-        },
-        {
-          "id": "om_42b2a1fe14",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "YouTube updates Shorts to make it even more like TikTok",
-          "url": "https://www.theverge.com/streaming/957422/youtube-shorts-update-tiktok",
-          "postedAt": "2026-06-25T22:09:21.000Z"
-        },
-        {
-          "id": "om_6c5aa26730",
-          "source": "Wired",
-          "lang": "en",
-          "title": "We're Live-Blogging For The Real Heads Still Shopping Amazon Prime Day",
-          "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/",
-          "postedAt": "2026-06-25T19:13:33.000Z"
         },
         {
           "id": "om_c24c53ef5b",
@@ -757,22 +781,6 @@
           "postedAt": "2026-06-25T17:17:52.000Z"
         },
         {
-          "id": "om_ddcde0c761",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Evaluating Retail Media Strategies as AI Changes Discovery",
-          "url": "https://www.adweek.com/commerce/evaluating-retail-media-strategies-as-ai-changes-discovery/",
-          "postedAt": "2026-06-25T17:17:34.000Z"
-        },
-        {
-          "id": "om_af03508e3a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The New Rules of Retail",
-          "url": "https://www.adweek.com/commerce/the-new-rules-of-retail/",
-          "postedAt": "2026-06-25T17:17:15.000Z"
-        },
-        {
           "id": "om_19b1470692",
           "source": "TechCrunch",
           "lang": "en",
@@ -827,18 +835,10 @@
           "title": "Sociable: Meta launches integrated booking for lead ads",
           "url": "https://www.marketingdive.com/news/sociable-meta-launches-integrated-booking-for-lead-ads/823766/",
           "postedAt": "2026-06-25T14:40:00.000Z"
-        },
-        {
-          "id": "om_e8237446e7",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Cannes 2026: That’s all, folks",
-          "url": "https://www.marketingbrew.com/stories/cannes-2026-day-four-reddit?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-25T14:05:16.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-26T04:39:06.689Z",
+      "lastUpdated": "2026-06-26T14:47:07.749Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
