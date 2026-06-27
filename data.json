@@ -227,6 +227,87 @@
       ],
       "articles": [
         {
+          "id": "vc_steipete_d2d3a277e3",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "I love how Apple notarization breaks multiple times a year until I manually log in and accept some new legal agreements.",
+          "url": "https://x.com/steipete/status/2070626638887555227",
+          "postedAt": "2026-06-26T21:53:55.000Z"
+        },
+        {
+          "id": "vc_sama_9928ad7772",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "in other news, we updated the 5.5 instant model used in chatgpt this week. i like its vibes.",
+          "url": "https://x.com/sama/status/2070612055225483692",
+          "postedAt": "2026-06-26T20:55:58.000Z"
+        },
+        {
+          "id": "vc_dotey_845cda17ac",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "OpenAI 今天（6月26日）发布了新一代模型 GPT-5.6，包含三个版本：旗舰级 Sol、日常级 Terra 和经济级 Luna。但这条新闻最值得关注的地方不在模型本身，而在发布...",
+          "url": "https://x.com/dotey/status/2070589767608144370",
+          "postedAt": "2026-06-26T19:27:24.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_e8d3028870",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "\"You do not need God to write your emails\"",
+          "url": "https://x.com/zarazhangrui/status/2070589563429691698",
+          "postedAt": "2026-06-26T19:26:36.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_bb7e5f6d8f",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "Btw I used Borumi to create this video, and it's genuinely the most underrated video recording/editing tool out there It's like Screen Studio + Descri...",
+          "url": "https://x.com/zarazhangrui/status/2070584764315402405",
+          "postedAt": "2026-06-26T19:07:32.000Z"
+        },
+        {
+          "id": "vc_steipete_4782b8e01f",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Dwarkesh Patel: What does the next training paradigm look like? 0:00:00 – The big research bet the labs are making 0:02:12 – Grindability is just...",
+          "url": "https://x.com/steipete/status/2070573061909385558",
+          "postedAt": "2026-06-26T16:56:55.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_9e000928f0",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "If you can’t recognize AI slop, you’re probably producing it",
+          "url": "https://x.com/zarazhangrui/status/2070534139363897676",
+          "postedAt": "2026-06-26T15:46:22.000Z"
+        },
+        {
+          "id": "vc_sama_5ac1e4bee9",
+          "source": "sama",
+          "sourceName": "Sam Altman",
+          "platform": "x",
+          "title": "RT The OpenAI Foundation: The OpenAI Foundation is joining Intercept as a founding partner through our AI resilience program. As AI accelerates advanc...",
+          "url": "https://x.com/sama/status/2070665432814723299",
+          "postedAt": "2026-06-26T15:43:11.000Z"
+        },
+        {
+          "id": "vc_dotey_84fdfe9c45",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RT 岚叔: 嘿嘿，skill写好了，开源了朋友们！ 实现原理： 把文章或架构内容先压缩成一份结构化 JSON spec，再由本地 Python + Pillow 渲染出黑底手绘风格的 PNG...",
+          "url": "https://x.com/dotey/status/2070722541618934018",
+          "postedAt": "2026-06-26T09:35:09.000Z"
+        },
+        {
           "id": "vc_Khazix0918_7154ae3d26",
           "source": "Khazix0918",
           "sourceName": "Khazix",
@@ -234,6 +315,15 @@
           "title": "http://x.com/i/article/2070397668338307072",
           "url": "https://x.com/Khazix0918/status/2070403772703285575",
           "postedAt": "2026-06-26T07:08:20.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_c6c0b25b30",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "RT Can Vardar: we are living in a time where, if you can be consistent with what you do and show it online, you are unstoppable most people do not lac...",
+          "url": "https://x.com/zarazhangrui/status/2070585837646123154",
+          "postedAt": "2026-06-26T06:30:26.000Z"
         },
         {
           "id": "vc_dotey_a1327b98f6",
@@ -308,24 +398,6 @@
           "postedAt": "2026-06-25T17:16:08.000Z"
         },
         {
-          "id": "vc_dotey_fc80d93614",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "帮转，DeepSeek 招多模态方向工程师研究员",
-          "url": "https://x.com/dotey/status/2070191454052319599",
-          "postedAt": "2026-06-25T17:04:39.000Z"
-        },
-        {
-          "id": "vc_steipete_e9ecb65275",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Lindsay McCallum Rémy: the one where @benthompson discovers codex https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience...",
-          "url": "https://x.com/steipete/status/2070357093874635154",
-          "postedAt": "2026-06-25T16:53:42.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_d7ac2f453b",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -333,82 +405,10 @@
           "title": "This is a big misconception Somehow people think building an audience is antithetical to building a company. In fact, they’re increasing becoming the...",
           "url": "https://x.com/zarazhangrui/status/2070188279941738952",
           "postedAt": "2026-06-25T16:52:02.000Z"
-        },
-        {
-          "id": "vc_dotey_4851933259",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Fable 5 还没有回来",
-          "url": "https://x.com/dotey/status/2070153590342123836",
-          "postedAt": "2026-06-25T14:34:12.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_2125e4f117",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2070014478029103104",
-          "url": "https://x.com/Khazix0918/status/2070047038188957757",
-          "postedAt": "2026-06-25T07:30:48.000Z"
-        },
-        {
-          "id": "vc_steipete_689349c9e0",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Ed Zitron: SoftBank’s investor presentation is one of the greatest things ever made. I’ve been thinking about it all day. These are the real slid...",
-          "url": "https://x.com/steipete/status/2070182490929816005",
-          "postedAt": "2026-06-25T03:46:00.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_b48ac93ec8",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "The best founders post on X",
-          "url": "https://x.com/zarazhangrui/status/2069951925202903176",
-          "postedAt": "2026-06-25T01:12:51.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_fa17ea1668",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "The root cause of procrastination is not the lack of time It’s the lack of courage",
-          "url": "https://x.com/zarazhangrui/status/2069908420384428132",
-          "postedAt": "2026-06-24T22:19:59.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_381d4fe46d",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "“Community is your users’ relationships with you and with each other, and most teams never think to design it Community is the new moat Features get...",
-          "url": "https://x.com/zarazhangrui/status/2069900496304042343",
-          "postedAt": "2026-06-24T21:48:29.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_e15924a104",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "My favorite session from @figma Config today was this talk by Chelsea Larson, the head of content design at Anthropic Here are my notes",
-          "url": "https://x.com/zarazhangrui/status/2069897318627946702",
-          "postedAt": "2026-06-24T21:35:52.000Z"
-        },
-        {
-          "id": "vc_gdb_451c99539e",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Big improvements to GPT-5.5 Instant, including being much more fun to talk to. Give it a try:",
-          "url": "https://x.com/gdb/status/2069845493199597944",
-          "postedAt": "2026-06-24T18:09:56.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-26T14:47:04.770Z",
+      "lastUpdated": "2026-06-27T04:15:36.845Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -584,7 +584,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-26T14:47:05.941Z",
+      "lastUpdated": "2026-06-27T04:15:37.998Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -677,6 +677,86 @@
       },
       "articles": [
         {
+          "id": "om_38d815f3f2",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Universal Is Skipping Influencer Screenings for ‘The Odyssey.’ Film Critics Are Thrilled",
+          "url": "https://www.wired.com/story/film-critics-thrilled-universal-is-skipping-influencer-screenings-for-the-odyssey/",
+          "postedAt": "2026-06-26T23:15:28.000Z"
+        },
+        {
+          "id": "om_2f9eb844fa",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ogilvy Takes Home Cannes Lions Network of the Year for 2026",
+          "url": "https://www.adweek.com/agencies/ogilvy-takes-home-cannes-lions-network-of-the-year-for-2026/",
+          "postedAt": "2026-06-26T17:55:20.000Z"
+        },
+        {
+          "id": "om_b76da8648f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "LePub Milan Wins Cannes Lions Agency of the Year 2026",
+          "url": "https://www.adweek.com/agencies/lepub-milan-wins-cannes-lions-agency-of-the-year-2026/",
+          "postedAt": "2026-06-26T16:46:03.000Z"
+        },
+        {
+          "id": "om_23f1c0f3d8",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Claude’s Super Bowl Campaign Mocking AI Ads Wins Cannes Lions Film Grand Prix",
+          "url": "https://www.adweek.com/creativity/claudes-super-bowl-campaign-mocking-ai-ads-wins-cannes-lions-film-grand-prix/",
+          "postedAt": "2026-06-26T16:30:00.000Z"
+        },
+        {
+          "id": "om_64a17d0269",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "TikTok’s road to becoming a super app",
+          "url": "https://techcrunch.com/2026/06/26/tiktoks-road-to-becoming-a-super-app/",
+          "postedAt": "2026-06-26T16:29:48.000Z"
+        },
+        {
+          "id": "om_c24e2d6049",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Jonathan Mildenhall: A Lack of Kindness Is Costing Brands the Creative Work They Want",
+          "url": "https://www.adweek.com/brand-marketing/jonathan-mildenhall-a-lack-of-kindness-is-costing-brands-the-creative-work-they-want/",
+          "postedAt": "2026-06-26T16:18:33.000Z"
+        },
+        {
+          "id": "om_e99497b70d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Life in the Fast Lane: Agency Execs Reflect on Leaving Holdcos",
+          "url": "https://www.adweek.com/agencies/life-in-the-fast-lane-agency-execs-reflect-on-leaving-holdcos/",
+          "postedAt": "2026-06-26T16:13:14.000Z"
+        },
+        {
+          "id": "om_51e8ab56b8",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "J.C. Penney, Aéropostale link loyalty programs",
+          "url": "https://www.retaildive.com/news/jc-penney-aeropostale-link-loyalty-programs/823886/",
+          "postedAt": "2026-06-26T16:01:00.000Z"
+        },
+        {
+          "id": "om_91180fc63f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Reformation’s IPO filing shows profitable DTC is possible",
+          "url": "https://www.retaildive.com/news/reformation-ipo-profitable-dtc-model-possible/823857/",
+          "postedAt": "2026-06-26T15:43:00.000Z"
+        },
+        {
+          "id": "om_b794171348",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: Adidas gets into PPE, Five Below fills out C-suite",
+          "url": "https://www.retaildive.com/news/adidas-safety-footwear-five-below-chief-retail-officer-nike-china-strategy/823842/",
+          "postedAt": "2026-06-26T14:55:00.000Z"
+        },
+        {
           "id": "om_36af359e91",
           "source": "Marketing Brew",
           "lang": "en",
@@ -701,92 +781,12 @@
           "postedAt": "2026-06-26T11:00:00.000Z"
         },
         {
-          "id": "om_33d5003f7b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "EXCLUSIVE: McCann Global Chairman Daryl Lee to Depart",
-          "url": "https://www.adweek.com/agencies/exclusive-mccann-global-chairman-daryl-lee-to-depart/",
-          "postedAt": "2026-06-26T08:14:02.000Z"
-        },
-        {
-          "id": "om_e0dfe55d43",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "7 Things That Hit This Week: Walmart’s Blockbuster M&A, Pacvue Goes Offsite, and ChatGPT Ads Grow",
-          "url": "https://www.adweek.com/commerce/7-things-that-hit-this-week-walmarts-blockbuster-ma-pacvue-goes-offsite-and-chatgpt-ads-grow/",
-          "postedAt": "2026-06-26T06:00:00.000Z"
-        },
-        {
           "id": "om_43954c2eca",
           "source": "Social Media Today",
           "lang": "en",
           "title": "Google adds AI guidance to Demand Gen campaigns",
           "url": "https://www.socialmediatoday.com/news/google-adds-ai-guidance-to-demand-gen-campaigns/823847/",
           "postedAt": "2026-06-25T22:54:41.000Z"
-        },
-        {
-          "id": "om_c24c53ef5b",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-          "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-          "postedAt": "2026-06-25T17:38:27.000Z"
-        },
-        {
-          "id": "om_2ea129edbd",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Creating Campaigns That Become Cultural Moments",
-          "url": "https://www.adweek.com/creativity/creating-campaigns-that-become-cultural-moments/",
-          "postedAt": "2026-06-25T17:33:48.000Z"
-        },
-        {
-          "id": "om_4fec1c81f6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Relevance Can Never Be Scripted in Marketing",
-          "url": "https://www.adweek.com/creativity/relevance-can-never-be-scripted-in-marketing/",
-          "postedAt": "2026-06-25T17:27:41.000Z"
-        },
-        {
-          "id": "om_b39d98a9bf",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "2 Industry Legends Predict How AI Will Impact the Agency Business",
-          "url": "https://www.adweek.com/agencies/2-industry-legends-predict-how-ai-will-impact-the-agency-business/",
-          "postedAt": "2026-06-25T17:27:07.000Z"
-        },
-        {
-          "id": "om_d97721a4a4",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Future of Healthcare Marketing",
-          "url": "https://www.adweek.com/brand-marketing/the-future-of-healthcare-marketing/",
-          "postedAt": "2026-06-25T17:23:31.000Z"
-        },
-        {
-          "id": "om_e290100a88",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Building Confidence in an AI-Powered Marketing Future",
-          "url": "https://www.adweek.com/brand-marketing/building-confidence-in-an-ai-powered-marketing-future/",
-          "postedAt": "2026-06-25T17:22:27.000Z"
-        },
-        {
-          "id": "om_6647b0cd42",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Making the Last Mile Count",
-          "url": "https://www.adweek.com/commerce/making-the-last-mile-count/",
-          "postedAt": "2026-06-25T17:17:52.000Z"
-        },
-        {
-          "id": "om_19b1470692",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
-          "url": "https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/",
-          "postedAt": "2026-06-25T16:40:15.000Z"
         },
         {
           "id": "om_39d596ba9c",
@@ -838,7 +838,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-26T14:47:07.749Z",
+      "lastUpdated": "2026-06-27T04:15:39.460Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
