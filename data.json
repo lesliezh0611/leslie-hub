@@ -227,6 +227,24 @@
       ],
       "articles": [
         {
+          "id": "vc_zarazhangrui_763fe63c61",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "http://x.com/i/article/2070730492236947456",
+          "url": "https://x.com/zarazhangrui/status/2070735964788658598",
+          "postedAt": "2026-06-27T05:08:21.000Z"
+        },
+        {
+          "id": "vc_dotey_419797467d",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Anthropic 的 Mythos 5 被美国政府封禁两周后，今天拿到了部分解禁令。 商务部长 Howard Lutnick 致信 Anthropic，批准约 100 家美国政府机构和关键基础设施企业...",
+          "url": "https://x.com/dotey/status/2070735570830020939",
+          "postedAt": "2026-06-27T05:06:47.000Z"
+        },
+        {
           "id": "vc_steipete_d2d3a277e3",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -371,15 +389,6 @@
           "postedAt": "2026-06-25T23:00:58.000Z"
         },
         {
-          "id": "vc_dotey_11ac774762",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "OpenAI CEO Sam Altman 本周三在公司内部 Q&A 上告诉员工，GPT-5.6 将以“有限预览”的方式发布，只向一小部分合作伙伴开放。原因是联邦政府要求的。 周四，Altm...",
-          "url": "https://x.com/dotey/status/2070269155706577013",
-          "postedAt": "2026-06-25T22:13:25.000Z"
-        },
-        {
           "id": "vc_gdb_6cfb39e0ee",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -396,19 +405,10 @@
           "title": "RT Alex Lieberman: I stole this idea and now use it with every single employee. It’s the best illustration I’ve seen of teaching someone to be high ...",
           "url": "https://x.com/steipete/status/2070360627386962008",
           "postedAt": "2026-06-25T17:16:08.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_d7ac2f453b",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "This is a big misconception Somehow people think building an audience is antithetical to building a company. In fact, they’re increasing becoming the...",
-          "url": "https://x.com/zarazhangrui/status/2070188279941738952",
-          "postedAt": "2026-06-25T16:52:02.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-27T04:15:36.845Z",
+      "lastUpdated": "2026-06-27T14:05:39.423Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -584,7 +584,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-27T04:15:37.998Z",
+      "lastUpdated": "2026-06-27T14:05:40.610Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -677,6 +677,38 @@
       },
       "articles": [
         {
+          "id": "om_055f257184",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Rethinking Audience Strategy for an Unpredictable Consumer",
+          "url": "https://www.adweek.com/commerce/rethinking-audience-strategy-for-an-unpredictable-consumer/",
+          "postedAt": "2026-06-27T08:59:12.000Z"
+        },
+        {
+          "id": "om_6427c06e6e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "When Past Purchases Aren’t Enough Anymore",
+          "url": "https://www.adweek.com/performance-marketing/when-past-purchases-arent-enough-anymore/",
+          "postedAt": "2026-06-27T08:57:17.000Z"
+        },
+        {
+          "id": "om_2584b5be99",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Campaign That Listened Before It Launched",
+          "url": "https://www.adweek.com/social-marketing/the-campaign-that-listened-before-it-launched/",
+          "postedAt": "2026-06-27T08:56:34.000Z"
+        },
+        {
+          "id": "om_61a5d35ab2",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Sports Marketing Is About Memorable Moments, Not Brand Awareness",
+          "url": "https://www.adweek.com/brand-marketing/sports-marketing-is-about-memorable-moments-not-brand-awareness/",
+          "postedAt": "2026-06-27T08:56:09.000Z"
+        },
+        {
           "id": "om_38d815f3f2",
           "source": "Wired",
           "lang": "en",
@@ -715,22 +747,6 @@
           "title": "TikTok’s road to becoming a super app",
           "url": "https://techcrunch.com/2026/06/26/tiktoks-road-to-becoming-a-super-app/",
           "postedAt": "2026-06-26T16:29:48.000Z"
-        },
-        {
-          "id": "om_c24e2d6049",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Jonathan Mildenhall: A Lack of Kindness Is Costing Brands the Creative Work They Want",
-          "url": "https://www.adweek.com/brand-marketing/jonathan-mildenhall-a-lack-of-kindness-is-costing-brands-the-creative-work-they-want/",
-          "postedAt": "2026-06-26T16:18:33.000Z"
-        },
-        {
-          "id": "om_e99497b70d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Life in the Fast Lane: Agency Execs Reflect on Leaving Holdcos",
-          "url": "https://www.adweek.com/agencies/life-in-the-fast-lane-agency-execs-reflect-on-leaving-holdcos/",
-          "postedAt": "2026-06-26T16:13:14.000Z"
         },
         {
           "id": "om_51e8ab56b8",
@@ -819,26 +835,10 @@
           "title": "Mickey Drexler: ‘If I make a mistake, I make a mistake’",
           "url": "https://www.retaildive.com/news/mickey-drexler-alex-mill-gap-mistakes/823740/",
           "postedAt": "2026-06-25T15:45:00.000Z"
-        },
-        {
-          "id": "om_d9d9e3a6f2",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Taco Bell gives away emotional-support tacos as World Cup nerves run high",
-          "url": "https://www.marketingdive.com/news/taco-bell-gives-away-emotional-support-tacos-as-world-cup-nerves-run-high/823674/",
-          "postedAt": "2026-06-25T14:43:00.000Z"
-        },
-        {
-          "id": "om_a463407ca5",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: Meta launches integrated booking for lead ads",
-          "url": "https://www.marketingdive.com/news/sociable-meta-launches-integrated-booking-for-lead-ads/823766/",
-          "postedAt": "2026-06-25T14:40:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-27T04:15:39.460Z",
+      "lastUpdated": "2026-06-27T14:05:42.034Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
