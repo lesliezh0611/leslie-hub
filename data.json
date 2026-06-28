@@ -227,6 +227,78 @@
       ],
       "articles": [
         {
+          "id": "vc_dotey_412774e189",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "好多 Vue & Vite 大神",
+          "url": "https://x.com/dotey/status/2071076395300663438",
+          "postedAt": "2026-06-28T03:41:06.000Z"
+        },
+        {
+          "id": "vc_steipete_f9e069a33d",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "\"History teaches us that access blockage rarely stops determined users.\" https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in",
+          "url": "https://x.com/steipete/status/2071063588329193551",
+          "postedAt": "2026-06-28T02:50:12.000Z"
+        },
+        {
+          "id": "vc_steipete_fb5eaf9eb6",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Got excited about the 52’ Dell, but it requires BetterDisplay hacking to get a usable resolution, but then I get weird flickers and also startup wake...",
+          "url": "https://x.com/steipete/status/2071034256051097799",
+          "postedAt": "2026-06-28T00:53:39.000Z"
+        },
+        {
+          "id": "vc_steipete_a51907854a",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Damián🦞: When @steipete launched @openclaw I was so amazed by all the interesting deep use cases for personal use. For me though was “these de...",
+          "url": "https://x.com/steipete/status/2071027437199135138",
+          "postedAt": "2026-06-28T00:25:52.000Z"
+        },
+        {
+          "id": "vc_steipete_a3d3929001",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "We getting Apple Car after all",
+          "url": "https://x.com/steipete/status/2071017970953052160",
+          "postedAt": "2026-06-27T23:48:56.000Z"
+        },
+        {
+          "id": "vc_steipete_b4ca86d59c",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "wouldn’t that also make the tools better for humans",
+          "url": "https://x.com/steipete/status/2071017724495774049",
+          "postedAt": "2026-06-27T23:47:57.000Z"
+        },
+        {
+          "id": "vc_dotey_0ca83fa23e",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "现在 Codex/Claude Code 的上下文压缩确实做的挺好了，加上 Prompt Caching，一个 Session 内持续聊没那么大成本压力了。我现在也越来越多的在一个会话内继续任...",
+          "url": "https://x.com/dotey/status/2070904833939329477",
+          "postedAt": "2026-06-27T16:19:22.000Z"
+        },
+        {
+          "id": "vc_dotey_c10687578d",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "讨厌老登，理解老登，成为老登",
+          "url": "https://x.com/dotey/status/2070891191898370086",
+          "postedAt": "2026-06-27T15:25:10.000Z"
+        },
+        {
           "id": "vc_zarazhangrui_763fe63c61",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -243,15 +315,6 @@
           "title": "Anthropic 的 Mythos 5 被美国政府封禁两周后，今天拿到了部分解禁令。 商务部长 Howard Lutnick 致信 Anthropic，批准约 100 家美国政府机构和关键基础设施企业...",
           "url": "https://x.com/dotey/status/2070735570830020939",
           "postedAt": "2026-06-27T05:06:47.000Z"
-        },
-        {
-          "id": "vc_steipete_d2d3a277e3",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "I love how Apple notarization breaks multiple times a year until I manually log in and accept some new legal agreements.",
-          "url": "https://x.com/steipete/status/2070626638887555227",
-          "postedAt": "2026-06-26T21:53:55.000Z"
         },
         {
           "id": "vc_sama_9928ad7772",
@@ -290,15 +353,6 @@
           "postedAt": "2026-06-26T19:07:32.000Z"
         },
         {
-          "id": "vc_steipete_4782b8e01f",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Dwarkesh Patel: What does the next training paradigm look like? 0:00:00 – The big research bet the labs are making 0:02:12 – Grindability is just...",
-          "url": "https://x.com/steipete/status/2070573061909385558",
-          "postedAt": "2026-06-26T16:56:55.000Z"
-        },
-        {
           "id": "vc_zarazhangrui_9e000928f0",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -315,15 +369,6 @@
           "title": "RT The OpenAI Foundation: The OpenAI Foundation is joining Intercept as a founding partner through our AI resilience program. As AI accelerates advanc...",
           "url": "https://x.com/sama/status/2070665432814723299",
           "postedAt": "2026-06-26T15:43:11.000Z"
-        },
-        {
-          "id": "vc_dotey_84fdfe9c45",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RT 岚叔: 嘿嘿，skill写好了，开源了朋友们！ 实现原理： 把文章或架构内容先压缩成一份结构化 JSON spec，再由本地 Python + Pillow 渲染出黑底手绘风格的 PNG...",
-          "url": "https://x.com/dotey/status/2070722541618934018",
-          "postedAt": "2026-06-26T09:35:09.000Z"
         },
         {
           "id": "vc_Khazix0918_7154ae3d26",
@@ -344,42 +389,6 @@
           "postedAt": "2026-06-26T06:30:26.000Z"
         },
         {
-          "id": "vc_dotey_a1327b98f6",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "PPT Master 确实是最好的 PPT Skill 我新的 skill 写PPT也挺好，能导出可编辑版本，可以AI配图，可以在 Agent 内置浏览器中标记编辑 https://github.com/jimliu/...",
-          "url": "https://x.com/dotey/status/2070379812594606188",
-          "postedAt": "2026-06-26T05:33:07.000Z"
-        },
-        {
-          "id": "vc_steipete_489b7bbe24",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "truth",
-          "url": "https://x.com/steipete/status/2070355589994336345",
-          "postedAt": "2026-06-26T03:56:52.000Z"
-        },
-        {
-          "id": "vc_steipete_e7b759a6b0",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Hannes Rudolph: OpenClaw or BrokenClaw? First off, I’d like to introduce myself. My name is Hannes Rudolph, and I’m the new Community Manager her...",
-          "url": "https://x.com/steipete/status/2070355341448183810",
-          "postedAt": "2026-06-26T02:40:50.000Z"
-        },
-        {
-          "id": "vc_dotey_829a1853e4",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Codex 发展趋势必然是 Agent OS 而不仅仅是 Agent Office",
-          "url": "https://x.com/dotey/status/2070296441495454134",
-          "postedAt": "2026-06-26T00:01:50.000Z"
-        },
-        {
           "id": "vc_gdb_b711488502",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -396,19 +405,10 @@
           "title": "Agents are being adopted very quickly and accelerating work. How this looks across OpenAI itself:",
           "url": "https://x.com/gdb/status/2070199649823297653",
           "postedAt": "2026-06-25T17:37:13.000Z"
-        },
-        {
-          "id": "vc_steipete_470cbf8500",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Alex Lieberman: I stole this idea and now use it with every single employee. It’s the best illustration I’ve seen of teaching someone to be high ...",
-          "url": "https://x.com/steipete/status/2070360627386962008",
-          "postedAt": "2026-06-25T17:16:08.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-27T14:05:39.423Z",
+      "lastUpdated": "2026-06-28T04:49:03.935Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_be88824edb",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: Beating a career slump, adding more structure to an established team, questions for new-team 1:1s, the evolving shape of the growth role, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-beating-a-career",
+          "postedAt": "2026-06-27T17:09:06.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_2c99441032",
           "source": "Lenny's Podcast",
@@ -526,14 +534,6 @@
           "topic": "How Braintrust uses AI agents, evals, and CI to ship better software | Ankur Goyal",
           "url": "https://www.lennysnewsletter.com/p/how-braintrust-uses-ai-agents-evals",
           "postedAt": "2026-06-15T12:04:03.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_21d7efc54b",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "The hidden pattern behind successful products | Mark Pincus (founder of Zynga)",
-          "url": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful",
-          "postedAt": "2026-06-14T12:31:44.000Z"
         }
       ],
       "books": [
@@ -584,7 +584,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-27T14:05:40.610Z",
+      "lastUpdated": "2026-06-28T04:49:05.914Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -838,7 +838,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-27T14:05:42.034Z",
+      "lastUpdated": "2026-06-28T04:49:08.716Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
