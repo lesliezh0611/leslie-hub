@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-28T04:49:03.935Z",
+      "lastUpdated": "2026-06-28T14:14:30.319Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_6208239ba0",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
+          "url": "https://www.lennysnewsletter.com/p/openai-codex-lead-on-the-new-shape",
+          "postedAt": "2026-06-28T12:31:54.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_be88824edb",
           "source": "Lenny's Podcast",
@@ -526,14 +534,6 @@
           "topic": "🎙️ How I AI: Claude Fable 5 review & How Braintrust uses AI agents, evals, and CI to ship better software",
           "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and",
           "postedAt": "2026-06-15T15:01:32.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_c2449f3f97",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How Braintrust uses AI agents, evals, and CI to ship better software | Ankur Goyal",
-          "url": "https://www.lennysnewsletter.com/p/how-braintrust-uses-ai-agents-evals",
-          "postedAt": "2026-06-15T12:04:03.000Z"
         }
       ],
       "books": [
@@ -584,7 +584,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-28T04:49:05.914Z",
+      "lastUpdated": "2026-06-28T14:14:31.434Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -676,6 +676,14 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_e952906b0f",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+          "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+          "postedAt": "2026-06-28T05:00:00.000Z"
+        },
         {
           "id": "om_055f257184",
           "source": "Adweek",
@@ -827,18 +835,10 @@
           "title": "Sephora introduces store quiet hours",
           "url": "https://www.retaildive.com/news/sephora-introduces-store-quiet-hours/823757/",
           "postedAt": "2026-06-25T16:03:00.000Z"
-        },
-        {
-          "id": "om_aa6e579b5c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Mickey Drexler: ‘If I make a mistake, I make a mistake’",
-          "url": "https://www.retaildive.com/news/mickey-drexler-alex-mill-gap-mistakes/823740/",
-          "postedAt": "2026-06-25T15:45:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-28T04:49:08.716Z",
+      "lastUpdated": "2026-06-28T14:14:33.091Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
