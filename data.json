@@ -227,6 +227,105 @@
       ],
       "articles": [
         {
+          "id": "vc_gdb_adc5207d0f",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "Sol & Daybreak",
+          "url": "https://x.com/gdb/status/2071453977091477911",
+          "postedAt": "2026-06-29T04:41:28.000Z"
+        },
+        {
+          "id": "vc_steipete_3e9b46f79c",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Tak 🦞: AI agents may end up doing more for web accessibility than accessibility laws. Agents rely on accessibility APIs to use computers and web...",
+          "url": "https://x.com/steipete/status/2071415080739283012",
+          "postedAt": "2026-06-29T01:43:40.000Z"
+        },
+        {
+          "id": "vc_steipete_3f35cfcf78",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "Tried to sign up to @ATT four times now and they reject me and aren’t telling me why. What’s the next best unlimited phone/data plan for the SF area...",
+          "url": "https://x.com/steipete/status/2071382416703500510",
+          "postedAt": "2026-06-28T23:57:07.000Z"
+        },
+        {
+          "id": "vc_dotey_3f3b908c9b",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "这种AI视频也挺有意思的😂",
+          "url": "https://x.com/dotey/status/2071357697585242300",
+          "postedAt": "2026-06-28T22:18:53.000Z"
+        },
+        {
+          "id": "vc_dotey_a5d3f646d7",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Anthropic 上周发布了 Claude Tag，目前以 beta 形式面向 Claude Team 和 Enterprise 用户开放。 简单说，Claude Tag 让团队可以在 Slack 频道里 @ Claude，像 @...",
+          "url": "https://x.com/dotey/status/2071356525570924563",
+          "postedAt": "2026-06-28T22:14:14.000Z"
+        },
+        {
+          "id": "vc_gdb_66a03abaed",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "ChatGPT for helping in daily life in Bengaluru: https://www.ndtv.com/offbeat/auto-rickshaw-driver-shows-how-chatgpt-helps-in-daily-life-openai-reacts-...",
+          "url": "https://x.com/gdb/status/2071355421819097520",
+          "postedAt": "2026-06-28T22:09:51.000Z"
+        },
+        {
+          "id": "vc_dotey_18af40ccbe",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "RepoPrompt 已经开源了，社区版（Community Edition）已上线 GitHub。 背后的故事是这样的：几个月前，OpenAI 开发者体验负责人 Romain Huet 找到 Provencher，...",
+          "url": "https://x.com/dotey/status/2071348102263378085",
+          "postedAt": "2026-06-28T21:40:46.000Z"
+        },
+        {
+          "id": "vc_zarazhangrui_b680457a84",
+          "source": "zarazhangrui",
+          "sourceName": "张睿",
+          "platform": "x",
+          "title": "For every hour you spend on building the product, spend two hours on explaining it, demonstrating it, selling it, teaching it… This is my favorite pa...",
+          "url": "https://x.com/zarazhangrui/status/2071319754128978030",
+          "postedAt": "2026-06-28T19:48:07.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_1115394b86",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "Claude Code闹鬼了？我也没手动叫停啊，我对话里更没说过要写一份详细的文档啊，这TM到底哪来的？？？ 这两天串信息感觉有点过于严重了吧，我的代码里经常会有莫...",
+          "url": "https://x.com/Khazix0918/status/2071275686330069209",
+          "postedAt": "2026-06-28T16:53:00.000Z"
+        },
+        {
+          "id": "vc_steipete_3591acd5be",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Hamel Husain: Codex desktop is miles ahead of Claude for remote access via mobile or another computer. Codex allows you to see **all** running sess...",
+          "url": "https://x.com/steipete/status/2071394921463029840",
+          "postedAt": "2026-06-28T16:18:15.000Z"
+        },
+        {
+          "id": "vc_steipete_b4ba038c09",
+          "source": "steipete",
+          "sourceName": "Peter Steinberger",
+          "platform": "x",
+          "title": "RT Pavel Larionov: Re @0xDesigner friend's codex after talking to my codex",
+          "url": "https://x.com/steipete/status/2071333876430155785",
+          "postedAt": "2026-06-28T14:05:55.000Z"
+        },
+        {
           "id": "vc_dotey_412774e189",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -245,42 +344,6 @@
           "postedAt": "2026-06-28T02:50:12.000Z"
         },
         {
-          "id": "vc_steipete_fb5eaf9eb6",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Got excited about the 52’ Dell, but it requires BetterDisplay hacking to get a usable resolution, but then I get weird flickers and also startup wake...",
-          "url": "https://x.com/steipete/status/2071034256051097799",
-          "postedAt": "2026-06-28T00:53:39.000Z"
-        },
-        {
-          "id": "vc_steipete_a51907854a",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Damián🦞: When @steipete launched @openclaw I was so amazed by all the interesting deep use cases for personal use. For me though was “these de...",
-          "url": "https://x.com/steipete/status/2071027437199135138",
-          "postedAt": "2026-06-28T00:25:52.000Z"
-        },
-        {
-          "id": "vc_steipete_a3d3929001",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "We getting Apple Car after all",
-          "url": "https://x.com/steipete/status/2071017970953052160",
-          "postedAt": "2026-06-27T23:48:56.000Z"
-        },
-        {
-          "id": "vc_steipete_b4ca86d59c",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "wouldn’t that also make the tools better for humans",
-          "url": "https://x.com/steipete/status/2071017724495774049",
-          "postedAt": "2026-06-27T23:47:57.000Z"
-        },
-        {
           "id": "vc_dotey_0ca83fa23e",
           "source": "dotey",
           "sourceName": "宝玉",
@@ -288,15 +351,6 @@
           "title": "现在 Codex/Claude Code 的上下文压缩确实做的挺好了，加上 Prompt Caching，一个 Session 内持续聊没那么大成本压力了。我现在也越来越多的在一个会话内继续任...",
           "url": "https://x.com/dotey/status/2070904833939329477",
           "postedAt": "2026-06-27T16:19:22.000Z"
-        },
-        {
-          "id": "vc_dotey_c10687578d",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "讨厌老登，理解老登，成为老登",
-          "url": "https://x.com/dotey/status/2070891191898370086",
-          "postedAt": "2026-06-27T15:25:10.000Z"
         },
         {
           "id": "vc_zarazhangrui_763fe63c61",
@@ -308,15 +362,6 @@
           "postedAt": "2026-06-27T05:08:21.000Z"
         },
         {
-          "id": "vc_dotey_419797467d",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Anthropic 的 Mythos 5 被美国政府封禁两周后，今天拿到了部分解禁令。 商务部长 Howard Lutnick 致信 Anthropic，批准约 100 家美国政府机构和关键基础设施企业...",
-          "url": "https://x.com/dotey/status/2070735570830020939",
-          "postedAt": "2026-06-27T05:06:47.000Z"
-        },
-        {
           "id": "vc_sama_9928ad7772",
           "source": "sama",
           "sourceName": "Sam Altman",
@@ -324,15 +369,6 @@
           "title": "in other news, we updated the 5.5 instant model used in chatgpt this week. i like its vibes.",
           "url": "https://x.com/sama/status/2070612055225483692",
           "postedAt": "2026-06-26T20:55:58.000Z"
-        },
-        {
-          "id": "vc_dotey_845cda17ac",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "OpenAI 今天（6月26日）发布了新一代模型 GPT-5.6，包含三个版本：旗舰级 Sol、日常级 Terra 和经济级 Luna。但这条新闻最值得关注的地方不在模型本身，而在发布...",
-          "url": "https://x.com/dotey/status/2070589767608144370",
-          "postedAt": "2026-06-26T19:27:24.000Z"
         },
         {
           "id": "vc_zarazhangrui_e8d3028870",
@@ -353,6 +389,15 @@
           "postedAt": "2026-06-26T19:07:32.000Z"
         },
         {
+          "id": "vc_gdb_9d26061d49",
+          "source": "gdb",
+          "sourceName": "Greg Brockman",
+          "platform": "x",
+          "title": "GPT-5.6 Sol preview — it's a good model:",
+          "url": "https://x.com/gdb/status/2070555985840906333",
+          "postedAt": "2026-06-26T17:13:10.000Z"
+        },
+        {
           "id": "vc_zarazhangrui_9e000928f0",
           "source": "zarazhangrui",
           "sourceName": "张睿",
@@ -360,55 +405,10 @@
           "title": "If you can’t recognize AI slop, you’re probably producing it",
           "url": "https://x.com/zarazhangrui/status/2070534139363897676",
           "postedAt": "2026-06-26T15:46:22.000Z"
-        },
-        {
-          "id": "vc_sama_5ac1e4bee9",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "RT The OpenAI Foundation: The OpenAI Foundation is joining Intercept as a founding partner through our AI resilience program. As AI accelerates advanc...",
-          "url": "https://x.com/sama/status/2070665432814723299",
-          "postedAt": "2026-06-26T15:43:11.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_7154ae3d26",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2070397668338307072",
-          "url": "https://x.com/Khazix0918/status/2070403772703285575",
-          "postedAt": "2026-06-26T07:08:20.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_c6c0b25b30",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "RT Can Vardar: we are living in a time where, if you can be consistent with what you do and show it online, you are unstoppable most people do not lac...",
-          "url": "https://x.com/zarazhangrui/status/2070585837646123154",
-          "postedAt": "2026-06-26T06:30:26.000Z"
-        },
-        {
-          "id": "vc_gdb_b711488502",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "digital ocean for running a codex remote session:",
-          "url": "https://x.com/gdb/status/2070281121594827025",
-          "postedAt": "2026-06-25T23:00:58.000Z"
-        },
-        {
-          "id": "vc_gdb_6cfb39e0ee",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Agents are being adopted very quickly and accelerating work. How this looks across OpenAI itself:",
-          "url": "https://x.com/gdb/status/2070199649823297653",
-          "postedAt": "2026-06-25T17:37:13.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-28T14:14:30.319Z",
+      "lastUpdated": "2026-06-29T04:58:40.504Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -584,7 +584,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-28T14:14:31.434Z",
+      "lastUpdated": "2026-06-29T04:58:41.650Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -749,14 +749,6 @@
           "postedAt": "2026-06-26T16:30:00.000Z"
         },
         {
-          "id": "om_64a17d0269",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "TikTok’s road to becoming a super app",
-          "url": "https://techcrunch.com/2026/06/26/tiktoks-road-to-becoming-a-super-app/",
-          "postedAt": "2026-06-26T16:29:48.000Z"
-        },
-        {
           "id": "om_51e8ab56b8",
           "source": "Retail Dive",
           "lang": "en",
@@ -835,10 +827,18 @@
           "title": "Sephora introduces store quiet hours",
           "url": "https://www.retaildive.com/news/sephora-introduces-store-quiet-hours/823757/",
           "postedAt": "2026-06-25T16:03:00.000Z"
+        },
+        {
+          "id": "om_aa6e579b5c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Mickey Drexler: ‘If I make a mistake, I make a mistake’",
+          "url": "https://www.retaildive.com/news/mickey-drexler-alex-mill-gap-mistakes/823740/",
+          "postedAt": "2026-06-25T15:45:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-28T14:14:33.091Z",
+      "lastUpdated": "2026-06-29T04:58:43.390Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
