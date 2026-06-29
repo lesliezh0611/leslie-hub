@@ -227,6 +227,42 @@
       ],
       "articles": [
         {
+          "id": "vc_Khazix0918_1650265790",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "Claude最近实在没法用了，Opus 4.8幻觉问题爆炸，还总是莫名其妙出现一些别人的信息串到我的对话里，整个周末我代码都被幻觉问题改崩了好几次，每次任务做到一半...",
+          "url": "https://x.com/Khazix0918/status/2071534744622559628",
+          "postedAt": "2026-06-29T10:02:25.000Z"
+        },
+        {
+          "id": "vc_dotey_cb456ba46b",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "😂",
+          "url": "https://x.com/dotey/status/2071465874205069659",
+          "postedAt": "2026-06-29T05:28:45.000Z"
+        },
+        {
+          "id": "vc_dotey_08e76f6512",
+          "source": "dotey",
+          "sourceName": "宝玉",
+          "platform": "x",
+          "title": "Ford 重新雇了 350 名老工程师回来，因为 AI 质检系统没能达到预期。 过去三年，福特悄悄招回了 350 名资深工程师，有的是退休或离职的老员工，有的是从供应商那...",
+          "url": "https://x.com/dotey/status/2071463765598409034",
+          "postedAt": "2026-06-29T05:20:22.000Z"
+        },
+        {
+          "id": "vc_Khazix0918_4ec74031a0",
+          "source": "Khazix0918",
+          "sourceName": "Khazix",
+          "platform": "x",
+          "title": "http://x.com/i/article/2071459685358792704",
+          "url": "https://x.com/Khazix0918/status/2071460641374646684",
+          "postedAt": "2026-06-29T05:07:57.000Z"
+        },
+        {
           "id": "vc_gdb_adc5207d0f",
           "source": "gdb",
           "sourceName": "Greg Brockman",
@@ -326,15 +362,6 @@
           "postedAt": "2026-06-28T14:05:55.000Z"
         },
         {
-          "id": "vc_dotey_412774e189",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "好多 Vue & Vite 大神",
-          "url": "https://x.com/dotey/status/2071076395300663438",
-          "postedAt": "2026-06-28T03:41:06.000Z"
-        },
-        {
           "id": "vc_steipete_f9e069a33d",
           "source": "steipete",
           "sourceName": "Peter Steinberger",
@@ -342,15 +369,6 @@
           "title": "\"History teaches us that access blockage rarely stops determined users.\" https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in",
           "url": "https://x.com/steipete/status/2071063588329193551",
           "postedAt": "2026-06-28T02:50:12.000Z"
-        },
-        {
-          "id": "vc_dotey_0ca83fa23e",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "现在 Codex/Claude Code 的上下文压缩确实做的挺好了，加上 Prompt Caching，一个 Session 内持续聊没那么大成本压力了。我现在也越来越多的在一个会话内继续任...",
-          "url": "https://x.com/dotey/status/2070904833939329477",
-          "postedAt": "2026-06-27T16:19:22.000Z"
         },
         {
           "id": "vc_zarazhangrui_763fe63c61",
@@ -387,28 +405,10 @@
           "title": "Btw I used Borumi to create this video, and it's genuinely the most underrated video recording/editing tool out there It's like Screen Studio + Descri...",
           "url": "https://x.com/zarazhangrui/status/2070584764315402405",
           "postedAt": "2026-06-26T19:07:32.000Z"
-        },
-        {
-          "id": "vc_gdb_9d26061d49",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "GPT-5.6 Sol preview — it's a good model:",
-          "url": "https://x.com/gdb/status/2070555985840906333",
-          "postedAt": "2026-06-26T17:13:10.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_9e000928f0",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "If you can’t recognize AI slop, you’re probably producing it",
-          "url": "https://x.com/zarazhangrui/status/2070534139363897676",
-          "postedAt": "2026-06-26T15:46:22.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-29T04:58:40.504Z",
+      "lastUpdated": "2026-06-29T16:10:05.047Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_e25a27469f",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
+          "postedAt": "2026-06-29T15:02:35.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_4770d09780",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
+          "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
+          "postedAt": "2026-06-29T12:03:38.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_6208239ba0",
           "source": "Lenny's Podcast",
@@ -518,22 +534,6 @@
           "topic": "How to Repair and Nourish Your Gut | Dr. Giulia Enders",
           "url": "https://fs.blog/knowledge-project-podcast/dr-giulia-enders/",
           "postedAt": "2026-06-18T09:45:00.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_0d3f0e2401",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex",
-          "url": "https://www.lennysnewsletter.com/p/how-to-design-ai-agent-loops-schedules",
-          "postedAt": "2026-06-17T12:04:04.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_d1445bb0fe",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: Claude Fable 5 review & How Braintrust uses AI agents, evals, and CI to ship better software",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and",
-          "postedAt": "2026-06-15T15:01:32.000Z"
         }
       ],
       "books": [
@@ -584,7 +584,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-29T04:58:41.650Z",
+      "lastUpdated": "2026-06-29T16:10:06.394Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -677,6 +677,150 @@
       },
       "articles": [
         {
+          "id": "om_c8f56ec56a",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Dbrand’s Steam Machine Companion Cube is canceled",
+          "url": "https://www.theverge.com/games/959056/dbrand-steam-machine-companion-cube-valve-take-down-canceled",
+          "postedAt": "2026-06-29T15:59:45.000Z"
+        },
+        {
+          "id": "om_d2ccaf8168",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How Stanley 1913 is aiming to own the summer of soccer",
+          "url": "https://www.marketingbrew.com/stories/cannes-lions-stanley-1913-ben-james-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-29T15:25:31.000Z"
+        },
+        {
+          "id": "om_e17a06f377",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Instacart is cultivating full-funnel marketing with video, AI",
+          "url": "https://www.marketingdive.com/news/how-instacart-is-cultivating-full-funnel-marketing-with-video-ai/823905/",
+          "postedAt": "2026-06-29T15:14:00.000Z"
+        },
+        {
+          "id": "om_ed5e984d68",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Consumer spending rises as inflation speeds up to three-year high",
+          "url": "https://www.retaildive.com/news/consumer-spending-rises-inflation-speeds-up-three-year-high/823861/",
+          "postedAt": "2026-06-29T14:32:00.000Z"
+        },
+        {
+          "id": "om_92fe516c14",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "What Walmart’s Vibe.co deal means for CTV, retail media convergence",
+          "url": "https://www.marketingdive.com/news/what-walmarts-vibeco-deal-means-for-ctv-retail-media-convergence/823941/",
+          "postedAt": "2026-06-29T14:23:00.000Z"
+        },
+        {
+          "id": "om_4222c98197",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "E.l.f. taps into soccer fandom with NWSL, World Cup activations",
+          "url": "https://www.marketingdive.com/news/elf-taps-into-soccer-fandom-with-nwsl-world-cup-activations/823950/",
+          "postedAt": "2026-06-29T14:18:00.000Z"
+        },
+        {
+          "id": "om_4bfc8ca7e5",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How challenger brands can stand out with fewer marketing swings",
+          "url": "https://www.marketingdive.com/news/how-challenger-brands-can-stand-out-with-fewer-marketing-swings/823549/",
+          "postedAt": "2026-06-29T13:40:00.000Z"
+        },
+        {
+          "id": "om_5be7a2d1d2",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Yahoo’s CMO wants to make longtime loyalists proud",
+          "url": "https://www.marketingbrew.com/stories/cannes-lions-yahoo-josh-line-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-29T13:36:52.000Z"
+        },
+        {
+          "id": "om_a553403eea",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How Aperol is working to make the spritz a year-round drink",
+          "url": "https://www.marketingbrew.com/stories/how-aperol-is-working-to-make-the-spritz-a-year-round-drink?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-29T13:22:43.000Z"
+        },
+        {
+          "id": "om_2bd1a4bc5c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Chief Communications Officer’s Rise as a Strategic Advisor",
+          "url": "https://www.adweek.com/brand-marketing/the-chief-communications-officers-rise-as-a-strategic-advisor/",
+          "postedAt": "2026-06-29T10:31:21.000Z"
+        },
+        {
+          "id": "om_aace2750ce",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why Desire Is an Emerging Competitive Advantage",
+          "url": "https://www.adweek.com/brand-marketing/why-desire-is-an-emerging-competitive-advantage/",
+          "postedAt": "2026-06-29T10:17:14.000Z"
+        },
+        {
+          "id": "om_2bd718c637",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "AI Is Changing How Consumers Discover Products",
+          "url": "https://www.adweek.com/commerce/ai-is-changing-how-consumers-discover-products/",
+          "postedAt": "2026-06-29T10:13:57.000Z"
+        },
+        {
+          "id": "om_88c950e271",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Some Unilever Brands Are Going All in on Social Marketing",
+          "url": "https://www.adweek.com/brand-marketing/some-unilever-brands-are-going-all-in-on-social-marketing/",
+          "postedAt": "2026-06-29T10:01:51.000Z"
+        },
+        {
+          "id": "om_8ee4da4807",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Americans are redefining success. Brands need to catch up.",
+          "url": "https://www.marketingdive.com/spons/americans-are-redefining-success-brands-need-to-catch-up/823794/",
+          "postedAt": "2026-06-29T09:00:00.000Z"
+        },
+        {
+          "id": "om_e83a0992c0",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "From foot traffic to sales: streaming ads are more than a reach play",
+          "url": "https://www.marketingdive.com/spons/from-foot-traffic-to-sales-streaming-ads-are-more-than-a-reach-play/823355/",
+          "postedAt": "2026-06-29T09:00:00.000Z"
+        },
+        {
+          "id": "om_0f5d685399",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Modernizing the retail edge—a competitive imperative",
+          "url": "https://www.retaildive.com/spons/modernizing-the-retail-edgea-competitive-imperative/823231/",
+          "postedAt": "2026-06-29T09:00:00.000Z"
+        },
+        {
+          "id": "om_2c52dc9beb",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Stocky is shutting down, but that’s not the real story",
+          "url": "https://www.retaildive.com/spons/stocky-is-shutting-down-but-thats-not-the-real-story/823354/",
+          "postedAt": "2026-06-29T09:00:00.000Z"
+        },
+        {
+          "id": "om_913547fff2",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "John Wren’s Next Move: Omnicom CEO Reveals What He’s Selling Soon and What’s Coming",
+          "url": "https://www.adweek.com/agencies/john-wren-on-the-hunt-omnicom-ceo-reveals-what-hes-selling-soon-and-whats-coming-next/",
+          "postedAt": "2026-06-29T06:00:00.000Z"
+        },
+        {
           "id": "om_e952906b0f",
           "source": "TechCrunch",
           "lang": "en",
@@ -691,154 +835,10 @@
           "title": "Rethinking Audience Strategy for an Unpredictable Consumer",
           "url": "https://www.adweek.com/commerce/rethinking-audience-strategy-for-an-unpredictable-consumer/",
           "postedAt": "2026-06-27T08:59:12.000Z"
-        },
-        {
-          "id": "om_6427c06e6e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "When Past Purchases Aren’t Enough Anymore",
-          "url": "https://www.adweek.com/performance-marketing/when-past-purchases-arent-enough-anymore/",
-          "postedAt": "2026-06-27T08:57:17.000Z"
-        },
-        {
-          "id": "om_2584b5be99",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Campaign That Listened Before It Launched",
-          "url": "https://www.adweek.com/social-marketing/the-campaign-that-listened-before-it-launched/",
-          "postedAt": "2026-06-27T08:56:34.000Z"
-        },
-        {
-          "id": "om_61a5d35ab2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Sports Marketing Is About Memorable Moments, Not Brand Awareness",
-          "url": "https://www.adweek.com/brand-marketing/sports-marketing-is-about-memorable-moments-not-brand-awareness/",
-          "postedAt": "2026-06-27T08:56:09.000Z"
-        },
-        {
-          "id": "om_38d815f3f2",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Universal Is Skipping Influencer Screenings for ‘The Odyssey.’ Film Critics Are Thrilled",
-          "url": "https://www.wired.com/story/film-critics-thrilled-universal-is-skipping-influencer-screenings-for-the-odyssey/",
-          "postedAt": "2026-06-26T23:15:28.000Z"
-        },
-        {
-          "id": "om_2f9eb844fa",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ogilvy Takes Home Cannes Lions Network of the Year for 2026",
-          "url": "https://www.adweek.com/agencies/ogilvy-takes-home-cannes-lions-network-of-the-year-for-2026/",
-          "postedAt": "2026-06-26T17:55:20.000Z"
-        },
-        {
-          "id": "om_b76da8648f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "LePub Milan Wins Cannes Lions Agency of the Year 2026",
-          "url": "https://www.adweek.com/agencies/lepub-milan-wins-cannes-lions-agency-of-the-year-2026/",
-          "postedAt": "2026-06-26T16:46:03.000Z"
-        },
-        {
-          "id": "om_23f1c0f3d8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Claude’s Super Bowl Campaign Mocking AI Ads Wins Cannes Lions Film Grand Prix",
-          "url": "https://www.adweek.com/creativity/claudes-super-bowl-campaign-mocking-ai-ads-wins-cannes-lions-film-grand-prix/",
-          "postedAt": "2026-06-26T16:30:00.000Z"
-        },
-        {
-          "id": "om_51e8ab56b8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "J.C. Penney, Aéropostale link loyalty programs",
-          "url": "https://www.retaildive.com/news/jc-penney-aeropostale-link-loyalty-programs/823886/",
-          "postedAt": "2026-06-26T16:01:00.000Z"
-        },
-        {
-          "id": "om_91180fc63f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Reformation’s IPO filing shows profitable DTC is possible",
-          "url": "https://www.retaildive.com/news/reformation-ipo-profitable-dtc-model-possible/823857/",
-          "postedAt": "2026-06-26T15:43:00.000Z"
-        },
-        {
-          "id": "om_b794171348",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Weekly Closeout: Adidas gets into PPE, Five Below fills out C-suite",
-          "url": "https://www.retaildive.com/news/adidas-safety-footwear-five-below-chief-retail-officer-nike-china-strategy/823842/",
-          "postedAt": "2026-06-26T14:55:00.000Z"
-        },
-        {
-          "id": "om_36af359e91",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "For America250, brands are taking a unifying—and decidedly unpolitical—approach",
-          "url": "https://www.marketingbrew.com/stories/america250-brand-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-26T13:27:32.000Z"
-        },
-        {
-          "id": "om_45ebc8494f",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "5 Cannes Lions takeaways as marketers wrestle with an industry in flux",
-          "url": "https://www.marketingdive.com/news/5-cannes-lions-takeaways-as-marketers-wrestle-with-an-industry-in-flux/823850/",
-          "postedAt": "2026-06-26T12:53:00.000Z"
-        },
-        {
-          "id": "om_1efab2496b",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Campaign Trail: The Honest Company delivers women’s bathroom truths",
-          "url": "https://www.marketingdive.com/news/campaign-trail-the-honest-company-delivers-womens-bathroom-truths/823679/",
-          "postedAt": "2026-06-26T11:00:00.000Z"
-        },
-        {
-          "id": "om_43954c2eca",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Google adds AI guidance to Demand Gen campaigns",
-          "url": "https://www.socialmediatoday.com/news/google-adds-ai-guidance-to-demand-gen-campaigns/823847/",
-          "postedAt": "2026-06-25T22:54:41.000Z"
-        },
-        {
-          "id": "om_39d596ba9c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "How retailers are thinking about omnichannel in the age of AI",
-          "url": "https://www.retaildive.com/news/ulta-stitch-fix-tapestry-retail-omnichannel-ai-age/823707/",
-          "postedAt": "2026-06-25T16:17:00.000Z"
-        },
-        {
-          "id": "om_88df739716",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "FAO Schwarz opens NYC location for the first time in 100 years — this time in Nordstrom",
-          "url": "https://www.retaildive.com/news/nordstrom-fao-schwarz-partner-nyc-store/823742/",
-          "postedAt": "2026-06-25T16:07:00.000Z"
-        },
-        {
-          "id": "om_d3bfa9a80a",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Sephora introduces store quiet hours",
-          "url": "https://www.retaildive.com/news/sephora-introduces-store-quiet-hours/823757/",
-          "postedAt": "2026-06-25T16:03:00.000Z"
-        },
-        {
-          "id": "om_aa6e579b5c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Mickey Drexler: ‘If I make a mistake, I make a mistake’",
-          "url": "https://www.retaildive.com/news/mickey-drexler-alex-mill-gap-mistakes/823740/",
-          "postedAt": "2026-06-25T15:45:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-29T04:58:43.390Z",
+      "lastUpdated": "2026-06-29T16:10:08.294Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
