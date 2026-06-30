@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-30T04:35:48.444Z",
+      "lastUpdated": "2026-06-30T14:45:24.051Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_371da5c202",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How top PMs increase their leverage with AI",
+          "url": "https://www.lennysnewsletter.com/p/how-top-pms-increase-their-leverage",
+          "postedAt": "2026-06-30T13:31:39.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_e25a27469f",
           "source": "Lenny's Podcast",
@@ -520,14 +528,6 @@
           "postedAt": "2026-06-21T12:31:43.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_fcd16813b1",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Fractional CPO compensation, free e-signature tools, why some users pay but never use your product, sharing Claude Code context across a team, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-fractional-cpo-compensation",
-          "postedAt": "2026-06-20T15:53:05.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_2a0e0efe2b",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -584,7 +584,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-30T04:35:49.541Z",
+      "lastUpdated": "2026-06-30T14:45:25.813Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -676,6 +676,70 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_e5d9214d5d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Consumer sentiment rises from record low on prospect of lower inflation",
+          "url": "https://www.retaildive.com/news/consumer-sentiment-record-low-prospect-lower-inflation-fed/823953/",
+          "postedAt": "2026-06-30T14:37:00.000Z"
+        },
+        {
+          "id": "om_7ef9708501",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Your brand deserves its own stage — Side Events at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/06/30/your-brand-deserves-its-own-stage-side-events-at-techcrunch-disrupt-2026/",
+          "postedAt": "2026-06-30T14:00:00.000Z"
+        },
+        {
+          "id": "om_cff37f18d9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Patriotism is no longer a campaign — it’s a branding strategy",
+          "url": "https://www.marketingdive.com/news/patriotism-is-no-longer-a-campaign-its-a-branding-strategy/823127/",
+          "postedAt": "2026-06-30T13:51:00.000Z"
+        },
+        {
+          "id": "om_af060c8383",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "A cure for Cannes Lions FOMO: What marketers might have missed",
+          "url": "https://www.marketingdive.com/news/a-cure-for-cannes-lions-fomo-what-marketers-might-have-missed/823908/",
+          "postedAt": "2026-06-30T13:47:00.000Z"
+        },
+        {
+          "id": "om_de3c891166",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Ulta’s CMO on blending brand building and omnichannel marketing",
+          "url": "https://www.marketingdive.com/news/ulta-cmo-on-blending-brand-building-omnichannel-marketing/824056/",
+          "postedAt": "2026-06-30T13:40:00.000Z"
+        },
+        {
+          "id": "om_0a23528b17",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Lyft and United Airlines Are Building the Case for Mobility as a Media Category",
+          "url": "https://www.adweek.com/commerce/how-lyft-and-united-airlines-are-building-the-case-for-mobility-as-a-media-category/",
+          "postedAt": "2026-06-30T10:39:45.000Z"
+        },
+        {
+          "id": "om_9cc6ed6405",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside Fox Sports’s World Cup marketing blitz",
+          "url": "https://www.marketingbrew.com/stories/fox-sports-world-cup-marketing?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-30T10:00:00.000Z"
+        },
+        {
+          "id": "om_4b7b41f2ea",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Embracing the AI Agency Remodel",
+          "url": "https://www.adweek.com/agencies/embracing-the-ai-agency-remodel/",
+          "postedAt": "2026-06-30T09:53:15.000Z"
+        },
         {
           "id": "om_32359cbfb0",
           "source": "Social Media Today",
@@ -771,74 +835,10 @@
           "title": "How Instacart is cultivating full-funnel marketing with video, AI",
           "url": "https://www.marketingdive.com/news/how-instacart-is-cultivating-full-funnel-marketing-with-video-ai/823905/",
           "postedAt": "2026-06-29T15:14:00.000Z"
-        },
-        {
-          "id": "om_9b03054a75",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "When Every Moment Becomes a Shopping Moment",
-          "url": "https://www.adweek.com/commerce/when-every-moment-becomes-a-shopping-moment/",
-          "postedAt": "2026-06-29T14:52:01.000Z"
-        },
-        {
-          "id": "om_ed5e984d68",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Consumer spending rises as inflation speeds up to three-year high",
-          "url": "https://www.retaildive.com/news/consumer-spending-rises-inflation-speeds-up-three-year-high/823861/",
-          "postedAt": "2026-06-29T14:32:00.000Z"
-        },
-        {
-          "id": "om_93ec573e5b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Brands Can Build Creative Infrastructure for the AI Era",
-          "url": "https://www.adweek.com/creativity/how-brands-can-build-creative-infrastructure-for-the-ai-era/",
-          "postedAt": "2026-06-29T14:31:12.000Z"
-        },
-        {
-          "id": "om_92fe516c14",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "What Walmart’s Vibe.co deal means for CTV, retail media convergence",
-          "url": "https://www.marketingdive.com/news/what-walmarts-vibeco-deal-means-for-ctv-retail-media-convergence/823941/",
-          "postedAt": "2026-06-29T14:23:00.000Z"
-        },
-        {
-          "id": "om_4222c98197",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "E.l.f. taps into soccer fandom with NWSL, World Cup activations",
-          "url": "https://www.marketingdive.com/news/elf-taps-into-soccer-fandom-with-nwsl-world-cup-activations/823950/",
-          "postedAt": "2026-06-29T14:18:00.000Z"
-        },
-        {
-          "id": "om_4bfc8ca7e5",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How challenger brands can stand out with fewer marketing swings",
-          "url": "https://www.marketingdive.com/news/how-challenger-brands-can-stand-out-with-fewer-marketing-swings/823549/",
-          "postedAt": "2026-06-29T13:40:00.000Z"
-        },
-        {
-          "id": "om_5be7a2d1d2",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Yahoo’s CMO wants to make longtime loyalists proud",
-          "url": "https://www.marketingbrew.com/stories/cannes-lions-yahoo-josh-line-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-29T13:36:52.000Z"
-        },
-        {
-          "id": "om_a553403eea",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How Aperol is working to make the spritz a year-round drink",
-          "url": "https://www.marketingbrew.com/stories/how-aperol-is-working-to-make-the-spritz-a-year-round-drink?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-29T13:22:43.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-30T04:35:51.012Z",
+      "lastUpdated": "2026-06-30T14:45:28.311Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
