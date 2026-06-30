@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-29T16:10:05.047Z",
+      "lastUpdated": "2026-06-30T04:35:48.444Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -584,7 +584,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-29T16:10:06.394Z",
+      "lastUpdated": "2026-06-30T04:35:49.541Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "11 fresh updates from the last 21 days"
@@ -677,12 +677,84 @@
       },
       "articles": [
         {
-          "id": "om_c8f56ec56a",
+          "id": "om_32359cbfb0",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok launches branded minidramas",
+          "url": "https://www.socialmediatoday.com/news/tiktok-launches-branded-minidramas/824044/",
+          "postedAt": "2026-06-29T22:05:36.000Z"
+        },
+        {
+          "id": "om_92e2554960",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok partners with Madonna for ‘Confessions II’",
+          "url": "https://www.socialmediatoday.com/news/tiktok-partners-with-madonna-for-confessions-ii/824038/",
+          "postedAt": "2026-06-29T21:24:53.000Z"
+        },
+        {
+          "id": "om_a895baeec6",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Pinterest expands international campaign insights",
+          "url": "https://www.socialmediatoday.com/news/pinterest-expands-international-campaign-insights/824037/",
+          "postedAt": "2026-06-29T21:14:02.000Z"
+        },
+        {
+          "id": "om_7e32ef097c",
           "source": "The Verge",
           "lang": "en",
-          "title": "Dbrand’s Steam Machine Companion Cube is canceled",
-          "url": "https://www.theverge.com/games/959056/dbrand-steam-machine-companion-cube-valve-take-down-canceled",
-          "postedAt": "2026-06-29T15:59:45.000Z"
+          "title": "T-Mobile is booting customers from its oldest plans",
+          "url": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
+          "postedAt": "2026-06-29T21:06:14.000Z"
+        },
+        {
+          "id": "om_22b419a756",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Google adds features to Video Reach and Video View campaigns",
+          "url": "https://www.socialmediatoday.com/news/google-adds-features-to-video-reach-and-video-view-campaigns/824035/",
+          "postedAt": "2026-06-29T21:00:32.000Z"
+        },
+        {
+          "id": "om_529edda2f7",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Reddit launches ‘People are the Best’ campaign",
+          "url": "https://www.socialmediatoday.com/news/reddit-launches-people-are-the-best-campaign/824032/",
+          "postedAt": "2026-06-29T19:39:49.000Z"
+        },
+        {
+          "id": "om_3601bad109",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why Hinge is looking to give Gen Z tools to connect",
+          "url": "https://www.marketingbrew.com/stories/cannes-lions-hinge-tamika-young-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-29T18:09:36.000Z"
+        },
+        {
+          "id": "om_2110832a37",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon’s Prime Day drives online sales in the US up 9.3%",
+          "url": "https://www.retaildive.com/news/amazon-prime-day-online-us-sales-numbers-grow-2026/823973/",
+          "postedAt": "2026-06-29T16:23:00.000Z"
+        },
+        {
+          "id": "om_087fd85ff2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Saks Global exits Chapter 11 as ‘Exemplar Luxury Group.’ Here are 5 other things it dumped along the way",
+          "url": "https://www.retaildive.com/news/saks-global-exits-chapter-11-as-exemplar-luxury-group-here-are-5-other-t/822555/",
+          "postedAt": "2026-06-29T16:16:00.000Z"
+        },
+        {
+          "id": "om_b46358a784",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Rewriting the Brand Discovery Playbook in the AI Era",
+          "url": "https://www.adweek.com/brand-marketing/rewriting-the-brand-discovery-playbook-in-the-ai-era/",
+          "postedAt": "2026-06-29T16:08:11.000Z"
         },
         {
           "id": "om_d2ccaf8168",
@@ -701,12 +773,28 @@
           "postedAt": "2026-06-29T15:14:00.000Z"
         },
         {
+          "id": "om_9b03054a75",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "When Every Moment Becomes a Shopping Moment",
+          "url": "https://www.adweek.com/commerce/when-every-moment-becomes-a-shopping-moment/",
+          "postedAt": "2026-06-29T14:52:01.000Z"
+        },
+        {
           "id": "om_ed5e984d68",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Consumer spending rises as inflation speeds up to three-year high",
           "url": "https://www.retaildive.com/news/consumer-spending-rises-inflation-speeds-up-three-year-high/823861/",
           "postedAt": "2026-06-29T14:32:00.000Z"
+        },
+        {
+          "id": "om_93ec573e5b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Brands Can Build Creative Infrastructure for the AI Era",
+          "url": "https://www.adweek.com/creativity/how-brands-can-build-creative-infrastructure-for-the-ai-era/",
+          "postedAt": "2026-06-29T14:31:12.000Z"
         },
         {
           "id": "om_92fe516c14",
@@ -747,98 +835,10 @@
           "title": "How Aperol is working to make the spritz a year-round drink",
           "url": "https://www.marketingbrew.com/stories/how-aperol-is-working-to-make-the-spritz-a-year-round-drink?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-06-29T13:22:43.000Z"
-        },
-        {
-          "id": "om_2bd1a4bc5c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Chief Communications Officer’s Rise as a Strategic Advisor",
-          "url": "https://www.adweek.com/brand-marketing/the-chief-communications-officers-rise-as-a-strategic-advisor/",
-          "postedAt": "2026-06-29T10:31:21.000Z"
-        },
-        {
-          "id": "om_aace2750ce",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why Desire Is an Emerging Competitive Advantage",
-          "url": "https://www.adweek.com/brand-marketing/why-desire-is-an-emerging-competitive-advantage/",
-          "postedAt": "2026-06-29T10:17:14.000Z"
-        },
-        {
-          "id": "om_2bd718c637",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "AI Is Changing How Consumers Discover Products",
-          "url": "https://www.adweek.com/commerce/ai-is-changing-how-consumers-discover-products/",
-          "postedAt": "2026-06-29T10:13:57.000Z"
-        },
-        {
-          "id": "om_88c950e271",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Some Unilever Brands Are Going All in on Social Marketing",
-          "url": "https://www.adweek.com/brand-marketing/some-unilever-brands-are-going-all-in-on-social-marketing/",
-          "postedAt": "2026-06-29T10:01:51.000Z"
-        },
-        {
-          "id": "om_8ee4da4807",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Americans are redefining success. Brands need to catch up.",
-          "url": "https://www.marketingdive.com/spons/americans-are-redefining-success-brands-need-to-catch-up/823794/",
-          "postedAt": "2026-06-29T09:00:00.000Z"
-        },
-        {
-          "id": "om_e83a0992c0",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "From foot traffic to sales: streaming ads are more than a reach play",
-          "url": "https://www.marketingdive.com/spons/from-foot-traffic-to-sales-streaming-ads-are-more-than-a-reach-play/823355/",
-          "postedAt": "2026-06-29T09:00:00.000Z"
-        },
-        {
-          "id": "om_0f5d685399",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Modernizing the retail edge—a competitive imperative",
-          "url": "https://www.retaildive.com/spons/modernizing-the-retail-edgea-competitive-imperative/823231/",
-          "postedAt": "2026-06-29T09:00:00.000Z"
-        },
-        {
-          "id": "om_2c52dc9beb",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Stocky is shutting down, but that’s not the real story",
-          "url": "https://www.retaildive.com/spons/stocky-is-shutting-down-but-thats-not-the-real-story/823354/",
-          "postedAt": "2026-06-29T09:00:00.000Z"
-        },
-        {
-          "id": "om_913547fff2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "John Wren’s Next Move: Omnicom CEO Reveals What He’s Selling Soon and What’s Coming",
-          "url": "https://www.adweek.com/agencies/john-wren-on-the-hunt-omnicom-ceo-reveals-what-hes-selling-soon-and-whats-coming-next/",
-          "postedAt": "2026-06-29T06:00:00.000Z"
-        },
-        {
-          "id": "om_e952906b0f",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
-          "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
-          "postedAt": "2026-06-28T05:00:00.000Z"
-        },
-        {
-          "id": "om_055f257184",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Rethinking Audience Strategy for an Unpredictable Consumer",
-          "url": "https://www.adweek.com/commerce/rethinking-audience-strategy-for-an-unpredictable-consumer/",
-          "postedAt": "2026-06-27T08:59:12.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-29T16:10:08.294Z",
+      "lastUpdated": "2026-06-30T04:35:51.012Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
