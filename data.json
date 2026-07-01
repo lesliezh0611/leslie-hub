@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-30T14:45:24.051Z",
+      "lastUpdated": "2026-07-01T04:55:48.732Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,30 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_9f5b9a7386",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Sonnet 5 review: I ran 64 generations to find out if it's worth it",
+          "url": "https://www.lennysnewsletter.com/p/sonnet-5-review-i-ran-64-generations",
+          "postedAt": "2026-06-30T23:22:23.000Z"
+        },
+        {
+          "id": "en_pod_lex_fridman_podcast_d4f100240a",
+          "source": "Lex Fridman Podcast",
+          "platform": "podcast",
+          "topic": "#498 – Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires",
+          "url": "https://lexfridman.com/anthony-kaldellis/?utm_source=rss&utm_medium=rss&utm_campaign=anthony-kaldellis",
+          "postedAt": "2026-06-30T21:33:40.000Z"
+        },
+        {
+          "id": "en_pod_the_knowledge_project_9eaa37636d",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "The Mindset That Unlocks Your Full Potential | Dr. Gio Valiante",
+          "url": "https://fs.blog/knowledge-project-podcast/performance-psychologist-mindset/",
+          "postedAt": "2026-06-30T17:55:21.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_371da5c202",
           "source": "Lenny's Podcast",
@@ -520,14 +544,6 @@
           "postedAt": "2026-06-22T12:03:06.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_6eae7ddbcc",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "What happens after coding is solved? | Fiona Fung (Manager of the Claude Code and Cowork Teams)",
-          "url": "https://www.lennysnewsletter.com/p/building-the-most-ai-pilled-engineering",
-          "postedAt": "2026-06-21T12:31:43.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_2a0e0efe2b",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -584,10 +600,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-30T14:45:25.813Z",
+      "lastUpdated": "2026-07-01T04:55:50.332Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "11 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -677,6 +693,134 @@
       },
       "articles": [
         {
+          "id": "om_0e0823bd1b",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok launches Agentic Hub",
+          "url": "https://www.socialmediatoday.com/news/tiktok-launches-agentic-hub/824169/",
+          "postedAt": "2026-06-30T21:56:40.000Z"
+        },
+        {
+          "id": "om_b94b0db8fb",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "YouTube partners with science content creator Mark Rober",
+          "url": "https://www.socialmediatoday.com/news/youtube-partners-with-science-content-creator-mark-rober/824168/",
+          "postedAt": "2026-06-30T21:54:53.000Z"
+        },
+        {
+          "id": "om_b9eba0dc6c",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Consumers trust AI for discovery but not for finding deals",
+          "url": "https://www.socialmediatoday.com/news/consumers-trust-ai-for-discovery-but-not-for-finding-deals/824161/",
+          "postedAt": "2026-06-30T21:03:55.000Z"
+        },
+        {
+          "id": "om_31d023a366",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+          "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+          "postedAt": "2026-06-30T19:24:51.000Z"
+        },
+        {
+          "id": "om_6588619ba9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "MLB Hopes to Walk Off With More Fans Using Content Creators",
+          "url": "https://www.adweek.com/creativity/mlb-hopes-to-walk-off-with-more-fans-using-content-creators/",
+          "postedAt": "2026-06-30T17:49:28.000Z"
+        },
+        {
+          "id": "om_3f87ca6677",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "EXCLUSIVE: Omnicom to Win Adidas’ $512M Global Media Account",
+          "url": "https://www.adweek.com/agencies/exclusive-omnicom-to-win-adidas-512m-global-media-account/",
+          "postedAt": "2026-06-30T17:43:39.000Z"
+        },
+        {
+          "id": "om_8d364832ea",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Beyond the Stage: How the BET Awards Became a Blueprint for Cultural Brand Building",
+          "url": "https://www.adweek.com/brand-marketing/beyond-the-stage-how-the-bet-awards-became-a-blueprint-for-cultural-brand-building/",
+          "postedAt": "2026-06-30T16:18:29.000Z"
+        },
+        {
+          "id": "om_665a716c07",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Primark nears 50 US stores with latest openings",
+          "url": "https://www.retaildive.com/news/primark-opens-us-stores-houston-indianapolis/824098/",
+          "postedAt": "2026-06-30T16:15:00.000Z"
+        },
+        {
+          "id": "om_f14cb8c1ea",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why Miller Lite sent a barge loaded with beer to Miami",
+          "url": "https://www.marketingbrew.com/stories/miller-lite-beer-barge-miami-scotland-world-cup?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-30T15:35:45.000Z"
+        },
+        {
+          "id": "om_17c8ca49d8",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How this soccer creator is cashing in on World Cup hype (without ever going pro)",
+          "url": "https://www.marketingbrew.com/stories/he-never-turned-pro-now-thats-his-superpower?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-30T15:31:26.000Z"
+        },
+        {
+          "id": "om_3a1400fac9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon, J.C. Penney dangle gas-related deals ahead of July 4",
+          "url": "https://www.retaildive.com/news/amazon-jcpenney-gas-related-deals-ahead-of-july-4/824072/",
+          "postedAt": "2026-06-30T15:30:00.000Z"
+        },
+        {
+          "id": "om_eda9808bf0",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "What Walmart’s Vibe.co deal means for CTV, retail media convergence",
+          "url": "https://www.retaildive.com/news/walmart-vibeco-deal-ctv-retail-media-convergence/824065/",
+          "postedAt": "2026-06-30T15:23:00.000Z"
+        },
+        {
+          "id": "om_d868cc3d77",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Kimberly-Clark’s Patricia Corsi Set to Exit Following Kenvue Acquisition",
+          "url": "https://www.adweek.com/brand-marketing/kimberly-clarks-patricia-corsi-set-to-exit-following-kenvue-acquisition/",
+          "postedAt": "2026-06-30T15:17:27.000Z"
+        },
+        {
+          "id": "om_2be4306366",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Adult women are driving toy industry growth",
+          "url": "https://www.retaildive.com/news/adult-women-driving-toy-industry-sales-growth/824039/",
+          "postedAt": "2026-06-30T15:05:00.000Z"
+        },
+        {
+          "id": "om_0761131c28",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The $1 Trillion Question: Why Are Brands Still Underinvesting in Women’s Sports?",
+          "url": "https://www.adweek.com/brand-marketing/the-1-trillion-question-why-are-brands-still-underinvesting-in-womens-sports/",
+          "postedAt": "2026-06-30T14:53:01.000Z"
+        },
+        {
+          "id": "om_5330ba1769",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Amid AI and M&A, It’s Time for Agencies to Recalibrate",
+          "url": "https://www.adweek.com/agencies/amid-ai-and-ma-its-time-for-agencies-to-recalibrate/",
+          "postedAt": "2026-06-30T14:45:25.000Z"
+        },
+        {
           "id": "om_e5d9214d5d",
           "source": "Retail Dive",
           "lang": "en",
@@ -685,12 +829,20 @@
           "postedAt": "2026-06-30T14:37:00.000Z"
         },
         {
-          "id": "om_7ef9708501",
-          "source": "TechCrunch",
+          "id": "om_f19972ca07",
+          "source": "Marketing Brew",
           "lang": "en",
-          "title": "Your brand deserves its own stage — Side Events at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/06/30/your-brand-deserves-its-own-stage-side-events-at-techcrunch-disrupt-2026/",
-          "postedAt": "2026-06-30T14:00:00.000Z"
+          "title": "How Snap is emphasizing online joy",
+          "url": "https://www.marketingbrew.com/stories/cannes-lions-snap-ajit-mohan-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-30T14:07:42.000Z"
+        },
+        {
+          "id": "om_e244513988",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why would a hotel brand sponsor a Coachella docuseries?",
+          "url": "https://www.marketingbrew.com/stories/marriott-coachella-docuseries-sponsorship-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-06-30T14:01:52.000Z"
         },
         {
           "id": "om_cff37f18d9",
@@ -699,146 +851,10 @@
           "title": "Patriotism is no longer a campaign — it’s a branding strategy",
           "url": "https://www.marketingdive.com/news/patriotism-is-no-longer-a-campaign-its-a-branding-strategy/823127/",
           "postedAt": "2026-06-30T13:51:00.000Z"
-        },
-        {
-          "id": "om_af060c8383",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "A cure for Cannes Lions FOMO: What marketers might have missed",
-          "url": "https://www.marketingdive.com/news/a-cure-for-cannes-lions-fomo-what-marketers-might-have-missed/823908/",
-          "postedAt": "2026-06-30T13:47:00.000Z"
-        },
-        {
-          "id": "om_de3c891166",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Ulta’s CMO on blending brand building and omnichannel marketing",
-          "url": "https://www.marketingdive.com/news/ulta-cmo-on-blending-brand-building-omnichannel-marketing/824056/",
-          "postedAt": "2026-06-30T13:40:00.000Z"
-        },
-        {
-          "id": "om_0a23528b17",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Lyft and United Airlines Are Building the Case for Mobility as a Media Category",
-          "url": "https://www.adweek.com/commerce/how-lyft-and-united-airlines-are-building-the-case-for-mobility-as-a-media-category/",
-          "postedAt": "2026-06-30T10:39:45.000Z"
-        },
-        {
-          "id": "om_9cc6ed6405",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside Fox Sports’s World Cup marketing blitz",
-          "url": "https://www.marketingbrew.com/stories/fox-sports-world-cup-marketing?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-30T10:00:00.000Z"
-        },
-        {
-          "id": "om_4b7b41f2ea",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Embracing the AI Agency Remodel",
-          "url": "https://www.adweek.com/agencies/embracing-the-ai-agency-remodel/",
-          "postedAt": "2026-06-30T09:53:15.000Z"
-        },
-        {
-          "id": "om_32359cbfb0",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok launches branded minidramas",
-          "url": "https://www.socialmediatoday.com/news/tiktok-launches-branded-minidramas/824044/",
-          "postedAt": "2026-06-29T22:05:36.000Z"
-        },
-        {
-          "id": "om_92e2554960",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok partners with Madonna for ‘Confessions II’",
-          "url": "https://www.socialmediatoday.com/news/tiktok-partners-with-madonna-for-confessions-ii/824038/",
-          "postedAt": "2026-06-29T21:24:53.000Z"
-        },
-        {
-          "id": "om_a895baeec6",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Pinterest expands international campaign insights",
-          "url": "https://www.socialmediatoday.com/news/pinterest-expands-international-campaign-insights/824037/",
-          "postedAt": "2026-06-29T21:14:02.000Z"
-        },
-        {
-          "id": "om_7e32ef097c",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "T-Mobile is booting customers from its oldest plans",
-          "url": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
-          "postedAt": "2026-06-29T21:06:14.000Z"
-        },
-        {
-          "id": "om_22b419a756",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Google adds features to Video Reach and Video View campaigns",
-          "url": "https://www.socialmediatoday.com/news/google-adds-features-to-video-reach-and-video-view-campaigns/824035/",
-          "postedAt": "2026-06-29T21:00:32.000Z"
-        },
-        {
-          "id": "om_529edda2f7",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Reddit launches ‘People are the Best’ campaign",
-          "url": "https://www.socialmediatoday.com/news/reddit-launches-people-are-the-best-campaign/824032/",
-          "postedAt": "2026-06-29T19:39:49.000Z"
-        },
-        {
-          "id": "om_3601bad109",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why Hinge is looking to give Gen Z tools to connect",
-          "url": "https://www.marketingbrew.com/stories/cannes-lions-hinge-tamika-young-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-29T18:09:36.000Z"
-        },
-        {
-          "id": "om_2110832a37",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon’s Prime Day drives online sales in the US up 9.3%",
-          "url": "https://www.retaildive.com/news/amazon-prime-day-online-us-sales-numbers-grow-2026/823973/",
-          "postedAt": "2026-06-29T16:23:00.000Z"
-        },
-        {
-          "id": "om_087fd85ff2",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Saks Global exits Chapter 11 as ‘Exemplar Luxury Group.’ Here are 5 other things it dumped along the way",
-          "url": "https://www.retaildive.com/news/saks-global-exits-chapter-11-as-exemplar-luxury-group-here-are-5-other-t/822555/",
-          "postedAt": "2026-06-29T16:16:00.000Z"
-        },
-        {
-          "id": "om_b46358a784",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Rewriting the Brand Discovery Playbook in the AI Era",
-          "url": "https://www.adweek.com/brand-marketing/rewriting-the-brand-discovery-playbook-in-the-ai-era/",
-          "postedAt": "2026-06-29T16:08:11.000Z"
-        },
-        {
-          "id": "om_d2ccaf8168",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How Stanley 1913 is aiming to own the summer of soccer",
-          "url": "https://www.marketingbrew.com/stories/cannes-lions-stanley-1913-ben-james-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-29T15:25:31.000Z"
-        },
-        {
-          "id": "om_e17a06f377",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Instacart is cultivating full-funnel marketing with video, AI",
-          "url": "https://www.marketingdive.com/news/how-instacart-is-cultivating-full-funnel-marketing-with-video-ai/823905/",
-          "postedAt": "2026-06-29T15:14:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-06-30T14:45:28.311Z",
+      "lastUpdated": "2026-07-01T04:55:52.724Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
