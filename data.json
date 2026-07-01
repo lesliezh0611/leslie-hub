@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-01T04:55:48.732Z",
+      "lastUpdated": "2026-07-01T15:13:55.171Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-01T04:55:50.332Z",
+      "lastUpdated": "2026-07-01T15:13:56.703Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,46 @@
       },
       "articles": [
         {
+          "id": "om_7e94b41a1f",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why this Cannes juror thinks community-building is a winning strategy",
+          "url": "https://www.marketingbrew.com/stories/cannes-lions-VML-ellie-bamford-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-01T13:55:05.000Z"
+        },
+        {
+          "id": "om_3431ddac2b",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How brands can improve chances of showing up in AI search overviews",
+          "url": "https://www.marketingdive.com/news/how-brands-can-improve-chances-of-showing-up-in-ai-search-overviews/824059/",
+          "postedAt": "2026-07-01T13:29:00.000Z"
+        },
+        {
+          "id": "om_8df8bfd822",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How John Deere steeps its brand story in its American heritage",
+          "url": "https://www.marketingdive.com/news/how-john-deere-steeps-its-brand-story-in-its-american-heritage/824028/",
+          "postedAt": "2026-07-01T12:42:00.000Z"
+        },
+        {
+          "id": "om_1839efd3fb",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Chris Paul: Brands Miss Out When They Just Hand Athletes a Script",
+          "url": "https://www.adweek.com/brand-marketing/chris-paul-brands-miss-out-when-they-just-hand-athletes-a-script/",
+          "postedAt": "2026-07-01T10:23:33.000Z"
+        },
+        {
+          "id": "om_93c0043784",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "The cube was a lie: up close with our Dbrand Companion Cube before it gets destroyed",
+          "url": "https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on",
+          "postedAt": "2026-07-01T07:39:32.000Z"
+        },
+        {
           "id": "om_0e0823bd1b",
           "source": "Social Media Today",
           "lang": "en",
@@ -715,14 +755,6 @@
           "title": "Consumers trust AI for discovery but not for finding deals",
           "url": "https://www.socialmediatoday.com/news/consumers-trust-ai-for-discovery-but-not-for-finding-deals/824161/",
           "postedAt": "2026-06-30T21:03:55.000Z"
-        },
-        {
-          "id": "om_31d023a366",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-          "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-          "postedAt": "2026-06-30T19:24:51.000Z"
         },
         {
           "id": "om_6588619ba9",
@@ -819,42 +851,10 @@
           "title": "Amid AI and M&A, It’s Time for Agencies to Recalibrate",
           "url": "https://www.adweek.com/agencies/amid-ai-and-ma-its-time-for-agencies-to-recalibrate/",
           "postedAt": "2026-06-30T14:45:25.000Z"
-        },
-        {
-          "id": "om_e5d9214d5d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Consumer sentiment rises from record low on prospect of lower inflation",
-          "url": "https://www.retaildive.com/news/consumer-sentiment-record-low-prospect-lower-inflation-fed/823953/",
-          "postedAt": "2026-06-30T14:37:00.000Z"
-        },
-        {
-          "id": "om_f19972ca07",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How Snap is emphasizing online joy",
-          "url": "https://www.marketingbrew.com/stories/cannes-lions-snap-ajit-mohan-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-30T14:07:42.000Z"
-        },
-        {
-          "id": "om_e244513988",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why would a hotel brand sponsor a Coachella docuseries?",
-          "url": "https://www.marketingbrew.com/stories/marriott-coachella-docuseries-sponsorship-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-30T14:01:52.000Z"
-        },
-        {
-          "id": "om_cff37f18d9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Patriotism is no longer a campaign — it’s a branding strategy",
-          "url": "https://www.marketingdive.com/news/patriotism-is-no-longer-a-campaign-its-a-branding-strategy/823127/",
-          "postedAt": "2026-06-30T13:51:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-01T04:55:52.724Z",
+      "lastUpdated": "2026-07-01T15:13:58.415Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
