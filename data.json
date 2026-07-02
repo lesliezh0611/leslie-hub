@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-01T15:13:55.171Z",
+      "lastUpdated": "2026-07-02T04:23:07.303Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-01T15:13:56.703Z",
+      "lastUpdated": "2026-07-02T04:23:08.757Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,12 +693,44 @@
       },
       "articles": [
         {
+          "id": "om_d9bffa8cac",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "WPP Bolsters Enterprise Services in Bid to Be an AI One-Stop Shop",
+          "url": "https://www.adweek.com/agencies/wpp-bolsters-enterprise-unit-in-bid-to-be-an-ai-one-stop-shop/",
+          "postedAt": "2026-07-01T18:52:32.000Z"
+        },
+        {
+          "id": "om_4da3dbc9a3",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Under Armour partners with Feng Chen Wang on women’s strategy",
+          "url": "https://www.retaildive.com/news/under-armour-partners-feng-chen-wang-on-womens-strategy/824219/",
+          "postedAt": "2026-07-01T16:00:00.000Z"
+        },
+        {
+          "id": "om_d53ddd03e9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Are Nike’s ‘kernels of progress’ enough?",
+          "url": "https://www.retaildive.com/news/nike-earnings-turnaround-progress-enough-sell-converse/824225/",
+          "postedAt": "2026-07-01T15:41:00.000Z"
+        },
+        {
           "id": "om_7e94b41a1f",
           "source": "Marketing Brew",
           "lang": "en",
           "title": "Why this Cannes juror thinks community-building is a winning strategy",
           "url": "https://www.marketingbrew.com/stories/cannes-lions-VML-ellie-bamford-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-07-01T13:55:05.000Z"
+        },
+        {
+          "id": "om_48865c9cec",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Meta Names Denise Moreno CMO as Alex Schultz Becomes First Chief Data Officer",
+          "url": "https://www.adweek.com/brand-marketing/meta-names-denise-moreno-cmo-as-alex-schultz-becomes-first-chief-data-officer/",
+          "postedAt": "2026-07-01T13:30:20.000Z"
         },
         {
           "id": "om_3431ddac2b",
@@ -717,20 +749,20 @@
           "postedAt": "2026-07-01T12:42:00.000Z"
         },
         {
+          "id": "om_38a2e3ced9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "C’est Fini: The Best Moments from ADWEEK House at Cannes",
+          "url": "https://www.adweek.com/brand-marketing/adweek-house-cannes-lions-2026-recap/",
+          "postedAt": "2026-07-01T12:05:08.000Z"
+        },
+        {
           "id": "om_1839efd3fb",
           "source": "Adweek",
           "lang": "en",
           "title": "Chris Paul: Brands Miss Out When They Just Hand Athletes a Script",
           "url": "https://www.adweek.com/brand-marketing/chris-paul-brands-miss-out-when-they-just-hand-athletes-a-script/",
           "postedAt": "2026-07-01T10:23:33.000Z"
-        },
-        {
-          "id": "om_93c0043784",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "The cube was a lie: up close with our Dbrand Companion Cube before it gets destroyed",
-          "url": "https://www.theverge.com/games/959890/dbrand-companion-cube-photos-hands-on",
-          "postedAt": "2026-07-01T07:39:32.000Z"
         },
         {
           "id": "om_0e0823bd1b",
@@ -747,14 +779,6 @@
           "title": "YouTube partners with science content creator Mark Rober",
           "url": "https://www.socialmediatoday.com/news/youtube-partners-with-science-content-creator-mark-rober/824168/",
           "postedAt": "2026-06-30T21:54:53.000Z"
-        },
-        {
-          "id": "om_b9eba0dc6c",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Consumers trust AI for discovery but not for finding deals",
-          "url": "https://www.socialmediatoday.com/news/consumers-trust-ai-for-discovery-but-not-for-finding-deals/824161/",
-          "postedAt": "2026-06-30T21:03:55.000Z"
         },
         {
           "id": "om_6588619ba9",
@@ -821,40 +845,16 @@
           "postedAt": "2026-06-30T15:23:00.000Z"
         },
         {
-          "id": "om_d868cc3d77",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Kimberly-Clark’s Patricia Corsi Set to Exit Following Kenvue Acquisition",
-          "url": "https://www.adweek.com/brand-marketing/kimberly-clarks-patricia-corsi-set-to-exit-following-kenvue-acquisition/",
-          "postedAt": "2026-06-30T15:17:27.000Z"
-        },
-        {
           "id": "om_2be4306366",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Adult women are driving toy industry growth",
           "url": "https://www.retaildive.com/news/adult-women-driving-toy-industry-sales-growth/824039/",
           "postedAt": "2026-06-30T15:05:00.000Z"
-        },
-        {
-          "id": "om_0761131c28",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The $1 Trillion Question: Why Are Brands Still Underinvesting in Women’s Sports?",
-          "url": "https://www.adweek.com/brand-marketing/the-1-trillion-question-why-are-brands-still-underinvesting-in-womens-sports/",
-          "postedAt": "2026-06-30T14:53:01.000Z"
-        },
-        {
-          "id": "om_5330ba1769",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Amid AI and M&A, It’s Time for Agencies to Recalibrate",
-          "url": "https://www.adweek.com/agencies/amid-ai-and-ma-its-time-for-agencies-to-recalibrate/",
-          "postedAt": "2026-06-30T14:45:25.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-01T15:13:58.415Z",
+      "lastUpdated": "2026-07-02T04:23:10.461Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
