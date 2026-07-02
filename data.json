@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-02T04:23:07.303Z",
+      "lastUpdated": "2026-07-02T14:31:05.683Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-02T04:23:08.757Z",
+      "lastUpdated": "2026-07-02T14:31:07.498Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,70 @@
       },
       "articles": [
         {
+          "id": "om_d358c42fec",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "4 experts on how to make AI investments worthwhile",
+          "url": "https://www.retaildive.com/news/experts-how-to-make-ai-investments-worthwhile/824254/",
+          "postedAt": "2026-07-02T14:24:00.000Z"
+        },
+        {
+          "id": "om_dacfbc8546",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How TikTok Shop is changing innovation for food and beverage brands",
+          "url": "https://www.marketingdive.com/news/big-food-companies-tik-tok-shop/824192/",
+          "postedAt": "2026-07-02T14:00:00.000Z"
+        },
+        {
+          "id": "om_11e8ff08bb",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "AI won’t save advertising, says Digitas’ Amy Lanzi",
+          "url": "https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators",
+          "postedAt": "2026-07-02T13:53:42.000Z"
+        },
+        {
+          "id": "om_a035a648f7",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Mike’s Hot Honey spurs experimentation with soccer-infused campaign",
+          "url": "https://www.marketingdive.com/news/mikes-hot-honey-spurs-experimentation-with-soccer-infused-campaign/824276/",
+          "postedAt": "2026-07-02T13:05:00.000Z"
+        },
+        {
+          "id": "om_55f11fa5c2",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Tom Holland’s nonalcoholic Bero breaks through with brand partners",
+          "url": "https://www.marketingdive.com/news/how-tom-hollands-nonalcoholic-beer-breaks-through-with-brand-partners/824215/",
+          "postedAt": "2026-07-02T13:00:00.000Z"
+        },
+        {
+          "id": "om_1cd7c4a785",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
+          "url": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
+          "postedAt": "2026-07-02T09:30:00.000Z"
+        },
+        {
+          "id": "om_ec7b930ec1",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Profound Launches an AI Agent to Manage End-to-End Marketing",
+          "url": "https://www.adweek.com/media/profound-launches-an-ai-agent-to-manage-end-to-end-marketing/",
+          "postedAt": "2026-07-02T09:00:00.000Z"
+        },
+        {
+          "id": "om_1983f2ded2",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Sports Fans Want Better Experiences, Not Better Algorithms",
+          "url": "https://www.adweek.com/brand-marketing/sports-fans-want-better-experiences-not-better-algorithms/",
+          "postedAt": "2026-07-02T07:00:37.000Z"
+        },
+        {
           "id": "om_d9bffa8cac",
           "source": "Adweek",
           "lang": "en",
@@ -781,80 +845,16 @@
           "postedAt": "2026-06-30T21:54:53.000Z"
         },
         {
-          "id": "om_6588619ba9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "MLB Hopes to Walk Off With More Fans Using Content Creators",
-          "url": "https://www.adweek.com/creativity/mlb-hopes-to-walk-off-with-more-fans-using-content-creators/",
-          "postedAt": "2026-06-30T17:49:28.000Z"
-        },
-        {
-          "id": "om_3f87ca6677",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "EXCLUSIVE: Omnicom to Win Adidas’ $512M Global Media Account",
-          "url": "https://www.adweek.com/agencies/exclusive-omnicom-to-win-adidas-512m-global-media-account/",
-          "postedAt": "2026-06-30T17:43:39.000Z"
-        },
-        {
-          "id": "om_8d364832ea",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Beyond the Stage: How the BET Awards Became a Blueprint for Cultural Brand Building",
-          "url": "https://www.adweek.com/brand-marketing/beyond-the-stage-how-the-bet-awards-became-a-blueprint-for-cultural-brand-building/",
-          "postedAt": "2026-06-30T16:18:29.000Z"
-        },
-        {
           "id": "om_665a716c07",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Primark nears 50 US stores with latest openings",
           "url": "https://www.retaildive.com/news/primark-opens-us-stores-houston-indianapolis/824098/",
           "postedAt": "2026-06-30T16:15:00.000Z"
-        },
-        {
-          "id": "om_f14cb8c1ea",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why Miller Lite sent a barge loaded with beer to Miami",
-          "url": "https://www.marketingbrew.com/stories/miller-lite-beer-barge-miami-scotland-world-cup?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-30T15:35:45.000Z"
-        },
-        {
-          "id": "om_17c8ca49d8",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How this soccer creator is cashing in on World Cup hype (without ever going pro)",
-          "url": "https://www.marketingbrew.com/stories/he-never-turned-pro-now-thats-his-superpower?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-06-30T15:31:26.000Z"
-        },
-        {
-          "id": "om_3a1400fac9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon, J.C. Penney dangle gas-related deals ahead of July 4",
-          "url": "https://www.retaildive.com/news/amazon-jcpenney-gas-related-deals-ahead-of-july-4/824072/",
-          "postedAt": "2026-06-30T15:30:00.000Z"
-        },
-        {
-          "id": "om_eda9808bf0",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "What Walmart’s Vibe.co deal means for CTV, retail media convergence",
-          "url": "https://www.retaildive.com/news/walmart-vibeco-deal-ctv-retail-media-convergence/824065/",
-          "postedAt": "2026-06-30T15:23:00.000Z"
-        },
-        {
-          "id": "om_2be4306366",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Adult women are driving toy industry growth",
-          "url": "https://www.retaildive.com/news/adult-women-driving-toy-industry-sales-growth/824039/",
-          "postedAt": "2026-06-30T15:05:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-02T04:23:10.461Z",
+      "lastUpdated": "2026-07-02T14:31:09.284Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
