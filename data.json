@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-02T14:31:05.683Z",
+      "lastUpdated": "2026-07-03T04:09:35.677Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-02T14:31:07.498Z",
+      "lastUpdated": "2026-07-03T04:09:37.042Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,12 +693,60 @@
       },
       "articles": [
         {
+          "id": "om_6e01b9e9ce",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "For America250, Patriotic Marketing Has to Look Beyond the Cliches",
+          "url": "https://www.adweek.com/brand-marketing/for-america250-patriotic-marketing-has-to-look-beyond-the-cliches/",
+          "postedAt": "2026-07-02T17:19:14.000Z"
+        },
+        {
+          "id": "om_ceef6ea6ba",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Dove Men+Care takes to Strava and social media to promote reformulation",
+          "url": "https://www.marketingdive.com/news/dove-mencare-takes-to-strava-and-social-media-to-promote-reformulation/824351/",
+          "postedAt": "2026-07-02T16:59:00.000Z"
+        },
+        {
+          "id": "om_e8d4924f54",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: Reddit launches ‘People are the Best’ campaign",
+          "url": "https://www.marketingdive.com/news/sociable-reddit-launches-people-are-the-best-campaign/824366/",
+          "postedAt": "2026-07-02T16:13:00.000Z"
+        },
+        {
+          "id": "om_3ac64eff10",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Influencer screenings aren’t going away",
+          "url": "https://www.theverge.com/entertainment/960260/the-odyssey-christopher-nolan-influencers-screenings",
+          "postedAt": "2026-07-02T15:50:26.000Z"
+        },
+        {
+          "id": "om_a1d0c5f8f8",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target grows marketplace with Forever 21, Clarks brand additions",
+          "url": "https://www.retaildive.com/news/target-grows-marketplace-forever-21-clarks-beauty-brand-additions/824336/",
+          "postedAt": "2026-07-02T15:23:00.000Z"
+        },
+        {
           "id": "om_d358c42fec",
           "source": "Retail Dive",
           "lang": "en",
           "title": "4 experts on how to make AI investments worthwhile",
           "url": "https://www.retaildive.com/news/experts-how-to-make-ai-investments-worthwhile/824254/",
           "postedAt": "2026-07-02T14:24:00.000Z"
+        },
+        {
+          "id": "om_bce141bad0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Marketing Vanguard at Cannes: Human Ingenuity Still Runs the Game ft. Dara Treseder",
+          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-human-ingenuity-still-runs-the-game-ft-dara-treseder/",
+          "postedAt": "2026-07-02T14:03:12.000Z"
         },
         {
           "id": "om_dacfbc8546",
@@ -731,6 +779,22 @@
           "title": "How Tom Holland’s nonalcoholic Bero breaks through with brand partners",
           "url": "https://www.marketingdive.com/news/how-tom-hollands-nonalcoholic-beer-breaks-through-with-brand-partners/824215/",
           "postedAt": "2026-07-02T13:00:00.000Z"
+        },
+        {
+          "id": "om_555e9a2098",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Inside Julie Thompson’s Annual Thursday VIP Dinner Club & Discotheque at Cannes Lions",
+          "url": "https://www.adweek.com/brand-marketing/inside-julie-thompsons-annual-thursday-vip-dinner-club-discotheque-at-cannes-lions/",
+          "postedAt": "2026-07-02T12:23:17.000Z"
+        },
+        {
+          "id": "om_71e342d153",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Reformation’s proposed IPO: 4 notable numbers",
+          "url": "https://www.retaildive.com/news/reformation-proposed-ipo-filing-notable-numbers-dtc-stores/824261/",
+          "postedAt": "2026-07-02T11:30:00.000Z"
         },
         {
           "id": "om_1cd7c4a785",
@@ -773,14 +837,6 @@
           "postedAt": "2026-07-01T16:00:00.000Z"
         },
         {
-          "id": "om_d53ddd03e9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Are Nike’s ‘kernels of progress’ enough?",
-          "url": "https://www.retaildive.com/news/nike-earnings-turnaround-progress-enough-sell-converse/824225/",
-          "postedAt": "2026-07-01T15:41:00.000Z"
-        },
-        {
           "id": "om_7e94b41a1f",
           "source": "Marketing Brew",
           "lang": "en",
@@ -789,72 +845,16 @@
           "postedAt": "2026-07-01T13:55:05.000Z"
         },
         {
-          "id": "om_48865c9cec",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Meta Names Denise Moreno CMO as Alex Schultz Becomes First Chief Data Officer",
-          "url": "https://www.adweek.com/brand-marketing/meta-names-denise-moreno-cmo-as-alex-schultz-becomes-first-chief-data-officer/",
-          "postedAt": "2026-07-01T13:30:20.000Z"
-        },
-        {
           "id": "om_3431ddac2b",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "How brands can improve chances of showing up in AI search overviews",
           "url": "https://www.marketingdive.com/news/how-brands-can-improve-chances-of-showing-up-in-ai-search-overviews/824059/",
           "postedAt": "2026-07-01T13:29:00.000Z"
-        },
-        {
-          "id": "om_8df8bfd822",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How John Deere steeps its brand story in its American heritage",
-          "url": "https://www.marketingdive.com/news/how-john-deere-steeps-its-brand-story-in-its-american-heritage/824028/",
-          "postedAt": "2026-07-01T12:42:00.000Z"
-        },
-        {
-          "id": "om_38a2e3ced9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "C’est Fini: The Best Moments from ADWEEK House at Cannes",
-          "url": "https://www.adweek.com/brand-marketing/adweek-house-cannes-lions-2026-recap/",
-          "postedAt": "2026-07-01T12:05:08.000Z"
-        },
-        {
-          "id": "om_1839efd3fb",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Chris Paul: Brands Miss Out When They Just Hand Athletes a Script",
-          "url": "https://www.adweek.com/brand-marketing/chris-paul-brands-miss-out-when-they-just-hand-athletes-a-script/",
-          "postedAt": "2026-07-01T10:23:33.000Z"
-        },
-        {
-          "id": "om_0e0823bd1b",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok launches Agentic Hub",
-          "url": "https://www.socialmediatoday.com/news/tiktok-launches-agentic-hub/824169/",
-          "postedAt": "2026-06-30T21:56:40.000Z"
-        },
-        {
-          "id": "om_b94b0db8fb",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "YouTube partners with science content creator Mark Rober",
-          "url": "https://www.socialmediatoday.com/news/youtube-partners-with-science-content-creator-mark-rober/824168/",
-          "postedAt": "2026-06-30T21:54:53.000Z"
-        },
-        {
-          "id": "om_665a716c07",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Primark nears 50 US stores with latest openings",
-          "url": "https://www.retaildive.com/news/primark-opens-us-stores-houston-indianapolis/824098/",
-          "postedAt": "2026-06-30T16:15:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-02T14:31:09.284Z",
+      "lastUpdated": "2026-07-03T04:09:38.681Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
