@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-04T13:59:14.233Z",
+      "lastUpdated": "2026-07-05T04:21:31.317Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_514d21086f",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: Quarterly planning and AI, cash vs. equity comp, paying for interview exercises, AI-powered outbound, compliance startup opportunities, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-quarterly-planning",
+          "postedAt": "2026-07-04T16:58:47.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_9f5b9a7386",
           "source": "Lenny's Podcast",
@@ -536,14 +544,6 @@
           "postedAt": "2026-06-22T15:02:37.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_7651769e95",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How Claude Mythos found a 15-year-old bug in Mozilla Firefox | Brian Grinstead",
-          "url": "https://www.lennysnewsletter.com/p/how-claude-mythos-found-a-15-year",
-          "postedAt": "2026-06-22T12:03:06.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_2a0e0efe2b",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-04T13:59:15.588Z",
+      "lastUpdated": "2026-07-05T04:21:33.063Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -854,7 +854,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-04T13:59:17.499Z",
+      "lastUpdated": "2026-07-05T04:21:35.631Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
