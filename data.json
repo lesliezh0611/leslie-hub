@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-05T14:10:59.904Z",
+      "lastUpdated": "2026-07-06T04:40:24.710Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -470,6 +470,14 @@
           "topic": "#498 – Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires",
           "url": "https://lexfridman.com/anthony-kaldellis/?utm_source=rss&utm_medium=rss&utm_campaign=anthony-kaldellis",
           "postedAt": "2026-06-30T21:33:40.000Z"
+        },
+        {
+          "id": "en_pod_the_knowledge_project_9eaa37636d",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "The Mindset That Unlocks Your Full Potential | Dr. Gio Valiante",
+          "url": "https://fs.blog/knowledge-project-podcast/performance-psychologist-mindset/",
+          "postedAt": "2026-06-30T17:55:21.000Z"
         },
         {
           "id": "en_pod_lenny_s_podcast_371da5c202",
@@ -592,10 +600,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-05T14:11:01.122Z",
+      "lastUpdated": "2026-07-06T04:40:26.069Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -684,6 +692,22 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_1fc3687797",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Clear messaging helps brands with AI optimization",
+          "url": "https://www.socialmediatoday.com/news/clear-messaging-helps-brands-with-ai-optimization/824420/",
+          "postedAt": "2026-07-05T21:14:45.000Z"
+        },
+        {
+          "id": "om_c8e3bde25f",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Amazon will stop accepting new customers for Mechanical Turk",
+          "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+          "postedAt": "2026-07-05T17:43:36.000Z"
+        },
         {
           "id": "om_6e01b9e9ce",
           "source": "Adweek",
@@ -797,14 +821,6 @@
           "postedAt": "2026-07-02T07:00:37.000Z"
         },
         {
-          "id": "om_d9bffa8cac",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "WPP Bolsters Enterprise Services in Bid to Be an AI One-Stop Shop",
-          "url": "https://www.adweek.com/agencies/wpp-bolsters-enterprise-unit-in-bid-to-be-an-ai-one-stop-shop/",
-          "postedAt": "2026-07-01T18:52:32.000Z"
-        },
-        {
           "id": "om_4da3dbc9a3",
           "source": "Retail Dive",
           "lang": "en",
@@ -835,18 +851,10 @@
           "title": "How John Deere steeps its brand story in its American heritage",
           "url": "https://www.marketingdive.com/news/how-john-deere-steeps-its-brand-story-in-its-american-heritage/824028/",
           "postedAt": "2026-07-01T12:42:00.000Z"
-        },
-        {
-          "id": "om_0e0823bd1b",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok launches Agentic Hub",
-          "url": "https://www.socialmediatoday.com/news/tiktok-launches-agentic-hub/824169/",
-          "postedAt": "2026-06-30T21:56:40.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-05T14:11:03.211Z",
+      "lastUpdated": "2026-07-06T04:40:27.656Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
