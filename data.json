@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-06T04:40:24.710Z",
+      "lastUpdated": "2026-07-06T15:56:30.498Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_6c4c992d92",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: Sonnet 5 review & How to run autonomous coding agents from your phone",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-sonnet-5-review-and-how",
+          "postedAt": "2026-07-06T15:01:17.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_1e5422c319",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
+          "url": "https://www.lennysnewsletter.com/p/how-i-run-autonomous-coding-agents",
+          "postedAt": "2026-07-06T12:03:37.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_514d21086f",
           "source": "Lenny's Podcast",
@@ -528,22 +544,6 @@
           "postedAt": "2026-06-24T12:03:52.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_20efbaf51e",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "The new inner game: Your unfair advantage in the age of AI",
-          "url": "https://www.lennysnewsletter.com/p/the-new-inner-game-your-unfair-advantage",
-          "postedAt": "2026-06-23T12:45:59.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_0a32f997c9",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: How to write AI agent loops in Claude Code and Codex + How Claude Mythos found a 15-year-old bug in Mozilla Firefox",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
-          "postedAt": "2026-06-22T15:02:37.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_2a0e0efe2b",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-06T04:40:26.069Z",
+      "lastUpdated": "2026-07-06T15:56:31.532Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,102 @@
       },
       "articles": [
         {
+          "id": "om_91e1da7c4a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Bath & Body Works collabs with Hilary Duff to introduce Fruit Fusion",
+          "url": "https://www.retaildive.com/news/bath-body-works-partners-hilary-duff-fruit-fusion/824441/",
+          "postedAt": "2026-07-06T15:39:00.000Z"
+        },
+        {
+          "id": "om_8f85b18e13",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Primark leans on expansion for growth",
+          "url": "https://www.retaildive.com/news/primark-store-expansion-sales-growth-weakness/824322/",
+          "postedAt": "2026-07-06T15:25:00.000Z"
+        },
+        {
+          "id": "om_faa8c0f38d",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why this marketer thinks brands should leave platform-specific social strategies behind",
+          "url": "https://www.marketingbrew.com/stories/collectively-natalie-silverstein-q-and-a?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-06T15:11:15.000Z"
+        },
+        {
+          "id": "om_6b077e0096",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why Febreze is taking on soccer stink via podcasts, experiences",
+          "url": "https://www.marketingdive.com/news/why-febreze-is-taking-on-soccer-stink-via-podcasts-experiences/824307/",
+          "postedAt": "2026-07-06T15:00:00.000Z"
+        },
+        {
+          "id": "om_4819d582c3",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Inside the big business of the creator economy, with the agents making it happen",
+          "url": "https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing",
+          "postedAt": "2026-07-06T14:59:24.000Z"
+        },
+        {
+          "id": "om_38173f7b96",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Ulta’s chief marketer on blending brand building and omnichannel marketing",
+          "url": "https://www.retaildive.com/news/ulta-beauty-marketing-chief-kelly-mahoney-brand-building-omnichannel-marketing/824315/",
+          "postedAt": "2026-07-06T14:36:00.000Z"
+        },
+        {
+          "id": "om_09d3209841",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How fandoms are different and why Havas is doubling down on them",
+          "url": "https://www.marketingdive.com/news/how-fandoms-are-different-why-havas-is-doubling-down/824407/",
+          "postedAt": "2026-07-06T14:30:00.000Z"
+        },
+        {
+          "id": "om_bdba507d12",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why Conair is moving fast to adopt AI-driven video ads",
+          "url": "https://www.marketingdive.com/news/why-conair-is-moving-fast-to-adopt-ai-driven-video-ads/824270/",
+          "postedAt": "2026-07-06T13:30:00.000Z"
+        },
+        {
+          "id": "om_e35ec9ed4b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "AI in retail is only as good as its data foundation",
+          "url": "https://www.retaildive.com/spons/ai-in-retail-is-only-as-good-as-its-data-foundation/824409/",
+          "postedAt": "2026-07-06T09:00:00.000Z"
+        },
+        {
+          "id": "om_af3483de24",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Tariffs, trade shocks and the end of retail planning as we know it",
+          "url": "https://www.retaildive.com/spons/tariffs-trade-shocks-and-the-end-of-retail-planning-as-we-know-it/824372/",
+          "postedAt": "2026-07-06T09:00:00.000Z"
+        },
+        {
+          "id": "om_4b37eb2675",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Jupiter Festival Miami Adds IAB as New Founding Partner Ahead of Launch",
+          "url": "https://www.adweek.com/agencies/jupiter-festival-miami-adds-iab-as-new-founding-partner-ahead-of-launch/",
+          "postedAt": "2026-07-06T06:00:00.000Z"
+        },
+        {
+          "id": "om_a5d1c9c77a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "LiveRamp Launches Brand Campaign on Netflix as Publicis Deal Fuels Scrutiny of its Neutrality",
+          "url": "https://www.adweek.com/media/liveramp-launches-brand-campaign-on-netflix-as-publicis-deal-fuels-scrutiny-of-its-neutrality/",
+          "postedAt": "2026-07-06T06:00:00.000Z"
+        },
+        {
           "id": "om_1fc3687797",
           "source": "Social Media Today",
           "lang": "en",
@@ -755,106 +851,10 @@
           "title": "Marketing Vanguard at Cannes: Human Ingenuity Still Runs the Game ft. Dara Treseder",
           "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-human-ingenuity-still-runs-the-game-ft-dara-treseder/",
           "postedAt": "2026-07-02T14:03:12.000Z"
-        },
-        {
-          "id": "om_dacfbc8546",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How TikTok Shop is changing innovation for food and beverage brands",
-          "url": "https://www.marketingdive.com/news/big-food-companies-tik-tok-shop/824192/",
-          "postedAt": "2026-07-02T14:00:00.000Z"
-        },
-        {
-          "id": "om_a035a648f7",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Mike’s Hot Honey spurs experimentation with soccer-infused campaign",
-          "url": "https://www.marketingdive.com/news/mikes-hot-honey-spurs-experimentation-with-soccer-infused-campaign/824276/",
-          "postedAt": "2026-07-02T13:05:00.000Z"
-        },
-        {
-          "id": "om_55f11fa5c2",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Tom Holland’s nonalcoholic Bero breaks through with brand partners",
-          "url": "https://www.marketingdive.com/news/how-tom-hollands-nonalcoholic-beer-breaks-through-with-brand-partners/824215/",
-          "postedAt": "2026-07-02T13:00:00.000Z"
-        },
-        {
-          "id": "om_555e9a2098",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Inside Julie Thompson’s Annual Thursday VIP Dinner Club & Discotheque at Cannes Lions",
-          "url": "https://www.adweek.com/brand-marketing/inside-julie-thompsons-annual-thursday-vip-dinner-club-discotheque-at-cannes-lions/",
-          "postedAt": "2026-07-02T12:23:17.000Z"
-        },
-        {
-          "id": "om_71e342d153",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Reformation’s proposed IPO: 4 notable numbers",
-          "url": "https://www.retaildive.com/news/reformation-proposed-ipo-filing-notable-numbers-dtc-stores/824261/",
-          "postedAt": "2026-07-02T11:30:00.000Z"
-        },
-        {
-          "id": "om_1cd7c4a785",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
-          "url": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
-          "postedAt": "2026-07-02T09:30:00.000Z"
-        },
-        {
-          "id": "om_ec7b930ec1",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Profound Launches an AI Agent to Manage End-to-End Marketing",
-          "url": "https://www.adweek.com/media/profound-launches-an-ai-agent-to-manage-end-to-end-marketing/",
-          "postedAt": "2026-07-02T09:00:00.000Z"
-        },
-        {
-          "id": "om_1983f2ded2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Sports Fans Want Better Experiences, Not Better Algorithms",
-          "url": "https://www.adweek.com/brand-marketing/sports-fans-want-better-experiences-not-better-algorithms/",
-          "postedAt": "2026-07-02T07:00:37.000Z"
-        },
-        {
-          "id": "om_4da3dbc9a3",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Under Armour partners with Feng Chen Wang on women’s strategy",
-          "url": "https://www.retaildive.com/news/under-armour-partners-feng-chen-wang-on-womens-strategy/824219/",
-          "postedAt": "2026-07-01T16:00:00.000Z"
-        },
-        {
-          "id": "om_7e94b41a1f",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why this Cannes juror thinks community-building is a winning strategy",
-          "url": "https://www.marketingbrew.com/stories/cannes-lions-VML-ellie-bamford-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-01T13:55:05.000Z"
-        },
-        {
-          "id": "om_3431ddac2b",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How brands can improve chances of showing up in AI search overviews",
-          "url": "https://www.marketingdive.com/news/how-brands-can-improve-chances-of-showing-up-in-ai-search-overviews/824059/",
-          "postedAt": "2026-07-01T13:29:00.000Z"
-        },
-        {
-          "id": "om_8df8bfd822",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How John Deere steeps its brand story in its American heritage",
-          "url": "https://www.marketingdive.com/news/how-john-deere-steeps-its-brand-story-in-its-american-heritage/824028/",
-          "postedAt": "2026-07-01T12:42:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-06T04:40:27.656Z",
+      "lastUpdated": "2026-07-06T15:56:34.312Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
