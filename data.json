@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-07T04:18:25.796Z",
+      "lastUpdated": "2026-07-07T15:15:59.811Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_1484302de8",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How tech workers are feeling in 2026: a workforce splitting in two",
+          "url": "https://www.lennysnewsletter.com/p/how-tech-workers-are-feeling-in-2026",
+          "postedAt": "2026-07-07T13:04:22.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_6c4c992d92",
           "source": "Lenny's Podcast",
@@ -536,14 +544,6 @@
           "postedAt": "2026-06-27T17:09:06.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_2c99441032",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "GLM 5.2: why I’m replacing Opus in Claude Code with this new model",
-          "url": "https://www.lennysnewsletter.com/p/glm-52-why-im-replacing-opus-in-claude",
-          "postedAt": "2026-06-24T12:03:52.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_2a0e0efe2b",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-07T04:18:27.023Z",
+      "lastUpdated": "2026-07-07T15:16:01.150Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,78 @@
       },
       "articles": [
         {
+          "id": "om_4bc2edf61e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "For luxury, the in-store experience still reigns",
+          "url": "https://www.retaildive.com/news/luxury-store-experience-shopping/824578/",
+          "postedAt": "2026-07-07T14:41:00.000Z"
+        },
+        {
+          "id": "om_ccab3377ce",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Google Search lets creators know more about their reach",
+          "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+          "postedAt": "2026-07-07T13:01:18.000Z"
+        },
+        {
+          "id": "om_16589613c6",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+          "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+          "postedAt": "2026-07-07T12:00:00.000Z"
+        },
+        {
+          "id": "om_372eb24473",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "State Farm enlists IShowSpeed to keep season five of gaming series fresh",
+          "url": "https://www.marketingdive.com/news/state-farm-ishowspeed-keeps-season-five-gaming-series-fresh/824308/",
+          "postedAt": "2026-07-07T12:00:00.000Z"
+        },
+        {
+          "id": "om_6c8f091bf4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Bright Side: The Supergoop! Playbook for Turning Sun Care Into a Cultural Movement",
+          "url": "https://www.adweek.com/brand-marketing/bright-side-the-supergoop-playbook-for-turning-sun-care-into-a-cultural-movement/",
+          "postedAt": "2026-07-07T09:33:49.000Z"
+        },
+        {
+          "id": "om_2a42e18e9e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Former Fitzco CEO Evan Levy Joins Ammunition to Deepen Client Relationships",
+          "url": "https://www.adweek.com/agencies/former-fitzco-ceo-evan-levy-joins-ammunition-to-deepen-client-relationships/",
+          "postedAt": "2026-07-07T06:00:00.000Z"
+        },
+        {
+          "id": "om_e74c9d6c25",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK Commerce Advantage: Walmart Chases Amazon While Amazon Prepares for an AI Future",
+          "url": "https://www.adweek.com/commerce/adweek-commerce-advantage-walmart-chases-amazon-while-amazon-prepares-for-an-ai-future/",
+          "postedAt": "2026-07-07T06:00:00.000Z"
+        },
+        {
+          "id": "om_f3affbfa6e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK Launches Agencies Vanguard Membership Program",
+          "url": "https://www.adweek.com/agencies/adweek-launches-agencies-vanguard-membership-program/",
+          "postedAt": "2026-07-07T06:00:00.000Z"
+        },
+        {
+          "id": "om_78efee33d5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Turning Cultural Moments Into Measurable Growth with TikTok and Keurig Dr Pepper",
+          "url": "https://www.adweek.com/brand-marketing/turning-cultural-moments-into-measurable-growth-with-tiktok-and-keurig-dr-pepper/",
+          "postedAt": "2026-07-07T03:46:47.000Z"
+        },
+        {
           "id": "om_fac1e3f875",
           "source": "Marketing Brew",
           "lang": "en",
@@ -749,14 +821,6 @@
           "postedAt": "2026-07-06T15:00:00.000Z"
         },
         {
-          "id": "om_4819d582c3",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Inside the big business of the creator economy, with the agents making it happen",
-          "url": "https://www.theverge.com/podcast/961603/raina-penchansky-ali-berman-dba-uta-influencer-cliff-marketing",
-          "postedAt": "2026-07-06T14:59:24.000Z"
-        },
-        {
           "id": "om_38173f7b96",
           "source": "Retail Dive",
           "lang": "en",
@@ -787,74 +851,10 @@
           "title": "AI in retail is only as good as its data foundation",
           "url": "https://www.retaildive.com/spons/ai-in-retail-is-only-as-good-as-its-data-foundation/824409/",
           "postedAt": "2026-07-06T09:00:00.000Z"
-        },
-        {
-          "id": "om_af3483de24",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Tariffs, trade shocks and the end of retail planning as we know it",
-          "url": "https://www.retaildive.com/spons/tariffs-trade-shocks-and-the-end-of-retail-planning-as-we-know-it/824372/",
-          "postedAt": "2026-07-06T09:00:00.000Z"
-        },
-        {
-          "id": "om_4b37eb2675",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Jupiter Festival Miami Adds IAB as New Founding Partner Ahead of Launch",
-          "url": "https://www.adweek.com/agencies/jupiter-festival-miami-adds-iab-as-new-founding-partner-ahead-of-launch/",
-          "postedAt": "2026-07-06T06:00:00.000Z"
-        },
-        {
-          "id": "om_a5d1c9c77a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "LiveRamp Launches Brand Campaign on Netflix as Publicis Deal Fuels Scrutiny of its Neutrality",
-          "url": "https://www.adweek.com/media/liveramp-launches-brand-campaign-on-netflix-as-publicis-deal-fuels-scrutiny-of-its-neutrality/",
-          "postedAt": "2026-07-06T06:00:00.000Z"
-        },
-        {
-          "id": "om_1fc3687797",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Clear messaging helps brands with AI optimization",
-          "url": "https://www.socialmediatoday.com/news/clear-messaging-helps-brands-with-ai-optimization/824420/",
-          "postedAt": "2026-07-05T21:14:45.000Z"
-        },
-        {
-          "id": "om_c8e3bde25f",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Amazon will stop accepting new customers for Mechanical Turk",
-          "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-          "postedAt": "2026-07-05T17:43:36.000Z"
-        },
-        {
-          "id": "om_6e01b9e9ce",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "For America250, Patriotic Marketing Has to Look Beyond the Cliches",
-          "url": "https://www.adweek.com/brand-marketing/for-america250-patriotic-marketing-has-to-look-beyond-the-cliches/",
-          "postedAt": "2026-07-02T17:19:14.000Z"
-        },
-        {
-          "id": "om_ceef6ea6ba",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Dove Men+Care takes to Strava and social media to promote reformulation",
-          "url": "https://www.marketingdive.com/news/dove-mencare-takes-to-strava-and-social-media-to-promote-reformulation/824351/",
-          "postedAt": "2026-07-02T16:59:00.000Z"
-        },
-        {
-          "id": "om_e8d4924f54",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: Reddit launches ‘People are the Best’ campaign",
-          "url": "https://www.marketingdive.com/news/sociable-reddit-launches-people-are-the-best-campaign/824366/",
-          "postedAt": "2026-07-02T16:13:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-07T04:18:28.741Z",
+      "lastUpdated": "2026-07-07T15:16:02.776Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
