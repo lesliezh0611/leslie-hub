@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-06T15:56:30.498Z",
+      "lastUpdated": "2026-07-07T04:18:25.796Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-06T15:56:31.532Z",
+      "lastUpdated": "2026-07-07T04:18:27.023Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -692,6 +692,30 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_fac1e3f875",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How Southwest Airlines is looking to bring hospitality to the skies",
+          "url": "https://www.marketingbrew.com/stories/cannes-lions-southwest-sabrina-callahan-GSD-and-M-kate-rush-sheehy-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-06T20:51:32.000Z"
+        },
+        {
+          "id": "om_fb2486151c",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all",
+          "url": "https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/",
+          "postedAt": "2026-07-06T18:12:01.000Z"
+        },
+        {
+          "id": "om_0c72edd4f1",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Your ‘omnichannel’ media strategy is ignoring half the shopper journey",
+          "url": "https://www.retaildive.com/spons/your-omnichannel-media-strategy-is-ignoring-half-the-shopper-journey/824046/",
+          "postedAt": "2026-07-06T15:53:59.000Z"
+        },
         {
           "id": "om_91e1da7c4a",
           "source": "Retail Dive",
@@ -827,34 +851,10 @@
           "title": "Sociable: Reddit launches ‘People are the Best’ campaign",
           "url": "https://www.marketingdive.com/news/sociable-reddit-launches-people-are-the-best-campaign/824366/",
           "postedAt": "2026-07-02T16:13:00.000Z"
-        },
-        {
-          "id": "om_a1d0c5f8f8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target grows marketplace with Forever 21, Clarks brand additions",
-          "url": "https://www.retaildive.com/news/target-grows-marketplace-forever-21-clarks-beauty-brand-additions/824336/",
-          "postedAt": "2026-07-02T15:23:00.000Z"
-        },
-        {
-          "id": "om_d358c42fec",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "4 experts on how to make AI investments worthwhile",
-          "url": "https://www.retaildive.com/news/experts-how-to-make-ai-investments-worthwhile/824254/",
-          "postedAt": "2026-07-02T14:24:00.000Z"
-        },
-        {
-          "id": "om_bce141bad0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketing Vanguard at Cannes: Human Ingenuity Still Runs the Game ft. Dara Treseder",
-          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-human-ingenuity-still-runs-the-game-ft-dara-treseder/",
-          "postedAt": "2026-07-02T14:03:12.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-06T15:56:34.312Z",
+      "lastUpdated": "2026-07-07T04:18:28.741Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
