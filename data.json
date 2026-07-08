@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-08T03:45:35.751Z",
+      "lastUpdated": "2026-07-08T14:42:43.862Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_6a4bfe5008",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "What a harness is and how to build one with Claude Agent SDK",
+          "url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
+          "postedAt": "2026-07-08T12:03:35.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_1484302de8",
           "source": "Lenny's Podcast",
@@ -536,14 +544,6 @@
           "postedAt": "2026-06-28T12:31:54.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_be88824edb",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Beating a career slump, adding more structure to an established team, questions for new-team 1:1s, the evolving shape of the growth role, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-beating-a-career",
-          "postedAt": "2026-06-27T17:09:06.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_2a0e0efe2b",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-08T03:45:37.398Z",
+      "lastUpdated": "2026-07-08T14:42:45.444Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -692,6 +692,38 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_314d1d531c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Chipotle drives rewards program with ‘PGA Tour 2K25’ integration",
+          "url": "https://www.marketingdive.com/news/chipotle-drives-rewards-program-with-pga-tour-2k25-integration/824619/",
+          "postedAt": "2026-07-08T13:00:00.000Z"
+        },
+        {
+          "id": "om_c611ec8cdd",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The running list of retail deals in 2026",
+          "url": "https://www.retaildive.com/news/running-list-major-retail-deals-acquisitions-ipos-2026/824389/",
+          "postedAt": "2026-07-08T13:00:00.000Z"
+        },
+        {
+          "id": "om_0f167de029",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Doritos gets global, year-round scale with Formula 1 partnership",
+          "url": "https://www.marketingdive.com/news/how-doritos-gets-global-year-round-scale-with-formula-1-partnership/824591/",
+          "postedAt": "2026-07-08T12:38:00.000Z"
+        },
+        {
+          "id": "om_2e17112dda",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Whoop Hires Former Nike CMO as its Top Marketer",
+          "url": "https://www.adweek.com/brand-marketing/whoop-hires-former-nike-cmo-as-its-top-marketer/",
+          "postedAt": "2026-07-08T07:00:00.000Z"
+        },
         {
           "id": "om_8c734a4447",
           "source": "Social Media Today",
@@ -789,14 +821,6 @@
           "postedAt": "2026-07-07T13:04:09.000Z"
         },
         {
-          "id": "om_16589613c6",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-          "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-          "postedAt": "2026-07-07T12:00:00.000Z"
-        },
-        {
           "id": "om_372eb24473",
           "source": "Marketing Dive",
           "lang": "en",
@@ -813,22 +837,6 @@
           "postedAt": "2026-07-07T09:33:49.000Z"
         },
         {
-          "id": "om_2a42e18e9e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Former Fitzco CEO Evan Levy Joins Ammunition to Deepen Client Relationships",
-          "url": "https://www.adweek.com/agencies/former-fitzco-ceo-evan-levy-joins-ammunition-to-deepen-client-relationships/",
-          "postedAt": "2026-07-07T06:00:00.000Z"
-        },
-        {
-          "id": "om_e74c9d6c25",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK Commerce Advantage: Walmart Chases Amazon While Amazon Prepares for an AI Future",
-          "url": "https://www.adweek.com/commerce/adweek-commerce-advantage-walmart-chases-amazon-while-amazon-prepares-for-an-ai-future/",
-          "postedAt": "2026-07-07T06:00:00.000Z"
-        },
-        {
           "id": "om_1b14bef048",
           "source": "Marketing Brew",
           "lang": "en",
@@ -843,18 +851,10 @@
           "title": "How Southwest Airlines is looking to bring hospitality to the skies",
           "url": "https://www.marketingbrew.com/stories/cannes-lions-southwest-sabrina-callahan-GSD-and-M-kate-rush-sheehy-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-07-06T20:51:32.000Z"
-        },
-        {
-          "id": "om_0c72edd4f1",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Your ‘omnichannel’ media strategy is ignoring half the shopper journey",
-          "url": "https://www.retaildive.com/spons/your-omnichannel-media-strategy-is-ignoring-half-the-shopper-journey/824046/",
-          "postedAt": "2026-07-06T15:53:59.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-08T03:45:39.131Z",
+      "lastUpdated": "2026-07-08T14:42:47.981Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
