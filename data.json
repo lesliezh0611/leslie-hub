@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-07T15:15:59.811Z",
+      "lastUpdated": "2026-07-08T03:45:35.751Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-07T15:16:01.150Z",
+      "lastUpdated": "2026-07-08T03:45:37.398Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,86 @@
       },
       "articles": [
         {
+          "id": "om_8c734a4447",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok launches Discover America tour",
+          "url": "https://www.socialmediatoday.com/news/tiktok-launches-discover-america-tour/824659/",
+          "postedAt": "2026-07-07T23:21:07.000Z"
+        },
+        {
+          "id": "om_126a3f6547",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "SpaceX rebrands as SpaceXAI",
+          "url": "https://www.socialmediatoday.com/news/spacex-rebrands-as-spacexai/824656/",
+          "postedAt": "2026-07-07T22:11:35.000Z"
+        },
+        {
+          "id": "om_5fccc54344",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Brands see content gold in microdramas. Will they muck up the moment?",
+          "url": "https://www.marketingdive.com/news/brands-content-gold-microdramas-will-they-muck-up-moment/819961/",
+          "postedAt": "2026-07-07T16:40:00.000Z"
+        },
+        {
+          "id": "om_92d01173d9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Marketing’s data breakdown: H1 by the numbers",
+          "url": "https://www.marketingdive.com/news/marketings-data-breakdown-h1-by-the-numbers/819958/",
+          "postedAt": "2026-07-07T16:40:00.000Z"
+        },
+        {
+          "id": "om_8582538f21",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "The best brand campaigns of H1 2026 sold honesty. Are consumers buying?",
+          "url": "https://www.marketingdive.com/news/best-brand-campaigns-h1-2026-sold-honesty-consumers-buying/819960/",
+          "postedAt": "2026-07-07T16:40:00.000Z"
+        },
+        {
+          "id": "om_8561105af5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Is This the End of Tech-Spec Marketing? ft. Hisense CMO Sarah Larsen",
+          "url": "https://www.adweek.com/brand-marketing/is-this-the-end-of-tech-spec-marketing-ft-hisense-cmo-sarah-larsen/",
+          "postedAt": "2026-07-07T16:19:28.000Z"
+        },
+        {
+          "id": "om_01cf830787",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Candlemaking, tarot cards, yoga, and more: Inside Recess’s event-centric strategy",
+          "url": "https://www.marketingbrew.com/stories/recess-events-focused-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-07T16:03:45.000Z"
+        },
+        {
+          "id": "om_58c77c0396",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Nordstrom teases retail’s other big summer sale",
+          "url": "https://www.retaildive.com/news/nordstrom-teases-anniversary-summer-sale/824579/",
+          "postedAt": "2026-07-07T15:58:00.000Z"
+        },
+        {
+          "id": "om_2a755d7784",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Staples, Dollar General tout 2025 pricing for back-to-school sales",
+          "url": "https://www.retaildive.com/news/staples-dollar-general-back-to-school-sales-low-pricing/824571/",
+          "postedAt": "2026-07-07T15:30:00.000Z"
+        },
+        {
+          "id": "om_15d65a82d5",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "X adds a video editor to encourage creators to post original content, not stolen reposts",
+          "url": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/",
+          "postedAt": "2026-07-07T15:19:33.000Z"
+        },
+        {
           "id": "om_4bc2edf61e",
           "source": "Retail Dive",
           "lang": "en",
@@ -701,12 +781,12 @@
           "postedAt": "2026-07-07T14:41:00.000Z"
         },
         {
-          "id": "om_ccab3377ce",
-          "source": "The Verge",
+          "id": "om_b955e66854",
+          "source": "Adweek",
           "lang": "en",
-          "title": "Google Search lets creators know more about their reach",
-          "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-          "postedAt": "2026-07-07T13:01:18.000Z"
+          "title": "These Creators Are Hacking ChatGPT To Rake In Brand Deals",
+          "url": "https://www.adweek.com/agencies/these-creators-are-hacking-chatgpt-to-rake-in-brand-deals/",
+          "postedAt": "2026-07-07T13:04:09.000Z"
         },
         {
           "id": "om_16589613c6",
@@ -749,20 +829,12 @@
           "postedAt": "2026-07-07T06:00:00.000Z"
         },
         {
-          "id": "om_f3affbfa6e",
-          "source": "Adweek",
+          "id": "om_1b14bef048",
+          "source": "Marketing Brew",
           "lang": "en",
-          "title": "ADWEEK Launches Agencies Vanguard Membership Program",
-          "url": "https://www.adweek.com/agencies/adweek-launches-agencies-vanguard-membership-program/",
-          "postedAt": "2026-07-07T06:00:00.000Z"
-        },
-        {
-          "id": "om_78efee33d5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Turning Cultural Moments Into Measurable Growth with TikTok and Keurig Dr Pepper",
-          "url": "https://www.adweek.com/brand-marketing/turning-cultural-moments-into-measurable-growth-with-tiktok-and-keurig-dr-pepper/",
-          "postedAt": "2026-07-07T03:46:47.000Z"
+          "title": "DOOH ads lead a ‘critical internal structural shift’ in US OOH market: PwC",
+          "url": "https://www.marketingbrew.com/stories/dooh-ads-lead-a-critical-internal-structural-shift-in-us-ooh-market-pwc?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-06T21:23:21.000Z"
         },
         {
           "id": "om_fac1e3f875",
@@ -773,88 +845,16 @@
           "postedAt": "2026-07-06T20:51:32.000Z"
         },
         {
-          "id": "om_fb2486151c",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Amazon competitor Bookshop.org says Kobo eReader support will happen this year after all",
-          "url": "https://techcrunch.com/2026/07/06/amazon-competitor-bookshop-org-says-kobo-e-reader-support-will-happen-this-year-after-all/",
-          "postedAt": "2026-07-06T18:12:01.000Z"
-        },
-        {
           "id": "om_0c72edd4f1",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Your ‘omnichannel’ media strategy is ignoring half the shopper journey",
           "url": "https://www.retaildive.com/spons/your-omnichannel-media-strategy-is-ignoring-half-the-shopper-journey/824046/",
           "postedAt": "2026-07-06T15:53:59.000Z"
-        },
-        {
-          "id": "om_91e1da7c4a",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bath & Body Works collabs with Hilary Duff to introduce Fruit Fusion",
-          "url": "https://www.retaildive.com/news/bath-body-works-partners-hilary-duff-fruit-fusion/824441/",
-          "postedAt": "2026-07-06T15:39:00.000Z"
-        },
-        {
-          "id": "om_8f85b18e13",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Primark leans on expansion for growth",
-          "url": "https://www.retaildive.com/news/primark-store-expansion-sales-growth-weakness/824322/",
-          "postedAt": "2026-07-06T15:25:00.000Z"
-        },
-        {
-          "id": "om_faa8c0f38d",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why this marketer thinks brands should leave platform-specific social strategies behind",
-          "url": "https://www.marketingbrew.com/stories/collectively-natalie-silverstein-q-and-a?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-06T15:11:15.000Z"
-        },
-        {
-          "id": "om_6b077e0096",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why Febreze is taking on soccer stink via podcasts, experiences",
-          "url": "https://www.marketingdive.com/news/why-febreze-is-taking-on-soccer-stink-via-podcasts-experiences/824307/",
-          "postedAt": "2026-07-06T15:00:00.000Z"
-        },
-        {
-          "id": "om_38173f7b96",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Ulta’s chief marketer on blending brand building and omnichannel marketing",
-          "url": "https://www.retaildive.com/news/ulta-beauty-marketing-chief-kelly-mahoney-brand-building-omnichannel-marketing/824315/",
-          "postedAt": "2026-07-06T14:36:00.000Z"
-        },
-        {
-          "id": "om_09d3209841",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How fandoms are different and why Havas is doubling down on them",
-          "url": "https://www.marketingdive.com/news/how-fandoms-are-different-why-havas-is-doubling-down/824407/",
-          "postedAt": "2026-07-06T14:30:00.000Z"
-        },
-        {
-          "id": "om_bdba507d12",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why Conair is moving fast to adopt AI-driven video ads",
-          "url": "https://www.marketingdive.com/news/why-conair-is-moving-fast-to-adopt-ai-driven-video-ads/824270/",
-          "postedAt": "2026-07-06T13:30:00.000Z"
-        },
-        {
-          "id": "om_e35ec9ed4b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "AI in retail is only as good as its data foundation",
-          "url": "https://www.retaildive.com/spons/ai-in-retail-is-only-as-good-as-its-data-foundation/824409/",
-          "postedAt": "2026-07-06T09:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-07T15:16:02.776Z",
+      "lastUpdated": "2026-07-08T03:45:39.131Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
