@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-08T14:42:43.862Z",
+      "lastUpdated": "2026-07-09T04:19:54.283Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-08T14:42:45.444Z",
+      "lastUpdated": "2026-07-09T04:19:55.358Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -692,6 +692,70 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_9b837c5e61",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How to tackle the beach at Cannes Lions, according to Colin & Samir",
+          "url": "https://www.marketingbrew.com/stories/creators-at-cannes-colin-and-samir?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-08T17:16:19.000Z"
+        },
+        {
+          "id": "om_24702f74b1",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Home Depot adds 7-Eleven, Jimmy John’s as pro loyalty partners",
+          "url": "https://www.retaildive.com/news/home-depot-7-eleven-jimmy-johns-pro-loyalty-partners/824672/",
+          "postedAt": "2026-07-08T16:18:00.000Z"
+        },
+        {
+          "id": "om_76dc2eedf1",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Integral Ad Science’s New CEO Dishes on Her Plans for the Company",
+          "url": "https://www.adweek.com/agencies/integral-ad-sciences-new-ceo-dishes-on-her-plans-for-the-company/",
+          "postedAt": "2026-07-08T16:13:26.000Z"
+        },
+        {
+          "id": "om_ee52409c69",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Kohl’s prices thousands of back-to-school items under $25 as consumers look for deals",
+          "url": "https://www.retaildive.com/news/kohls-low-prices-thousands-back-to-school-items-consumer-deals/824683/",
+          "postedAt": "2026-07-08T16:10:00.000Z"
+        },
+        {
+          "id": "om_258967b2f0",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Retailers plan to invest deeper in AI, cybersecurity this year",
+          "url": "https://www.retaildive.com/news/retailers-increase-investments-spending-ai-digital-technology/824613/",
+          "postedAt": "2026-07-08T15:54:00.000Z"
+        },
+        {
+          "id": "om_9cd8e9ee0a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "FP Movement launches Asics footwear collaboration",
+          "url": "https://www.retaildive.com/news/fp-movement-asics-footwear-collaboration/824688/",
+          "postedAt": "2026-07-08T15:24:00.000Z"
+        },
+        {
+          "id": "om_9cbdf36224",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Inflation-Wary Parents Turn to AI to Thrift for Back-to-School Deals",
+          "url": "https://www.adweek.com/brand-marketing/inflation-wary-parents-turn-to-ai-to-thrift-for-back-to-school-deals/",
+          "postedAt": "2026-07-08T14:22:13.000Z"
+        },
+        {
+          "id": "om_3b36945d6e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why the Bot-Majority Internet Demands a Marketing Reset",
+          "url": "https://www.adweek.com/media/why-the-bot-majority-internet-demands-a-marketing-reset/",
+          "postedAt": "2026-07-08T13:29:10.000Z"
+        },
         {
           "id": "om_314d1d531c",
           "source": "Marketing Dive",
@@ -787,74 +851,10 @@
           "title": "Nordstrom teases retail’s other big summer sale",
           "url": "https://www.retaildive.com/news/nordstrom-teases-anniversary-summer-sale/824579/",
           "postedAt": "2026-07-07T15:58:00.000Z"
-        },
-        {
-          "id": "om_2a755d7784",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Staples, Dollar General tout 2025 pricing for back-to-school sales",
-          "url": "https://www.retaildive.com/news/staples-dollar-general-back-to-school-sales-low-pricing/824571/",
-          "postedAt": "2026-07-07T15:30:00.000Z"
-        },
-        {
-          "id": "om_15d65a82d5",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "X adds a video editor to encourage creators to post original content, not stolen reposts",
-          "url": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/",
-          "postedAt": "2026-07-07T15:19:33.000Z"
-        },
-        {
-          "id": "om_4bc2edf61e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "For luxury, the in-store experience still reigns",
-          "url": "https://www.retaildive.com/news/luxury-store-experience-shopping/824578/",
-          "postedAt": "2026-07-07T14:41:00.000Z"
-        },
-        {
-          "id": "om_b955e66854",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "These Creators Are Hacking ChatGPT To Rake In Brand Deals",
-          "url": "https://www.adweek.com/agencies/these-creators-are-hacking-chatgpt-to-rake-in-brand-deals/",
-          "postedAt": "2026-07-07T13:04:09.000Z"
-        },
-        {
-          "id": "om_372eb24473",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "State Farm enlists IShowSpeed to keep season five of gaming series fresh",
-          "url": "https://www.marketingdive.com/news/state-farm-ishowspeed-keeps-season-five-gaming-series-fresh/824308/",
-          "postedAt": "2026-07-07T12:00:00.000Z"
-        },
-        {
-          "id": "om_6c8f091bf4",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Bright Side: The Supergoop! Playbook for Turning Sun Care Into a Cultural Movement",
-          "url": "https://www.adweek.com/brand-marketing/bright-side-the-supergoop-playbook-for-turning-sun-care-into-a-cultural-movement/",
-          "postedAt": "2026-07-07T09:33:49.000Z"
-        },
-        {
-          "id": "om_1b14bef048",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "DOOH ads lead a ‘critical internal structural shift’ in US OOH market: PwC",
-          "url": "https://www.marketingbrew.com/stories/dooh-ads-lead-a-critical-internal-structural-shift-in-us-ooh-market-pwc?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-06T21:23:21.000Z"
-        },
-        {
-          "id": "om_fac1e3f875",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How Southwest Airlines is looking to bring hospitality to the skies",
-          "url": "https://www.marketingbrew.com/stories/cannes-lions-southwest-sabrina-callahan-GSD-and-M-kate-rush-sheehy-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-06T20:51:32.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-08T14:42:47.981Z",
+      "lastUpdated": "2026-07-09T04:19:57.068Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
