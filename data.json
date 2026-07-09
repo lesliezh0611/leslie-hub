@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-09T04:19:54.283Z",
+      "lastUpdated": "2026-07-09T15:34:41.771Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_492d99448b",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Adam Mosseri: AI is a tailwind for authenticity",
+          "url": "https://www.lennysnewsletter.com/p/adam-mosseri-ai-is-a-tailwind-for",
+          "postedAt": "2026-07-09T12:32:21.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_6a4bfe5008",
           "source": "Lenny's Podcast",
@@ -534,22 +542,6 @@
           "topic": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
           "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
           "postedAt": "2026-06-29T12:03:38.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_6208239ba0",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
-          "url": "https://www.lennysnewsletter.com/p/openai-codex-lead-on-the-new-shape",
-          "postedAt": "2026-06-28T12:31:54.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_2a0e0efe2b",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "How to Repair and Nourish Your Gut | Dr. Giulia Enders",
-          "url": "https://fs.blog/knowledge-project-podcast/dr-giulia-enders/",
-          "postedAt": "2026-06-18T09:45:00.000Z"
         }
       ],
       "books": [
@@ -600,10 +592,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-09T04:19:55.358Z",
+      "lastUpdated": "2026-07-09T15:34:42.841Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -693,6 +685,94 @@
       },
       "articles": [
         {
+          "id": "om_a417e5e637",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: Meta adds updated disclosure tags for AI-generated ads",
+          "url": "https://www.marketingdive.com/news/sociable-meta-adds-updated-disclosure-tags-for-ai-generated-ads/824833/",
+          "postedAt": "2026-07-09T15:11:00.000Z"
+        },
+        {
+          "id": "om_f4960aad1d",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Mike’s Hard, Genesis take creative swings with custom Netflix campaigns",
+          "url": "https://www.marketingdive.com/news/mikes-hard-genesis-take-creative-swings-with-custom-netflix-campaigns/824804/",
+          "postedAt": "2026-07-09T14:44:00.000Z"
+        },
+        {
+          "id": "om_f231016618",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Thrifting, consumer habits may help shift textile recycling challenges",
+          "url": "https://www.retaildive.com/news/thrifting-consumer-habits-shift-textile-recycling-challenges/824809/",
+          "postedAt": "2026-07-09T14:43:00.000Z"
+        },
+        {
+          "id": "om_6467b5f49a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Aéropostale entertains Gen Alpha with a creator-led mini-series",
+          "url": "https://www.marketingdive.com/news/how-aeropostale-entertains-gen-alpha-with-a-creator-led-mini-series/824693/",
+          "postedAt": "2026-07-09T14:30:00.000Z"
+        },
+        {
+          "id": "om_776584888c",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "TvScientific by Pinterest rolls out Certified Measurement Partner Program as part of measurement push",
+          "url": "https://www.marketingbrew.com/stories/tvscientific-by-pinterest-certified-measurement-partner-program?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-09T13:00:34.000Z"
+        },
+        {
+          "id": "om_082366c6e9",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How brands are embedding themselves in World Cup hype on Reddit",
+          "url": "https://www.marketingbrew.com/stories/reddit-world-cup-advertising?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-09T12:29:53.000Z"
+        },
+        {
+          "id": "om_4b304036f2",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why unpaid media is now essential to AI visibility",
+          "url": "https://www.marketingdive.com/news/why-unpaid-media-is-now-essential-to-ai-visibility/822485/",
+          "postedAt": "2026-07-09T12:00:00.000Z"
+        },
+        {
+          "id": "om_883b509a83",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Vitaminwater doubles down on content series celebrating local art",
+          "url": "https://www.marketingdive.com/news/vitaminwater-broadens-multicultural-marketing-canvas-with-neighborhue/824744/",
+          "postedAt": "2026-07-09T12:00:00.000Z"
+        },
+        {
+          "id": "om_9037e2892e",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Influencers Are Promoting $50 Straws They Claim Will Protect Against Electromagnetic Radiation",
+          "url": "https://www.wired.com/story/wellness-influencers-are-promoting-dollar50-straws-to-protect-against-electromagnetic-radiation/",
+          "postedAt": "2026-07-09T10:30:00.000Z"
+        },
+        {
+          "id": "om_d70b5ff7ea",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Colle McVoy Lands Allegiant as Sun Country Merger Reshapes Its Brand",
+          "url": "https://www.adweek.com/agencies/colle-mcvoy-lands-allegiant-as-sun-country-merger-reshapes-its-brand/",
+          "postedAt": "2026-07-09T08:41:32.000Z"
+        },
+        {
+          "id": "om_0f68ca92d9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The 13 Biggest CMO Moves of 2026 So Far",
+          "url": "https://www.adweek.com/brand-marketing/the-13-biggest-cmo-moves-of-2026-so-far/",
+          "postedAt": "2026-07-09T06:00:00.000Z"
+        },
+        {
           "id": "om_9b837c5e61",
           "source": "Marketing Brew",
           "lang": "en",
@@ -763,98 +843,10 @@
           "title": "Chipotle drives rewards program with ‘PGA Tour 2K25’ integration",
           "url": "https://www.marketingdive.com/news/chipotle-drives-rewards-program-with-pga-tour-2k25-integration/824619/",
           "postedAt": "2026-07-08T13:00:00.000Z"
-        },
-        {
-          "id": "om_c611ec8cdd",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The running list of retail deals in 2026",
-          "url": "https://www.retaildive.com/news/running-list-major-retail-deals-acquisitions-ipos-2026/824389/",
-          "postedAt": "2026-07-08T13:00:00.000Z"
-        },
-        {
-          "id": "om_0f167de029",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Doritos gets global, year-round scale with Formula 1 partnership",
-          "url": "https://www.marketingdive.com/news/how-doritos-gets-global-year-round-scale-with-formula-1-partnership/824591/",
-          "postedAt": "2026-07-08T12:38:00.000Z"
-        },
-        {
-          "id": "om_2e17112dda",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Whoop Hires Former Nike CMO as its Top Marketer",
-          "url": "https://www.adweek.com/brand-marketing/whoop-hires-former-nike-cmo-as-its-top-marketer/",
-          "postedAt": "2026-07-08T07:00:00.000Z"
-        },
-        {
-          "id": "om_8c734a4447",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok launches Discover America tour",
-          "url": "https://www.socialmediatoday.com/news/tiktok-launches-discover-america-tour/824659/",
-          "postedAt": "2026-07-07T23:21:07.000Z"
-        },
-        {
-          "id": "om_126a3f6547",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "SpaceX rebrands as SpaceXAI",
-          "url": "https://www.socialmediatoday.com/news/spacex-rebrands-as-spacexai/824656/",
-          "postedAt": "2026-07-07T22:11:35.000Z"
-        },
-        {
-          "id": "om_5fccc54344",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Brands see content gold in microdramas. Will they muck up the moment?",
-          "url": "https://www.marketingdive.com/news/brands-content-gold-microdramas-will-they-muck-up-moment/819961/",
-          "postedAt": "2026-07-07T16:40:00.000Z"
-        },
-        {
-          "id": "om_92d01173d9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Marketing’s data breakdown: H1 by the numbers",
-          "url": "https://www.marketingdive.com/news/marketings-data-breakdown-h1-by-the-numbers/819958/",
-          "postedAt": "2026-07-07T16:40:00.000Z"
-        },
-        {
-          "id": "om_8582538f21",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "The best brand campaigns of H1 2026 sold honesty. Are consumers buying?",
-          "url": "https://www.marketingdive.com/news/best-brand-campaigns-h1-2026-sold-honesty-consumers-buying/819960/",
-          "postedAt": "2026-07-07T16:40:00.000Z"
-        },
-        {
-          "id": "om_8561105af5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Is This the End of Tech-Spec Marketing? ft. Hisense CMO Sarah Larsen",
-          "url": "https://www.adweek.com/brand-marketing/is-this-the-end-of-tech-spec-marketing-ft-hisense-cmo-sarah-larsen/",
-          "postedAt": "2026-07-07T16:19:28.000Z"
-        },
-        {
-          "id": "om_01cf830787",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Candlemaking, tarot cards, yoga, and more: Inside Recess’s event-centric strategy",
-          "url": "https://www.marketingbrew.com/stories/recess-events-focused-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-07T16:03:45.000Z"
-        },
-        {
-          "id": "om_58c77c0396",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Nordstrom teases retail’s other big summer sale",
-          "url": "https://www.retaildive.com/news/nordstrom-teases-anniversary-summer-sale/824579/",
-          "postedAt": "2026-07-07T15:58:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-09T04:19:57.068Z",
+      "lastUpdated": "2026-07-09T15:34:44.212Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
