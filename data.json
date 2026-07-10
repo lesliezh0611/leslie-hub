@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-10T04:15:49.234Z",
+      "lastUpdated": "2026-07-10T14:53:09.100Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -454,6 +454,14 @@
           "topic": "GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark",
           "url": "https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais",
           "postedAt": "2026-07-09T17:33:57.000Z"
+        },
+        {
+          "id": "en_pod_the_knowledge_project_8a62320f43",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "The Best Summary of Atlas Shrugged",
+          "url": "https://fs.blog/atlas-shrugged-summary/",
+          "postedAt": "2026-07-09T13:47:27.000Z"
         },
         {
           "id": "en_pod_lenny_s_podcast_492d99448b",
@@ -592,10 +600,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-10T04:15:51.102Z",
+      "lastUpdated": "2026-07-10T14:53:10.263Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -685,6 +693,62 @@
       },
       "articles": [
         {
+          "id": "om_dabd4d6e42",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside StreetEasy’s decade of iconic NYC subway ads",
+          "url": "https://www.marketingbrew.com/stories/streeteasy-iconic-nyc-subway-ads-OOH-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-10T12:00:00.000Z"
+        },
+        {
+          "id": "om_5fb35423c6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Maker of Slim Jim, Reddi-wip, and Swiss Miss Has a New Commerce Agency",
+          "url": "https://www.adweek.com/commerce/the-maker-of-slim-jim-reddi-wip-and-swiss-miss-has-a-new-commerce-agency/",
+          "postedAt": "2026-07-10T10:00:00.000Z"
+        },
+        {
+          "id": "om_91be4b09ad",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "EXCLUSIVE: Zenith Retains Reckitt’s $400M US Media Business Following WPP’s Europe Win",
+          "url": "https://www.adweek.com/agencies/exclusive-zenith-retains-reckitts-400m-us-media-business-following-wpps-europe-win/",
+          "postedAt": "2026-07-10T09:59:11.000Z"
+        },
+        {
+          "id": "om_df4357fca9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "5 Things That Hit This Week: Criteo Faces a Takeover Bid While Pacvue and The Trade Desk Win New Deals",
+          "url": "https://www.adweek.com/commerce/5-things-that-hit-this-week-criteo-faces-a-takeover-bid-while-pacvue-and-the-trade-desk-win-new-deals/",
+          "postedAt": "2026-07-10T09:54:22.000Z"
+        },
+        {
+          "id": "om_0dddae0aa8",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Gen Z’s Short Attention Span Is a Myth. Here Are 5 Keys To Capturing Their Interest.",
+          "url": "https://www.adweek.com/brand-marketing/gen-zs-short-attention-span-is-a-myth-here-are-5-keys-to-capturing-their-interest/",
+          "postedAt": "2026-07-10T07:00:00.000Z"
+        },
+        {
+          "id": "om_9bc1c88676",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 8 Campaigns That Caught Our Eye, From KFC to Reebok",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-8-campaigns-that-caught-our-eye-from-kfc-to-reebok/",
+          "postedAt": "2026-07-10T06:00:00.000Z"
+        },
+        {
+          "id": "om_9e4f8669c2",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Polestar owners left ‘holding the bag’ after EV brand pulls out of the US",
+          "url": "https://www.theverge.com/transportation/963399/polestar-owners-ban-dealers-service-warranty-lease",
+          "postedAt": "2026-07-09T19:18:55.000Z"
+        },
+        {
           "id": "om_74404e8f08",
           "source": "TechCrunch",
           "lang": "en",
@@ -699,14 +763,6 @@
           "title": "Meta introduces AI-powered room visualization feature",
           "url": "https://www.retaildive.com/news/meta-muse-image-ai-powered-room-visualization-feature/824841/",
           "postedAt": "2026-07-09T17:30:00.000Z"
-        },
-        {
-          "id": "om_f0eeef35bb",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Nvidia is a victim of the compute marketplace it created",
-          "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
-          "postedAt": "2026-07-09T17:06:11.000Z"
         },
         {
           "id": "om_1de68212d3",
@@ -795,58 +851,10 @@
           "title": "The World Cup’s hydration breaks are lucrative. Are they worth frustrating fans?",
           "url": "https://www.marketingbrew.com/stories/world-cup-hydration-breaks-powerade?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-07-09T13:23:58.000Z"
-        },
-        {
-          "id": "om_776584888c",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "TvScientific by Pinterest rolls out Certified Measurement Partner Program as part of measurement push",
-          "url": "https://www.marketingbrew.com/stories/tvscientific-by-pinterest-certified-measurement-partner-program?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-09T13:00:34.000Z"
-        },
-        {
-          "id": "om_082366c6e9",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How brands are embedding themselves in World Cup hype on Reddit",
-          "url": "https://www.marketingbrew.com/stories/reddit-world-cup-advertising?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-09T12:29:53.000Z"
-        },
-        {
-          "id": "om_4b304036f2",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why unpaid media is now essential to AI visibility",
-          "url": "https://www.marketingdive.com/news/why-unpaid-media-is-now-essential-to-ai-visibility/822485/",
-          "postedAt": "2026-07-09T12:00:00.000Z"
-        },
-        {
-          "id": "om_883b509a83",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Vitaminwater doubles down on content series celebrating local art",
-          "url": "https://www.marketingdive.com/news/vitaminwater-broadens-multicultural-marketing-canvas-with-neighborhue/824744/",
-          "postedAt": "2026-07-09T12:00:00.000Z"
-        },
-        {
-          "id": "om_9037e2892e",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Influencers Are Promoting $50 Straws They Claim Will Protect Against Electromagnetic Radiation",
-          "url": "https://www.wired.com/story/wellness-influencers-are-promoting-dollar50-straws-to-protect-against-electromagnetic-radiation/",
-          "postedAt": "2026-07-09T10:30:00.000Z"
-        },
-        {
-          "id": "om_d70b5ff7ea",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Colle McVoy Lands Allegiant as Sun Country Merger Reshapes Its Brand",
-          "url": "https://www.adweek.com/agencies/colle-mcvoy-lands-allegiant-as-sun-country-merger-reshapes-its-brand/",
-          "postedAt": "2026-07-09T08:41:32.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-10T04:15:52.887Z",
+      "lastUpdated": "2026-07-10T14:53:12.238Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
