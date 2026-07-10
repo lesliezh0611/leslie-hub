@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-09T15:34:41.771Z",
+      "lastUpdated": "2026-07-10T04:15:49.234Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_40d95b41a0",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark",
+          "url": "https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais",
+          "postedAt": "2026-07-09T17:33:57.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_492d99448b",
           "source": "Lenny's Podcast",
@@ -534,14 +542,6 @@
           "topic": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
           "url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
           "postedAt": "2026-06-29T15:02:35.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_4770d09780",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
-          "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
-          "postedAt": "2026-06-29T12:03:38.000Z"
         }
       ],
       "books": [
@@ -592,7 +592,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-09T15:34:42.841Z",
+      "lastUpdated": "2026-07-10T04:15:51.102Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -685,6 +685,70 @@
       },
       "articles": [
         {
+          "id": "om_74404e8f08",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "FanDuel sent a video from star athlete Bryce Harper to a customer with a gambling problem",
+          "url": "https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/",
+          "postedAt": "2026-07-09T18:50:00.000Z"
+        },
+        {
+          "id": "om_d0b3f233c9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Meta introduces AI-powered room visualization feature",
+          "url": "https://www.retaildive.com/news/meta-muse-image-ai-powered-room-visualization-feature/824841/",
+          "postedAt": "2026-07-09T17:30:00.000Z"
+        },
+        {
+          "id": "om_f0eeef35bb",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Nvidia is a victim of the compute marketplace it created",
+          "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
+          "postedAt": "2026-07-09T17:06:11.000Z"
+        },
+        {
+          "id": "om_1de68212d3",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Are grocers making smart investments in back-end AI?",
+          "url": "https://www.retaildive.com/news/grocers-ai-back-end-operations/824806/",
+          "postedAt": "2026-07-09T16:46:00.000Z"
+        },
+        {
+          "id": "om_4f55766df9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Levi’s World Cup virality could boost Q3",
+          "url": "https://www.retaildive.com/news/levis-world-cup-virality-earnings-boost/824805/",
+          "postedAt": "2026-07-09T16:31:00.000Z"
+        },
+        {
+          "id": "om_b9d79e4a61",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Heinz calls foul on small condiment packets in social World Cup effort",
+          "url": "https://www.marketingdive.com/news/heinz-calls-foul-on-small-condiment-packets-in-social-world-cup-effort/824750/",
+          "postedAt": "2026-07-09T16:14:00.000Z"
+        },
+        {
+          "id": "om_cd5c088806",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Destination XL board rejects go-private offer — again",
+          "url": "https://www.retaildive.com/news/destination-xl-board-rejects-zodiac-partners-go-private-offer-again/824822/",
+          "postedAt": "2026-07-09T16:12:00.000Z"
+        },
+        {
+          "id": "om_f70dc0b8a4",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Back-to-school shoppers head to mass merchants, department stores",
+          "url": "https://www.retaildive.com/news/back-to-school-shoppers-mass-merchants-department-stores-spending-down/824817/",
+          "postedAt": "2026-07-09T15:58:00.000Z"
+        },
+        {
           "id": "om_a417e5e637",
           "source": "Marketing Dive",
           "lang": "en",
@@ -715,6 +779,22 @@
           "title": "How Aéropostale entertains Gen Alpha with a creator-led mini-series",
           "url": "https://www.marketingdive.com/news/how-aeropostale-entertains-gen-alpha-with-a-creator-led-mini-series/824693/",
           "postedAt": "2026-07-09T14:30:00.000Z"
+        },
+        {
+          "id": "om_3e43effc61",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Marketing Vanguard at Cannes: Why the Experience Is the Brand ft. Virgin Voyages’ Nathan Rosenberg",
+          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-why-the-experience-is-the-brand-ft-virgin-voyages-nathan-rosenberg/",
+          "postedAt": "2026-07-09T13:41:01.000Z"
+        },
+        {
+          "id": "om_5dc6369bb3",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "The World Cup’s hydration breaks are lucrative. Are they worth frustrating fans?",
+          "url": "https://www.marketingbrew.com/stories/world-cup-hydration-breaks-powerade?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-09T13:23:58.000Z"
         },
         {
           "id": "om_776584888c",
@@ -763,90 +843,10 @@
           "title": "Colle McVoy Lands Allegiant as Sun Country Merger Reshapes Its Brand",
           "url": "https://www.adweek.com/agencies/colle-mcvoy-lands-allegiant-as-sun-country-merger-reshapes-its-brand/",
           "postedAt": "2026-07-09T08:41:32.000Z"
-        },
-        {
-          "id": "om_0f68ca92d9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The 13 Biggest CMO Moves of 2026 So Far",
-          "url": "https://www.adweek.com/brand-marketing/the-13-biggest-cmo-moves-of-2026-so-far/",
-          "postedAt": "2026-07-09T06:00:00.000Z"
-        },
-        {
-          "id": "om_9b837c5e61",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How to tackle the beach at Cannes Lions, according to Colin & Samir",
-          "url": "https://www.marketingbrew.com/stories/creators-at-cannes-colin-and-samir?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-08T17:16:19.000Z"
-        },
-        {
-          "id": "om_24702f74b1",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Home Depot adds 7-Eleven, Jimmy John’s as pro loyalty partners",
-          "url": "https://www.retaildive.com/news/home-depot-7-eleven-jimmy-johns-pro-loyalty-partners/824672/",
-          "postedAt": "2026-07-08T16:18:00.000Z"
-        },
-        {
-          "id": "om_76dc2eedf1",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Integral Ad Science’s New CEO Dishes on Her Plans for the Company",
-          "url": "https://www.adweek.com/agencies/integral-ad-sciences-new-ceo-dishes-on-her-plans-for-the-company/",
-          "postedAt": "2026-07-08T16:13:26.000Z"
-        },
-        {
-          "id": "om_ee52409c69",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Kohl’s prices thousands of back-to-school items under $25 as consumers look for deals",
-          "url": "https://www.retaildive.com/news/kohls-low-prices-thousands-back-to-school-items-consumer-deals/824683/",
-          "postedAt": "2026-07-08T16:10:00.000Z"
-        },
-        {
-          "id": "om_258967b2f0",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Retailers plan to invest deeper in AI, cybersecurity this year",
-          "url": "https://www.retaildive.com/news/retailers-increase-investments-spending-ai-digital-technology/824613/",
-          "postedAt": "2026-07-08T15:54:00.000Z"
-        },
-        {
-          "id": "om_9cd8e9ee0a",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "FP Movement launches Asics footwear collaboration",
-          "url": "https://www.retaildive.com/news/fp-movement-asics-footwear-collaboration/824688/",
-          "postedAt": "2026-07-08T15:24:00.000Z"
-        },
-        {
-          "id": "om_9cbdf36224",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Inflation-Wary Parents Turn to AI to Thrift for Back-to-School Deals",
-          "url": "https://www.adweek.com/brand-marketing/inflation-wary-parents-turn-to-ai-to-thrift-for-back-to-school-deals/",
-          "postedAt": "2026-07-08T14:22:13.000Z"
-        },
-        {
-          "id": "om_3b36945d6e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why the Bot-Majority Internet Demands a Marketing Reset",
-          "url": "https://www.adweek.com/media/why-the-bot-majority-internet-demands-a-marketing-reset/",
-          "postedAt": "2026-07-08T13:29:10.000Z"
-        },
-        {
-          "id": "om_314d1d531c",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Chipotle drives rewards program with ‘PGA Tour 2K25’ integration",
-          "url": "https://www.marketingdive.com/news/chipotle-drives-rewards-program-with-pga-tour-2k25-integration/824619/",
-          "postedAt": "2026-07-08T13:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-09T15:34:44.212Z",
+      "lastUpdated": "2026-07-10T04:15:52.887Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
