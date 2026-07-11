@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-10T14:53:09.100Z",
+      "lastUpdated": "2026-07-11T03:43:32.814Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-10T14:53:10.263Z",
+      "lastUpdated": "2026-07-11T03:43:34.387Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,54 @@
       },
       "articles": [
         {
+          "id": "om_c954e45ffc",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "On commercial chief exits amid leadership restructure",
+          "url": "https://www.retaildive.com/news/on-commercial-chief-exits-leadership-restructure-customer-chief-global-markets/824951/",
+          "postedAt": "2026-07-10T16:15:00.000Z"
+        },
+        {
+          "id": "om_0b0217bcf1",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "How Aéropostale entertains Gen Alpha with a creator-led mini-series",
+          "url": "https://www.retaildive.com/news/aeropostale-gen-alpha-marketing-mini-series-intern-diaries/824934/",
+          "postedAt": "2026-07-10T16:06:00.000Z"
+        },
+        {
+          "id": "om_09ef1d1ef2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "J.C. Penney declines continue in Q1 after holiday stumbles",
+          "url": "https://www.retaildive.com/news/jc-penney-declines-continue-q1-after-holiday-stumbles-tariff-refund/824921/",
+          "postedAt": "2026-07-10T15:59:00.000Z"
+        },
+        {
+          "id": "om_ff5469f2cc",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "J. Crew names brand president",
+          "url": "https://www.retaildive.com/news/j-crew-names-brand-president/824947/",
+          "postedAt": "2026-07-10T15:34:00.000Z"
+        },
+        {
+          "id": "om_5522128446",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: Pink debuts Marshmallow bra and RH CEO offloads stock",
+          "url": "https://www.retaildive.com/news/pink-marshmallow-bra-collection-rh-ceo-sells-shares/824858/",
+          "postedAt": "2026-07-10T15:31:00.000Z"
+        },
+        {
+          "id": "om_6b983647cb",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Minneapolis-Based Retail Media Veterans Launch Networking Nonprofit",
+          "url": "https://www.adweek.com/commerce/minneapolis-based-retail-media-veterans-launch-networking-nonprofit/",
+          "postedAt": "2026-07-10T13:54:26.000Z"
+        },
+        {
           "id": "om_dabd4d6e42",
           "source": "Marketing Brew",
           "lang": "en",
@@ -741,22 +789,6 @@
           "postedAt": "2026-07-10T06:00:00.000Z"
         },
         {
-          "id": "om_9e4f8669c2",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Polestar owners left ‘holding the bag’ after EV brand pulls out of the US",
-          "url": "https://www.theverge.com/transportation/963399/polestar-owners-ban-dealers-service-warranty-lease",
-          "postedAt": "2026-07-09T19:18:55.000Z"
-        },
-        {
-          "id": "om_74404e8f08",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "FanDuel sent a video from star athlete Bryce Harper to a customer with a gambling problem",
-          "url": "https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/",
-          "postedAt": "2026-07-09T18:50:00.000Z"
-        },
-        {
           "id": "om_d0b3f233c9",
           "source": "Retail Dive",
           "lang": "en",
@@ -789,22 +821,6 @@
           "postedAt": "2026-07-09T16:14:00.000Z"
         },
         {
-          "id": "om_cd5c088806",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Destination XL board rejects go-private offer — again",
-          "url": "https://www.retaildive.com/news/destination-xl-board-rejects-zodiac-partners-go-private-offer-again/824822/",
-          "postedAt": "2026-07-09T16:12:00.000Z"
-        },
-        {
-          "id": "om_f70dc0b8a4",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Back-to-school shoppers head to mass merchants, department stores",
-          "url": "https://www.retaildive.com/news/back-to-school-shoppers-mass-merchants-department-stores-spending-down/824817/",
-          "postedAt": "2026-07-09T15:58:00.000Z"
-        },
-        {
           "id": "om_a417e5e637",
           "source": "Marketing Dive",
           "lang": "en",
@@ -821,28 +837,12 @@
           "postedAt": "2026-07-09T14:44:00.000Z"
         },
         {
-          "id": "om_f231016618",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Thrifting, consumer habits may help shift textile recycling challenges",
-          "url": "https://www.retaildive.com/news/thrifting-consumer-habits-shift-textile-recycling-challenges/824809/",
-          "postedAt": "2026-07-09T14:43:00.000Z"
-        },
-        {
           "id": "om_6467b5f49a",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "How Aéropostale entertains Gen Alpha with a creator-led mini-series",
           "url": "https://www.marketingdive.com/news/how-aeropostale-entertains-gen-alpha-with-a-creator-led-mini-series/824693/",
           "postedAt": "2026-07-09T14:30:00.000Z"
-        },
-        {
-          "id": "om_3e43effc61",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketing Vanguard at Cannes: Why the Experience Is the Brand ft. Virgin Voyages’ Nathan Rosenberg",
-          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-why-the-experience-is-the-brand-ft-virgin-voyages-nathan-rosenberg/",
-          "postedAt": "2026-07-09T13:41:01.000Z"
         },
         {
           "id": "om_5dc6369bb3",
@@ -854,7 +854,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-10T14:53:12.238Z",
+      "lastUpdated": "2026-07-11T03:43:36.801Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
