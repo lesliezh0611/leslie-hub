@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-11T13:55:52.308Z",
+      "lastUpdated": "2026-07-12T03:58:21.781Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_215e386876",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: Negative network effects, managing overconfident colleagues, developers sidestepping design decisions, keeping stakeholder meetings on track, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-negative-network",
+          "postedAt": "2026-07-11T16:40:58.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_40d95b41a0",
           "source": "Lenny's Podcast",
@@ -542,14 +550,6 @@
           "topic": "How top PMs increase their leverage with AI",
           "url": "https://www.lennysnewsletter.com/p/how-top-pms-increase-their-leverage",
           "postedAt": "2026-06-30T13:31:39.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_e25a27469f",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
-          "postedAt": "2026-06-29T15:02:35.000Z"
         }
       ],
       "books": [
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-11T13:55:53.588Z",
+      "lastUpdated": "2026-07-12T03:58:23.294Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -854,7 +854,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-11T13:55:55.605Z",
+      "lastUpdated": "2026-07-12T03:58:25.119Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
