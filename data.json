@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-12T03:58:21.781Z",
+      "lastUpdated": "2026-07-12T13:57:40.141Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_3453698be7",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
+          "url": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
+          "postedAt": "2026-07-12T12:32:14.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_215e386876",
           "source": "Lenny's Podcast",
@@ -542,14 +550,6 @@
           "topic": "The Mindset That Unlocks Your Full Potential | Dr. Gio Valiante",
           "url": "https://fs.blog/knowledge-project-podcast/performance-psychologist-mindset/",
           "postedAt": "2026-06-30T17:55:21.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_371da5c202",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How top PMs increase their leverage with AI",
-          "url": "https://www.lennysnewsletter.com/p/how-top-pms-increase-their-leverage",
-          "postedAt": "2026-06-30T13:31:39.000Z"
         }
       ],
       "books": [
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-12T03:58:23.294Z",
+      "lastUpdated": "2026-07-12T13:57:41.370Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -854,7 +854,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-12T03:58:25.119Z",
+      "lastUpdated": "2026-07-12T13:57:43.458Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
