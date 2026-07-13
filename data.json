@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-13T04:00:59.420Z",
+      "lastUpdated": "2026-07-13T15:12:45.435Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_b745838ed9",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+          "postedAt": "2026-07-13T15:02:17.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_3a69f674a7",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
+          "url": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
+          "postedAt": "2026-07-13T12:05:20.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_3453698be7",
           "source": "Lenny's Podcast",
@@ -520,22 +536,6 @@
           "postedAt": "2026-07-06T12:03:37.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_514d21086f",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Quarterly planning and AI, cash vs. equity comp, paying for interview exercises, AI-powered outbound, compliance startup opportunities, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-quarterly-planning",
-          "postedAt": "2026-07-04T16:58:47.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_9f5b9a7386",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Sonnet 5 review: I ran 64 generations to find out if it's worth it",
-          "url": "https://www.lennysnewsletter.com/p/sonnet-5-review-i-ran-64-generations",
-          "postedAt": "2026-06-30T23:22:23.000Z"
-        },
-        {
           "id": "en_pod_lex_fridman_podcast_d4f100240a",
           "source": "Lex Fridman Podcast",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-13T04:01:01.399Z",
+      "lastUpdated": "2026-07-13T15:12:46.932Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,118 @@
       },
       "articles": [
         {
+          "id": "om_9809a39ca5",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart inks nuclear energy deal to power Illinois warehouse",
+          "url": "https://www.retaildive.com/news/walmart-signs-176-mw-nuclear-ppa-with-constellation-to-support-illinois-operations/825047/",
+          "postedAt": "2026-07-13T14:49:00.000Z"
+        },
+        {
+          "id": "om_be62ba84c8",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Rockstar Energy’s CMO on turning latent brand value into market share",
+          "url": "https://www.marketingdive.com/news/rockstar-energy-cmo-on-turning-latent-brand-value-into-market-share/824917/",
+          "postedAt": "2026-07-13T14:00:00.000Z"
+        },
+        {
+          "id": "om_0051485493",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "In customer service, third-party generative AI tools are beating brand chatbots",
+          "url": "https://www.retaildive.com/news/customer-service-third-party-generative-ai-tools-brand-chatbots/825032/",
+          "postedAt": "2026-07-13T13:56:00.000Z"
+        },
+        {
+          "id": "om_fcff70052b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Retailers did well in Q1. Was it just a mirage?",
+          "url": "https://www.retaildive.com/news/retailers-strong-q1-tariffs-prices-mirage/824737/",
+          "postedAt": "2026-07-13T13:06:00.000Z"
+        },
+        {
+          "id": "om_e083c497a7",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon Shipping looks to snag FedEx, UPS customers with low pricing",
+          "url": "https://www.retaildive.com/news/amazon-shipping-looks-to-snag-fedex-ups-customers-with-low-pricing/824922/",
+          "postedAt": "2026-07-13T13:00:00.000Z"
+        },
+        {
+          "id": "om_e4a3c77ddb",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Measurement investments haven’t simplified advertising decisions: report",
+          "url": "https://www.marketingdive.com/news/measurement-investments-havent-simplified-advertising-decisions-report/824957/",
+          "postedAt": "2026-07-13T12:00:00.000Z"
+        },
+        {
+          "id": "om_f7fcde652e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "In customer service, third-party gen AI tools are beating brand chatbots",
+          "url": "https://www.marketingdive.com/news/customer-service-third-party-generative-ai-tools-brand-chatbots/824989/",
+          "postedAt": "2026-07-13T11:00:00.000Z"
+        },
+        {
+          "id": "om_8cb6aae4f4",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How Lay’s met the moment of bandwagon fandom this World Cup",
+          "url": "https://www.marketingbrew.com/stories/lays-bandwagon-fandom-world-cup-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-13T10:00:00.000Z"
+        },
+        {
+          "id": "om_dcc3f16ecf",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Liquid I.V. Weaves Spider-Man Into Its Growing Entertainment Strategy",
+          "url": "https://www.adweek.com/brand-marketing/liquid-iv-weaves-spider-man-into-its-growing-entertainment-strategy/",
+          "postedAt": "2026-07-13T09:29:53.000Z"
+        },
+        {
+          "id": "om_9daecbe525",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "After the click: Turning AI-referred shoppers into loyal customers",
+          "url": "https://www.retaildive.com/spons/after-the-click-turning-ai-referred-shoppers-into-loyal-customers/824663/",
+          "postedAt": "2026-07-13T09:00:00.000Z"
+        },
+        {
+          "id": "om_91018a0cb2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "How a NYC chef turned a takeout window into a national subscription brand with 10,000 orders a month",
+          "url": "https://www.retaildive.com/spons/how-a-nyc-chef-turned-a-takeout-window-into-a-national-subscription-brand-w/824624/",
+          "postedAt": "2026-07-13T09:00:00.000Z"
+        },
+        {
+          "id": "om_0567c32dd7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Sephora’s Second Shot at the UK Is Influencing Its Global Expansion",
+          "url": "https://www.adweek.com/brand-marketing/why-sephoras-second-shot-at-the-uk-is-actually-a-global-strategy-test/",
+          "postedAt": "2026-07-13T06:00:00.000Z"
+        },
+        {
+          "id": "om_a690bb5bf9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Take 5 Oil Change’s First CMO Doug Zarkin Departs After One Year",
+          "url": "https://www.adweek.com/brand-marketing/take-5-oil-changes-first-cmo-doug-zarkin-departs-after-one-year/",
+          "postedAt": "2026-07-13T06:00:00.000Z"
+        },
+        {
+          "id": "om_3a1e0e0e67",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why Farmers Insurance flipped its jingle as part of all-pink rebrand",
+          "url": "https://www.marketingdive.com/news/why-farmers-insurance-flipped-jingle-part-all-pink-rebrand/824955/",
+          "postedAt": "2026-07-13T04:01:00.000Z"
+        },
+        {
           "id": "om_747f69850f",
           "source": "Social Media Today",
           "lang": "en",
@@ -717,30 +829,6 @@
           "postedAt": "2026-07-10T16:06:00.000Z"
         },
         {
-          "id": "om_09ef1d1ef2",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "J.C. Penney declines continue in Q1 after holiday stumbles",
-          "url": "https://www.retaildive.com/news/jc-penney-declines-continue-q1-after-holiday-stumbles-tariff-refund/824921/",
-          "postedAt": "2026-07-10T15:59:00.000Z"
-        },
-        {
-          "id": "om_ff5469f2cc",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "J. Crew names brand president",
-          "url": "https://www.retaildive.com/news/j-crew-names-brand-president/824947/",
-          "postedAt": "2026-07-10T15:34:00.000Z"
-        },
-        {
-          "id": "om_5522128446",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Weekly Closeout: Pink debuts Marshmallow bra and RH CEO offloads stock",
-          "url": "https://www.retaildive.com/news/pink-marshmallow-bra-collection-rh-ceo-sells-shares/824858/",
-          "postedAt": "2026-07-10T15:31:00.000Z"
-        },
-        {
           "id": "om_6b983647cb",
           "source": "Adweek",
           "lang": "en",
@@ -763,98 +851,10 @@
           "title": "The Maker of Slim Jim, Reddi-wip, and Swiss Miss Has a New Commerce Agency",
           "url": "https://www.adweek.com/commerce/the-maker-of-slim-jim-reddi-wip-and-swiss-miss-has-a-new-commerce-agency/",
           "postedAt": "2026-07-10T10:00:00.000Z"
-        },
-        {
-          "id": "om_91be4b09ad",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "EXCLUSIVE: Zenith Retains Reckitt’s $400M US Media Business Following WPP’s Europe Win",
-          "url": "https://www.adweek.com/agencies/exclusive-zenith-retains-reckitts-400m-us-media-business-following-wpps-europe-win/",
-          "postedAt": "2026-07-10T09:59:11.000Z"
-        },
-        {
-          "id": "om_df4357fca9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "5 Things That Hit This Week: Criteo Faces a Takeover Bid While Pacvue and The Trade Desk Win New Deals",
-          "url": "https://www.adweek.com/commerce/5-things-that-hit-this-week-criteo-faces-a-takeover-bid-while-pacvue-and-the-trade-desk-win-new-deals/",
-          "postedAt": "2026-07-10T09:54:22.000Z"
-        },
-        {
-          "id": "om_0dddae0aa8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Gen Z’s Short Attention Span Is a Myth. Here Are 5 Keys To Capturing Their Interest.",
-          "url": "https://www.adweek.com/brand-marketing/gen-zs-short-attention-span-is-a-myth-here-are-5-keys-to-capturing-their-interest/",
-          "postedAt": "2026-07-10T07:00:00.000Z"
-        },
-        {
-          "id": "om_9bc1c88676",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 8 Campaigns That Caught Our Eye, From KFC to Reebok",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-8-campaigns-that-caught-our-eye-from-kfc-to-reebok/",
-          "postedAt": "2026-07-10T06:00:00.000Z"
-        },
-        {
-          "id": "om_d0b3f233c9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Meta introduces AI-powered room visualization feature",
-          "url": "https://www.retaildive.com/news/meta-muse-image-ai-powered-room-visualization-feature/824841/",
-          "postedAt": "2026-07-09T17:30:00.000Z"
-        },
-        {
-          "id": "om_1de68212d3",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Are grocers making smart investments in back-end AI?",
-          "url": "https://www.retaildive.com/news/grocers-ai-back-end-operations/824806/",
-          "postedAt": "2026-07-09T16:46:00.000Z"
-        },
-        {
-          "id": "om_4f55766df9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Levi’s World Cup virality could boost Q3",
-          "url": "https://www.retaildive.com/news/levis-world-cup-virality-earnings-boost/824805/",
-          "postedAt": "2026-07-09T16:31:00.000Z"
-        },
-        {
-          "id": "om_b9d79e4a61",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Heinz calls foul on small condiment packets in social World Cup effort",
-          "url": "https://www.marketingdive.com/news/heinz-calls-foul-on-small-condiment-packets-in-social-world-cup-effort/824750/",
-          "postedAt": "2026-07-09T16:14:00.000Z"
-        },
-        {
-          "id": "om_a417e5e637",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: Meta adds updated disclosure tags for AI-generated ads",
-          "url": "https://www.marketingdive.com/news/sociable-meta-adds-updated-disclosure-tags-for-ai-generated-ads/824833/",
-          "postedAt": "2026-07-09T15:11:00.000Z"
-        },
-        {
-          "id": "om_f4960aad1d",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Mike’s Hard, Genesis take creative swings with custom Netflix campaigns",
-          "url": "https://www.marketingdive.com/news/mikes-hard-genesis-take-creative-swings-with-custom-netflix-campaigns/824804/",
-          "postedAt": "2026-07-09T14:44:00.000Z"
-        },
-        {
-          "id": "om_6467b5f49a",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Aéropostale entertains Gen Alpha with a creator-led mini-series",
-          "url": "https://www.marketingdive.com/news/how-aeropostale-entertains-gen-alpha-with-a-creator-led-mini-series/824693/",
-          "postedAt": "2026-07-09T14:30:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-13T04:01:03.657Z",
+      "lastUpdated": "2026-07-13T15:12:48.548Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
