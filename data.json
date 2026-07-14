@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-13T15:12:45.435Z",
+      "lastUpdated": "2026-07-14T03:34:30.685Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-13T15:12:46.932Z",
+      "lastUpdated": "2026-07-14T03:34:32.127Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,54 @@
       },
       "articles": [
         {
+          "id": "om_a3fc61843c",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok and Madonna set in-app livestream record",
+          "url": "https://www.socialmediatoday.com/news/tiktok-and-madonna-set-in-app-livestream-record/825131/",
+          "postedAt": "2026-07-13T21:25:50.000Z"
+        },
+        {
+          "id": "om_677f42292f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Men’s Wearhouse owner files for IPO, plots 500 new stores",
+          "url": "https://www.retaildive.com/news/mens-wearhouse-owner-tailored-brands-files-ipo-500-new-stores/825056/",
+          "postedAt": "2026-07-13T16:19:00.000Z"
+        },
+        {
+          "id": "om_50eac79c4e",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why this CEO thinks social-first is a powerful brand-building tool",
+          "url": "https://www.marketingbrew.com/stories/pop-up-bagels-tory-bartlett-q-and-a?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-13T16:04:42.000Z"
+        },
+        {
+          "id": "om_5365541cc4",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Behind the scenes of The Gist’s first brand campaign",
+          "url": "https://www.marketingbrew.com/stories/the-gists-brand-campaign-world-cup?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-13T16:00:00.000Z"
+        },
+        {
+          "id": "om_f955ec9670",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "M+C Saatchi NA launches entertainment arm as branded content booms",
+          "url": "https://www.marketingdive.com/news/mc-saatchi-na-launches-entertainment-arm-as-branded-content-booms/825049/",
+          "postedAt": "2026-07-13T15:50:00.000Z"
+        },
+        {
+          "id": "om_806decac2d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Retailers stock up ahead of expected tariff changes",
+          "url": "https://www.retaildive.com/news/retailers-stock-up-inventory-expected-tariff-changes/825053/",
+          "postedAt": "2026-07-13T15:44:00.000Z"
+        },
+        {
           "id": "om_9809a39ca5",
           "source": "Retail Dive",
           "lang": "en",
@@ -715,6 +763,14 @@
           "title": "In customer service, third-party generative AI tools are beating brand chatbots",
           "url": "https://www.retaildive.com/news/customer-service-third-party-generative-ai-tools-brand-chatbots/825032/",
           "postedAt": "2026-07-13T13:56:00.000Z"
+        },
+        {
+          "id": "om_bac0a0b342",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "MLS Is Ready for Its Through Pass From the World Cup",
+          "url": "https://www.adweek.com/brand-marketing/mls-world-cup-campaign/",
+          "postedAt": "2026-07-13T13:15:50.000Z"
         },
         {
           "id": "om_fcff70052b",
@@ -795,66 +851,10 @@
           "title": "Take 5 Oil Change’s First CMO Doug Zarkin Departs After One Year",
           "url": "https://www.adweek.com/brand-marketing/take-5-oil-changes-first-cmo-doug-zarkin-departs-after-one-year/",
           "postedAt": "2026-07-13T06:00:00.000Z"
-        },
-        {
-          "id": "om_3a1e0e0e67",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why Farmers Insurance flipped its jingle as part of all-pink rebrand",
-          "url": "https://www.marketingdive.com/news/why-farmers-insurance-flipped-jingle-part-all-pink-rebrand/824955/",
-          "postedAt": "2026-07-13T04:01:00.000Z"
-        },
-        {
-          "id": "om_747f69850f",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok launches AI literacy measures",
-          "url": "https://www.socialmediatoday.com/news/tiktok-launches-ai-literacy-measures/825020/",
-          "postedAt": "2026-07-12T22:35:49.000Z"
-        },
-        {
-          "id": "om_c954e45ffc",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "On commercial chief exits amid leadership restructure",
-          "url": "https://www.retaildive.com/news/on-commercial-chief-exits-leadership-restructure-customer-chief-global-markets/824951/",
-          "postedAt": "2026-07-10T16:15:00.000Z"
-        },
-        {
-          "id": "om_0b0217bcf1",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "How Aéropostale entertains Gen Alpha with a creator-led mini-series",
-          "url": "https://www.retaildive.com/news/aeropostale-gen-alpha-marketing-mini-series-intern-diaries/824934/",
-          "postedAt": "2026-07-10T16:06:00.000Z"
-        },
-        {
-          "id": "om_6b983647cb",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Minneapolis-Based Retail Media Veterans Launch Networking Nonprofit",
-          "url": "https://www.adweek.com/commerce/minneapolis-based-retail-media-veterans-launch-networking-nonprofit/",
-          "postedAt": "2026-07-10T13:54:26.000Z"
-        },
-        {
-          "id": "om_dabd4d6e42",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside StreetEasy’s decade of iconic NYC subway ads",
-          "url": "https://www.marketingbrew.com/stories/streeteasy-iconic-nyc-subway-ads-OOH-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-10T12:00:00.000Z"
-        },
-        {
-          "id": "om_5fb35423c6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Maker of Slim Jim, Reddi-wip, and Swiss Miss Has a New Commerce Agency",
-          "url": "https://www.adweek.com/commerce/the-maker-of-slim-jim-reddi-wip-and-swiss-miss-has-a-new-commerce-agency/",
-          "postedAt": "2026-07-10T10:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-13T15:12:48.548Z",
+      "lastUpdated": "2026-07-14T03:34:34.606Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
