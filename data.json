@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-14T03:34:30.685Z",
+      "lastUpdated": "2026-07-14T14:15:15.953Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-14T03:34:32.127Z",
+      "lastUpdated": "2026-07-14T14:15:17.473Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -692,6 +692,54 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_618f9903af",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Pizza Hut serves up nostalgia with latest rewards program push",
+          "url": "https://www.marketingdive.com/news/pizza-hut-serves-up-nostalgia-with-latest-rewards-program-push/825124/",
+          "postedAt": "2026-07-14T13:24:00.000Z"
+        },
+        {
+          "id": "om_d0f0448f79",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Dollar Shave Club uses generative AI to unlock advertising creativity",
+          "url": "https://www.marketingdive.com/news/how-dollar-shave-club-uses-generative-ai-to-unlock-advertising-creativity/825016/",
+          "postedAt": "2026-07-14T13:00:00.000Z"
+        },
+        {
+          "id": "om_532b777d59",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Advertisers don’t trust CTV inventory despite climbing spend: IAB",
+          "url": "https://www.marketingdive.com/news/advertisers-dont-trust-ctv-inventory-despite-climbing-spend-iab/824988/",
+          "postedAt": "2026-07-14T12:30:00.000Z"
+        },
+        {
+          "id": "om_aa4627f160",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why TJ Maxx is sponsoring the ESPYs",
+          "url": "https://www.marketingbrew.com/stories/tj-maxx-espys-ilona-maher-mallory-swanson?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-14T10:00:00.000Z"
+        },
+        {
+          "id": "om_d91c16d419",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Meet the People Cracks the Southern Market With LOOMIS Acquisition",
+          "url": "https://www.adweek.com/agencies/meet-the-people-cracks-the-southern-market-with-loomis-acquisition/",
+          "postedAt": "2026-07-14T08:00:00.000Z"
+        },
+        {
+          "id": "om_78a648efa7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "FIFA World Cup 26 Ad Tracker: Brands Kick Off Summer of Soccer",
+          "url": "https://www.adweek.com/brand-marketing/fifa-world-cup-26-ad-tracker-brands-kick-off-summer-of-soccer/",
+          "postedAt": "2026-07-14T05:48:04.000Z"
+        },
         {
           "id": "om_a3fc61843c",
           "source": "Social Media Today",
@@ -803,58 +851,10 @@
           "title": "In customer service, third-party gen AI tools are beating brand chatbots",
           "url": "https://www.marketingdive.com/news/customer-service-third-party-generative-ai-tools-brand-chatbots/824989/",
           "postedAt": "2026-07-13T11:00:00.000Z"
-        },
-        {
-          "id": "om_8cb6aae4f4",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How Lay’s met the moment of bandwagon fandom this World Cup",
-          "url": "https://www.marketingbrew.com/stories/lays-bandwagon-fandom-world-cup-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-13T10:00:00.000Z"
-        },
-        {
-          "id": "om_dcc3f16ecf",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Liquid I.V. Weaves Spider-Man Into Its Growing Entertainment Strategy",
-          "url": "https://www.adweek.com/brand-marketing/liquid-iv-weaves-spider-man-into-its-growing-entertainment-strategy/",
-          "postedAt": "2026-07-13T09:29:53.000Z"
-        },
-        {
-          "id": "om_9daecbe525",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "After the click: Turning AI-referred shoppers into loyal customers",
-          "url": "https://www.retaildive.com/spons/after-the-click-turning-ai-referred-shoppers-into-loyal-customers/824663/",
-          "postedAt": "2026-07-13T09:00:00.000Z"
-        },
-        {
-          "id": "om_91018a0cb2",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "How a NYC chef turned a takeout window into a national subscription brand with 10,000 orders a month",
-          "url": "https://www.retaildive.com/spons/how-a-nyc-chef-turned-a-takeout-window-into-a-national-subscription-brand-w/824624/",
-          "postedAt": "2026-07-13T09:00:00.000Z"
-        },
-        {
-          "id": "om_0567c32dd7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Sephora’s Second Shot at the UK Is Influencing Its Global Expansion",
-          "url": "https://www.adweek.com/brand-marketing/why-sephoras-second-shot-at-the-uk-is-actually-a-global-strategy-test/",
-          "postedAt": "2026-07-13T06:00:00.000Z"
-        },
-        {
-          "id": "om_a690bb5bf9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Take 5 Oil Change’s First CMO Doug Zarkin Departs After One Year",
-          "url": "https://www.adweek.com/brand-marketing/take-5-oil-changes-first-cmo-doug-zarkin-departs-after-one-year/",
-          "postedAt": "2026-07-13T06:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-14T03:34:34.606Z",
+      "lastUpdated": "2026-07-14T14:15:19.439Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
