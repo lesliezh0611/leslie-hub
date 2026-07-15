@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-15T03:35:04.801Z",
+      "lastUpdated": "2026-07-15T14:10:47.212Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-15T03:35:06.704Z",
+      "lastUpdated": "2026-07-15T14:10:48.493Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,78 @@
       },
       "articles": [
         {
+          "id": "om_7514856f9e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Liquid I.V., Samsung swing into ‘Spider-Man’ to spotlight new products",
+          "url": "https://www.marketingdive.com/news/liquid-iv-samsung-spider-man-to-spotlight-new-products/825212/",
+          "postedAt": "2026-07-15T14:00:00.000Z"
+        },
+        {
+          "id": "om_f7b85c7dbc",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Neutrogena puts science above virality with ‘Break the Rules’ campaign",
+          "url": "https://www.marketingdive.com/news/neutrogena-puts-science-above-virality-with-break-the-rules-campaign/825268/",
+          "postedAt": "2026-07-15T13:49:00.000Z"
+        },
+        {
+          "id": "om_d2e16c02b9",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How the Anti-Recidivism Coalition brought social series to the nonprofit world",
+          "url": "https://www.marketingbrew.com/stories/anti-recidivism-coalition-nonprofit-social-series-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-15T13:15:59.000Z"
+        },
+        {
+          "id": "om_f072cd3534",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+          "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+          "postedAt": "2026-07-15T13:00:00.000Z"
+        },
+        {
+          "id": "om_3cd5b4c49d",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "AI is accelerating the accountability gap. Here’s how CMOs can close it.",
+          "url": "https://www.marketingdive.com/news/ai-is-accelerating-the-accountability-gap-heres-how-cmos-can-close-it/824338/",
+          "postedAt": "2026-07-15T11:00:00.000Z"
+        },
+        {
+          "id": "om_d26943bb1c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Once a Cost-Cutting Move, In-House Agencies Are Now Seen as a Strategic Play",
+          "url": "https://www.adweek.com/agencies/once-a-cost-cutting-move-in-house-agencies-are-now-seen-as-a-strategic-play/",
+          "postedAt": "2026-07-15T09:35:20.000Z"
+        },
+        {
+          "id": "om_aced804860",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Amazon Closes Upfront Talks With Year-Over-Year Growth",
+          "url": "https://www.adweek.com/convergent-tv/amazon-closes-upfront-talks-with-year-over-year-growth/",
+          "postedAt": "2026-07-15T09:00:00.000Z"
+        },
+        {
+          "id": "om_250c65c778",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Courage Finally Sets Up Shop in the U.S. With a New York Office",
+          "url": "https://www.adweek.com/agencies/courage-finally-sets-up-shop-in-the-us-with-a-new-york-office/",
+          "postedAt": "2026-07-15T08:00:00.000Z"
+        },
+        {
+          "id": "om_f8dc451b94",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Gary Vaynerchuk’s Next Bet Is an Affiliate Agency Startup",
+          "url": "https://www.adweek.com/agencies/gary-vaynerchuks-next-bet-is-an-affiliate-agency-startup/",
+          "postedAt": "2026-07-15T08:00:00.000Z"
+        },
+        {
           "id": "om_73871876e7",
           "source": "Social Media Today",
           "lang": "en",
@@ -773,88 +845,16 @@
           "postedAt": "2026-07-14T13:38:47.000Z"
         },
         {
-          "id": "om_70bbd261f0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Fully Loaded: The Brand Strategy Behind Crocs’ Cultural Takeover",
-          "url": "https://www.adweek.com/brand-marketing/fully-loaded-the-brand-strategy-behind-crocs-cultural-takeover/",
-          "postedAt": "2026-07-14T13:34:44.000Z"
-        },
-        {
           "id": "om_618f9903af",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Pizza Hut serves up nostalgia with latest rewards program push",
           "url": "https://www.marketingdive.com/news/pizza-hut-serves-up-nostalgia-with-latest-rewards-program-push/825124/",
           "postedAt": "2026-07-14T13:24:00.000Z"
-        },
-        {
-          "id": "om_d0f0448f79",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Dollar Shave Club uses generative AI to unlock advertising creativity",
-          "url": "https://www.marketingdive.com/news/how-dollar-shave-club-uses-generative-ai-to-unlock-advertising-creativity/825016/",
-          "postedAt": "2026-07-14T13:00:00.000Z"
-        },
-        {
-          "id": "om_532b777d59",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Advertisers don’t trust CTV inventory despite climbing spend: IAB",
-          "url": "https://www.marketingdive.com/news/advertisers-dont-trust-ctv-inventory-despite-climbing-spend-iab/824988/",
-          "postedAt": "2026-07-14T12:30:00.000Z"
-        },
-        {
-          "id": "om_aa4627f160",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why TJ Maxx is sponsoring the ESPYs",
-          "url": "https://www.marketingbrew.com/stories/tj-maxx-espys-ilona-maher-mallory-swanson?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-14T10:00:00.000Z"
-        },
-        {
-          "id": "om_d91c16d419",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Meet the People Cracks the Southern Market With LOOMIS Acquisition",
-          "url": "https://www.adweek.com/agencies/meet-the-people-cracks-the-southern-market-with-loomis-acquisition/",
-          "postedAt": "2026-07-14T08:00:00.000Z"
-        },
-        {
-          "id": "om_a3fc61843c",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok and Madonna set in-app livestream record",
-          "url": "https://www.socialmediatoday.com/news/tiktok-and-madonna-set-in-app-livestream-record/825131/",
-          "postedAt": "2026-07-13T21:25:50.000Z"
-        },
-        {
-          "id": "om_677f42292f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Men’s Wearhouse owner files for IPO, plots 500 new stores",
-          "url": "https://www.retaildive.com/news/mens-wearhouse-owner-tailored-brands-files-ipo-500-new-stores/825056/",
-          "postedAt": "2026-07-13T16:19:00.000Z"
-        },
-        {
-          "id": "om_50eac79c4e",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why this CEO thinks social-first is a powerful brand-building tool",
-          "url": "https://www.marketingbrew.com/stories/pop-up-bagels-tory-bartlett-q-and-a?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-13T16:04:42.000Z"
-        },
-        {
-          "id": "om_5365541cc4",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Behind the scenes of The Gist’s first brand campaign",
-          "url": "https://www.marketingbrew.com/stories/the-gists-brand-campaign-world-cup?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-13T16:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-15T03:35:09.532Z",
+      "lastUpdated": "2026-07-15T14:10:50.144Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
