@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-14T14:15:15.953Z",
+      "lastUpdated": "2026-07-15T03:35:04.801Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-14T14:15:17.473Z",
+      "lastUpdated": "2026-07-15T03:35:06.704Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,94 @@
       },
       "articles": [
         {
+          "id": "om_73871876e7",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok sellers in the UK get improved insights",
+          "url": "https://www.socialmediatoday.com/news/tiktok-sellers-in-the-uk-get-improved-insights/825256/",
+          "postedAt": "2026-07-14T22:55:19.000Z"
+        },
+        {
+          "id": "om_81d07c1813",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How longtime FIFA partner Adidas is leaving its mark on the World Cup",
+          "url": "https://www.marketingbrew.com/stories/adidas-world-cup-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-14T21:00:26.000Z"
+        },
+        {
+          "id": "om_72f2cd4166",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How brands tapped into the coastal elegance of ‘The Five Star Weekend’",
+          "url": "https://www.marketingbrew.com/stories/peacock-the-five-star-weekend-brand-integrations-homegoods-on-the-rocks?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-14T18:42:26.000Z"
+        },
+        {
+          "id": "om_bd6684d7ec",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "How Dollar Shave Club uses generative AI to unlock advertising creativity",
+          "url": "https://www.retaildive.com/news/how-dollar-shave-club-uses-generative-ai-to-unlock-advertising-creativity/825181/",
+          "postedAt": "2026-07-14T16:09:00.000Z"
+        },
+        {
+          "id": "om_b5a89e9b33",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Insights on Marketing’s Future From the Adweek Press Hour",
+          "url": "https://www.adweek.com/agencies/insights-on-marketings-future-from-the-adweek-press-hour/",
+          "postedAt": "2026-07-14T15:56:34.000Z"
+        },
+        {
+          "id": "om_e2f36b1b4b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Caraway debuts cookware in over 500 Walmart stores",
+          "url": "https://www.retaildive.com/news/walmart-caraway-cookwear-wholsale-partnership/825176/",
+          "postedAt": "2026-07-14T15:44:00.000Z"
+        },
+        {
+          "id": "om_d39696e990",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon preps robotics-equipped sorting warehouse in Texas",
+          "url": "https://www.retaildive.com/news/amazon-robotics-sorting-warehouse-texas/825148/",
+          "postedAt": "2026-07-14T14:28:00.000Z"
+        },
+        {
+          "id": "om_e5d79eed15",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "More Than Half of Americans Would Drop AI Tools They Have to Pay For: Report",
+          "url": "https://www.adweek.com/brand-marketing/more-than-half-of-americans-would-drop-ai-tools-they-have-to-pay-for-report/",
+          "postedAt": "2026-07-14T14:16:46.000Z"
+        },
+        {
+          "id": "om_b1585140a6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Future of Advertising Is Predictive: How Deep Learning Is Transforming Marketing",
+          "url": "https://www.adweek.com/brand-marketing/the-future-of-advertising-is-predictive-how-deep-learning-is-transforming-marketing/",
+          "postedAt": "2026-07-14T14:01:25.000Z"
+        },
+        {
+          "id": "om_c1b5bf0b3a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The 4 Marketing Decisions That Seem Smart, But That Can Weaken Great Brands",
+          "url": "https://www.adweek.com/brand-marketing/the-4-marketing-decisions-that-seem-smart-but-that-can-weaken-great-brands/",
+          "postedAt": "2026-07-14T13:38:47.000Z"
+        },
+        {
+          "id": "om_70bbd261f0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Fully Loaded: The Brand Strategy Behind Crocs’ Cultural Takeover",
+          "url": "https://www.adweek.com/brand-marketing/fully-loaded-the-brand-strategy-behind-crocs-cultural-takeover/",
+          "postedAt": "2026-07-14T13:34:44.000Z"
+        },
+        {
           "id": "om_618f9903af",
           "source": "Marketing Dive",
           "lang": "en",
@@ -733,14 +821,6 @@
           "postedAt": "2026-07-14T08:00:00.000Z"
         },
         {
-          "id": "om_78a648efa7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "FIFA World Cup 26 Ad Tracker: Brands Kick Off Summer of Soccer",
-          "url": "https://www.adweek.com/brand-marketing/fifa-world-cup-26-ad-tracker-brands-kick-off-summer-of-soccer/",
-          "postedAt": "2026-07-14T05:48:04.000Z"
-        },
-        {
           "id": "om_a3fc61843c",
           "source": "Social Media Today",
           "lang": "en",
@@ -771,90 +851,10 @@
           "title": "Behind the scenes of The Gist’s first brand campaign",
           "url": "https://www.marketingbrew.com/stories/the-gists-brand-campaign-world-cup?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-07-13T16:00:00.000Z"
-        },
-        {
-          "id": "om_f955ec9670",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "M+C Saatchi NA launches entertainment arm as branded content booms",
-          "url": "https://www.marketingdive.com/news/mc-saatchi-na-launches-entertainment-arm-as-branded-content-booms/825049/",
-          "postedAt": "2026-07-13T15:50:00.000Z"
-        },
-        {
-          "id": "om_806decac2d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Retailers stock up ahead of expected tariff changes",
-          "url": "https://www.retaildive.com/news/retailers-stock-up-inventory-expected-tariff-changes/825053/",
-          "postedAt": "2026-07-13T15:44:00.000Z"
-        },
-        {
-          "id": "om_9809a39ca5",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart inks nuclear energy deal to power Illinois warehouse",
-          "url": "https://www.retaildive.com/news/walmart-signs-176-mw-nuclear-ppa-with-constellation-to-support-illinois-operations/825047/",
-          "postedAt": "2026-07-13T14:49:00.000Z"
-        },
-        {
-          "id": "om_be62ba84c8",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Rockstar Energy’s CMO on turning latent brand value into market share",
-          "url": "https://www.marketingdive.com/news/rockstar-energy-cmo-on-turning-latent-brand-value-into-market-share/824917/",
-          "postedAt": "2026-07-13T14:00:00.000Z"
-        },
-        {
-          "id": "om_0051485493",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "In customer service, third-party generative AI tools are beating brand chatbots",
-          "url": "https://www.retaildive.com/news/customer-service-third-party-generative-ai-tools-brand-chatbots/825032/",
-          "postedAt": "2026-07-13T13:56:00.000Z"
-        },
-        {
-          "id": "om_bac0a0b342",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "MLS Is Ready for Its Through Pass From the World Cup",
-          "url": "https://www.adweek.com/brand-marketing/mls-world-cup-campaign/",
-          "postedAt": "2026-07-13T13:15:50.000Z"
-        },
-        {
-          "id": "om_fcff70052b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Retailers did well in Q1. Was it just a mirage?",
-          "url": "https://www.retaildive.com/news/retailers-strong-q1-tariffs-prices-mirage/824737/",
-          "postedAt": "2026-07-13T13:06:00.000Z"
-        },
-        {
-          "id": "om_e083c497a7",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon Shipping looks to snag FedEx, UPS customers with low pricing",
-          "url": "https://www.retaildive.com/news/amazon-shipping-looks-to-snag-fedex-ups-customers-with-low-pricing/824922/",
-          "postedAt": "2026-07-13T13:00:00.000Z"
-        },
-        {
-          "id": "om_e4a3c77ddb",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Measurement investments haven’t simplified advertising decisions: report",
-          "url": "https://www.marketingdive.com/news/measurement-investments-havent-simplified-advertising-decisions-report/824957/",
-          "postedAt": "2026-07-13T12:00:00.000Z"
-        },
-        {
-          "id": "om_f7fcde652e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "In customer service, third-party gen AI tools are beating brand chatbots",
-          "url": "https://www.marketingdive.com/news/customer-service-third-party-generative-ai-tools-brand-chatbots/824989/",
-          "postedAt": "2026-07-13T11:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-14T14:15:19.439Z",
+      "lastUpdated": "2026-07-15T03:35:09.532Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
