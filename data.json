@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-16T03:36:38.203Z",
+      "lastUpdated": "2026-07-16T14:21:13.933Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-16T03:36:39.413Z",
+      "lastUpdated": "2026-07-16T14:21:15.134Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -692,6 +692,62 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_8bcb1df748",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Skechers shifts big chunk of global media biz to Horizon Global",
+          "url": "https://www.marketingdive.com/news/skechers-shifts-big-chunk-of-global-media-biz-to-horizon-global/825369/",
+          "postedAt": "2026-07-16T14:00:00.000Z"
+        },
+        {
+          "id": "om_8bd6d01cac",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Gap sticks with ‘90s nostalgia, denim for Hailey Bieber capsule campaign",
+          "url": "https://www.marketingdive.com/news/gap-sticks-with-90s-nostalgia-denim-for-hailey-bieber-capsule-campaign/825378/",
+          "postedAt": "2026-07-16T13:58:00.000Z"
+        },
+        {
+          "id": "om_c756a5f550",
+          "source": "Wired",
+          "lang": "en",
+          "title": "OnePlus, the ‘Flagship-Killer’ Smartphone Brand, Is All but Dead",
+          "url": "https://www.wired.com/story/oneplus-is-all-but-dead/",
+          "postedAt": "2026-07-16T09:00:00.000Z"
+        },
+        {
+          "id": "om_0deca94ce5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Phia’s Alleged Scheme Goes Beyond Ordinary Affiliate Fraud",
+          "url": "https://www.adweek.com/commerce/phias-alleged-scheme-goes-beyond-ordinary-affiliate-fraud/",
+          "postedAt": "2026-07-16T07:00:00.000Z"
+        },
+        {
+          "id": "om_093748cbe8",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Retail Media’s Next Evolution: Getting Into Content",
+          "url": "https://www.adweek.com/commerce/retail-medias-next-evolution-getting-into-content/",
+          "postedAt": "2026-07-16T06:00:00.000Z"
+        },
+        {
+          "id": "om_f01644bfc8",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Arthur Sadoun on AI Pitch Promises, Sapient’s Slowdown, and John Wren",
+          "url": "https://www.adweek.com/agencies/arthur-sadoun-on-ai-pitch-promises-sapients-slowdown-and-john-wren/",
+          "postedAt": "2026-07-16T01:30:00.000Z"
+        },
+        {
+          "id": "om_8fce03d401",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Publicis Boosts Full-Year Guidance as Clients Embrace AI, But Delay Transformation",
+          "url": "https://www.adweek.com/agencies/publicis-boosts-full-year-guidance-as-clients-embrace-ai-but-delay-transformation/",
+          "postedAt": "2026-07-16T01:30:00.000Z"
+        },
         {
           "id": "om_d84fd46cbb",
           "source": "Social Media Today",
@@ -795,66 +851,10 @@
           "title": "Code and Theory Hires Harsh Kapadia to Bring Creative Closer to Business",
           "url": "https://www.adweek.com/agencies/code-and-theory-hires-harsh-kapadia-to-bring-creative-closer-to-business/",
           "postedAt": "2026-07-15T11:44:56.000Z"
-        },
-        {
-          "id": "om_3cd5b4c49d",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "AI is accelerating the accountability gap. Here’s how CMOs can close it.",
-          "url": "https://www.marketingdive.com/news/ai-is-accelerating-the-accountability-gap-heres-how-cmos-can-close-it/824338/",
-          "postedAt": "2026-07-15T11:00:00.000Z"
-        },
-        {
-          "id": "om_d26943bb1c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Once a Cost-Cutting Move, In-House Agencies Are Now Seen as a Strategic Play",
-          "url": "https://www.adweek.com/agencies/once-a-cost-cutting-move-in-house-agencies-are-now-seen-as-a-strategic-play/",
-          "postedAt": "2026-07-15T09:35:20.000Z"
-        },
-        {
-          "id": "om_aced804860",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Amazon Closes Upfront Talks With Year-Over-Year Growth",
-          "url": "https://www.adweek.com/convergent-tv/amazon-closes-upfront-talks-with-year-over-year-growth/",
-          "postedAt": "2026-07-15T09:00:00.000Z"
-        },
-        {
-          "id": "om_250c65c778",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Courage Finally Sets Up Shop in the U.S. With a New York Office",
-          "url": "https://www.adweek.com/agencies/courage-finally-sets-up-shop-in-the-us-with-a-new-york-office/",
-          "postedAt": "2026-07-15T08:00:00.000Z"
-        },
-        {
-          "id": "om_f8dc451b94",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Gary Vaynerchuk’s Next Bet Is an Affiliate Agency Startup",
-          "url": "https://www.adweek.com/agencies/gary-vaynerchuks-next-bet-is-an-affiliate-agency-startup/",
-          "postedAt": "2026-07-15T08:00:00.000Z"
-        },
-        {
-          "id": "om_73871876e7",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok sellers in the UK get improved insights",
-          "url": "https://www.socialmediatoday.com/news/tiktok-sellers-in-the-uk-get-improved-insights/825256/",
-          "postedAt": "2026-07-14T22:55:19.000Z"
-        },
-        {
-          "id": "om_81d07c1813",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How longtime FIFA partner Adidas is leaving its mark on the World Cup",
-          "url": "https://www.marketingbrew.com/stories/adidas-world-cup-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-14T21:00:26.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-16T03:36:41.104Z",
+      "lastUpdated": "2026-07-16T14:21:17.246Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
