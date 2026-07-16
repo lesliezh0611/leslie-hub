@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-15T14:10:47.212Z",
+      "lastUpdated": "2026-07-16T03:36:38.203Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-15T14:10:48.493Z",
+      "lastUpdated": "2026-07-16T03:36:39.413Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,78 @@
       },
       "articles": [
         {
+          "id": "om_d84fd46cbb",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "YouTube highlights brand partnerships with sports creators",
+          "url": "https://www.socialmediatoday.com/news/youtube-highlights-brand-partnerships-with-sports-creators/825375/",
+          "postedAt": "2026-07-15T23:22:58.000Z"
+        },
+        {
+          "id": "om_b9a7fdb5eb",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "2 in 5 ad buyers say CTV is limited by a lack of interactive capabilities: report",
+          "url": "https://www.marketingbrew.com/stories/ctv-ad-investment-interactive-capabilities-limitations-IAB-report?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-15T17:58:29.000Z"
+        },
+        {
+          "id": "om_cf3f9c68a1",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+          "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+          "postedAt": "2026-07-15T17:00:00.000Z"
+        },
+        {
+          "id": "om_adb5bebd1a",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "A chief creative officer’s quest to document NYC soccer culture",
+          "url": "https://www.marketingbrew.com/stories/athletics-and-friends-nyc-soccer-culture?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-15T16:48:25.000Z"
+        },
+        {
+          "id": "om_247a219e3c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Bath & Body Works launches in Brazil",
+          "url": "https://www.retaildive.com/news/bath-body-works-launches-brazil-international-expansion/825238/",
+          "postedAt": "2026-07-15T15:40:00.000Z"
+        },
+        {
+          "id": "om_00a662e9bc",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Best Buy revamps C-suite ahead of CEO change",
+          "url": "https://www.retaildive.com/news/best-buy-revamps-c-suite-leadership-incoming-ceo-jason-bonfig/825287/",
+          "postedAt": "2026-07-15T15:32:00.000Z"
+        },
+        {
+          "id": "om_14461812df",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Marketing Vanguard at Cannes: How Saying No Made Lego Stronger ft. Julia Goldin",
+          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-how-saying-no-made-lego-stronger-ft-julia-goldin/",
+          "postedAt": "2026-07-15T14:51:26.000Z"
+        },
+        {
+          "id": "om_767906d1c2",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Consumers say rewards matter, but many aren’t actually using them",
+          "url": "https://www.marketingdive.com/news/consumers-rewards-matter-many-arent-using/825292/",
+          "postedAt": "2026-07-15T14:44:00.000Z"
+        },
+        {
+          "id": "om_87d0c145bd",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart bets on AI and digital twins to shape its supply chain strategy",
+          "url": "https://www.retaildive.com/news/walmart-supply-chain-strategy-ai-digital-twins/825162/",
+          "postedAt": "2026-07-15T14:21:00.000Z"
+        },
+        {
           "id": "om_7514856f9e",
           "source": "Marketing Dive",
           "lang": "en",
@@ -717,12 +789,12 @@
           "postedAt": "2026-07-15T13:15:59.000Z"
         },
         {
-          "id": "om_f072cd3534",
-          "source": "TechCrunch",
+          "id": "om_bdbe53e26e",
+          "source": "Adweek",
           "lang": "en",
-          "title": "Rime picks up $24M Series A to help enterprises field customer calls",
-          "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
-          "postedAt": "2026-07-15T13:00:00.000Z"
+          "title": "Code and Theory Hires Harsh Kapadia to Bring Creative Closer to Business",
+          "url": "https://www.adweek.com/agencies/code-and-theory-hires-harsh-kapadia-to-bring-creative-closer-to-business/",
+          "postedAt": "2026-07-15T11:44:56.000Z"
         },
         {
           "id": "om_3cd5b4c49d",
@@ -779,82 +851,10 @@
           "title": "How longtime FIFA partner Adidas is leaving its mark on the World Cup",
           "url": "https://www.marketingbrew.com/stories/adidas-world-cup-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-07-14T21:00:26.000Z"
-        },
-        {
-          "id": "om_72f2cd4166",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How brands tapped into the coastal elegance of ‘The Five Star Weekend’",
-          "url": "https://www.marketingbrew.com/stories/peacock-the-five-star-weekend-brand-integrations-homegoods-on-the-rocks?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-14T18:42:26.000Z"
-        },
-        {
-          "id": "om_bd6684d7ec",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "How Dollar Shave Club uses generative AI to unlock advertising creativity",
-          "url": "https://www.retaildive.com/news/how-dollar-shave-club-uses-generative-ai-to-unlock-advertising-creativity/825181/",
-          "postedAt": "2026-07-14T16:09:00.000Z"
-        },
-        {
-          "id": "om_b5a89e9b33",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Insights on Marketing’s Future From the Adweek Press Hour",
-          "url": "https://www.adweek.com/agencies/insights-on-marketings-future-from-the-adweek-press-hour/",
-          "postedAt": "2026-07-14T15:56:34.000Z"
-        },
-        {
-          "id": "om_e2f36b1b4b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Caraway debuts cookware in over 500 Walmart stores",
-          "url": "https://www.retaildive.com/news/walmart-caraway-cookwear-wholsale-partnership/825176/",
-          "postedAt": "2026-07-14T15:44:00.000Z"
-        },
-        {
-          "id": "om_d39696e990",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon preps robotics-equipped sorting warehouse in Texas",
-          "url": "https://www.retaildive.com/news/amazon-robotics-sorting-warehouse-texas/825148/",
-          "postedAt": "2026-07-14T14:28:00.000Z"
-        },
-        {
-          "id": "om_e5d79eed15",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "More Than Half of Americans Would Drop AI Tools They Have to Pay For: Report",
-          "url": "https://www.adweek.com/brand-marketing/more-than-half-of-americans-would-drop-ai-tools-they-have-to-pay-for-report/",
-          "postedAt": "2026-07-14T14:16:46.000Z"
-        },
-        {
-          "id": "om_b1585140a6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Future of Advertising Is Predictive: How Deep Learning Is Transforming Marketing",
-          "url": "https://www.adweek.com/brand-marketing/the-future-of-advertising-is-predictive-how-deep-learning-is-transforming-marketing/",
-          "postedAt": "2026-07-14T14:01:25.000Z"
-        },
-        {
-          "id": "om_c1b5bf0b3a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The 4 Marketing Decisions That Seem Smart, But That Can Weaken Great Brands",
-          "url": "https://www.adweek.com/brand-marketing/the-4-marketing-decisions-that-seem-smart-but-that-can-weaken-great-brands/",
-          "postedAt": "2026-07-14T13:38:47.000Z"
-        },
-        {
-          "id": "om_618f9903af",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Pizza Hut serves up nostalgia with latest rewards program push",
-          "url": "https://www.marketingdive.com/news/pizza-hut-serves-up-nostalgia-with-latest-rewards-program-push/825124/",
-          "postedAt": "2026-07-14T13:24:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-15T14:10:50.144Z",
+      "lastUpdated": "2026-07-16T03:36:41.104Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
