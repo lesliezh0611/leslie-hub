@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-16T14:21:13.933Z",
+      "lastUpdated": "2026-07-17T03:35:32.587Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_the_knowledge_project_2f63d88895",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "Truth Over Feelings: Inside Opendoor’s Massive Turnaround",
+          "url": "https://fs.blog/knowledge-project-podcast/kaz-nejatian/",
+          "postedAt": "2026-07-16T09:50:00.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_b745838ed9",
           "source": "Lenny's Podcast",
@@ -600,10 +608,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-16T14:21:15.134Z",
+      "lastUpdated": "2026-07-17T03:35:35.463Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "14 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -693,6 +701,86 @@
       },
       "articles": [
         {
+          "id": "om_f8b4fe383f",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok partners with NBA and WNBA",
+          "url": "https://www.socialmediatoday.com/news/tiktok-partners-with-nba-and-wnba/825492/",
+          "postedAt": "2026-07-16T21:48:04.000Z"
+        },
+        {
+          "id": "om_13263dd978",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "ChatGPT, Gemini, and Claude are expanding their advertising focus into smaller markets",
+          "url": "https://www.marketingbrew.com/stories/chatgpt-gemini-and-claude-are-expanding-their-advertising-focus-into-smaller-markets?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-16T20:02:48.000Z"
+        },
+        {
+          "id": "om_deaf5ff95f",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside US soccer leagues’ plans to make World Cup fans stick around",
+          "url": "https://www.marketingbrew.com/stories/us-soccer-mls-nwsl-world-cup-campaigns?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-16T19:55:16.000Z"
+        },
+        {
+          "id": "om_ecab323133",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Brands Prepare to Be Spontaneous",
+          "url": "https://www.adweek.com/brand-marketing/adweek-sports-marketing-summit-brands-spontaneous-2026/",
+          "postedAt": "2026-07-16T17:32:14.000Z"
+        },
+        {
+          "id": "om_bdc997e688",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "X cracks down on creators who steal content",
+          "url": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
+          "postedAt": "2026-07-16T16:40:36.000Z"
+        },
+        {
+          "id": "om_6ca48a7b7f",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: YouTube highlights brand partnerships with sports creators",
+          "url": "https://www.marketingdive.com/news/youtube-highlights-brand-partnerships-with-sports-creators/825428/",
+          "postedAt": "2026-07-16T16:14:00.000Z"
+        },
+        {
+          "id": "om_8bdc0d1075",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart touts some of its lowest back-to-school pricing since 2019",
+          "url": "https://www.retaildive.com/news/walmarts-touts-low-pricing-back-to-school-assortment/825412/",
+          "postedAt": "2026-07-16T15:46:00.000Z"
+        },
+        {
+          "id": "om_916ae4aa1d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Foot Locker brings in Salomon to boost assortment",
+          "url": "https://www.retaildive.com/news/foot-locker-salomon-footwear-partnership/825406/",
+          "postedAt": "2026-07-16T15:24:00.000Z"
+        },
+        {
+          "id": "om_a875280012",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Publicis addresses LiveRamp deal, lagging Sapient arm as it raises outlook",
+          "url": "https://www.marketingdive.com/news/publicis-addresses-liveramp-deal-lagging-sapient-arm-as-it-raises-outlook/825379/",
+          "postedAt": "2026-07-16T14:56:00.000Z"
+        },
+        {
+          "id": "om_e3f69ec25d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "What Taco Bell Learned From Chipotle’s Mistakes Amid Cyclospora Outbreak",
+          "url": "https://www.adweek.com/brand-marketing/what-taco-bell-learned-from-chipotles-mistakes-amid-cyclospora-outbreak/",
+          "postedAt": "2026-07-16T14:30:12.000Z"
+        },
+        {
           "id": "om_8bcb1df748",
           "source": "Marketing Dive",
           "lang": "en",
@@ -765,96 +853,16 @@
           "postedAt": "2026-07-15T17:58:29.000Z"
         },
         {
-          "id": "om_cf3f9c68a1",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-          "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-          "postedAt": "2026-07-15T17:00:00.000Z"
-        },
-        {
           "id": "om_adb5bebd1a",
           "source": "Marketing Brew",
           "lang": "en",
           "title": "A chief creative officer’s quest to document NYC soccer culture",
           "url": "https://www.marketingbrew.com/stories/athletics-and-friends-nyc-soccer-culture?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-07-15T16:48:25.000Z"
-        },
-        {
-          "id": "om_247a219e3c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bath & Body Works launches in Brazil",
-          "url": "https://www.retaildive.com/news/bath-body-works-launches-brazil-international-expansion/825238/",
-          "postedAt": "2026-07-15T15:40:00.000Z"
-        },
-        {
-          "id": "om_00a662e9bc",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Best Buy revamps C-suite ahead of CEO change",
-          "url": "https://www.retaildive.com/news/best-buy-revamps-c-suite-leadership-incoming-ceo-jason-bonfig/825287/",
-          "postedAt": "2026-07-15T15:32:00.000Z"
-        },
-        {
-          "id": "om_14461812df",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketing Vanguard at Cannes: How Saying No Made Lego Stronger ft. Julia Goldin",
-          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-how-saying-no-made-lego-stronger-ft-julia-goldin/",
-          "postedAt": "2026-07-15T14:51:26.000Z"
-        },
-        {
-          "id": "om_767906d1c2",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Consumers say rewards matter, but many aren’t actually using them",
-          "url": "https://www.marketingdive.com/news/consumers-rewards-matter-many-arent-using/825292/",
-          "postedAt": "2026-07-15T14:44:00.000Z"
-        },
-        {
-          "id": "om_87d0c145bd",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart bets on AI and digital twins to shape its supply chain strategy",
-          "url": "https://www.retaildive.com/news/walmart-supply-chain-strategy-ai-digital-twins/825162/",
-          "postedAt": "2026-07-15T14:21:00.000Z"
-        },
-        {
-          "id": "om_7514856f9e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Liquid I.V., Samsung swing into ‘Spider-Man’ to spotlight new products",
-          "url": "https://www.marketingdive.com/news/liquid-iv-samsung-spider-man-to-spotlight-new-products/825212/",
-          "postedAt": "2026-07-15T14:00:00.000Z"
-        },
-        {
-          "id": "om_f7b85c7dbc",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Neutrogena puts science above virality with ‘Break the Rules’ campaign",
-          "url": "https://www.marketingdive.com/news/neutrogena-puts-science-above-virality-with-break-the-rules-campaign/825268/",
-          "postedAt": "2026-07-15T13:49:00.000Z"
-        },
-        {
-          "id": "om_d2e16c02b9",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How the Anti-Recidivism Coalition brought social series to the nonprofit world",
-          "url": "https://www.marketingbrew.com/stories/anti-recidivism-coalition-nonprofit-social-series-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-15T13:15:59.000Z"
-        },
-        {
-          "id": "om_bdbe53e26e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Code and Theory Hires Harsh Kapadia to Bring Creative Closer to Business",
-          "url": "https://www.adweek.com/agencies/code-and-theory-hires-harsh-kapadia-to-bring-creative-closer-to-business/",
-          "postedAt": "2026-07-15T11:44:56.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-16T14:21:17.246Z",
+      "lastUpdated": "2026-07-17T03:35:37.888Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
