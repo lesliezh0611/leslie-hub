@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-17T14:01:31.624Z",
+      "lastUpdated": "2026-07-18T03:29:53.005Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -608,7 +608,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-17T14:01:33.558Z",
+      "lastUpdated": "2026-07-18T03:29:54.020Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -701,6 +701,126 @@
       },
       "articles": [
         {
+          "id": "om_54169029a0",
+          "source": "Wired",
+          "lang": "en",
+          "title": "AWS Billing Glitch Hits Customers With Billion-Dollar Fees",
+          "url": "https://www.wired.com/story/amazon-web-services-glitch-oh-no/",
+          "postedAt": "2026-07-17T19:50:38.000Z"
+        },
+        {
+          "id": "om_b51b6c1073",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "TikTok is testing an AI likeness detection tool",
+          "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+          "postedAt": "2026-07-17T19:34:30.000Z"
+        },
+        {
+          "id": "om_e13c28c86b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart US chief operating officer to depart",
+          "url": "https://www.retaildive.com/news/walmart-us-chief-operating-officer-depart/825549/",
+          "postedAt": "2026-07-17T16:32:00.000Z"
+        },
+        {
+          "id": "om_9c151e6fe5",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Kate Spade focused on ‘reigniting the magic’ with new chief marketer",
+          "url": "https://www.marketingdive.com/news/kate-spade-names-chief-marketing-officer-allison-badea/825558/",
+          "postedAt": "2026-07-17T16:00:00.000Z"
+        },
+        {
+          "id": "om_6090c5f05d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: RadioShack eyes a comeback, Wayfair and QVC kick off the holidays",
+          "url": "https://www.retaildive.com/news/radioshack-comeback-wayfair-qvc-christmas-in-july-lush-halloween/825487/",
+          "postedAt": "2026-07-17T15:54:00.000Z"
+        },
+        {
+          "id": "om_5cdc6942f6",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Back-to-school spending forecast to reach record highs",
+          "url": "https://www.retaildive.com/news/back-to-school-record-high-forecast-nrf/825458/",
+          "postedAt": "2026-07-17T15:51:00.000Z"
+        },
+        {
+          "id": "om_2c65127e8c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Kate Spade focused on ‘reigniting the magic’ with new chief marketer",
+          "url": "https://www.retaildive.com/news/kate-spade-names-chief-marketing-officer-allison-badea/825528/",
+          "postedAt": "2026-07-17T15:49:00.000Z"
+        },
+        {
+          "id": "om_f61bd0eba8",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
+          "url": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
+          "postedAt": "2026-07-17T15:29:21.000Z"
+        },
+        {
+          "id": "om_82b0d892db",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Ulta Beauty names Domino’s veteran as CTO",
+          "url": "https://www.retaildive.com/news/ulta-names-new-cto/825451/",
+          "postedAt": "2026-07-17T15:08:00.000Z"
+        },
+        {
+          "id": "om_4d0402531a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Netflix says live events bolster ads but affect viewer engagement",
+          "url": "https://www.marketingdive.com/news/netflix-says-live-events-bolster-ads-but-affect-viewer-engagement/825515/",
+          "postedAt": "2026-07-17T14:32:00.000Z"
+        },
+        {
+          "id": "om_ffdf4a06e2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Gap sticks with ‘90s nostalgia, denim for Hailey Bieber capsule campaign",
+          "url": "https://www.retaildive.com/news/gap-hailey-bieber-capsule-campaign-90s-nostalgia-denim/825516/",
+          "postedAt": "2026-07-17T14:31:00.000Z"
+        },
+        {
+          "id": "om_870f3c388a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Campaign Trail: Yeti spells out consumer passions with four-letter words",
+          "url": "https://www.marketingdive.com/news/campaign-trail-yeti-spells-out-consumer-passions-with-four-letter-words/825390/",
+          "postedAt": "2026-07-17T14:00:00.000Z"
+        },
+        {
+          "id": "om_192bf98942",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Advertisers testing ChatGPT are eager for more campaign control and measurement tools",
+          "url": "https://www.marketingbrew.com/stories/chatgpt-advertisers-seeking-campaign-control-measurement-tools?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-17T13:12:17.000Z"
+        },
+        {
+          "id": "om_5e04f09cec",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Preparation Spreads the Value of the World Cup Across the Entire Sports Marketing World",
+          "url": "https://www.adweek.com/brand-marketing/marketers-at-the-adweek-house-sports-summit-speak-on-the-value-of-preparation/",
+          "postedAt": "2026-07-17T11:54:30.000Z"
+        },
+        {
+          "id": "om_6fbfb16a9c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Turning Sunscreen Into a Lifestyle Brand: Lessons from Roy Fleeman",
+          "url": "https://www.adweek.com/brand-marketing/turning-sunscreen-into-a-lifestyle-brand-lessons-from-roy-fleeman/",
+          "postedAt": "2026-07-17T11:48:00.000Z"
+        },
+        {
           "id": "om_28cb6cfbe1",
           "source": "Adweek",
           "lang": "en",
@@ -728,7 +848,7 @@
           "id": "om_ac7d2bee94",
           "source": "Adweek",
           "lang": "en",
-          "title": "5 Shopping Tools That Used Similar Affiliate Scams as Phia",
+          "title": "5 Shopping Tools Accused of Similar Affiliate Scams as Phia",
           "url": "https://www.adweek.com/commerce/5-shopping-tools-that-used-similar-affiliate-scams-as-phia/",
           "postedAt": "2026-07-17T06:00:00.000Z"
         },
@@ -739,130 +859,10 @@
           "title": "Ads of the Week: 10 Campaigns That Caught Our Eye, From Gap to Anthropic",
           "url": "https://www.adweek.com/creativity/ads-of-the-week-10-campaigns-that-caught-our-eye-from-gap-to-anthropic/",
           "postedAt": "2026-07-17T06:00:00.000Z"
-        },
-        {
-          "id": "om_f8b4fe383f",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok partners with NBA and WNBA",
-          "url": "https://www.socialmediatoday.com/news/tiktok-partners-with-nba-and-wnba/825492/",
-          "postedAt": "2026-07-16T21:48:04.000Z"
-        },
-        {
-          "id": "om_13263dd978",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "ChatGPT, Gemini, and Claude are expanding their advertising focus into smaller markets",
-          "url": "https://www.marketingbrew.com/stories/chatgpt-gemini-and-claude-are-expanding-their-advertising-focus-into-smaller-markets?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-16T20:02:48.000Z"
-        },
-        {
-          "id": "om_deaf5ff95f",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside US soccer leagues’ plans to make World Cup fans stick around",
-          "url": "https://www.marketingbrew.com/stories/us-soccer-mls-nwsl-world-cup-campaigns?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-16T19:55:16.000Z"
-        },
-        {
-          "id": "om_ecab323133",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Brands Prepare to Be Spontaneous",
-          "url": "https://www.adweek.com/brand-marketing/adweek-sports-marketing-summit-brands-spontaneous-2026/",
-          "postedAt": "2026-07-16T17:32:14.000Z"
-        },
-        {
-          "id": "om_bdc997e688",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "X cracks down on creators who steal content",
-          "url": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
-          "postedAt": "2026-07-16T16:40:36.000Z"
-        },
-        {
-          "id": "om_6ca48a7b7f",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: YouTube highlights brand partnerships with sports creators",
-          "url": "https://www.marketingdive.com/news/youtube-highlights-brand-partnerships-with-sports-creators/825428/",
-          "postedAt": "2026-07-16T16:14:00.000Z"
-        },
-        {
-          "id": "om_8bdc0d1075",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart touts some of its lowest back-to-school pricing since 2019",
-          "url": "https://www.retaildive.com/news/walmarts-touts-low-pricing-back-to-school-assortment/825412/",
-          "postedAt": "2026-07-16T15:46:00.000Z"
-        },
-        {
-          "id": "om_916ae4aa1d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Foot Locker brings in Salomon to boost assortment",
-          "url": "https://www.retaildive.com/news/foot-locker-salomon-footwear-partnership/825406/",
-          "postedAt": "2026-07-16T15:24:00.000Z"
-        },
-        {
-          "id": "om_d9f0b17402",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Coffee Mate stirs up summer fling with social-first campaign",
-          "url": "https://www.marketingdive.com/news/coffee-mate-stirs-up-summer-fling-with-social-first-campaign/825352/",
-          "postedAt": "2026-07-16T15:00:00.000Z"
-        },
-        {
-          "id": "om_a875280012",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Publicis addresses LiveRamp deal, lagging Sapient arm as it raises outlook",
-          "url": "https://www.marketingdive.com/news/publicis-addresses-liveramp-deal-lagging-sapient-arm-as-it-raises-outlook/825379/",
-          "postedAt": "2026-07-16T14:56:00.000Z"
-        },
-        {
-          "id": "om_e3f69ec25d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "What Taco Bell Learned From Chipotle’s Mistakes Amid Cyclospora Outbreak",
-          "url": "https://www.adweek.com/brand-marketing/what-taco-bell-learned-from-chipotles-mistakes-amid-cyclospora-outbreak/",
-          "postedAt": "2026-07-16T14:30:12.000Z"
-        },
-        {
-          "id": "om_8bcb1df748",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Skechers shifts big chunk of global media biz to Horizon Global",
-          "url": "https://www.marketingdive.com/news/skechers-shifts-big-chunk-of-global-media-biz-to-horizon-global/825369/",
-          "postedAt": "2026-07-16T14:00:00.000Z"
-        },
-        {
-          "id": "om_8bd6d01cac",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Gap sticks with ‘90s nostalgia, denim for Hailey Bieber capsule campaign",
-          "url": "https://www.marketingdive.com/news/gap-sticks-with-90s-nostalgia-denim-for-hailey-bieber-capsule-campaign/825378/",
-          "postedAt": "2026-07-16T13:58:00.000Z"
-        },
-        {
-          "id": "om_c756a5f550",
-          "source": "Wired",
-          "lang": "en",
-          "title": "OnePlus, the ‘Flagship-Killer’ Smartphone Brand, Is All but Dead",
-          "url": "https://www.wired.com/story/oneplus-is-all-but-dead/",
-          "postedAt": "2026-07-16T09:00:00.000Z"
-        },
-        {
-          "id": "om_0deca94ce5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Phia’s Alleged Scheme Goes Beyond Ordinary Affiliate Fraud",
-          "url": "https://www.adweek.com/commerce/phias-alleged-scheme-goes-beyond-ordinary-affiliate-fraud/",
-          "postedAt": "2026-07-16T07:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-17T14:01:36.397Z",
+      "lastUpdated": "2026-07-18T03:29:55.603Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
