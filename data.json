@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-19T03:52:06.251Z",
+      "lastUpdated": "2026-07-19T13:52:13.706Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_f3264707c6",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Netflix CPTO on AI and the future of product and tech roles | Elizabeth Stone",
+          "url": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future",
+          "postedAt": "2026-07-19T12:31:21.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_c956ad4970",
           "source": "Lenny's Podcast",
@@ -536,14 +544,6 @@
           "postedAt": "2026-07-07T13:04:22.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_6c4c992d92",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: Sonnet 5 review & How to run autonomous coding agents from your phone",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-sonnet-5-review-and-how",
-          "postedAt": "2026-07-06T15:01:17.000Z"
-        },
-        {
           "id": "en_pod_lex_fridman_podcast_d4f100240a",
           "source": "Lex Fridman Podcast",
           "platform": "podcast",
@@ -608,7 +608,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-19T03:52:08.003Z",
+      "lastUpdated": "2026-07-19T13:52:14.898Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -862,7 +862,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-19T03:52:10.913Z",
+      "lastUpdated": "2026-07-19T13:52:16.899Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
