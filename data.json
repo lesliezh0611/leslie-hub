@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-18T13:47:23.282Z",
+      "lastUpdated": "2026-07-19T03:52:06.251Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_c956ad4970",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: Syncing Claude Code and Claude Design, earning trust when customers assume you vibe coded it, co-founder fallout lessons, personal CRMs, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code",
+          "postedAt": "2026-07-18T17:04:04.000Z"
+        },
         {
           "id": "en_pod_the_knowledge_project_2f63d88895",
           "source": "The Knowledge Project",
@@ -536,14 +544,6 @@
           "postedAt": "2026-07-06T15:01:17.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_1e5422c319",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
-          "url": "https://www.lennysnewsletter.com/p/how-i-run-autonomous-coding-agents",
-          "postedAt": "2026-07-06T12:03:37.000Z"
-        },
-        {
           "id": "en_pod_lex_fridman_podcast_d4f100240a",
           "source": "Lex Fridman Podcast",
           "platform": "podcast",
@@ -608,7 +608,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-18T13:47:24.432Z",
+      "lastUpdated": "2026-07-19T03:52:08.003Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -701,20 +701,20 @@
       },
       "articles": [
         {
+          "id": "om_aa4de4d1bf",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Federal employees can download TikTok on their work phones again",
+          "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+          "postedAt": "2026-07-18T15:54:24.000Z"
+        },
+        {
           "id": "om_54169029a0",
           "source": "Wired",
           "lang": "en",
           "title": "AWS Billing Glitch Hits Customers With Billion-Dollar Fees",
           "url": "https://www.wired.com/story/amazon-web-services-glitch-oh-no/",
           "postedAt": "2026-07-17T19:50:38.000Z"
-        },
-        {
-          "id": "om_b51b6c1073",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "TikTok is testing an AI likeness detection tool",
-          "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-          "postedAt": "2026-07-17T19:34:30.000Z"
         },
         {
           "id": "om_e13c28c86b",
@@ -862,7 +862,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-18T13:47:26.315Z",
+      "lastUpdated": "2026-07-19T03:52:10.913Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
