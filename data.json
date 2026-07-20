@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-20T04:02:45.708Z",
+      "lastUpdated": "2026-07-20T14:32:14.568Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_8b48a93d56",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
+          "url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
+          "postedAt": "2026-07-20T12:04:47.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_f3264707c6",
           "source": "Lenny's Podcast",
@@ -536,14 +544,6 @@
           "postedAt": "2026-07-08T12:03:35.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_1484302de8",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How tech workers are feeling in 2026: a workforce splitting in two",
-          "url": "https://www.lennysnewsletter.com/p/how-tech-workers-are-feeling-in-2026",
-          "postedAt": "2026-07-07T13:04:22.000Z"
-        },
-        {
           "id": "en_pod_lex_fridman_podcast_d4f100240a",
           "source": "Lex Fridman Podcast",
           "platform": "podcast",
@@ -608,7 +608,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-20T04:02:47.184Z",
+      "lastUpdated": "2026-07-20T14:32:15.855Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -701,6 +701,86 @@
       },
       "articles": [
         {
+          "id": "om_a2f9f160e1",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Lord & Taylor revives private label strategy",
+          "url": "https://www.retaildive.com/news/lord-taylors-revives-private-label-strategy-heritage-collection/825624/",
+          "postedAt": "2026-07-20T14:24:00.000Z"
+        },
+        {
+          "id": "om_1e618335bf",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Gap makes a fine mesh out of its ‘Happy Stripe’ remake",
+          "url": "https://www.retaildive.com/news/gap-makes-fine-mesh-happy-stripe-remake-backlash/824879/",
+          "postedAt": "2026-07-20T13:20:00.000Z"
+        },
+        {
+          "id": "om_ac9a3627f3",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Burger King rolls out Whopper Guarantee as part of turnaround effort",
+          "url": "https://www.marketingdive.com/news/burger-king-rolls-out-whopper-guarantee-as-part-of-turnaround-effort/825562/",
+          "postedAt": "2026-07-20T13:00:00.000Z"
+        },
+        {
+          "id": "om_83aee442e9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Penny’s end poses rounding challenge",
+          "url": "https://www.retaildive.com/news/pennys-end-poses-rounding-challenge/825520/",
+          "postedAt": "2026-07-20T13:00:00.000Z"
+        },
+        {
+          "id": "om_3d71f52272",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside AT&T’s WNBA All-Star Weekend playbook",
+          "url": "https://www.marketingbrew.com/stories/a-t-and-t-wnba-all-star-weekend?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-20T10:00:00.000Z"
+        },
+        {
+          "id": "om_ea54ef9226",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "From season to sentiment: How the pace of consumer trends reshapes retail planning",
+          "url": "https://www.retaildive.com/spons/from-season-to-sentiment-how-the-pace-of-consumer-trends-reshapes-retail-p/824796/",
+          "postedAt": "2026-07-20T09:00:00.000Z"
+        },
+        {
+          "id": "om_e9c8a336ed",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Global coverage and effectiveness: Why CPG sales leaders own retailer success, direct or indirect",
+          "url": "https://www.retaildive.com/spons/global-coverage-and-effectiveness-why-cpg-sales-leaders-own-retailer-succe/825356/",
+          "postedAt": "2026-07-20T09:00:00.000Z"
+        },
+        {
+          "id": "om_3120951ba2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "AI is creating ecommerce’s next optimization challenge: The intent gap",
+          "url": "https://www.retaildive.com/spons/ai-is-creating-ecommerces-next-optimization-challenge-the-intent-gap/825381/",
+          "postedAt": "2026-07-20T09:00:00.000Z"
+        },
+        {
+          "id": "om_6d93e7b22b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Agencies Vanguard Is Bringing Agencies Together at a Moment They Most Need It",
+          "url": "https://www.adweek.com/agencies/agencies-vanguard-is-bringing-agencies-together-at-a-moment-they-most-need-it/",
+          "postedAt": "2026-07-20T06:00:00.000Z"
+        },
+        {
+          "id": "om_1ca728bdd2",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How 4 Retailers Are Pitching Creative Ad Formats",
+          "url": "https://www.adweek.com/commerce/how-4-retailers-are-pitching-creative-ad-formats/",
+          "postedAt": "2026-07-20T06:00:00.000Z"
+        },
+        {
           "id": "om_4a2f514cfc",
           "source": "Social Media Today",
           "lang": "en",
@@ -757,44 +837,12 @@
           "postedAt": "2026-07-17T15:54:00.000Z"
         },
         {
-          "id": "om_5cdc6942f6",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Back-to-school spending forecast to reach record highs",
-          "url": "https://www.retaildive.com/news/back-to-school-record-high-forecast-nrf/825458/",
-          "postedAt": "2026-07-17T15:51:00.000Z"
-        },
-        {
-          "id": "om_2c65127e8c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Kate Spade focused on ‘reigniting the magic’ with new chief marketer",
-          "url": "https://www.retaildive.com/news/kate-spade-names-chief-marketing-officer-allison-badea/825528/",
-          "postedAt": "2026-07-17T15:49:00.000Z"
-        },
-        {
-          "id": "om_82b0d892db",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Ulta Beauty names Domino’s veteran as CTO",
-          "url": "https://www.retaildive.com/news/ulta-names-new-cto/825451/",
-          "postedAt": "2026-07-17T15:08:00.000Z"
-        },
-        {
           "id": "om_4d0402531a",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Netflix says live events bolster ads but affect viewer engagement",
           "url": "https://www.marketingdive.com/news/netflix-says-live-events-bolster-ads-but-affect-viewer-engagement/825515/",
           "postedAt": "2026-07-17T14:32:00.000Z"
-        },
-        {
-          "id": "om_ffdf4a06e2",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Gap sticks with ‘90s nostalgia, denim for Hailey Bieber capsule campaign",
-          "url": "https://www.retaildive.com/news/gap-hailey-bieber-capsule-campaign-90s-nostalgia-denim/825516/",
-          "postedAt": "2026-07-17T14:31:00.000Z"
         },
         {
           "id": "om_870f3c388a",
@@ -811,58 +859,10 @@
           "title": "Advertisers testing ChatGPT are eager for more campaign control and measurement tools",
           "url": "https://www.marketingbrew.com/stories/chatgpt-advertisers-seeking-campaign-control-measurement-tools?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-07-17T13:12:17.000Z"
-        },
-        {
-          "id": "om_5e04f09cec",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Preparation Spreads the Value of the World Cup Across the Entire Sports Marketing World",
-          "url": "https://www.adweek.com/brand-marketing/marketers-at-the-adweek-house-sports-summit-speak-on-the-value-of-preparation/",
-          "postedAt": "2026-07-17T11:54:30.000Z"
-        },
-        {
-          "id": "om_6fbfb16a9c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Turning Sunscreen Into a Lifestyle Brand: Lessons from Roy Fleeman",
-          "url": "https://www.adweek.com/brand-marketing/turning-sunscreen-into-a-lifestyle-brand-lessons-from-roy-fleeman/",
-          "postedAt": "2026-07-17T11:48:00.000Z"
-        },
-        {
-          "id": "om_28cb6cfbe1",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Legacy Tuna Brand StarKist Picks Tombras to Make Its Mascot a Viral Hit",
-          "url": "https://www.adweek.com/agencies/legacy-tuna-brand-starkist-picks-tombras-to-make-its-mascot-a-viral-hit/",
-          "postedAt": "2026-07-17T08:47:16.000Z"
-        },
-        {
-          "id": "om_b761746ade",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Y2K Brands Turned the Millennial Ache Into Gen Z Gold",
-          "url": "https://www.adweek.com/brand-marketing/how-y2k-brands-turned-the-millennial-ache-into-gen-z-gold/",
-          "postedAt": "2026-07-17T06:00:00.000Z"
-        },
-        {
-          "id": "om_bb9975a9ff",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "72andSunny and Female Quotient Give Women Athletes a Path to Their Next Career",
-          "url": "https://www.adweek.com/agencies/72andsunny-and-female-quotient-give-women-athletes-a-path-to-their-next-career/",
-          "postedAt": "2026-07-17T06:00:00.000Z"
-        },
-        {
-          "id": "om_ac7d2bee94",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "5 Shopping Tools Accused of Similar Affiliate Scams as Phia",
-          "url": "https://www.adweek.com/commerce/5-shopping-tools-that-used-similar-affiliate-scams-as-phia/",
-          "postedAt": "2026-07-17T06:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-20T04:02:48.926Z",
+      "lastUpdated": "2026-07-20T14:32:17.699Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
