@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-21T03:43:28.135Z",
+      "lastUpdated": "2026-07-21T14:20:17.140Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_6afe0a5e65",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Why a sabbatical can change everything",
+          "url": "https://www.lennysnewsletter.com/p/how-to-take-a-sabbatical",
+          "postedAt": "2026-07-21T12:45:10.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_653b7163f6",
           "source": "Lenny's Podcast",
@@ -536,14 +544,6 @@
           "postedAt": "2026-07-09T13:47:27.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_492d99448b",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Adam Mosseri: AI is a tailwind for authenticity",
-          "url": "https://www.lennysnewsletter.com/p/adam-mosseri-ai-is-a-tailwind-for",
-          "postedAt": "2026-07-09T12:32:21.000Z"
-        },
-        {
           "id": "en_pod_lex_fridman_podcast_d4f100240a",
           "source": "Lex Fridman Podcast",
           "platform": "podcast",
@@ -608,7 +608,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-21T03:43:29.285Z",
+      "lastUpdated": "2026-07-21T14:20:18.463Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -700,6 +700,54 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_5625dca905",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Dum Dums owner Spangler created a candy empire built on nostalgia",
+          "url": "https://www.marketingdive.com/news/Spangler-nostalgia-candy-dum-dums-sweethearts/825762/",
+          "postedAt": "2026-07-21T13:45:00.000Z"
+        },
+        {
+          "id": "om_78fc004f0e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why Liberty Mutual turned a viral ad moment into a new brand character",
+          "url": "https://www.marketingdive.com/news/why-liberty-mutual-turned-a-viral-ad-moment-into-a-new-brand-character/825724/",
+          "postedAt": "2026-07-21T13:43:00.000Z"
+        },
+        {
+          "id": "om_2b9a9d7e0a",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "The Switch 2 is $50 off at Woot for new customers",
+          "url": "https://www.theverge.com/gadgets/968325/woot-switch-2-coupon-discount-code-deal-sale",
+          "postedAt": "2026-07-21T13:27:32.000Z"
+        },
+        {
+          "id": "om_1ea32ce4a3",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Kraft Heinz, Disney enter long-term strategic marketing partnership",
+          "url": "https://www.marketingdive.com/news/kraft-heinz-disney-enter-long-term-strategic-marketing-partnership/825692/",
+          "postedAt": "2026-07-21T12:00:00.000Z"
+        },
+        {
+          "id": "om_6712b50ef8",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "EXCLUSIVE: Behr Elevates Andy Lopez to CMO as It Paints a More Digital Future",
+          "url": "https://www.adweek.com/brand-marketing/exclusive-behr-elevates-andy-lopez-to-cmo-as-it-paints-a-more-digital-future/",
+          "postedAt": "2026-07-21T09:00:00.000Z"
+        },
+        {
+          "id": "om_d075bb2b4a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "AMF’s Retro Rebrand Aims to Win Over Gen Z Without Losing the League Crowd",
+          "url": "https://www.adweek.com/brand-marketing/amfs-retro-rebrand-aims-to-win-over-gen-z-without-losing-the-league-crowd/",
+          "postedAt": "2026-07-21T08:30:00.000Z"
+        },
         {
           "id": "om_48bbfa6168",
           "source": "Social Media Today",
@@ -811,58 +859,10 @@
           "title": "Gap makes a fine mesh out of its ‘Happy Stripe’ remake",
           "url": "https://www.retaildive.com/news/gap-makes-fine-mesh-happy-stripe-remake-backlash/824879/",
           "postedAt": "2026-07-20T13:20:00.000Z"
-        },
-        {
-          "id": "om_00e659b720",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Tracksuit Acquires AI Brand-Monitoring Startup Hall",
-          "url": "https://www.adweek.com/media/tracksuit-acquires-ai-brand-monitoring-startup-hall/",
-          "postedAt": "2026-07-20T13:00:00.000Z"
-        },
-        {
-          "id": "om_ac9a3627f3",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Burger King rolls out Whopper Guarantee as part of turnaround effort",
-          "url": "https://www.marketingdive.com/news/burger-king-rolls-out-whopper-guarantee-as-part-of-turnaround-effort/825562/",
-          "postedAt": "2026-07-20T13:00:00.000Z"
-        },
-        {
-          "id": "om_83aee442e9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Penny’s end poses rounding challenge",
-          "url": "https://www.retaildive.com/news/pennys-end-poses-rounding-challenge/825520/",
-          "postedAt": "2026-07-20T13:00:00.000Z"
-        },
-        {
-          "id": "om_3aca36b33d",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Reddit says brands need to connect with communities",
-          "url": "https://www.socialmediatoday.com/news/reddit-says-brands-need-to-connect-with-communities/824771/",
-          "postedAt": "2026-07-20T12:00:00.000Z"
-        },
-        {
-          "id": "om_26a77469d7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketing Vanguard at Cannes: Stop Forcing Marketing Into False Binaries ft. Jill Kramer of Mastercard",
-          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-stop-forcing-marketing-into-false-binaries-ft-jill-kramer-of-mastercard/",
-          "postedAt": "2026-07-20T11:00:39.000Z"
-        },
-        {
-          "id": "om_3d71f52272",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside AT&T’s WNBA All-Star Weekend playbook",
-          "url": "https://www.marketingbrew.com/stories/a-t-and-t-wnba-all-star-weekend?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-20T10:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-21T03:43:30.992Z",
+      "lastUpdated": "2026-07-21T14:20:20.344Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
