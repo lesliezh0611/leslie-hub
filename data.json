@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-21T14:20:17.140Z",
+      "lastUpdated": "2026-07-22T03:44:29.835Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -542,22 +542,6 @@
           "topic": "The Best Summary of Atlas Shrugged",
           "url": "https://fs.blog/atlas-shrugged-summary/",
           "postedAt": "2026-07-09T13:47:27.000Z"
-        },
-        {
-          "id": "en_pod_lex_fridman_podcast_d4f100240a",
-          "source": "Lex Fridman Podcast",
-          "platform": "podcast",
-          "topic": "#498 – Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires",
-          "url": "https://lexfridman.com/anthony-kaldellis/?utm_source=rss&utm_medium=rss&utm_campaign=anthony-kaldellis",
-          "postedAt": "2026-06-30T21:33:40.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_9eaa37636d",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "The Mindset That Unlocks Your Full Potential | Dr. Gio Valiante",
-          "url": "https://fs.blog/knowledge-project-podcast/performance-psychologist-mindset/",
-          "postedAt": "2026-06-30T17:55:21.000Z"
         }
       ],
       "books": [
@@ -608,10 +592,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-21T14:20:18.463Z",
+      "lastUpdated": "2026-07-22T03:44:31.133Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "14 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -701,6 +685,78 @@
       },
       "articles": [
         {
+          "id": "om_547472ff08",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Shop Best Buy’s Black Friday in July Sale 2026 Before Fall Chaos",
+          "url": "https://www.wired.com/story/best-buy-black-friday-in-july-2026/",
+          "postedAt": "2026-07-21T20:39:06.000Z"
+        },
+        {
+          "id": "om_c8089a06fd",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Hilary Duff, ‘Cash Cab,’ and branded newspapers: How Ladder is communicating ‘stronger, not smaller’ to women",
+          "url": "https://www.marketingbrew.com/stories/hilary-duff-cash-cab-and-branded-newspapers-how-ladder-is-communicating-stronger-not-smaller-to-women?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-21T20:08:21.000Z"
+        },
+        {
+          "id": "om_ba1c7bb20a",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside the rise of franchise-based MLB theme games",
+          "url": "https://www.marketingbrew.com/stories/mlb-theme-games-fourth-wing-heated-rivalry?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-21T18:08:38.000Z"
+        },
+        {
+          "id": "om_ecc420fca2",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Omnicom Media Retains Uber’s $800M Account and Expands Brazil Remit",
+          "url": "https://www.adweek.com/agencies/omnicom-media-retains-ubers-800m-account-and-expands-brazil-remit/",
+          "postedAt": "2026-07-21T17:14:20.000Z"
+        },
+        {
+          "id": "om_fb7a1203b2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Canadian mattress retailer to acquire Sleep Number for over $700M",
+          "url": "https://www.retaildive.com/news/sleep-country-canada-mattress-acquire-sleep-number-700-million-bankruptcy/825771/",
+          "postedAt": "2026-07-21T16:35:00.000Z"
+        },
+        {
+          "id": "om_8cd73bb478",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Destination XL board pushes to stop FullBeauty Brands merger",
+          "url": "https://www.retaildive.com/news/destination-xl-board-pushes-stop-fullbeauty-brands-merger/825782/",
+          "postedAt": "2026-07-21T16:19:00.000Z"
+        },
+        {
+          "id": "om_04da286cd1",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "J. Crew hires former Walmart e-commerce exec",
+          "url": "https://www.retaildive.com/news/j-crew-hires-former-walmart-ecommerce-exec/825784/",
+          "postedAt": "2026-07-21T16:14:00.000Z"
+        },
+        {
+          "id": "om_b61ba54266",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "After TikTok, Snap settles social media addiction case",
+          "url": "https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/",
+          "postedAt": "2026-07-21T14:54:19.000Z"
+        },
+        {
+          "id": "om_231eae7989",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Zevia taps Cardi B to serve up real talk in biggest campaign to date",
+          "url": "https://www.marketingdive.com/news/zevia-taps-cardi-b-to-serve-up-real-talk-in-biggest-campaign-to-date/825763/",
+          "postedAt": "2026-07-21T14:41:00.000Z"
+        },
+        {
           "id": "om_5625dca905",
           "source": "Marketing Dive",
           "lang": "en",
@@ -717,20 +773,36 @@
           "postedAt": "2026-07-21T13:43:00.000Z"
         },
         {
-          "id": "om_2b9a9d7e0a",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "The Switch 2 is $50 off at Woot for new customers",
-          "url": "https://www.theverge.com/gadgets/968325/woot-switch-2-coupon-discount-code-deal-sale",
-          "postedAt": "2026-07-21T13:27:32.000Z"
-        },
-        {
           "id": "om_1ea32ce4a3",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Kraft Heinz, Disney enter long-term strategic marketing partnership",
           "url": "https://www.marketingdive.com/news/kraft-heinz-disney-enter-long-term-strategic-marketing-partnership/825692/",
           "postedAt": "2026-07-21T12:00:00.000Z"
+        },
+        {
+          "id": "om_62c6667d41",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Pinterest advises brands to update their catalogs",
+          "url": "https://www.socialmediatoday.com/news/pinterest-advises-brands-to-update-their-catalogs/824772/",
+          "postedAt": "2026-07-21T12:00:00.000Z"
+        },
+        {
+          "id": "om_36f4dcfdcc",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Mondelez’s Mindy Shaltry & Wes Saraceni on Breaking Down the Marketing and Sales Divide",
+          "url": "https://www.adweek.com/commerce/mondelezs-mindy-shaltry-wes-saraceni-on-breaking-down-the-marketing-and-sales-divide/",
+          "postedAt": "2026-07-21T10:43:21.000Z"
+        },
+        {
+          "id": "om_afe7ddb572",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Jen Zeszut Built Goodles by Out-Weirding Industry Giants",
+          "url": "https://www.adweek.com/brand-marketing/how-jen-zeszut-built-goodles-by-out-weirding-industry-giants/",
+          "postedAt": "2026-07-21T10:27:00.000Z"
         },
         {
           "id": "om_6712b50ef8",
@@ -771,98 +843,10 @@
           "title": "Purely Elizabeth lampoons protein-maxxing for major product launch",
           "url": "https://www.marketingdive.com/news/purely-elizabeth-lampoons-protein-maxxing-for-major-product-launch/825554/",
           "postedAt": "2026-07-20T16:00:00.000Z"
-        },
-        {
-          "id": "om_d3b7a826e8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "GameStop discloses 10% eBay stake as it pushes for a deal",
-          "url": "https://www.retaildive.com/news/gamestop-ebay-stake-ten-percent-acquisition-bid/825641/",
-          "postedAt": "2026-07-20T15:47:00.000Z"
-        },
-        {
-          "id": "om_5d42797f4d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Reformation targets $1B valuation with IPO",
-          "url": "https://www.retaildive.com/news/reformation-ipo-targets-one-billion-valuation/825638/",
-          "postedAt": "2026-07-20T15:26:00.000Z"
-        },
-        {
-          "id": "om_b15bc2255d",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Cutwater stirs up hosting simplicity in summer campaign",
-          "url": "https://www.marketingdive.com/news/cutwater-stirs-up-hosting-simplicity-in-summer-campaign/825605/",
-          "postedAt": "2026-07-20T14:44:00.000Z"
-        },
-        {
-          "id": "om_a2f9f160e1",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Lord & Taylor revives private label strategy",
-          "url": "https://www.retaildive.com/news/lord-taylors-revives-private-label-strategy-heritage-collection/825624/",
-          "postedAt": "2026-07-20T14:24:00.000Z"
-        },
-        {
-          "id": "om_2eece5ad0d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Women’s Sports Are Rewriting the Fandom Playbook",
-          "url": "https://www.adweek.com/brand-marketing/womens-sports-are-rewriting-the-fandom-playbook/",
-          "postedAt": "2026-07-20T14:20:53.000Z"
-        },
-        {
-          "id": "om_372cdf9075",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "5 Lessons From the World Cup’s Best Marketing Plays—and Those That Missed the Mark",
-          "url": "https://www.adweek.com/brand-marketing/5-lessons-from-the-world-cups-best-marketing-playsand-those-that-missed-the-mark/",
-          "postedAt": "2026-07-20T14:11:37.000Z"
-        },
-        {
-          "id": "om_1cc4bce889",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Social Marketing That Moves at the Speed of Sports",
-          "url": "https://www.adweek.com/social-marketing/social-marketing-that-moves-at-the-speed-of-sports/",
-          "postedAt": "2026-07-20T13:54:22.000Z"
-        },
-        {
-          "id": "om_b7dee5d142",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Key to Building More Durable Brand Relationships",
-          "url": "https://www.adweek.com/brand-marketing/the-key-to-building-more-durable-brand-relationships/",
-          "postedAt": "2026-07-20T13:53:18.000Z"
-        },
-        {
-          "id": "om_920a5c7dd8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Snacking Brands Turn Sports Into Spending",
-          "url": "https://www.adweek.com/brand-marketing/how-snacking-brands-turn-sports-into-spending/",
-          "postedAt": "2026-07-20T13:51:00.000Z"
-        },
-        {
-          "id": "om_c3e4095515",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Sports and the Big Screen Deliver Unique Advertising Opportunities",
-          "url": "https://www.adweek.com/brand-marketing/how-sports-and-the-big-screen-deliver-unique-advertising-opportunities/",
-          "postedAt": "2026-07-20T13:50:03.000Z"
-        },
-        {
-          "id": "om_1e618335bf",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Gap makes a fine mesh out of its ‘Happy Stripe’ remake",
-          "url": "https://www.retaildive.com/news/gap-makes-fine-mesh-happy-stripe-remake-backlash/824879/",
-          "postedAt": "2026-07-20T13:20:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-21T14:20:20.344Z",
+      "lastUpdated": "2026-07-22T03:44:33.594Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
