@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-23T03:43:15.427Z",
+      "lastUpdated": "2026-07-23T14:29:48.178Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_the_knowledge_project_aacf9e1760",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "[Outliers] John D. Rockefeller: The Principles Behind The Greatest Fortune in History",
+          "url": "https://fs.blog/knowledge-project-podcast/outliers-john-d-rockefeller/",
+          "postedAt": "2026-07-23T09:45:00.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_ea0c79e707",
           "source": "Lenny's Podcast",
@@ -592,10 +600,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-23T03:43:16.640Z",
+      "lastUpdated": "2026-07-23T14:29:49.664Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -685,6 +693,38 @@
       },
       "articles": [
         {
+          "id": "om_7cc24f413b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Tractor Supply taps Instacart for same-day delivery",
+          "url": "https://www.retaildive.com/news/tractor-supply-instacart-same-day-delivery/825971/",
+          "postedAt": "2026-07-23T14:06:00.000Z"
+        },
+        {
+          "id": "om_e16fb323ac",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Ugg teams with buzzy pop band Muna for back-to-school campaign",
+          "url": "https://www.marketingdive.com/news/ugg-teams-with-buzzy-pop-band-muna-for-back-to-school-campaign/825977/",
+          "postedAt": "2026-07-23T13:02:00.000Z"
+        },
+        {
+          "id": "om_6de4f47f83",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "World Cup advertising numbers reflect diversifying sports marketplace",
+          "url": "https://www.marketingdive.com/news/world-cup-advertising-numbers-reflect-diversifying-sports-marketplace/825780/",
+          "postedAt": "2026-07-23T12:00:00.000Z"
+        },
+        {
+          "id": "om_6702fc53a1",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How yogurt brand Sourmilk is making its mark on- and offline",
+          "url": "https://www.marketingbrew.com/stories/how-yogurt-brand-sourmilk-is-making-its-mark-on-and-offline?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-23T10:00:00.000Z"
+        },
+        {
           "id": "om_3eb1bfa6df",
           "source": "Adweek",
           "lang": "en",
@@ -757,14 +797,6 @@
           "postedAt": "2026-07-22T14:13:00.000Z"
         },
         {
-          "id": "om_858b2ce5d7",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-          "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
-          "postedAt": "2026-07-22T13:00:00.000Z"
-        },
-        {
           "id": "om_4e8b3077a2",
           "source": "Marketing Dive",
           "lang": "en",
@@ -789,6 +821,14 @@
           "postedAt": "2026-07-22T10:00:00.000Z"
         },
         {
+          "id": "om_9c8d24082e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Marketing Vanguard at Cannes: Why Forcing AI Adoption Backfires ft. Rafa Flores of Treasure AI",
+          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-why-forcing-ai-adoption-backfires-ft-rafa-flores-of-treasure-ai/",
+          "postedAt": "2026-07-22T09:30:48.000Z"
+        },
+        {
           "id": "om_547472ff08",
           "source": "Wired",
           "lang": "en",
@@ -811,42 +851,10 @@
           "title": "Inside the rise of franchise-based MLB theme games",
           "url": "https://www.marketingbrew.com/stories/mlb-theme-games-fourth-wing-heated-rivalry?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-07-21T18:08:38.000Z"
-        },
-        {
-          "id": "om_ecc420fca2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Omnicom Media Retains Uber’s $800M Account and Expands Brazil Remit",
-          "url": "https://www.adweek.com/agencies/omnicom-media-retains-ubers-800m-account-and-expands-brazil-remit/",
-          "postedAt": "2026-07-21T17:14:20.000Z"
-        },
-        {
-          "id": "om_fb7a1203b2",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Canadian mattress retailer to acquire Sleep Number for over $700M",
-          "url": "https://www.retaildive.com/news/sleep-country-canada-mattress-acquire-sleep-number-700-million-bankruptcy/825771/",
-          "postedAt": "2026-07-21T16:35:00.000Z"
-        },
-        {
-          "id": "om_8cd73bb478",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Destination XL board pushes to stop FullBeauty Brands merger",
-          "url": "https://www.retaildive.com/news/destination-xl-board-pushes-stop-fullbeauty-brands-merger/825782/",
-          "postedAt": "2026-07-21T16:19:00.000Z"
-        },
-        {
-          "id": "om_04da286cd1",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "J. Crew hires former Walmart e-commerce exec",
-          "url": "https://www.retaildive.com/news/j-crew-hires-former-walmart-ecommerce-exec/825784/",
-          "postedAt": "2026-07-21T16:14:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-23T03:43:18.939Z",
+      "lastUpdated": "2026-07-23T14:29:52.139Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
