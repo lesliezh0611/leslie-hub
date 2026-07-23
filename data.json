@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-22T14:20:43.479Z",
+      "lastUpdated": "2026-07-23T03:43:15.427Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -499,7 +499,7 @@
           "id": "en_pod_the_knowledge_project_2f63d88895",
           "source": "The Knowledge Project",
           "platform": "podcast",
-          "topic": "Truth Over Feelings: Inside Opendoor’s Massive Turnaround",
+          "topic": "Truth Over Feelings: Inside Opendoor’s Turnaround",
           "url": "https://fs.blog/knowledge-project-podcast/kaz-nejatian/",
           "postedAt": "2026-07-16T09:50:00.000Z"
         },
@@ -592,7 +592,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-22T14:20:45.221Z",
+      "lastUpdated": "2026-07-23T03:43:16.640Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -685,6 +685,70 @@
       },
       "articles": [
         {
+          "id": "om_3eb1bfa6df",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "At The Daily Upside, a Founder Steps Back As Growth Accelerates",
+          "url": "https://www.adweek.com/media/daily-upside-founder-step-back-growth-accelerate/",
+          "postedAt": "2026-07-22T19:00:00.000Z"
+        },
+        {
+          "id": "om_15f0e392d5",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Nike resets online distribution in ‘fragmented’ China market",
+          "url": "https://www.retaildive.com/news/nike-resets-online-china-distribution-turnaround/825894/",
+          "postedAt": "2026-07-22T16:17:00.000Z"
+        },
+        {
+          "id": "om_04248b8fa8",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "FIFA’s Record World Cup Sets the Bar for Brazil and 2030",
+          "url": "https://www.adweek.com/brand-marketing/fifas-record-world-cup-sets-the-bar-for-brazil-and-2030/",
+          "postedAt": "2026-07-22T15:35:57.000Z"
+        },
+        {
+          "id": "om_d2cbb3896d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Redscout Appoints New CEO To Usher In the Next 25 Years",
+          "url": "https://www.adweek.com/agencies/redscout-appoints-new-ceo-to-usher-in-the-next-25-years/",
+          "postedAt": "2026-07-22T15:30:08.000Z"
+        },
+        {
+          "id": "om_c455e9162a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why Curie Redesigned Its Brand After Breaking Into Walmart",
+          "url": "https://www.adweek.com/commerce/why-curie-redesigned-its-brand-after-breaking-into-walmart/",
+          "postedAt": "2026-07-22T15:15:13.000Z"
+        },
+        {
+          "id": "om_d4c066491e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Kate Spade taps Jonathan Saunders as executive creative director",
+          "url": "https://www.retaildive.com/news/kate-spade-jonathan-saunders-executive-creative-director/825881/",
+          "postedAt": "2026-07-22T15:05:00.000Z"
+        },
+        {
+          "id": "om_df1630ac6b",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Hanes embraces risqué marketing in creative shakeup for basics brand",
+          "url": "https://www.marketingdive.com/news/hanes-embraces-risque-marketing-in-creative-shakeup-for-basics-brand/825871/",
+          "postedAt": "2026-07-22T14:32:00.000Z"
+        },
+        {
+          "id": "om_cac13618f9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target adds former 7-Eleven CEO to board",
+          "url": "https://www.retaildive.com/news/target-adds-former-7-eleven-ceo-joe-depinto-board/825863/",
+          "postedAt": "2026-07-22T14:32:00.000Z"
+        },
+        {
           "id": "om_8c12a7daa5",
           "source": "Retail Dive",
           "lang": "en",
@@ -706,6 +770,14 @@
           "lang": "en",
           "title": "From Yamal to the mall: How American Eagle is going back to school",
           "url": "https://www.marketingdive.com/news/from-yamal-to-the-mall-how-american-eagle-is-going-back-to-school/825708/",
+          "postedAt": "2026-07-22T12:00:00.000Z"
+        },
+        {
+          "id": "om_011b6f71ce",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "How to build a brand presence on Reddit in 2026",
+          "url": "https://www.socialmediatoday.com/news/how-to-build-a-brand-presence-on-reddit-in-2026/824783/",
           "postedAt": "2026-07-22T12:00:00.000Z"
         },
         {
@@ -771,82 +843,10 @@
           "title": "J. Crew hires former Walmart e-commerce exec",
           "url": "https://www.retaildive.com/news/j-crew-hires-former-walmart-ecommerce-exec/825784/",
           "postedAt": "2026-07-21T16:14:00.000Z"
-        },
-        {
-          "id": "om_231eae7989",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Zevia taps Cardi B to serve up real talk in biggest campaign to date",
-          "url": "https://www.marketingdive.com/news/zevia-taps-cardi-b-to-serve-up-real-talk-in-biggest-campaign-to-date/825763/",
-          "postedAt": "2026-07-21T14:41:00.000Z"
-        },
-        {
-          "id": "om_5625dca905",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Dum Dums owner Spangler created a candy empire built on nostalgia",
-          "url": "https://www.marketingdive.com/news/Spangler-nostalgia-candy-dum-dums-sweethearts/825762/",
-          "postedAt": "2026-07-21T13:45:00.000Z"
-        },
-        {
-          "id": "om_78fc004f0e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why Liberty Mutual turned a viral ad moment into a new brand character",
-          "url": "https://www.marketingdive.com/news/why-liberty-mutual-turned-a-viral-ad-moment-into-a-new-brand-character/825724/",
-          "postedAt": "2026-07-21T13:43:00.000Z"
-        },
-        {
-          "id": "om_1ea32ce4a3",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Kraft Heinz, Disney enter long-term strategic marketing partnership",
-          "url": "https://www.marketingdive.com/news/kraft-heinz-disney-enter-long-term-strategic-marketing-partnership/825692/",
-          "postedAt": "2026-07-21T12:00:00.000Z"
-        },
-        {
-          "id": "om_62c6667d41",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Pinterest advises brands to update their catalogs",
-          "url": "https://www.socialmediatoday.com/news/pinterest-advises-brands-to-update-their-catalogs/824772/",
-          "postedAt": "2026-07-21T12:00:00.000Z"
-        },
-        {
-          "id": "om_36f4dcfdcc",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Mondelez’s Mindy Shaltry & Wes Saraceni on Breaking Down the Marketing and Sales Divide",
-          "url": "https://www.adweek.com/commerce/mondelezs-mindy-shaltry-wes-saraceni-on-breaking-down-the-marketing-and-sales-divide/",
-          "postedAt": "2026-07-21T10:43:21.000Z"
-        },
-        {
-          "id": "om_afe7ddb572",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Jen Zeszut Built Goodles by Out-Weirding Industry Giants",
-          "url": "https://www.adweek.com/brand-marketing/how-jen-zeszut-built-goodles-by-out-weirding-industry-giants/",
-          "postedAt": "2026-07-21T10:27:00.000Z"
-        },
-        {
-          "id": "om_6712b50ef8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "EXCLUSIVE: Behr Elevates Andy Lopez to CMO as It Paints a More Digital Future",
-          "url": "https://www.adweek.com/brand-marketing/exclusive-behr-elevates-andy-lopez-to-cmo-as-it-paints-a-more-digital-future/",
-          "postedAt": "2026-07-21T09:00:00.000Z"
-        },
-        {
-          "id": "om_d075bb2b4a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "AMF’s Retro Rebrand Aims to Win Over Gen Z Without Losing the League Crowd",
-          "url": "https://www.adweek.com/brand-marketing/amfs-retro-rebrand-aims-to-win-over-gen-z-without-losing-the-league-crowd/",
-          "postedAt": "2026-07-21T08:30:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-22T14:20:47.939Z",
+      "lastUpdated": "2026-07-23T03:43:18.939Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
