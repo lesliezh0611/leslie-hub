@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-23T14:29:48.178Z",
+      "lastUpdated": "2026-07-24T03:42:28.836Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-23T14:29:49.664Z",
+      "lastUpdated": "2026-07-24T03:42:30.582Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,12 +693,124 @@
       },
       "articles": [
         {
+          "id": "om_25667a6447",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why this marketer believes ‘less is more’ in marketing",
+          "url": "https://www.marketingbrew.com/stories/cannes-lions-mastercard-raja-rajamannar-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-23T20:52:14.000Z"
+        },
+        {
+          "id": "om_6715654408",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why this fintech marketer is betting on trust over attention",
+          "url": "https://www.marketingbrew.com/stories/acorns-kasia-leyden-q-and-a?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-23T17:13:44.000Z"
+        },
+        {
+          "id": "om_9bde5480e4",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Tractor Supply sputters in Q2, lowers outlook",
+          "url": "https://www.retaildive.com/news/tractor-supply-disappointing-q2-earnings-lowers-outlook/825997/",
+          "postedAt": "2026-07-23T16:19:00.000Z"
+        },
+        {
+          "id": "om_6c129e84b5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "‘No Longer AI Losers’: Havas Leans Into AI-First Identity as North America Revenue Grows",
+          "url": "https://www.adweek.com/agencies/no-longer-ai-losers-havas-leans-into-ai-first-identity-as-north-america-revenue-grows/",
+          "postedAt": "2026-07-23T16:12:39.000Z"
+        },
+        {
+          "id": "om_571bee8c61",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Michaels launches AI shopping assistant",
+          "url": "https://www.retaildive.com/news/michaels-ai-shopping-assistant-ask-mike/826016/",
+          "postedAt": "2026-07-23T16:07:00.000Z"
+        },
+        {
+          "id": "om_20d551551f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "H&M to lay off 76 NYC-based corporate employees",
+          "url": "https://www.retaildive.com/news/hm-layoffs-nyc-corporate-employees/826015/",
+          "postedAt": "2026-07-23T15:43:00.000Z"
+        },
+        {
+          "id": "om_532a941d93",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Brandon Cooke Joins BarkleyOKRP to Drive ‘Thoughtful’ Growth",
+          "url": "https://www.adweek.com/agencies/brandon-cooke-joins-barkleyokrp-to-drive-thoughtful-growth/",
+          "postedAt": "2026-07-23T15:30:02.000Z"
+        },
+        {
+          "id": "om_f2a7843446",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "La-Z-Boy expands 3D cloud tech for product imagery",
+          "url": "https://www.retaildive.com/news/la-z-boy-expands-3d-cloud-tech-for-product-imagery/825647/",
+          "postedAt": "2026-07-23T15:09:00.000Z"
+        },
+        {
+          "id": "om_f45076622e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: How to build a brand presence on Reddit in 2026",
+          "url": "https://www.marketingdive.com/news/how-to-build-a-brand-presence-on-reddit-in-2026/826020/",
+          "postedAt": "2026-07-23T15:05:00.000Z"
+        },
+        {
+          "id": "om_c8f77d5d1e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Tinder expands Events as it chases Gen Z connection",
+          "url": "https://www.marketingdive.com/news/tinder-expands-events-as-it-chases-gen-z-connection/825954/",
+          "postedAt": "2026-07-23T14:57:00.000Z"
+        },
+        {
+          "id": "om_1f221b31fd",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Bath & Body Works rolls out store updates",
+          "url": "https://www.retaildive.com/news/bath-and-body-works-store-updates/825978/",
+          "postedAt": "2026-07-23T14:50:00.000Z"
+        },
+        {
+          "id": "om_43e6e588aa",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "By Fearing Wokeness, Marketers Are Hitting the Snooze Button on Growth",
+          "url": "https://www.adweek.com/media/by-fearing-wokeness-marketers-are-hitting-the-snooze-button-on-growth/",
+          "postedAt": "2026-07-23T14:49:58.000Z"
+        },
+        {
+          "id": "om_35361d82ed",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Google’s ads biz gets boost from World Cup hype, Gemini improvements",
+          "url": "https://www.marketingdive.com/news/googles-ads-biz-gets-boost-from-world-cup-hype-gemini-improvements/826008/",
+          "postedAt": "2026-07-23T14:40:00.000Z"
+        },
+        {
           "id": "om_7cc24f413b",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Tractor Supply taps Instacart for same-day delivery",
           "url": "https://www.retaildive.com/news/tractor-supply-instacart-same-day-delivery/825971/",
           "postedAt": "2026-07-23T14:06:00.000Z"
+        },
+        {
+          "id": "om_ee6bcc9396",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "John Solomon on Building Brand Momentum When Markets Turn Against You",
+          "url": "https://www.adweek.com/brand-marketing/john-solomon-on-building-brand-momentum-when-markets-turn-against-you/",
+          "postedAt": "2026-07-23T14:05:55.000Z"
         },
         {
           "id": "om_e16fb323ac",
@@ -725,14 +837,6 @@
           "postedAt": "2026-07-23T10:00:00.000Z"
         },
         {
-          "id": "om_3eb1bfa6df",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "At The Daily Upside, a Founder Steps Back As Growth Accelerates",
-          "url": "https://www.adweek.com/media/daily-upside-founder-step-back-growth-accelerate/",
-          "postedAt": "2026-07-22T19:00:00.000Z"
-        },
-        {
           "id": "om_15f0e392d5",
           "source": "Retail Dive",
           "lang": "en",
@@ -741,120 +845,16 @@
           "postedAt": "2026-07-22T16:17:00.000Z"
         },
         {
-          "id": "om_04248b8fa8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "FIFA’s Record World Cup Sets the Bar for Brazil and 2030",
-          "url": "https://www.adweek.com/brand-marketing/fifas-record-world-cup-sets-the-bar-for-brazil-and-2030/",
-          "postedAt": "2026-07-22T15:35:57.000Z"
-        },
-        {
-          "id": "om_d2cbb3896d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Redscout Appoints New CEO To Usher In the Next 25 Years",
-          "url": "https://www.adweek.com/agencies/redscout-appoints-new-ceo-to-usher-in-the-next-25-years/",
-          "postedAt": "2026-07-22T15:30:08.000Z"
-        },
-        {
-          "id": "om_c455e9162a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why Curie Redesigned Its Brand After Breaking Into Walmart",
-          "url": "https://www.adweek.com/commerce/why-curie-redesigned-its-brand-after-breaking-into-walmart/",
-          "postedAt": "2026-07-22T15:15:13.000Z"
-        },
-        {
           "id": "om_d4c066491e",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Kate Spade taps Jonathan Saunders as executive creative director",
           "url": "https://www.retaildive.com/news/kate-spade-jonathan-saunders-executive-creative-director/825881/",
           "postedAt": "2026-07-22T15:05:00.000Z"
-        },
-        {
-          "id": "om_df1630ac6b",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Hanes embraces risqué marketing in creative shakeup for basics brand",
-          "url": "https://www.marketingdive.com/news/hanes-embraces-risque-marketing-in-creative-shakeup-for-basics-brand/825871/",
-          "postedAt": "2026-07-22T14:32:00.000Z"
-        },
-        {
-          "id": "om_cac13618f9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target adds former 7-Eleven CEO to board",
-          "url": "https://www.retaildive.com/news/target-adds-former-7-eleven-ceo-joe-depinto-board/825863/",
-          "postedAt": "2026-07-22T14:32:00.000Z"
-        },
-        {
-          "id": "om_8c12a7daa5",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "From Yamal to the mall: How American Eagle is going back to school",
-          "url": "https://www.retaildive.com/news/lamine-yamal-american-eagle-back-to-school-gen-z/825862/",
-          "postedAt": "2026-07-22T14:13:00.000Z"
-        },
-        {
-          "id": "om_4e8b3077a2",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "From Yamal to the mall: How American Eagle is going back to school",
-          "url": "https://www.marketingdive.com/news/from-yamal-to-the-mall-how-american-eagle-is-going-back-to-school/825708/",
-          "postedAt": "2026-07-22T12:00:00.000Z"
-        },
-        {
-          "id": "om_011b6f71ce",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "How to build a brand presence on Reddit in 2026",
-          "url": "https://www.socialmediatoday.com/news/how-to-build-a-brand-presence-on-reddit-in-2026/824783/",
-          "postedAt": "2026-07-22T12:00:00.000Z"
-        },
-        {
-          "id": "om_c01d42041a",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "10,000 items, 5,000 square feet, 160 years of history: Inside General Mills’s brand archive",
-          "url": "https://www.marketingbrew.com/stories/10-000-items-5-000-square-feet-160-years-of-history-inside-general-millss-brand-archive?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-22T10:00:00.000Z"
-        },
-        {
-          "id": "om_9c8d24082e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketing Vanguard at Cannes: Why Forcing AI Adoption Backfires ft. Rafa Flores of Treasure AI",
-          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-why-forcing-ai-adoption-backfires-ft-rafa-flores-of-treasure-ai/",
-          "postedAt": "2026-07-22T09:30:48.000Z"
-        },
-        {
-          "id": "om_547472ff08",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Shop Best Buy’s Black Friday in July Sale 2026 Before Fall Chaos",
-          "url": "https://www.wired.com/story/best-buy-black-friday-in-july-2026/",
-          "postedAt": "2026-07-21T20:39:06.000Z"
-        },
-        {
-          "id": "om_c8089a06fd",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Hilary Duff, ‘Cash Cab,’ and branded newspapers: How Ladder is communicating ‘stronger, not smaller’ to women",
-          "url": "https://www.marketingbrew.com/stories/hilary-duff-cash-cab-and-branded-newspapers-how-ladder-is-communicating-stronger-not-smaller-to-women?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-21T20:08:21.000Z"
-        },
-        {
-          "id": "om_ba1c7bb20a",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside the rise of franchise-based MLB theme games",
-          "url": "https://www.marketingbrew.com/stories/mlb-theme-games-fourth-wing-heated-rivalry?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-21T18:08:38.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-23T14:29:52.139Z",
+      "lastUpdated": "2026-07-24T03:42:33.336Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
