@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-24T03:42:28.836Z",
+      "lastUpdated": "2026-07-24T14:11:06.117Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-24T03:42:30.582Z",
+      "lastUpdated": "2026-07-24T14:11:07.777Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,6 +693,86 @@
       },
       "articles": [
         {
+          "id": "om_c39624c0a7",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Facebook launches a dedicated Marketplace app for sellers, adds a free verification system",
+          "url": "https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/",
+          "postedAt": "2026-07-24T12:47:15.000Z"
+        },
+        {
+          "id": "om_0b0b94ef85",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Consumers warm up to streaming ads: Here’s what the numbers say",
+          "url": "https://www.marketingdive.com/news/consumers-warm-up-to-streaming-ads-heres-what-the-numbers-say/826069/",
+          "postedAt": "2026-07-24T12:00:00.000Z"
+        },
+        {
+          "id": "om_09f91b6f61",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "TikTok’s protection of minors should not be opt-in, warns EU",
+          "url": "https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy",
+          "postedAt": "2026-07-24T11:50:10.000Z"
+        },
+        {
+          "id": "om_40bdba9d6a",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Facebook considers giving up and becoming TikTok",
+          "url": "https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates",
+          "postedAt": "2026-07-24T11:07:17.000Z"
+        },
+        {
+          "id": "om_56c2846c48",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Yannick Bolloré Says Havas’ Size Is Its Strength: ‘I’m Not Sure Scale Is an Advantage Today’",
+          "url": "https://www.adweek.com/agencies/yannick-bollore-says-havas-size-is-its-strength-im-not-sure-scale-is-an-advantage-today/",
+          "postedAt": "2026-07-24T10:04:34.000Z"
+        },
+        {
+          "id": "om_c8d3db45f7",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "For CMOs, fandom is simply too powerful to ignore",
+          "url": "https://www.marketingbrew.com/stories/cmos-power-of-fandom-netflix-tubi-reddit-adobe?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-24T10:00:00.000Z"
+        },
+        {
+          "id": "om_bfd6fd653e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "After World Cup, Brands Look to LA28 With a New Sports Marketing Game Plan",
+          "url": "https://www.adweek.com/brand-marketing/after-world-cup-brands-look-to-la28-with-a-new-sports-marketing-game-plan/",
+          "postedAt": "2026-07-24T09:00:00.000Z"
+        },
+        {
+          "id": "om_63c54dc659",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Brands Are Making a Fast Break for the WNBA All-Star Game",
+          "url": "https://www.adweek.com/brand-marketing/brands-making-a-fast-break-for-the-wnba-all-star-game/",
+          "postedAt": "2026-07-24T06:00:00.000Z"
+        },
+        {
+          "id": "om_924b16e81b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 14 Campaigns That Caught Our Eye, From American Eagle to Samsung",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-14-campaigns-that-caught-our-eye-from-american-eagle-to-samsung/",
+          "postedAt": "2026-07-24T06:00:00.000Z"
+        },
+        {
+          "id": "om_f67a990bcc",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Legendary Toy Brands Have a New Customer: Adults",
+          "url": "https://www.adweek.com/brand-marketing/legendary-toy-brands-have-a-new-customer-adults/",
+          "postedAt": "2026-07-24T06:00:00.000Z"
+        },
+        {
           "id": "om_25667a6447",
           "source": "Marketing Brew",
           "lang": "en",
@@ -771,90 +851,10 @@
           "title": "Tinder expands Events as it chases Gen Z connection",
           "url": "https://www.marketingdive.com/news/tinder-expands-events-as-it-chases-gen-z-connection/825954/",
           "postedAt": "2026-07-23T14:57:00.000Z"
-        },
-        {
-          "id": "om_1f221b31fd",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bath & Body Works rolls out store updates",
-          "url": "https://www.retaildive.com/news/bath-and-body-works-store-updates/825978/",
-          "postedAt": "2026-07-23T14:50:00.000Z"
-        },
-        {
-          "id": "om_43e6e588aa",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "By Fearing Wokeness, Marketers Are Hitting the Snooze Button on Growth",
-          "url": "https://www.adweek.com/media/by-fearing-wokeness-marketers-are-hitting-the-snooze-button-on-growth/",
-          "postedAt": "2026-07-23T14:49:58.000Z"
-        },
-        {
-          "id": "om_35361d82ed",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Google’s ads biz gets boost from World Cup hype, Gemini improvements",
-          "url": "https://www.marketingdive.com/news/googles-ads-biz-gets-boost-from-world-cup-hype-gemini-improvements/826008/",
-          "postedAt": "2026-07-23T14:40:00.000Z"
-        },
-        {
-          "id": "om_7cc24f413b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Tractor Supply taps Instacart for same-day delivery",
-          "url": "https://www.retaildive.com/news/tractor-supply-instacart-same-day-delivery/825971/",
-          "postedAt": "2026-07-23T14:06:00.000Z"
-        },
-        {
-          "id": "om_ee6bcc9396",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "John Solomon on Building Brand Momentum When Markets Turn Against You",
-          "url": "https://www.adweek.com/brand-marketing/john-solomon-on-building-brand-momentum-when-markets-turn-against-you/",
-          "postedAt": "2026-07-23T14:05:55.000Z"
-        },
-        {
-          "id": "om_e16fb323ac",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Ugg teams with buzzy pop band Muna for back-to-school campaign",
-          "url": "https://www.marketingdive.com/news/ugg-teams-with-buzzy-pop-band-muna-for-back-to-school-campaign/825977/",
-          "postedAt": "2026-07-23T13:02:00.000Z"
-        },
-        {
-          "id": "om_6de4f47f83",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "World Cup advertising numbers reflect diversifying sports marketplace",
-          "url": "https://www.marketingdive.com/news/world-cup-advertising-numbers-reflect-diversifying-sports-marketplace/825780/",
-          "postedAt": "2026-07-23T12:00:00.000Z"
-        },
-        {
-          "id": "om_6702fc53a1",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How yogurt brand Sourmilk is making its mark on- and offline",
-          "url": "https://www.marketingbrew.com/stories/how-yogurt-brand-sourmilk-is-making-its-mark-on-and-offline?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-23T10:00:00.000Z"
-        },
-        {
-          "id": "om_15f0e392d5",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Nike resets online distribution in ‘fragmented’ China market",
-          "url": "https://www.retaildive.com/news/nike-resets-online-china-distribution-turnaround/825894/",
-          "postedAt": "2026-07-22T16:17:00.000Z"
-        },
-        {
-          "id": "om_d4c066491e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Kate Spade taps Jonathan Saunders as executive creative director",
-          "url": "https://www.retaildive.com/news/kate-spade-jonathan-saunders-executive-creative-director/825881/",
-          "postedAt": "2026-07-22T15:05:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-24T03:42:33.336Z",
+      "lastUpdated": "2026-07-24T14:11:10.183Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
