@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-24T14:11:06.117Z",
+      "lastUpdated": "2026-07-25T03:35:26.292Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_e306ea5389",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Claude Opus 5 review: this model is brilliant (but annoying)",
+          "url": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
+          "postedAt": "2026-07-24T17:15:25.000Z"
+        },
         {
           "id": "en_pod_the_knowledge_project_aacf9e1760",
           "source": "The Knowledge Project",
@@ -536,14 +544,6 @@
           "postedAt": "2026-07-12T12:32:14.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_215e386876",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Negative network effects, managing overconfident colleagues, developers sidestepping design decisions, keeping stakeholder meetings on track, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-negative-network",
-          "postedAt": "2026-07-11T16:40:58.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_8a62320f43",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-24T14:11:07.777Z",
+      "lastUpdated": "2026-07-25T03:35:27.467Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -693,12 +693,108 @@
       },
       "articles": [
         {
-          "id": "om_c39624c0a7",
-          "source": "TechCrunch",
+          "id": "om_84163cd491",
+          "source": "Marketing Dive",
           "lang": "en",
-          "title": "Facebook launches a dedicated Marketplace app for sellers, adds a free verification system",
-          "url": "https://techcrunch.com/2026/07/24/facebook-launches-a-dedicated-marketplace-app-for-sellers-adds-a-free-verification-system/",
-          "postedAt": "2026-07-24T12:47:15.000Z"
+          "title": "Under Armour teams with ‘Heated Rivalry’ star for new campaign",
+          "url": "https://www.marketingdive.com/news/under-armour-heated-rivalry-francois-arnaud-global-ambassador/826165/",
+          "postedAt": "2026-07-24T17:00:00.000Z"
+        },
+        {
+          "id": "om_c03ba536e9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Is Hoka slowing down?",
+          "url": "https://www.retaildive.com/news/hoka-earnings-slowing-down-q1-disappointment/826124/",
+          "postedAt": "2026-07-24T16:25:00.000Z"
+        },
+        {
+          "id": "om_7c023f3d34",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Under Armour gets heated with François Arnaud",
+          "url": "https://www.retaildive.com/news/under-armour-heated-rivalry-francois-arnaud-global-ambassador/826139/",
+          "postedAt": "2026-07-24T16:06:00.000Z"
+        },
+        {
+          "id": "om_9f32f159fc",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside Nike’s ‘Rip the Script’ World Cup campaign",
+          "url": "https://www.marketingbrew.com/stories/nike-rip-the-script-world-cup-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-24T16:04:47.000Z"
+        },
+        {
+          "id": "om_570151f4b2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Adidas to open concept store in Mall of America",
+          "url": "https://www.retaildive.com/news/adidas-concept-store-mall-of-america/826110/",
+          "postedAt": "2026-07-24T15:52:00.000Z"
+        },
+        {
+          "id": "om_cc424f1b8d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why People Really Got So Mad About Coke’s New ‘Marlboro’ Typeface",
+          "url": "https://www.adweek.com/brand-marketing/why-people-really-got-so-mad-about-cokes-new-marlboro-typeface/",
+          "postedAt": "2026-07-24T15:44:31.000Z"
+        },
+        {
+          "id": "om_57fc380f3d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: Digital Brands Group enacts reverse stock split, gas prices up again",
+          "url": "https://www.retaildive.com/news/the-weekly-closeout-digital-brands-group-enacts-reverse-stock-split-oil-p/826091/",
+          "postedAt": "2026-07-24T15:38:00.000Z"
+        },
+        {
+          "id": "om_29c45c2c9f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Ross accelerates brick-and-mortar expansion with nearly 50 new locations",
+          "url": "https://www.retaildive.com/news/ross-brick-and-mortar-expansion-stores/826085/",
+          "postedAt": "2026-07-24T15:30:00.000Z"
+        },
+        {
+          "id": "om_5832098ffc",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Marketers’ latest AI conundrum: An environmental footprint left unmeasured",
+          "url": "https://www.marketingdive.com/news/marketers-latest-ai-conundrum-an-environmental-footprint-left-unmeasured/826137/",
+          "postedAt": "2026-07-24T14:58:00.000Z"
+        },
+        {
+          "id": "om_5da47a2653",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Hanes embraces risqué marketing in creative shakeup for basics brand",
+          "url": "https://www.retaildive.com/news/hanes-embraces-risque-marketing-in-creative-shakeup-for-basics-brand/826112/",
+          "postedAt": "2026-07-24T14:55:00.000Z"
+        },
+        {
+          "id": "om_e5b538c337",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: Will Meta’s massive AI bet pay off?",
+          "url": "https://www.marketingdive.com/news/sociable-will-metas-massive-ai-bet-pay-off/826138/",
+          "postedAt": "2026-07-24T14:46:00.000Z"
+        },
+        {
+          "id": "om_62e9890e24",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "5 Books That Will Teach You Everything You Need to Know About Creative Leadership",
+          "url": "https://www.adweek.com/agencies/5-books-that-will-teach-you-everything-you-need-to-know-about-creative-leadership/",
+          "postedAt": "2026-07-24T12:51:30.000Z"
+        },
+        {
+          "id": "om_1a003d6b37",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "5 Marketer Moves to Know About: Behr, GM, Johnson Outdoors and More",
+          "url": "https://www.adweek.com/brand-marketing/5-marketer-moves-to-know-about-behr-gm-johnson-outdoors-and-more/",
+          "postedAt": "2026-07-24T12:21:45.000Z"
         },
         {
           "id": "om_0b0b94ef85",
@@ -709,20 +805,20 @@
           "postedAt": "2026-07-24T12:00:00.000Z"
         },
         {
-          "id": "om_09f91b6f61",
-          "source": "The Verge",
+          "id": "om_76808f56ae",
+          "source": "Adweek",
           "lang": "en",
-          "title": "TikTok’s protection of minors should not be opt-in, warns EU",
-          "url": "https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy",
-          "postedAt": "2026-07-24T11:50:10.000Z"
+          "title": "10 Brands That Won the World Cup, According to Data",
+          "url": "https://www.adweek.com/convergent-tv/10-brands-that-won-the-world-cup-according-to-data/",
+          "postedAt": "2026-07-24T11:52:08.000Z"
         },
         {
-          "id": "om_40bdba9d6a",
-          "source": "The Verge",
+          "id": "om_d952587e63",
+          "source": "Adweek",
           "lang": "en",
-          "title": "Facebook considers giving up and becoming TikTok",
-          "url": "https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates",
-          "postedAt": "2026-07-24T11:07:17.000Z"
+          "title": "Marketing Vanguard at Cannes: The Smart Ring That Made Wellness More Useful ft. Doug Sweeny of Ōura",
+          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-the-smart-ring-that-made-wellness-more-useful-ft-doug-sweeny-of-oura/",
+          "postedAt": "2026-07-24T10:51:00.000Z"
         },
         {
           "id": "om_56c2846c48",
@@ -741,38 +837,6 @@
           "postedAt": "2026-07-24T10:00:00.000Z"
         },
         {
-          "id": "om_bfd6fd653e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "After World Cup, Brands Look to LA28 With a New Sports Marketing Game Plan",
-          "url": "https://www.adweek.com/brand-marketing/after-world-cup-brands-look-to-la28-with-a-new-sports-marketing-game-plan/",
-          "postedAt": "2026-07-24T09:00:00.000Z"
-        },
-        {
-          "id": "om_63c54dc659",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Brands Are Making a Fast Break for the WNBA All-Star Game",
-          "url": "https://www.adweek.com/brand-marketing/brands-making-a-fast-break-for-the-wnba-all-star-game/",
-          "postedAt": "2026-07-24T06:00:00.000Z"
-        },
-        {
-          "id": "om_924b16e81b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 14 Campaigns That Caught Our Eye, From American Eagle to Samsung",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-14-campaigns-that-caught-our-eye-from-american-eagle-to-samsung/",
-          "postedAt": "2026-07-24T06:00:00.000Z"
-        },
-        {
-          "id": "om_f67a990bcc",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Legendary Toy Brands Have a New Customer: Adults",
-          "url": "https://www.adweek.com/brand-marketing/legendary-toy-brands-have-a-new-customer-adults/",
-          "postedAt": "2026-07-24T06:00:00.000Z"
-        },
-        {
           "id": "om_25667a6447",
           "source": "Marketing Brew",
           "lang": "en",
@@ -787,74 +851,10 @@
           "title": "Why this fintech marketer is betting on trust over attention",
           "url": "https://www.marketingbrew.com/stories/acorns-kasia-leyden-q-and-a?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-07-23T17:13:44.000Z"
-        },
-        {
-          "id": "om_9bde5480e4",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Tractor Supply sputters in Q2, lowers outlook",
-          "url": "https://www.retaildive.com/news/tractor-supply-disappointing-q2-earnings-lowers-outlook/825997/",
-          "postedAt": "2026-07-23T16:19:00.000Z"
-        },
-        {
-          "id": "om_6c129e84b5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "‘No Longer AI Losers’: Havas Leans Into AI-First Identity as North America Revenue Grows",
-          "url": "https://www.adweek.com/agencies/no-longer-ai-losers-havas-leans-into-ai-first-identity-as-north-america-revenue-grows/",
-          "postedAt": "2026-07-23T16:12:39.000Z"
-        },
-        {
-          "id": "om_571bee8c61",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Michaels launches AI shopping assistant",
-          "url": "https://www.retaildive.com/news/michaels-ai-shopping-assistant-ask-mike/826016/",
-          "postedAt": "2026-07-23T16:07:00.000Z"
-        },
-        {
-          "id": "om_20d551551f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "H&M to lay off 76 NYC-based corporate employees",
-          "url": "https://www.retaildive.com/news/hm-layoffs-nyc-corporate-employees/826015/",
-          "postedAt": "2026-07-23T15:43:00.000Z"
-        },
-        {
-          "id": "om_532a941d93",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Brandon Cooke Joins BarkleyOKRP to Drive ‘Thoughtful’ Growth",
-          "url": "https://www.adweek.com/agencies/brandon-cooke-joins-barkleyokrp-to-drive-thoughtful-growth/",
-          "postedAt": "2026-07-23T15:30:02.000Z"
-        },
-        {
-          "id": "om_f2a7843446",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "La-Z-Boy expands 3D cloud tech for product imagery",
-          "url": "https://www.retaildive.com/news/la-z-boy-expands-3d-cloud-tech-for-product-imagery/825647/",
-          "postedAt": "2026-07-23T15:09:00.000Z"
-        },
-        {
-          "id": "om_f45076622e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: How to build a brand presence on Reddit in 2026",
-          "url": "https://www.marketingdive.com/news/how-to-build-a-brand-presence-on-reddit-in-2026/826020/",
-          "postedAt": "2026-07-23T15:05:00.000Z"
-        },
-        {
-          "id": "om_c8f77d5d1e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Tinder expands Events as it chases Gen Z connection",
-          "url": "https://www.marketingdive.com/news/tinder-expands-events-as-it-chases-gen-z-connection/825954/",
-          "postedAt": "2026-07-23T14:57:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-24T14:11:10.183Z",
+      "lastUpdated": "2026-07-25T03:35:29.545Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
