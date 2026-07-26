@@ -408,7 +408,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-26T03:53:47.991Z",
+      "lastUpdated": "2026-07-26T13:55:13.724Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "20 fresh updates from the last 30 days"
@@ -447,6 +447,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_5312ae413e",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
+          "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
+          "postedAt": "2026-07-26T12:32:06.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_fa3c8fe85e",
           "source": "Lenny's Podcast",
@@ -536,14 +544,6 @@
           "postedAt": "2026-07-13T15:02:17.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_3a69f674a7",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
-          "url": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
-          "postedAt": "2026-07-13T12:05:20.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_8a62320f43",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -600,7 +600,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-26T03:53:49.835Z",
+      "lastUpdated": "2026-07-26T13:55:14.878Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -854,7 +854,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-26T03:53:52.161Z",
+      "lastUpdated": "2026-07-26T13:55:17.063Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
