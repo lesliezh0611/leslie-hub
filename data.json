@@ -369,22 +369,13 @@
           "title": "\"History teaches us that access blockage rarely stops determined users.\" https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in",
           "url": "https://x.com/steipete/status/2071063588329193551",
           "postedAt": "2026-06-28T02:50:12.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_763fe63c61",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "http://x.com/i/article/2070730492236947456",
-          "url": "https://x.com/zarazhangrui/status/2070735964788658598",
-          "postedAt": "2026-06-27T05:08:21.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-27T04:00:33.898Z",
+      "lastUpdated": "2026-07-27T15:11:45.346Z",
       "targetItems": 20,
       "freshnessDays": 30,
-      "freshCountLabel": "17 fresh updates from the last 30 days"
+      "freshCountLabel": "16 fresh updates from the last 30 days"
     },
     "english": {
       "title": "English",
@@ -420,6 +411,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_5e7463ad32",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
+          "postedAt": "2026-07-27T15:03:21.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_a9ecd38c56",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "From zero coding background to hardware hacker: How Cursor + a Raspberry Pi makes AI fun",
+          "url": "https://www.lennysnewsletter.com/p/from-zero-coding-background-to-hardware",
+          "postedAt": "2026-07-27T12:04:34.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_5312ae413e",
           "source": "Lenny's Podcast",
@@ -493,28 +500,12 @@
           "postedAt": "2026-07-19T12:31:21.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_c956ad4970",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Syncing Claude Code and Claude Design, earning trust when customers assume you vibe coded it, co-founder fallout lessons, personal CRMs, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code",
-          "postedAt": "2026-07-18T17:04:04.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_2f63d88895",
           "source": "The Knowledge Project",
           "platform": "podcast",
           "topic": "Truth Over Feelings: Inside Opendoor’s Turnaround",
           "url": "https://fs.blog/knowledge-project-podcast/kaz-nejatian/",
           "postedAt": "2026-07-16T09:50:00.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_b745838ed9",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
-          "postedAt": "2026-07-13T15:02:17.000Z"
         },
         {
           "id": "en_pod_the_knowledge_project_8a62320f43",
@@ -573,7 +564,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-27T04:00:41.727Z",
+      "lastUpdated": "2026-07-27T15:11:46.903Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -666,6 +657,94 @@
       },
       "articles": [
         {
+          "id": "om_211dd8299f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Stressed parents turn to BNPL for back-to-school shopping",
+          "url": "https://www.retaildive.com/news/stressed-parents-bnpl-back-to-school-shopping/826145/",
+          "postedAt": "2026-07-27T15:01:00.000Z"
+        },
+        {
+          "id": "om_a3153b2334",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Rare Beauty draws inspiration from Greek mythology for global campaign",
+          "url": "https://www.marketingdive.com/news/rare-beauty-draws-inspiration-from-greek-mythology-for-global-campaign/826225/",
+          "postedAt": "2026-07-27T14:25:00.000Z"
+        },
+        {
+          "id": "om_91e8d6a28b",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Canada Goose brings nature’s fringe to lifestyle marketing push",
+          "url": "https://www.marketingdive.com/news/canada-goose-brings-natures-fringe-to-lifestyle-marketing-push/826134/",
+          "postedAt": "2026-07-27T14:00:00.000Z"
+        },
+        {
+          "id": "om_343b2b4c46",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Wellness Influencers Are Pushing ‘Natural’ and Unproven Alternatives to Adderall",
+          "url": "https://www.wired.com/story/wellness-influencers-are-pushing-natural-and-unproven-alternatives-to-adderall/",
+          "postedAt": "2026-07-27T11:00:00.000Z"
+        },
+        {
+          "id": "om_b80582c3d8",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Oscar Mayer fetes Wienermobile’s 90 years with Milk Bar hot dog cake",
+          "url": "https://www.marketingdive.com/news/oscar-mayer-fetes-wienermobiles-90-years-with-milk-bar-hot-dog-cake/826194/",
+          "postedAt": "2026-07-27T11:00:00.000Z"
+        },
+        {
+          "id": "om_f9073dfbca",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Week of July 13 Cable News Ratings: Cable Nets See Growth",
+          "url": "https://www.adweek.com/tvnewser/week-of-july-13-2026-cable-news-ratings/",
+          "postedAt": "2026-07-27T10:06:51.000Z"
+        },
+        {
+          "id": "om_d6ac1920c1",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Return of the heartthrob: Why the men of the early aughts are booked and busy in advertising",
+          "url": "https://www.marketingbrew.com/stories/heartthrob-marketing-chad-michael-murray-devon-sawa-nostalgia?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-27T10:00:00.000Z"
+        },
+        {
+          "id": "om_293c0dd405",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Holiday planning needs a new playbook",
+          "url": "https://www.marketingdive.com/spons/holiday-planning-needs-a-new-playbook/826067/",
+          "postedAt": "2026-07-27T09:00:00.000Z"
+        },
+        {
+          "id": "om_f18e593bf3",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Audience-proof your campaigns: Defensible strategy for marketers",
+          "url": "https://www.retaildive.com/spons/audience-proof-your-campaigns-defensible-strategy-for-marketers/825617/",
+          "postedAt": "2026-07-27T09:00:00.000Z"
+        },
+        {
+          "id": "om_a01a97fb2e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Retail brands risk optimizing the wrong thing",
+          "url": "https://www.retaildive.com/spons/retail-brands-risk-optimizing-the-wrong-thing/825613/",
+          "postedAt": "2026-07-27T09:00:00.000Z"
+        },
+        {
+          "id": "om_dddfc2bb2f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Canva’s CMO on the Weekly Check-In That Keeps Product and Marketing in Sync",
+          "url": "https://www.adweek.com/brand-marketing/canvas-cmo-on-the-weekly-check-in-that-keeps-product-and-marketing-in-sync/",
+          "postedAt": "2026-07-27T06:00:00.000Z"
+        },
+        {
           "id": "om_5ef1eb7f4a",
           "source": "Social Media Today",
           "lang": "en",
@@ -736,98 +815,10 @@
           "title": "The Weekly Closeout: Digital Brands Group enacts reverse stock split, gas prices up again",
           "url": "https://www.retaildive.com/news/the-weekly-closeout-digital-brands-group-enacts-reverse-stock-split-oil-p/826091/",
           "postedAt": "2026-07-24T15:38:00.000Z"
-        },
-        {
-          "id": "om_29c45c2c9f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Ross accelerates brick-and-mortar expansion with nearly 50 new locations",
-          "url": "https://www.retaildive.com/news/ross-brick-and-mortar-expansion-stores/826085/",
-          "postedAt": "2026-07-24T15:30:00.000Z"
-        },
-        {
-          "id": "om_5832098ffc",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Marketers’ latest AI conundrum: An environmental footprint left unmeasured",
-          "url": "https://www.marketingdive.com/news/marketers-latest-ai-conundrum-an-environmental-footprint-left-unmeasured/826137/",
-          "postedAt": "2026-07-24T14:58:00.000Z"
-        },
-        {
-          "id": "om_5da47a2653",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Hanes embraces risqué marketing in creative shakeup for basics brand",
-          "url": "https://www.retaildive.com/news/hanes-embraces-risque-marketing-in-creative-shakeup-for-basics-brand/826112/",
-          "postedAt": "2026-07-24T14:55:00.000Z"
-        },
-        {
-          "id": "om_e5b538c337",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: Will Meta’s massive AI bet pay off?",
-          "url": "https://www.marketingdive.com/news/sociable-will-metas-massive-ai-bet-pay-off/826138/",
-          "postedAt": "2026-07-24T14:46:00.000Z"
-        },
-        {
-          "id": "om_62e9890e24",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "5 Books That Will Teach You Everything You Need to Know About Creative Leadership",
-          "url": "https://www.adweek.com/agencies/5-books-that-will-teach-you-everything-you-need-to-know-about-creative-leadership/",
-          "postedAt": "2026-07-24T12:51:30.000Z"
-        },
-        {
-          "id": "om_1a003d6b37",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "5 Marketer Moves to Know About: Behr, GM, Johnson Outdoors and More",
-          "url": "https://www.adweek.com/brand-marketing/5-marketer-moves-to-know-about-behr-gm-johnson-outdoors-and-more/",
-          "postedAt": "2026-07-24T12:21:45.000Z"
-        },
-        {
-          "id": "om_0b0b94ef85",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Consumers warm up to streaming ads: Here’s what the numbers say",
-          "url": "https://www.marketingdive.com/news/consumers-warm-up-to-streaming-ads-heres-what-the-numbers-say/826069/",
-          "postedAt": "2026-07-24T12:00:00.000Z"
-        },
-        {
-          "id": "om_76808f56ae",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "10 Brands That Won the World Cup, According to Data",
-          "url": "https://www.adweek.com/convergent-tv/10-brands-that-won-the-world-cup-according-to-data/",
-          "postedAt": "2026-07-24T11:52:08.000Z"
-        },
-        {
-          "id": "om_d952587e63",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketing Vanguard at Cannes: The Smart Ring That Made Wellness More Useful ft. Doug Sweeny of Ōura",
-          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-the-smart-ring-that-made-wellness-more-useful-ft-doug-sweeny-of-oura/",
-          "postedAt": "2026-07-24T10:51:00.000Z"
-        },
-        {
-          "id": "om_56c2846c48",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Yannick Bolloré Says Havas’ Size Is Its Strength: ‘I’m Not Sure Scale Is an Advantage Today’",
-          "url": "https://www.adweek.com/agencies/yannick-bollore-says-havas-size-is-its-strength-im-not-sure-scale-is-an-advantage-today/",
-          "postedAt": "2026-07-24T10:04:34.000Z"
-        },
-        {
-          "id": "om_c8d3db45f7",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "For CMOs, fandom is simply too powerful to ignore",
-          "url": "https://www.marketingbrew.com/stories/cmos-power-of-fandom-netflix-tubi-reddit-adobe?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-24T10:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-27T04:00:44.369Z",
+      "lastUpdated": "2026-07-27T15:11:49.757Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
