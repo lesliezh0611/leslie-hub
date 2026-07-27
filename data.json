@@ -378,40 +378,13 @@
           "title": "http://x.com/i/article/2070730492236947456",
           "url": "https://x.com/zarazhangrui/status/2070735964788658598",
           "postedAt": "2026-06-27T05:08:21.000Z"
-        },
-        {
-          "id": "vc_sama_9928ad7772",
-          "source": "sama",
-          "sourceName": "Sam Altman",
-          "platform": "x",
-          "title": "in other news, we updated the 5.5 instant model used in chatgpt this week. i like its vibes.",
-          "url": "https://x.com/sama/status/2070612055225483692",
-          "postedAt": "2026-06-26T20:55:58.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_e8d3028870",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "\"You do not need God to write your emails\"",
-          "url": "https://x.com/zarazhangrui/status/2070589563429691698",
-          "postedAt": "2026-06-26T19:26:36.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_bb7e5f6d8f",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "Btw I used Borumi to create this video, and it's genuinely the most underrated video recording/editing tool out there It's like Screen Studio + Descri...",
-          "url": "https://x.com/zarazhangrui/status/2070584764315402405",
-          "postedAt": "2026-06-26T19:07:32.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-26T13:55:13.724Z",
+      "lastUpdated": "2026-07-27T04:00:33.898Z",
       "targetItems": 20,
       "freshnessDays": 30,
-      "freshCountLabel": "20 fresh updates from the last 30 days"
+      "freshCountLabel": "17 fresh updates from the last 30 days"
     },
     "english": {
       "title": "English",
@@ -600,7 +573,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-26T13:55:14.878Z",
+      "lastUpdated": "2026-07-27T04:00:41.727Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -692,6 +665,14 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_5ef1eb7f4a",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "5 tips for building an effective brand presence on LinkedIn",
+          "url": "https://www.socialmediatoday.com/news/5-tips-for-building-an-effective-brand-presence-on-linkedin/824785/",
+          "postedAt": "2026-07-26T12:00:00.000Z"
+        },
         {
           "id": "om_1a62571104",
           "source": "TechCrunch",
@@ -843,18 +824,10 @@
           "title": "For CMOs, fandom is simply too powerful to ignore",
           "url": "https://www.marketingbrew.com/stories/cmos-power-of-fandom-netflix-tubi-reddit-adobe?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-07-24T10:00:00.000Z"
-        },
-        {
-          "id": "om_25667a6447",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why this marketer believes ‘less is more’ in marketing",
-          "url": "https://www.marketingbrew.com/stories/cannes-lions-mastercard-raja-rajamannar-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-23T20:52:14.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-26T13:55:17.063Z",
+      "lastUpdated": "2026-07-27T04:00:44.369Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
