@@ -351,22 +351,13 @@
           "title": "RT Hamel Husain: Codex desktop is miles ahead of Claude for remote access via mobile or another computer. Codex allows you to see **all** running sess...",
           "url": "https://x.com/steipete/status/2071394921463029840",
           "postedAt": "2026-06-28T16:18:15.000Z"
-        },
-        {
-          "id": "vc_steipete_b4ba038c09",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Pavel Larionov: Re @0xDesigner friend's codex after talking to my codex",
-          "url": "https://x.com/steipete/status/2071333876430155785",
-          "postedAt": "2026-06-28T14:05:55.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-28T03:33:23.907Z",
+      "lastUpdated": "2026-07-28T14:35:17.912Z",
       "targetItems": 20,
       "freshnessDays": 30,
-      "freshCountLabel": "15 fresh updates from the last 30 days"
+      "freshCountLabel": "14 fresh updates from the last 30 days"
     },
     "english": {
       "title": "English",
@@ -555,7 +546,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-28T03:33:25.465Z",
+      "lastUpdated": "2026-07-28T14:35:19.480Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -647,6 +638,46 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_278e35a1c0",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Popeyes spices up agency roster to deliver better brand consistency",
+          "url": "https://www.marketingdive.com/news/popeyes-spices-up-agency-roster-to-deliver-better-brand-consistency/826332/",
+          "postedAt": "2026-07-28T14:26:00.000Z"
+        },
+        {
+          "id": "om_7f280f9a95",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+          "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+          "postedAt": "2026-07-28T14:00:00.000Z"
+        },
+        {
+          "id": "om_94502c8773",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
+          "url": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
+          "postedAt": "2026-07-28T13:50:27.000Z"
+        },
+        {
+          "id": "om_014a0cdeed",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Hilton’s CMO on why brand marketing is an ‘irrational affinity business’",
+          "url": "https://www.marketingdive.com/news/hilton-cmo-on-why-brand-marketing-is-an-irrational-affinity-business/826246/",
+          "postedAt": "2026-07-28T12:53:00.000Z"
+        },
+        {
+          "id": "om_ca9eba25d5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The NFL Merch Designer for Stars Like Taylor Swift Is Making a Chair for La-Z-Boy",
+          "url": "https://www.adweek.com/brand-marketing/the-nfl-merch-designer-for-stars-like-taylor-swift-is-making-a-chair-for-la-z-boy/",
+          "postedAt": "2026-07-28T09:07:00.000Z"
+        },
         {
           "id": "om_cd6487a608",
           "source": "Marketing Dive",
@@ -766,50 +797,10 @@
           "title": "Oscar Mayer fetes Wienermobile’s 90 years with Milk Bar hot dog cake",
           "url": "https://www.marketingdive.com/news/oscar-mayer-fetes-wienermobiles-90-years-with-milk-bar-hot-dog-cake/826194/",
           "postedAt": "2026-07-27T11:00:00.000Z"
-        },
-        {
-          "id": "om_f9073dfbca",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Week of July 13 Cable News Ratings: Cable Nets See Growth",
-          "url": "https://www.adweek.com/tvnewser/week-of-july-13-2026-cable-news-ratings/",
-          "postedAt": "2026-07-27T10:06:51.000Z"
-        },
-        {
-          "id": "om_d6ac1920c1",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Return of the heartthrob: Why the men of the early aughts are booked and busy in advertising",
-          "url": "https://www.marketingbrew.com/stories/heartthrob-marketing-chad-michael-murray-devon-sawa-nostalgia?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-27T10:00:00.000Z"
-        },
-        {
-          "id": "om_293c0dd405",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Holiday planning needs a new playbook",
-          "url": "https://www.marketingdive.com/spons/holiday-planning-needs-a-new-playbook/826067/",
-          "postedAt": "2026-07-27T09:00:00.000Z"
-        },
-        {
-          "id": "om_f18e593bf3",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Audience-proof your campaigns: Defensible strategy for marketers",
-          "url": "https://www.retaildive.com/spons/audience-proof-your-campaigns-defensible-strategy-for-marketers/825617/",
-          "postedAt": "2026-07-27T09:00:00.000Z"
-        },
-        {
-          "id": "om_a01a97fb2e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Retail brands risk optimizing the wrong thing",
-          "url": "https://www.retaildive.com/spons/retail-brands-risk-optimizing-the-wrong-thing/825613/",
-          "postedAt": "2026-07-27T09:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-28T03:33:27.939Z",
+      "lastUpdated": "2026-07-28T14:35:20.744Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
