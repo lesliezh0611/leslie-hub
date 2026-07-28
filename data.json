@@ -360,22 +360,13 @@
           "title": "RT Pavel Larionov: Re @0xDesigner friend's codex after talking to my codex",
           "url": "https://x.com/steipete/status/2071333876430155785",
           "postedAt": "2026-06-28T14:05:55.000Z"
-        },
-        {
-          "id": "vc_steipete_f9e069a33d",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "\"History teaches us that access blockage rarely stops determined users.\" https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in",
-          "url": "https://x.com/steipete/status/2071063588329193551",
-          "postedAt": "2026-06-28T02:50:12.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-27T15:11:45.346Z",
+      "lastUpdated": "2026-07-28T03:33:23.907Z",
       "targetItems": 20,
       "freshnessDays": 30,
-      "freshCountLabel": "16 fresh updates from the last 30 days"
+      "freshCountLabel": "15 fresh updates from the last 30 days"
     },
     "english": {
       "title": "English",
@@ -564,7 +555,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-27T15:11:46.903Z",
+      "lastUpdated": "2026-07-28T03:33:25.465Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -657,12 +648,76 @@
       },
       "articles": [
         {
+          "id": "om_cd6487a608",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Gap Inc. opens creator program to employees",
+          "url": "https://www.marketingdive.com/news/gap-inc-opens-creator-influencer-program-staff-employees/826275/",
+          "postedAt": "2026-07-27T18:30:00.000Z"
+        },
+        {
+          "id": "om_2a91989a6c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "David’s Bridal debuts outlet shop-in-shop concept",
+          "url": "https://www.retaildive.com/news/davids-bridal-debuts-outlet-shop-in-shop-concept/826230/",
+          "postedAt": "2026-07-27T16:35:00.000Z"
+        },
+        {
+          "id": "om_e3f8b2c88a",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Gap Inc. opens creator program to employees",
+          "url": "https://www.socialmediatoday.com/news/gap-inc-opens-creator-influencer-program-staff-employees/826274/",
+          "postedAt": "2026-07-27T16:03:00.000Z"
+        },
+        {
+          "id": "om_083793594c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Gap Inc. opens creator program to employees",
+          "url": "https://www.retaildive.com/news/gap-inc-opens-creator-influencer-program-staff-employees/826238/",
+          "postedAt": "2026-07-27T16:03:00.000Z"
+        },
+        {
+          "id": "om_b35c04ef87",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Higgsfield AI Launches $85,000 ‘Adathon’ Contest in Partnership with ADWEEK",
+          "url": "https://www.adweek.com/creativity/higgsfield-ai-launches-85000-adathon-contest-in-partnership-with-adweek/",
+          "postedAt": "2026-07-27T15:45:02.000Z"
+        },
+        {
+          "id": "om_d1aeb65497",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Pacsun, Ulta Beauty debut curated beauty collaboration",
+          "url": "https://www.retaildive.com/news/pacsun-ulta-beauty-curated-beauty-fashion-collaboration/826239/",
+          "postedAt": "2026-07-27T15:40:00.000Z"
+        },
+        {
           "id": "om_211dd8299f",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Stressed parents turn to BNPL for back-to-school shopping",
           "url": "https://www.retaildive.com/news/stressed-parents-bnpl-back-to-school-shopping/826145/",
           "postedAt": "2026-07-27T15:01:00.000Z"
+        },
+        {
+          "id": "om_3a44cadefc",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How marketers can tackle a new creative paradigm with connected content",
+          "url": "https://www.marketingdive.com/news/how-marketers-can-tackle-a-new-creative-paradigm-with-connected-content/826236/",
+          "postedAt": "2026-07-27T14:30:54.000Z"
+        },
+        {
+          "id": "om_1b10b2a195",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Dick’s, LiveRamp, and Adobe Are Building Retail Media’s Creative Future",
+          "url": "https://www.adweek.com/commerce/dicks-liveramp-and-adobe-are-building-retail-medias-creative-future/",
+          "postedAt": "2026-07-27T14:25:14.000Z"
         },
         {
           "id": "om_a3153b2334",
@@ -679,6 +734,22 @@
           "title": "Canada Goose brings nature’s fringe to lifestyle marketing push",
           "url": "https://www.marketingdive.com/news/canada-goose-brings-natures-fringe-to-lifestyle-marketing-push/826134/",
           "postedAt": "2026-07-27T14:00:00.000Z"
+        },
+        {
+          "id": "om_3132f3c53a",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "How to maximize Instagram marketing in 2026",
+          "url": "https://www.socialmediatoday.com/news/how-to-maximize-instagram-marketing-in-2026/824787/",
+          "postedAt": "2026-07-27T12:00:00.000Z"
+        },
+        {
+          "id": "om_507b6a8cf6",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "5 tips for building an effective brand presence on Threads",
+          "url": "https://www.socialmediatoday.com/news/5-tips-for-building-an-effective-brand-presence-on-threads/824786/",
+          "postedAt": "2026-07-27T12:00:00.000Z"
         },
         {
           "id": "om_343b2b4c46",
@@ -735,90 +806,10 @@
           "title": "Retail brands risk optimizing the wrong thing",
           "url": "https://www.retaildive.com/spons/retail-brands-risk-optimizing-the-wrong-thing/825613/",
           "postedAt": "2026-07-27T09:00:00.000Z"
-        },
-        {
-          "id": "om_dddfc2bb2f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Canva’s CMO on the Weekly Check-In That Keeps Product and Marketing in Sync",
-          "url": "https://www.adweek.com/brand-marketing/canvas-cmo-on-the-weekly-check-in-that-keeps-product-and-marketing-in-sync/",
-          "postedAt": "2026-07-27T06:00:00.000Z"
-        },
-        {
-          "id": "om_5ef1eb7f4a",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "5 tips for building an effective brand presence on LinkedIn",
-          "url": "https://www.socialmediatoday.com/news/5-tips-for-building-an-effective-brand-presence-on-linkedin/824785/",
-          "postedAt": "2026-07-26T12:00:00.000Z"
-        },
-        {
-          "id": "om_1a62571104",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-          "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-          "postedAt": "2026-07-25T16:00:00.000Z"
-        },
-        {
-          "id": "om_84163cd491",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Under Armour teams with ‘Heated Rivalry’ star for new campaign",
-          "url": "https://www.marketingdive.com/news/under-armour-heated-rivalry-francois-arnaud-global-ambassador/826165/",
-          "postedAt": "2026-07-24T17:00:00.000Z"
-        },
-        {
-          "id": "om_c03ba536e9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Is Hoka slowing down?",
-          "url": "https://www.retaildive.com/news/hoka-earnings-slowing-down-q1-disappointment/826124/",
-          "postedAt": "2026-07-24T16:25:00.000Z"
-        },
-        {
-          "id": "om_7c023f3d34",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Under Armour gets heated with François Arnaud",
-          "url": "https://www.retaildive.com/news/under-armour-heated-rivalry-francois-arnaud-global-ambassador/826139/",
-          "postedAt": "2026-07-24T16:06:00.000Z"
-        },
-        {
-          "id": "om_9f32f159fc",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside Nike’s ‘Rip the Script’ World Cup campaign",
-          "url": "https://www.marketingbrew.com/stories/nike-rip-the-script-world-cup-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-24T16:04:47.000Z"
-        },
-        {
-          "id": "om_570151f4b2",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Adidas to open concept store in Mall of America",
-          "url": "https://www.retaildive.com/news/adidas-concept-store-mall-of-america/826110/",
-          "postedAt": "2026-07-24T15:52:00.000Z"
-        },
-        {
-          "id": "om_cc424f1b8d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why People Really Got So Mad About Coke’s New ‘Marlboro’ Typeface",
-          "url": "https://www.adweek.com/brand-marketing/why-people-really-got-so-mad-about-cokes-new-marlboro-typeface/",
-          "postedAt": "2026-07-24T15:44:31.000Z"
-        },
-        {
-          "id": "om_57fc380f3d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Weekly Closeout: Digital Brands Group enacts reverse stock split, gas prices up again",
-          "url": "https://www.retaildive.com/news/the-weekly-closeout-digital-brands-group-enacts-reverse-stock-split-oil-p/826091/",
-          "postedAt": "2026-07-24T15:38:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-27T15:11:49.757Z",
+      "lastUpdated": "2026-07-28T03:33:27.939Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
