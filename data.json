@@ -270,94 +270,13 @@
           "title": "Sol & Daybreak",
           "url": "https://x.com/gdb/status/2071453977091477911",
           "postedAt": "2026-06-29T04:41:28.000Z"
-        },
-        {
-          "id": "vc_steipete_3e9b46f79c",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Tak 🦞: AI agents may end up doing more for web accessibility than accessibility laws. Agents rely on accessibility APIs to use computers and web...",
-          "url": "https://x.com/steipete/status/2071415080739283012",
-          "postedAt": "2026-06-29T01:43:40.000Z"
-        },
-        {
-          "id": "vc_steipete_3f35cfcf78",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "Tried to sign up to @ATT four times now and they reject me and aren’t telling me why. What’s the next best unlimited phone/data plan for the SF area...",
-          "url": "https://x.com/steipete/status/2071382416703500510",
-          "postedAt": "2026-06-28T23:57:07.000Z"
-        },
-        {
-          "id": "vc_dotey_3f3b908c9b",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "这种AI视频也挺有意思的😂",
-          "url": "https://x.com/dotey/status/2071357697585242300",
-          "postedAt": "2026-06-28T22:18:53.000Z"
-        },
-        {
-          "id": "vc_dotey_a5d3f646d7",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Anthropic 上周发布了 Claude Tag，目前以 beta 形式面向 Claude Team 和 Enterprise 用户开放。 简单说，Claude Tag 让团队可以在 Slack 频道里 @ Claude，像 @...",
-          "url": "https://x.com/dotey/status/2071356525570924563",
-          "postedAt": "2026-06-28T22:14:14.000Z"
-        },
-        {
-          "id": "vc_gdb_66a03abaed",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "ChatGPT for helping in daily life in Bengaluru: https://www.ndtv.com/offbeat/auto-rickshaw-driver-shows-how-chatgpt-helps-in-daily-life-openai-reacts-...",
-          "url": "https://x.com/gdb/status/2071355421819097520",
-          "postedAt": "2026-06-28T22:09:51.000Z"
-        },
-        {
-          "id": "vc_dotey_18af40ccbe",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "RepoPrompt 已经开源了，社区版（Community Edition）已上线 GitHub。 背后的故事是这样的：几个月前，OpenAI 开发者体验负责人 Romain Huet 找到 Provencher，...",
-          "url": "https://x.com/dotey/status/2071348102263378085",
-          "postedAt": "2026-06-28T21:40:46.000Z"
-        },
-        {
-          "id": "vc_zarazhangrui_b680457a84",
-          "source": "zarazhangrui",
-          "sourceName": "张睿",
-          "platform": "x",
-          "title": "For every hour you spend on building the product, spend two hours on explaining it, demonstrating it, selling it, teaching it… This is my favorite pa...",
-          "url": "https://x.com/zarazhangrui/status/2071319754128978030",
-          "postedAt": "2026-06-28T19:48:07.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_1115394b86",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "Claude Code闹鬼了？我也没手动叫停啊，我对话里更没说过要写一份详细的文档啊，这TM到底哪来的？？？ 这两天串信息感觉有点过于严重了吧，我的代码里经常会有莫...",
-          "url": "https://x.com/Khazix0918/status/2071275686330069209",
-          "postedAt": "2026-06-28T16:53:00.000Z"
-        },
-        {
-          "id": "vc_steipete_3591acd5be",
-          "source": "steipete",
-          "sourceName": "Peter Steinberger",
-          "platform": "x",
-          "title": "RT Hamel Husain: Codex desktop is miles ahead of Claude for remote access via mobile or another computer. Codex allows you to see **all** running sess...",
-          "url": "https://x.com/steipete/status/2071394921463029840",
-          "postedAt": "2026-06-28T16:18:15.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-28T14:35:17.912Z",
+      "lastUpdated": "2026-07-29T03:37:10.549Z",
       "targetItems": 20,
       "freshnessDays": 30,
-      "freshCountLabel": "14 fresh updates from the last 30 days"
+      "freshCountLabel": "5 fresh updates from the last 30 days"
     },
     "english": {
       "title": "English",
@@ -393,6 +312,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lex_fridman_podcast_a269ad0476",
+          "source": "Lex Fridman Podcast",
+          "platform": "podcast",
+          "topic": "#499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee",
+          "url": "https://lexfridman.com/gary-gallagher/?utm_source=rss&utm_medium=rss&utm_campaign=gary-gallagher",
+          "postedAt": "2026-07-28T20:06:06.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_4010f6b115",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "11 products I love, free for a year—the biggest Product Pass expansion in 2 years",
+          "url": "https://www.lennysnewsletter.com/p/productpass-summer2026launch",
+          "postedAt": "2026-07-28T15:54:24.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_5e7463ad32",
           "source": "Lenny's Podcast",
@@ -474,14 +409,6 @@
           "postedAt": "2026-07-20T12:04:47.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_f3264707c6",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)",
-          "url": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future",
-          "postedAt": "2026-07-19T12:31:21.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_2f63d88895",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -546,10 +473,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-28T14:35:19.480Z",
+      "lastUpdated": "2026-07-29T03:37:11.892Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "14 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -639,6 +566,94 @@
       },
       "articles": [
         {
+          "id": "om_0b12d8ba2d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Omnicom Tops 6% Organic Growth in Q2 as John Wren Hits $69.3M Payout Target",
+          "url": "https://www.adweek.com/agencies/omnicom-tops-6-organic-growth-in-q2-as-john-wren-hits-693m-payout-target/",
+          "postedAt": "2026-07-28T20:32:00.000Z"
+        },
+        {
+          "id": "om_6809a3fd5d",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why Pantone sees color reflecting pushback on tech",
+          "url": "https://www.marketingbrew.com/stories/pantone-color-of-the-year-tech-pushback?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-28T20:25:31.000Z"
+        },
+        {
+          "id": "om_fefd9c94c1",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign",
+          "url": "https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign/",
+          "postedAt": "2026-07-28T20:15:19.000Z"
+        },
+        {
+          "id": "om_3782a65c08",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
+          "url": "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/",
+          "postedAt": "2026-07-28T18:35:29.000Z"
+        },
+        {
+          "id": "om_6997fc4b75",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why FX gave an iconic mall an ‘80s makeover to promote ‘The Shards’",
+          "url": "https://www.marketingdive.com/news/why-fx-gave-an-iconic-mall-an-80s-makeover-to-promote-the-shards/826299/",
+          "postedAt": "2026-07-28T18:23:00.000Z"
+        },
+        {
+          "id": "om_ff82b4f549",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Sephora names 12 beauty brands to accelerator cohort",
+          "url": "https://www.retaildive.com/news/sephora-beauty-brand-accelerator-cohort-2026/826360/",
+          "postedAt": "2026-07-28T15:54:00.000Z"
+        },
+        {
+          "id": "om_773f8cd737",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Brand licensing firm snaps up DTC intimates brand Cosabella",
+          "url": "https://www.retaildive.com/news/crown-brands-group-acquires-intimates-brand-cosabella/826336/",
+          "postedAt": "2026-07-28T15:39:00.000Z"
+        },
+        {
+          "id": "om_152a69aad8",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Experiential Is Central to Cannes Lions’ Evolution",
+          "url": "https://www.adweek.com/brand-marketing/experiential-is-central-to-cannes-lions-evolution/",
+          "postedAt": "2026-07-28T15:25:51.000Z"
+        },
+        {
+          "id": "om_f0a78721fa",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Inside Canada Goose’s journey to reconnect with nature",
+          "url": "https://www.retaildive.com/news/canada-goose-natural-intelligence-lifestyle-marketing-push/826328/",
+          "postedAt": "2026-07-28T15:21:00.000Z"
+        },
+        {
+          "id": "om_a72be8e444",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Dollar General opens call for small business vendors",
+          "url": "https://www.retaildive.com/news/dollar-general-opens-call-small-business-vendors/826340/",
+          "postedAt": "2026-07-28T15:08:00.000Z"
+        },
+        {
+          "id": "om_2a75a059c9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Rare Beauty draws inspiration from Greek mythology for global campaign",
+          "url": "https://www.retaildive.com/news/rare-beauty-draws-inspiration-from-greek-mythology-for-global-campaign/826330/",
+          "postedAt": "2026-07-28T15:07:00.000Z"
+        },
+        {
           "id": "om_278e35a1c0",
           "source": "Marketing Dive",
           "lang": "en",
@@ -650,7 +665,7 @@
           "id": "om_7f280f9a95",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+          "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
           "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
           "postedAt": "2026-07-28T14:00:00.000Z"
         },
@@ -671,136 +686,48 @@
           "postedAt": "2026-07-28T12:53:00.000Z"
         },
         {
-          "id": "om_ca9eba25d5",
+          "id": "om_66c352c344",
           "source": "Adweek",
           "lang": "en",
-          "title": "The NFL Merch Designer for Stars Like Taylor Swift Is Making a Chair for La-Z-Boy",
-          "url": "https://www.adweek.com/brand-marketing/the-nfl-merch-designer-for-stars-like-taylor-swift-is-making-a-chair-for-la-z-boy/",
-          "postedAt": "2026-07-28T09:07:00.000Z"
+          "title": "Marketing Vanguard at Cannes: Why Sports Marketing Starts With Identity ft. Uzma Rawn Dowler of MLB",
+          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-why-sports-marketing-starts-with-identity-ft-uzma-rawn-dowler-of-mlb/",
+          "postedAt": "2026-07-28T12:49:13.000Z"
         },
         {
-          "id": "om_cd6487a608",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Gap Inc. opens creator program to employees",
-          "url": "https://www.marketingdive.com/news/gap-inc-opens-creator-influencer-program-staff-employees/826275/",
-          "postedAt": "2026-07-27T18:30:00.000Z"
-        },
-        {
-          "id": "om_2a91989a6c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "David’s Bridal debuts outlet shop-in-shop concept",
-          "url": "https://www.retaildive.com/news/davids-bridal-debuts-outlet-shop-in-shop-concept/826230/",
-          "postedAt": "2026-07-27T16:35:00.000Z"
-        },
-        {
-          "id": "om_e3f8b2c88a",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Gap Inc. opens creator program to employees",
-          "url": "https://www.socialmediatoday.com/news/gap-inc-opens-creator-influencer-program-staff-employees/826274/",
-          "postedAt": "2026-07-27T16:03:00.000Z"
-        },
-        {
-          "id": "om_083793594c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Gap Inc. opens creator program to employees",
-          "url": "https://www.retaildive.com/news/gap-inc-opens-creator-influencer-program-staff-employees/826238/",
-          "postedAt": "2026-07-27T16:03:00.000Z"
-        },
-        {
-          "id": "om_b35c04ef87",
+          "id": "om_6e4a5fe4dc",
           "source": "Adweek",
           "lang": "en",
-          "title": "Higgsfield AI Launches $85,000 ‘Adathon’ Contest in Partnership with ADWEEK",
-          "url": "https://www.adweek.com/creativity/higgsfield-ai-launches-85000-adathon-contest-in-partnership-with-adweek/",
-          "postedAt": "2026-07-27T15:45:02.000Z"
+          "title": "Beyond the Console: Xbox Maps the Gaming Ad Ecosystem",
+          "url": "https://www.adweek.com/brand-marketing/beyond-the-console-xbox-maps-the-gaming-ad-ecosystem/",
+          "postedAt": "2026-07-28T12:33:08.000Z"
         },
         {
-          "id": "om_d1aeb65497",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Pacsun, Ulta Beauty debut curated beauty collaboration",
-          "url": "https://www.retaildive.com/news/pacsun-ulta-beauty-curated-beauty-fashion-collaboration/826239/",
-          "postedAt": "2026-07-27T15:40:00.000Z"
-        },
-        {
-          "id": "om_211dd8299f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Stressed parents turn to BNPL for back-to-school shopping",
-          "url": "https://www.retaildive.com/news/stressed-parents-bnpl-back-to-school-shopping/826145/",
-          "postedAt": "2026-07-27T15:01:00.000Z"
-        },
-        {
-          "id": "om_3a44cadefc",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How marketers can tackle a new creative paradigm with connected content",
-          "url": "https://www.marketingdive.com/news/how-marketers-can-tackle-a-new-creative-paradigm-with-connected-content/826236/",
-          "postedAt": "2026-07-27T14:30:54.000Z"
-        },
-        {
-          "id": "om_1b10b2a195",
+          "id": "om_ad554715ad",
           "source": "Adweek",
           "lang": "en",
-          "title": "Dick’s, LiveRamp, and Adobe Are Building Retail Media’s Creative Future",
-          "url": "https://www.adweek.com/commerce/dicks-liveramp-and-adobe-are-building-retail-medias-creative-future/",
-          "postedAt": "2026-07-27T14:25:14.000Z"
+          "title": "Balancing Brand Equity and Innovation in Automotive Advertising",
+          "url": "https://www.adweek.com/brand-marketing/balancing-brand-equity-and-innovation-in-automotive-advertising/",
+          "postedAt": "2026-07-28T12:18:21.000Z"
         },
         {
-          "id": "om_a3153b2334",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Rare Beauty draws inspiration from Greek mythology for global campaign",
-          "url": "https://www.marketingdive.com/news/rare-beauty-draws-inspiration-from-greek-mythology-for-global-campaign/826225/",
-          "postedAt": "2026-07-27T14:25:00.000Z"
-        },
-        {
-          "id": "om_91e8d6a28b",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Canada Goose brings nature’s fringe to lifestyle marketing push",
-          "url": "https://www.marketingdive.com/news/canada-goose-brings-natures-fringe-to-lifestyle-marketing-push/826134/",
-          "postedAt": "2026-07-27T14:00:00.000Z"
-        },
-        {
-          "id": "om_3132f3c53a",
+          "id": "om_77ee00a370",
           "source": "Social Media Today",
           "lang": "en",
-          "title": "How to maximize Instagram marketing in 2026",
-          "url": "https://www.socialmediatoday.com/news/how-to-maximize-instagram-marketing-in-2026/824787/",
-          "postedAt": "2026-07-27T12:00:00.000Z"
+          "title": "6 tips for building a brand on Pinterest",
+          "url": "https://www.socialmediatoday.com/news/6-tips-for-building-a-brand-on-pinterest/824788/",
+          "postedAt": "2026-07-28T12:00:00.000Z"
         },
         {
-          "id": "om_507b6a8cf6",
-          "source": "Social Media Today",
+          "id": "om_75c429c09d",
+          "source": "Adweek",
           "lang": "en",
-          "title": "5 tips for building an effective brand presence on Threads",
-          "url": "https://www.socialmediatoday.com/news/5-tips-for-building-an-effective-brand-presence-on-threads/824786/",
-          "postedAt": "2026-07-27T12:00:00.000Z"
-        },
-        {
-          "id": "om_343b2b4c46",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Wellness Influencers Are Pushing ‘Natural’ and Unproven Alternatives to Adderall",
-          "url": "https://www.wired.com/story/wellness-influencers-are-pushing-natural-and-unproven-alternatives-to-adderall/",
-          "postedAt": "2026-07-27T11:00:00.000Z"
-        },
-        {
-          "id": "om_b80582c3d8",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Oscar Mayer fetes Wienermobile’s 90 years with Milk Bar hot dog cake",
-          "url": "https://www.marketingdive.com/news/oscar-mayer-fetes-wienermobiles-90-years-with-milk-bar-hot-dog-cake/826194/",
-          "postedAt": "2026-07-27T11:00:00.000Z"
+          "title": "How to Market With Gen Z, Not To Them",
+          "url": "https://www.adweek.com/brand-marketing/how-to-market-with-gen-z-not-to-them/",
+          "postedAt": "2026-07-28T10:52:44.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-28T14:35:20.744Z",
+      "lastUpdated": "2026-07-29T03:37:13.478Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
