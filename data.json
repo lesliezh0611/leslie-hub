@@ -225,58 +225,12 @@
           "url": "https://x.com/karpathy"
         }
       ],
-      "articles": [
-        {
-          "id": "vc_Khazix0918_1650265790",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "Claude最近实在没法用了，Opus 4.8幻觉问题爆炸，还总是莫名其妙出现一些别人的信息串到我的对话里，整个周末我代码都被幻觉问题改崩了好几次，每次任务做到一半...",
-          "url": "https://x.com/Khazix0918/status/2071534744622559628",
-          "postedAt": "2026-06-29T10:02:25.000Z"
-        },
-        {
-          "id": "vc_dotey_cb456ba46b",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "😂",
-          "url": "https://x.com/dotey/status/2071465874205069659",
-          "postedAt": "2026-06-29T05:28:45.000Z"
-        },
-        {
-          "id": "vc_dotey_08e76f6512",
-          "source": "dotey",
-          "sourceName": "宝玉",
-          "platform": "x",
-          "title": "Ford 重新雇了 350 名老工程师回来，因为 AI 质检系统没能达到预期。 过去三年，福特悄悄招回了 350 名资深工程师，有的是退休或离职的老员工，有的是从供应商那...",
-          "url": "https://x.com/dotey/status/2071463765598409034",
-          "postedAt": "2026-06-29T05:20:22.000Z"
-        },
-        {
-          "id": "vc_Khazix0918_4ec74031a0",
-          "source": "Khazix0918",
-          "sourceName": "Khazix",
-          "platform": "x",
-          "title": "http://x.com/i/article/2071459685358792704",
-          "url": "https://x.com/Khazix0918/status/2071460641374646684",
-          "postedAt": "2026-06-29T05:07:57.000Z"
-        },
-        {
-          "id": "vc_gdb_adc5207d0f",
-          "source": "gdb",
-          "sourceName": "Greg Brockman",
-          "platform": "x",
-          "title": "Sol & Daybreak",
-          "url": "https://x.com/gdb/status/2071453977091477911",
-          "postedAt": "2026-06-29T04:41:28.000Z"
-        }
-      ],
+      "articles": [],
       "saved": [],
-      "lastUpdated": "2026-07-29T03:37:10.549Z",
+      "lastUpdated": "2026-07-29T14:29:59.922Z",
       "targetItems": 20,
       "freshnessDays": 30,
-      "freshCountLabel": "5 fresh updates from the last 30 days"
+      "freshCountLabel": "0 fresh updates from the last 30 days"
     },
     "english": {
       "title": "English",
@@ -473,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-29T03:37:11.892Z",
+      "lastUpdated": "2026-07-29T14:30:02.737Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -565,6 +519,54 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_677c40d7f2",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Kia takes a Reddit staple for a spin during WNBA All-Star Weekend",
+          "url": "https://www.marketingdive.com/news/kia-takes-a-reddit-staple-for-a-spin-during-wnba-all-star-weekend/826416/",
+          "postedAt": "2026-07-29T13:45:00.000Z"
+        },
+        {
+          "id": "om_26bcf70100",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Degree sweats it out with subway commuters for New York summer campaign",
+          "url": "https://www.marketingdive.com/news/degree-sweats-it-out-with-subway-commuters-for-new-york-summer-campaign/826407/",
+          "postedAt": "2026-07-29T13:28:00.000Z"
+        },
+        {
+          "id": "om_622dea6b1a",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "The Kansas City Current’s marketing coach is ‘Ted Lasso’",
+          "url": "https://www.marketingbrew.com/stories/kansas-city-current-ted-lasso-watch-party?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-29T13:00:00.000Z"
+        },
+        {
+          "id": "om_7afde57d6a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Saylor Launches Creator Studio Fleet, Led by Former Amazon Ads Exec",
+          "url": "https://www.adweek.com/agencies/saylor-creator-studio-fleet/",
+          "postedAt": "2026-07-29T07:00:00.000Z"
+        },
+        {
+          "id": "om_cc64265457",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Walmart and Amazon Are Battling for Streaming TV Budgets. Here’s How Their Offerings Break Down",
+          "url": "https://www.adweek.com/commerce/walmart-and-amazon-are-battling-for-streaming-tv-budgets-heres-how-their-offerings-break-down/",
+          "postedAt": "2026-07-29T06:00:00.000Z"
+        },
+        {
+          "id": "om_80ebd2deac",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Higgsfield Names Mariam Asmar as First Enterprise Marketing Exec",
+          "url": "https://www.adweek.com/media/higgsfield-names-mariam-asmar-as-first-enterprise-marketing-exec/",
+          "postedAt": "2026-07-29T06:00:00.000Z"
+        },
         {
           "id": "om_0b12d8ba2d",
           "source": "Adweek",
@@ -676,58 +678,10 @@
           "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
           "url": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
           "postedAt": "2026-07-28T13:50:27.000Z"
-        },
-        {
-          "id": "om_014a0cdeed",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Hilton’s CMO on why brand marketing is an ‘irrational affinity business’",
-          "url": "https://www.marketingdive.com/news/hilton-cmo-on-why-brand-marketing-is-an-irrational-affinity-business/826246/",
-          "postedAt": "2026-07-28T12:53:00.000Z"
-        },
-        {
-          "id": "om_66c352c344",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketing Vanguard at Cannes: Why Sports Marketing Starts With Identity ft. Uzma Rawn Dowler of MLB",
-          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-why-sports-marketing-starts-with-identity-ft-uzma-rawn-dowler-of-mlb/",
-          "postedAt": "2026-07-28T12:49:13.000Z"
-        },
-        {
-          "id": "om_6e4a5fe4dc",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Beyond the Console: Xbox Maps the Gaming Ad Ecosystem",
-          "url": "https://www.adweek.com/brand-marketing/beyond-the-console-xbox-maps-the-gaming-ad-ecosystem/",
-          "postedAt": "2026-07-28T12:33:08.000Z"
-        },
-        {
-          "id": "om_ad554715ad",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Balancing Brand Equity and Innovation in Automotive Advertising",
-          "url": "https://www.adweek.com/brand-marketing/balancing-brand-equity-and-innovation-in-automotive-advertising/",
-          "postedAt": "2026-07-28T12:18:21.000Z"
-        },
-        {
-          "id": "om_77ee00a370",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "6 tips for building a brand on Pinterest",
-          "url": "https://www.socialmediatoday.com/news/6-tips-for-building-a-brand-on-pinterest/824788/",
-          "postedAt": "2026-07-28T12:00:00.000Z"
-        },
-        {
-          "id": "om_75c429c09d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How to Market With Gen Z, Not To Them",
-          "url": "https://www.adweek.com/brand-marketing/how-to-market-with-gen-z-not-to-them/",
-          "postedAt": "2026-07-28T10:52:44.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-29T03:37:13.478Z",
+      "lastUpdated": "2026-07-29T14:30:05.005Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
