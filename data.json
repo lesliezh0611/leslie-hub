@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-07-29T14:29:59.922Z",
+      "lastUpdated": "2026-07-30T03:26:24.072Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-29T14:30:02.737Z",
+      "lastUpdated": "2026-07-30T03:26:25.479Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,38 @@
       },
       "articles": [
         {
+          "id": "om_ee3749c14b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Back-to-school shoppers will prioritize essentials over apparel",
+          "url": "https://www.retaildive.com/news/back-to-school-shoppers-prioritize-essentials-apparel-sporting-goods/826456/",
+          "postedAt": "2026-07-29T16:03:00.000Z"
+        },
+        {
+          "id": "om_ca3c7ce6c5",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Vans needs a good back-to-school season more than ever",
+          "url": "https://www.retaildive.com/news/vans-needs-strong-back-to-school-season-vf-corp/826444/",
+          "postedAt": "2026-07-29T15:59:00.000Z"
+        },
+        {
+          "id": "om_fef697c140",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Shein’s US ambitions hindered by FTC investigation, tariffs",
+          "url": "https://www.retaildive.com/news/shein-us-business-ftc-investigation-tariff-costs-prices-hong-kong-ipo/826451/",
+          "postedAt": "2026-07-29T15:34:00.000Z"
+        },
+        {
+          "id": "om_21cfdc136e",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+          "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+          "postedAt": "2026-07-29T14:41:06.000Z"
+        },
+        {
           "id": "om_677c40d7f2",
           "source": "Marketing Dive",
           "lang": "en",
@@ -542,6 +574,22 @@
           "title": "The Kansas City Current’s marketing coach is ‘Ted Lasso’",
           "url": "https://www.marketingbrew.com/stories/kansas-city-current-ted-lasso-watch-party?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-07-29T13:00:00.000Z"
+        },
+        {
+          "id": "om_6e8297cef3",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "4 tips to build a Snapchat marketing strategy",
+          "url": "https://www.socialmediatoday.com/news/4-tips-to-build-a-snapchat-marketing-strategy/824792/",
+          "postedAt": "2026-07-29T12:00:00.000Z"
+        },
+        {
+          "id": "om_f072be11a7",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "How to build a brand on Facebook",
+          "url": "https://www.socialmediatoday.com/news/how-to-build-a-brand-on-facebook/824790/",
+          "postedAt": "2026-07-29T12:00:00.000Z"
         },
         {
           "id": "om_7afde57d6a",
@@ -592,14 +640,6 @@
           "postedAt": "2026-07-28T20:15:19.000Z"
         },
         {
-          "id": "om_3782a65c08",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "eBay reaches $56M settlement with e-commerce newsletter writers it terrorized in 2019",
-          "url": "https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/",
-          "postedAt": "2026-07-28T18:35:29.000Z"
-        },
-        {
           "id": "om_6997fc4b75",
           "source": "Marketing Dive",
           "lang": "en",
@@ -624,14 +664,6 @@
           "postedAt": "2026-07-28T15:39:00.000Z"
         },
         {
-          "id": "om_152a69aad8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Experiential Is Central to Cannes Lions’ Evolution",
-          "url": "https://www.adweek.com/brand-marketing/experiential-is-central-to-cannes-lions-evolution/",
-          "postedAt": "2026-07-28T15:25:51.000Z"
-        },
-        {
           "id": "om_f0a78721fa",
           "source": "Retail Dive",
           "lang": "en",
@@ -646,42 +678,10 @@
           "title": "Dollar General opens call for small business vendors",
           "url": "https://www.retaildive.com/news/dollar-general-opens-call-small-business-vendors/826340/",
           "postedAt": "2026-07-28T15:08:00.000Z"
-        },
-        {
-          "id": "om_2a75a059c9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Rare Beauty draws inspiration from Greek mythology for global campaign",
-          "url": "https://www.retaildive.com/news/rare-beauty-draws-inspiration-from-greek-mythology-for-global-campaign/826330/",
-          "postedAt": "2026-07-28T15:07:00.000Z"
-        },
-        {
-          "id": "om_278e35a1c0",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Popeyes spices up agency roster to deliver better brand consistency",
-          "url": "https://www.marketingdive.com/news/popeyes-spices-up-agency-roster-to-deliver-better-brand-consistency/826332/",
-          "postedAt": "2026-07-28T14:26:00.000Z"
-        },
-        {
-          "id": "om_7f280f9a95",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-          "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-          "postedAt": "2026-07-28T14:00:00.000Z"
-        },
-        {
-          "id": "om_94502c8773",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
-          "url": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
-          "postedAt": "2026-07-28T13:50:27.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-29T14:30:05.005Z",
+      "lastUpdated": "2026-07-30T03:26:26.639Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
