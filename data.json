@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-07-30T03:26:24.072Z",
+      "lastUpdated": "2026-07-30T14:30:12.352Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -267,12 +267,12 @@
       ],
       "podcasts": [
         {
-          "id": "en_pod_lex_fridman_podcast_a269ad0476",
-          "source": "Lex Fridman Podcast",
+          "id": "en_pod_the_knowledge_project_87f7ad064d",
+          "source": "The Knowledge Project",
           "platform": "podcast",
-          "topic": "#499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee",
-          "url": "https://lexfridman.com/gary-gallagher/?utm_source=rss&utm_medium=rss&utm_campaign=gary-gallagher",
-          "postedAt": "2026-07-28T20:06:06.000Z"
+          "topic": "The Psychology Behind Building Billion-Dollar Companies | Brad Jacobs",
+          "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
+          "postedAt": "2026-07-30T09:45:00.000Z"
         },
         {
           "id": "en_pod_lenny_s_podcast_4010f6b115",
@@ -369,14 +369,6 @@
           "topic": "Truth Over Feelings: Inside Opendoor’s Turnaround",
           "url": "https://fs.blog/knowledge-project-podcast/kaz-nejatian/",
           "postedAt": "2026-07-16T09:50:00.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_8a62320f43",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "The Best Summary of Atlas Shrugged",
-          "url": "https://fs.blog/atlas-shrugged-summary/",
-          "postedAt": "2026-07-09T13:47:27.000Z"
         }
       ],
       "books": [
@@ -427,10 +419,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-30T03:26:25.479Z",
+      "lastUpdated": "2026-07-30T14:30:14.534Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "14 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -520,6 +512,38 @@
       },
       "articles": [
         {
+          "id": "om_b21f87e4fa",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How Tinder is getting people off the app and into the wild",
+          "url": "https://www.marketingbrew.com/stories/tinder-events-expansion?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-07-30T12:13:33.000Z"
+        },
+        {
+          "id": "om_70ee1b94c6",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "IRL streamers are brands’ biggest marketing opportunity",
+          "url": "https://www.marketingdive.com/news/irl-streamers-are-brands-biggest-marketing-opportunity/826281/",
+          "postedAt": "2026-07-30T12:00:00.000Z"
+        },
+        {
+          "id": "om_c2741bff0a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Heineken pilots OpenTable program that rewards designated drivers",
+          "url": "https://www.marketingdive.com/news/heineken-pilots-opentable-program-that-rewards-designated-drivers/826292/",
+          "postedAt": "2026-07-30T12:00:00.000Z"
+        },
+        {
+          "id": "om_f329c36320",
+          "source": "Wired",
+          "lang": "en",
+          "title": "‘Spider-Man: Brand New Day’ Is a Superhero Movie for Yearners",
+          "url": "https://www.wired.com/story/spider-man-brand-new-day-is-a-superhero-movie-for-yearners/",
+          "postedAt": "2026-07-30T11:00:00.000Z"
+        },
+        {
           "id": "om_ee3749c14b",
           "source": "Retail Dive",
           "lang": "en",
@@ -544,14 +568,6 @@
           "postedAt": "2026-07-29T15:34:00.000Z"
         },
         {
-          "id": "om_21cfdc136e",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-          "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-          "postedAt": "2026-07-29T14:41:06.000Z"
-        },
-        {
           "id": "om_677c40d7f2",
           "source": "Marketing Dive",
           "lang": "en",
@@ -574,54 +590,6 @@
           "title": "The Kansas City Current’s marketing coach is ‘Ted Lasso’",
           "url": "https://www.marketingbrew.com/stories/kansas-city-current-ted-lasso-watch-party?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-07-29T13:00:00.000Z"
-        },
-        {
-          "id": "om_6e8297cef3",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "4 tips to build a Snapchat marketing strategy",
-          "url": "https://www.socialmediatoday.com/news/4-tips-to-build-a-snapchat-marketing-strategy/824792/",
-          "postedAt": "2026-07-29T12:00:00.000Z"
-        },
-        {
-          "id": "om_f072be11a7",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "How to build a brand on Facebook",
-          "url": "https://www.socialmediatoday.com/news/how-to-build-a-brand-on-facebook/824790/",
-          "postedAt": "2026-07-29T12:00:00.000Z"
-        },
-        {
-          "id": "om_7afde57d6a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Saylor Launches Creator Studio Fleet, Led by Former Amazon Ads Exec",
-          "url": "https://www.adweek.com/agencies/saylor-creator-studio-fleet/",
-          "postedAt": "2026-07-29T07:00:00.000Z"
-        },
-        {
-          "id": "om_cc64265457",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Walmart and Amazon Are Battling for Streaming TV Budgets. Here’s How Their Offerings Break Down",
-          "url": "https://www.adweek.com/commerce/walmart-and-amazon-are-battling-for-streaming-tv-budgets-heres-how-their-offerings-break-down/",
-          "postedAt": "2026-07-29T06:00:00.000Z"
-        },
-        {
-          "id": "om_80ebd2deac",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Higgsfield Names Mariam Asmar as First Enterprise Marketing Exec",
-          "url": "https://www.adweek.com/media/higgsfield-names-mariam-asmar-as-first-enterprise-marketing-exec/",
-          "postedAt": "2026-07-29T06:00:00.000Z"
-        },
-        {
-          "id": "om_0b12d8ba2d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Omnicom Tops 6% Organic Growth in Q2 as John Wren Hits $69.3M Payout Target",
-          "url": "https://www.adweek.com/agencies/omnicom-tops-6-organic-growth-in-q2-as-john-wren-hits-693m-payout-target/",
-          "postedAt": "2026-07-28T20:32:00.000Z"
         },
         {
           "id": "om_6809a3fd5d",
@@ -678,10 +646,34 @@
           "title": "Dollar General opens call for small business vendors",
           "url": "https://www.retaildive.com/news/dollar-general-opens-call-small-business-vendors/826340/",
           "postedAt": "2026-07-28T15:08:00.000Z"
+        },
+        {
+          "id": "om_2a75a059c9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Rare Beauty draws inspiration from Greek mythology for global campaign",
+          "url": "https://www.retaildive.com/news/rare-beauty-draws-inspiration-from-greek-mythology-for-global-campaign/826330/",
+          "postedAt": "2026-07-28T15:07:00.000Z"
+        },
+        {
+          "id": "om_278e35a1c0",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Popeyes spices up agency roster to deliver better brand consistency",
+          "url": "https://www.marketingdive.com/news/popeyes-spices-up-agency-roster-to-deliver-better-brand-consistency/826332/",
+          "postedAt": "2026-07-28T14:26:00.000Z"
+        },
+        {
+          "id": "om_014a0cdeed",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Hilton’s CMO on why brand marketing is an ‘irrational affinity business’",
+          "url": "https://www.marketingdive.com/news/hilton-cmo-on-why-brand-marketing-is-an-irrational-affinity-business/826246/",
+          "postedAt": "2026-07-28T12:53:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-30T03:26:26.639Z",
+      "lastUpdated": "2026-07-30T14:30:17.740Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
