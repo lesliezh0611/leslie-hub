@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-07-30T14:30:12.352Z",
+      "lastUpdated": "2026-07-31T03:48:09.209Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -273,6 +273,14 @@
           "topic": "The Psychology Behind Building Billion-Dollar Companies | Brad Jacobs",
           "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
           "postedAt": "2026-07-30T09:45:00.000Z"
+        },
+        {
+          "id": "en_pod_lex_fridman_podcast_a269ad0476",
+          "source": "Lex Fridman Podcast",
+          "platform": "podcast",
+          "topic": "#499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee",
+          "url": "https://lexfridman.com/gary-gallagher/?utm_source=rss&utm_medium=rss&utm_campaign=gary-gallagher",
+          "postedAt": "2026-07-28T20:06:06.000Z"
         },
         {
           "id": "en_pod_lenny_s_podcast_4010f6b115",
@@ -419,10 +427,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-30T14:30:14.534Z",
+      "lastUpdated": "2026-07-31T03:48:10.719Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "14 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -512,6 +520,150 @@
       },
       "articles": [
         {
+          "id": "om_20e4534358",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+          "url": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+          "postedAt": "2026-07-30T22:37:06.000Z"
+        },
+        {
+          "id": "om_18a122328e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Amazon’s Ad Revenue Hits $76B Over the Past 12 Months",
+          "url": "https://www.adweek.com/commerce/amazons-ad-revenue-hits-76b/",
+          "postedAt": "2026-07-30T18:23:25.000Z"
+        },
+        {
+          "id": "om_96b1fb7a3b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Kohl’s debuts AI shopping assistant",
+          "url": "https://www.retaildive.com/news/kohls-ai-shopping-assistant/826585/",
+          "postedAt": "2026-07-30T18:15:00.000Z"
+        },
+        {
+          "id": "om_dec5a7e195",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "After Viral Fame, Stanley 1913 Chooses New AOR Born Social",
+          "url": "https://www.adweek.com/agencies/after-viral-fame-stanley-1913-chooses-new-aor-born-social/",
+          "postedAt": "2026-07-30T17:36:08.000Z"
+        },
+        {
+          "id": "om_d9fc48a94d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Crocs tops $1B in quarterly revenue for the first time",
+          "url": "https://www.retaildive.com/news/crocs-tops-one-billion-first-time-q2-earnings-sales-growth/826574/",
+          "postedAt": "2026-07-30T16:33:00.000Z"
+        },
+        {
+          "id": "om_1e981dcfe8",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "New Jersey bans dynamic pricing",
+          "url": "https://www.retaildive.com/news/new-jersey-bans-dynamic-pricing/826563/",
+          "postedAt": "2026-07-30T16:31:00.000Z"
+        },
+        {
+          "id": "om_0072cd8618",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Adidas apparel outshines footwear during World Cup quarter",
+          "url": "https://www.retaildive.com/news/adidas-apparel-outshines-footwear-world-cup-second-quarter-sales-jump/826596/",
+          "postedAt": "2026-07-30T16:19:00.000Z"
+        },
+        {
+          "id": "om_03ae2d0f23",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Snapchat shores up lead gen ads with new HubSpot integration",
+          "url": "https://www.marketingdive.com/news/snapchat-shores-up-lead-gen-ads-with-new-hubspot-integration/826552/",
+          "postedAt": "2026-07-30T16:00:00.000Z"
+        },
+        {
+          "id": "om_b9200db36a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "How Walmart uses AI to limit weather disruptions in its supply chain",
+          "url": "https://www.retaildive.com/news/walmart-uses-ai-limit-weather-disruptions-in-supply-chain/826560/",
+          "postedAt": "2026-07-30T15:53:00.000Z"
+        },
+        {
+          "id": "om_315f682a85",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Backroom: How long can the consumer hang on?",
+          "url": "https://www.retaildive.com/news/podcast-the-backroom-gap-happy-stripe-retail-q1/826557/",
+          "postedAt": "2026-07-30T15:44:00.000Z"
+        },
+        {
+          "id": "om_fd7229ccb1",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Why Nike is trying to reignite its sportswear business with a hoodie",
+          "url": "https://www.retaildive.com/news/nike-studio-fleece-launch-hoodies-sweatpants-sportswear/826581/",
+          "postedAt": "2026-07-30T15:24:00.000Z"
+        },
+        {
+          "id": "om_693dfcd56c",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta touts industry-leading ad revenue growth, but AI unease rises",
+          "url": "https://www.socialmediatoday.com/news/meta-touts-industry-leading-ad-revenue-growth-but-ai-unease-rises/826590/",
+          "postedAt": "2026-07-30T14:51:00.000Z"
+        },
+        {
+          "id": "om_ad1ae5f329",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Meta touts industry-leading ad revenue growth, but AI unease rises",
+          "url": "https://www.marketingdive.com/news/meta-touts-industry-leading-ad-revenue-growth-but-ai-unease-rises/826583/",
+          "postedAt": "2026-07-30T14:48:00.000Z"
+        },
+        {
+          "id": "om_d2f883e1bc",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Jameson teams with NFL as global sponsor amid spirits market struggles",
+          "url": "https://www.marketingdive.com/news/jameson-teams-with-nfl-as-global-sponsor-amid-spirits-market-struggles/826568/",
+          "postedAt": "2026-07-30T14:30:00.000Z"
+        },
+        {
+          "id": "om_7962b13dd1",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Stagwell’s Strong Q2 Anchored By Record New Business Haul",
+          "url": "https://www.adweek.com/agencies/stagwells-strong-q2-anchored-by-record-new-business-haul/",
+          "postedAt": "2026-07-30T14:19:06.000Z"
+        },
+        {
+          "id": "om_38292bbd3f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Brands Can Help Save Lives with The Trevor Project’s Jaymes Black",
+          "url": "https://www.adweek.com/brand-marketing/how-brands-can-help-save-lives-with-the-trevor-projects-jaymes-black/",
+          "postedAt": "2026-07-30T12:43:15.000Z"
+        },
+        {
+          "id": "om_73041ab6c5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "X and WFA Settle, but the Brand Safety Wars Are Far From Over",
+          "url": "https://www.adweek.com/media/x-and-wfa-settle-but-the-brand-safety-wars-are-far-from-over/",
+          "postedAt": "2026-07-30T12:34:44.000Z"
+        },
+        {
+          "id": "om_804a629693",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Marketing Vanguard at Cannes: Why Joy Makes Better Marketing ft. Todd Kaplan of Kraft Heinz",
+          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-why-joy-makes-better-marketing-ft-todd-kaplan-of-kraft-heinz/",
+          "postedAt": "2026-07-30T12:33:53.000Z"
+        },
+        {
           "id": "om_b21f87e4fa",
           "source": "Marketing Brew",
           "lang": "en",
@@ -520,160 +672,16 @@
           "postedAt": "2026-07-30T12:13:33.000Z"
         },
         {
-          "id": "om_70ee1b94c6",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "IRL streamers are brands’ biggest marketing opportunity",
-          "url": "https://www.marketingdive.com/news/irl-streamers-are-brands-biggest-marketing-opportunity/826281/",
-          "postedAt": "2026-07-30T12:00:00.000Z"
-        },
-        {
           "id": "om_c2741bff0a",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Heineken pilots OpenTable program that rewards designated drivers",
           "url": "https://www.marketingdive.com/news/heineken-pilots-opentable-program-that-rewards-designated-drivers/826292/",
           "postedAt": "2026-07-30T12:00:00.000Z"
-        },
-        {
-          "id": "om_f329c36320",
-          "source": "Wired",
-          "lang": "en",
-          "title": "‘Spider-Man: Brand New Day’ Is a Superhero Movie for Yearners",
-          "url": "https://www.wired.com/story/spider-man-brand-new-day-is-a-superhero-movie-for-yearners/",
-          "postedAt": "2026-07-30T11:00:00.000Z"
-        },
-        {
-          "id": "om_ee3749c14b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Back-to-school shoppers will prioritize essentials over apparel",
-          "url": "https://www.retaildive.com/news/back-to-school-shoppers-prioritize-essentials-apparel-sporting-goods/826456/",
-          "postedAt": "2026-07-29T16:03:00.000Z"
-        },
-        {
-          "id": "om_ca3c7ce6c5",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Vans needs a good back-to-school season more than ever",
-          "url": "https://www.retaildive.com/news/vans-needs-strong-back-to-school-season-vf-corp/826444/",
-          "postedAt": "2026-07-29T15:59:00.000Z"
-        },
-        {
-          "id": "om_fef697c140",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Shein’s US ambitions hindered by FTC investigation, tariffs",
-          "url": "https://www.retaildive.com/news/shein-us-business-ftc-investigation-tariff-costs-prices-hong-kong-ipo/826451/",
-          "postedAt": "2026-07-29T15:34:00.000Z"
-        },
-        {
-          "id": "om_677c40d7f2",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Kia takes a Reddit staple for a spin during WNBA All-Star Weekend",
-          "url": "https://www.marketingdive.com/news/kia-takes-a-reddit-staple-for-a-spin-during-wnba-all-star-weekend/826416/",
-          "postedAt": "2026-07-29T13:45:00.000Z"
-        },
-        {
-          "id": "om_26bcf70100",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Degree sweats it out with subway commuters for New York summer campaign",
-          "url": "https://www.marketingdive.com/news/degree-sweats-it-out-with-subway-commuters-for-new-york-summer-campaign/826407/",
-          "postedAt": "2026-07-29T13:28:00.000Z"
-        },
-        {
-          "id": "om_622dea6b1a",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "The Kansas City Current’s marketing coach is ‘Ted Lasso’",
-          "url": "https://www.marketingbrew.com/stories/kansas-city-current-ted-lasso-watch-party?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-29T13:00:00.000Z"
-        },
-        {
-          "id": "om_6809a3fd5d",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why Pantone sees color reflecting pushback on tech",
-          "url": "https://www.marketingbrew.com/stories/pantone-color-of-the-year-tech-pushback?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-28T20:25:31.000Z"
-        },
-        {
-          "id": "om_fefd9c94c1",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign",
-          "url": "https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign/",
-          "postedAt": "2026-07-28T20:15:19.000Z"
-        },
-        {
-          "id": "om_6997fc4b75",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why FX gave an iconic mall an ‘80s makeover to promote ‘The Shards’",
-          "url": "https://www.marketingdive.com/news/why-fx-gave-an-iconic-mall-an-80s-makeover-to-promote-the-shards/826299/",
-          "postedAt": "2026-07-28T18:23:00.000Z"
-        },
-        {
-          "id": "om_ff82b4f549",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Sephora names 12 beauty brands to accelerator cohort",
-          "url": "https://www.retaildive.com/news/sephora-beauty-brand-accelerator-cohort-2026/826360/",
-          "postedAt": "2026-07-28T15:54:00.000Z"
-        },
-        {
-          "id": "om_773f8cd737",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Brand licensing firm snaps up DTC intimates brand Cosabella",
-          "url": "https://www.retaildive.com/news/crown-brands-group-acquires-intimates-brand-cosabella/826336/",
-          "postedAt": "2026-07-28T15:39:00.000Z"
-        },
-        {
-          "id": "om_f0a78721fa",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Inside Canada Goose’s journey to reconnect with nature",
-          "url": "https://www.retaildive.com/news/canada-goose-natural-intelligence-lifestyle-marketing-push/826328/",
-          "postedAt": "2026-07-28T15:21:00.000Z"
-        },
-        {
-          "id": "om_a72be8e444",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Dollar General opens call for small business vendors",
-          "url": "https://www.retaildive.com/news/dollar-general-opens-call-small-business-vendors/826340/",
-          "postedAt": "2026-07-28T15:08:00.000Z"
-        },
-        {
-          "id": "om_2a75a059c9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Rare Beauty draws inspiration from Greek mythology for global campaign",
-          "url": "https://www.retaildive.com/news/rare-beauty-draws-inspiration-from-greek-mythology-for-global-campaign/826330/",
-          "postedAt": "2026-07-28T15:07:00.000Z"
-        },
-        {
-          "id": "om_278e35a1c0",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Popeyes spices up agency roster to deliver better brand consistency",
-          "url": "https://www.marketingdive.com/news/popeyes-spices-up-agency-roster-to-deliver-better-brand-consistency/826332/",
-          "postedAt": "2026-07-28T14:26:00.000Z"
-        },
-        {
-          "id": "om_014a0cdeed",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Hilton’s CMO on why brand marketing is an ‘irrational affinity business’",
-          "url": "https://www.marketingdive.com/news/hilton-cmo-on-why-brand-marketing-is-an-irrational-affinity-business/826246/",
-          "postedAt": "2026-07-28T12:53:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-30T14:30:17.740Z",
+      "lastUpdated": "2026-07-31T03:48:12.379Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
