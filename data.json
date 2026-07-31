@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-07-31T03:48:09.209Z",
+      "lastUpdated": "2026-07-31T14:32:54.210Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-31T03:48:10.719Z",
+      "lastUpdated": "2026-07-31T14:32:55.599Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -519,6 +519,38 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_d898bedfad",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Amazon’s live sports land grab helps boost ad segment to $19.8B in Q2",
+          "url": "https://www.marketingdive.com/news/amazons-live-sports-land-grab-helps-boost-ad-segment-in-q2/826692/",
+          "postedAt": "2026-07-31T14:25:00.000Z"
+        },
+        {
+          "id": "om_657d2e24dc",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Snickers’ ice cream line seeks help telling the internet to chill out",
+          "url": "https://www.marketingdive.com/news/snickers-ice-cream-line-seeks-help-telling-the-internet-to-chill-out/826577/",
+          "postedAt": "2026-07-31T13:00:00.000Z"
+        },
+        {
+          "id": "om_e598889e35",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Campaign Trail: Journeys amps up absurdity to break back-to-school conventions",
+          "url": "https://www.marketingdive.com/news/campaign-trail-journeys-amps-up-absurdity-to-break-back-to-school/826657/",
+          "postedAt": "2026-07-31T12:00:00.000Z"
+        },
+        {
+          "id": "om_cd0c80eafc",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 10 Campaigns That Caught Our Eye, From On to Reese’s",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-10-campaigns-that-caught-our-eye-from-on-to-reeses/",
+          "postedAt": "2026-07-31T06:00:00.000Z"
+        },
         {
           "id": "om_20e4534358",
           "source": "TechCrunch",
@@ -646,42 +678,10 @@
           "title": "How Brands Can Help Save Lives with The Trevor Project’s Jaymes Black",
           "url": "https://www.adweek.com/brand-marketing/how-brands-can-help-save-lives-with-the-trevor-projects-jaymes-black/",
           "postedAt": "2026-07-30T12:43:15.000Z"
-        },
-        {
-          "id": "om_73041ab6c5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "X and WFA Settle, but the Brand Safety Wars Are Far From Over",
-          "url": "https://www.adweek.com/media/x-and-wfa-settle-but-the-brand-safety-wars-are-far-from-over/",
-          "postedAt": "2026-07-30T12:34:44.000Z"
-        },
-        {
-          "id": "om_804a629693",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketing Vanguard at Cannes: Why Joy Makes Better Marketing ft. Todd Kaplan of Kraft Heinz",
-          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-why-joy-makes-better-marketing-ft-todd-kaplan-of-kraft-heinz/",
-          "postedAt": "2026-07-30T12:33:53.000Z"
-        },
-        {
-          "id": "om_b21f87e4fa",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How Tinder is getting people off the app and into the wild",
-          "url": "https://www.marketingbrew.com/stories/tinder-events-expansion?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-30T12:13:33.000Z"
-        },
-        {
-          "id": "om_c2741bff0a",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Heineken pilots OpenTable program that rewards designated drivers",
-          "url": "https://www.marketingdive.com/news/heineken-pilots-opentable-program-that-rewards-designated-drivers/826292/",
-          "postedAt": "2026-07-30T12:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-07-31T03:48:12.379Z",
+      "lastUpdated": "2026-07-31T14:32:56.937Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
