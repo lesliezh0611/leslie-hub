@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-01T13:53:19.351Z",
+      "lastUpdated": "2026-08-02T03:51:04.521Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_bfafd157dc",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: Getting started with open source models, making a U.S. business trip worth it, preparing for a possible layoff, when marketing can’t keep up with product, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-started",
+          "postedAt": "2026-08-01T17:25:18.000Z"
+        },
         {
           "id": "en_pod_the_knowledge_project_87f7ad064d",
           "source": "The Knowledge Project",
@@ -363,14 +371,6 @@
           "postedAt": "2026-07-20T15:01:56.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_8b48a93d56",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
-          "url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
-          "postedAt": "2026-07-20T12:04:47.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_2f63d88895",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-01T13:53:20.877Z",
+      "lastUpdated": "2026-08-02T03:51:06.333Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -519,6 +519,14 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_c15d14900b",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Spider-Man: Brand New Day leak racks up millions of views",
+          "url": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
+          "postedAt": "2026-08-01T17:00:12.000Z"
+        },
         {
           "id": "om_dc7efb8f75",
           "source": "Marketing Brew",
@@ -664,24 +672,16 @@
           "postedAt": "2026-07-30T15:53:00.000Z"
         },
         {
-          "id": "om_693dfcd56c",
-          "source": "Social Media Today",
+          "id": "om_36533368d4",
+          "source": "The Verge",
           "lang": "en",
-          "title": "Meta touts industry-leading ad revenue growth, but AI unease rises",
-          "url": "https://www.socialmediatoday.com/news/meta-touts-industry-leading-ad-revenue-growth-but-ai-unease-rises/826590/",
-          "postedAt": "2026-07-30T14:51:00.000Z"
-        },
-        {
-          "id": "om_ad1ae5f329",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Meta touts industry-leading ad revenue growth, but AI unease rises",
-          "url": "https://www.marketingdive.com/news/meta-touts-industry-leading-ad-revenue-growth-but-ai-unease-rises/826583/",
-          "postedAt": "2026-07-30T14:48:00.000Z"
+          "title": "The Verge’s 2026 back-to-school shopping guide",
+          "url": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
+          "postedAt": "2026-07-30T15:28:25.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-01T13:53:22.236Z",
+      "lastUpdated": "2026-08-02T03:51:08.082Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
