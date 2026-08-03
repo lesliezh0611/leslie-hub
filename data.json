@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-02T13:53:00.455Z",
+      "lastUpdated": "2026-08-03T03:52:35.853Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-02T13:53:02.171Z",
+      "lastUpdated": "2026-08-03T03:52:36.875Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,20 +520,20 @@
       },
       "articles": [
         {
+          "id": "om_99927c1129",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "LinkedIn reports solid Q2 revenue growth",
+          "url": "https://www.socialmediatoday.com/news/linkedin-reports-solid-q2-revenue-growth/826786/",
+          "postedAt": "2026-08-02T23:06:04.000Z"
+        },
+        {
           "id": "om_9d40a512e9",
           "source": "Wired",
           "lang": "en",
           "title": "Best Car Vacuums (2026): Handheld, Cordless, Shopping Tips",
           "url": "https://www.wired.com/story/best-car-vacuums/",
           "postedAt": "2026-08-02T10:35:00.000Z"
-        },
-        {
-          "id": "om_c15d14900b",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Spider-Man: Brand New Day leak racks up millions of views",
-          "url": "https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records",
-          "postedAt": "2026-08-01T17:00:12.000Z"
         },
         {
           "id": "om_dc7efb8f75",
@@ -681,7 +681,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-02T13:53:03.790Z",
+      "lastUpdated": "2026-08-03T03:52:38.234Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
