@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-03T03:52:35.853Z",
+      "lastUpdated": "2026-08-03T15:14:33.775Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_6955e8ae4f",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-chatgpt-codex-voice-browser",
+          "postedAt": "2026-08-03T15:02:21.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_c2fa047618",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+          "url": "https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites",
+          "postedAt": "2026-08-03T12:04:26.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_a3e0c8b82b",
           "source": "Lenny's Podcast",
@@ -355,22 +371,6 @@
           "postedAt": "2026-07-23T09:45:00.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_ea0c79e707",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Computer and browser use in Codex (5 real examples)",
-          "url": "https://www.lennysnewsletter.com/p/computer-and-browser-use-in-codex",
-          "postedAt": "2026-07-22T12:03:38.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_6afe0a5e65",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Why a sabbatical can change everything",
-          "url": "https://www.lennysnewsletter.com/p/how-to-take-a-sabbatical",
-          "postedAt": "2026-07-21T12:45:10.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_2f63d88895",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-03T03:52:36.875Z",
+      "lastUpdated": "2026-08-03T15:14:34.876Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,86 @@
       },
       "articles": [
         {
+          "id": "om_fa7993c674",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon customers are embracing Alexa for Shopping",
+          "url": "https://www.retaildive.com/news/amazon-alexa-for-shopping-agentic-ai-adoption/826806/",
+          "postedAt": "2026-08-03T14:58:00.000Z"
+        },
+        {
+          "id": "om_ee84883fb2",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "John Peyton thought Applebee’s ‘Survivor’ tie-in was ‘the dumbest thing’ he had ever heard. He was wrong",
+          "url": "https://www.marketingbrew.com/stories/john-peyton-applebees-survivor?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-03T14:00:00.000Z"
+        },
+        {
+          "id": "om_026bc37cf4",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Express nods to its Y2K heyday in campaign that unites fashion, music",
+          "url": "https://www.marketingdive.com/news/express-nods-to-its-y2k-heyday-in-campaign-that-unites-fashion-music/826684/",
+          "postedAt": "2026-08-03T13:27:00.000Z"
+        },
+        {
+          "id": "om_24d6670828",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Goldfish blends nostalgia with better-for-you messaging in new ads",
+          "url": "https://www.marketingdive.com/news/goldfish-blends-nostalgia-with-better-for-you-messaging-in-new-ads/826760/",
+          "postedAt": "2026-08-03T13:18:00.000Z"
+        },
+        {
+          "id": "om_8a7353640a",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "The perks of being a creator executive",
+          "url": "https://www.marketingbrew.com/stories/nadya-okamoto-pie-cmo?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-03T13:00:00.000Z"
+        },
+        {
+          "id": "om_0ddf3fef88",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The promise retailers keep breaking (and why the data is to blame)",
+          "url": "https://www.retaildive.com/spons/the-promise-retailers-keep-breaking-and-why-the-data-is-to-blame/825616/",
+          "postedAt": "2026-08-03T09:00:00.000Z"
+        },
+        {
+          "id": "om_9ac675dc18",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The AI performance question retail isn’t asking",
+          "url": "https://www.retaildive.com/spons/the-ai-performance-question-retail-isnt-asking/826050/",
+          "postedAt": "2026-08-03T09:00:00.000Z"
+        },
+        {
+          "id": "om_4d3957682f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Agentic Marketers: Bayer, Zoom, and More Reveal Their Biggest AI Wins",
+          "url": "https://www.adweek.com/brand-marketing/agentic-marketers-bayer-zoom-and-more-reveal-their-biggest-ai-wins/",
+          "postedAt": "2026-08-03T06:00:00.000Z"
+        },
+        {
+          "id": "om_7d516dab76",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK Creativity Advantage: Brands Must Cede Control In Their World-Building Era",
+          "url": "https://www.adweek.com/creativity/adweek-creativity-advantage-brands-must-cede-control-in-their-world-building-era/",
+          "postedAt": "2026-08-03T06:00:00.000Z"
+        },
+        {
+          "id": "om_c537c7beb7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK Agencies Advantage: Agencies Must Look Beyond Advertising for Growth",
+          "url": "https://www.adweek.com/agencies/adweek-agencies-advantage-agencies-must-look-beyond-advertising-for-growth/",
+          "postedAt": "2026-08-03T06:00:00.000Z"
+        },
+        {
           "id": "om_99927c1129",
           "source": "Social Media Today",
           "lang": "en",
@@ -598,90 +678,10 @@
           "title": "Snickers’ ice cream line seeks help telling the internet to chill out",
           "url": "https://www.marketingdive.com/news/snickers-ice-cream-line-seeks-help-telling-the-internet-to-chill-out/826577/",
           "postedAt": "2026-07-31T13:00:00.000Z"
-        },
-        {
-          "id": "om_e598889e35",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Campaign Trail: Journeys amps up absurdity to break back-to-school conventions",
-          "url": "https://www.marketingdive.com/news/campaign-trail-journeys-amps-up-absurdity-to-break-back-to-school/826657/",
-          "postedAt": "2026-07-31T12:00:00.000Z"
-        },
-        {
-          "id": "om_cd0c80eafc",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 10 Campaigns That Caught Our Eye, From On to Reese’s",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-10-campaigns-that-caught-our-eye-from-on-to-reeses/",
-          "postedAt": "2026-07-31T06:00:00.000Z"
-        },
-        {
-          "id": "om_18a122328e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Amazon’s Ad Revenue Hits $76B Over the Past 12 Months",
-          "url": "https://www.adweek.com/commerce/amazons-ad-revenue-hits-76b/",
-          "postedAt": "2026-07-30T18:23:25.000Z"
-        },
-        {
-          "id": "om_96b1fb7a3b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Kohl’s debuts AI shopping assistant",
-          "url": "https://www.retaildive.com/news/kohls-ai-shopping-assistant/826585/",
-          "postedAt": "2026-07-30T18:15:00.000Z"
-        },
-        {
-          "id": "om_dec5a7e195",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "After Viral Fame, Stanley 1913 Chooses New AOR Born Social",
-          "url": "https://www.adweek.com/agencies/after-viral-fame-stanley-1913-chooses-new-aor-born-social/",
-          "postedAt": "2026-07-30T17:36:08.000Z"
-        },
-        {
-          "id": "om_d9fc48a94d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Crocs tops $1B in quarterly revenue for the first time",
-          "url": "https://www.retaildive.com/news/crocs-tops-one-billion-first-time-q2-earnings-sales-growth/826574/",
-          "postedAt": "2026-07-30T16:33:00.000Z"
-        },
-        {
-          "id": "om_1e981dcfe8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "New Jersey bans dynamic pricing",
-          "url": "https://www.retaildive.com/news/new-jersey-bans-dynamic-pricing/826563/",
-          "postedAt": "2026-07-30T16:31:00.000Z"
-        },
-        {
-          "id": "om_0072cd8618",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Adidas apparel outshines footwear during World Cup quarter",
-          "url": "https://www.retaildive.com/news/adidas-apparel-outshines-footwear-world-cup-second-quarter-sales-jump/826596/",
-          "postedAt": "2026-07-30T16:19:00.000Z"
-        },
-        {
-          "id": "om_03ae2d0f23",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Snapchat shores up lead gen ads with new HubSpot integration",
-          "url": "https://www.marketingdive.com/news/snapchat-shores-up-lead-gen-ads-with-new-hubspot-integration/826552/",
-          "postedAt": "2026-07-30T16:00:00.000Z"
-        },
-        {
-          "id": "om_b9200db36a",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "How Walmart uses AI to limit weather disruptions in its supply chain",
-          "url": "https://www.retaildive.com/news/walmart-uses-ai-limit-weather-disruptions-in-supply-chain/826560/",
-          "postedAt": "2026-07-30T15:53:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-03T03:52:38.234Z",
+      "lastUpdated": "2026-08-03T15:14:35.957Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
