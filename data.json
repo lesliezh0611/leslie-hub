@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-04T03:35:11.082Z",
+      "lastUpdated": "2026-08-04T14:38:04.712Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -267,6 +267,14 @@
       ],
       "podcasts": [
         {
+          "id": "en_pod_lenny_s_podcast_aa1b496b1d",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "What if you’re not supposed to have a long-term plan?",
+          "url": "https://www.lennysnewsletter.com/p/what-if-youre-not-supposed-to-have",
+          "postedAt": "2026-08-04T13:02:53.000Z"
+        },
+        {
           "id": "en_pod_lenny_s_podcast_6955e8ae4f",
           "source": "Lenny's Podcast",
           "platform": "newsletter",
@@ -302,7 +310,7 @@
           "id": "en_pod_the_knowledge_project_87f7ad064d",
           "source": "The Knowledge Project",
           "platform": "podcast",
-          "topic": "The Psychology Behind Building Billion-Dollar Companies | Brad Jacobs",
+          "topic": "The Mindset Behind Building Billion-Dollar Companies | Brad Jacobs",
           "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
           "postedAt": "2026-07-30T09:45:00.000Z"
         },
@@ -353,14 +361,6 @@
           "topic": "🧠 Community Wisdom: Staying on a client’s radar during pilot purgatory, pairing Linear with a discovery tool, the limits of what AI can automate, whether Techstars is worth it, and more",
           "url": "https://www.lennysnewsletter.com/p/community-wisdom-staying-on-a-clients",
           "postedAt": "2026-07-25T16:01:44.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_e306ea5389",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Claude Opus 5 review: this model is brilliant (but annoying)",
-          "url": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
-          "postedAt": "2026-07-24T17:15:25.000Z"
         },
         {
           "id": "en_pod_the_knowledge_project_aacf9e1760",
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-04T03:35:12.804Z",
+      "lastUpdated": "2026-08-04T14:38:06.004Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,78 @@
       },
       "articles": [
         {
+          "id": "om_95e06c1927",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart, Wing launch drone delivery service in Florida",
+          "url": "https://www.retaildive.com/news/walmart-wing-launch-drone-delivery-florida/826841/",
+          "postedAt": "2026-08-04T13:56:00.000Z"
+        },
+        {
+          "id": "om_43f32aa25c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Retailers — eager for cash — sell off rights to potential tariff refunds",
+          "url": "https://www.retaildive.com/news/retailers-eager-for-cash-sell-off-rights-to-potential-tariff-refunds/823704/",
+          "postedAt": "2026-08-04T13:32:00.000Z"
+        },
+        {
+          "id": "om_c10a6750d3",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Marketing startup Pie attracts latest investor: AmEx Ventures",
+          "url": "https://www.marketingbrew.com/stories/marketing-startup-pie-amex-ventures-investment?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-04T12:00:00.000Z"
+        },
+        {
+          "id": "om_f3d6e47ef7",
+          "source": "Wired",
+          "lang": "en",
+          "title": "The Best Cordless Vacuums (2026): My Brand-New Top Pick",
+          "url": "https://www.wired.com/gallery/the-best-cordless-vacuum/",
+          "postedAt": "2026-08-04T11:01:00.000Z"
+        },
+        {
+          "id": "om_c4ad29b544",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK Brand Advantage: Nostalgia Marketing Needs a Gen Alpha Strategy",
+          "url": "https://www.adweek.com/brand-marketing/adweek-brand-advantage-nostalgia-marketing-needs-a-gen-alpha-strategy/",
+          "postedAt": "2026-08-04T06:00:00.000Z"
+        },
+        {
+          "id": "om_8f07b8416f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Grubhub and 40 Other Brands Test In-App Measurement in ChatGPT Ads",
+          "url": "https://www.adweek.com/media/grubhub-and-40-other-brands-test-in-app-measurement-in-chatgpt-ads/",
+          "postedAt": "2026-08-04T06:00:00.000Z"
+        },
+        {
+          "id": "om_d4892e4e20",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Creators Are the New Media Moguls. But Scaling a Face Is Harder Than It Looks",
+          "url": "https://www.adweek.com/media/creators-new-media-moguls-scaling-social-media-star-challenges/",
+          "postedAt": "2026-08-04T06:00:00.000Z"
+        },
+        {
+          "id": "om_f489304057",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK’s 2026 Tech Stack Awards: Because Data Is Only as Good as Marketers’ Ability to Act On It",
+          "url": "https://www.adweek.com/brand-marketing/2026-tech-stack-awards-ai-data-marketing-technology/",
+          "postedAt": "2026-08-04T06:00:00.000Z"
+        },
+        {
+          "id": "om_a206ac16f4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK’s 2026 Media Plan of the Year: Outstanding Strategies for Changing the Conversation",
+          "url": "https://www.adweek.com/agencies/2026-media-plan-of-the-year-strategies-changing-conversation/",
+          "postedAt": "2026-08-04T06:00:00.000Z"
+        },
+        {
           "id": "om_b9d403f404",
           "source": "Social Media Today",
           "lang": "en",
@@ -606,82 +678,10 @@
           "title": "Jazzercise Taps Super Nice to Ride the Nostalgia Wave Back to Relevance",
           "url": "https://www.adweek.com/agencies/jazzercise-taps-super-nice-to-ride-the-nostalgia-wave-back-to-relevance/",
           "postedAt": "2026-08-03T15:06:28.000Z"
-        },
-        {
-          "id": "om_fa7993c674",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon customers are embracing Alexa for Shopping",
-          "url": "https://www.retaildive.com/news/amazon-alexa-for-shopping-agentic-ai-adoption/826806/",
-          "postedAt": "2026-08-03T14:58:00.000Z"
-        },
-        {
-          "id": "om_ee84883fb2",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "John Peyton thought Applebee’s ‘Survivor’ tie-in was ‘the dumbest thing’ he had ever heard. He was wrong",
-          "url": "https://www.marketingbrew.com/stories/john-peyton-applebees-survivor?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-03T14:00:00.000Z"
-        },
-        {
-          "id": "om_026bc37cf4",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Express nods to its Y2K heyday in campaign that unites fashion, music",
-          "url": "https://www.marketingdive.com/news/express-nods-to-its-y2k-heyday-in-campaign-that-unites-fashion-music/826684/",
-          "postedAt": "2026-08-03T13:27:00.000Z"
-        },
-        {
-          "id": "om_24d6670828",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Goldfish blends nostalgia with better-for-you messaging in new ads",
-          "url": "https://www.marketingdive.com/news/goldfish-blends-nostalgia-with-better-for-you-messaging-in-new-ads/826760/",
-          "postedAt": "2026-08-03T13:18:00.000Z"
-        },
-        {
-          "id": "om_8a7353640a",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "The perks of being a creator executive",
-          "url": "https://www.marketingbrew.com/stories/nadya-okamoto-pie-cmo?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-03T13:00:00.000Z"
-        },
-        {
-          "id": "om_0ddf3fef88",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The promise retailers keep breaking (and why the data is to blame)",
-          "url": "https://www.retaildive.com/spons/the-promise-retailers-keep-breaking-and-why-the-data-is-to-blame/825616/",
-          "postedAt": "2026-08-03T09:00:00.000Z"
-        },
-        {
-          "id": "om_9ac675dc18",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The AI performance question retail isn’t asking",
-          "url": "https://www.retaildive.com/spons/the-ai-performance-question-retail-isnt-asking/826050/",
-          "postedAt": "2026-08-03T09:00:00.000Z"
-        },
-        {
-          "id": "om_4d3957682f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Agentic Marketers: Bayer, Zoom, and More Reveal Their Biggest AI Wins",
-          "url": "https://www.adweek.com/brand-marketing/agentic-marketers-bayer-zoom-and-more-reveal-their-biggest-ai-wins/",
-          "postedAt": "2026-08-03T06:00:00.000Z"
-        },
-        {
-          "id": "om_7d516dab76",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK Creativity Advantage: Brands Must Cede Control In Their World-Building Era",
-          "url": "https://www.adweek.com/creativity/adweek-creativity-advantage-brands-must-cede-control-in-their-world-building-era/",
-          "postedAt": "2026-08-03T06:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-04T03:35:18.156Z",
+      "lastUpdated": "2026-08-04T14:38:07.132Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
