@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-03T15:14:33.775Z",
+      "lastUpdated": "2026-08-04T03:35:11.082Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-03T15:14:34.876Z",
+      "lastUpdated": "2026-08-04T03:35:12.804Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,94 @@
       },
       "articles": [
         {
+          "id": "om_b9d403f404",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok rolls out Dreamina Seedance 2.5",
+          "url": "https://www.socialmediatoday.com/news/tiktok-rolls-out-dreamina-seedance-25/826905/",
+          "postedAt": "2026-08-03T21:36:14.000Z"
+        },
+        {
+          "id": "om_ec626ce2f2",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "LinkedIn shares guidance on effective event marketing",
+          "url": "https://www.socialmediatoday.com/news/linkedin-shares-guidance-on-effective-event-marketing/826902/",
+          "postedAt": "2026-08-03T21:21:22.000Z"
+        },
+        {
+          "id": "om_daff374569",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Pinterest tells brands to launch holiday campaigns early",
+          "url": "https://www.socialmediatoday.com/news/pinterest-tells-brands-to-launch-holiday-campaigns-early/826898/",
+          "postedAt": "2026-08-03T21:00:10.000Z"
+        },
+        {
+          "id": "om_52116e7a3a",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+          "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+          "postedAt": "2026-08-03T19:28:57.000Z"
+        },
+        {
+          "id": "om_0295a9d611",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+          "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+          "postedAt": "2026-08-03T19:09:56.000Z"
+        },
+        {
+          "id": "om_8bee15f992",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why this head of insights thinks data is critical to reaching untapped fandoms",
+          "url": "https://www.marketingbrew.com/stories/nielsen-global-marketing-charlene-polite-corley-q-and-a?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-03T19:05:49.000Z"
+        },
+        {
+          "id": "om_5ad078e79a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Domino’s pays diners to beta test its relaunched app, website",
+          "url": "https://www.marketingdive.com/news/dominos-pays-diners-to-beta-test-its-relaunched-website-app/826846/",
+          "postedAt": "2026-08-03T18:04:00.000Z"
+        },
+        {
+          "id": "om_00c8ec6586",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "As AI reshapes brand visibility, IAB attempts to clean up measurement",
+          "url": "https://www.marketingdive.com/news/iab-shares-playbook-for-measuring-brand-visibility-in-ai-powered-platforms/826830/",
+          "postedAt": "2026-08-03T15:50:00.000Z"
+        },
+        {
+          "id": "om_7110a7c828",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon to add supply chain facilities in New York, Texas",
+          "url": "https://www.retaildive.com/news/amazon-adds-supply-chain-facilities-new-york-texas/826447/",
+          "postedAt": "2026-08-03T15:20:00.000Z"
+        },
+        {
+          "id": "om_4dad55ffd7",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Digital Brands Group considers sale, merger",
+          "url": "https://www.retaildive.com/news/digital-brands-group-strategic-review-sale-merger/826813/",
+          "postedAt": "2026-08-03T15:09:00.000Z"
+        },
+        {
+          "id": "om_64df968a2c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Jazzercise Taps Super Nice to Ride the Nostalgia Wave Back to Relevance",
+          "url": "https://www.adweek.com/agencies/jazzercise-taps-super-nice-to-ride-the-nostalgia-wave-back-to-relevance/",
+          "postedAt": "2026-08-03T15:06:28.000Z"
+        },
+        {
           "id": "om_fa7993c674",
           "source": "Retail Dive",
           "lang": "en",
@@ -590,98 +678,10 @@
           "title": "ADWEEK Creativity Advantage: Brands Must Cede Control In Their World-Building Era",
           "url": "https://www.adweek.com/creativity/adweek-creativity-advantage-brands-must-cede-control-in-their-world-building-era/",
           "postedAt": "2026-08-03T06:00:00.000Z"
-        },
-        {
-          "id": "om_c537c7beb7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK Agencies Advantage: Agencies Must Look Beyond Advertising for Growth",
-          "url": "https://www.adweek.com/agencies/adweek-agencies-advantage-agencies-must-look-beyond-advertising-for-growth/",
-          "postedAt": "2026-08-03T06:00:00.000Z"
-        },
-        {
-          "id": "om_99927c1129",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "LinkedIn reports solid Q2 revenue growth",
-          "url": "https://www.socialmediatoday.com/news/linkedin-reports-solid-q2-revenue-growth/826786/",
-          "postedAt": "2026-08-02T23:06:04.000Z"
-        },
-        {
-          "id": "om_9d40a512e9",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Best Car Vacuums (2026): Handheld, Cordless, Shopping Tips",
-          "url": "https://www.wired.com/story/best-car-vacuums/",
-          "postedAt": "2026-08-02T10:35:00.000Z"
-        },
-        {
-          "id": "om_dc7efb8f75",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "OpenAI lays out ad-credit policies",
-          "url": "https://www.marketingbrew.com/stories/openai-ad-credit-policies?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-07-31T16:22:39.000Z"
-        },
-        {
-          "id": "om_6577411606",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Shark Week Continues to Make a Big Marketing Splash Year After Year",
-          "url": "https://www.adweek.com/convergent-tv/how-shark-week-continues-to-make-a-big-marketing-splash-year-after-year/",
-          "postedAt": "2026-07-31T16:20:43.000Z"
-        },
-        {
-          "id": "om_33bedcfea8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "NRF finds shoplifting stabilizing as online fraud grows",
-          "url": "https://www.retaildive.com/news/nrf-shoplifting-stabilizing-online-gift-card-fraud-grows/826710/",
-          "postedAt": "2026-07-31T16:01:00.000Z"
-        },
-        {
-          "id": "om_c87f858bf0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Stagwell Doubles New Business Team as Holdco Competition Heats Up, Says CEO Mark Penn",
-          "url": "https://www.adweek.com/agencies/stagwell-doubles-new-business-team-as-holdco-competition-heats-up-says-ceo-mark-penn/",
-          "postedAt": "2026-07-31T15:21:39.000Z"
-        },
-        {
-          "id": "om_59af3bf933",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Weekly Closeout: Macy’s disappearing billboard and Reformation’s IPO",
-          "url": "https://www.retaildive.com/news/macys-new-york-billboard-reformation-ipo/826618/",
-          "postedAt": "2026-07-31T15:18:00.000Z"
-        },
-        {
-          "id": "om_e79de7b732",
-          "source": "Wired",
-          "lang": "en",
-          "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
-          "url": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
-          "postedAt": "2026-07-31T15:00:09.000Z"
-        },
-        {
-          "id": "om_d898bedfad",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Amazon’s live sports land grab helps boost ad segment to $19.8B in Q2",
-          "url": "https://www.marketingdive.com/news/amazons-live-sports-land-grab-helps-boost-ad-segment-in-q2/826692/",
-          "postedAt": "2026-07-31T14:25:00.000Z"
-        },
-        {
-          "id": "om_657d2e24dc",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Snickers’ ice cream line seeks help telling the internet to chill out",
-          "url": "https://www.marketingdive.com/news/snickers-ice-cream-line-seeks-help-telling-the-internet-to-chill-out/826577/",
-          "postedAt": "2026-07-31T13:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-03T15:14:35.957Z",
+      "lastUpdated": "2026-08-04T03:35:18.156Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
