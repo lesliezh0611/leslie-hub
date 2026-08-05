@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-05T03:30:48.044Z",
+      "lastUpdated": "2026-08-05T14:30:54.679Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_913d74e3f6",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Build an AI code review bot in 30 minutes with Vercel Eve",
+          "url": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
+          "postedAt": "2026-08-05T12:04:01.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_aa1b496b1d",
           "source": "Lenny's Podcast",
@@ -355,14 +363,6 @@
           "postedAt": "2026-07-26T12:32:06.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_fa3c8fe85e",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Staying on a client’s radar during pilot purgatory, pairing Linear with a discovery tool, the limits of what AI can automate, whether Techstars is worth it, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-staying-on-a-clients",
-          "postedAt": "2026-07-25T16:01:44.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_aacf9e1760",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-05T03:30:49.333Z",
+      "lastUpdated": "2026-08-05T14:30:55.973Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,54 @@
       },
       "articles": [
         {
+          "id": "om_a57a126957",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Disney+ looks to TikTok creators to bring fan content to its short-form video feed",
+          "url": "https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/",
+          "postedAt": "2026-08-05T13:21:43.000Z"
+        },
+        {
+          "id": "om_c1323341c5",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How 5 brands won World Cup gold through marketing investments",
+          "url": "https://www.marketingdive.com/news/how-5-brands-won-world-cup-gold-through-marketing-investments/826954/",
+          "postedAt": "2026-08-05T12:00:00.000Z"
+        },
+        {
+          "id": "om_75c61e7235",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Disney gives TikTok creators official access to Marvel, Star Wars, and Pixar characters",
+          "url": "https://www.theverge.com/streaming/975520/disney-tiktok-partnership-verts-streaming",
+          "postedAt": "2026-08-05T11:38:49.000Z"
+        },
+        {
+          "id": "om_152dc4aaf5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK Tech Advantage: Publishers Pull Back from Google AI Search, Creators Push On",
+          "url": "https://www.adweek.com/media/adweek-tech-advantage-publishers-pull-back-from-google-ai-search-while-creators-push-on/",
+          "postedAt": "2026-08-05T06:00:00.000Z"
+        },
+        {
+          "id": "om_c96baae888",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The BAM Connection’s Rob Baiocco Applies the Lessons of Martial Arts to Advertising",
+          "url": "https://www.adweek.com/agencies/the-bam-connections-rob-baiocco-applies-the-lessons-of-martial-arts-to-advertising/",
+          "postedAt": "2026-08-05T06:00:00.000Z"
+        },
+        {
+          "id": "om_66020bd972",
+          "source": "Wired",
+          "lang": "en",
+          "title": "AI Influencers Are Heading Into Uncharted Territory",
+          "url": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
+          "postedAt": "2026-08-05T00:00:00.000Z"
+        },
+        {
           "id": "om_e535910b95",
           "source": "Social Media Today",
           "lang": "en",
@@ -534,14 +582,6 @@
           "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
           "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
           "postedAt": "2026-08-04T20:36:30.000Z"
-        },
-        {
-          "id": "om_f74b40f658",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "How an OpenAI influencer trip backfired",
-          "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-          "postedAt": "2026-08-04T18:16:11.000Z"
         },
         {
           "id": "om_472ce7bc2e",
@@ -584,28 +624,12 @@
           "postedAt": "2026-08-04T16:05:00.000Z"
         },
         {
-          "id": "om_2fd75f11dd",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Spotify expands AI remix and covers project with Merlin partnership",
-          "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-          "postedAt": "2026-08-04T15:50:06.000Z"
-        },
-        {
           "id": "om_acebe591ff",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Express nods to its Y2K heyday in campaign that unites fashion, music",
           "url": "https://www.retaildive.com/news/express-nods-to-its-y2k-heyday-in-campaign-that-unites-fashion-music/826923/",
           "postedAt": "2026-08-04T15:49:00.000Z"
-        },
-        {
-          "id": "om_5ad9e22428",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
-          "url": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
-          "postedAt": "2026-08-04T15:38:22.000Z"
         },
         {
           "id": "om_433aa5d120",
@@ -654,34 +678,10 @@
           "title": "Walmart, Wing launch drone delivery service in Florida",
           "url": "https://www.retaildive.com/news/walmart-wing-launch-drone-delivery-florida/826841/",
           "postedAt": "2026-08-04T13:56:00.000Z"
-        },
-        {
-          "id": "om_43f32aa25c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Retailers — eager for cash — sell off rights to potential tariff refunds",
-          "url": "https://www.retaildive.com/news/retailers-eager-for-cash-sell-off-rights-to-potential-tariff-refunds/823704/",
-          "postedAt": "2026-08-04T13:32:00.000Z"
-        },
-        {
-          "id": "om_5017e6df21",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Walmart Closes Vibe.co Acquisition, Signaling a Big Push Into Ad-Supported Streaming to Compete With Amazon",
-          "url": "https://www.adweek.com/commerce/walmart-acquire-vibe-co-ad-supported-streaming-compete-amazon/",
-          "postedAt": "2026-08-04T13:29:29.000Z"
-        },
-        {
-          "id": "om_ff85536b67",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketing Vanguard at Cannes: AI Is Moving From Fear to Confidence ft. Lara Balazs of Adobe",
-          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-ai-is-moving-from-fear-to-confidence-ft-lara-balazs-of-adobe/",
-          "postedAt": "2026-08-04T12:53:15.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-05T03:30:50.376Z",
+      "lastUpdated": "2026-08-05T14:30:57.216Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
