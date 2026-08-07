@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-07T03:14:11.629Z",
+      "lastUpdated": "2026-08-07T13:37:20.388Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-07T03:14:13.224Z",
+      "lastUpdated": "2026-08-07T13:37:21.577Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,30 @@
       },
       "articles": [
         {
+          "id": "om_abe12dc061",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Foot Locker ties up role in sneaker culture with new brand platform",
+          "url": "https://www.marketingdive.com/news/foot-locker-sizes-up-role-in-sneaker-culture-with-new-brand-platform/827210/",
+          "postedAt": "2026-08-07T13:00:00.000Z"
+        },
+        {
+          "id": "om_d8259196fe",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 9 Campaigns That Caught Our Eye, From Heineken to Goldfish",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-9-campaigns-that-caught-our-eye-from-heineken-to-goldfish/",
+          "postedAt": "2026-08-07T06:00:00.000Z"
+        },
+        {
+          "id": "om_b451a68c9b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK TV Advantage: World Cup Reveals 3 Marketing Lessons to Add a Real Kick",
+          "url": "https://www.adweek.com/convergent-tv/adweek-tv-advantage-world-cup-reveals-3-marketing-lessons/",
+          "postedAt": "2026-08-07T06:00:00.000Z"
+        },
+        {
           "id": "om_cb31d6816b",
           "source": "Social Media Today",
           "lang": "en",
@@ -542,14 +566,6 @@
           "title": "The Trade Desk CEO Jeff Green Says Sluggish 3% Revenue Growth ‘Not a Reflection’ of the Company",
           "url": "https://www.adweek.com/programmatic/the-trade-desk-ceo-jeff-green-says-sluggish-3-revenue-growth-not-a-reflection-of-the-company/",
           "postedAt": "2026-08-06T18:26:32.000Z"
-        },
-        {
-          "id": "om_b9f202fd5e",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "TikTok blames ‘moderator error’ on slow response to Perez Hilton livestream",
-          "url": "https://www.theverge.com/tech/976228/tiktok-perez-hilton-livestream-moderator-error",
-          "postedAt": "2026-08-06T17:18:22.000Z"
         },
         {
           "id": "om_a7508f9609",
@@ -654,26 +670,10 @@
           "title": "Lilly’s women’s sports push gets assist from WNBA on Prime campaign",
           "url": "https://www.marketingdive.com/news/lillys-womens-sports-push-gets-assist-from-wnba-on-prime-campaign/827059/",
           "postedAt": "2026-08-06T12:51:00.000Z"
-        },
-        {
-          "id": "om_c44b3b6edd",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Coke and Visa Score, Adidas and McDonald’s Fumble on Pricey World Cup Sponsorships",
-          "url": "https://www.adweek.com/brand-marketing/coke-and-visa-score-adidas-and-mcdonalds-fumble-on-pricey-world-cup-sponsorships/",
-          "postedAt": "2026-08-06T10:52:14.000Z"
-        },
-        {
-          "id": "om_abc5e09ad3",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok partners with Disney",
-          "url": "https://www.socialmediatoday.com/news/tiktok-partners-with-disney/827168/",
-          "postedAt": "2026-08-05T21:42:40.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-07T03:14:15.036Z",
+      "lastUpdated": "2026-08-07T13:37:22.506Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
