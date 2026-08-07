@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-06T14:33:24.581Z",
+      "lastUpdated": "2026-08-07T03:14:11.629Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-06T14:33:26.185Z",
+      "lastUpdated": "2026-08-07T03:14:13.224Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,110 @@
       },
       "articles": [
         {
+          "id": "om_cb31d6816b",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "YouTube expands shopping affiliate program to the UK",
+          "url": "https://www.socialmediatoday.com/news/youtube-expands-shopping-affiliate-program-to-the-uk/827294/",
+          "postedAt": "2026-08-06T23:14:50.000Z"
+        },
+        {
+          "id": "om_a26f1609db",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok shutters Nashville office, lays off 250 employees",
+          "url": "https://www.socialmediatoday.com/news/tiktok-shutters-nashville-office-lays-off-250-employees/827290/",
+          "postedAt": "2026-08-06T21:44:32.000Z"
+        },
+        {
+          "id": "om_c57df0e19b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Omnicom Wins U.S. Media Account for Ozempic and Wegovy Maker Novo Nordisk",
+          "url": "https://www.adweek.com/agencies/omnicom-wins-us-media-account-for-ozempic-and-wegovy-maker-novo-nordisk/",
+          "postedAt": "2026-08-06T19:01:06.000Z"
+        },
+        {
+          "id": "om_35b37364f1",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Trade Desk CEO Jeff Green Says Sluggish 3% Revenue Growth ‘Not a Reflection’ of the Company",
+          "url": "https://www.adweek.com/programmatic/the-trade-desk-ceo-jeff-green-says-sluggish-3-revenue-growth-not-a-reflection-of-the-company/",
+          "postedAt": "2026-08-06T18:26:32.000Z"
+        },
+        {
+          "id": "om_b9f202fd5e",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "TikTok blames ‘moderator error’ on slow response to Perez Hilton livestream",
+          "url": "https://www.theverge.com/tech/976228/tiktok-perez-hilton-livestream-moderator-error",
+          "postedAt": "2026-08-06T17:18:22.000Z"
+        },
+        {
+          "id": "om_a7508f9609",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Hacker pleads guilty to stealing data from more than 165 Snowflake customers",
+          "url": "https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/",
+          "postedAt": "2026-08-06T16:42:40.000Z"
+        },
+        {
+          "id": "om_23c6afc2ba",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: Snapchat tries to teach brands to be funny",
+          "url": "https://www.marketingdive.com/news/sociable-snapchat-tries-to-teach-brands-to-be-funny/827235/",
+          "postedAt": "2026-08-06T16:21:00.000Z"
+        },
+        {
+          "id": "om_a57d966141",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How to pull off a brand pop-up",
+          "url": "https://www.marketingbrew.com/stories/how-to-pull-off-a-brand-pop-up?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-06T16:07:09.000Z"
+        },
+        {
+          "id": "om_b4470c6331",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "TikTok lays off 250 employees, shutters its Nashville office",
+          "url": "https://techcrunch.com/2026/08/06/tiktok-lays-off-250-employees-shutters-its-nashville-office/",
+          "postedAt": "2026-08-06T16:06:40.000Z"
+        },
+        {
+          "id": "om_68e485523c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Digital Brands Group weighs shareholder cash deal",
+          "url": "https://www.retaildive.com/news/digital-brands-group-weighs-shareholder-cash-deal/827208/",
+          "postedAt": "2026-08-06T15:20:00.000Z"
+        },
+        {
+          "id": "om_1e4f516778",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Kraft Heinz pours nearly $100M more into marketing to drive turnaround",
+          "url": "https://www.marketingdive.com/news/kraft-heinz-zeroes-in-on-marketing-as-it-pours-another-100m-into-turnaroun/827183/",
+          "postedAt": "2026-08-06T14:52:00.000Z"
+        },
+        {
+          "id": "om_fc9c3dbe04",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Papa Johns changes CMOs, ramps up mass marketing amid struggles",
+          "url": "https://www.marketingdive.com/news/papa-johns-changes-cmo-role-ramps-up-mass-marketing-amid-struggles/827203/",
+          "postedAt": "2026-08-06T14:39:00.000Z"
+        },
+        {
+          "id": "om_f67275a27c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Retail Roundup: 6 Commerce Media Moves from Walmart, Michaels, and 7-Eleven",
+          "url": "https://www.adweek.com/commerce/retail-roundup-6-commerce-media-moves-from-walmart-michaels-and-7-eleven/",
+          "postedAt": "2026-08-06T14:33:52.000Z"
+        },
+        {
           "id": "om_34ac0f6dbe",
           "source": "TechCrunch",
           "lang": "en",
@@ -536,14 +640,6 @@
           "postedAt": "2026-08-06T13:11:00.000Z"
         },
         {
-          "id": "om_da00e1a138",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-          "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-          "postedAt": "2026-08-06T13:00:00.000Z"
-        },
-        {
           "id": "om_22cf562415",
           "source": "Marketing Dive",
           "lang": "en",
@@ -560,36 +656,12 @@
           "postedAt": "2026-08-06T12:51:00.000Z"
         },
         {
-          "id": "om_c62018892e",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Omilia raises $67M to scale its customer support platform",
-          "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-          "postedAt": "2026-08-06T12:00:00.000Z"
-        },
-        {
-          "id": "om_890b3e9ce7",
+          "id": "om_c44b3b6edd",
           "source": "Adweek",
           "lang": "en",
-          "title": "Cloudflare Wants to Tell Brands Whether AI Is Actually Recommending Them",
-          "url": "https://www.adweek.com/media/cloudflare-answer-engine-visibility-dashboard/",
-          "postedAt": "2026-08-06T09:00:00.000Z"
-        },
-        {
-          "id": "om_02d8f4dd7d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK Commerce Advantage: Retail Media Finally Zeroes In on Brand Budgets",
-          "url": "https://www.adweek.com/commerce/adweek-commerce-advantage-retail-media-finally-zeroes-in-on-brand-budgets/",
-          "postedAt": "2026-08-06T06:00:00.000Z"
-        },
-        {
-          "id": "om_74d6081918",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "WPP Is ‘On Track’ With Turnaround Plan, as Revenue Drops 5.6% in First Half of 2026",
-          "url": "https://www.adweek.com/agencies/wpp-is-on-track-with-turnaround-plan-as-revenue-drops-56-in-first-half-of-2026/",
-          "postedAt": "2026-08-06T05:10:20.000Z"
+          "title": "Coke and Visa Score, Adidas and McDonald’s Fumble on Pricey World Cup Sponsorships",
+          "url": "https://www.adweek.com/brand-marketing/coke-and-visa-score-adidas-and-mcdonalds-fumble-on-pricey-world-cup-sponsorships/",
+          "postedAt": "2026-08-06T10:52:14.000Z"
         },
         {
           "id": "om_abc5e09ad3",
@@ -598,82 +670,10 @@
           "title": "TikTok partners with Disney",
           "url": "https://www.socialmediatoday.com/news/tiktok-partners-with-disney/827168/",
           "postedAt": "2026-08-05T21:42:40.000Z"
-        },
-        {
-          "id": "om_0842c21697",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Why Lightspeed is going all-in on creator-led venture capital",
-          "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
-          "postedAt": "2026-08-05T20:48:54.000Z"
-        },
-        {
-          "id": "om_76d5e3971b",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Snapchat tries to teach brands to be funny",
-          "url": "https://www.socialmediatoday.com/news/snapchat-tries-to-teach-brands-to-be-funny/827165/",
-          "postedAt": "2026-08-05T20:16:30.000Z"
-        },
-        {
-          "id": "om_a17a07b327",
-          "source": "Wired",
-          "lang": "en",
-          "title": "TikTok Says ‘Moderator Error’ Kept Perez Hilton Livestream Up",
-          "url": "https://www.wired.com/story/tiktok-says-moderator-error-kept-perez-hilton-livestream-on-platform/",
-          "postedAt": "2026-08-05T19:35:22.000Z"
-        },
-        {
-          "id": "om_51151db47b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Creators Are Quietly Becoming Media Conglomerates",
-          "url": "https://www.adweek.com/media/creators-media-conglomerates/",
-          "postedAt": "2026-08-05T19:00:00.000Z"
-        },
-        {
-          "id": "om_946f2f30bf",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Super Bowl ad inventory is already sold out",
-          "url": "https://www.marketingbrew.com/stories/super-bowl-ads-disney-espn?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-05T18:38:01.000Z"
-        },
-        {
-          "id": "om_123d63e22e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "‘Work in Progress’: Martin Sorrell’s Plan to Turn S4 Around",
-          "url": "https://www.adweek.com/agencies/work-in-progress-martin-sorrells-plan-to-turn-s4-around/",
-          "postedAt": "2026-08-05T18:28:27.000Z"
-        },
-        {
-          "id": "om_e76af3c5e7",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bed Bath & Beyond Inc. changes corporate name again, relocates headquarters",
-          "url": "https://www.retaildive.com/news/bed-bath-beyond-corporate-name-neighborhood-intelligence-headquarters-second-quarter-earnings/827083/",
-          "postedAt": "2026-08-05T16:24:00.000Z"
-        },
-        {
-          "id": "om_e1424e917c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Under Armour hits play on K-pop partnership",
-          "url": "https://www.retaildive.com/news/under-armour-hits-play-k-pop-boynextdoor-brand-partnership/827063/",
-          "postedAt": "2026-08-05T15:57:00.000Z"
-        },
-        {
-          "id": "om_b5dc10b82f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Best Buy picks Nordstrom alum for CFO",
-          "url": "https://www.retaildive.com/news/best-buy-picks-nordstrom-alum-for-cfo/827051/",
-          "postedAt": "2026-08-05T15:11:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-06T14:33:27.932Z",
+      "lastUpdated": "2026-08-07T03:14:15.036Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
