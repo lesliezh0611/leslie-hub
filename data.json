@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-07T13:37:20.388Z",
+      "lastUpdated": "2026-08-08T02:20:16.209Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-07T13:37:21.577Z",
+      "lastUpdated": "2026-08-08T02:20:17.216Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,12 +512,100 @@
       },
       "articles": [
         {
-          "id": "om_abe12dc061",
+          "id": "om_ee12c2b6f8",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Will people pay more for Under Armour?",
+          "url": "https://www.retaildive.com/news/will-people-pay-more-under-armour-discounts-full-price/827321/",
+          "postedAt": "2026-08-07T16:51:00.000Z"
+        },
+        {
+          "id": "om_df28765237",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: Activist comes for Ethan Allen’s board, Rhode delivers for Elf",
+          "url": "https://www.retaildive.com/news/activist-investor-board-shakeup-ethan-allen-rhode-q1-canada-goose-baffin/827281/",
+          "postedAt": "2026-08-07T16:25:00.000Z"
+        },
+        {
+          "id": "om_9272d9449d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Ralph Lauren is on a winning streak",
+          "url": "https://www.retaildive.com/news/ralph-lauren-winning-streak-q1-north-america-china/827312/",
+          "postedAt": "2026-08-07T16:18:00.000Z"
+        },
+        {
+          "id": "om_0de827c184",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
+          "url": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+          "postedAt": "2026-08-07T16:09:04.000Z"
+        },
+        {
+          "id": "om_ea1ad128d5",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "QVC Group exits Chapter 11, CEO steps down",
+          "url": "https://www.retaildive.com/news/qvc-exits-chapter-11-ceo-steps-down/827314/",
+          "postedAt": "2026-08-07T15:45:00.000Z"
+        },
+        {
+          "id": "om_d1884779e3",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "With ‘CringeMart,’ DoorDash positions itself as a solution to awkwardness",
+          "url": "https://www.marketingbrew.com/stories/doordash-cringemart-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-07T14:57:51.000Z"
+        },
+        {
+          "id": "om_11a7566e16",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Foot Locker ties up role in sneaker culture with new brand platform",
-          "url": "https://www.marketingdive.com/news/foot-locker-sizes-up-role-in-sneaker-culture-with-new-brand-platform/827210/",
+          "title": "Nielsen acquires DoubleVerify to link ad verification, audience measurement",
+          "url": "https://www.marketingdive.com/news/nielsen-acquires-doubleverify-to-link-ad-verification-audience-measurement/827319/",
+          "postedAt": "2026-08-07T14:50:00.000Z"
+        },
+        {
+          "id": "om_70b766d6f2",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Behind Reddit and YouTube’s roles in AI visibility",
+          "url": "https://www.marketingdive.com/news/behind-reddit-and-youtubes-roles-in-ai-visibility/827313/",
+          "postedAt": "2026-08-07T13:17:46.000Z"
+        },
+        {
+          "id": "om_b9364df797",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Foot Locker reinforces role in sneaker culture with new brand platform",
+          "url": "https://www.marketingdive.com/news/foot-locker-role-in-sneaker-culture-with-new-brand-platform/827210/",
           "postedAt": "2026-08-07T13:00:00.000Z"
+        },
+        {
+          "id": "om_2195fec7e1",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ESPN and Stavvy Want You to Know ‘Football’s On’ in New Campaign",
+          "url": "https://www.adweek.com/convergent-tv/espn-and-stavvy-want-you-to-know-footballs-on-in-new-campaign/",
+          "postedAt": "2026-08-07T12:23:55.000Z"
+        },
+        {
+          "id": "om_c9ade66102",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Tracee Ellis Ross Built a Beauty Brand That Became a Cultural Movement",
+          "url": "https://www.adweek.com/brand-marketing/how-tracee-ellis-ross-built-a-beauty-brand-that-became-a-cultural-movement/",
+          "postedAt": "2026-08-07T10:53:14.000Z"
+        },
+        {
+          "id": "om_cb8950d961",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Marketing Vanguard at Cannes: AI Is Becoming the Daily Job ft. Mark Kirkham of PepsiCo",
+          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-ai-is-becoming-the-daily-job-ft-mark-kirkham-of-pepsico/",
+          "postedAt": "2026-08-07T10:45:42.000Z"
         },
         {
           "id": "om_d8259196fe",
@@ -568,14 +656,6 @@
           "postedAt": "2026-08-06T18:26:32.000Z"
         },
         {
-          "id": "om_a7508f9609",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Hacker pleads guilty to stealing data from more than 165 Snowflake customers",
-          "url": "https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/",
-          "postedAt": "2026-08-06T16:42:40.000Z"
-        },
-        {
           "id": "om_23c6afc2ba",
           "source": "Marketing Dive",
           "lang": "en",
@@ -590,90 +670,10 @@
           "title": "How to pull off a brand pop-up",
           "url": "https://www.marketingbrew.com/stories/how-to-pull-off-a-brand-pop-up?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-08-06T16:07:09.000Z"
-        },
-        {
-          "id": "om_b4470c6331",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "TikTok lays off 250 employees, shutters its Nashville office",
-          "url": "https://techcrunch.com/2026/08/06/tiktok-lays-off-250-employees-shutters-its-nashville-office/",
-          "postedAt": "2026-08-06T16:06:40.000Z"
-        },
-        {
-          "id": "om_68e485523c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Digital Brands Group weighs shareholder cash deal",
-          "url": "https://www.retaildive.com/news/digital-brands-group-weighs-shareholder-cash-deal/827208/",
-          "postedAt": "2026-08-06T15:20:00.000Z"
-        },
-        {
-          "id": "om_1e4f516778",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Kraft Heinz pours nearly $100M more into marketing to drive turnaround",
-          "url": "https://www.marketingdive.com/news/kraft-heinz-zeroes-in-on-marketing-as-it-pours-another-100m-into-turnaroun/827183/",
-          "postedAt": "2026-08-06T14:52:00.000Z"
-        },
-        {
-          "id": "om_fc9c3dbe04",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Papa Johns changes CMOs, ramps up mass marketing amid struggles",
-          "url": "https://www.marketingdive.com/news/papa-johns-changes-cmo-role-ramps-up-mass-marketing-amid-struggles/827203/",
-          "postedAt": "2026-08-06T14:39:00.000Z"
-        },
-        {
-          "id": "om_f67275a27c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Retail Roundup: 6 Commerce Media Moves from Walmart, Michaels, and 7-Eleven",
-          "url": "https://www.adweek.com/commerce/retail-roundup-6-commerce-media-moves-from-walmart-michaels-and-7-eleven/",
-          "postedAt": "2026-08-06T14:33:52.000Z"
-        },
-        {
-          "id": "om_34ac0f6dbe",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "eBay continues to bet on live shopping after record quarter",
-          "url": "https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/",
-          "postedAt": "2026-08-06T14:17:46.000Z"
-        },
-        {
-          "id": "om_9550ae459f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Claire’s revamps iconic piercing experience",
-          "url": "https://www.retaildive.com/news/claires-revamps-in-store-piercing-experience/826321/",
-          "postedAt": "2026-08-06T13:17:00.000Z"
-        },
-        {
-          "id": "om_69a853a59e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Fossil ads using AI to identify target profiles earn 58.8M impressions",
-          "url": "https://www.marketingdive.com/news/fossil-ads-using-ai-to-identify-target-profiles-earn-588m-impressions/827148/",
-          "postedAt": "2026-08-06T13:11:00.000Z"
-        },
-        {
-          "id": "om_22cf562415",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "A CMO’s guide to machine relations",
-          "url": "https://www.marketingdive.com/news/a-cmos-guide-to-machine-relations/826421/",
-          "postedAt": "2026-08-06T12:57:00.000Z"
-        },
-        {
-          "id": "om_6bd39dcd51",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Lilly’s women’s sports push gets assist from WNBA on Prime campaign",
-          "url": "https://www.marketingdive.com/news/lillys-womens-sports-push-gets-assist-from-wnba-on-prime-campaign/827059/",
-          "postedAt": "2026-08-06T12:51:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-07T13:37:22.506Z",
+      "lastUpdated": "2026-08-08T02:20:18.485Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
