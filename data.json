@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-08T02:20:16.209Z",
+      "lastUpdated": "2026-08-08T13:10:50.635Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-08T02:20:17.216Z",
+      "lastUpdated": "2026-08-08T13:10:51.973Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -511,6 +511,22 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_7b70240405",
+          "source": "Wired",
+          "lang": "en",
+          "title": "The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today",
+          "url": "https://www.wired.com/story/hp-omnibook-5-50-percent-off/",
+          "postedAt": "2026-08-08T11:34:00.000Z"
+        },
+        {
+          "id": "om_b8e98f2116",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Is this $450 laptop from an unknown brand too good to be true?",
+          "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+          "postedAt": "2026-08-08T04:23:20.000Z"
+        },
         {
           "id": "om_ee12c2b6f8",
           "source": "Retail Dive",
@@ -654,26 +670,10 @@
           "title": "The Trade Desk CEO Jeff Green Says Sluggish 3% Revenue Growth ‘Not a Reflection’ of the Company",
           "url": "https://www.adweek.com/programmatic/the-trade-desk-ceo-jeff-green-says-sluggish-3-revenue-growth-not-a-reflection-of-the-company/",
           "postedAt": "2026-08-06T18:26:32.000Z"
-        },
-        {
-          "id": "om_23c6afc2ba",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: Snapchat tries to teach brands to be funny",
-          "url": "https://www.marketingdive.com/news/sociable-snapchat-tries-to-teach-brands-to-be-funny/827235/",
-          "postedAt": "2026-08-06T16:21:00.000Z"
-        },
-        {
-          "id": "om_a57d966141",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How to pull off a brand pop-up",
-          "url": "https://www.marketingbrew.com/stories/how-to-pull-off-a-brand-pop-up?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-06T16:07:09.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-08T02:20:18.485Z",
+      "lastUpdated": "2026-08-08T13:10:52.946Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
