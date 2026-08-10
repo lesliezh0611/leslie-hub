@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-10T02:33:23.940Z",
+      "lastUpdated": "2026-08-10T13:42:29.656Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_ef8557c117",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Claude Code for normal people: skills, voice mode, and how to collaborate with AI",
+          "url": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
+          "postedAt": "2026-08-10T12:01:44.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_0377bf3179",
           "source": "Lenny's Podcast",
@@ -355,14 +363,6 @@
           "postedAt": "2026-07-28T15:54:24.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_5e7463ad32",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
-          "postedAt": "2026-07-27T15:03:21.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_aacf9e1760",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-10T02:33:25.317Z",
+      "lastUpdated": "2026-08-10T13:42:31.687Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,46 @@
       },
       "articles": [
         {
+          "id": "om_ae846181de",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "P&G’s Always Discreet fights incontinence stigma with NFL campaign",
+          "url": "https://www.marketingdive.com/news/how-pgs-always-discreet-normalizes-incontinence-with-nfl-campaign/827309/",
+          "postedAt": "2026-08-10T13:10:00.000Z"
+        },
+        {
+          "id": "om_cc6bffd1c2",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Steam hardware shipper breach leaks customer data, including names and addresses",
+          "url": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
+          "postedAt": "2026-08-10T13:04:13.000Z"
+        },
+        {
+          "id": "om_a044788384",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "AI is becoming retail’s operating system",
+          "url": "https://www.retaildive.com/spons/ai-is-becoming-retails-operating-system/826765/",
+          "postedAt": "2026-08-10T09:00:00.000Z"
+        },
+        {
+          "id": "om_b722b62edf",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Winning Halloween: How Gen Z’s spooky summers are driving growth",
+          "url": "https://www.retaildive.com/spons/winning-halloween-how-gen-zs-spooky-summers-are-driving-growth/826788/",
+          "postedAt": "2026-08-10T09:00:00.000Z"
+        },
+        {
+          "id": "om_aec7debc3b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How AI Assistants Are Driving Sales for 6 Big Retailers",
+          "url": "https://www.adweek.com/commerce/how-ai-assistants-are-driving-sales-for-6-big-retailers/",
+          "postedAt": "2026-08-10T06:00:00.000Z"
+        },
+        {
           "id": "om_41a54b70c8",
           "source": "Social Media Today",
           "lang": "en",
@@ -526,14 +566,6 @@
           "title": "The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today",
           "url": "https://www.wired.com/story/hp-omnibook-5-50-percent-off/",
           "postedAt": "2026-08-08T11:34:00.000Z"
-        },
-        {
-          "id": "om_b8e98f2116",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Is this $450 laptop from an unknown brand too good to be true?",
-          "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
-          "postedAt": "2026-08-08T04:23:20.000Z"
         },
         {
           "id": "om_ee12c2b6f8",
@@ -638,42 +670,10 @@
           "title": "Ads of the Week: 9 Campaigns That Caught Our Eye, From Heineken to Goldfish",
           "url": "https://www.adweek.com/creativity/ads-of-the-week-9-campaigns-that-caught-our-eye-from-heineken-to-goldfish/",
           "postedAt": "2026-08-07T06:00:00.000Z"
-        },
-        {
-          "id": "om_b451a68c9b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK TV Advantage: World Cup Reveals 3 Marketing Lessons to Add a Real Kick",
-          "url": "https://www.adweek.com/convergent-tv/adweek-tv-advantage-world-cup-reveals-3-marketing-lessons/",
-          "postedAt": "2026-08-07T06:00:00.000Z"
-        },
-        {
-          "id": "om_cb31d6816b",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "YouTube expands shopping affiliate program to the UK",
-          "url": "https://www.socialmediatoday.com/news/youtube-expands-shopping-affiliate-program-to-the-uk/827294/",
-          "postedAt": "2026-08-06T23:14:50.000Z"
-        },
-        {
-          "id": "om_a26f1609db",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok shutters Nashville office, lays off 250 employees",
-          "url": "https://www.socialmediatoday.com/news/tiktok-shutters-nashville-office-lays-off-250-employees/827290/",
-          "postedAt": "2026-08-06T21:44:32.000Z"
-        },
-        {
-          "id": "om_c57df0e19b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Omnicom Wins U.S. Media Account for Ozempic and Wegovy Maker Novo Nordisk",
-          "url": "https://www.adweek.com/agencies/omnicom-wins-us-media-account-for-ozempic-and-wegovy-maker-novo-nordisk/",
-          "postedAt": "2026-08-06T19:01:06.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-10T02:33:26.212Z",
+      "lastUpdated": "2026-08-10T13:42:33.532Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
