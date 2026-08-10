@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-09T13:14:25.830Z",
+      "lastUpdated": "2026-08-10T02:33:23.940Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-09T13:14:26.965Z",
+      "lastUpdated": "2026-08-10T02:33:25.317Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -511,6 +511,14 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_41a54b70c8",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "X updates creator revenue share parameters",
+          "url": "https://www.socialmediatoday.com/news/x-updates-creator-revenue-share-parameters/827391/",
+          "postedAt": "2026-08-09T03:11:03.000Z"
+        },
         {
           "id": "om_7b70240405",
           "source": "Wired",
@@ -662,18 +670,10 @@
           "title": "Omnicom Wins U.S. Media Account for Ozempic and Wegovy Maker Novo Nordisk",
           "url": "https://www.adweek.com/agencies/omnicom-wins-us-media-account-for-ozempic-and-wegovy-maker-novo-nordisk/",
           "postedAt": "2026-08-06T19:01:06.000Z"
-        },
-        {
-          "id": "om_35b37364f1",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Trade Desk CEO Jeff Green Says Sluggish 3% Revenue Growth ‘Not a Reflection’ of the Company",
-          "url": "https://www.adweek.com/programmatic/the-trade-desk-ceo-jeff-green-says-sluggish-3-revenue-growth-not-a-reflection-of-the-company/",
-          "postedAt": "2026-08-06T18:26:32.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-09T13:14:28.158Z",
+      "lastUpdated": "2026-08-10T02:33:26.212Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
