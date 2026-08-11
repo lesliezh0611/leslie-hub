@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-11T02:26:19.464Z",
+      "lastUpdated": "2026-08-11T13:41:09.532Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_fd531323ae",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How to make people care about your startup",
+          "url": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
+          "postedAt": "2026-08-11T13:31:07.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_a1eed7fc45",
           "source": "Lenny's Podcast",
@@ -337,14 +345,6 @@
           "topic": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
           "url": "https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management",
           "postedAt": "2026-08-02T12:32:02.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_bfafd157dc",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Getting started with open source models, making a U.S. business trip worth it, preparing for a possible layoff, when marketing can’t keep up with product, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-started",
-          "postedAt": "2026-08-01T17:25:18.000Z"
         },
         {
           "id": "en_pod_the_knowledge_project_87f7ad064d",
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-11T02:26:20.982Z",
+      "lastUpdated": "2026-08-11T13:41:11.291Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,78 @@
       },
       "articles": [
         {
+          "id": "om_f232cf5b58",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "CeraVe tackles tanmaxxing in social series to pitch Gen Z on SPF",
+          "url": "https://www.marketingdive.com/news/cerave-tackles-tanmaxxing-in-social-series-to-pitch-gen-z-on-spf/827365/",
+          "postedAt": "2026-08-11T13:10:00.000Z"
+        },
+        {
+          "id": "om_cb0b8497c1",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Gap’s fall campaign enlists ‘Obsession’ star to promote denim",
+          "url": "https://www.marketingdive.com/news/gaps-fall-campaign-enlists-obsession-star-to-promote-denim/827375/",
+          "postedAt": "2026-08-11T13:00:00.000Z"
+        },
+        {
+          "id": "om_2b9a7d27ba",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Gymshark names new chief supply chain officer",
+          "url": "https://www.retaildive.com/news/gymshark-names-chief-supply-chain-officer/827201/",
+          "postedAt": "2026-08-11T13:00:00.000Z"
+        },
+        {
+          "id": "om_c22c9cac0e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Rhone CMO on marketing at an inflection point for the apparel brand",
+          "url": "https://www.marketingdive.com/news/rhone-cmo-on-marketing-at-an-inflection-point-for-the-apparel-brand/827382/",
+          "postedAt": "2026-08-11T12:00:00.000Z"
+        },
+        {
+          "id": "om_b575ce1bd6",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside Polaroid’s provocative, pro-analog marketing strategy",
+          "url": "https://www.marketingbrew.com/stories/inside-polaroids-pro-analog-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-11T10:00:00.000Z"
+        },
+        {
+          "id": "om_fe8993d136",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Best Red-Light Therapy for Hair Growth and Restoration (2026)",
+          "url": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
+          "postedAt": "2026-08-11T09:31:00.000Z"
+        },
+        {
+          "id": "om_3c175b7061",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Marketers Are Being Pushed to Use AI, But Not Taught How",
+          "url": "https://www.adweek.com/brand-marketing/marketers-are-being-pushed-to-use-ai-but-not-taught-how/",
+          "postedAt": "2026-08-11T08:00:00.000Z"
+        },
+        {
+          "id": "om_c0d163cdc0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Twitch Names Former Google Exec Christine Cassis Chief Marketing Officer",
+          "url": "https://www.adweek.com/media/twitch-christine-cassis-chief-marketing-officer/",
+          "postedAt": "2026-08-11T07:00:00.000Z"
+        },
+        {
+          "id": "om_c22b112936",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "6 Campaigns That Were Only Creatively Possible With AI",
+          "url": "https://www.adweek.com/creativity/6-campaigns-that-were-only-creatively-possible-with-ai/",
+          "postedAt": "2026-08-11T06:00:00.000Z"
+        },
+        {
           "id": "om_88afd6d609",
           "source": "Social Media Today",
           "lang": "en",
@@ -598,82 +670,10 @@
           "title": "Bazooka puts reality TV rivalry center stage in social-forward campaign",
           "url": "https://www.marketingdive.com/news/bazooka-puts-reality-tv-rivalry-center-stage-in-social-forward-campaign/827369/",
           "postedAt": "2026-08-10T14:29:00.000Z"
-        },
-        {
-          "id": "om_de8d185c80",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Jif’s new campaign reworks logo to go beyond peanut butter and jelly",
-          "url": "https://www.marketingdive.com/news/jifs-new-campaign-reworks-logo-to-go-beyond-peanut-butter-and-jelly/827414/",
-          "postedAt": "2026-08-10T14:28:00.000Z"
-        },
-        {
-          "id": "om_5cd01f5aed",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
-          "url": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
-          "postedAt": "2026-08-10T14:20:19.000Z"
-        },
-        {
-          "id": "om_bc45dec5e8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Foot Locker reinforces role in sneaker culture with new brand platform",
-          "url": "https://www.retaildive.com/news/foot-locker-role-in-sneaker-culture-with-new-brand-platform/827324/",
-          "postedAt": "2026-08-10T14:13:00.000Z"
-        },
-        {
-          "id": "om_ae846181de",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "P&G’s Always Discreet fights incontinence stigma with NFL campaign",
-          "url": "https://www.marketingdive.com/news/how-pgs-always-discreet-normalizes-incontinence-with-nfl-campaign/827309/",
-          "postedAt": "2026-08-10T13:10:00.000Z"
-        },
-        {
-          "id": "om_a9f06d46d9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "CMOs Are the Least Proficient at AI In the Marketing Org, Research Finds",
-          "url": "https://www.adweek.com/brand-marketing/cmos-are-the-least-proficient-at-ai-in-the-marketing-org-research-finds/",
-          "postedAt": "2026-08-10T09:52:51.000Z"
-        },
-        {
-          "id": "om_a044788384",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "AI is becoming retail’s operating system",
-          "url": "https://www.retaildive.com/spons/ai-is-becoming-retails-operating-system/826765/",
-          "postedAt": "2026-08-10T09:00:00.000Z"
-        },
-        {
-          "id": "om_b722b62edf",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Winning Halloween: How Gen Z’s spooky summers are driving growth",
-          "url": "https://www.retaildive.com/spons/winning-halloween-how-gen-zs-spooky-summers-are-driving-growth/826788/",
-          "postedAt": "2026-08-10T09:00:00.000Z"
-        },
-        {
-          "id": "om_aec7debc3b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How AI Assistants Are Driving Sales for 6 Big Retailers",
-          "url": "https://www.adweek.com/commerce/how-ai-assistants-are-driving-sales-for-6-big-retailers/",
-          "postedAt": "2026-08-10T06:00:00.000Z"
-        },
-        {
-          "id": "om_7b70240405",
-          "source": "Wired",
-          "lang": "en",
-          "title": "The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today",
-          "url": "https://www.wired.com/story/hp-omnibook-5-50-percent-off/",
-          "postedAt": "2026-08-08T11:34:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-11T02:26:22.284Z",
+      "lastUpdated": "2026-08-11T13:41:12.865Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
