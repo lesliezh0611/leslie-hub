@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-12T02:42:45.160Z",
+      "lastUpdated": "2026-08-12T13:44:50.791Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lex_fridman_podcast_9421051dd1",
+          "source": "Lex Fridman Podcast",
+          "platform": "podcast",
+          "topic": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football",
+          "url": "https://lexfridman.com/khabib-nurmagomedov/?utm_source=rss&utm_medium=rss&utm_campaign=khabib-nurmagomedov",
+          "postedAt": "2026-08-12T13:11:45.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_fd531323ae",
           "source": "Lenny's Podcast",
@@ -419,10 +427,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-12T02:42:46.335Z",
+      "lastUpdated": "2026-08-12T13:44:52.089Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "14 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -511,6 +519,30 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_9e040bdb09",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Urban Outfitters embraces campus life in first CTV commercial",
+          "url": "https://www.marketingdive.com/news/urban-outfitters-embraces-campus-life-in-first-ctv-commercial/827619/",
+          "postedAt": "2026-08-12T12:50:00.000Z"
+        },
+        {
+          "id": "om_3c827dfc98",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Burger King Drank Wendy’s Milk Shake",
+          "url": "https://www.adweek.com/brand-marketing/how-burger-king-drank-wendys-milk-shake/",
+          "postedAt": "2026-08-12T07:00:00.000Z"
+        },
+        {
+          "id": "om_848b0ad619",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
+          "url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
+          "postedAt": "2026-08-12T04:30:00.000Z"
+        },
         {
           "id": "om_ae0ebf52bc",
           "source": "Social Media Today",
@@ -646,34 +678,10 @@
           "title": "Inside Polaroid’s provocative, pro-analog marketing strategy",
           "url": "https://www.marketingbrew.com/stories/inside-polaroids-pro-analog-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-08-11T10:00:00.000Z"
-        },
-        {
-          "id": "om_fe8993d136",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Best Red-Light Therapy for Hair Growth and Restoration (2026)",
-          "url": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
-          "postedAt": "2026-08-11T09:31:00.000Z"
-        },
-        {
-          "id": "om_3c175b7061",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketers Are Being Pushed to Use AI, But Not Taught How",
-          "url": "https://www.adweek.com/brand-marketing/marketers-are-being-pushed-to-use-ai-but-not-taught-how/",
-          "postedAt": "2026-08-11T08:00:00.000Z"
-        },
-        {
-          "id": "om_c0d163cdc0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Twitch Names Former Google Exec Christine Cassis Chief Marketing Officer",
-          "url": "https://www.adweek.com/media/twitch-christine-cassis-chief-marketing-officer/",
-          "postedAt": "2026-08-11T07:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-12T02:42:47.237Z",
+      "lastUpdated": "2026-08-12T13:44:53.262Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
