@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-11T13:41:09.532Z",
+      "lastUpdated": "2026-08-12T02:42:45.160Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-11T13:41:11.291Z",
+      "lastUpdated": "2026-08-12T02:42:46.335Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,70 @@
       },
       "articles": [
         {
+          "id": "om_ae0ebf52bc",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta’s lack of consumer trust could derail its AI plans",
+          "url": "https://www.socialmediatoday.com/news/metas-lack-of-consumer-trust-could-derail-its-ai-plans/827638/",
+          "postedAt": "2026-08-11T23:20:52.000Z"
+        },
+        {
+          "id": "om_8a30999f48",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "For most creators, the career remains a side hustle: report",
+          "url": "https://www.marketingbrew.com/stories/creator-income-follower-count-importance-creator-iq?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-11T21:09:00.000Z"
+        },
+        {
+          "id": "om_f8190bf3e0",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Signet names new leadership for Zales, Blue Nile",
+          "url": "https://www.retaildive.com/news/signet-names-leadership-zales-blue-nile/827534/",
+          "postedAt": "2026-08-11T16:00:00.000Z"
+        },
+        {
+          "id": "om_e6ef0fb1c6",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "On’s revenue disappoints — is currency change to blame?",
+          "url": "https://www.retaildive.com/news/on-misses-analyst-revenue-expectations-currency-change-q2-earnings/827559/",
+          "postedAt": "2026-08-11T15:56:00.000Z"
+        },
+        {
+          "id": "om_dcf7c9c45a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Simon poised to rake in millions more in rent thanks to Saks Global closures",
+          "url": "https://www.retaildive.com/news/simon-poised-millions-more-rent-saks-global-store-closures/827556/",
+          "postedAt": "2026-08-11T15:53:00.000Z"
+        },
+        {
+          "id": "om_d3379055f8",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Disney Continues Marketing Moves, Joss Hastings to Lead Consumer Products Marketing",
+          "url": "https://www.adweek.com/convergent-tv/disney-marketing-moves-joss-hastings-to-lead-consumer-products-marketing/",
+          "postedAt": "2026-08-11T15:00:00.000Z"
+        },
+        {
+          "id": "om_8fcd57a857",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Gap’s fall campaign enlists ‘Obsession’ star to promote denim",
+          "url": "https://www.retaildive.com/news/gaps-fall-campaign-enlists-obsession-star-to-promote-denim/827532/",
+          "postedAt": "2026-08-11T14:48:00.000Z"
+        },
+        {
+          "id": "om_ba502b35e0",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Trying to personify your brand? Consider a puppet",
+          "url": "https://www.marketingbrew.com/stories/brand-puppets-liberty-mutual-general-mills-strategy-process?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-11T13:48:54.000Z"
+        },
+        {
           "id": "om_f232cf5b58",
           "source": "Marketing Dive",
           "lang": "en",
@@ -544,6 +608,38 @@
           "postedAt": "2026-08-11T12:00:00.000Z"
         },
         {
+          "id": "om_8fa112e50e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Marketing Vanguard at Cannes: How IBM Became Its Own AI Case Study ft. Jonathan Adashek",
+          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-how-ibm-became-its-own-ai-case-study-ft-jonathan-adashek/",
+          "postedAt": "2026-08-11T11:04:15.000Z"
+        },
+        {
+          "id": "om_1e73020cd0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why Creators Are Becoming the New Marketing Operating System",
+          "url": "https://www.adweek.com/brand-marketing/why-creators-are-becoming-the-new-marketing-operating-system/",
+          "postedAt": "2026-08-11T10:47:14.000Z"
+        },
+        {
+          "id": "om_0c40d03309",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Beyond the Follow: Influential’s Ryan Detert on Creator Marketing as Real Media Spend",
+          "url": "https://www.adweek.com/brand-marketing/beyond-the-follow-influentials-ryan-detert-on-creator-marketing-as-real-media-spend/",
+          "postedAt": "2026-08-11T10:08:13.000Z"
+        },
+        {
+          "id": "om_454419810a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Mummy Pig Returns to Kylie Kelce’s Podcast as Hasbro Aims For Millennial Moms",
+          "url": "https://www.adweek.com/brand-marketing/mummy-pig-returns-to-kylie-kelces-podcast-as-hasbro-aims-for-millennial-moms/",
+          "postedAt": "2026-08-11T10:00:00.000Z"
+        },
+        {
           "id": "om_b575ce1bd6",
           "source": "Marketing Brew",
           "lang": "en",
@@ -574,106 +670,10 @@
           "title": "Twitch Names Former Google Exec Christine Cassis Chief Marketing Officer",
           "url": "https://www.adweek.com/media/twitch-christine-cassis-chief-marketing-officer/",
           "postedAt": "2026-08-11T07:00:00.000Z"
-        },
-        {
-          "id": "om_c22b112936",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "6 Campaigns That Were Only Creatively Possible With AI",
-          "url": "https://www.adweek.com/creativity/6-campaigns-that-were-only-creatively-possible-with-ai/",
-          "postedAt": "2026-08-11T06:00:00.000Z"
-        },
-        {
-          "id": "om_88afd6d609",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Meta adds dedicated ad exclusion audiences",
-          "url": "https://www.socialmediatoday.com/news/meta-adds-dedicated-ad-exclusion-audiences/827520/",
-          "postedAt": "2026-08-10T23:54:32.000Z"
-        },
-        {
-          "id": "om_7043362161",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "YouTube announces changes to creator monetization",
-          "url": "https://www.socialmediatoday.com/news/youtube-announces-changes-to-creator-monetization/827515/",
-          "postedAt": "2026-08-10T23:27:03.000Z"
-        },
-        {
-          "id": "om_2ceb663507",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "The story behind Hinge’s first audiobook campaign",
-          "url": "https://www.marketingbrew.com/stories/hinge-campaign-no-ordinary-love-audiobook-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-10T19:54:47.000Z"
-        },
-        {
-          "id": "om_7fe56d9706",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why this head of creative strategy thinks insights can’t exist in a vacuum",
-          "url": "https://www.marketingbrew.com/stories/reddit-global-head-creative-strategy-christina-kavalauskas-q-and-a?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-10T19:14:45.000Z"
-        },
-        {
-          "id": "om_95ebcbb350",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "YouTube now requires creators to have twice as many watch hours to start earning money",
-          "url": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/",
-          "postedAt": "2026-08-10T18:27:44.000Z"
-        },
-        {
-          "id": "om_9a32c0ed69",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "DXL board chair steps in for CEO as challenges mount",
-          "url": "https://www.retaildive.com/news/dxl-board-chair-takes-over-ceo-retires-challenges-mount/827407/",
-          "postedAt": "2026-08-10T15:48:00.000Z"
-        },
-        {
-          "id": "om_0b62262913",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Retailers stocked up for upcoming holiday season",
-          "url": "https://www.retaildive.com/news/retailers-stocked-up-holiday-season-imports/827437/",
-          "postedAt": "2026-08-10T15:47:00.000Z"
-        },
-        {
-          "id": "om_9e8dbbf2f1",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Best Buy’s chief marketer exits, replaced by newcomer",
-          "url": "https://www.retaildive.com/news/best-buy-chief-marketer-jennie-weber-exits/827446/",
-          "postedAt": "2026-08-10T15:42:00.000Z"
-        },
-        {
-          "id": "om_561c17d0c4",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "WPP’s streamlined strategy secures new business as revenue declines narrow",
-          "url": "https://www.marketingdive.com/news/wpps-streamlined-strategy-secures-new-business-as-revenue-declines-narrow/827443/",
-          "postedAt": "2026-08-10T15:30:00.000Z"
-        },
-        {
-          "id": "om_b688c8e725",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bob’s Discount Furniture is winning over higher-income shoppers",
-          "url": "https://www.retaildive.com/news/bobs-discount-furniture-higher-income-consumers-q2-earnings/827396/",
-          "postedAt": "2026-08-10T15:08:00.000Z"
-        },
-        {
-          "id": "om_a122e04195",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Bazooka puts reality TV rivalry center stage in social-forward campaign",
-          "url": "https://www.marketingdive.com/news/bazooka-puts-reality-tv-rivalry-center-stage-in-social-forward-campaign/827369/",
-          "postedAt": "2026-08-10T14:29:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-11T13:41:12.865Z",
+      "lastUpdated": "2026-08-12T02:42:47.237Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
