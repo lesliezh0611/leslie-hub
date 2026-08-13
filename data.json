@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-12T13:44:50.791Z",
+      "lastUpdated": "2026-08-13T02:45:18.433Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-12T13:44:52.089Z",
+      "lastUpdated": "2026-08-13T02:45:19.822Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,110 @@
       },
       "articles": [
         {
+          "id": "om_c60d0aee56",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Adobe says brands need a point of view to stand out",
+          "url": "https://www.socialmediatoday.com/news/adobe-says-brands-need-a-point-of-view-to-stand-out/827750/",
+          "postedAt": "2026-08-12T21:15:05.000Z"
+        },
+        {
+          "id": "om_877a97db7f",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta expands access to Creator Studio",
+          "url": "https://www.socialmediatoday.com/news/meta-expands-access-to-creator-studio/827745/",
+          "postedAt": "2026-08-12T19:23:02.000Z"
+        },
+        {
+          "id": "om_d557f1f88e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why The Arena Group Has, Implausibly, Rebranded Into an AI Company",
+          "url": "https://www.adweek.com/media/arena-group-paradium-ai-rebrand/",
+          "postedAt": "2026-08-12T19:00:00.000Z"
+        },
+        {
+          "id": "om_5ad836c2c7",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Wrangler to open more stores amid direct-to-consumer push",
+          "url": "https://www.retaildive.com/news/wrangler-open-more-stores-direct-to-consumer-push-helly-hansen-Q2/827672/",
+          "postedAt": "2026-08-12T16:32:00.000Z"
+        },
+        {
+          "id": "om_5e8cac485d",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
+          "url": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
+          "postedAt": "2026-08-12T15:56:13.000Z"
+        },
+        {
+          "id": "om_1892cb0f18",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Reporter’s Notebook: How bad off is San Francisco retail?",
+          "url": "https://www.retaildive.com/news/reporters-notebook-how-bad-off-is-san-francisco-retail/827629/",
+          "postedAt": "2026-08-12T15:39:00.000Z"
+        },
+        {
+          "id": "om_b8fe744520",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Bealls plots store expansion",
+          "url": "https://www.retaildive.com/news/bealls-store-expansion-new-york-city-buying-office/827658/",
+          "postedAt": "2026-08-12T15:37:00.000Z"
+        },
+        {
+          "id": "om_2ef2e72511",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target leans on newness for Halloween assortment",
+          "url": "https://www.retaildive.com/news/target-halloween-assortment-newness-merchandising/827674/",
+          "postedAt": "2026-08-12T15:32:00.000Z"
+        },
+        {
+          "id": "om_1550d2d049",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Dove’s marketing mixes sports and style for US Open sponsorship return",
+          "url": "https://www.marketingdive.com/news/doves-marketing-mixes-sports-and-style-for-us-open-sponsorship-return/827652/",
+          "postedAt": "2026-08-12T14:39:00.000Z"
+        },
+        {
+          "id": "om_78a3dcf6c9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target taps Lowe’s executive as first chief AI officer",
+          "url": "https://www.retaildive.com/news/target-taps-lowes-chandhu-nair-chief-ai-officer/827630/",
+          "postedAt": "2026-08-12T14:30:00.000Z"
+        },
+        {
+          "id": "om_1e70b81552",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How padel is starting to make a racket in US sponsorships",
+          "url": "https://www.marketingbrew.com/stories/padel-us-sponsorships-growth?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-12T13:57:42.000Z"
+        },
+        {
+          "id": "om_eb7f36be97",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Rhone CMO on marketing at an inflection point for the apparel brand",
+          "url": "https://www.retaildive.com/news/rhone-cmo-marketing-inflection-point-apparel/827651/",
+          "postedAt": "2026-08-12T13:53:00.000Z"
+        },
+        {
+          "id": "om_42ebcd8052",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Cava outperforms in fast casual despite frugal marketing budget",
+          "url": "https://www.marketingdive.com/news/how-cava-outperforms-in-fast-casual-despite-frugal-marketing-budget/827625/",
+          "postedAt": "2026-08-12T13:47:00.000Z"
+        },
+        {
           "id": "om_9e040bdb09",
           "source": "Marketing Dive",
           "lang": "en",
@@ -528,20 +632,20 @@
           "postedAt": "2026-08-12T12:50:00.000Z"
         },
         {
+          "id": "om_6a728bcb2b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Watch Gronk Go Off Script in New Campaign for DNA Vibe",
+          "url": "https://www.adweek.com/convergent-tv/watch-gronk-go-off-script-in-new-campaign-for-dna-vibe/",
+          "postedAt": "2026-08-12T12:10:31.000Z"
+        },
+        {
           "id": "om_3c827dfc98",
           "source": "Adweek",
           "lang": "en",
           "title": "How Burger King Drank Wendy’s Milk Shake",
           "url": "https://www.adweek.com/brand-marketing/how-burger-king-drank-wendys-milk-shake/",
           "postedAt": "2026-08-12T07:00:00.000Z"
-        },
-        {
-          "id": "om_848b0ad619",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
-          "url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
-          "postedAt": "2026-08-12T04:30:00.000Z"
         },
         {
           "id": "om_ae0ebf52bc",
@@ -574,114 +678,10 @@
           "title": "On’s revenue disappoints — is currency change to blame?",
           "url": "https://www.retaildive.com/news/on-misses-analyst-revenue-expectations-currency-change-q2-earnings/827559/",
           "postedAt": "2026-08-11T15:56:00.000Z"
-        },
-        {
-          "id": "om_dcf7c9c45a",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Simon poised to rake in millions more in rent thanks to Saks Global closures",
-          "url": "https://www.retaildive.com/news/simon-poised-millions-more-rent-saks-global-store-closures/827556/",
-          "postedAt": "2026-08-11T15:53:00.000Z"
-        },
-        {
-          "id": "om_d3379055f8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Disney Continues Marketing Moves, Joss Hastings to Lead Consumer Products Marketing",
-          "url": "https://www.adweek.com/convergent-tv/disney-marketing-moves-joss-hastings-to-lead-consumer-products-marketing/",
-          "postedAt": "2026-08-11T15:00:00.000Z"
-        },
-        {
-          "id": "om_8fcd57a857",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Gap’s fall campaign enlists ‘Obsession’ star to promote denim",
-          "url": "https://www.retaildive.com/news/gaps-fall-campaign-enlists-obsession-star-to-promote-denim/827532/",
-          "postedAt": "2026-08-11T14:48:00.000Z"
-        },
-        {
-          "id": "om_ba502b35e0",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Trying to personify your brand? Consider a puppet",
-          "url": "https://www.marketingbrew.com/stories/brand-puppets-liberty-mutual-general-mills-strategy-process?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-11T13:48:54.000Z"
-        },
-        {
-          "id": "om_f232cf5b58",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "CeraVe tackles tanmaxxing in social series to pitch Gen Z on SPF",
-          "url": "https://www.marketingdive.com/news/cerave-tackles-tanmaxxing-in-social-series-to-pitch-gen-z-on-spf/827365/",
-          "postedAt": "2026-08-11T13:10:00.000Z"
-        },
-        {
-          "id": "om_cb0b8497c1",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Gap’s fall campaign enlists ‘Obsession’ star to promote denim",
-          "url": "https://www.marketingdive.com/news/gaps-fall-campaign-enlists-obsession-star-to-promote-denim/827375/",
-          "postedAt": "2026-08-11T13:00:00.000Z"
-        },
-        {
-          "id": "om_2b9a7d27ba",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Gymshark names new chief supply chain officer",
-          "url": "https://www.retaildive.com/news/gymshark-names-chief-supply-chain-officer/827201/",
-          "postedAt": "2026-08-11T13:00:00.000Z"
-        },
-        {
-          "id": "om_c22c9cac0e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Rhone CMO on marketing at an inflection point for the apparel brand",
-          "url": "https://www.marketingdive.com/news/rhone-cmo-on-marketing-at-an-inflection-point-for-the-apparel-brand/827382/",
-          "postedAt": "2026-08-11T12:00:00.000Z"
-        },
-        {
-          "id": "om_8fa112e50e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketing Vanguard at Cannes: How IBM Became Its Own AI Case Study ft. Jonathan Adashek",
-          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-how-ibm-became-its-own-ai-case-study-ft-jonathan-adashek/",
-          "postedAt": "2026-08-11T11:04:15.000Z"
-        },
-        {
-          "id": "om_1e73020cd0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why Creators Are Becoming the New Marketing Operating System",
-          "url": "https://www.adweek.com/brand-marketing/why-creators-are-becoming-the-new-marketing-operating-system/",
-          "postedAt": "2026-08-11T10:47:14.000Z"
-        },
-        {
-          "id": "om_0c40d03309",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Beyond the Follow: Influential’s Ryan Detert on Creator Marketing as Real Media Spend",
-          "url": "https://www.adweek.com/brand-marketing/beyond-the-follow-influentials-ryan-detert-on-creator-marketing-as-real-media-spend/",
-          "postedAt": "2026-08-11T10:08:13.000Z"
-        },
-        {
-          "id": "om_454419810a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Mummy Pig Returns to Kylie Kelce’s Podcast as Hasbro Aims For Millennial Moms",
-          "url": "https://www.adweek.com/brand-marketing/mummy-pig-returns-to-kylie-kelces-podcast-as-hasbro-aims-for-millennial-moms/",
-          "postedAt": "2026-08-11T10:00:00.000Z"
-        },
-        {
-          "id": "om_b575ce1bd6",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside Polaroid’s provocative, pro-analog marketing strategy",
-          "url": "https://www.marketingbrew.com/stories/inside-polaroids-pro-analog-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-11T10:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-12T13:44:53.262Z",
+      "lastUpdated": "2026-08-13T02:45:20.968Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
