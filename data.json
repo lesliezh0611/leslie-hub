@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-13T02:45:18.433Z",
+      "lastUpdated": "2026-08-13T13:45:38.194Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_the_knowledge_project_6f53cc0d83",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "Roblox CEO: How to Make Better Decisions by Fixing Yourself First",
+          "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/",
+          "postedAt": "2026-08-13T09:45:00.000Z"
+        },
         {
           "id": "en_pod_lex_fridman_podcast_9421051dd1",
           "source": "Lex Fridman Podcast",
@@ -369,14 +377,6 @@
           "topic": "#499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee",
           "url": "https://lexfridman.com/gary-gallagher/?utm_source=rss&utm_medium=rss&utm_campaign=gary-gallagher",
           "postedAt": "2026-07-28T20:06:06.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_aacf9e1760",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "[Outliers] John D. Rockefeller: The Principles Behind The Greatest Fortune in History",
-          "url": "https://fs.blog/knowledge-project-podcast/outliers-john-d-rockefeller/",
-          "postedAt": "2026-07-23T09:45:00.000Z"
         }
       ],
       "books": [
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-13T02:45:19.822Z",
+      "lastUpdated": "2026-08-13T13:45:39.676Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,30 @@
       },
       "articles": [
         {
+          "id": "om_680a3ed33a",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside Genesis Motor America’s brand film about Marilyn Monroe",
+          "url": "https://www.marketingbrew.com/stories/flesh-impact-genesis-motor-america-brand-film-maggie-gyllenhaal?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-13T10:00:00.000Z"
+        },
+        {
+          "id": "om_41a83947c4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Premier League Looks to Score World Cup Audiences With US Campaign",
+          "url": "https://www.adweek.com/convergent-tv/the-premier-league-looks-to-score-world-cup-audiences-with-us-campaign/",
+          "postedAt": "2026-08-13T09:00:00.000Z"
+        },
+        {
+          "id": "om_00b1b2cfeb",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Zillow Teams Up With Pinterest to Target People House Hunting",
+          "url": "https://www.adweek.com/commerce/zillow-is-selling-advertisers-on-its-data-with-pinterest-ads/",
+          "postedAt": "2026-08-13T08:01:31.000Z"
+        },
+        {
           "id": "om_c60d0aee56",
           "source": "Social Media Today",
           "lang": "en",
@@ -528,11 +552,11 @@
           "postedAt": "2026-08-12T21:15:05.000Z"
         },
         {
-          "id": "om_877a97db7f",
+          "id": "om_cc6ccbb6b8",
           "source": "Social Media Today",
           "lang": "en",
-          "title": "Meta expands access to Creator Studio",
-          "url": "https://www.socialmediatoday.com/news/meta-expands-access-to-creator-studio/827745/",
+          "title": "Meta expands access to Creator Studio app",
+          "url": "https://www.socialmediatoday.com/news/meta-expands-access-to-creator-studio-app/827745/",
           "postedAt": "2026-08-12T19:23:02.000Z"
         },
         {
@@ -654,34 +678,10 @@
           "title": "Meta’s lack of consumer trust could derail its AI plans",
           "url": "https://www.socialmediatoday.com/news/metas-lack-of-consumer-trust-could-derail-its-ai-plans/827638/",
           "postedAt": "2026-08-11T23:20:52.000Z"
-        },
-        {
-          "id": "om_8a30999f48",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "For most creators, the career remains a side hustle: report",
-          "url": "https://www.marketingbrew.com/stories/creator-income-follower-count-importance-creator-iq?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-11T21:09:00.000Z"
-        },
-        {
-          "id": "om_f8190bf3e0",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Signet names new leadership for Zales, Blue Nile",
-          "url": "https://www.retaildive.com/news/signet-names-leadership-zales-blue-nile/827534/",
-          "postedAt": "2026-08-11T16:00:00.000Z"
-        },
-        {
-          "id": "om_e6ef0fb1c6",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "On’s revenue disappoints — is currency change to blame?",
-          "url": "https://www.retaildive.com/news/on-misses-analyst-revenue-expectations-currency-change-q2-earnings/827559/",
-          "postedAt": "2026-08-11T15:56:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-13T02:45:20.968Z",
+      "lastUpdated": "2026-08-13T13:45:40.428Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
