@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-13T13:45:38.194Z",
+      "lastUpdated": "2026-08-14T02:44:29.197Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -310,7 +310,7 @@
           "id": "en_pod_lenny_s_podcast_0377bf3179",
           "source": "Lenny's Podcast",
           "platform": "newsletter",
-          "topic": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
+          "topic": "The playbook for building high-talent-density teams | Adam Ward, Head of Talent at Cursor",
           "url": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
           "postedAt": "2026-08-09T12:31:29.000Z"
         },
@@ -366,7 +366,7 @@
           "id": "en_pod_the_knowledge_project_87f7ad064d",
           "source": "The Knowledge Project",
           "platform": "podcast",
-          "topic": "The Mindset Behind Building Billion-Dollar Companies | Brad Jacobs",
+          "topic": "The Mindset Behind Building a Great Little Business | Brad Jacobs",
           "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
           "postedAt": "2026-07-30T09:45:00.000Z"
         },
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-13T13:45:39.676Z",
+      "lastUpdated": "2026-08-14T02:44:30.292Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,28 +520,108 @@
       },
       "articles": [
         {
+          "id": "om_4921a200f7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Samsonite’s $178.5M Béis Buy Is All About Winning Over Gen Z Women",
+          "url": "https://www.adweek.com/brand-marketing/samsonites-1785m-beis-buy-is-all-about-winning-over-gen-z-women/",
+          "postedAt": "2026-08-13T16:27:08.000Z"
+        },
+        {
+          "id": "om_ed46b26776",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Consumers warm up to agentic AI purchases",
+          "url": "https://www.retaildive.com/news/retail-shoppers-warm-up-agentic-ai-purchases/827563/",
+          "postedAt": "2026-08-13T16:19:00.000Z"
+        },
+        {
+          "id": "om_3ee892aa50",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Academy Sports and Outdoors taps Instacart for same-day delivery",
+          "url": "https://www.retaildive.com/news/academy-sports-and-outdoors-instacart-same-day-delivery/827796/",
+          "postedAt": "2026-08-13T16:03:00.000Z"
+        },
+        {
+          "id": "om_cf7aaaf0fc",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: Pinterest partners with Zillow for ad targeting",
+          "url": "https://www.marketingdive.com/news/sociable-pinterest-partners-with-zillow-for-ad-targeting/827812/",
+          "postedAt": "2026-08-13T15:51:00.000Z"
+        },
+        {
+          "id": "om_32c0988071",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Dillard’s gains market share",
+          "url": "https://www.retaildive.com/news/dillards-gains-market-share-q2-tariff-refund-gross-margin-profit/827774/",
+          "postedAt": "2026-08-13T15:36:00.000Z"
+        },
+        {
+          "id": "om_10d04cfea9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Smartphone school ban could imperil billions in social media ad revenue",
+          "url": "https://www.marketingdive.com/news/smartphone-school-ban-could-imperil-billions-in-social-media-ad-revenue/827739/",
+          "postedAt": "2026-08-13T15:10:33.000Z"
+        },
+        {
+          "id": "om_f2e68cdf36",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Shoe Station names chief marketing officer",
+          "url": "https://www.retaildive.com/news/shoe-station-names-chief-marketing-officer/827733/",
+          "postedAt": "2026-08-13T14:38:00.000Z"
+        },
+        {
+          "id": "om_c3a2c61805",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Cuisinart caters to thumb-scrolling consumers with short-form series",
+          "url": "https://www.marketingdive.com/news/cuisinart-caters-to-thumb-scrolling-consumers-with-short-form-series/827792/",
+          "postedAt": "2026-08-13T14:32:00.000Z"
+        },
+        {
+          "id": "om_e469e97c6f",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How brands can navigate the Paramount-WBD merger chaos",
+          "url": "https://www.marketingdive.com/news/how-brands-can-navigate-the-paramount-wbd-merger-chaos/827386/",
+          "postedAt": "2026-08-13T14:30:00.000Z"
+        },
+        {
+          "id": "om_fcedddda0e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Panera Bread hires CMO from Cava as transformation work continues",
+          "url": "https://www.marketingdive.com/news/panera-bread-hires-cmo-from-cava-as-transformation-work-continues/827790/",
+          "postedAt": "2026-08-13T14:15:00.000Z"
+        },
+        {
+          "id": "om_e7c92b9d3e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Marketing Vanguard at Cannes: Saying No Is the New Power Move ft. Mainardo de Nardis & Rani Al Hajji",
+          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-saying-no-is-the-new-power-move-ft-mainardo-de-nardis-rani-al-hajji/",
+          "postedAt": "2026-08-13T10:02:40.000Z"
+        },
+        {
+          "id": "om_0f07efb9d5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Before Betting on a New Flavor, Oreo Is Letting Consumers Choose",
+          "url": "https://www.adweek.com/brand-marketing/before-betting-on-a-new-flavor-oreo-is-letting-consumers-choose/",
+          "postedAt": "2026-08-13T10:00:00.000Z"
+        },
+        {
           "id": "om_680a3ed33a",
           "source": "Marketing Brew",
           "lang": "en",
           "title": "Inside Genesis Motor America’s brand film about Marilyn Monroe",
           "url": "https://www.marketingbrew.com/stories/flesh-impact-genesis-motor-america-brand-film-maggie-gyllenhaal?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-08-13T10:00:00.000Z"
-        },
-        {
-          "id": "om_41a83947c4",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Premier League Looks to Score World Cup Audiences With US Campaign",
-          "url": "https://www.adweek.com/convergent-tv/the-premier-league-looks-to-score-world-cup-audiences-with-us-campaign/",
-          "postedAt": "2026-08-13T09:00:00.000Z"
-        },
-        {
-          "id": "om_00b1b2cfeb",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Zillow Teams Up With Pinterest to Target People House Hunting",
-          "url": "https://www.adweek.com/commerce/zillow-is-selling-advertisers-on-its-data-with-pinterest-ads/",
-          "postedAt": "2026-08-13T08:01:31.000Z"
         },
         {
           "id": "om_c60d0aee56",
@@ -560,28 +640,12 @@
           "postedAt": "2026-08-12T19:23:02.000Z"
         },
         {
-          "id": "om_d557f1f88e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why The Arena Group Has, Implausibly, Rebranded Into an AI Company",
-          "url": "https://www.adweek.com/media/arena-group-paradium-ai-rebrand/",
-          "postedAt": "2026-08-12T19:00:00.000Z"
-        },
-        {
           "id": "om_5ad836c2c7",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Wrangler to open more stores amid direct-to-consumer push",
           "url": "https://www.retaildive.com/news/wrangler-open-more-stores-direct-to-consumer-push-helly-hansen-Q2/827672/",
           "postedAt": "2026-08-12T16:32:00.000Z"
-        },
-        {
-          "id": "om_5e8cac485d",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
-          "url": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
-          "postedAt": "2026-08-12T15:56:13.000Z"
         },
         {
           "id": "om_1892cb0f18",
@@ -592,36 +656,12 @@
           "postedAt": "2026-08-12T15:39:00.000Z"
         },
         {
-          "id": "om_b8fe744520",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bealls plots store expansion",
-          "url": "https://www.retaildive.com/news/bealls-store-expansion-new-york-city-buying-office/827658/",
-          "postedAt": "2026-08-12T15:37:00.000Z"
-        },
-        {
-          "id": "om_2ef2e72511",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target leans on newness for Halloween assortment",
-          "url": "https://www.retaildive.com/news/target-halloween-assortment-newness-merchandising/827674/",
-          "postedAt": "2026-08-12T15:32:00.000Z"
-        },
-        {
           "id": "om_1550d2d049",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Dove’s marketing mixes sports and style for US Open sponsorship return",
           "url": "https://www.marketingdive.com/news/doves-marketing-mixes-sports-and-style-for-us-open-sponsorship-return/827652/",
           "postedAt": "2026-08-12T14:39:00.000Z"
-        },
-        {
-          "id": "om_78a3dcf6c9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target taps Lowe’s executive as first chief AI officer",
-          "url": "https://www.retaildive.com/news/target-taps-lowes-chandhu-nair-chief-ai-officer/827630/",
-          "postedAt": "2026-08-12T14:30:00.000Z"
         },
         {
           "id": "om_1e70b81552",
@@ -632,56 +672,16 @@
           "postedAt": "2026-08-12T13:57:42.000Z"
         },
         {
-          "id": "om_eb7f36be97",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Rhone CMO on marketing at an inflection point for the apparel brand",
-          "url": "https://www.retaildive.com/news/rhone-cmo-marketing-inflection-point-apparel/827651/",
-          "postedAt": "2026-08-12T13:53:00.000Z"
-        },
-        {
           "id": "om_42ebcd8052",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "How Cava outperforms in fast casual despite frugal marketing budget",
           "url": "https://www.marketingdive.com/news/how-cava-outperforms-in-fast-casual-despite-frugal-marketing-budget/827625/",
           "postedAt": "2026-08-12T13:47:00.000Z"
-        },
-        {
-          "id": "om_9e040bdb09",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Urban Outfitters embraces campus life in first CTV commercial",
-          "url": "https://www.marketingdive.com/news/urban-outfitters-embraces-campus-life-in-first-ctv-commercial/827619/",
-          "postedAt": "2026-08-12T12:50:00.000Z"
-        },
-        {
-          "id": "om_6a728bcb2b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Watch Gronk Go Off Script in New Campaign for DNA Vibe",
-          "url": "https://www.adweek.com/convergent-tv/watch-gronk-go-off-script-in-new-campaign-for-dna-vibe/",
-          "postedAt": "2026-08-12T12:10:31.000Z"
-        },
-        {
-          "id": "om_3c827dfc98",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Burger King Drank Wendy’s Milk Shake",
-          "url": "https://www.adweek.com/brand-marketing/how-burger-king-drank-wendys-milk-shake/",
-          "postedAt": "2026-08-12T07:00:00.000Z"
-        },
-        {
-          "id": "om_ae0ebf52bc",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Meta’s lack of consumer trust could derail its AI plans",
-          "url": "https://www.socialmediatoday.com/news/metas-lack-of-consumer-trust-could-derail-its-ai-plans/827638/",
-          "postedAt": "2026-08-11T23:20:52.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-13T13:45:40.428Z",
+      "lastUpdated": "2026-08-14T02:44:31.081Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
