@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-14T02:44:29.197Z",
+      "lastUpdated": "2026-08-14T13:41:07.964Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-14T02:44:30.292Z",
+      "lastUpdated": "2026-08-14T13:41:09.071Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,62 @@
       },
       "articles": [
         {
+          "id": "om_1e4a06abf7",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Campaign Trail: Shinola and ‘Succession’ star set the pace in anxious ad",
+          "url": "https://www.marketingdive.com/news/campaign-trail-shinola-and-succession-star-set-the-pace-in-anxious-ad/827645/",
+          "postedAt": "2026-08-14T13:35:00.000Z"
+        },
+        {
+          "id": "om_b687bd82f1",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Best Pixel 10 Cases and Accessories (2026): Mous, dbrand, Bellroy",
+          "url": "https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/",
+          "postedAt": "2026-08-14T10:31:00.000Z"
+        },
+        {
+          "id": "om_9573a27ec0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Journey Is the Destination: Reinventing Travel Marketing",
+          "url": "https://www.adweek.com/brand-marketing/the-journey-is-the-destination-reinventing-travel-marketing/",
+          "postedAt": "2026-08-14T09:37:49.000Z"
+        },
+        {
+          "id": "om_5ac4f77f80",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "This Back-to-School Season, Denim Brands Hedge Their Bets Across Gen Z Subcultures",
+          "url": "https://www.adweek.com/creativity/this-back-to-school-season-denim-brands-hedge-their-bets-across-gen-z-subcultures/",
+          "postedAt": "2026-08-14T08:24:38.000Z"
+        },
+        {
+          "id": "om_53f1981209",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Retail Roundup: 9 Commerce Moves From Target, Kroger, Walmart and More",
+          "url": "https://www.adweek.com/commerce/retail-roundup-9-commerce-moves-from-target-kroger-walmart-and-more/",
+          "postedAt": "2026-08-14T06:00:00.000Z"
+        },
+        {
+          "id": "om_6ef7061a94",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 12 Campaigns That Caught Our Eye, From Gap to Marc Jacobs",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-12-campaigns-that-caught-our-eye-from-gap-to-marc-jacobs/",
+          "postedAt": "2026-08-14T06:00:00.000Z"
+        },
+        {
+          "id": "om_10c653ea6c",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta publishes holiday marketing guides",
+          "url": "https://www.socialmediatoday.com/news/meta-publishes-holiday-marketing-guides/827856/",
+          "postedAt": "2026-08-13T19:33:30.000Z"
+        },
+        {
           "id": "om_4921a200f7",
           "source": "Adweek",
           "lang": "en",
@@ -600,22 +656,6 @@
           "postedAt": "2026-08-13T14:15:00.000Z"
         },
         {
-          "id": "om_e7c92b9d3e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketing Vanguard at Cannes: Saying No Is the New Power Move ft. Mainardo de Nardis & Rani Al Hajji",
-          "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-saying-no-is-the-new-power-move-ft-mainardo-de-nardis-rani-al-hajji/",
-          "postedAt": "2026-08-13T10:02:40.000Z"
-        },
-        {
-          "id": "om_0f07efb9d5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Before Betting on a New Flavor, Oreo Is Letting Consumers Choose",
-          "url": "https://www.adweek.com/brand-marketing/before-betting-on-a-new-flavor-oreo-is-letting-consumers-choose/",
-          "postedAt": "2026-08-13T10:00:00.000Z"
-        },
-        {
           "id": "om_680a3ed33a",
           "source": "Marketing Brew",
           "lang": "en",
@@ -632,56 +672,16 @@
           "postedAt": "2026-08-12T21:15:05.000Z"
         },
         {
-          "id": "om_cc6ccbb6b8",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Meta expands access to Creator Studio app",
-          "url": "https://www.socialmediatoday.com/news/meta-expands-access-to-creator-studio-app/827745/",
-          "postedAt": "2026-08-12T19:23:02.000Z"
-        },
-        {
           "id": "om_5ad836c2c7",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Wrangler to open more stores amid direct-to-consumer push",
           "url": "https://www.retaildive.com/news/wrangler-open-more-stores-direct-to-consumer-push-helly-hansen-Q2/827672/",
           "postedAt": "2026-08-12T16:32:00.000Z"
-        },
-        {
-          "id": "om_1892cb0f18",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Reporter’s Notebook: How bad off is San Francisco retail?",
-          "url": "https://www.retaildive.com/news/reporters-notebook-how-bad-off-is-san-francisco-retail/827629/",
-          "postedAt": "2026-08-12T15:39:00.000Z"
-        },
-        {
-          "id": "om_1550d2d049",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Dove’s marketing mixes sports and style for US Open sponsorship return",
-          "url": "https://www.marketingdive.com/news/doves-marketing-mixes-sports-and-style-for-us-open-sponsorship-return/827652/",
-          "postedAt": "2026-08-12T14:39:00.000Z"
-        },
-        {
-          "id": "om_1e70b81552",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How padel is starting to make a racket in US sponsorships",
-          "url": "https://www.marketingbrew.com/stories/padel-us-sponsorships-growth?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-12T13:57:42.000Z"
-        },
-        {
-          "id": "om_42ebcd8052",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Cava outperforms in fast casual despite frugal marketing budget",
-          "url": "https://www.marketingdive.com/news/how-cava-outperforms-in-fast-casual-despite-frugal-marketing-budget/827625/",
-          "postedAt": "2026-08-12T13:47:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-14T02:44:31.081Z",
+      "lastUpdated": "2026-08-14T13:41:09.914Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
