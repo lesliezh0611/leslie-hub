@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-15T01:48:27.899Z",
+      "lastUpdated": "2026-08-15T12:57:46.910Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,14 +266,6 @@
         }
       ],
       "podcasts": [
-        {
-          "id": "en_pod_the_knowledge_project_6f53cc0d83",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "Roblox CEO: How to Make Better Decisions by Fixing Yourself First",
-          "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/",
-          "postedAt": "2026-08-13T09:45:00.000Z"
-        },
         {
           "id": "en_pod_lex_fridman_podcast_9421051dd1",
           "source": "Lex Fridman Podcast",
@@ -366,7 +358,7 @@
           "id": "en_pod_the_knowledge_project_87f7ad064d",
           "source": "The Knowledge Project",
           "platform": "podcast",
-          "topic": "The Mindset Behind Building a Great Little Business | Brad Jacobs",
+          "topic": "The Mindset Behind Building Billion-Dollar Companies | Brad Jacobs",
           "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
           "postedAt": "2026-07-30T09:45:00.000Z"
         },
@@ -427,10 +419,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-15T01:48:29.069Z",
+      "lastUpdated": "2026-08-15T12:57:48.384Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "14 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -681,7 +673,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-15T01:48:30.001Z",
+      "lastUpdated": "2026-08-15T12:57:49.866Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
