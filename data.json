@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-14T13:41:07.964Z",
+      "lastUpdated": "2026-08-15T01:48:27.899Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-14T13:41:09.071Z",
+      "lastUpdated": "2026-08-15T01:48:29.069Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,11 +520,67 @@
       },
       "articles": [
         {
-          "id": "om_1e4a06abf7",
+          "id": "om_6f56e04a74",
+          "source": "Wired",
+          "lang": "en",
+          "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
+          "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+          "postedAt": "2026-08-14T20:59:03.000Z"
+        },
+        {
+          "id": "om_f632a42f7f",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "A RAMageddon guide to back-to-school laptop shopping",
+          "url": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
+          "postedAt": "2026-08-14T19:37:04.000Z"
+        },
+        {
+          "id": "om_afbc6dd2fb",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "New Claims In WPP Whistleblower Suit Allege Sony Probe Found Rebate Fraud",
+          "url": "https://www.adweek.com/agencies/exclusive-new-claims-in-wpp-whistleblower-suit-allege-sony-probe-found-rebate-fraud/",
+          "postedAt": "2026-08-14T18:13:34.000Z"
+        },
+        {
+          "id": "om_6d7ca3291b",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "The X-Files creator Chris Carter wanted to make a more horrific movie",
+          "url": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu",
+          "postedAt": "2026-08-14T17:52:11.000Z"
+        },
+        {
+          "id": "om_1fe82c269c",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside the marketing strategy powering Shinola’s ‘new era’",
+          "url": "https://www.marketingbrew.com/stories/shinola-brand-campaign-strategy-nicholas-braun?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-14T15:33:45.000Z"
+        },
+        {
+          "id": "om_3c6f4f7644",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: Mud Jeans files for bankruptcy and is the K-shaped economy over?",
+          "url": "https://www.retaildive.com/news/mud-jeans-bankruptcy-k-shaped-economy-over-brooks-running-tapestry-earnings/827875/",
+          "postedAt": "2026-08-14T15:08:00.000Z"
+        },
+        {
+          "id": "om_f3aa1db920",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Crocs hatches new mascot Niles to enrich brand storytelling",
+          "url": "https://www.marketingdive.com/news/crocs-hatches-new-mascot-niles-to-enrich-brand-storytelling/827895/",
+          "postedAt": "2026-08-14T14:40:00.000Z"
+        },
+        {
+          "id": "om_78ca6d96a6",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Campaign Trail: Shinola and ‘Succession’ star set the pace in anxious ad",
-          "url": "https://www.marketingdive.com/news/campaign-trail-shinola-and-succession-star-set-the-pace-in-anxious-ad/827645/",
+          "url": "https://www.marketingdive.com/news/campaign-trail-shinola-succession-star-set-the-pace-in-anxious-ad/827645/",
           "postedAt": "2026-08-14T13:35:00.000Z"
         },
         {
@@ -534,6 +590,14 @@
           "title": "Best Pixel 10 Cases and Accessories (2026): Mous, dbrand, Bellroy",
           "url": "https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/",
           "postedAt": "2026-08-14T10:31:00.000Z"
+        },
+        {
+          "id": "om_2657002c2c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "13 Marketer Moves to Know About In August: Bobbie, Papa Johns, Twitch, and More",
+          "url": "https://www.adweek.com/brand-marketing/13-marketer-moves-to-know-about-in-august-bobbie-papa-johns-twitch-and-more/",
+          "postedAt": "2026-08-14T10:24:55.000Z"
         },
         {
           "id": "om_9573a27ec0",
@@ -576,14 +640,6 @@
           "postedAt": "2026-08-13T19:33:30.000Z"
         },
         {
-          "id": "om_4921a200f7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Samsonite’s $178.5M Béis Buy Is All About Winning Over Gen Z Women",
-          "url": "https://www.adweek.com/brand-marketing/samsonites-1785m-beis-buy-is-all-about-winning-over-gen-z-women/",
-          "postedAt": "2026-08-13T16:27:08.000Z"
-        },
-        {
           "id": "om_ed46b26776",
           "source": "Retail Dive",
           "lang": "en",
@@ -622,66 +678,10 @@
           "title": "Smartphone school ban could imperil billions in social media ad revenue",
           "url": "https://www.marketingdive.com/news/smartphone-school-ban-could-imperil-billions-in-social-media-ad-revenue/827739/",
           "postedAt": "2026-08-13T15:10:33.000Z"
-        },
-        {
-          "id": "om_f2e68cdf36",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Shoe Station names chief marketing officer",
-          "url": "https://www.retaildive.com/news/shoe-station-names-chief-marketing-officer/827733/",
-          "postedAt": "2026-08-13T14:38:00.000Z"
-        },
-        {
-          "id": "om_c3a2c61805",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Cuisinart caters to thumb-scrolling consumers with short-form series",
-          "url": "https://www.marketingdive.com/news/cuisinart-caters-to-thumb-scrolling-consumers-with-short-form-series/827792/",
-          "postedAt": "2026-08-13T14:32:00.000Z"
-        },
-        {
-          "id": "om_e469e97c6f",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How brands can navigate the Paramount-WBD merger chaos",
-          "url": "https://www.marketingdive.com/news/how-brands-can-navigate-the-paramount-wbd-merger-chaos/827386/",
-          "postedAt": "2026-08-13T14:30:00.000Z"
-        },
-        {
-          "id": "om_fcedddda0e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Panera Bread hires CMO from Cava as transformation work continues",
-          "url": "https://www.marketingdive.com/news/panera-bread-hires-cmo-from-cava-as-transformation-work-continues/827790/",
-          "postedAt": "2026-08-13T14:15:00.000Z"
-        },
-        {
-          "id": "om_680a3ed33a",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside Genesis Motor America’s brand film about Marilyn Monroe",
-          "url": "https://www.marketingbrew.com/stories/flesh-impact-genesis-motor-america-brand-film-maggie-gyllenhaal?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-13T10:00:00.000Z"
-        },
-        {
-          "id": "om_c60d0aee56",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Adobe says brands need a point of view to stand out",
-          "url": "https://www.socialmediatoday.com/news/adobe-says-brands-need-a-point-of-view-to-stand-out/827750/",
-          "postedAt": "2026-08-12T21:15:05.000Z"
-        },
-        {
-          "id": "om_5ad836c2c7",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Wrangler to open more stores amid direct-to-consumer push",
-          "url": "https://www.retaildive.com/news/wrangler-open-more-stores-direct-to-consumer-push-helly-hansen-Q2/827672/",
-          "postedAt": "2026-08-12T16:32:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-14T13:41:09.914Z",
+      "lastUpdated": "2026-08-15T01:48:30.001Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
