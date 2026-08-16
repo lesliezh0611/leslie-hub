@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-15T12:57:46.910Z",
+      "lastUpdated": "2026-08-16T01:56:06.246Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_bac4b81a60",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: Recovering from burnout, what Airtable’s sale says about the ceiling on a startup, keeping architecture docs up to date, running competitor analysis, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-recovering-from",
+          "postedAt": "2026-08-15T17:01:13.000Z"
+        },
+        {
+          "id": "en_pod_the_knowledge_project_6f53cc0d83",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "Roblox CEO: How to Make Better Decisions by Fixing Yourself First",
+          "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/",
+          "postedAt": "2026-08-13T09:45:00.000Z"
+        },
         {
           "id": "en_pod_lex_fridman_podcast_9421051dd1",
           "source": "Lex Fridman Podcast",
@@ -347,18 +363,10 @@
           "postedAt": "2026-08-03T12:04:26.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_a3e0c8b82b",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
-          "url": "https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management",
-          "postedAt": "2026-08-02T12:32:02.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_87f7ad064d",
           "source": "The Knowledge Project",
           "platform": "podcast",
-          "topic": "The Mindset Behind Building Billion-Dollar Companies | Brad Jacobs",
+          "topic": "The Mindset Behind Building a Great Little Business | Brad Jacobs",
           "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
           "postedAt": "2026-07-30T09:45:00.000Z"
         },
@@ -419,10 +427,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-15T12:57:48.384Z",
+      "lastUpdated": "2026-08-16T01:56:07.426Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "14 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -520,28 +528,12 @@
           "postedAt": "2026-08-14T20:59:03.000Z"
         },
         {
-          "id": "om_f632a42f7f",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "A RAMageddon guide to back-to-school laptop shopping",
-          "url": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school",
-          "postedAt": "2026-08-14T19:37:04.000Z"
-        },
-        {
           "id": "om_afbc6dd2fb",
           "source": "Adweek",
           "lang": "en",
           "title": "New Claims In WPP Whistleblower Suit Allege Sony Probe Found Rebate Fraud",
           "url": "https://www.adweek.com/agencies/exclusive-new-claims-in-wpp-whistleblower-suit-allege-sony-probe-found-rebate-fraud/",
           "postedAt": "2026-08-14T18:13:34.000Z"
-        },
-        {
-          "id": "om_6d7ca3291b",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "The X-Files creator Chris Carter wanted to make a more horrific movie",
-          "url": "https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu",
-          "postedAt": "2026-08-14T17:52:11.000Z"
         },
         {
           "id": "om_1fe82c269c",
@@ -670,10 +662,26 @@
           "title": "Smartphone school ban could imperil billions in social media ad revenue",
           "url": "https://www.marketingdive.com/news/smartphone-school-ban-could-imperil-billions-in-social-media-ad-revenue/827739/",
           "postedAt": "2026-08-13T15:10:33.000Z"
+        },
+        {
+          "id": "om_f2e68cdf36",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Shoe Station names chief marketing officer",
+          "url": "https://www.retaildive.com/news/shoe-station-names-chief-marketing-officer/827733/",
+          "postedAt": "2026-08-13T14:38:00.000Z"
+        },
+        {
+          "id": "om_c3a2c61805",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Cuisinart caters to thumb-scrolling consumers with short-form series",
+          "url": "https://www.marketingdive.com/news/cuisinart-caters-to-thumb-scrolling-consumers-with-short-form-series/827792/",
+          "postedAt": "2026-08-13T14:32:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-15T12:57:49.866Z",
+      "lastUpdated": "2026-08-16T01:56:08.959Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
