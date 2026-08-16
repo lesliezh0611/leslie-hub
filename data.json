@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-16T01:56:06.246Z",
+      "lastUpdated": "2026-08-16T12:59:20.521Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_bdc82987de",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
+          "url": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
+          "postedAt": "2026-08-16T12:31:42.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_bac4b81a60",
           "source": "Lenny's Podcast",
@@ -355,14 +363,6 @@
           "postedAt": "2026-08-03T15:02:21.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_c2fa047618",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
-          "url": "https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites",
-          "postedAt": "2026-08-03T12:04:26.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_87f7ad064d",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-16T01:56:07.426Z",
+      "lastUpdated": "2026-08-16T12:59:21.594Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -681,7 +681,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-16T01:56:08.959Z",
+      "lastUpdated": "2026-08-16T12:59:22.642Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
