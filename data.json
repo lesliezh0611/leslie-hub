@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-17T01:53:54.473Z",
+      "lastUpdated": "2026-08-17T13:04:08.662Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_10392cc337",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder",
+          "url": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
+          "postedAt": "2026-08-17T12:04:02.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_bdc82987de",
           "source": "Lenny's Podcast",
@@ -355,14 +363,6 @@
           "postedAt": "2026-08-04T13:02:53.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_6955e8ae4f",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-chatgpt-codex-voice-browser",
-          "postedAt": "2026-08-03T15:02:21.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_87f7ad064d",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-17T01:53:56.181Z",
+      "lastUpdated": "2026-08-17T13:04:10.101Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,86 @@
       },
       "articles": [
         {
+          "id": "om_e773166a04",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How Athletic Brewing is expanding its NFL presence at MetLife",
+          "url": "https://www.marketingbrew.com/stories/athletic-brewing-nfl-metlife-jets-giants?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-17T10:00:00.000Z"
+        },
+        {
+          "id": "om_daabcac647",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Why retail’s biggest AI assumption is wrong",
+          "url": "https://www.retaildive.com/spons/why-retails-biggest-ai-assumption-is-wrong/826404/",
+          "postedAt": "2026-08-17T09:00:00.000Z"
+        },
+        {
+          "id": "om_e3fb137fcc",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Why retailers are making EDI compliance non-negotiable for vendors in 2026",
+          "url": "https://www.retaildive.com/spons/why-retailers-are-making-edi-compliance-non-negotiable-for-vendors-in-2026/827304/",
+          "postedAt": "2026-08-17T09:00:00.000Z"
+        },
+        {
+          "id": "om_036f6c8aaa",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "A new community for the people modernizing complex B2B commerce",
+          "url": "https://www.retaildive.com/spons/a-new-community-for-the-people-modernizing-complex-b2b-commerce/827937/",
+          "postedAt": "2026-08-17T09:00:00.000Z"
+        },
+        {
+          "id": "om_248893940f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "10 Gen Z Marketing Makeovers, And Whether They’re Working",
+          "url": "https://www.adweek.com/brand-marketing/10-gen-z-marketing-makeovers-and-whether-theyre-working/",
+          "postedAt": "2026-08-17T06:13:40.000Z"
+        },
+        {
+          "id": "om_f77a6ba22f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Performance Agency Chief Media Acquires 2 Firms to Beef up Amazon and TikTok Expertise",
+          "url": "https://www.adweek.com/dealroom/performance-agency-chief-media-acquires-2-firms-to-beef-up-amazon-and-tiktok-expertise/",
+          "postedAt": "2026-08-17T06:00:00.000Z"
+        },
+        {
+          "id": "om_e91b96c5c2",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why GEO Scores Aren’t the Solution To Your Brand’s AI Engine Visibility",
+          "url": "https://www.adweek.com/media/why-geo-scores-arent-the-solution-to-your-brands-ai-engine-visibility/",
+          "postedAt": "2026-08-17T06:00:00.000Z"
+        },
+        {
+          "id": "om_aa8124fbf9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "JCPenney parodies off-price retailers with wellness-themed campaign",
+          "url": "https://www.marketingdive.com/news/jcpenney-parodies-off-price-retailers-with-wellness-themed-campaign/827878/",
+          "postedAt": "2026-08-17T04:01:00.000Z"
+        },
+        {
+          "id": "om_4eda7d7ae5",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok announces 2026 Music on Stage competition",
+          "url": "https://www.socialmediatoday.com/news/tiktok-announces-2026-music-on-stage-competition/827983/",
+          "postedAt": "2026-08-16T23:04:59.000Z"
+        },
+        {
+          "id": "om_fc022d0ef0",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "LinkedIn playbook offers tips on effective ad campaigns",
+          "url": "https://www.socialmediatoday.com/news/linkedin-playbook-offers-tips-on-effective-ad-campaigns/827982/",
+          "postedAt": "2026-08-16T23:03:03.000Z"
+        },
+        {
           "id": "om_6f56e04a74",
           "source": "Wired",
           "lang": "en",
@@ -598,90 +678,10 @@
           "title": "This Back-to-School Season, Denim Brands Hedge Their Bets Across Gen Z Subcultures",
           "url": "https://www.adweek.com/creativity/this-back-to-school-season-denim-brands-hedge-their-bets-across-gen-z-subcultures/",
           "postedAt": "2026-08-14T08:24:38.000Z"
-        },
-        {
-          "id": "om_53f1981209",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Retail Roundup: 9 Commerce Moves From Target, Kroger, Walmart and More",
-          "url": "https://www.adweek.com/commerce/retail-roundup-9-commerce-moves-from-target-kroger-walmart-and-more/",
-          "postedAt": "2026-08-14T06:00:00.000Z"
-        },
-        {
-          "id": "om_6ef7061a94",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 12 Campaigns That Caught Our Eye, From Gap to Marc Jacobs",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-12-campaigns-that-caught-our-eye-from-gap-to-marc-jacobs/",
-          "postedAt": "2026-08-14T06:00:00.000Z"
-        },
-        {
-          "id": "om_10c653ea6c",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Meta publishes holiday marketing guides",
-          "url": "https://www.socialmediatoday.com/news/meta-publishes-holiday-marketing-guides/827856/",
-          "postedAt": "2026-08-13T19:33:30.000Z"
-        },
-        {
-          "id": "om_ed46b26776",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Consumers warm up to agentic AI purchases",
-          "url": "https://www.retaildive.com/news/retail-shoppers-warm-up-agentic-ai-purchases/827563/",
-          "postedAt": "2026-08-13T16:19:00.000Z"
-        },
-        {
-          "id": "om_3ee892aa50",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Academy Sports and Outdoors taps Instacart for same-day delivery",
-          "url": "https://www.retaildive.com/news/academy-sports-and-outdoors-instacart-same-day-delivery/827796/",
-          "postedAt": "2026-08-13T16:03:00.000Z"
-        },
-        {
-          "id": "om_cf7aaaf0fc",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: Pinterest partners with Zillow for ad targeting",
-          "url": "https://www.marketingdive.com/news/sociable-pinterest-partners-with-zillow-for-ad-targeting/827812/",
-          "postedAt": "2026-08-13T15:51:00.000Z"
-        },
-        {
-          "id": "om_32c0988071",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Dillard’s gains market share",
-          "url": "https://www.retaildive.com/news/dillards-gains-market-share-q2-tariff-refund-gross-margin-profit/827774/",
-          "postedAt": "2026-08-13T15:36:00.000Z"
-        },
-        {
-          "id": "om_10d04cfea9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Smartphone school ban could imperil billions in social media ad revenue",
-          "url": "https://www.marketingdive.com/news/smartphone-school-ban-could-imperil-billions-in-social-media-ad-revenue/827739/",
-          "postedAt": "2026-08-13T15:10:33.000Z"
-        },
-        {
-          "id": "om_f2e68cdf36",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Shoe Station names chief marketing officer",
-          "url": "https://www.retaildive.com/news/shoe-station-names-chief-marketing-officer/827733/",
-          "postedAt": "2026-08-13T14:38:00.000Z"
-        },
-        {
-          "id": "om_c3a2c61805",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Cuisinart caters to thumb-scrolling consumers with short-form series",
-          "url": "https://www.marketingdive.com/news/cuisinart-caters-to-thumb-scrolling-consumers-with-short-form-series/827792/",
-          "postedAt": "2026-08-13T14:32:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-17T01:53:57.517Z",
+      "lastUpdated": "2026-08-17T13:04:11.342Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
