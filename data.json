@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-18T01:49:19.100Z",
+      "lastUpdated": "2026-08-18T13:06:24.225Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-18T01:49:20.739Z",
+      "lastUpdated": "2026-08-18T13:06:25.647Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,70 @@
       },
       "articles": [
         {
+          "id": "om_fabbc58357",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Liquid Death and Garage Beer take on AI data centers — with pee",
+          "url": "https://www.marketingdive.com/news/liquid-death-and-garage-beer-take-on-ai-data-centers-with-pee/827879/",
+          "postedAt": "2026-08-18T13:00:00.000Z"
+        },
+        {
+          "id": "om_26c1aca19c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "ANA cautions marketers against overreliance on retail media data",
+          "url": "https://www.marketingdive.com/news/ana-cautions-marketers-against-overreliance-on-retail-media-data/828109/",
+          "postedAt": "2026-08-18T12:56:00.000Z"
+        },
+        {
+          "id": "om_b5c677559c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Brands shake up back-to-school marketing to reach ‘hyper value-seekers’",
+          "url": "https://www.marketingdive.com/news/brands-shake-up-back-to-school-marketing-to-reach-hyper-value-seekers/827821/",
+          "postedAt": "2026-08-18T12:00:00.000Z"
+        },
+        {
+          "id": "om_6efb187381",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside BetterHelp’s ‘repeatable, scalable’ comments-section social strategy",
+          "url": "https://www.marketingbrew.com/stories/betterhelp-comments-section-social-strategy-repeatable-scalable?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-18T10:00:00.000Z"
+        },
+        {
+          "id": "om_c1a30cfda2",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "4 Challenges Holding Back Retailers’ Ambitious Advertising Plans, According to the ANA",
+          "url": "https://www.adweek.com/commerce/4-challenges-holding-back-retailers-ambitious-advertising-plans-according-to-the-ana/",
+          "postedAt": "2026-08-18T09:00:00.000Z"
+        },
+        {
+          "id": "om_c08fe27ae5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Travis Kelce Plays NIL Matchmaker Between Brands and Athletes in New Partnership",
+          "url": "https://www.adweek.com/agencies/travis-kelce-plays-nil-matchmaker-between-brands-and-athletes-in-new-partnership/",
+          "postedAt": "2026-08-18T08:45:00.000Z"
+        },
+        {
+          "id": "om_d784e39637",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Bobbie’s New CGO on Her Plan to Take It From Formula Disruptor to Household Name",
+          "url": "https://www.adweek.com/brand-marketing/bobbies-new-cgo-on-her-plan-to-take-it-from-formula-disruptor-to-household-name/",
+          "postedAt": "2026-08-18T05:42:00.000Z"
+        },
+        {
+          "id": "om_d833d47e04",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Edgewell’s Rob Master on Keeping People at the Center of AI-Powered Marketing",
+          "url": "https://www.adweek.com/brand-marketing/edgewells-rob-master-on-keeping-people-at-the-center-of-ai-powered-marketing/",
+          "postedAt": "2026-08-18T04:12:52.000Z"
+        },
+        {
           "id": "om_5fb44f5209",
           "source": "Social Media Today",
           "lang": "en",
@@ -550,6 +614,14 @@
           "title": "Where this chief discoverability officer sees marketers getting audiences wrong",
           "url": "https://www.marketingbrew.com/stories/VML-chief-discoverability-officer-heather-physioc-q-and-a?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-08-17T18:15:16.000Z"
+        },
+        {
+          "id": "om_372d5fe153",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Under Armour ends partnership with The Rock amid marketing reset",
+          "url": "https://www.marketingdive.com/news/under-armour-dwayne-the-rock-johnson-end-partnership/828111/",
+          "postedAt": "2026-08-17T16:20:00.000Z"
         },
         {
           "id": "om_bc2114613b",
@@ -606,82 +678,10 @@
           "title": "Walmart proposes fulfillment warehouse in New York",
           "url": "https://www.retaildive.com/news/walmart-proposes-fulfillment-warehouse-new-york/827787/",
           "postedAt": "2026-08-17T13:52:00.000Z"
-        },
-        {
-          "id": "om_fb70fff2ac",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Amazon, Nike reign supreme with Gen Alpha teens: report",
-          "url": "https://www.marketingdive.com/news/amazon-nike-reign-supreme-with-gen-alpha-teens-report/827946/",
-          "postedAt": "2026-08-17T13:50:00.000Z"
-        },
-        {
-          "id": "om_e773166a04",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How Athletic Brewing is expanding its NFL presence at MetLife",
-          "url": "https://www.marketingbrew.com/stories/athletic-brewing-nfl-metlife-jets-giants?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-17T10:00:00.000Z"
-        },
-        {
-          "id": "om_59d6d6bf4c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "JCPenney Takes Aim at Off-Price Retail With a Satirical Wellness Retreat",
-          "url": "https://www.adweek.com/creativity/jcpenney-takes-aim-at-off-price-retail-with-a-satirical-wellness-retreat/",
-          "postedAt": "2026-08-17T09:35:07.000Z"
-        },
-        {
-          "id": "om_daabcac647",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Why retail’s biggest AI assumption is wrong",
-          "url": "https://www.retaildive.com/spons/why-retails-biggest-ai-assumption-is-wrong/826404/",
-          "postedAt": "2026-08-17T09:00:00.000Z"
-        },
-        {
-          "id": "om_e3fb137fcc",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Why retailers are making EDI compliance non-negotiable for vendors in 2026",
-          "url": "https://www.retaildive.com/spons/why-retailers-are-making-edi-compliance-non-negotiable-for-vendors-in-2026/827304/",
-          "postedAt": "2026-08-17T09:00:00.000Z"
-        },
-        {
-          "id": "om_036f6c8aaa",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "A new community for the people modernizing complex B2B commerce",
-          "url": "https://www.retaildive.com/spons/a-new-community-for-the-people-modernizing-complex-b2b-commerce/827937/",
-          "postedAt": "2026-08-17T09:00:00.000Z"
-        },
-        {
-          "id": "om_248893940f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "10 Gen Z Marketing Makeovers, And Whether They’re Working",
-          "url": "https://www.adweek.com/brand-marketing/10-gen-z-marketing-makeovers-and-whether-theyre-working/",
-          "postedAt": "2026-08-17T06:13:40.000Z"
-        },
-        {
-          "id": "om_f77a6ba22f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Performance Agency Chief Media Acquires 2 Firms to Beef up Amazon and TikTok Expertise",
-          "url": "https://www.adweek.com/dealroom/performance-agency-chief-media-acquires-2-firms-to-beef-up-amazon-and-tiktok-expertise/",
-          "postedAt": "2026-08-17T06:00:00.000Z"
-        },
-        {
-          "id": "om_e91b96c5c2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why GEO Scores Aren’t the Solution To Your Brand’s AI Engine Visibility",
-          "url": "https://www.adweek.com/media/why-geo-scores-arent-the-solution-to-your-brands-ai-engine-visibility/",
-          "postedAt": "2026-08-17T06:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-18T01:49:21.757Z",
+      "lastUpdated": "2026-08-18T13:06:26.916Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
