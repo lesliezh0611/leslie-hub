@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-18T13:06:24.225Z",
+      "lastUpdated": "2026-08-19T01:51:40.628Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_0bd92e9f12",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "I tested Grok Bot, Grok 4.6, and Cursor Origin - here’s my honest take",
+          "url": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
+          "postedAt": "2026-08-18T21:30:31.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_b0facf8be8",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Announcing Lenny’s Jobs: The best place in the world to find, vet, and land your dream job",
+          "url": "https://www.lennysnewsletter.com/p/announcing-lennys-jobs-the-best-place",
+          "postedAt": "2026-08-18T15:40:06.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_bd6d7d2599",
           "source": "Lenny's Podcast",
@@ -347,36 +363,12 @@
           "postedAt": "2026-08-09T12:31:29.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_bec3018399",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Crafting outreach that reads as authentic, finding design partners, what counts as a moat when anyone can build, making a product vision stick, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach",
-          "postedAt": "2026-08-08T17:08:14.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_913d74e3f6",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Build an AI code review bot in 30 minutes with Vercel Eve",
-          "url": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
-          "postedAt": "2026-08-05T12:04:01.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_87f7ad064d",
           "source": "The Knowledge Project",
           "platform": "podcast",
           "topic": "The Mindset Behind Building a Great Little Business | Brad Jacobs",
           "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
           "postedAt": "2026-07-30T09:45:00.000Z"
-        },
-        {
-          "id": "en_pod_lex_fridman_podcast_a269ad0476",
-          "source": "Lex Fridman Podcast",
-          "platform": "podcast",
-          "topic": "#499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee",
-          "url": "https://lexfridman.com/gary-gallagher/?utm_source=rss&utm_medium=rss&utm_campaign=gary-gallagher",
-          "postedAt": "2026-07-28T20:06:06.000Z"
         }
       ],
       "books": [
@@ -427,10 +419,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-18T13:06:25.647Z",
+      "lastUpdated": "2026-08-19T01:51:41.893Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "14 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -520,6 +512,118 @@
       },
       "articles": [
         {
+          "id": "om_727d868c2c",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok Live adds AI-generated intros",
+          "url": "https://www.socialmediatoday.com/news/tiktok-live-adds-ai-generated-intros/828220/",
+          "postedAt": "2026-08-18T23:19:37.000Z"
+        },
+        {
+          "id": "om_7febcc22f3",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "TikTok explores peer-to-peer payments via DMs, report says",
+          "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+          "postedAt": "2026-08-18T20:03:56.000Z"
+        },
+        {
+          "id": "om_5f5d7af0f5",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "IAB updates AI disclosure recommendations as legislation evolves",
+          "url": "https://www.marketingbrew.com/stories/iab-ai-use-transparency-disclosure-framework?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-18T18:10:11.000Z"
+        },
+        {
+          "id": "om_b4ea822cca",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "AI brands are hiring to reshape narratives around safety",
+          "url": "https://www.marketingbrew.com/stories/ai-brands-are-hiring-to-reshape-narratives-around-safety?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-18T18:10:02.000Z"
+        },
+        {
+          "id": "om_1b26716648",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+          "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+          "postedAt": "2026-08-18T16:19:10.000Z"
+        },
+        {
+          "id": "om_62070e2117",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target finalizes divorce from Ulta, signaling shift in beauty market",
+          "url": "https://www.retaildive.com/news/target-finalizes-divorce-from-ulta-signaling-shift-in-beauty-market/827990/",
+          "postedAt": "2026-08-18T16:12:00.000Z"
+        },
+        {
+          "id": "om_06cd23a406",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Pros continue to outperform DIY shoppers at Home Depot",
+          "url": "https://www.retaildive.com/news/home-depot-pros-outperform-diy-shoppers-q2-earnings/828159/",
+          "postedAt": "2026-08-18T16:10:00.000Z"
+        },
+        {
+          "id": "om_f6ddd7b2c1",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Nike, Foot Locker debut hyperlocal community hub store in Los Angeles",
+          "url": "https://www.retaildive.com/news/nike-foot-locker-crenshaw-rec-store-concept-los-angeles/828149/",
+          "postedAt": "2026-08-18T15:57:00.000Z"
+        },
+        {
+          "id": "om_fff6afade1",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Viral Disneyland Content Creator Defends Her ‘Special Friendship’ With Peter Pan",
+          "url": "https://www.wired.com/story/viral-disneyland-content-creator-defends-her-special-friendship-with-peter-pan/",
+          "postedAt": "2026-08-18T15:50:29.000Z"
+        },
+        {
+          "id": "om_7db0201516",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart+ adds new in-store perks",
+          "url": "https://www.retaildive.com/news/walmart-plus-loyalty-program-adds-store-perks-photo-money-centers/828143/",
+          "postedAt": "2026-08-18T15:37:00.000Z"
+        },
+        {
+          "id": "om_1712595f21",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Indochino plots small-format showroom expansion",
+          "url": "https://www.retaildive.com/news/indochino-plots-small-format-showroom-expansion/828015/",
+          "postedAt": "2026-08-18T14:38:00.000Z"
+        },
+        {
+          "id": "om_255da455c2",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Entries Open for ADWEEK Tech Challengers to Watch 2027",
+          "url": "https://www.adweek.com/performance-marketing/entries-open-for-adweek-tech-challengers-to-watch-2027/",
+          "postedAt": "2026-08-18T14:22:29.000Z"
+        },
+        {
+          "id": "om_f81e23b029",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Crocs hatches new mascot Niles to enrich brand storytelling",
+          "url": "https://www.retaildive.com/news/crocs-hatches-new-mascot-niles-to-enrich-brand-storytelling/828119/",
+          "postedAt": "2026-08-18T13:52:00.000Z"
+        },
+        {
+          "id": "om_4f443566c7",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Mattel Game Studios is ready to extend physical play to a virtual world",
+          "url": "https://www.retaildive.com/news/mattel-game-studios-physical-play-virtual-world/828087/",
+          "postedAt": "2026-08-18T13:34:00.000Z"
+        },
+        {
           "id": "om_fabbc58357",
           "source": "Marketing Dive",
           "lang": "en",
@@ -544,144 +648,32 @@
           "postedAt": "2026-08-18T12:00:00.000Z"
         },
         {
-          "id": "om_6efb187381",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside BetterHelp’s ‘repeatable, scalable’ comments-section social strategy",
-          "url": "https://www.marketingbrew.com/stories/betterhelp-comments-section-social-strategy-repeatable-scalable?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-18T10:00:00.000Z"
-        },
-        {
-          "id": "om_c1a30cfda2",
+          "id": "om_feec412d62",
           "source": "Adweek",
           "lang": "en",
-          "title": "4 Challenges Holding Back Retailers’ Ambitious Advertising Plans, According to the ANA",
-          "url": "https://www.adweek.com/commerce/4-challenges-holding-back-retailers-ambitious-advertising-plans-according-to-the-ana/",
-          "postedAt": "2026-08-18T09:00:00.000Z"
+          "title": "Mind the Gap: The Wisdomous Company’s Seth Matlins on Marketing’s Horizontal Blind Spot",
+          "url": "https://www.adweek.com/brand-marketing/wisdomous-company-seth-matlins-marketing-horizontal-blind-spot/",
+          "postedAt": "2026-08-18T11:34:26.000Z"
         },
         {
-          "id": "om_c08fe27ae5",
+          "id": "om_34cb00ba5f",
           "source": "Adweek",
           "lang": "en",
-          "title": "Travis Kelce Plays NIL Matchmaker Between Brands and Athletes in New Partnership",
-          "url": "https://www.adweek.com/agencies/travis-kelce-plays-nil-matchmaker-between-brands-and-athletes-in-new-partnership/",
-          "postedAt": "2026-08-18T08:45:00.000Z"
+          "title": "It’s Probably Too Late for Neutrogena to Save Itself From the Hayden Panettiere Uproar",
+          "url": "https://www.adweek.com/brand-marketing/its-probably-too-late-for-neutrogena-to-save-itself-from-the-hayden-panettiere-uproar/",
+          "postedAt": "2026-08-18T11:29:55.000Z"
         },
         {
-          "id": "om_d784e39637",
+          "id": "om_3e4a8725dd",
           "source": "Adweek",
           "lang": "en",
-          "title": "Bobbie’s New CGO on Her Plan to Take It From Formula Disruptor to Household Name",
-          "url": "https://www.adweek.com/brand-marketing/bobbies-new-cgo-on-her-plan-to-take-it-from-formula-disruptor-to-household-name/",
-          "postedAt": "2026-08-18T05:42:00.000Z"
-        },
-        {
-          "id": "om_d833d47e04",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Edgewell’s Rob Master on Keeping People at the Center of AI-Powered Marketing",
-          "url": "https://www.adweek.com/brand-marketing/edgewells-rob-master-on-keeping-people-at-the-center-of-ai-powered-marketing/",
-          "postedAt": "2026-08-18T04:12:52.000Z"
-        },
-        {
-          "id": "om_5fb44f5209",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok owner ByteDance signs Motion Picture Association deal",
-          "url": "https://www.socialmediatoday.com/news/tiktok-owner-bytedance-signs-motion-picture-association-deal/828088/",
-          "postedAt": "2026-08-17T19:54:53.000Z"
-        },
-        {
-          "id": "om_7996fca337",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Reddit begins testing a new audio and video experience, similar to popular TikTok videos",
-          "url": "https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/",
-          "postedAt": "2026-08-17T18:42:30.000Z"
-        },
-        {
-          "id": "om_acd81bb291",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "‘We want people to feel something’: Why Nuuly is taking a chance on microdramas",
-          "url": "https://www.marketingbrew.com/stories/why-nuuly-is-taking-a-chance-on-microdramas?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-17T18:29:41.000Z"
-        },
-        {
-          "id": "om_701c26184d",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Where this chief discoverability officer sees marketers getting audiences wrong",
-          "url": "https://www.marketingbrew.com/stories/VML-chief-discoverability-officer-heather-physioc-q-and-a?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-17T18:15:16.000Z"
-        },
-        {
-          "id": "om_372d5fe153",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Under Armour ends partnership with The Rock amid marketing reset",
-          "url": "https://www.marketingdive.com/news/under-armour-dwayne-the-rock-johnson-end-partnership/828111/",
-          "postedAt": "2026-08-17T16:20:00.000Z"
-        },
-        {
-          "id": "om_bc2114613b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Under Armour ends partnership with The Rock amid marketing reset",
-          "url": "https://www.retaildive.com/news/under-armour-dwayne-the-rock-johnson-end-partnership/828020/",
-          "postedAt": "2026-08-17T16:20:00.000Z"
-        },
-        {
-          "id": "om_0a72eab655",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "To lure in shoppers, J.C. Penney takes aim at off-price stores",
-          "url": "https://www.retaildive.com/news/jc-penney-takes-aim-off-price-stores/828001/",
-          "postedAt": "2026-08-17T15:43:00.000Z"
-        },
-        {
-          "id": "om_a6d73999ab",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Back-to-school spending could be ‘moderate at best’",
-          "url": "https://www.retaildive.com/news/back-to-school-spending-moderate-circana/828013/",
-          "postedAt": "2026-08-17T15:34:00.000Z"
-        },
-        {
-          "id": "om_1c0a5a2de5",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "WordPress.com targets the next generation of web creators with a free student plan",
-          "url": "https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/",
-          "postedAt": "2026-08-17T14:56:00.000Z"
-        },
-        {
-          "id": "om_d397329735",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target strengthens inventory management with digital twins",
-          "url": "https://www.retaildive.com/news/target-inventory-management-digital-twins/827995/",
-          "postedAt": "2026-08-17T14:26:00.000Z"
-        },
-        {
-          "id": "om_a6d19217cc",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why StarKist chose to consolidate its marketing at one agency",
-          "url": "https://www.marketingdive.com/news/why-starkist-chose-to-consolidate-its-marketing-at-one-agency/827873/",
-          "postedAt": "2026-08-17T14:17:54.000Z"
-        },
-        {
-          "id": "om_a080268375",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart proposes fulfillment warehouse in New York",
-          "url": "https://www.retaildive.com/news/walmart-proposes-fulfillment-warehouse-new-york/827787/",
-          "postedAt": "2026-08-17T13:52:00.000Z"
+          "title": "The IP Moat: How Sahara Lotti Built and Defended Lashify",
+          "url": "https://www.adweek.com/brand-marketing/the-ip-moat-how-sahara-lotti-built-and-defended-lashify/",
+          "postedAt": "2026-08-18T11:20:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-18T13:06:26.916Z",
+      "lastUpdated": "2026-08-19T01:51:43.429Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
