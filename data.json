@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-19T01:51:40.628Z",
+      "lastUpdated": "2026-08-19T13:07:06.131Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-19T01:51:41.893Z",
+      "lastUpdated": "2026-08-19T13:07:07.781Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -511,6 +511,54 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_63a27ea551",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "IAB revisits AI disclosure in ads as legal requirements multiply",
+          "url": "https://www.marketingdive.com/news/iab-revisits-ai-disclosure-in-ads-as-legal-requirements-multiply/828182/",
+          "postedAt": "2026-08-19T12:52:00.000Z"
+        },
+        {
+          "id": "om_75bfa86de1",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Chipotle broadens Gen Alpha marketing with Salish Matter collab",
+          "url": "https://www.marketingdive.com/news/chipotle-broadens-gen-alpha-marketing-strategy-with-salish-matter-collab/828178/",
+          "postedAt": "2026-08-19T11:53:00.000Z"
+        },
+        {
+          "id": "om_6f3bbdb0ba",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target scores major sales growth in beauty, hardlines merchandise",
+          "url": "https://www.retaildive.com/news/target-scores-sales-growth-beauty-hardlines-merchandise/828196/",
+          "postedAt": "2026-08-19T10:33:00.000Z"
+        },
+        {
+          "id": "om_ba8b975bf6",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How the Poppi founder is using her platform to launch her next venture",
+          "url": "https://www.marketingbrew.com/stories/poppi-founder-social-media-recruiting-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-19T10:00:00.000Z"
+        },
+        {
+          "id": "om_2c4283105d",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "ChatGPT Ads to roll out in 31 new markets as OpenAI heads toward IPO",
+          "url": "https://www.marketingbrew.com/stories/openai-chatgpt-ads-31-new-international-markets-expansion?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-19T10:00:00.000Z"
+        },
+        {
+          "id": "om_8a433e5f8c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Data Giant SAS’s Deal With Liverpool FC Signals a Broader B2B Shift",
+          "url": "https://www.adweek.com/brand-marketing/data-giant-sass-deal-with-liverpool-fc-signals-a-broader-b2b-shift/",
+          "postedAt": "2026-08-19T06:00:00.000Z"
+        },
         {
           "id": "om_727d868c2c",
           "source": "Social Media Today",
@@ -622,58 +670,10 @@
           "title": "Mattel Game Studios is ready to extend physical play to a virtual world",
           "url": "https://www.retaildive.com/news/mattel-game-studios-physical-play-virtual-world/828087/",
           "postedAt": "2026-08-18T13:34:00.000Z"
-        },
-        {
-          "id": "om_fabbc58357",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Liquid Death and Garage Beer take on AI data centers — with pee",
-          "url": "https://www.marketingdive.com/news/liquid-death-and-garage-beer-take-on-ai-data-centers-with-pee/827879/",
-          "postedAt": "2026-08-18T13:00:00.000Z"
-        },
-        {
-          "id": "om_26c1aca19c",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "ANA cautions marketers against overreliance on retail media data",
-          "url": "https://www.marketingdive.com/news/ana-cautions-marketers-against-overreliance-on-retail-media-data/828109/",
-          "postedAt": "2026-08-18T12:56:00.000Z"
-        },
-        {
-          "id": "om_b5c677559c",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Brands shake up back-to-school marketing to reach ‘hyper value-seekers’",
-          "url": "https://www.marketingdive.com/news/brands-shake-up-back-to-school-marketing-to-reach-hyper-value-seekers/827821/",
-          "postedAt": "2026-08-18T12:00:00.000Z"
-        },
-        {
-          "id": "om_feec412d62",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Mind the Gap: The Wisdomous Company’s Seth Matlins on Marketing’s Horizontal Blind Spot",
-          "url": "https://www.adweek.com/brand-marketing/wisdomous-company-seth-matlins-marketing-horizontal-blind-spot/",
-          "postedAt": "2026-08-18T11:34:26.000Z"
-        },
-        {
-          "id": "om_34cb00ba5f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "It’s Probably Too Late for Neutrogena to Save Itself From the Hayden Panettiere Uproar",
-          "url": "https://www.adweek.com/brand-marketing/its-probably-too-late-for-neutrogena-to-save-itself-from-the-hayden-panettiere-uproar/",
-          "postedAt": "2026-08-18T11:29:55.000Z"
-        },
-        {
-          "id": "om_3e4a8725dd",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The IP Moat: How Sahara Lotti Built and Defended Lashify",
-          "url": "https://www.adweek.com/brand-marketing/the-ip-moat-how-sahara-lotti-built-and-defended-lashify/",
-          "postedAt": "2026-08-18T11:20:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-19T01:51:43.429Z",
+      "lastUpdated": "2026-08-19T13:07:09.932Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
