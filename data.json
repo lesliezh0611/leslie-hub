@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-19T13:07:06.131Z",
+      "lastUpdated": "2026-08-20T01:50:16.922Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-19T13:07:07.781Z",
+      "lastUpdated": "2026-08-20T01:50:18.448Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,78 @@
       },
       "articles": [
         {
+          "id": "om_3b209bee47",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok explores expanding in-stream payment options",
+          "url": "https://www.socialmediatoday.com/news/tiktok-explores-expanding-in-stream-payment-options/828350/",
+          "postedAt": "2026-08-19T23:19:31.000Z"
+        },
+        {
+          "id": "om_0feffdc4e4",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta highlights rising brand opportunities in women’s sports",
+          "url": "https://www.socialmediatoday.com/news/meta-highlights-rising-brand-opportunities-in-womens-sports/828348/",
+          "postedAt": "2026-08-19T23:10:53.000Z"
+        },
+        {
+          "id": "om_36c53ad4b6",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "postedAt": "2026-08-19T22:10:46.000Z"
+        },
+        {
+          "id": "om_3229d39bc1",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Lavazza plans to provide more than just a caffeine boost to US Open fans",
+          "url": "https://www.marketingbrew.com/stories/lavazza-coffee-us-open?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-19T19:16:28.000Z"
+        },
+        {
+          "id": "om_aa049a0d0b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Lowe’s cuts outlook as DIY spending remains pressured",
+          "url": "https://www.retaildive.com/news/lowes-cuts-outlook-diy-spending-pressured/828266/",
+          "postedAt": "2026-08-19T16:24:00.000Z"
+        },
+        {
+          "id": "om_f5aefb1f22",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Kohl’s navigates choppy back-to-school season with another round of deals",
+          "url": "https://www.retaildive.com/news/kohls-back-to-school-season-another-round-deals/828147/",
+          "postedAt": "2026-08-19T15:51:00.000Z"
+        },
+        {
+          "id": "om_fb1e38e1ec",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart equipping a store with Symbotic fulfillment system",
+          "url": "https://www.retaildive.com/news/walmart-equipping-store-with-symbotic-fulfillment-system/827932/",
+          "postedAt": "2026-08-19T15:50:00.000Z"
+        },
+        {
+          "id": "om_bb0283d1f9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Ted by Ted Baker debuts at Macy’s",
+          "url": "https://www.retaildive.com/news/ted-by-ted-baker-debuts-at-macys/828236/",
+          "postedAt": "2026-08-19T15:50:00.000Z"
+        },
+        {
+          "id": "om_5983239717",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Nike is quietly closing its localized neighborhood stores",
+          "url": "https://www.retaildive.com/news/nike-quietly-closing-nike-live-well-collective-neighborhood-stores/828259/",
+          "postedAt": "2026-08-19T15:20:00.000Z"
+        },
+        {
           "id": "om_63a27ea551",
           "source": "Marketing Dive",
           "lang": "en",
@@ -539,7 +611,7 @@
           "id": "om_ba8b975bf6",
           "source": "Marketing Brew",
           "lang": "en",
-          "title": "How the Poppi founder is using her platform to launch her next venture",
+          "title": "How Poppi’s founder is using her platform to launch her next venture",
           "url": "https://www.marketingbrew.com/stories/poppi-founder-social-media-recruiting-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-08-19T10:00:00.000Z"
         },
@@ -550,6 +622,14 @@
           "title": "ChatGPT Ads to roll out in 31 new markets as OpenAI heads toward IPO",
           "url": "https://www.marketingbrew.com/stories/openai-chatgpt-ads-31-new-international-markets-expansion?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-08-19T10:00:00.000Z"
+        },
+        {
+          "id": "om_8874e4a0fa",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Target’s Profits Double as Roundel, Same-Day Delivery Power a Growth Streak",
+          "url": "https://www.adweek.com/commerce/targets-profits-double-as-roundel-same-day-delivery-power-a-growth-streak/",
+          "postedAt": "2026-08-19T09:43:54.000Z"
         },
         {
           "id": "om_8a433e5f8c",
@@ -568,14 +648,6 @@
           "postedAt": "2026-08-18T23:19:37.000Z"
         },
         {
-          "id": "om_7febcc22f3",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "TikTok explores peer-to-peer payments via DMs, report says",
-          "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
-          "postedAt": "2026-08-18T20:03:56.000Z"
-        },
-        {
           "id": "om_5f5d7af0f5",
           "source": "Marketing Brew",
           "lang": "en",
@@ -592,88 +664,16 @@
           "postedAt": "2026-08-18T18:10:02.000Z"
         },
         {
-          "id": "om_1b26716648",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-          "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-          "postedAt": "2026-08-18T16:19:10.000Z"
-        },
-        {
           "id": "om_62070e2117",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Target finalizes divorce from Ulta, signaling shift in beauty market",
           "url": "https://www.retaildive.com/news/target-finalizes-divorce-from-ulta-signaling-shift-in-beauty-market/827990/",
           "postedAt": "2026-08-18T16:12:00.000Z"
-        },
-        {
-          "id": "om_06cd23a406",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Pros continue to outperform DIY shoppers at Home Depot",
-          "url": "https://www.retaildive.com/news/home-depot-pros-outperform-diy-shoppers-q2-earnings/828159/",
-          "postedAt": "2026-08-18T16:10:00.000Z"
-        },
-        {
-          "id": "om_f6ddd7b2c1",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Nike, Foot Locker debut hyperlocal community hub store in Los Angeles",
-          "url": "https://www.retaildive.com/news/nike-foot-locker-crenshaw-rec-store-concept-los-angeles/828149/",
-          "postedAt": "2026-08-18T15:57:00.000Z"
-        },
-        {
-          "id": "om_fff6afade1",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Viral Disneyland Content Creator Defends Her ‘Special Friendship’ With Peter Pan",
-          "url": "https://www.wired.com/story/viral-disneyland-content-creator-defends-her-special-friendship-with-peter-pan/",
-          "postedAt": "2026-08-18T15:50:29.000Z"
-        },
-        {
-          "id": "om_7db0201516",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart+ adds new in-store perks",
-          "url": "https://www.retaildive.com/news/walmart-plus-loyalty-program-adds-store-perks-photo-money-centers/828143/",
-          "postedAt": "2026-08-18T15:37:00.000Z"
-        },
-        {
-          "id": "om_1712595f21",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Indochino plots small-format showroom expansion",
-          "url": "https://www.retaildive.com/news/indochino-plots-small-format-showroom-expansion/828015/",
-          "postedAt": "2026-08-18T14:38:00.000Z"
-        },
-        {
-          "id": "om_255da455c2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Entries Open for ADWEEK Tech Challengers to Watch 2027",
-          "url": "https://www.adweek.com/performance-marketing/entries-open-for-adweek-tech-challengers-to-watch-2027/",
-          "postedAt": "2026-08-18T14:22:29.000Z"
-        },
-        {
-          "id": "om_f81e23b029",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Crocs hatches new mascot Niles to enrich brand storytelling",
-          "url": "https://www.retaildive.com/news/crocs-hatches-new-mascot-niles-to-enrich-brand-storytelling/828119/",
-          "postedAt": "2026-08-18T13:52:00.000Z"
-        },
-        {
-          "id": "om_4f443566c7",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Mattel Game Studios is ready to extend physical play to a virtual world",
-          "url": "https://www.retaildive.com/news/mattel-game-studios-physical-play-virtual-world/828087/",
-          "postedAt": "2026-08-18T13:34:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-19T13:07:09.932Z",
+      "lastUpdated": "2026-08-20T01:50:20.080Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
