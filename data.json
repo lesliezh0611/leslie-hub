@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-20T01:50:16.922Z",
+      "lastUpdated": "2026-08-20T13:09:47.657Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -361,14 +361,6 @@
           "topic": "The playbook for building high-talent-density teams | Adam Ward, Head of Talent at Cursor",
           "url": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
           "postedAt": "2026-08-09T12:31:29.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_87f7ad064d",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "The Mindset Behind Building a Great Little Business | Brad Jacobs",
-          "url": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
-          "postedAt": "2026-07-30T09:45:00.000Z"
         }
       ],
       "books": [
@@ -419,10 +411,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-20T01:50:18.448Z",
+      "lastUpdated": "2026-08-20T13:09:49.000Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -511,6 +503,46 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_ab02e7b93d",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Estée Lauder’s Jo Malone turns to ‘Fortnite’ for first gaming activation",
+          "url": "https://www.marketingdive.com/news/estee-lauders-jo-malone-turns-to-fortnite-for-first-gaming-activation/828061/",
+          "postedAt": "2026-08-20T12:00:00.000Z"
+        },
+        {
+          "id": "om_7259693bb5",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Today’s marketing data is too saturated to be oil — it’s uranium",
+          "url": "https://www.marketingdive.com/news/todays-marketing-data-is-too-saturated-to-be-oil-its-uranium/827557/",
+          "postedAt": "2026-08-20T12:00:00.000Z"
+        },
+        {
+          "id": "om_6cf45e2df0",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How US Soccer plans to keep fans locked in through the Women’s World Cup",
+          "url": "https://www.marketingbrew.com/stories/us-soccer-womens-world-cup?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-20T10:00:00.000Z"
+        },
+        {
+          "id": "om_ff55ccf98b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Lily Collins Signs on as Face and Shareholder of IM8, Rethinking the Celebrity Deal",
+          "url": "https://www.adweek.com/brand-marketing/lily-collins-signs-on-as-face-and-shareholder-of-im8-rethinking-the-celebrity-deal/",
+          "postedAt": "2026-08-20T08:00:00.000Z"
+        },
+        {
+          "id": "om_e3b0f16fb4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Texas A&M Drives New Track of Consumer Brand Marketing",
+          "url": "https://www.adweek.com/brand-marketing/texas-am-drives-new-track-of-consumer-brand-marketing/",
+          "postedAt": "2026-08-20T06:00:00.000Z"
+        },
         {
           "id": "om_3b209bee47",
           "source": "Social Media Today",
@@ -630,50 +662,10 @@
           "title": "Target’s Profits Double as Roundel, Same-Day Delivery Power a Growth Streak",
           "url": "https://www.adweek.com/commerce/targets-profits-double-as-roundel-same-day-delivery-power-a-growth-streak/",
           "postedAt": "2026-08-19T09:43:54.000Z"
-        },
-        {
-          "id": "om_8a433e5f8c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Data Giant SAS’s Deal With Liverpool FC Signals a Broader B2B Shift",
-          "url": "https://www.adweek.com/brand-marketing/data-giant-sass-deal-with-liverpool-fc-signals-a-broader-b2b-shift/",
-          "postedAt": "2026-08-19T06:00:00.000Z"
-        },
-        {
-          "id": "om_727d868c2c",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok Live adds AI-generated intros",
-          "url": "https://www.socialmediatoday.com/news/tiktok-live-adds-ai-generated-intros/828220/",
-          "postedAt": "2026-08-18T23:19:37.000Z"
-        },
-        {
-          "id": "om_5f5d7af0f5",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "IAB updates AI disclosure recommendations as legislation evolves",
-          "url": "https://www.marketingbrew.com/stories/iab-ai-use-transparency-disclosure-framework?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-18T18:10:11.000Z"
-        },
-        {
-          "id": "om_b4ea822cca",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "AI brands are hiring to reshape narratives around safety",
-          "url": "https://www.marketingbrew.com/stories/ai-brands-are-hiring-to-reshape-narratives-around-safety?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-18T18:10:02.000Z"
-        },
-        {
-          "id": "om_62070e2117",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target finalizes divorce from Ulta, signaling shift in beauty market",
-          "url": "https://www.retaildive.com/news/target-finalizes-divorce-from-ulta-signaling-shift-in-beauty-market/827990/",
-          "postedAt": "2026-08-18T16:12:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-20T01:50:20.080Z",
+      "lastUpdated": "2026-08-20T13:09:50.161Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
