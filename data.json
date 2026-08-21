@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-21T01:56:17.883Z",
+      "lastUpdated": "2026-08-21T13:09:11.051Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-21T01:56:19.136Z",
+      "lastUpdated": "2026-08-21T13:09:12.396Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,78 @@
       },
       "articles": [
         {
+          "id": "om_ffbff998c6",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Ann Taylor stages a brand comeback with Substack, fall fashion blitz",
+          "url": "https://www.marketingdive.com/news/ann-taylor-stages-a-brand-comeback-with-substack-fall-fashion-blitz/828397/",
+          "postedAt": "2026-08-21T12:00:00.000Z"
+        },
+        {
+          "id": "om_22a1192e0d",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Creator fit beats follower count for brands: Here’s what the numbers say",
+          "url": "https://www.marketingdive.com/news/creator-fit-beats-follower-count-for-brands-heres-what-the-numbers-say/828421/",
+          "postedAt": "2026-08-21T12:00:00.000Z"
+        },
+        {
+          "id": "om_610b9cf4d0",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Patreon is changing its algorithm to help smaller creators get discovered",
+          "url": "https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes",
+          "postedAt": "2026-08-21T11:08:09.000Z"
+        },
+        {
+          "id": "om_719fa8e1d1",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Influencers and Resellers Are Turning Empty Boxes Into Big Cash",
+          "url": "https://www.wired.com/story/when-the-packaging-is-the-product-empty-boxes-influencers/",
+          "postedAt": "2026-08-21T10:30:00.000Z"
+        },
+        {
+          "id": "om_5542003934",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How K18 made its Tumblehair activation, a giant ball of actual human hair",
+          "url": "https://www.marketingbrew.com/stories/k18-tumblehair-hairball-activation-ooh-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-21T10:00:00.000Z"
+        },
+        {
+          "id": "om_c913fb0068",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Best Early Tech Labor Day Sales I’d Shop Myself (2026): AirTags, Dyson, and More",
+          "url": "https://www.wired.com/story/early-tech-labor-day-sales-2026/",
+          "postedAt": "2026-08-21T09:37:00.000Z"
+        },
+        {
+          "id": "om_17bc42aed2",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Neutrogena Responds to Hayden Panettiere Backlash: ‘This Isn’t Who We Want to Be’",
+          "url": "https://www.adweek.com/brand-marketing/neutrogena-responds-to-hayden-panettiere-backlash-this-isnt-who-we-want-to-be/",
+          "postedAt": "2026-08-21T06:32:53.000Z"
+        },
+        {
+          "id": "om_012191d874",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Retail Roundup: 8 Commerce Moves From Target, Citi, Klarna, and More",
+          "url": "https://www.adweek.com/commerce/retail-roundup-8-commerce-moves-from-target-citi-klarna-and-more/",
+          "postedAt": "2026-08-21T06:00:00.000Z"
+        },
+        {
+          "id": "om_6afdf09890",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 12 Campaigns That Caught Our Eye, From Dunkin’ to Verizon",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-12-campaigns-that-caught-our-eye-from-dunkin-to-verizon/",
+          "postedAt": "2026-08-21T06:00:00.000Z"
+        },
+        {
           "id": "om_e309624f0b",
           "source": "Marketing Brew",
           "lang": "en",
@@ -590,82 +662,10 @@
           "title": "Amazon to expand drone delivery reach sixfold this year",
           "url": "https://www.retaildive.com/news/amazon-expand-drone-delivery-reach-sixfold/828281/",
           "postedAt": "2026-08-20T14:33:00.000Z"
-        },
-        {
-          "id": "om_c50c8d3e8e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Newman’s Own bets on its purpose-driven heritage to engage millennials",
-          "url": "https://www.marketingdive.com/news/newmans-own-bets-on-its-purpose-driven-heritage-to-engage-millennials/828148/",
-          "postedAt": "2026-08-20T13:14:00.000Z"
-        },
-        {
-          "id": "om_188fdf6030",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Sony WPP Rebate Fraud Allegations Reawaken Age-Old Debates in Adland",
-          "url": "https://www.adweek.com/agencies/sony-wpp-rebate-fraud-allegations-reawaken-age-old-debates-in-adland/",
-          "postedAt": "2026-08-20T12:00:00.000Z"
-        },
-        {
-          "id": "om_ab02e7b93d",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Estée Lauder’s Jo Malone turns to ‘Fortnite’ for first gaming activation",
-          "url": "https://www.marketingdive.com/news/estee-lauders-jo-malone-turns-to-fortnite-for-first-gaming-activation/828061/",
-          "postedAt": "2026-08-20T12:00:00.000Z"
-        },
-        {
-          "id": "om_7259693bb5",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Today’s marketing data is too saturated to be oil — it’s uranium",
-          "url": "https://www.marketingdive.com/news/todays-marketing-data-is-too-saturated-to-be-oil-its-uranium/827557/",
-          "postedAt": "2026-08-20T12:00:00.000Z"
-        },
-        {
-          "id": "om_8d2adb40a1",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "To Avoid AI Marketing Traps, Become a Hybrid CMO",
-          "url": "https://www.adweek.com/brand-marketing/to-avoid-ai-marketing-traps-become-a-hybrid-cmo/",
-          "postedAt": "2026-08-20T11:53:02.000Z"
-        },
-        {
-          "id": "om_c33f8606ca",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "NFL Stars Show Off New Celebrations in Season Kickoff Campaign",
-          "url": "https://www.adweek.com/convergent-tv/nfl-stars-show-off-new-celebrations-in-season-kickoff-campaign/",
-          "postedAt": "2026-08-20T10:00:00.000Z"
-        },
-        {
-          "id": "om_6cf45e2df0",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How US Soccer plans to keep fans locked in through the Women’s World Cup",
-          "url": "https://www.marketingbrew.com/stories/us-soccer-womens-world-cup?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-20T10:00:00.000Z"
-        },
-        {
-          "id": "om_2e16892813",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How AI Is Changing Tech Marketing with Iterable CEO Sam Allen",
-          "url": "https://www.adweek.com/brand-marketing/how-ai-is-changing-tech-marketing-with-iterable-ceo-sam-allen/",
-          "postedAt": "2026-08-20T09:44:00.000Z"
-        },
-        {
-          "id": "om_e56ab91426",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Walmart Boosts Full-Year Guidance Following 38% Ads Growth",
-          "url": "https://www.adweek.com/commerce/walmart-boosts-full-year-guidance-following-38-ads-growth/",
-          "postedAt": "2026-08-20T09:37:20.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-21T01:56:20.274Z",
+      "lastUpdated": "2026-08-21T13:09:14.160Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
