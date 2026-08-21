@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-20T13:09:47.657Z",
+      "lastUpdated": "2026-08-21T01:56:17.883Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-20T13:09:49.000Z",
+      "lastUpdated": "2026-08-21T01:56:19.136Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,110 @@
       },
       "articles": [
         {
+          "id": "om_e309624f0b",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Soccer is growing in the US. The Premier League wants a piece of the fandom",
+          "url": "https://www.marketingbrew.com/stories/premier-league-us-soccer-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-20T18:10:02.000Z"
+        },
+        {
+          "id": "om_e55aadb305",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Michaels launches 3D digital frame builder",
+          "url": "https://www.retaildive.com/news/michaels-3d-augmented-reality-digital-frame-builder/828381/",
+          "postedAt": "2026-08-20T16:45:00.000Z"
+        },
+        {
+          "id": "om_06e3113c6e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: YouTube rolls out improvements for connected TV",
+          "url": "https://www.marketingdive.com/news/sociable-youtube-rolls-out-improvements-for-connected-tv/828408/",
+          "postedAt": "2026-08-20T16:39:00.000Z"
+        },
+        {
+          "id": "om_6b587f453e",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Senators demand answers from TikTok over experiment that disabled safeguards",
+          "url": "https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/",
+          "postedAt": "2026-08-20T16:22:19.000Z"
+        },
+        {
+          "id": "om_3dc240dbe4",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart’s stores have ‘evolved’ as e-commerce grows",
+          "url": "https://www.retaildive.com/news/walmarts-stores-omnichannel-tariffs-drug-pricing-regulation/828387/",
+          "postedAt": "2026-08-20T16:07:00.000Z"
+        },
+        {
+          "id": "om_30f55effa6",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why Nuuly is betting on a microdrama for its social-first fall campaign",
+          "url": "https://www.marketingdive.com/news/why-nuuly-is-betting-on-a-microdrama-for-its-social-first-fall-campaign/828301/",
+          "postedAt": "2026-08-20T16:00:00.000Z"
+        },
+        {
+          "id": "om_7048f812a8",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How the World Cup boosted The Athletic’s audience and sponsor roster",
+          "url": "https://www.marketingbrew.com/stories/world-cup-the-athletic-audience-sponsorship?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-20T16:00:00.000Z"
+        },
+        {
+          "id": "om_4dd425f2ee",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "TJX blames merchandising missteps for rare miss in the US, but is that the whole story?",
+          "url": "https://www.retaildive.com/news/tjx-blames-merchandising-missteps-rare-miss-us-tjmaxx-marshalls-stores/828295/",
+          "postedAt": "2026-08-20T15:44:00.000Z"
+        },
+        {
+          "id": "om_48b6a36ff8",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "US toy industry has best first-half performance in 6 years",
+          "url": "https://www.retaildive.com/news/us-toy-industry-best-first-half-performance-six-years/828162/",
+          "postedAt": "2026-08-20T14:47:00.000Z"
+        },
+        {
+          "id": "om_acfc6ac80d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "EXCLUSIVE: Omnicom Offloads Hundreds of Staffers Who Built Its AI Platform to Third-Party Contractor",
+          "url": "https://www.adweek.com/agencies/exclusive-omnicom-offloads-hundreds-of-staffers-who-built-its-ai-platform-to-third-party-contractor/",
+          "postedAt": "2026-08-20T14:37:02.000Z"
+        },
+        {
+          "id": "om_1eb77a1b4b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon to expand drone delivery reach sixfold this year",
+          "url": "https://www.retaildive.com/news/amazon-expand-drone-delivery-reach-sixfold/828281/",
+          "postedAt": "2026-08-20T14:33:00.000Z"
+        },
+        {
+          "id": "om_c50c8d3e8e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Newman’s Own bets on its purpose-driven heritage to engage millennials",
+          "url": "https://www.marketingdive.com/news/newmans-own-bets-on-its-purpose-driven-heritage-to-engage-millennials/828148/",
+          "postedAt": "2026-08-20T13:14:00.000Z"
+        },
+        {
+          "id": "om_188fdf6030",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Sony WPP Rebate Fraud Allegations Reawaken Age-Old Debates in Adland",
+          "url": "https://www.adweek.com/agencies/sony-wpp-rebate-fraud-allegations-reawaken-age-old-debates-in-adland/",
+          "postedAt": "2026-08-20T12:00:00.000Z"
+        },
+        {
           "id": "om_ab02e7b93d",
           "source": "Marketing Dive",
           "lang": "en",
@@ -520,6 +624,22 @@
           "postedAt": "2026-08-20T12:00:00.000Z"
         },
         {
+          "id": "om_8d2adb40a1",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "To Avoid AI Marketing Traps, Become a Hybrid CMO",
+          "url": "https://www.adweek.com/brand-marketing/to-avoid-ai-marketing-traps-become-a-hybrid-cmo/",
+          "postedAt": "2026-08-20T11:53:02.000Z"
+        },
+        {
+          "id": "om_c33f8606ca",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "NFL Stars Show Off New Celebrations in Season Kickoff Campaign",
+          "url": "https://www.adweek.com/convergent-tv/nfl-stars-show-off-new-celebrations-in-season-kickoff-campaign/",
+          "postedAt": "2026-08-20T10:00:00.000Z"
+        },
+        {
           "id": "om_6cf45e2df0",
           "source": "Marketing Brew",
           "lang": "en",
@@ -528,144 +648,24 @@
           "postedAt": "2026-08-20T10:00:00.000Z"
         },
         {
-          "id": "om_ff55ccf98b",
+          "id": "om_2e16892813",
           "source": "Adweek",
           "lang": "en",
-          "title": "Lily Collins Signs on as Face and Shareholder of IM8, Rethinking the Celebrity Deal",
-          "url": "https://www.adweek.com/brand-marketing/lily-collins-signs-on-as-face-and-shareholder-of-im8-rethinking-the-celebrity-deal/",
-          "postedAt": "2026-08-20T08:00:00.000Z"
+          "title": "How AI Is Changing Tech Marketing with Iterable CEO Sam Allen",
+          "url": "https://www.adweek.com/brand-marketing/how-ai-is-changing-tech-marketing-with-iterable-ceo-sam-allen/",
+          "postedAt": "2026-08-20T09:44:00.000Z"
         },
         {
-          "id": "om_e3b0f16fb4",
+          "id": "om_e56ab91426",
           "source": "Adweek",
           "lang": "en",
-          "title": "Texas A&M Drives New Track of Consumer Brand Marketing",
-          "url": "https://www.adweek.com/brand-marketing/texas-am-drives-new-track-of-consumer-brand-marketing/",
-          "postedAt": "2026-08-20T06:00:00.000Z"
-        },
-        {
-          "id": "om_3b209bee47",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok explores expanding in-stream payment options",
-          "url": "https://www.socialmediatoday.com/news/tiktok-explores-expanding-in-stream-payment-options/828350/",
-          "postedAt": "2026-08-19T23:19:31.000Z"
-        },
-        {
-          "id": "om_0feffdc4e4",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Meta highlights rising brand opportunities in women’s sports",
-          "url": "https://www.socialmediatoday.com/news/meta-highlights-rising-brand-opportunities-in-womens-sports/828348/",
-          "postedAt": "2026-08-19T23:10:53.000Z"
-        },
-        {
-          "id": "om_36c53ad4b6",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-          "postedAt": "2026-08-19T22:10:46.000Z"
-        },
-        {
-          "id": "om_3229d39bc1",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Lavazza plans to provide more than just a caffeine boost to US Open fans",
-          "url": "https://www.marketingbrew.com/stories/lavazza-coffee-us-open?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-19T19:16:28.000Z"
-        },
-        {
-          "id": "om_aa049a0d0b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Lowe’s cuts outlook as DIY spending remains pressured",
-          "url": "https://www.retaildive.com/news/lowes-cuts-outlook-diy-spending-pressured/828266/",
-          "postedAt": "2026-08-19T16:24:00.000Z"
-        },
-        {
-          "id": "om_f5aefb1f22",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Kohl’s navigates choppy back-to-school season with another round of deals",
-          "url": "https://www.retaildive.com/news/kohls-back-to-school-season-another-round-deals/828147/",
-          "postedAt": "2026-08-19T15:51:00.000Z"
-        },
-        {
-          "id": "om_fb1e38e1ec",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart equipping a store with Symbotic fulfillment system",
-          "url": "https://www.retaildive.com/news/walmart-equipping-store-with-symbotic-fulfillment-system/827932/",
-          "postedAt": "2026-08-19T15:50:00.000Z"
-        },
-        {
-          "id": "om_bb0283d1f9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Ted by Ted Baker debuts at Macy’s",
-          "url": "https://www.retaildive.com/news/ted-by-ted-baker-debuts-at-macys/828236/",
-          "postedAt": "2026-08-19T15:50:00.000Z"
-        },
-        {
-          "id": "om_5983239717",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Nike is quietly closing its localized neighborhood stores",
-          "url": "https://www.retaildive.com/news/nike-quietly-closing-nike-live-well-collective-neighborhood-stores/828259/",
-          "postedAt": "2026-08-19T15:20:00.000Z"
-        },
-        {
-          "id": "om_63a27ea551",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "IAB revisits AI disclosure in ads as legal requirements multiply",
-          "url": "https://www.marketingdive.com/news/iab-revisits-ai-disclosure-in-ads-as-legal-requirements-multiply/828182/",
-          "postedAt": "2026-08-19T12:52:00.000Z"
-        },
-        {
-          "id": "om_75bfa86de1",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Chipotle broadens Gen Alpha marketing with Salish Matter collab",
-          "url": "https://www.marketingdive.com/news/chipotle-broadens-gen-alpha-marketing-strategy-with-salish-matter-collab/828178/",
-          "postedAt": "2026-08-19T11:53:00.000Z"
-        },
-        {
-          "id": "om_6f3bbdb0ba",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target scores major sales growth in beauty, hardlines merchandise",
-          "url": "https://www.retaildive.com/news/target-scores-sales-growth-beauty-hardlines-merchandise/828196/",
-          "postedAt": "2026-08-19T10:33:00.000Z"
-        },
-        {
-          "id": "om_ba8b975bf6",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How Poppi’s founder is using her platform to launch her next venture",
-          "url": "https://www.marketingbrew.com/stories/poppi-founder-social-media-recruiting-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-19T10:00:00.000Z"
-        },
-        {
-          "id": "om_2c4283105d",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "ChatGPT Ads to roll out in 31 new markets as OpenAI heads toward IPO",
-          "url": "https://www.marketingbrew.com/stories/openai-chatgpt-ads-31-new-international-markets-expansion?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-19T10:00:00.000Z"
-        },
-        {
-          "id": "om_8874e4a0fa",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Target’s Profits Double as Roundel, Same-Day Delivery Power a Growth Streak",
-          "url": "https://www.adweek.com/commerce/targets-profits-double-as-roundel-same-day-delivery-power-a-growth-streak/",
-          "postedAt": "2026-08-19T09:43:54.000Z"
+          "title": "Walmart Boosts Full-Year Guidance Following 38% Ads Growth",
+          "url": "https://www.adweek.com/commerce/walmart-boosts-full-year-guidance-following-38-ads-growth/",
+          "postedAt": "2026-08-20T09:37:20.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-20T13:09:50.161Z",
+      "lastUpdated": "2026-08-21T01:56:20.274Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
