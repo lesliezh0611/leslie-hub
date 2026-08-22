@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-21T13:09:11.051Z",
+      "lastUpdated": "2026-08-22T01:49:02.588Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-21T13:09:12.396Z",
+      "lastUpdated": "2026-08-22T01:49:04.077Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,12 +504,52 @@
       },
       "articles": [
         {
-          "id": "om_ffbff998c6",
-          "source": "Marketing Dive",
+          "id": "om_044085695f",
+          "source": "The Verge",
           "lang": "en",
-          "title": "Ann Taylor stages a brand comeback with Substack, fall fashion blitz",
-          "url": "https://www.marketingdive.com/news/ann-taylor-stages-a-brand-comeback-with-substack-fall-fashion-blitz/828397/",
-          "postedAt": "2026-08-21T12:00:00.000Z"
+          "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
+          "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+          "postedAt": "2026-08-21T22:13:34.000Z"
+        },
+        {
+          "id": "om_2a680bc92d",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
+          "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
+          "postedAt": "2026-08-21T20:25:21.000Z"
+        },
+        {
+          "id": "om_105c5d1020",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "In off price, Ross is the new boss",
+          "url": "https://www.retaildive.com/news/off-price-ross-new-boss-soaring-store-comps-earnings/828457/",
+          "postedAt": "2026-08-21T16:18:00.000Z"
+        },
+        {
+          "id": "om_88a3d57f1c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Roots to be acquired by Roberto Cavalli parent company",
+          "url": "https://www.retaildive.com/news/roots-acquired-marquee-brands/828478/",
+          "postedAt": "2026-08-21T15:28:00.000Z"
+        },
+        {
+          "id": "om_4b79b2021f",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy",
+          "url": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/",
+          "postedAt": "2026-08-21T14:39:24.000Z"
+        },
+        {
+          "id": "om_10a7300e17",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How to Make AI Your Creative Superpower with Native Foreign’s Nik Kleverov",
+          "url": "https://www.adweek.com/brand-marketing/how-to-make-ai-your-creative-superpower-with-native-foreigns-nik-kleverov/",
+          "postedAt": "2026-08-21T14:36:38.000Z"
         },
         {
           "id": "om_22a1192e0d",
@@ -520,12 +560,12 @@
           "postedAt": "2026-08-21T12:00:00.000Z"
         },
         {
-          "id": "om_610b9cf4d0",
-          "source": "The Verge",
+          "id": "om_ffbff998c6",
+          "source": "Marketing Dive",
           "lang": "en",
-          "title": "Patreon is changing its algorithm to help smaller creators get discovered",
-          "url": "https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes",
-          "postedAt": "2026-08-21T11:08:09.000Z"
+          "title": "Ann Taylor stages a brand comeback with Substack, fall fashion blitz",
+          "url": "https://www.marketingdive.com/news/ann-taylor-stages-a-brand-comeback-with-substack-fall-fashion-blitz/828397/",
+          "postedAt": "2026-08-21T12:00:00.000Z"
         },
         {
           "id": "om_719fa8e1d1",
@@ -544,12 +584,28 @@
           "postedAt": "2026-08-21T10:00:00.000Z"
         },
         {
+          "id": "om_eb52c8614c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Brandweek Returns to Atlanta With Starbucks, Crocs, Mattel, Coca-Cola, and More",
+          "url": "https://www.adweek.com/brand-marketing/brandweek-returns-to-atlanta-with-starbucks-crocs-mattel-coca-cola-and-more/",
+          "postedAt": "2026-08-21T09:41:00.000Z"
+        },
+        {
           "id": "om_c913fb0068",
           "source": "Wired",
           "lang": "en",
           "title": "Best Early Tech Labor Day Sales I’d Shop Myself (2026): AirTags, Dyson, and More",
           "url": "https://www.wired.com/story/early-tech-labor-day-sales-2026/",
           "postedAt": "2026-08-21T09:37:00.000Z"
+        },
+        {
+          "id": "om_970927bdeb",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "5 Marketer Moves to Know This Week: Klarna, Microsoft, and Gap",
+          "url": "https://www.adweek.com/brand-marketing/5-marketer-moves-to-know-this-week-klarna-microsoft-and-gap/",
+          "postedAt": "2026-08-21T09:34:42.000Z"
         },
         {
           "id": "om_17bc42aed2",
@@ -600,72 +656,16 @@
           "postedAt": "2026-08-20T16:39:00.000Z"
         },
         {
-          "id": "om_6b587f453e",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Senators demand answers from TikTok over experiment that disabled safeguards",
-          "url": "https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/",
-          "postedAt": "2026-08-20T16:22:19.000Z"
-        },
-        {
           "id": "om_3dc240dbe4",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Walmart’s stores have ‘evolved’ as e-commerce grows",
           "url": "https://www.retaildive.com/news/walmarts-stores-omnichannel-tariffs-drug-pricing-regulation/828387/",
           "postedAt": "2026-08-20T16:07:00.000Z"
-        },
-        {
-          "id": "om_30f55effa6",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why Nuuly is betting on a microdrama for its social-first fall campaign",
-          "url": "https://www.marketingdive.com/news/why-nuuly-is-betting-on-a-microdrama-for-its-social-first-fall-campaign/828301/",
-          "postedAt": "2026-08-20T16:00:00.000Z"
-        },
-        {
-          "id": "om_7048f812a8",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How the World Cup boosted The Athletic’s audience and sponsor roster",
-          "url": "https://www.marketingbrew.com/stories/world-cup-the-athletic-audience-sponsorship?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-20T16:00:00.000Z"
-        },
-        {
-          "id": "om_4dd425f2ee",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "TJX blames merchandising missteps for rare miss in the US, but is that the whole story?",
-          "url": "https://www.retaildive.com/news/tjx-blames-merchandising-missteps-rare-miss-us-tjmaxx-marshalls-stores/828295/",
-          "postedAt": "2026-08-20T15:44:00.000Z"
-        },
-        {
-          "id": "om_48b6a36ff8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "US toy industry has best first-half performance in 6 years",
-          "url": "https://www.retaildive.com/news/us-toy-industry-best-first-half-performance-six-years/828162/",
-          "postedAt": "2026-08-20T14:47:00.000Z"
-        },
-        {
-          "id": "om_acfc6ac80d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "EXCLUSIVE: Omnicom Offloads Hundreds of Staffers Who Built Its AI Platform to Third-Party Contractor",
-          "url": "https://www.adweek.com/agencies/exclusive-omnicom-offloads-hundreds-of-staffers-who-built-its-ai-platform-to-third-party-contractor/",
-          "postedAt": "2026-08-20T14:37:02.000Z"
-        },
-        {
-          "id": "om_1eb77a1b4b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon to expand drone delivery reach sixfold this year",
-          "url": "https://www.retaildive.com/news/amazon-expand-drone-delivery-reach-sixfold/828281/",
-          "postedAt": "2026-08-20T14:33:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-21T13:09:14.160Z",
+      "lastUpdated": "2026-08-22T01:49:05.510Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
