@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-22T01:49:02.588Z",
+      "lastUpdated": "2026-08-22T12:59:18.146Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-22T01:49:04.077Z",
+      "lastUpdated": "2026-08-22T12:59:19.228Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -552,19 +552,19 @@
           "postedAt": "2026-08-21T14:36:38.000Z"
         },
         {
-          "id": "om_22a1192e0d",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Creator fit beats follower count for brands: Here’s what the numbers say",
-          "url": "https://www.marketingdive.com/news/creator-fit-beats-follower-count-for-brands-heres-what-the-numbers-say/828421/",
-          "postedAt": "2026-08-21T12:00:00.000Z"
-        },
-        {
           "id": "om_ffbff998c6",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Ann Taylor stages a brand comeback with Substack, fall fashion blitz",
           "url": "https://www.marketingdive.com/news/ann-taylor-stages-a-brand-comeback-with-substack-fall-fashion-blitz/828397/",
+          "postedAt": "2026-08-21T12:00:00.000Z"
+        },
+        {
+          "id": "om_22a1192e0d",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Creator fit beats follower count for brands: Here’s what the numbers say",
+          "url": "https://www.marketingdive.com/news/creator-fit-beats-follower-count-for-brands-heres-what-the-numbers-say/828421/",
           "postedAt": "2026-08-21T12:00:00.000Z"
         },
         {
@@ -665,7 +665,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-22T01:49:05.510Z",
+      "lastUpdated": "2026-08-22T12:59:20.327Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
