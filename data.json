@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-23T13:00:30.486Z",
+      "lastUpdated": "2026-08-24T01:56:19.689Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-23T13:00:35.929Z",
+      "lastUpdated": "2026-08-24T01:56:20.859Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -518,14 +518,6 @@
           "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
           "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
           "postedAt": "2026-08-21T22:13:34.000Z"
-        },
-        {
-          "id": "om_2a680bc92d",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
-          "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
-          "postedAt": "2026-08-21T20:25:21.000Z"
         },
         {
           "id": "om_105c5d1020",
@@ -662,10 +654,18 @@
           "title": "Walmart’s stores have ‘evolved’ as e-commerce grows",
           "url": "https://www.retaildive.com/news/walmarts-stores-omnichannel-tariffs-drug-pricing-regulation/828387/",
           "postedAt": "2026-08-20T16:07:00.000Z"
+        },
+        {
+          "id": "om_30f55effa6",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why Nuuly is betting on a microdrama for its social-first fall campaign",
+          "url": "https://www.marketingdive.com/news/why-nuuly-is-betting-on-a-microdrama-for-its-social-first-fall-campaign/828301/",
+          "postedAt": "2026-08-20T16:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-23T13:00:37.599Z",
+      "lastUpdated": "2026-08-24T01:56:22.037Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
