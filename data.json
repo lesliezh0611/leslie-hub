@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-25T01:51:11.707Z",
+      "lastUpdated": "2026-08-25T13:10:09.180Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_65abe89511",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How to figure out your next career move",
+          "url": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
+          "postedAt": "2026-08-25T13:04:15.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_e8e66b617c",
           "source": "Lenny's Podcast",
@@ -339,14 +347,6 @@
           "postedAt": "2026-08-16T12:31:42.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_bac4b81a60",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Recovering from burnout, what Airtable’s sale says about the ceiling on a startup, keeping architecture docs up to date, running competitor analysis, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-recovering-from",
-          "postedAt": "2026-08-15T17:01:13.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_6f53cc0d83",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-25T01:51:12.868Z",
+      "lastUpdated": "2026-08-25T13:10:11.775Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,46 @@
       },
       "articles": [
         {
+          "id": "om_ef9acd614c",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
+          "url": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
+          "postedAt": "2026-08-25T12:37:37.000Z"
+        },
+        {
+          "id": "om_2282a05950",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Pizza Hut ads celebrate quarterbacks as chain drops ‘pizza’ from name",
+          "url": "https://www.marketingdive.com/news/pizza-hut-ads-celebrate-quarterbacks-as-chain-drops-pizza-from-name/828530/",
+          "postedAt": "2026-08-25T10:00:00.000Z"
+        },
+        {
+          "id": "om_c82c179cb4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Wendy’s New Marketing Chief Tariq Hassan Has 3 Big Problems to Solve",
+          "url": "https://www.adweek.com/brand-marketing/wendys-new-marketing-chief-tariq-hassan-has-3-big-problems-to-solve/",
+          "postedAt": "2026-08-25T08:52:19.000Z"
+        },
+        {
+          "id": "om_d6afe1d928",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Submissions Are Now Open for ADWEEK 2027 Commerce All-Stars",
+          "url": "https://www.adweek.com/commerce/submissions-are-now-open-for-adweek-2027-commerce-all-stars/",
+          "postedAt": "2026-08-25T07:38:09.000Z"
+        },
+        {
+          "id": "om_286c44810d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Future of Trust: Where AI Meets Human Connection",
+          "url": "https://www.adweek.com/brand-marketing/the-future-of-trust-where-ai-meets-human-connection/",
+          "postedAt": "2026-08-25T07:00:00.000Z"
+        },
+        {
           "id": "om_19816c3707",
           "source": "Social Media Today",
           "lang": "en",
@@ -534,14 +574,6 @@
           "title": "Coworking with Monica Tailor",
           "url": "https://www.marketingbrew.com/stories/coworking-with-monica-tailor?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-08-24T18:08:00.000Z"
-        },
-        {
-          "id": "om_2bced0144b",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
-          "url": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
-          "postedAt": "2026-08-24T17:01:05.000Z"
         },
         {
           "id": "om_3012baec5d",
@@ -630,42 +662,10 @@
           "title": "Microdrama advertising surges as downloads soar: Report",
           "url": "https://www.marketingdive.com/news/microdrama-advertising-surges-as-downloads-soar-report/828416/",
           "postedAt": "2026-08-24T12:00:00.000Z"
-        },
-        {
-          "id": "om_f93acefc12",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Behind Jack in the Box’s push into collectibles",
-          "url": "https://www.marketingbrew.com/stories/jack-in-the-box-collectibles-brand-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-24T10:00:00.000Z"
-        },
-        {
-          "id": "om_27dbaa1400",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Eli Lilly Debuts Advertisement Selling GLP-1s to Medicare Enrollees",
-          "url": "https://www.adweek.com/brand-marketing/eli-lily-debuts-advertisement-selling-glp-1s-to-medicare-enrollees/",
-          "postedAt": "2026-08-24T09:00:00.000Z"
-        },
-        {
-          "id": "om_a29966e848",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why smarter DOOH campaigns start with the audience",
-          "url": "https://www.marketingdive.com/spons/why-smarter-dooh-campaigns-start-with-the-audience/828064/",
-          "postedAt": "2026-08-24T09:00:00.000Z"
-        },
-        {
-          "id": "om_0001ada0ce",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "The AOR-or-indie debate is over. The best brands do both.",
-          "url": "https://www.marketingdive.com/spons/the-aor-or-indie-debate-is-over-the-best-brands-do-both/828048/",
-          "postedAt": "2026-08-24T09:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-25T01:51:13.847Z",
+      "lastUpdated": "2026-08-25T13:10:12.902Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
