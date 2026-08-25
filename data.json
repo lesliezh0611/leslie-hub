@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-24T13:11:23.603Z",
+      "lastUpdated": "2026-08-25T01:51:11.707Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_e8e66b617c",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: Grok Bot + Grok 4.6—what’s great (and what’s still hype) & Lessons from spending $20,000 on Devin in one month",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
+          "postedAt": "2026-08-24T15:02:23.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_41677c745b",
           "source": "Lenny's Podcast",
@@ -353,14 +361,6 @@
           "topic": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football",
           "url": "https://lexfridman.com/khabib-nurmagomedov/?utm_source=rss&utm_medium=rss&utm_campaign=khabib-nurmagomedov",
           "postedAt": "2026-08-12T13:11:45.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_fd531323ae",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How to make people care about your startup",
-          "url": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
-          "postedAt": "2026-08-11T13:31:07.000Z"
         }
       ],
       "books": [
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-24T13:11:24.807Z",
+      "lastUpdated": "2026-08-25T01:51:12.868Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,118 @@
       },
       "articles": [
         {
+          "id": "om_19816c3707",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok launches newsletter to share creator insights",
+          "url": "https://www.socialmediatoday.com/news/tiktok-launches-newsletter-to-share-creator-insights/828666/",
+          "postedAt": "2026-08-24T23:32:24.000Z"
+        },
+        {
+          "id": "om_3228eb53b8",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok may influence teen eating behaviors",
+          "url": "https://www.socialmediatoday.com/news/tiktok-may-influence-teen-eating-behaviors/828664/",
+          "postedAt": "2026-08-24T23:21:16.000Z"
+        },
+        {
+          "id": "om_9d5bd6c2ae",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok adds legacy account options",
+          "url": "https://www.socialmediatoday.com/news/tiktok-adds-legacy-account-options/828663/",
+          "postedAt": "2026-08-24T21:40:35.000Z"
+        },
+        {
+          "id": "om_5463ba9faa",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Coworking with Monica Tailor",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-monica-tailor?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-24T18:08:00.000Z"
+        },
+        {
+          "id": "om_2bced0144b",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Zillow and Redfin settle FTC antitrust case over their rental listings partnership",
+          "url": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
+          "postedAt": "2026-08-24T17:01:05.000Z"
+        },
+        {
+          "id": "om_3012baec5d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart expands 30-minutes-or-less delivery as speed woos shoppers",
+          "url": "https://www.retaildive.com/news/walmart-expands-30-minutes-or-less-delivery/828570/",
+          "postedAt": "2026-08-24T16:20:00.000Z"
+        },
+        {
+          "id": "om_6669aa9e39",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Gap Inc. taps Walmart alum in ‘fashiontainment’ push",
+          "url": "https://www.retaildive.com/news/gap-inc-entertainment-executive-hire-walmart-alum/828598/",
+          "postedAt": "2026-08-24T16:04:00.000Z"
+        },
+        {
+          "id": "om_3bb35292d6",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart communications chief to depart after 3 years",
+          "url": "https://www.retaildive.com/news/walmart-communications-chief-allyson-park-departure-after-3-years/828576/",
+          "postedAt": "2026-08-24T15:33:00.000Z"
+        },
+        {
+          "id": "om_29b62687f0",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Fragrance drives beauty sales as consumers seek ‘emotional and functional value’",
+          "url": "https://www.retaildive.com/news/fragrance-beauty-sales-growth-first-half-2026/828479/",
+          "postedAt": "2026-08-24T15:17:00.000Z"
+        },
+        {
+          "id": "om_7ac3588eba",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Publicis tackles fragmented NIL market with Travis Kelce, 3 Arts Sports",
+          "url": "https://www.marketingdive.com/news/publicis-tackles-fragmented-nil-market-with-travis-kelce-3-arts-sports/828498/",
+          "postedAt": "2026-08-24T14:52:00.000Z"
+        },
+        {
+          "id": "om_334eb438bf",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Wendy’s hires ex-McDonald’s CMO as chief marketing, customer growth officer",
+          "url": "https://www.marketingdive.com/news/wendys-hires-ex-mcdonalds-cmo-as-chief-marketing-customer-growth-officer/828580/",
+          "postedAt": "2026-08-24T14:34:00.000Z"
+        },
+        {
+          "id": "om_594b854ab6",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Ann Taylor eyes comeback with Substack, fall fashion blitz",
+          "url": "https://www.retaildive.com/news/ann-taylor-stages-a-brand-comeback-with-substack-fall-fashion-blitz/828475/",
+          "postedAt": "2026-08-24T14:31:00.000Z"
+        },
+        {
+          "id": "om_f647bbf58e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Gummy Brands Fight It Out for Their Place on the Shelf",
+          "url": "https://www.adweek.com/brand-marketing/gummy-brands-fight-it-out-for-their-place-on-the-shelf/",
+          "postedAt": "2026-08-24T13:55:53.000Z"
+        },
+        {
+          "id": "om_419f7deee9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Tariq Hassan Lands at Wendy’s to Recapture Its Quality Message",
+          "url": "https://www.adweek.com/brand-marketing/tariq-hassan-lands-at-wendys-to-recapture-its-quality-message/",
+          "postedAt": "2026-08-24T12:42:11.000Z"
+        },
+        {
           "id": "om_89159333c0",
           "source": "Marketing Dive",
           "lang": "en",
@@ -531,7 +643,7 @@
           "id": "om_27dbaa1400",
           "source": "Adweek",
           "lang": "en",
-          "title": "Eli Lily Debuts Advertisement Selling GLP-1s to Medicare Enrollees",
+          "title": "Eli Lilly Debuts Advertisement Selling GLP-1s to Medicare Enrollees",
           "url": "https://www.adweek.com/brand-marketing/eli-lily-debuts-advertisement-selling-glp-1s-to-medicare-enrollees/",
           "postedAt": "2026-08-24T09:00:00.000Z"
         },
@@ -550,122 +662,10 @@
           "title": "The AOR-or-indie debate is over. The best brands do both.",
           "url": "https://www.marketingdive.com/spons/the-aor-or-indie-debate-is-over-the-best-brands-do-both/828048/",
           "postedAt": "2026-08-24T09:00:00.000Z"
-        },
-        {
-          "id": "om_273e60b7f5",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Drop the hysteria. Paid search is here to stay.",
-          "url": "https://www.marketingdive.com/spons/drop-the-hysteria-paid-search-is-here-to-stay/827985/",
-          "postedAt": "2026-08-24T09:00:00.000Z"
-        },
-        {
-          "id": "om_838e62dccd",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Stop guessing. Start knowing: why retailers need one pool of inventory.",
-          "url": "https://www.retaildive.com/spons/stop-guessing-start-knowing-why-retailers-need-one-pool-of-inventory/828228/",
-          "postedAt": "2026-08-24T09:00:00.000Z"
-        },
-        {
-          "id": "om_adca07b703",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
-          "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
-          "postedAt": "2026-08-23T03:00:00.000Z"
-        },
-        {
-          "id": "om_105c5d1020",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "In off price, Ross is the new boss",
-          "url": "https://www.retaildive.com/news/off-price-ross-new-boss-soaring-store-comps-earnings/828457/",
-          "postedAt": "2026-08-21T16:18:00.000Z"
-        },
-        {
-          "id": "om_88a3d57f1c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Roots to be acquired by Roberto Cavalli parent company",
-          "url": "https://www.retaildive.com/news/roots-acquired-marquee-brands/828478/",
-          "postedAt": "2026-08-21T15:28:00.000Z"
-        },
-        {
-          "id": "om_10a7300e17",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How to Make AI Your Creative Superpower with Native Foreign’s Nik Kleverov",
-          "url": "https://www.adweek.com/brand-marketing/how-to-make-ai-your-creative-superpower-with-native-foreigns-nik-kleverov/",
-          "postedAt": "2026-08-21T14:36:38.000Z"
-        },
-        {
-          "id": "om_22a1192e0d",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Creator fit beats follower count for brands: Here’s what the numbers say",
-          "url": "https://www.marketingdive.com/news/creator-fit-beats-follower-count-for-brands-heres-what-the-numbers-say/828421/",
-          "postedAt": "2026-08-21T12:00:00.000Z"
-        },
-        {
-          "id": "om_ffbff998c6",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Ann Taylor stages a brand comeback with Substack, fall fashion blitz",
-          "url": "https://www.marketingdive.com/news/ann-taylor-stages-a-brand-comeback-with-substack-fall-fashion-blitz/828397/",
-          "postedAt": "2026-08-21T12:00:00.000Z"
-        },
-        {
-          "id": "om_719fa8e1d1",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Influencers and Resellers Are Turning Empty Boxes Into Big Cash",
-          "url": "https://www.wired.com/story/when-the-packaging-is-the-product-empty-boxes-influencers/",
-          "postedAt": "2026-08-21T10:30:00.000Z"
-        },
-        {
-          "id": "om_5542003934",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How K18 made its Tumblehair activation, a giant ball of actual human hair",
-          "url": "https://www.marketingbrew.com/stories/k18-tumblehair-hairball-activation-ooh-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-21T10:00:00.000Z"
-        },
-        {
-          "id": "om_eb52c8614c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Brandweek Returns to Atlanta With Starbucks, Crocs, Mattel, Coca-Cola, and More",
-          "url": "https://www.adweek.com/brand-marketing/brandweek-returns-to-atlanta-with-starbucks-crocs-mattel-coca-cola-and-more/",
-          "postedAt": "2026-08-21T09:41:00.000Z"
-        },
-        {
-          "id": "om_c913fb0068",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Best Early Tech Labor Day Sales I’d Shop Myself (2026): AirTags, Dyson, and More",
-          "url": "https://www.wired.com/story/early-tech-labor-day-sales-2026/",
-          "postedAt": "2026-08-21T09:37:00.000Z"
-        },
-        {
-          "id": "om_970927bdeb",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "5 Marketer Moves to Know This Week: Klarna, Microsoft, and Gap",
-          "url": "https://www.adweek.com/brand-marketing/5-marketer-moves-to-know-this-week-klarna-microsoft-and-gap/",
-          "postedAt": "2026-08-21T09:34:42.000Z"
-        },
-        {
-          "id": "om_17bc42aed2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Neutrogena Responds to Hayden Panettiere Backlash: ‘This Isn’t Who We Want to Be’",
-          "url": "https://www.adweek.com/brand-marketing/neutrogena-responds-to-hayden-panettiere-backlash-this-isnt-who-we-want-to-be/",
-          "postedAt": "2026-08-21T06:32:53.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-24T13:11:25.594Z",
+      "lastUpdated": "2026-08-25T01:51:13.847Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
