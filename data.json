@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-25T13:10:09.180Z",
+      "lastUpdated": "2026-08-26T01:57:09.222Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-25T13:10:11.775Z",
+      "lastUpdated": "2026-08-26T01:57:10.658Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,12 +504,68 @@
       },
       "articles": [
         {
-          "id": "om_ef9acd614c",
+          "id": "om_e5b94701c4",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok expands public placement opportunities for advertisers",
+          "url": "https://www.socialmediatoday.com/news/tiktok-expands-public-placement-opportunities-for-advertisers/828792/",
+          "postedAt": "2026-08-25T23:59:56.000Z"
+        },
+        {
+          "id": "om_16e90e0008",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "Fiat Ventures combines venture and advisory divisions into new brand, raises $35M Fund II",
-          "url": "https://techcrunch.com/2026/08/25/fgv-capital-bets-on-a-new-venture-model-raises-35m-fund-ii/",
-          "postedAt": "2026-08-25T12:37:37.000Z"
+          "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
+          "url": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
+          "postedAt": "2026-08-25T18:22:50.000Z"
+        },
+        {
+          "id": "om_8a33dd037e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "2 Weeks, 4 Brand Apologies. Will Any of Them Make a Difference?",
+          "url": "https://www.adweek.com/brand-marketing/2-weeks-4-brand-apologies-will-any-of-them-make-a-difference/",
+          "postedAt": "2026-08-25T17:19:04.000Z"
+        },
+        {
+          "id": "om_c8bc8f8f3d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target apologizes for offensive Halloween costume",
+          "url": "https://www.retaildive.com/news/target-apologizes-for-offensive-halloween-costume/828715/",
+          "postedAt": "2026-08-25T15:50:00.000Z"
+        },
+        {
+          "id": "om_8eaebc02cd",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart to accept Apple Pay, Google Pay",
+          "url": "https://www.retaildive.com/news/walmart-apple-pay-google-pay-digital-wallet/828604/",
+          "postedAt": "2026-08-25T14:49:00.000Z"
+        },
+        {
+          "id": "om_5bcebdcab5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Fans Have More Friends: Heineken’s Formula for Real-Life Connection",
+          "url": "https://www.adweek.com/brand-marketing/fans-have-more-friends-heinekens-formula-for-real-life-connection/",
+          "postedAt": "2026-08-25T13:37:43.000Z"
+        },
+        {
+          "id": "om_734630232b",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Athleta is revamping its brand narrative with bolder purpose",
+          "url": "https://www.marketingdive.com/news/how-athleta-is-revamping-its-brand-narrative-with-bolder-purpose/828620/",
+          "postedAt": "2026-08-25T13:19:00.000Z"
+        },
+        {
+          "id": "om_6a610898bc",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Purpose Meets Performance: How Brands Win Without Compromise",
+          "url": "https://www.adweek.com/brand-marketing/purpose-meets-performance-how-brands-win-without-compromise/",
+          "postedAt": "2026-08-25T10:44:41.000Z"
         },
         {
           "id": "om_2282a05950",
@@ -518,30 +574,6 @@
           "title": "Pizza Hut ads celebrate quarterbacks as chain drops ‘pizza’ from name",
           "url": "https://www.marketingdive.com/news/pizza-hut-ads-celebrate-quarterbacks-as-chain-drops-pizza-from-name/828530/",
           "postedAt": "2026-08-25T10:00:00.000Z"
-        },
-        {
-          "id": "om_c82c179cb4",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Wendy’s New Marketing Chief Tariq Hassan Has 3 Big Problems to Solve",
-          "url": "https://www.adweek.com/brand-marketing/wendys-new-marketing-chief-tariq-hassan-has-3-big-problems-to-solve/",
-          "postedAt": "2026-08-25T08:52:19.000Z"
-        },
-        {
-          "id": "om_d6afe1d928",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Submissions Are Now Open for ADWEEK 2027 Commerce All-Stars",
-          "url": "https://www.adweek.com/commerce/submissions-are-now-open-for-adweek-2027-commerce-all-stars/",
-          "postedAt": "2026-08-25T07:38:09.000Z"
-        },
-        {
-          "id": "om_286c44810d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Future of Trust: Where AI Meets Human Connection",
-          "url": "https://www.adweek.com/brand-marketing/the-future-of-trust-where-ai-meets-human-connection/",
-          "postedAt": "2026-08-25T07:00:00.000Z"
         },
         {
           "id": "om_19816c3707",
@@ -558,14 +590,6 @@
           "title": "TikTok may influence teen eating behaviors",
           "url": "https://www.socialmediatoday.com/news/tiktok-may-influence-teen-eating-behaviors/828664/",
           "postedAt": "2026-08-24T23:21:16.000Z"
-        },
-        {
-          "id": "om_9d5bd6c2ae",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok adds legacy account options",
-          "url": "https://www.socialmediatoday.com/news/tiktok-adds-legacy-account-options/828663/",
-          "postedAt": "2026-08-24T21:40:35.000Z"
         },
         {
           "id": "om_5463ba9faa",
@@ -632,40 +656,16 @@
           "postedAt": "2026-08-24T14:31:00.000Z"
         },
         {
-          "id": "om_f647bbf58e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Gummy Brands Fight It Out for Their Place on the Shelf",
-          "url": "https://www.adweek.com/brand-marketing/gummy-brands-fight-it-out-for-their-place-on-the-shelf/",
-          "postedAt": "2026-08-24T13:55:53.000Z"
-        },
-        {
-          "id": "om_419f7deee9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Tariq Hassan Lands at Wendy’s to Recapture Its Quality Message",
-          "url": "https://www.adweek.com/brand-marketing/tariq-hassan-lands-at-wendys-to-recapture-its-quality-message/",
-          "postedAt": "2026-08-24T12:42:11.000Z"
-        },
-        {
           "id": "om_89159333c0",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "How Fanta’s new Haunted Universe helps turn Halloween into a platform",
           "url": "https://www.marketingdive.com/news/how-fantas-haunted-universe-helps-turn-halloween-into-a-platform/828481/",
           "postedAt": "2026-08-24T12:00:00.000Z"
-        },
-        {
-          "id": "om_80389b48a7",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Microdrama advertising surges as downloads soar: Report",
-          "url": "https://www.marketingdive.com/news/microdrama-advertising-surges-as-downloads-soar-report/828416/",
-          "postedAt": "2026-08-24T12:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-25T13:10:12.902Z",
+      "lastUpdated": "2026-08-26T01:57:11.926Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
