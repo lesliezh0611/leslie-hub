@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-27T09:46:17.966Z",
+      "lastUpdated": "2026-08-27T22:14:58.081Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_the_knowledge_project_b82a5408d9",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "Steve Jobs in Exile",
+          "url": "https://fs.blog/knowledge-project-podcast/geoffrey-cain/",
+          "postedAt": "2026-08-27T09:50:00.000Z"
+        },
         {
           "id": "en_pod_lex_fridman_podcast_b2bd37408b",
           "source": "Lex Fridman Podcast",
@@ -419,10 +427,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-27T09:46:20.770Z",
+      "lastUpdated": "2026-08-27T22:14:59.430Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "14 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -512,168 +520,168 @@
       },
       "articles": [
         {
-          "id": "om_8073e23cdc",
+          "id": "om_6f400bef93",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "The FTC is turning its sights on personalized pricing. What does it mean for customers?",
-          "url": "https://www.retaildive.com/news/ftc-personalized-surveillance-pricing-what-it-means-CX/828626/",
-          "postedAt": "2026-08-26T20:48:00.000Z"
+          "title": "Old Navy chief out as sales falter again",
+          "url": "https://www.retaildive.com/news/old-navy-chief-out-sales-fall-gap-inc-earnings/829022/",
+          "postedAt": "2026-08-27T22:08:00.000Z"
         },
         {
-          "id": "om_8c6df63737",
-          "source": "Marketing Brew",
+          "id": "om_b8ae069b9f",
+          "source": "The Verge",
           "lang": "en",
-          "title": "Meta settles landmark child safety suit for more than $17 billion",
-          "url": "https://www.marketingbrew.com/stories/meta-settles-landmark-child-safety-suit-for-more-than-usd17-billion?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-26T20:07:41.000Z"
+          "title": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
+          "url": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
+          "postedAt": "2026-08-27T21:37:55.000Z"
         },
         {
-          "id": "om_5069764c86",
+          "id": "om_bf5dabc7fe",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
-          "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-          "postedAt": "2026-08-26T19:37:34.000Z"
+          "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
+          "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
+          "postedAt": "2026-08-27T19:54:28.000Z"
         },
         {
-          "id": "om_b21aec4556",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "State Farm gets personal with new NFL campaign",
-          "url": "https://www.marketingbrew.com/stories/state-farm-nfl-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-26T18:06:28.000Z"
-        },
-        {
-          "id": "om_5d53091edb",
+          "id": "om_98fb5bd9fb",
           "source": "Adweek",
           "lang": "en",
-          "title": "ADWEEK Ramps Up Healthcare Marketing Coverage",
-          "url": "https://www.adweek.com/brand-marketing/adweek-ramps-up-healthcare-marketing-coverage/",
-          "postedAt": "2026-08-26T16:56:09.000Z"
+          "title": "Don’t Let Retail Media Tell You It’s Brand Building",
+          "url": "https://www.adweek.com/commerce/dont-let-retail-media-tell-you-its-brand-building/",
+          "postedAt": "2026-08-27T17:10:02.000Z"
         },
         {
-          "id": "om_b751c5cd65",
+          "id": "om_e55294d971",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Is Sephora becoming a problem for Kohl’s?",
-          "url": "https://www.retaildive.com/news/is-sephora-becoming-a-problem-for-kohls-Q2-sales-decline/828805/",
-          "postedAt": "2026-08-26T16:12:00.000Z"
+          "title": "Bath & Body Works e-commerce returns to growth",
+          "url": "https://www.retaildive.com/news/bath-body-works-e-commerce-returns-growth/828882/",
+          "postedAt": "2026-08-27T17:06:00.000Z"
         },
         {
-          "id": "om_3ef93a0d64",
-          "source": "Marketing Brew",
+          "id": "om_79d57da3b5",
+          "source": "TechCrunch",
           "lang": "en",
-          "title": "‘How could you re-create perfection?’: Inside Astral Tequila’s microdrama homage to ‘Practical Magic 2’",
-          "url": "https://www.marketingbrew.com/stories/astral-tequila-practical-magic-2-microdrama-brand-intetgration?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-26T16:00:05.000Z"
+          "title": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup",
+          "url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
+          "postedAt": "2026-08-27T17:00:00.000Z"
         },
         {
-          "id": "om_b0fcea91b0",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Take a look inside the new Barnes & Noble in Chicago",
-          "url": "https://www.retaildive.com/news/take-a-look-inside-the-new-barnes-noble-in-chicago/828738/",
-          "postedAt": "2026-08-26T15:54:00.000Z"
-        },
-        {
-          "id": "om_65d6d4648a",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "How Athleta is revamping its brand narrative with bolder purpose",
-          "url": "https://www.retaildive.com/news/how-athleta-is-revamping-its-brand-narrative-with-bolder-purpose/828750/",
-          "postedAt": "2026-08-26T15:37:00.000Z"
-        },
-        {
-          "id": "om_ca6ef18e60",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside Strava’s push into strength training",
-          "url": "https://www.marketingbrew.com/stories/stravas-strength-training-soft-bar-carl-radke?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-26T15:30:42.000Z"
-        },
-        {
-          "id": "om_ee4f1bb0c4",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why United helped broadcast ESPN’s fantasy football show live from the sky",
-          "url": "https://www.marketingdive.com/news/why-united-helped-broadcast-espns-fantasy-football-show-live-from-the-sky/828739/",
-          "postedAt": "2026-08-26T13:38:00.000Z"
-        },
-        {
-          "id": "om_c79272f315",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Coke tackles college football season with creator content, fantasy sports",
-          "url": "https://www.marketingdive.com/news/coke-tackles-college-football-season-with-creator-content-fantasy-sports/828780/",
-          "postedAt": "2026-08-26T12:45:00.000Z"
-        },
-        {
-          "id": "om_a5a3608d89",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why göt2b jumped to sponsor ‘Dancing With The Stars: The Next Pro’",
-          "url": "https://www.marketingbrew.com/stories/got2b-dancing-with-the-stars-the-next-pro-sponsorship-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-26T12:05:03.000Z"
-        },
-        {
-          "id": "om_65c68d05bd",
+          "id": "om_3a77585989",
           "source": "Adweek",
           "lang": "en",
-          "title": "Uber’s Back-to-School Campaign Wants to Turn Gen Z Manifestations Into Reality",
-          "url": "https://www.adweek.com/creativity/ubers-back-to-school-campaign-wants-to-turn-gen-z-manifestations-into-reality/",
-          "postedAt": "2026-08-26T08:00:00.000Z"
+          "title": "Why Live Sports Is Marketing’s Biggest Growth Engine ft. NBCU CMO Jennifer Storms",
+          "url": "https://www.adweek.com/brand-marketing/why-live-sports-is-marketings-biggest-growth-engine-ft-nbcu-cmo-jennifer-storms/",
+          "postedAt": "2026-08-27T16:41:12.000Z"
         },
         {
-          "id": "om_e3ef6b7bf0",
+          "id": "om_139f8b2463",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Build-A-Bear fires chief growth officer as earnings fall flat",
+          "url": "https://www.retaildive.com/news/build-a-bear-chief-growth-officer-fired-earnings-sales-miss/828944/",
+          "postedAt": "2026-08-27T16:07:00.000Z"
+        },
+        {
+          "id": "om_922374a37d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Consumer confidence wanes on dimming view of jobs, incomes, business",
+          "url": "https://www.retaildive.com/news/consumer-confidence-wanes-dimming-view-jobs-incomes-business-inflation-Iran-war/828857/",
+          "postedAt": "2026-08-27T16:04:00.000Z"
+        },
+        {
+          "id": "om_318bebc606",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Backroom: A sit-down with Ron Johnson",
+          "url": "https://www.retaildive.com/news/podcast-the-backroom-ron-johnson-apple-jcpenney-target/828925/",
+          "postedAt": "2026-08-27T16:01:00.000Z"
+        },
+        {
+          "id": "om_0c94018baf",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Is Starbucks’ Pumpkin Spice Latte ‘basic’? Martha Stewart answers in new ads",
+          "url": "https://www.marketingdive.com/news/is-starbucks-pumpkin-spice-latte-basic-martha-stewart-answers-in-new-ad/828848/",
+          "postedAt": "2026-08-27T16:00:00.000Z"
+        },
+        {
+          "id": "om_ecd08ba276",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Burlington CEO calls using tariff refunds to cut prices ‘the right thing to do’",
+          "url": "https://www.retaildive.com/news/burlington-tariff-refunds-cut-prices-q2-earnings/828916/",
+          "postedAt": "2026-08-27T15:49:00.000Z"
+        },
+        {
+          "id": "om_9884a4db0e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Sur La Table launches peer-to-peer marketplace",
+          "url": "https://www.retaildive.com/news/sur-la-table-launches-peer-to-peer-resale-marketplace/828800/",
+          "postedAt": "2026-08-27T15:39:00.000Z"
+        },
+        {
+          "id": "om_043623329c",
           "source": "Adweek",
           "lang": "en",
-          "title": "State Farm’s Football Campaign Taps Skattebo and Mahomes in Personalization Play",
-          "url": "https://www.adweek.com/brand-marketing/state-farm-football-campaign-taps-skattebo-mahomes/",
-          "postedAt": "2026-08-26T08:00:00.000Z"
+          "title": "US Open Shows How Brand Partnerships Are Serving a Better Fan Experience",
+          "url": "https://www.adweek.com/brand-marketing/us-open-brand-partnerships-serving-better-fan-experience/",
+          "postedAt": "2026-08-27T14:39:49.000Z"
         },
         {
-          "id": "om_e5b94701c4",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok expands public placement opportunities for advertisers",
-          "url": "https://www.socialmediatoday.com/news/tiktok-expands-public-placement-opportunities-for-advertisers/828792/",
-          "postedAt": "2026-08-25T23:59:56.000Z"
-        },
-        {
-          "id": "om_c8bc8f8f3d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target apologizes for offensive Halloween costume",
-          "url": "https://www.retaildive.com/news/target-apologizes-for-offensive-halloween-costume/828715/",
-          "postedAt": "2026-08-25T15:50:00.000Z"
-        },
-        {
-          "id": "om_8eaebc02cd",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart to accept Apple Pay, Google Pay",
-          "url": "https://www.retaildive.com/news/walmart-apple-pay-google-pay-digital-wallet/828604/",
-          "postedAt": "2026-08-25T14:49:00.000Z"
-        },
-        {
-          "id": "om_734630232b",
+          "id": "om_fc99054292",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "How Athleta is revamping its brand narrative with bolder purpose",
-          "url": "https://www.marketingdive.com/news/how-athleta-is-revamping-its-brand-narrative-with-bolder-purpose/828620/",
-          "postedAt": "2026-08-25T13:19:00.000Z"
+          "title": "Sociable: Meta removes option to exclude ad placements",
+          "url": "https://www.marketingdive.com/news/sociable-meta-removes-option-to-exclude-ad-placements/828941/",
+          "postedAt": "2026-08-27T14:28:00.000Z"
         },
         {
-          "id": "om_2282a05950",
+          "id": "om_3eb3187bb9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Kohl’s expands home assortment with Martha Stewart, Bobby Flay",
+          "url": "https://www.retaildive.com/news/kohls-expands-home-assortment-with-martha-stewart-bobby-flay/828708/",
+          "postedAt": "2026-08-27T14:23:00.000Z"
+        },
+        {
+          "id": "om_6ccbe6b913",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ryan Wilson On Why Many Brands Still Don’t Know How to Appeal to Black Consumers",
+          "url": "https://www.adweek.com/brand-marketing/ryan-wilson-on-why-many-brands-still-dont-know-how-to-appeal-to-black-consumers/",
+          "postedAt": "2026-08-27T14:16:25.000Z"
+        },
+        {
+          "id": "om_27bcdbd948",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Pizza Hut ads celebrate quarterbacks as chain drops ‘pizza’ from name",
-          "url": "https://www.marketingdive.com/news/pizza-hut-ads-celebrate-quarterbacks-as-chain-drops-pizza-from-name/828530/",
-          "postedAt": "2026-08-25T10:00:00.000Z"
+          "title": "How Dr Pepper’s ‘Fansville’ campaign stays relevant and drives outcomes",
+          "url": "https://www.marketingdive.com/news/how-dr-peppers-fansville-campaign-stays-relevant-and-drives-outcomes/828824/",
+          "postedAt": "2026-08-27T14:00:00.000Z"
+        },
+        {
+          "id": "om_2c5194f0ef",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Kohl’s unites marketing, digital under new chief customer officer role",
+          "url": "https://www.marketingdive.com/news/kohls-names-first-chief-customer-officer-elevates-cx/828922/",
+          "postedAt": "2026-08-27T13:30:00.000Z"
+        },
+        {
+          "id": "om_8a006fd248",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Behr’s digital marketing helps DIYers overcome ‘paint paralysis’",
+          "url": "https://www.marketingdive.com/news/how-behrs-digital-marketing-helps-diyers-overcome-paint-paralysis/828892/",
+          "postedAt": "2026-08-27T13:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-27T09:46:22.204Z",
+      "lastUpdated": "2026-08-27T22:15:00.288Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
