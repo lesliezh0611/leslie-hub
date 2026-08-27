@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-26T13:15:29.710Z",
+      "lastUpdated": "2026-08-27T09:46:17.966Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lex_fridman_podcast_b2bd37408b",
+          "source": "Lex Fridman Podcast",
+          "platform": "podcast",
+          "topic": "#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
+          "url": "https://lexfridman.com/dhh-2/?utm_source=rss&utm_medium=rss&utm_campaign=dhh-2",
+          "postedAt": "2026-08-26T21:47:04.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_65abe89511",
           "source": "Lenny's Podcast",
@@ -411,10 +419,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-26T13:15:31.739Z",
+      "lastUpdated": "2026-08-27T09:46:20.770Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -504,12 +512,108 @@
       },
       "articles": [
         {
+          "id": "om_8073e23cdc",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The FTC is turning its sights on personalized pricing. What does it mean for customers?",
+          "url": "https://www.retaildive.com/news/ftc-personalized-surveillance-pricing-what-it-means-CX/828626/",
+          "postedAt": "2026-08-26T20:48:00.000Z"
+        },
+        {
+          "id": "om_8c6df63737",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Meta settles landmark child safety suit for more than $17 billion",
+          "url": "https://www.marketingbrew.com/stories/meta-settles-landmark-child-safety-suit-for-more-than-usd17-billion?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-26T20:07:41.000Z"
+        },
+        {
+          "id": "om_5069764c86",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+          "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+          "postedAt": "2026-08-26T19:37:34.000Z"
+        },
+        {
+          "id": "om_b21aec4556",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "State Farm gets personal with new NFL campaign",
+          "url": "https://www.marketingbrew.com/stories/state-farm-nfl-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-26T18:06:28.000Z"
+        },
+        {
+          "id": "om_5d53091edb",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK Ramps Up Healthcare Marketing Coverage",
+          "url": "https://www.adweek.com/brand-marketing/adweek-ramps-up-healthcare-marketing-coverage/",
+          "postedAt": "2026-08-26T16:56:09.000Z"
+        },
+        {
+          "id": "om_b751c5cd65",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Is Sephora becoming a problem for Kohl’s?",
+          "url": "https://www.retaildive.com/news/is-sephora-becoming-a-problem-for-kohls-Q2-sales-decline/828805/",
+          "postedAt": "2026-08-26T16:12:00.000Z"
+        },
+        {
+          "id": "om_3ef93a0d64",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "‘How could you re-create perfection?’: Inside Astral Tequila’s microdrama homage to ‘Practical Magic 2’",
+          "url": "https://www.marketingbrew.com/stories/astral-tequila-practical-magic-2-microdrama-brand-intetgration?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-26T16:00:05.000Z"
+        },
+        {
+          "id": "om_b0fcea91b0",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Take a look inside the new Barnes & Noble in Chicago",
+          "url": "https://www.retaildive.com/news/take-a-look-inside-the-new-barnes-noble-in-chicago/828738/",
+          "postedAt": "2026-08-26T15:54:00.000Z"
+        },
+        {
+          "id": "om_65d6d4648a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "How Athleta is revamping its brand narrative with bolder purpose",
+          "url": "https://www.retaildive.com/news/how-athleta-is-revamping-its-brand-narrative-with-bolder-purpose/828750/",
+          "postedAt": "2026-08-26T15:37:00.000Z"
+        },
+        {
+          "id": "om_ca6ef18e60",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside Strava’s push into strength training",
+          "url": "https://www.marketingbrew.com/stories/stravas-strength-training-soft-bar-carl-radke?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-26T15:30:42.000Z"
+        },
+        {
+          "id": "om_ee4f1bb0c4",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why United helped broadcast ESPN’s fantasy football show live from the sky",
+          "url": "https://www.marketingdive.com/news/why-united-helped-broadcast-espns-fantasy-football-show-live-from-the-sky/828739/",
+          "postedAt": "2026-08-26T13:38:00.000Z"
+        },
+        {
           "id": "om_c79272f315",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Coke tackles college football season with creator content, fantasy sports",
           "url": "https://www.marketingdive.com/news/coke-tackles-college-football-season-with-creator-content-fantasy-sports/828780/",
           "postedAt": "2026-08-26T12:45:00.000Z"
+        },
+        {
+          "id": "om_a5a3608d89",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why göt2b jumped to sponsor ‘Dancing With The Stars: The Next Pro’",
+          "url": "https://www.marketingbrew.com/stories/got2b-dancing-with-the-stars-the-next-pro-sponsorship-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-26T12:05:03.000Z"
         },
         {
           "id": "om_65c68d05bd",
@@ -528,36 +632,12 @@
           "postedAt": "2026-08-26T08:00:00.000Z"
         },
         {
-          "id": "om_c66e816a66",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Theo James and David Beckham Bring Stella Artois Into The Gentlemen Universe",
-          "url": "https://www.adweek.com/brand-marketing/theo-james-and-david-beckham-bring-stella-artois-into-the-gentlemen-universe/",
-          "postedAt": "2026-08-26T04:00:00.000Z"
-        },
-        {
           "id": "om_e5b94701c4",
           "source": "Social Media Today",
           "lang": "en",
           "title": "TikTok expands public placement opportunities for advertisers",
           "url": "https://www.socialmediatoday.com/news/tiktok-expands-public-placement-opportunities-for-advertisers/828792/",
           "postedAt": "2026-08-25T23:59:56.000Z"
-        },
-        {
-          "id": "om_16e90e0008",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
-          "url": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
-          "postedAt": "2026-08-25T18:22:50.000Z"
-        },
-        {
-          "id": "om_8a33dd037e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "2 Weeks, 4 Brand Apologies. Will Any of Them Make a Difference?",
-          "url": "https://www.adweek.com/brand-marketing/2-weeks-4-brand-apologies-will-any-of-them-make-a-difference/",
-          "postedAt": "2026-08-25T17:19:04.000Z"
         },
         {
           "id": "om_c8bc8f8f3d",
@@ -576,14 +656,6 @@
           "postedAt": "2026-08-25T14:49:00.000Z"
         },
         {
-          "id": "om_5bcebdcab5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Fans Have More Friends: Heineken’s Formula for Real-Life Connection",
-          "url": "https://www.adweek.com/brand-marketing/fans-have-more-friends-heinekens-formula-for-real-life-connection/",
-          "postedAt": "2026-08-25T13:37:43.000Z"
-        },
-        {
           "id": "om_734630232b",
           "source": "Marketing Dive",
           "lang": "en",
@@ -598,74 +670,10 @@
           "title": "Pizza Hut ads celebrate quarterbacks as chain drops ‘pizza’ from name",
           "url": "https://www.marketingdive.com/news/pizza-hut-ads-celebrate-quarterbacks-as-chain-drops-pizza-from-name/828530/",
           "postedAt": "2026-08-25T10:00:00.000Z"
-        },
-        {
-          "id": "om_19816c3707",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok launches newsletter to share creator insights",
-          "url": "https://www.socialmediatoday.com/news/tiktok-launches-newsletter-to-share-creator-insights/828666/",
-          "postedAt": "2026-08-24T23:32:24.000Z"
-        },
-        {
-          "id": "om_3228eb53b8",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok may influence teen eating behaviors",
-          "url": "https://www.socialmediatoday.com/news/tiktok-may-influence-teen-eating-behaviors/828664/",
-          "postedAt": "2026-08-24T23:21:16.000Z"
-        },
-        {
-          "id": "om_5463ba9faa",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Coworking with Monica Tailor",
-          "url": "https://www.marketingbrew.com/stories/coworking-with-monica-tailor?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-24T18:08:00.000Z"
-        },
-        {
-          "id": "om_3012baec5d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart expands 30-minutes-or-less delivery as speed woos shoppers",
-          "url": "https://www.retaildive.com/news/walmart-expands-30-minutes-or-less-delivery/828570/",
-          "postedAt": "2026-08-24T16:20:00.000Z"
-        },
-        {
-          "id": "om_6669aa9e39",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Gap Inc. taps Walmart alum in ‘fashiontainment’ push",
-          "url": "https://www.retaildive.com/news/gap-inc-entertainment-executive-hire-walmart-alum/828598/",
-          "postedAt": "2026-08-24T16:04:00.000Z"
-        },
-        {
-          "id": "om_3bb35292d6",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart communications chief to depart after 3 years",
-          "url": "https://www.retaildive.com/news/walmart-communications-chief-allyson-park-departure-after-3-years/828576/",
-          "postedAt": "2026-08-24T15:33:00.000Z"
-        },
-        {
-          "id": "om_29b62687f0",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Fragrance drives beauty sales as consumers seek ‘emotional and functional value’",
-          "url": "https://www.retaildive.com/news/fragrance-beauty-sales-growth-first-half-2026/828479/",
-          "postedAt": "2026-08-24T15:17:00.000Z"
-        },
-        {
-          "id": "om_7ac3588eba",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Publicis tackles fragmented NIL market with Travis Kelce, 3 Arts Sports",
-          "url": "https://www.marketingdive.com/news/publicis-tackles-fragmented-nil-market-with-travis-kelce-3-arts-sports/828498/",
-          "postedAt": "2026-08-24T14:52:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-26T13:15:33.168Z",
+      "lastUpdated": "2026-08-27T09:46:22.204Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
