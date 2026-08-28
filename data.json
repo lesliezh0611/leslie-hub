@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-27T22:14:58.081Z",
+      "lastUpdated": "2026-08-28T11:21:48.988Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-27T22:14:59.430Z",
+      "lastUpdated": "2026-08-28T11:21:50.402Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,22 @@
       },
       "articles": [
         {
+          "id": "om_ead2d48334",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Retail Roundup: Home Depot Finally Hires a Retail Media Leader, and More Ads Are Coming to Shopping Malls",
+          "url": "https://www.adweek.com/commerce/retail-roundup-home-depot-finally-hires-an-ads-leader-and-more-ads-are-coming-to-shopping-malls/",
+          "postedAt": "2026-08-28T06:00:00.000Z"
+        },
+        {
+          "id": "om_00b1b016dc",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 13 Campaigns That Caught Our Eye, From Fanta to Heinz",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-13-campaigns-that-caught-our-eye-from-fanta-to-heinz/",
+          "postedAt": "2026-08-28T06:00:00.000Z"
+        },
+        {
           "id": "om_6f400bef93",
           "source": "Retail Dive",
           "lang": "en",
@@ -542,6 +558,14 @@
           "title": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
           "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
           "postedAt": "2026-08-27T19:54:28.000Z"
+        },
+        {
+          "id": "om_381af8b5e6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Gap’s Bet on Hailey Bieber and Other Culture-Driven Ads Pay Off, Even as Parent Company’s Sales Drop",
+          "url": "https://www.adweek.com/commerce/gap-hailey-bieber-culture-driven-ads-parent-sales-drop/",
+          "postedAt": "2026-08-27T18:49:00.000Z"
         },
         {
           "id": "om_98fb5bd9fb",
@@ -654,34 +678,10 @@
           "title": "Ryan Wilson On Why Many Brands Still Don’t Know How to Appeal to Black Consumers",
           "url": "https://www.adweek.com/brand-marketing/ryan-wilson-on-why-many-brands-still-dont-know-how-to-appeal-to-black-consumers/",
           "postedAt": "2026-08-27T14:16:25.000Z"
-        },
-        {
-          "id": "om_27bcdbd948",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Dr Pepper’s ‘Fansville’ campaign stays relevant and drives outcomes",
-          "url": "https://www.marketingdive.com/news/how-dr-peppers-fansville-campaign-stays-relevant-and-drives-outcomes/828824/",
-          "postedAt": "2026-08-27T14:00:00.000Z"
-        },
-        {
-          "id": "om_2c5194f0ef",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Kohl’s unites marketing, digital under new chief customer officer role",
-          "url": "https://www.marketingdive.com/news/kohls-names-first-chief-customer-officer-elevates-cx/828922/",
-          "postedAt": "2026-08-27T13:30:00.000Z"
-        },
-        {
-          "id": "om_8a006fd248",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Behr’s digital marketing helps DIYers overcome ‘paint paralysis’",
-          "url": "https://www.marketingdive.com/news/how-behrs-digital-marketing-helps-diyers-overcome-paint-paralysis/828892/",
-          "postedAt": "2026-08-27T13:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-27T22:15:00.288Z",
+      "lastUpdated": "2026-08-28T11:21:51.693Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
