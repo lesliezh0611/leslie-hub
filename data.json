@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-28T11:21:48.988Z",
+      "lastUpdated": "2026-08-28T22:17:55.351Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-28T11:21:50.402Z",
+      "lastUpdated": "2026-08-28T22:17:56.817Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,78 @@
       },
       "articles": [
         {
+          "id": "om_3bd80b50a9",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside the marketing powering Whoop’s ‘pivotal’ next act",
+          "url": "https://www.marketingbrew.com/stories/whoop-wearables-marketing-strategy-cmo-dj-van-hameren?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-28T16:16:27.000Z"
+        },
+        {
+          "id": "om_82a9d2a65f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Ulta leans into exclusivity amid Target Beauty Studio competition",
+          "url": "https://www.retaildive.com/news/ulta-leans-into-exclusivity-q2/829056/",
+          "postedAt": "2026-08-28T15:27:00.000Z"
+        },
+        {
+          "id": "om_68186de70c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Avon North America to be acquired",
+          "url": "https://www.retaildive.com/news/arcteryx-vet-lead-helly-hansen-avon-north-america-acquired/829028/",
+          "postedAt": "2026-08-28T14:59:00.000Z"
+        },
+        {
+          "id": "om_f0aede2670",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Old Navy is rewiring its marketing strategy after summer traffic bust",
+          "url": "https://www.marketingdive.com/news/old-navy-is-rewiring-its-marketing-strategy-after-summer-traffic-bust/829053/",
+          "postedAt": "2026-08-28T14:27:00.000Z"
+        },
+        {
+          "id": "om_7bff79f287",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: How will Meta’s settlement impact social media?",
+          "url": "https://www.marketingdive.com/news/sociable-how-will-metas-settlement-impact-social-media/829045/",
+          "postedAt": "2026-08-28T13:01:00.000Z"
+        },
+        {
+          "id": "om_3804a8c5c6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "A Retailer’s Checklist to Prevent the Next Target Costume Blunder",
+          "url": "https://www.adweek.com/brand-marketing/a-retailers-checklist-to-prevent-the-next-target-costume-blunder/",
+          "postedAt": "2026-08-28T12:12:05.000Z"
+        },
+        {
+          "id": "om_47b75aa211",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Campaign Trail: Beefeater revisits Jamiroquai video for zero-proof gin",
+          "url": "https://www.marketingdive.com/news/campaign-trail-beefeater-revisits-jamiroquai-video-for-zero-proof-gin/828914/",
+          "postedAt": "2026-08-28T12:00:00.000Z"
+        },
+        {
+          "id": "om_4185513ddb",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "8 Marketer Moves to Know This Week: Wendy’s, Skims, Kohl’s, and More",
+          "url": "https://www.adweek.com/brand-marketing/8-marketer-moves-to-know-this-week-wendys-skims-kohls-and-more/",
+          "postedAt": "2026-08-28T11:20:20.000Z"
+        },
+        {
+          "id": "om_ed05c97bf0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why a Wieden+Kennedy Vet Joined Finn Partners To Build Out its Media Practice",
+          "url": "https://www.adweek.com/agencies/why-a-wiedenkennedy-vet-joined-finn-partners-to-build-out-its-media-practice/",
+          "postedAt": "2026-08-28T08:00:00.000Z"
+        },
+        {
           "id": "om_ead2d48334",
           "source": "Adweek",
           "lang": "en",
@@ -542,14 +614,6 @@
           "title": "Old Navy chief out as sales falter again",
           "url": "https://www.retaildive.com/news/old-navy-chief-out-sales-fall-gap-inc-earnings/829022/",
           "postedAt": "2026-08-27T22:08:00.000Z"
-        },
-        {
-          "id": "om_b8ae069b9f",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
-          "url": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
-          "postedAt": "2026-08-27T21:37:55.000Z"
         },
         {
           "id": "om_bf5dabc7fe",
@@ -584,14 +648,6 @@
           "postedAt": "2026-08-27T17:06:00.000Z"
         },
         {
-          "id": "om_79d57da3b5",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Fashion startup Atorie raises $9.5M to bring consumers luxury goods without the markup",
-          "url": "https://techcrunch.com/2026/08/27/fashion-startup-atorie-raises-9-5m-to-bring-consumers-luxury-goods-without-the-markup/",
-          "postedAt": "2026-08-27T17:00:00.000Z"
-        },
-        {
           "id": "om_3a77585989",
           "source": "Adweek",
           "lang": "en",
@@ -622,66 +678,10 @@
           "title": "The Backroom: A sit-down with Ron Johnson",
           "url": "https://www.retaildive.com/news/podcast-the-backroom-ron-johnson-apple-jcpenney-target/828925/",
           "postedAt": "2026-08-27T16:01:00.000Z"
-        },
-        {
-          "id": "om_0c94018baf",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Is Starbucks’ Pumpkin Spice Latte ‘basic’? Martha Stewart answers in new ads",
-          "url": "https://www.marketingdive.com/news/is-starbucks-pumpkin-spice-latte-basic-martha-stewart-answers-in-new-ad/828848/",
-          "postedAt": "2026-08-27T16:00:00.000Z"
-        },
-        {
-          "id": "om_ecd08ba276",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Burlington CEO calls using tariff refunds to cut prices ‘the right thing to do’",
-          "url": "https://www.retaildive.com/news/burlington-tariff-refunds-cut-prices-q2-earnings/828916/",
-          "postedAt": "2026-08-27T15:49:00.000Z"
-        },
-        {
-          "id": "om_9884a4db0e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Sur La Table launches peer-to-peer marketplace",
-          "url": "https://www.retaildive.com/news/sur-la-table-launches-peer-to-peer-resale-marketplace/828800/",
-          "postedAt": "2026-08-27T15:39:00.000Z"
-        },
-        {
-          "id": "om_043623329c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "US Open Shows How Brand Partnerships Are Serving a Better Fan Experience",
-          "url": "https://www.adweek.com/brand-marketing/us-open-brand-partnerships-serving-better-fan-experience/",
-          "postedAt": "2026-08-27T14:39:49.000Z"
-        },
-        {
-          "id": "om_fc99054292",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: Meta removes option to exclude ad placements",
-          "url": "https://www.marketingdive.com/news/sociable-meta-removes-option-to-exclude-ad-placements/828941/",
-          "postedAt": "2026-08-27T14:28:00.000Z"
-        },
-        {
-          "id": "om_3eb3187bb9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Kohl’s expands home assortment with Martha Stewart, Bobby Flay",
-          "url": "https://www.retaildive.com/news/kohls-expands-home-assortment-with-martha-stewart-bobby-flay/828708/",
-          "postedAt": "2026-08-27T14:23:00.000Z"
-        },
-        {
-          "id": "om_6ccbe6b913",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ryan Wilson On Why Many Brands Still Don’t Know How to Appeal to Black Consumers",
-          "url": "https://www.adweek.com/brand-marketing/ryan-wilson-on-why-many-brands-still-dont-know-how-to-appeal-to-black-consumers/",
-          "postedAt": "2026-08-27T14:16:25.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-28T11:21:51.693Z",
+      "lastUpdated": "2026-08-28T22:17:58.283Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
