@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-31T05:32:16.912Z",
+      "lastUpdated": "2026-08-31T19:07:21.156Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -267,10 +267,26 @@
       ],
       "podcasts": [
         {
+          "id": "en_pod_lenny_s_podcast_99c9d79be6",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
+          "postedAt": "2026-08-31T15:01:58.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_602e42310f",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
+          "url": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
+          "postedAt": "2026-08-31T12:04:18.000Z"
+        },
+        {
           "id": "en_pod_lenny_s_podcast_1c8afdde6b",
           "source": "Lenny's Podcast",
           "platform": "newsletter",
-          "topic": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
+          "topic": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (Product Lead ChatGPT Work)",
           "url": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
           "postedAt": "2026-08-30T12:31:30.000Z"
         },
@@ -347,22 +363,6 @@
           "postedAt": "2026-08-18T21:30:31.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_b0facf8be8",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Announcing Lenny’s Jobs: The best place in the world to find, vet, and land your dream job",
-          "url": "https://www.lennysnewsletter.com/p/announcing-lennys-jobs-the-best-place",
-          "postedAt": "2026-08-18T15:40:06.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_bd6d7d2599",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
-          "postedAt": "2026-08-17T15:03:16.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_6f53cc0d83",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-31T05:32:18.909Z",
+      "lastUpdated": "2026-08-31T19:07:22.602Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,150 @@
       },
       "articles": [
         {
+          "id": "om_8f1e866d23",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Coworking with Bryant Kohler",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-bryant-kohler?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-31T16:54:50.000Z"
+        },
+        {
+          "id": "om_f790e8ff8b",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why Dr. Squatch is investing in experiences — not ads — with IShowSpeed",
+          "url": "https://www.marketingdive.com/news/why-dr-squatch-is-investing-in-experiences-not-ads-with-ishowspeed/829009/",
+          "postedAt": "2026-08-31T16:00:00.000Z"
+        },
+        {
+          "id": "om_d4d7326da2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target bets on ’90s nostalgia with exclusive Delia’s collection",
+          "url": "https://www.retaildive.com/news/target-90s-nostalgia-exclusive-delias-collection/829163/",
+          "postedAt": "2026-08-31T15:57:00.000Z"
+        },
+        {
+          "id": "om_7ee33274d6",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Macy’s names senior vice president of creative, production",
+          "url": "https://www.retaildive.com/news/macys-senior-vice-president-of-creative-production-maya-dukes/829130/",
+          "postedAt": "2026-08-31T15:29:00.000Z"
+        },
+        {
+          "id": "om_08ca21c697",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Factor Serves Up a GLP-1 Meal Plan in New Serena Williams Ad Spot",
+          "url": "https://www.adweek.com/brand-marketing/factor-serves-up-a-glp-1-meal-plan-in-new-serena-williams-ad-spot/",
+          "postedAt": "2026-08-31T14:55:37.000Z"
+        },
+        {
+          "id": "om_1d04e216cb",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Chipotle deploys 100 creators for latest ads spotlighting fresh food",
+          "url": "https://www.marketingdive.com/news/chipotle-deploys-100-creators-for-latest-ads-spotlighting-fresh-food/829149/",
+          "postedAt": "2026-08-31T14:49:00.000Z"
+        },
+        {
+          "id": "om_a99ee41b87",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Inside Bed Bath & Beyond’s ambitions to transcend retail",
+          "url": "https://www.retaildive.com/news/bed-bath-beyond-turnaround-ambitions-transcend-home-retail/828492/",
+          "postedAt": "2026-08-31T14:16:00.000Z"
+        },
+        {
+          "id": "om_e3993054c9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Snapchat’s bid to simplify mobile marketing measurement goes global",
+          "url": "https://www.marketingdive.com/news/snapchats-bid-to-simplify-mobile-marketing-measurement-goes-global/828976/",
+          "postedAt": "2026-08-31T14:00:00.000Z"
+        },
+        {
+          "id": "om_4898468b07",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Have we reached peak Honey Deuce?",
+          "url": "https://www.marketingbrew.com/stories/grey-goose-honey-deuce-us-open?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-31T14:00:00.000Z"
+        },
+        {
+          "id": "om_0faaa7dcf2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Best Buy emphasizes expert support with AI shopping assistant",
+          "url": "https://www.retaildive.com/news/best-buy-ai-shopping-assistant/829049/",
+          "postedAt": "2026-08-31T13:00:00.000Z"
+        },
+        {
+          "id": "om_121993fc43",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+          "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+          "postedAt": "2026-08-31T12:56:46.000Z"
+        },
+        {
+          "id": "om_d6aa4df920",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Domino’s is taking on the Big Mac, Whopper and other fast-food icons",
+          "url": "https://www.marketingdive.com/news/how-dominos-is-taking-on-the-big-mac-whopper-and-other-fast-food-icons/828994/",
+          "postedAt": "2026-08-31T11:07:00.000Z"
+        },
+        {
+          "id": "om_8d87146eea",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "OpenAI looks to streamline ChatGPT ad campaign creation with redesigned onboarding experienc",
+          "url": "https://www.marketingbrew.com/stories/openai-streamlining-chatgpt-ad-campaign-creation?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-08-31T11:00:00.000Z"
+        },
+        {
+          "id": "om_cb4568ded8",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "America’s 250th proves heritage marketing is for every brand",
+          "url": "https://www.marketingdive.com/spons/americas-250th-proves-heritage-marketing-is-for-every-brand/828469/",
+          "postedAt": "2026-08-31T09:00:00.000Z"
+        },
+        {
+          "id": "om_743cf52d87",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "The retail marketer’s BFCM readiness playbook",
+          "url": "https://www.marketingdive.com/spons/the-retail-marketers-bfcm-readiness-playbook/828863/",
+          "postedAt": "2026-08-31T09:00:00.000Z"
+        },
+        {
+          "id": "om_8594c5294c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Jon Hamm Ad Kicks Off BetMGM’s AOR Partnership With Indie Agency Cape",
+          "url": "https://www.adweek.com/agencies/jon-hamm-ad-kicks-off-betmgms-aor-partnership-with-indie-agency-cape/",
+          "postedAt": "2026-08-31T08:30:00.000Z"
+        },
+        {
+          "id": "om_d1cf564df2",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Fernando Machado Just Let 100 Creators Loose in 50 Chipotle Kitchens",
+          "url": "https://www.adweek.com/brand-marketing/fernando-machado-just-let-100-creators-loose-in-50-chipotle-kitchens/",
+          "postedAt": "2026-08-31T07:53:00.000Z"
+        },
+        {
+          "id": "om_00d7a2501f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK Creativity Advantage: A Sports Marketing Renaissance Opens the Playing Field to New Brands",
+          "url": "https://www.adweek.com/creativity/adweek-creativity-advantage-a-sports-marketing-renaissance-opens-the-playing-field-to-new-brands/",
+          "postedAt": "2026-08-31T06:00:00.000Z"
+        },
+        {
           "id": "om_2d9b820cbd",
           "source": "Social Media Today",
           "lang": "en",
@@ -531,157 +675,13 @@
           "id": "om_a07c3116b1",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+          "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
           "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
           "postedAt": "2026-08-29T18:41:59.000Z"
-        },
-        {
-          "id": "om_3bd80b50a9",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside the marketing powering Whoop’s ‘pivotal’ next act",
-          "url": "https://www.marketingbrew.com/stories/whoop-wearables-marketing-strategy-cmo-dj-van-hameren?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-28T16:16:27.000Z"
-        },
-        {
-          "id": "om_82a9d2a65f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Ulta leans into exclusivity amid Target Beauty Studio competition",
-          "url": "https://www.retaildive.com/news/ulta-leans-into-exclusivity-q2/829056/",
-          "postedAt": "2026-08-28T15:27:00.000Z"
-        },
-        {
-          "id": "om_68186de70c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Weekly Closeout: Arc’teryx vet heads to Helly Hansen, Avon North America to be acquired",
-          "url": "https://www.retaildive.com/news/arcteryx-vet-lead-helly-hansen-avon-north-america-acquired/829028/",
-          "postedAt": "2026-08-28T14:59:00.000Z"
-        },
-        {
-          "id": "om_f0aede2670",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Old Navy is rewiring its marketing strategy after summer traffic bust",
-          "url": "https://www.marketingdive.com/news/old-navy-is-rewiring-its-marketing-strategy-after-summer-traffic-bust/829053/",
-          "postedAt": "2026-08-28T14:27:00.000Z"
-        },
-        {
-          "id": "om_7bff79f287",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: How will Meta’s settlement impact social media?",
-          "url": "https://www.marketingdive.com/news/sociable-how-will-metas-settlement-impact-social-media/829045/",
-          "postedAt": "2026-08-28T13:01:00.000Z"
-        },
-        {
-          "id": "om_3804a8c5c6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "A Retailer’s Checklist to Prevent the Next Target Costume Blunder",
-          "url": "https://www.adweek.com/brand-marketing/a-retailers-checklist-to-prevent-the-next-target-costume-blunder/",
-          "postedAt": "2026-08-28T12:12:05.000Z"
-        },
-        {
-          "id": "om_47b75aa211",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Campaign Trail: Beefeater revisits Jamiroquai video for zero-proof gin",
-          "url": "https://www.marketingdive.com/news/campaign-trail-beefeater-revisits-jamiroquai-video-for-zero-proof-gin/828914/",
-          "postedAt": "2026-08-28T12:00:00.000Z"
-        },
-        {
-          "id": "om_4185513ddb",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "8 Marketer Moves to Know This Week: Wendy’s, Skims, Kohl’s, and More",
-          "url": "https://www.adweek.com/brand-marketing/8-marketer-moves-to-know-this-week-wendys-skims-kohls-and-more/",
-          "postedAt": "2026-08-28T11:20:20.000Z"
-        },
-        {
-          "id": "om_ed05c97bf0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why a Wieden+Kennedy Vet Joined Finn Partners To Build Out its Media Practice",
-          "url": "https://www.adweek.com/agencies/why-a-wiedenkennedy-vet-joined-finn-partners-to-build-out-its-media-practice/",
-          "postedAt": "2026-08-28T08:00:00.000Z"
-        },
-        {
-          "id": "om_ead2d48334",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Retail Roundup: Home Depot Finally Hires a Retail Media Leader, and More Ads Are Coming to Shopping Malls",
-          "url": "https://www.adweek.com/commerce/retail-roundup-home-depot-finally-hires-an-ads-leader-and-more-ads-are-coming-to-shopping-malls/",
-          "postedAt": "2026-08-28T06:00:00.000Z"
-        },
-        {
-          "id": "om_00b1b016dc",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 13 Campaigns That Caught Our Eye, From Fanta to Heinz",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-13-campaigns-that-caught-our-eye-from-fanta-to-heinz/",
-          "postedAt": "2026-08-28T06:00:00.000Z"
-        },
-        {
-          "id": "om_6f400bef93",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Old Navy chief out as sales falter again",
-          "url": "https://www.retaildive.com/news/old-navy-chief-out-sales-fall-gap-inc-earnings/829022/",
-          "postedAt": "2026-08-27T22:08:00.000Z"
-        },
-        {
-          "id": "om_381af8b5e6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Gap’s Bet on Hailey Bieber and Other Culture-Driven Ads Pay Off, Even as Parent Company’s Sales Drop",
-          "url": "https://www.adweek.com/commerce/gap-hailey-bieber-culture-driven-ads-parent-sales-drop/",
-          "postedAt": "2026-08-27T18:49:00.000Z"
-        },
-        {
-          "id": "om_98fb5bd9fb",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Don’t Let Retail Media Tell You It’s Brand Building",
-          "url": "https://www.adweek.com/commerce/dont-let-retail-media-tell-you-its-brand-building/",
-          "postedAt": "2026-08-27T17:10:02.000Z"
-        },
-        {
-          "id": "om_e55294d971",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bath & Body Works e-commerce returns to growth",
-          "url": "https://www.retaildive.com/news/bath-body-works-e-commerce-returns-growth/828882/",
-          "postedAt": "2026-08-27T17:06:00.000Z"
-        },
-        {
-          "id": "om_3a77585989",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why Live Sports Is Marketing’s Biggest Growth Engine ft. NBCU CMO Jennifer Storms",
-          "url": "https://www.adweek.com/brand-marketing/why-live-sports-is-marketings-biggest-growth-engine-ft-nbcu-cmo-jennifer-storms/",
-          "postedAt": "2026-08-27T16:41:12.000Z"
-        },
-        {
-          "id": "om_139f8b2463",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Build-A-Bear fires chief growth officer as earnings fall flat",
-          "url": "https://www.retaildive.com/news/build-a-bear-chief-growth-officer-fired-earnings-sales-miss/828944/",
-          "postedAt": "2026-08-27T16:07:00.000Z"
-        },
-        {
-          "id": "om_922374a37d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Consumer confidence wanes on dimming view of jobs, incomes, business",
-          "url": "https://www.retaildive.com/news/consumer-confidence-wanes-dimming-view-jobs-incomes-business-inflation-Iran-war/828857/",
-          "postedAt": "2026-08-27T16:04:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-31T05:32:20.749Z",
+      "lastUpdated": "2026-08-31T19:07:24.218Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
