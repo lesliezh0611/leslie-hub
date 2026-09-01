@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-08-31T19:07:21.156Z",
+      "lastUpdated": "2026-09-01T05:05:56.627Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-31T19:07:22.602Z",
+      "lastUpdated": "2026-09-01T05:05:59.092Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,12 +520,60 @@
       },
       "articles": [
         {
+          "id": "om_3bd23cbc54",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
+          "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
+          "postedAt": "2026-08-31T23:14:14.000Z"
+        },
+        {
+          "id": "om_b762c05a40",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok continues to add users in EU",
+          "url": "https://www.socialmediatoday.com/news/tiktok-continues-to-add-users-in-eu/829242/",
+          "postedAt": "2026-08-31T22:50:02.000Z"
+        },
+        {
+          "id": "om_c913fb0068",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Best Early Tech Labor Day Sales I’d Shop Myself (2026): AirTags, Dyson, and More",
+          "url": "https://www.wired.com/story/early-tech-labor-day-sales-2026/",
+          "postedAt": "2026-08-31T20:47:46.000Z"
+        },
+        {
+          "id": "om_fc92a07caa",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "FTC Claims Amazon Pocketed Over $20 Billion By ‘Manipulating’ Its Ad Auctions",
+          "url": "https://www.adweek.com/commerce/ftc-claims-amazon-pocketed-over-20-billion-by-manipulating-its-ad-auctions/",
+          "postedAt": "2026-08-31T17:10:42.000Z"
+        },
+        {
           "id": "om_8f1e866d23",
           "source": "Marketing Brew",
           "lang": "en",
           "title": "Coworking with Bryant Kohler",
           "url": "https://www.marketingbrew.com/stories/coworking-with-bryant-kohler?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-08-31T16:54:50.000Z"
+        },
+        {
+          "id": "om_e4e2c25672",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "WPP’s Alleged Global Rebate Scheme, Told Through Three Court Cases",
+          "url": "https://www.adweek.com/agencies/wpps-alleged-global-rebate-scheme-told-through-three-court-cases/",
+          "postedAt": "2026-08-31T16:47:57.000Z"
+        },
+        {
+          "id": "om_13aba1af6e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Stellantis’ Olivier Francois Steps Down, But Hasn’t Driven Off Into the Sunset Yet",
+          "url": "https://www.adweek.com/brand-marketing/stellantis-olivier-francois-steps-down-but-hasnt-driven-off-into-the-sunset-yet/",
+          "postedAt": "2026-08-31T16:39:24.000Z"
         },
         {
           "id": "om_f790e8ff8b",
@@ -542,6 +590,14 @@
           "title": "Target bets on ’90s nostalgia with exclusive Delia’s collection",
           "url": "https://www.retaildive.com/news/target-90s-nostalgia-exclusive-delias-collection/829163/",
           "postedAt": "2026-08-31T15:57:00.000Z"
+        },
+        {
+          "id": "om_1171020c60",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Callaway and Good Good’s Ad Was So Bad, Even AI Audiences Sounded the Alarm",
+          "url": "https://www.adweek.com/brand-marketing/callaway-and-good-goods-ad-was-so-bad-even-ai-audiences-sounded-the-alarm/",
+          "postedAt": "2026-08-31T15:43:51.000Z"
         },
         {
           "id": "om_7ee33274d6",
@@ -600,14 +656,6 @@
           "postedAt": "2026-08-31T13:00:00.000Z"
         },
         {
-          "id": "om_121993fc43",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
-          "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-          "postedAt": "2026-08-31T12:56:46.000Z"
-        },
-        {
           "id": "om_d6aa4df920",
           "source": "Marketing Dive",
           "lang": "en",
@@ -624,64 +672,16 @@
           "postedAt": "2026-08-31T11:00:00.000Z"
         },
         {
-          "id": "om_cb4568ded8",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "America’s 250th proves heritage marketing is for every brand",
-          "url": "https://www.marketingdive.com/spons/americas-250th-proves-heritage-marketing-is-for-every-brand/828469/",
-          "postedAt": "2026-08-31T09:00:00.000Z"
-        },
-        {
           "id": "om_743cf52d87",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "The retail marketer’s BFCM readiness playbook",
           "url": "https://www.marketingdive.com/spons/the-retail-marketers-bfcm-readiness-playbook/828863/",
           "postedAt": "2026-08-31T09:00:00.000Z"
-        },
-        {
-          "id": "om_8594c5294c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Jon Hamm Ad Kicks Off BetMGM’s AOR Partnership With Indie Agency Cape",
-          "url": "https://www.adweek.com/agencies/jon-hamm-ad-kicks-off-betmgms-aor-partnership-with-indie-agency-cape/",
-          "postedAt": "2026-08-31T08:30:00.000Z"
-        },
-        {
-          "id": "om_d1cf564df2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Fernando Machado Just Let 100 Creators Loose in 50 Chipotle Kitchens",
-          "url": "https://www.adweek.com/brand-marketing/fernando-machado-just-let-100-creators-loose-in-50-chipotle-kitchens/",
-          "postedAt": "2026-08-31T07:53:00.000Z"
-        },
-        {
-          "id": "om_00d7a2501f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK Creativity Advantage: A Sports Marketing Renaissance Opens the Playing Field to New Brands",
-          "url": "https://www.adweek.com/creativity/adweek-creativity-advantage-a-sports-marketing-renaissance-opens-the-playing-field-to-new-brands/",
-          "postedAt": "2026-08-31T06:00:00.000Z"
-        },
-        {
-          "id": "om_2d9b820cbd",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Instagram growth continues to outpace Facebook in EU",
-          "url": "https://www.socialmediatoday.com/news/instagram-growth-continues-to-outpace-facebook-in-eu/829134/",
-          "postedAt": "2026-08-31T00:31:58.000Z"
-        },
-        {
-          "id": "om_a07c3116b1",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
-          "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-          "postedAt": "2026-08-29T18:41:59.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-08-31T19:07:24.218Z",
+      "lastUpdated": "2026-09-01T05:06:02.039Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
