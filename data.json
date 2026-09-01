@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-01T05:05:56.627Z",
+      "lastUpdated": "2026-09-01T16:38:21.721Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_e821092777",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How to turn your AI into a world-class designer",
+          "url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
+          "postedAt": "2026-09-01T12:45:59.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_99c9d79be6",
           "source": "Lenny's Podcast",
@@ -355,14 +363,6 @@
           "postedAt": "2026-08-22T19:23:07.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_0bd92e9f12",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "I tested Grok Bot, Grok 4.6, and Cursor Origin - here’s my honest take",
-          "url": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
-          "postedAt": "2026-08-18T21:30:31.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_6f53cc0d83",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-01T05:05:59.092Z",
+      "lastUpdated": "2026-09-01T16:38:23.643Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,94 @@
       },
       "articles": [
         {
+          "id": "om_50b4daf62f",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+          "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+          "postedAt": "2026-09-01T15:51:55.000Z"
+        },
+        {
+          "id": "om_eed60dfae0",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Dollar Shave Club acquires body care brand Truly Beauty",
+          "url": "https://www.retaildive.com/news/dollar-shave-club-acquires-truly-beauty/829291/",
+          "postedAt": "2026-09-01T15:31:00.000Z"
+        },
+        {
+          "id": "om_42a596aeb8",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon’s ad auction surcharges secretly bilked brands of billions, FTC alleges",
+          "url": "https://www.retaildive.com/news/amazon-hid-surcharges-ad-auctions-alleges-ftc-complaint/829294/",
+          "postedAt": "2026-09-01T15:06:00.000Z"
+        },
+        {
+          "id": "om_929709b655",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Home Depot extends AI assistance in local stores",
+          "url": "https://www.retaildive.com/news/the-home-depot-extends-ai-assistance-stores/829240/",
+          "postedAt": "2026-09-01T14:34:00.000Z"
+        },
+        {
+          "id": "om_2347e67b8b",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Hershey’s Katseye campaign takes on Gen Z’s desire for indulgence",
+          "url": "https://www.marketingdive.com/news/how-hersheys-katseye-campaign-takes-on-gen-zs-desire-for-indulgence/829013/",
+          "postedAt": "2026-09-01T14:00:00.000Z"
+        },
+        {
+          "id": "om_a6df8a8d40",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Amazon’s ad auction surcharges secretly bilked brands of billions, FTC alleges",
+          "url": "https://www.marketingdive.com/news/amazon-hid-surcharges-on-ad-auctions-alleges-ftc-complaint/829274/",
+          "postedAt": "2026-09-01T13:46:52.000Z"
+        },
+        {
+          "id": "om_7634f88888",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Amid growing AI distrust, humanity takes a front seat in advertising",
+          "url": "https://www.marketingbrew.com/stories/humanity-in-advertising-ai-distrust?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-01T13:22:38.000Z"
+        },
+        {
+          "id": "om_438ac894b6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK Brand Advantage: B2B Brands Break Out of the Office Onto the Field",
+          "url": "https://www.adweek.com/brand-marketing/adweek-brand-advantage-b2b-brands-break-out-of-the-office-onto-the-field/",
+          "postedAt": "2026-09-01T06:00:00.000Z"
+        },
+        {
+          "id": "om_e06fbce0dc",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "TikTok for Business Partners With ADWEEK on Fastest Growing Agencies 2026",
+          "url": "https://www.adweek.com/agencies/tiktok-for-business-fastest-growing-agencies-2026/",
+          "postedAt": "2026-09-01T06:00:00.000Z"
+        },
+        {
+          "id": "om_08bfff4320",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Jaylen Brown and the Moment of Truth",
+          "url": "https://www.adweek.com/brand-marketing/jaylen-brown-moment-of-truth-741-nba-celtics-76ers/",
+          "postedAt": "2026-09-01T06:00:00.000Z"
+        },
+        {
+          "id": "om_a4e0d890bc",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK’s 2026 Brand Genius Winners Are Changing Their Industries With Creativity and Resilience",
+          "url": "https://www.adweek.com/creativity/brand-genius-2026-winners-changing-industries-creativity-resilience/",
+          "postedAt": "2026-09-01T06:00:00.000Z"
+        },
+        {
           "id": "om_3bd23cbc54",
           "source": "TechCrunch",
           "lang": "en",
@@ -590,98 +678,10 @@
           "title": "Target bets on ’90s nostalgia with exclusive Delia’s collection",
           "url": "https://www.retaildive.com/news/target-90s-nostalgia-exclusive-delias-collection/829163/",
           "postedAt": "2026-08-31T15:57:00.000Z"
-        },
-        {
-          "id": "om_1171020c60",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Callaway and Good Good’s Ad Was So Bad, Even AI Audiences Sounded the Alarm",
-          "url": "https://www.adweek.com/brand-marketing/callaway-and-good-goods-ad-was-so-bad-even-ai-audiences-sounded-the-alarm/",
-          "postedAt": "2026-08-31T15:43:51.000Z"
-        },
-        {
-          "id": "om_7ee33274d6",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Macy’s names senior vice president of creative, production",
-          "url": "https://www.retaildive.com/news/macys-senior-vice-president-of-creative-production-maya-dukes/829130/",
-          "postedAt": "2026-08-31T15:29:00.000Z"
-        },
-        {
-          "id": "om_08ca21c697",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Factor Serves Up a GLP-1 Meal Plan in New Serena Williams Ad Spot",
-          "url": "https://www.adweek.com/brand-marketing/factor-serves-up-a-glp-1-meal-plan-in-new-serena-williams-ad-spot/",
-          "postedAt": "2026-08-31T14:55:37.000Z"
-        },
-        {
-          "id": "om_1d04e216cb",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Chipotle deploys 100 creators for latest ads spotlighting fresh food",
-          "url": "https://www.marketingdive.com/news/chipotle-deploys-100-creators-for-latest-ads-spotlighting-fresh-food/829149/",
-          "postedAt": "2026-08-31T14:49:00.000Z"
-        },
-        {
-          "id": "om_a99ee41b87",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Inside Bed Bath & Beyond’s ambitions to transcend retail",
-          "url": "https://www.retaildive.com/news/bed-bath-beyond-turnaround-ambitions-transcend-home-retail/828492/",
-          "postedAt": "2026-08-31T14:16:00.000Z"
-        },
-        {
-          "id": "om_e3993054c9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Snapchat’s bid to simplify mobile marketing measurement goes global",
-          "url": "https://www.marketingdive.com/news/snapchats-bid-to-simplify-mobile-marketing-measurement-goes-global/828976/",
-          "postedAt": "2026-08-31T14:00:00.000Z"
-        },
-        {
-          "id": "om_4898468b07",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Have we reached peak Honey Deuce?",
-          "url": "https://www.marketingbrew.com/stories/grey-goose-honey-deuce-us-open?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-31T14:00:00.000Z"
-        },
-        {
-          "id": "om_0faaa7dcf2",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Best Buy emphasizes expert support with AI shopping assistant",
-          "url": "https://www.retaildive.com/news/best-buy-ai-shopping-assistant/829049/",
-          "postedAt": "2026-08-31T13:00:00.000Z"
-        },
-        {
-          "id": "om_d6aa4df920",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Domino’s is taking on the Big Mac, Whopper and other fast-food icons",
-          "url": "https://www.marketingdive.com/news/how-dominos-is-taking-on-the-big-mac-whopper-and-other-fast-food-icons/828994/",
-          "postedAt": "2026-08-31T11:07:00.000Z"
-        },
-        {
-          "id": "om_8d87146eea",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "OpenAI looks to streamline ChatGPT ad campaign creation with redesigned onboarding experienc",
-          "url": "https://www.marketingbrew.com/stories/openai-streamlining-chatgpt-ad-campaign-creation?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-31T11:00:00.000Z"
-        },
-        {
-          "id": "om_743cf52d87",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "The retail marketer’s BFCM readiness playbook",
-          "url": "https://www.marketingdive.com/spons/the-retail-marketers-bfcm-readiness-playbook/828863/",
-          "postedAt": "2026-08-31T09:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-01T05:06:02.039Z",
+      "lastUpdated": "2026-09-01T16:38:25.308Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
