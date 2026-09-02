@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-01T16:38:21.721Z",
+      "lastUpdated": "2026-09-02T04:31:26.349Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-01T16:38:23.643Z",
+      "lastUpdated": "2026-09-02T04:31:27.949Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,22 @@
       },
       "articles": [
         {
+          "id": "om_136071f6d4",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside the Chicago Bulls’ Easter–egg–filled schedule release video",
+          "url": "https://www.marketingbrew.com/stories/chicago-bulls-easter-egg-schedule-release-video?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-01T19:04:48.000Z"
+        },
+        {
+          "id": "om_0fa9cbfa8f",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "The UPS Store enlists first brand character to support franchisees",
+          "url": "https://www.marketingdive.com/news/the-ups-store-enlists-first-brand-character-to-support-franchisees/829215/",
+          "postedAt": "2026-09-01T16:57:21.000Z"
+        },
+        {
           "id": "om_50b4daf62f",
           "source": "TechCrunch",
           "lang": "en",
@@ -544,6 +560,14 @@
           "postedAt": "2026-09-01T15:06:00.000Z"
         },
         {
+          "id": "om_ff6f733b1d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Retail Media Can Build Brands—Including Ways Other Media Can’t",
+          "url": "https://www.adweek.com/commerce/retail-media-can-build-brandsincluding-ways-other-media-cant/",
+          "postedAt": "2026-09-01T15:02:33.000Z"
+        },
+        {
           "id": "om_929709b655",
           "source": "Retail Dive",
           "lang": "en",
@@ -560,12 +584,28 @@
           "postedAt": "2026-09-01T14:00:00.000Z"
         },
         {
+          "id": "om_5aba620bd8",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Playing the Long Game: CarMax on Turning Fandom Into Brand Loyalty",
+          "url": "https://www.adweek.com/brand-marketing/playing-the-long-game-carmax-on-turning-fandom-into-brand-loyalty/",
+          "postedAt": "2026-09-01T13:55:42.000Z"
+        },
+        {
           "id": "om_a6df8a8d40",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Amazon’s ad auction surcharges secretly bilked brands of billions, FTC alleges",
           "url": "https://www.marketingdive.com/news/amazon-hid-surcharges-on-ad-auctions-alleges-ftc-complaint/829274/",
           "postedAt": "2026-09-01T13:46:52.000Z"
+        },
+        {
+          "id": "om_e68839f848",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Neela Montgomery on How Health Trends Are Changing Consumer Behavior",
+          "url": "https://www.adweek.com/brand-marketing/neela-montgomery-on-how-health-trends-are-changing-consumer-behavior/",
+          "postedAt": "2026-09-01T13:39:55.000Z"
         },
         {
           "id": "om_7634f88888",
@@ -608,14 +648,6 @@
           "postedAt": "2026-09-01T06:00:00.000Z"
         },
         {
-          "id": "om_3bd23cbc54",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
-          "url": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
-          "postedAt": "2026-08-31T23:14:14.000Z"
-        },
-        {
           "id": "om_b762c05a40",
           "source": "Social Media Today",
           "lang": "en",
@@ -632,14 +664,6 @@
           "postedAt": "2026-08-31T20:47:46.000Z"
         },
         {
-          "id": "om_fc92a07caa",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "FTC Claims Amazon Pocketed Over $20 Billion By ‘Manipulating’ Its Ad Auctions",
-          "url": "https://www.adweek.com/commerce/ftc-claims-amazon-pocketed-over-20-billion-by-manipulating-its-ad-auctions/",
-          "postedAt": "2026-08-31T17:10:42.000Z"
-        },
-        {
           "id": "om_8f1e866d23",
           "source": "Marketing Brew",
           "lang": "en",
@@ -648,40 +672,16 @@
           "postedAt": "2026-08-31T16:54:50.000Z"
         },
         {
-          "id": "om_e4e2c25672",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "WPP’s Alleged Global Rebate Scheme, Told Through Three Court Cases",
-          "url": "https://www.adweek.com/agencies/wpps-alleged-global-rebate-scheme-told-through-three-court-cases/",
-          "postedAt": "2026-08-31T16:47:57.000Z"
-        },
-        {
-          "id": "om_13aba1af6e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Stellantis’ Olivier Francois Steps Down, But Hasn’t Driven Off Into the Sunset Yet",
-          "url": "https://www.adweek.com/brand-marketing/stellantis-olivier-francois-steps-down-but-hasnt-driven-off-into-the-sunset-yet/",
-          "postedAt": "2026-08-31T16:39:24.000Z"
-        },
-        {
           "id": "om_f790e8ff8b",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Why Dr. Squatch is investing in experiences — not ads — with IShowSpeed",
           "url": "https://www.marketingdive.com/news/why-dr-squatch-is-investing-in-experiences-not-ads-with-ishowspeed/829009/",
           "postedAt": "2026-08-31T16:00:00.000Z"
-        },
-        {
-          "id": "om_d4d7326da2",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target bets on ’90s nostalgia with exclusive Delia’s collection",
-          "url": "https://www.retaildive.com/news/target-90s-nostalgia-exclusive-delias-collection/829163/",
-          "postedAt": "2026-08-31T15:57:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-01T16:38:25.308Z",
+      "lastUpdated": "2026-09-02T04:31:29.598Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
