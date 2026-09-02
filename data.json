@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-02T04:31:26.349Z",
+      "lastUpdated": "2026-09-02T16:33:31.363Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_f9f7f490df",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Grok Bot vs. OpenClaw: How I replaced my entire agent stack",
+          "url": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
+          "postedAt": "2026-09-02T12:03:39.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_e821092777",
           "source": "Lenny's Podcast",
@@ -355,28 +363,12 @@
           "postedAt": "2026-08-23T12:31:43.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_c99cdf1d4d",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Favorite Lenny’s Product Pass tools, how AI is reshaping hiring, what to prioritize when you join a new company, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-favorite-lennys",
-          "postedAt": "2026-08-22T19:23:07.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_6f53cc0d83",
           "source": "The Knowledge Project",
           "platform": "podcast",
           "topic": "Roblox CEO: How to Make Better Decisions by Fixing Yourself First",
           "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/",
           "postedAt": "2026-08-13T09:45:00.000Z"
-        },
-        {
-          "id": "en_pod_lex_fridman_podcast_9421051dd1",
-          "source": "Lex Fridman Podcast",
-          "platform": "podcast",
-          "topic": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football",
-          "url": "https://lexfridman.com/khabib-nurmagomedov/?utm_source=rss&utm_medium=rss&utm_campaign=khabib-nurmagomedov",
-          "postedAt": "2026-08-12T13:11:45.000Z"
         }
       ],
       "books": [
@@ -427,10 +419,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-02T04:31:27.949Z",
+      "lastUpdated": "2026-09-02T16:33:33.447Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "14 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -520,6 +512,126 @@
       },
       "articles": [
         {
+          "id": "om_8e2570ab01",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How FX brought a slice of the ‘Adults’ life to life",
+          "url": "https://www.marketingbrew.com/stories/fx-adults-sitcom-experiential-popup-prince-street-pizza-melrose-trading-post?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-02T16:00:59.000Z"
+        },
+        {
+          "id": "om_3ec7415d6f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Kohl’s unites marketing, digital under new chief customer officer role",
+          "url": "https://www.retaildive.com/news/kohls-names-first-chief-customer-officer/829418/",
+          "postedAt": "2026-09-02T15:29:00.000Z"
+        },
+        {
+          "id": "om_f328f13978",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Sephora to pilot TikTok Shop experience",
+          "url": "https://www.retaildive.com/news/sephora-pilot-tiktok-shop-experience/829420/",
+          "postedAt": "2026-09-02T15:14:00.000Z"
+        },
+        {
+          "id": "om_0de66ce5b5",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+          "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+          "postedAt": "2026-09-02T14:56:34.000Z"
+        },
+        {
+          "id": "om_2d1ae5d89b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Williams-Sonoma AI assistants drive customer engagement — and conversions",
+          "url": "https://www.retaildive.com/news/williams-sonoma-ai-assistants-drive-customer-engagement-conversions/829051/",
+          "postedAt": "2026-09-02T14:53:00.000Z"
+        },
+        {
+          "id": "om_a81138aa28",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Axe vies for more mature brand positioning while nodding to Y2K roots",
+          "url": "https://www.marketingdive.com/news/axe-vies-for-more-mature-brand-positioning-while-nodding-to-y2k-roots/829426/",
+          "postedAt": "2026-09-02T14:48:00.000Z"
+        },
+        {
+          "id": "om_9f757dc9d8",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Boscov’s revamps e-commerce fulfillment operations",
+          "url": "https://www.retaildive.com/news/boscovs-revamps-ecommerce-fulfillment-operations/829412/",
+          "postedAt": "2026-09-02T14:44:00.000Z"
+        },
+        {
+          "id": "om_2cc060297a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "J. Peterman appears to have folded",
+          "url": "https://www.retaildive.com/news/j-peterman-appears-to-have-folded/829323/",
+          "postedAt": "2026-09-02T14:06:00.000Z"
+        },
+        {
+          "id": "om_df5817511e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Athletic Brewing appoints new CMO amid marketing push",
+          "url": "https://www.marketingdive.com/news/athletic-brewing-appoints-new-cmo-amid-marketing-push/829349/",
+          "postedAt": "2026-09-02T13:42:00.000Z"
+        },
+        {
+          "id": "om_c1040b89f8",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside Away’s new ‘programming’ strategy for social media",
+          "url": "https://www.marketingbrew.com/stories/away-luggage-microdrama-programming-strategy-social-media?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-02T10:00:00.000Z"
+        },
+        {
+          "id": "om_050e198e38",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Newman’s Own and the Necessary Balance of Product and Purpose",
+          "url": "https://www.adweek.com/brand-marketing/newmans-own-and-the-necessary-balance-of-product-and-purpose/",
+          "postedAt": "2026-09-02T09:12:57.000Z"
+        },
+        {
+          "id": "om_cad00eef69",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How to build a brand newsletter in 2026",
+          "url": "https://www.marketingbrew.com/stories/how-to-build-a-brand-newsletter-in-2026?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-02T09:00:00.000Z"
+        },
+        {
+          "id": "om_66053e483a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "NFL Expands TikTok Playbook With Renewed Deal",
+          "url": "https://www.adweek.com/convergent-tv/nfl-expands-tiktok-playbook-with-renewed-deal/",
+          "postedAt": "2026-09-02T08:00:00.000Z"
+        },
+        {
+          "id": "om_391d73d999",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Boathouse’s Tyler Adams Lives Life in the Fast Lane as a Supermoto Racer",
+          "url": "https://www.adweek.com/agencies/boathouse-tyler-adams-life-fast-lane-supermoto-racer/",
+          "postedAt": "2026-09-02T06:00:00.000Z"
+        },
+        {
+          "id": "om_88f150cda9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Brand Genius? Colin Jost Is Just Happy He’s a ‘Non-Idiot’",
+          "url": "https://www.adweek.com/convergent-tv/brand-genius-colin-jost-is-just-happy-hes-a-non-idiot/",
+          "postedAt": "2026-09-02T06:00:00.000Z"
+        },
+        {
           "id": "om_136071f6d4",
           "source": "Marketing Brew",
           "lang": "en",
@@ -534,14 +646,6 @@
           "title": "The UPS Store enlists first brand character to support franchisees",
           "url": "https://www.marketingdive.com/news/the-ups-store-enlists-first-brand-character-to-support-franchisees/829215/",
           "postedAt": "2026-09-01T16:57:21.000Z"
-        },
-        {
-          "id": "om_50b4daf62f",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-          "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-          "postedAt": "2026-09-01T15:51:55.000Z"
         },
         {
           "id": "om_eed60dfae0",
@@ -566,122 +670,10 @@
           "title": "Retail Media Can Build Brands—Including Ways Other Media Can’t",
           "url": "https://www.adweek.com/commerce/retail-media-can-build-brandsincluding-ways-other-media-cant/",
           "postedAt": "2026-09-01T15:02:33.000Z"
-        },
-        {
-          "id": "om_929709b655",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Home Depot extends AI assistance in local stores",
-          "url": "https://www.retaildive.com/news/the-home-depot-extends-ai-assistance-stores/829240/",
-          "postedAt": "2026-09-01T14:34:00.000Z"
-        },
-        {
-          "id": "om_2347e67b8b",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Hershey’s Katseye campaign takes on Gen Z’s desire for indulgence",
-          "url": "https://www.marketingdive.com/news/how-hersheys-katseye-campaign-takes-on-gen-zs-desire-for-indulgence/829013/",
-          "postedAt": "2026-09-01T14:00:00.000Z"
-        },
-        {
-          "id": "om_5aba620bd8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Playing the Long Game: CarMax on Turning Fandom Into Brand Loyalty",
-          "url": "https://www.adweek.com/brand-marketing/playing-the-long-game-carmax-on-turning-fandom-into-brand-loyalty/",
-          "postedAt": "2026-09-01T13:55:42.000Z"
-        },
-        {
-          "id": "om_a6df8a8d40",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Amazon’s ad auction surcharges secretly bilked brands of billions, FTC alleges",
-          "url": "https://www.marketingdive.com/news/amazon-hid-surcharges-on-ad-auctions-alleges-ftc-complaint/829274/",
-          "postedAt": "2026-09-01T13:46:52.000Z"
-        },
-        {
-          "id": "om_e68839f848",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Neela Montgomery on How Health Trends Are Changing Consumer Behavior",
-          "url": "https://www.adweek.com/brand-marketing/neela-montgomery-on-how-health-trends-are-changing-consumer-behavior/",
-          "postedAt": "2026-09-01T13:39:55.000Z"
-        },
-        {
-          "id": "om_7634f88888",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Amid growing AI distrust, humanity takes a front seat in advertising",
-          "url": "https://www.marketingbrew.com/stories/humanity-in-advertising-ai-distrust?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-01T13:22:38.000Z"
-        },
-        {
-          "id": "om_438ac894b6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK Brand Advantage: B2B Brands Break Out of the Office Onto the Field",
-          "url": "https://www.adweek.com/brand-marketing/adweek-brand-advantage-b2b-brands-break-out-of-the-office-onto-the-field/",
-          "postedAt": "2026-09-01T06:00:00.000Z"
-        },
-        {
-          "id": "om_e06fbce0dc",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "TikTok for Business Partners With ADWEEK on Fastest Growing Agencies 2026",
-          "url": "https://www.adweek.com/agencies/tiktok-for-business-fastest-growing-agencies-2026/",
-          "postedAt": "2026-09-01T06:00:00.000Z"
-        },
-        {
-          "id": "om_08bfff4320",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Jaylen Brown and the Moment of Truth",
-          "url": "https://www.adweek.com/brand-marketing/jaylen-brown-moment-of-truth-741-nba-celtics-76ers/",
-          "postedAt": "2026-09-01T06:00:00.000Z"
-        },
-        {
-          "id": "om_a4e0d890bc",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK’s 2026 Brand Genius Winners Are Changing Their Industries With Creativity and Resilience",
-          "url": "https://www.adweek.com/creativity/brand-genius-2026-winners-changing-industries-creativity-resilience/",
-          "postedAt": "2026-09-01T06:00:00.000Z"
-        },
-        {
-          "id": "om_b762c05a40",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok continues to add users in EU",
-          "url": "https://www.socialmediatoday.com/news/tiktok-continues-to-add-users-in-eu/829242/",
-          "postedAt": "2026-08-31T22:50:02.000Z"
-        },
-        {
-          "id": "om_c913fb0068",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Best Early Tech Labor Day Sales I’d Shop Myself (2026): AirTags, Dyson, and More",
-          "url": "https://www.wired.com/story/early-tech-labor-day-sales-2026/",
-          "postedAt": "2026-08-31T20:47:46.000Z"
-        },
-        {
-          "id": "om_8f1e866d23",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Coworking with Bryant Kohler",
-          "url": "https://www.marketingbrew.com/stories/coworking-with-bryant-kohler?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-08-31T16:54:50.000Z"
-        },
-        {
-          "id": "om_f790e8ff8b",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why Dr. Squatch is investing in experiences — not ads — with IShowSpeed",
-          "url": "https://www.marketingdive.com/news/why-dr-squatch-is-investing-in-experiences-not-ads-with-ishowspeed/829009/",
-          "postedAt": "2026-08-31T16:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-02T04:31:29.598Z",
+      "lastUpdated": "2026-09-02T16:33:35.312Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
