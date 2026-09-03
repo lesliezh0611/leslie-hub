@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-03T04:21:43.261Z",
+      "lastUpdated": "2026-09-03T16:24:21.588Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -361,14 +361,6 @@
           "topic": "How to close $100K+ enterprise deals, step by step | Jen Abel",
           "url": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
           "postedAt": "2026-08-23T12:31:43.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_6f53cc0d83",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "Roblox CEO: How to Make Better Decisions by Fixing Yourself First",
-          "url": "https://fs.blog/knowledge-project-podcast/david-baszucki/",
-          "postedAt": "2026-08-13T09:45:00.000Z"
         }
       ],
       "books": [
@@ -419,10 +411,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-03T04:21:44.809Z",
+      "lastUpdated": "2026-09-03T16:24:23.538Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -512,6 +504,134 @@
       },
       "articles": [
         {
+          "id": "om_bc585c5c54",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Victoria’s Secret embraces nostalgia, entertainment trends",
+          "url": "https://www.retaildive.com/news/victorias-secret-fragrance-nostalgia-entertainment-trends/829539/",
+          "postedAt": "2026-09-03T16:18:00.000Z"
+        },
+        {
+          "id": "om_a359cfbad4",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Coworking with Kate Fairweather",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-kate-fairweather?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-03T16:14:12.000Z"
+        },
+        {
+          "id": "om_cd781dcd07",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Google won’t have to sell off ad exchange in ad-tech monopoly case",
+          "url": "https://www.marketingbrew.com/stories/google-ad-tech-adx-monopoly-ruling-behavioral-remedies?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-03T16:10:13.000Z"
+        },
+        {
+          "id": "om_d7888cdb25",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart shoppers can now get Dunkin’ delivered alongside orders",
+          "url": "https://www.retaildive.com/news/walmart-shoppers-dunkin-delivery-coffee/829560/",
+          "postedAt": "2026-09-03T15:58:00.000Z"
+        },
+        {
+          "id": "om_8791b4956f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Untuckit acquired by Randa",
+          "url": "https://www.retaildive.com/news/randa-acquires-untuckit-dtc-apparel/829561/",
+          "postedAt": "2026-09-03T15:53:00.000Z"
+        },
+        {
+          "id": "om_c3d0737d4b",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Hoka builds Strava running stats into digital OOH campaign",
+          "url": "https://www.marketingdive.com/news/hoka-builds-strava-running-stats-into-digital-ooh-campaign/829480/",
+          "postedAt": "2026-09-03T15:00:00.000Z"
+        },
+        {
+          "id": "om_f1907e7bb5",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "PepsiCo hands global media to Publicis amid transformation at CPG giant",
+          "url": "https://www.marketingdive.com/news/pepsico-hands-global-media-to-publicis-amid-transformation-at-cpg-giant/829556/",
+          "postedAt": "2026-09-03T14:48:00.000Z"
+        },
+        {
+          "id": "om_2c68154479",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Graza hopes to lap the competition with some help from NASCAR",
+          "url": "https://www.marketingdive.com/news/how-graza-hopes-to-lap-the-competition-with-some-help-from-nascar/829333/",
+          "postedAt": "2026-09-03T14:06:53.000Z"
+        },
+        {
+          "id": "om_80844f7f4c",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
+          "url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
+          "postedAt": "2026-09-03T13:00:00.000Z"
+        },
+        {
+          "id": "om_7c15a32304",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How marketers can navigate machine bias as AI takes over media",
+          "url": "https://www.marketingdive.com/news/how-marketers-can-navigate-machine-bias-as-ai-takes-over-media/829315/",
+          "postedAt": "2026-09-03T13:00:00.000Z"
+        },
+        {
+          "id": "om_2e593f70c4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "What Primates Can Teach Us About Social Media Marketing",
+          "url": "https://www.adweek.com/social-marketing/what-primates-can-teach-us-about-social-media-marketing/",
+          "postedAt": "2026-09-03T10:31:20.000Z"
+        },
+        {
+          "id": "om_d132871cf0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Personalization No Longer Wins. Relevance Is the Real Competitive Advantage",
+          "url": "https://www.adweek.com/brand-marketing/personalization-no-longer-wins-relevance-is-the-real-competitive-advantage/",
+          "postedAt": "2026-09-03T09:45:51.000Z"
+        },
+        {
+          "id": "om_40203ee062",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Wellness Brand Rouge Care Let AI Agents Buy Its TV Ads, and Made 5x Its Money Back",
+          "url": "https://www.adweek.com/media/wellness-brand-rouge-care-let-ai-agents-buy-its-tv-ads-and-made-5x-its-money-back/",
+          "postedAt": "2026-09-03T09:03:08.000Z"
+        },
+        {
+          "id": "om_fadac224f8",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How 818 Tequila brought the influencer experience to fans’ weddings",
+          "url": "https://www.marketingbrew.com/stories/818-tequila-wedding-bachelorette-giveaway-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-03T09:00:00.000Z"
+        },
+        {
+          "id": "om_e27be5b194",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Lowe’s Turned Its NFL Sponsorship Into a Play for Gen Z",
+          "url": "https://www.adweek.com/brand-marketing/how-lowes-turned-its-nfl-sponsorship-into-a-play-for-gen-z/",
+          "postedAt": "2026-09-03T08:00:00.000Z"
+        },
+        {
+          "id": "om_6eb121df60",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK Commerce Advantage: Back-to-School Trends Point to What Marketers Can Really Expect for the Holidays",
+          "url": "https://www.adweek.com/commerce/adweek-commerce-advantage-back-to-school-trends-point-to-what-marketers-can-really-expect-for-the-holidays/",
+          "postedAt": "2026-09-03T06:00:00.000Z"
+        },
+        {
           "id": "om_33838d1fe3",
           "source": "Social Media Today",
           "lang": "en",
@@ -542,138 +662,10 @@
           "title": "X shifts US creator payouts from Stripe to X Money",
           "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
           "postedAt": "2026-09-02T17:12:27.000Z"
-        },
-        {
-          "id": "om_2f236a38d0",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Ollie’s Bargain Outlets will plow $15M into lower prices",
-          "url": "https://www.retaildive.com/news/ollies-bargain-outlets-15-million-lower-prices/829429/",
-          "postedAt": "2026-09-02T16:32:00.000Z"
-        },
-        {
-          "id": "om_8e2570ab01",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How FX brought a slice of the ‘Adults’ life to life",
-          "url": "https://www.marketingbrew.com/stories/fx-adults-sitcom-experiential-popup-prince-street-pizza-melrose-trading-post?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-02T16:00:59.000Z"
-        },
-        {
-          "id": "om_3ec7415d6f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Kohl’s unites marketing, digital under new chief customer officer role",
-          "url": "https://www.retaildive.com/news/kohls-names-first-chief-customer-officer/829418/",
-          "postedAt": "2026-09-02T15:29:00.000Z"
-        },
-        {
-          "id": "om_f328f13978",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Sephora to pilot TikTok Shop experience",
-          "url": "https://www.retaildive.com/news/sephora-pilot-tiktok-shop-experience/829420/",
-          "postedAt": "2026-09-02T15:14:00.000Z"
-        },
-        {
-          "id": "om_0de66ce5b5",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-          "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-          "postedAt": "2026-09-02T14:56:34.000Z"
-        },
-        {
-          "id": "om_2d1ae5d89b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Williams-Sonoma AI assistants drive customer engagement — and conversions",
-          "url": "https://www.retaildive.com/news/williams-sonoma-ai-assistants-drive-customer-engagement-conversions/829051/",
-          "postedAt": "2026-09-02T14:53:00.000Z"
-        },
-        {
-          "id": "om_a81138aa28",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Axe vies for more mature brand positioning while nodding to Y2K roots",
-          "url": "https://www.marketingdive.com/news/axe-vies-for-more-mature-brand-positioning-while-nodding-to-y2k-roots/829426/",
-          "postedAt": "2026-09-02T14:48:00.000Z"
-        },
-        {
-          "id": "om_9f757dc9d8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Boscov’s revamps e-commerce fulfillment operations",
-          "url": "https://www.retaildive.com/news/boscovs-revamps-ecommerce-fulfillment-operations/829412/",
-          "postedAt": "2026-09-02T14:44:00.000Z"
-        },
-        {
-          "id": "om_2cc060297a",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "J. Peterman appears to have folded",
-          "url": "https://www.retaildive.com/news/j-peterman-appears-to-have-folded/829323/",
-          "postedAt": "2026-09-02T14:06:00.000Z"
-        },
-        {
-          "id": "om_e183deeed5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Submissions Open for ADWEEK Agency of the Year: Breakthroughs",
-          "url": "https://www.adweek.com/agencies/submissions-open-for-adweek-agency-of-the-year-breakthroughs/",
-          "postedAt": "2026-09-02T14:05:09.000Z"
-        },
-        {
-          "id": "om_f97ed6c7c0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Publicis Lands PepsiCo’s Global Media Business, Withdraws From Coke Pitch",
-          "url": "https://www.adweek.com/agencies/publicis-lands-pepsicos-global-media-business-withdraws-from-coke-pitch/",
-          "postedAt": "2026-09-02T14:00:00.000Z"
-        },
-        {
-          "id": "om_df5817511e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Athletic Brewing appoints new CMO amid marketing push",
-          "url": "https://www.marketingdive.com/news/athletic-brewing-appoints-new-cmo-amid-marketing-push/829349/",
-          "postedAt": "2026-09-02T13:42:00.000Z"
-        },
-        {
-          "id": "om_c1040b89f8",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside Away’s new ‘programming’ strategy for social media",
-          "url": "https://www.marketingbrew.com/stories/away-luggage-microdrama-programming-strategy-social-media?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-02T10:00:00.000Z"
-        },
-        {
-          "id": "om_050e198e38",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Newman’s Own and the Necessary Balance of Product and Purpose",
-          "url": "https://www.adweek.com/brand-marketing/newmans-own-and-the-necessary-balance-of-product-and-purpose/",
-          "postedAt": "2026-09-02T09:12:57.000Z"
-        },
-        {
-          "id": "om_cad00eef69",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How to build a brand newsletter in 2026",
-          "url": "https://www.marketingbrew.com/stories/how-to-build-a-brand-newsletter-in-2026?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-02T09:00:00.000Z"
-        },
-        {
-          "id": "om_66053e483a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "NFL Expands TikTok Playbook With Renewed Deal",
-          "url": "https://www.adweek.com/convergent-tv/nfl-expands-tiktok-playbook-with-renewed-deal/",
-          "postedAt": "2026-09-02T08:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-03T04:21:46.440Z",
+      "lastUpdated": "2026-09-03T16:24:25.563Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
