@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-02T16:33:31.363Z",
+      "lastUpdated": "2026-09-03T04:21:43.261Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-02T16:33:33.447Z",
+      "lastUpdated": "2026-09-03T04:21:44.809Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,46 @@
       },
       "articles": [
         {
+          "id": "om_33838d1fe3",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "X Money will be the only payout option for U.S. creators",
+          "url": "https://www.socialmediatoday.com/news/x-money-will-be-the-only-payout-option-for-us-creators/829514/",
+          "postedAt": "2026-09-02T23:20:37.000Z"
+        },
+        {
+          "id": "om_4f8b8b35a1",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok signs multi-year NFL deal",
+          "url": "https://www.socialmediatoday.com/news/tiktok-signs-multi-year-nfl-deal/829506/",
+          "postedAt": "2026-09-02T21:38:06.000Z"
+        },
+        {
+          "id": "om_6b54e51ae0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Jaylen Brown—And His Sneaker Brand, 741—Enter a New Era",
+          "url": "https://www.adweek.com/media/jaylen-brownand-741/",
+          "postedAt": "2026-09-02T19:00:00.000Z"
+        },
+        {
+          "id": "om_1ba8ee9e3c",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "X shifts US creator payouts from Stripe to X Money",
+          "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+          "postedAt": "2026-09-02T17:12:27.000Z"
+        },
+        {
+          "id": "om_2f236a38d0",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Ollie’s Bargain Outlets will plow $15M into lower prices",
+          "url": "https://www.retaildive.com/news/ollies-bargain-outlets-15-million-lower-prices/829429/",
+          "postedAt": "2026-09-02T16:32:00.000Z"
+        },
+        {
           "id": "om_8e2570ab01",
           "source": "Marketing Brew",
           "lang": "en",
@@ -576,6 +616,22 @@
           "postedAt": "2026-09-02T14:06:00.000Z"
         },
         {
+          "id": "om_e183deeed5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Submissions Open for ADWEEK Agency of the Year: Breakthroughs",
+          "url": "https://www.adweek.com/agencies/submissions-open-for-adweek-agency-of-the-year-breakthroughs/",
+          "postedAt": "2026-09-02T14:05:09.000Z"
+        },
+        {
+          "id": "om_f97ed6c7c0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Publicis Lands PepsiCo’s Global Media Business, Withdraws From Coke Pitch",
+          "url": "https://www.adweek.com/agencies/publicis-lands-pepsicos-global-media-business-withdraws-from-coke-pitch/",
+          "postedAt": "2026-09-02T14:00:00.000Z"
+        },
+        {
           "id": "om_df5817511e",
           "source": "Marketing Dive",
           "lang": "en",
@@ -614,66 +670,10 @@
           "title": "NFL Expands TikTok Playbook With Renewed Deal",
           "url": "https://www.adweek.com/convergent-tv/nfl-expands-tiktok-playbook-with-renewed-deal/",
           "postedAt": "2026-09-02T08:00:00.000Z"
-        },
-        {
-          "id": "om_391d73d999",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Boathouse’s Tyler Adams Lives Life in the Fast Lane as a Supermoto Racer",
-          "url": "https://www.adweek.com/agencies/boathouse-tyler-adams-life-fast-lane-supermoto-racer/",
-          "postedAt": "2026-09-02T06:00:00.000Z"
-        },
-        {
-          "id": "om_88f150cda9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Brand Genius? Colin Jost Is Just Happy He’s a ‘Non-Idiot’",
-          "url": "https://www.adweek.com/convergent-tv/brand-genius-colin-jost-is-just-happy-hes-a-non-idiot/",
-          "postedAt": "2026-09-02T06:00:00.000Z"
-        },
-        {
-          "id": "om_136071f6d4",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside the Chicago Bulls’ Easter–egg–filled schedule release video",
-          "url": "https://www.marketingbrew.com/stories/chicago-bulls-easter-egg-schedule-release-video?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-01T19:04:48.000Z"
-        },
-        {
-          "id": "om_0fa9cbfa8f",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "The UPS Store enlists first brand character to support franchisees",
-          "url": "https://www.marketingdive.com/news/the-ups-store-enlists-first-brand-character-to-support-franchisees/829215/",
-          "postedAt": "2026-09-01T16:57:21.000Z"
-        },
-        {
-          "id": "om_eed60dfae0",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Dollar Shave Club acquires body care brand Truly Beauty",
-          "url": "https://www.retaildive.com/news/dollar-shave-club-acquires-truly-beauty/829291/",
-          "postedAt": "2026-09-01T15:31:00.000Z"
-        },
-        {
-          "id": "om_42a596aeb8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon’s ad auction surcharges secretly bilked brands of billions, FTC alleges",
-          "url": "https://www.retaildive.com/news/amazon-hid-surcharges-ad-auctions-alleges-ftc-complaint/829294/",
-          "postedAt": "2026-09-01T15:06:00.000Z"
-        },
-        {
-          "id": "om_ff6f733b1d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Retail Media Can Build Brands—Including Ways Other Media Can’t",
-          "url": "https://www.adweek.com/commerce/retail-media-can-build-brandsincluding-ways-other-media-cant/",
-          "postedAt": "2026-09-01T15:02:33.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-02T16:33:35.312Z",
+      "lastUpdated": "2026-09-03T04:21:46.440Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
