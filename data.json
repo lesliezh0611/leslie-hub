@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-03T16:24:21.588Z",
+      "lastUpdated": "2026-09-04T04:30:35.625Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_4552204bd6",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "GPT-6 Astra is a banger - here’s everything I’ve built",
+          "url": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
+          "postedAt": "2026-09-03T19:34:20.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_f9f7f490df",
           "source": "Lenny's Podcast",
@@ -353,14 +361,6 @@
           "topic": "I spent $20,000 on Devin in a month. Here’s what I learned | Ryan Carson (solo founder)",
           "url": "https://www.lennysnewsletter.com/p/i-spent-20000-on-devin-in-a-month",
           "postedAt": "2026-08-24T12:04:02.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_fd00555e0f",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How to close $100K+ enterprise deals, step by step | Jen Abel",
-          "url": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
-          "postedAt": "2026-08-23T12:31:43.000Z"
         }
       ],
       "books": [
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-03T16:24:23.538Z",
+      "lastUpdated": "2026-09-04T04:30:36.881Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,78 @@
       },
       "articles": [
         {
+          "id": "om_1db58d1924",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "YouTube updates branded content sourcing and disclosures",
+          "url": "https://www.socialmediatoday.com/news/youtube-updates-branded-content-sourcing-and-disclosures/829643/",
+          "postedAt": "2026-09-03T23:24:34.000Z"
+        },
+        {
+          "id": "om_5637dd0fcc",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok adds voice notes and image carousels in comments",
+          "url": "https://www.socialmediatoday.com/news/tiktok-adds-voice-notes-and-image-carousels-in-comments/829640/",
+          "postedAt": "2026-09-03T21:42:44.000Z"
+        },
+        {
+          "id": "om_5fa5f2865a",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Reddit expands AI-powered Max campaigns",
+          "url": "https://www.socialmediatoday.com/news/reddit-expands-ai-powered-max-campaigns/829636/",
+          "postedAt": "2026-09-03T19:48:33.000Z"
+        },
+        {
+          "id": "om_3ceb66e46b",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Congressman says TikTok backed out of a meeting to avoid child safety questions",
+          "url": "https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety",
+          "postedAt": "2026-09-03T18:37:57.000Z"
+        },
+        {
+          "id": "om_738554c487",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "No LA Galaxy players competed in the World Cup. The team capitalized anyway",
+          "url": "https://www.marketingbrew.com/stories/la-galaxy-world-cup-mls?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-03T18:00:52.000Z"
+        },
+        {
+          "id": "om_13ef9d4896",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Pasta Powerhouse Barilla Helps Itself to Posh Mac and Cheese Upstart Goodles",
+          "url": "https://www.adweek.com/commerce/pasta-powerhouse-barilla-helps-itself-to-posh-mac-and-cheese-upstart-goodles/",
+          "postedAt": "2026-09-03T16:47:21.000Z"
+        },
+        {
+          "id": "om_55c153df83",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "How AI is powering Target’s back-to-school push",
+          "url": "https://www.retaildive.com/news/target-back-to-school-push-AI/829468/",
+          "postedAt": "2026-09-03T16:46:00.000Z"
+        },
+        {
+          "id": "om_039f307a85",
+          "source": "Wired",
+          "lang": "en",
+          "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+          "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+          "postedAt": "2026-09-03T16:42:40.000Z"
+        },
+        {
+          "id": "om_b73f30be39",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Five Below’s ‘maniacal focus’ on the customer pays off",
+          "url": "https://www.retaildive.com/news/five-belows-maniacal-focus-on-the-customer-pays-off/829565/",
+          "postedAt": "2026-09-03T16:24:00.000Z"
+        },
+        {
           "id": "om_bc585c5c54",
           "source": "Retail Dive",
           "lang": "en",
@@ -568,104 +640,32 @@
           "postedAt": "2026-09-03T14:06:53.000Z"
         },
         {
+          "id": "om_dc71147222",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Delta, Peanuts, and Yahoo Use Nostalgia to Reconnect Iconic Brands With Culture",
+          "url": "https://www.adweek.com/brand-marketing/how-delta-peanuts-and-yahoo-use-nostalgia-to-reconnect-iconic-brands-with-culture/",
+          "postedAt": "2026-09-03T13:36:01.000Z"
+        },
+        {
+          "id": "om_ed56c34d34",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Brand Dollars, Befriending Rivals, and Looming Consolidation: How Retailers Are Plotting the Next Phase of Commerce Media",
+          "url": "https://www.adweek.com/commerce/brand-dollars-befriending-rivals-and-looming-consolidation-how-retailers-are-plotting-the-next-phase-of-commerce-media/",
+          "postedAt": "2026-09-03T13:21:10.000Z"
+        },
+        {
           "id": "om_80844f7f4c",
           "source": "TechCrunch",
           "lang": "en",
           "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
           "url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
           "postedAt": "2026-09-03T13:00:00.000Z"
-        },
-        {
-          "id": "om_7c15a32304",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How marketers can navigate machine bias as AI takes over media",
-          "url": "https://www.marketingdive.com/news/how-marketers-can-navigate-machine-bias-as-ai-takes-over-media/829315/",
-          "postedAt": "2026-09-03T13:00:00.000Z"
-        },
-        {
-          "id": "om_2e593f70c4",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "What Primates Can Teach Us About Social Media Marketing",
-          "url": "https://www.adweek.com/social-marketing/what-primates-can-teach-us-about-social-media-marketing/",
-          "postedAt": "2026-09-03T10:31:20.000Z"
-        },
-        {
-          "id": "om_d132871cf0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Personalization No Longer Wins. Relevance Is the Real Competitive Advantage",
-          "url": "https://www.adweek.com/brand-marketing/personalization-no-longer-wins-relevance-is-the-real-competitive-advantage/",
-          "postedAt": "2026-09-03T09:45:51.000Z"
-        },
-        {
-          "id": "om_40203ee062",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Wellness Brand Rouge Care Let AI Agents Buy Its TV Ads, and Made 5x Its Money Back",
-          "url": "https://www.adweek.com/media/wellness-brand-rouge-care-let-ai-agents-buy-its-tv-ads-and-made-5x-its-money-back/",
-          "postedAt": "2026-09-03T09:03:08.000Z"
-        },
-        {
-          "id": "om_fadac224f8",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How 818 Tequila brought the influencer experience to fans’ weddings",
-          "url": "https://www.marketingbrew.com/stories/818-tequila-wedding-bachelorette-giveaway-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-03T09:00:00.000Z"
-        },
-        {
-          "id": "om_e27be5b194",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Lowe’s Turned Its NFL Sponsorship Into a Play for Gen Z",
-          "url": "https://www.adweek.com/brand-marketing/how-lowes-turned-its-nfl-sponsorship-into-a-play-for-gen-z/",
-          "postedAt": "2026-09-03T08:00:00.000Z"
-        },
-        {
-          "id": "om_6eb121df60",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK Commerce Advantage: Back-to-School Trends Point to What Marketers Can Really Expect for the Holidays",
-          "url": "https://www.adweek.com/commerce/adweek-commerce-advantage-back-to-school-trends-point-to-what-marketers-can-really-expect-for-the-holidays/",
-          "postedAt": "2026-09-03T06:00:00.000Z"
-        },
-        {
-          "id": "om_33838d1fe3",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "X Money will be the only payout option for U.S. creators",
-          "url": "https://www.socialmediatoday.com/news/x-money-will-be-the-only-payout-option-for-us-creators/829514/",
-          "postedAt": "2026-09-02T23:20:37.000Z"
-        },
-        {
-          "id": "om_4f8b8b35a1",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok signs multi-year NFL deal",
-          "url": "https://www.socialmediatoday.com/news/tiktok-signs-multi-year-nfl-deal/829506/",
-          "postedAt": "2026-09-02T21:38:06.000Z"
-        },
-        {
-          "id": "om_6b54e51ae0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Jaylen Brown—And His Sneaker Brand, 741—Enter a New Era",
-          "url": "https://www.adweek.com/media/jaylen-brownand-741/",
-          "postedAt": "2026-09-02T19:00:00.000Z"
-        },
-        {
-          "id": "om_1ba8ee9e3c",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "X shifts US creator payouts from Stripe to X Money",
-          "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
-          "postedAt": "2026-09-02T17:12:27.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-03T16:24:25.563Z",
+      "lastUpdated": "2026-09-04T04:30:37.713Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
