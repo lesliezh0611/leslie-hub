@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-04T04:30:35.625Z",
+      "lastUpdated": "2026-09-04T16:20:10.200Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-04T04:30:36.881Z",
+      "lastUpdated": "2026-09-04T16:20:11.638Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,110 @@
       },
       "articles": [
         {
+          "id": "om_759cf4d999",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon Prime members now get free Alexa+ access",
+          "url": "https://www.retaildive.com/news/amazon-adds-perks-prime-free-alexa-access/829610/",
+          "postedAt": "2026-09-04T15:48:00.000Z"
+        },
+        {
+          "id": "om_4240119a78",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Ulta’s use of Flock technology causes upset online",
+          "url": "https://www.retaildive.com/news/ulta-flock-technology-backlash/829623/",
+          "postedAt": "2026-09-04T15:26:00.000Z"
+        },
+        {
+          "id": "om_e7f3a06709",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Where does CTV belong in advertisers’ strategies? We surveyed marketers to find out",
+          "url": "https://www.marketingbrew.com/stories/roku/ctv-advertising-strategies-survey-results?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-04T15:08:12.000Z"
+        },
+        {
+          "id": "om_620fe67574",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: Reebok partners with Hilary Duff and Saks Fifth Avenue launches fall campaign",
+          "url": "https://www.retaildive.com/news/reebok-hilary-duff-saks-fifth-avenue-neiman-marcus-campaigns-walmart-rotisserie-chicken-purse/829620/",
+          "postedAt": "2026-09-04T14:58:00.000Z"
+        },
+        {
+          "id": "om_6aaa425faa",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "KFC names first global chief brand officer amid identity overhaul",
+          "url": "https://www.marketingdive.com/news/kfc-names-first-global-chief-brand-officer-amid-identity-overhaul/829675/",
+          "postedAt": "2026-09-04T14:38:00.000Z"
+        },
+        {
+          "id": "om_0aea7fca76",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Dollar General deploys AI across distribution centers, stores",
+          "url": "https://www.retaildive.com/news/dollar-general-ai-distribution-centers-stores/829201/",
+          "postedAt": "2026-09-04T14:27:00.000Z"
+        },
+        {
+          "id": "om_d5ec12cac2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Petco loses millions due to loyalty program",
+          "url": "https://www.retaildive.com/news/petco-learns-perils-overly-generous-loyalty-program/829664/",
+          "postedAt": "2026-09-04T13:45:00.000Z"
+        },
+        {
+          "id": "om_da2185864f",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Back-to-school marketing is a mash up of AI tech and value messaging",
+          "url": "https://www.marketingdive.com/news/back-to-school-marketing-is-a-mash-up-of-ai-tech-and-value-messaging/829626/",
+          "postedAt": "2026-09-04T13:00:00.000Z"
+        },
+        {
+          "id": "om_55c3ba2754",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Mondelēz is scaling up its sports marketing by going more regional",
+          "url": "https://www.marketingbrew.com/stories/mondelez-sports-marketing-chiefs-ncaa?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-04T10:00:00.000Z"
+        },
+        {
+          "id": "om_51a08f9dd7",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "5 years in, the brand ROI from sorority rush is only growing",
+          "url": "https://www.marketingbrew.com/stories/sorority-rush-brand-sponsorships-poppi-lucky-charms-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-04T09:00:00.000Z"
+        },
+        {
+          "id": "om_d714ba1e84",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Retail Roundup: Amazon’s $20 Billion Lawsuit, and Commerce Media’s First Upfronts",
+          "url": "https://www.adweek.com/commerce/retail-roundup-amazons-20-billion-lawsuit-and-commerce-medias-first-upfronts/",
+          "postedAt": "2026-09-04T06:00:00.000Z"
+        },
+        {
+          "id": "om_a74c824f23",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK Agencies Advantage: Turnaround Signs at WPP and S4 Could Tip the Holdco Power Scales",
+          "url": "https://www.adweek.com/agencies/adweek-agencies-advantage-turnaround-signs-at-wpp-and-s4-could-tip-the-holdco-power-scales/",
+          "postedAt": "2026-09-04T06:00:00.000Z"
+        },
+        {
+          "id": "om_61cc61677e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 12 Campaigns That Caught Our Eye, From Hershey’s to Cheez-It",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-12-campaigns-that-caught-our-eye-from-hersheys-to-cheez-it/",
+          "postedAt": "2026-09-04T06:00:00.000Z"
+        },
+        {
           "id": "om_1db58d1924",
           "source": "Social Media Today",
           "lang": "en",
@@ -512,11 +616,11 @@
           "postedAt": "2026-09-03T23:24:34.000Z"
         },
         {
-          "id": "om_5637dd0fcc",
+          "id": "om_543491af1c",
           "source": "Social Media Today",
           "lang": "en",
-          "title": "TikTok adds voice notes and image carousels in comments",
-          "url": "https://www.socialmediatoday.com/news/tiktok-adds-voice-notes-and-image-carousels-in-comments/829640/",
+          "title": "TikTok adds voice and image carousel comments",
+          "url": "https://www.socialmediatoday.com/news/tiktok-adds-voice-and-image-carousel-comments/829640/",
           "postedAt": "2026-09-03T21:42:44.000Z"
         },
         {
@@ -526,14 +630,6 @@
           "title": "Reddit expands AI-powered Max campaigns",
           "url": "https://www.socialmediatoday.com/news/reddit-expands-ai-powered-max-campaigns/829636/",
           "postedAt": "2026-09-03T19:48:33.000Z"
-        },
-        {
-          "id": "om_3ceb66e46b",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Congressman says TikTok backed out of a meeting to avoid child safety questions",
-          "url": "https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety",
-          "postedAt": "2026-09-03T18:37:57.000Z"
         },
         {
           "id": "om_738554c487",
@@ -566,106 +662,10 @@
           "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
           "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
           "postedAt": "2026-09-03T16:42:40.000Z"
-        },
-        {
-          "id": "om_b73f30be39",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Five Below’s ‘maniacal focus’ on the customer pays off",
-          "url": "https://www.retaildive.com/news/five-belows-maniacal-focus-on-the-customer-pays-off/829565/",
-          "postedAt": "2026-09-03T16:24:00.000Z"
-        },
-        {
-          "id": "om_bc585c5c54",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Victoria’s Secret embraces nostalgia, entertainment trends",
-          "url": "https://www.retaildive.com/news/victorias-secret-fragrance-nostalgia-entertainment-trends/829539/",
-          "postedAt": "2026-09-03T16:18:00.000Z"
-        },
-        {
-          "id": "om_a359cfbad4",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Coworking with Kate Fairweather",
-          "url": "https://www.marketingbrew.com/stories/coworking-with-kate-fairweather?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-03T16:14:12.000Z"
-        },
-        {
-          "id": "om_cd781dcd07",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Google won’t have to sell off ad exchange in ad-tech monopoly case",
-          "url": "https://www.marketingbrew.com/stories/google-ad-tech-adx-monopoly-ruling-behavioral-remedies?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-03T16:10:13.000Z"
-        },
-        {
-          "id": "om_d7888cdb25",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart shoppers can now get Dunkin’ delivered alongside orders",
-          "url": "https://www.retaildive.com/news/walmart-shoppers-dunkin-delivery-coffee/829560/",
-          "postedAt": "2026-09-03T15:58:00.000Z"
-        },
-        {
-          "id": "om_8791b4956f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Untuckit acquired by Randa",
-          "url": "https://www.retaildive.com/news/randa-acquires-untuckit-dtc-apparel/829561/",
-          "postedAt": "2026-09-03T15:53:00.000Z"
-        },
-        {
-          "id": "om_c3d0737d4b",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Hoka builds Strava running stats into digital OOH campaign",
-          "url": "https://www.marketingdive.com/news/hoka-builds-strava-running-stats-into-digital-ooh-campaign/829480/",
-          "postedAt": "2026-09-03T15:00:00.000Z"
-        },
-        {
-          "id": "om_f1907e7bb5",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "PepsiCo hands global media to Publicis amid transformation at CPG giant",
-          "url": "https://www.marketingdive.com/news/pepsico-hands-global-media-to-publicis-amid-transformation-at-cpg-giant/829556/",
-          "postedAt": "2026-09-03T14:48:00.000Z"
-        },
-        {
-          "id": "om_2c68154479",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Graza hopes to lap the competition with some help from NASCAR",
-          "url": "https://www.marketingdive.com/news/how-graza-hopes-to-lap-the-competition-with-some-help-from-nascar/829333/",
-          "postedAt": "2026-09-03T14:06:53.000Z"
-        },
-        {
-          "id": "om_dc71147222",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Delta, Peanuts, and Yahoo Use Nostalgia to Reconnect Iconic Brands With Culture",
-          "url": "https://www.adweek.com/brand-marketing/how-delta-peanuts-and-yahoo-use-nostalgia-to-reconnect-iconic-brands-with-culture/",
-          "postedAt": "2026-09-03T13:36:01.000Z"
-        },
-        {
-          "id": "om_ed56c34d34",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Brand Dollars, Befriending Rivals, and Looming Consolidation: How Retailers Are Plotting the Next Phase of Commerce Media",
-          "url": "https://www.adweek.com/commerce/brand-dollars-befriending-rivals-and-looming-consolidation-how-retailers-are-plotting-the-next-phase-of-commerce-media/",
-          "postedAt": "2026-09-03T13:21:10.000Z"
-        },
-        {
-          "id": "om_80844f7f4c",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
-          "url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
-          "postedAt": "2026-09-03T13:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-04T04:30:37.713Z",
+      "lastUpdated": "2026-09-04T16:20:12.696Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
