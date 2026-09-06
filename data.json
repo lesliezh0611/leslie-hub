@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-06T04:36:37.809Z",
+      "lastUpdated": "2026-09-06T15:27:01.601Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_0494e3b616",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
+          "url": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
+          "postedAt": "2026-09-06T12:32:00.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_9f6382ca33",
           "source": "Lenny's Podcast",
@@ -353,14 +361,6 @@
           "topic": "How to figure out your next career move",
           "url": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
           "postedAt": "2026-08-25T13:04:15.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_e8e66b617c",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: Grok Bot + Grok 4.6—what’s great (and what’s still hype) & Lessons from spending $20,000 on Devin in one month",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
-          "postedAt": "2026-08-24T15:02:23.000Z"
         }
       ],
       "books": [
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-06T04:36:39.276Z",
+      "lastUpdated": "2026-09-06T15:27:03.430Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -665,7 +665,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-06T04:36:40.813Z",
+      "lastUpdated": "2026-09-06T15:27:04.560Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
