@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-05T15:12:18.293Z",
+      "lastUpdated": "2026-09-06T04:36:37.809Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_9f6382ca33",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: Driving AI adoption when habits are the bottleneck, leveling up from APM to a mid-level PM role, converting a wave of new users to subscription, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-driving-ai-adoption",
+          "postedAt": "2026-09-05T17:00:46.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_4552204bd6",
           "source": "Lenny's Podcast",
@@ -353,14 +361,6 @@
           "topic": "🎙️ How I AI: Grok Bot + Grok 4.6—what’s great (and what’s still hype) & Lessons from spending $20,000 on Devin in one month",
           "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
           "postedAt": "2026-08-24T15:02:23.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_41677c745b",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "I spent $20,000 on Devin in a month. Here’s what I learned | Ryan Carson (solo founder)",
-          "url": "https://www.lennysnewsletter.com/p/i-spent-20000-on-devin-in-a-month",
-          "postedAt": "2026-08-24T12:04:02.000Z"
         }
       ],
       "books": [
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-05T15:12:19.579Z",
+      "lastUpdated": "2026-09-06T04:36:39.276Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -665,7 +665,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-05T15:12:21.234Z",
+      "lastUpdated": "2026-09-06T04:36:40.813Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
