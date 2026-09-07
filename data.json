@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-07T04:38:52.150Z",
+      "lastUpdated": "2026-09-07T17:44:14.505Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_60ef117285",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
+          "postedAt": "2026-09-07T15:02:41.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_96a0e748f9",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
+          "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+          "postedAt": "2026-09-07T12:04:19.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_0494e3b616",
           "source": "Lenny's Podcast",
@@ -331,14 +347,6 @@
           "postedAt": "2026-08-30T12:31:30.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_d4c1c04b67",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Building without clear PM requirements, selling a product before building it, pricing fast-moving B2B SaaS, a year of job hunting, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-building-without",
-          "postedAt": "2026-08-29T18:59:48.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_b82a5408d9",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -353,14 +361,6 @@
           "topic": "#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
           "url": "https://lexfridman.com/dhh-2/?utm_source=rss&utm_medium=rss&utm_campaign=dhh-2",
           "postedAt": "2026-08-26T21:47:04.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_65abe89511",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How to figure out your next career move",
-          "url": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
-          "postedAt": "2026-08-25T13:04:15.000Z"
         }
       ],
       "books": [
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-07T04:38:53.585Z",
+      "lastUpdated": "2026-09-07T17:44:16.495Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -503,6 +503,22 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_c4daf43ab2",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Best Tech Labor Day Sales I’d Shop Myself (2026): Vacuums, Headphones, and More",
+          "url": "https://www.wired.com/story/tech-labor-day-sales-2026/",
+          "postedAt": "2026-09-07T16:33:37.000Z"
+        },
+        {
+          "id": "om_2ba326ea52",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+          "url": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+          "postedAt": "2026-09-07T10:30:00.000Z"
+        },
         {
           "id": "om_759cf4d999",
           "source": "Retail Dive",
@@ -624,11 +640,11 @@
           "postedAt": "2026-09-03T23:24:34.000Z"
         },
         {
-          "id": "om_5637dd0fcc",
+          "id": "om_543491af1c",
           "source": "Social Media Today",
           "lang": "en",
-          "title": "TikTok adds voice notes and image carousels in comments",
-          "url": "https://www.socialmediatoday.com/news/tiktok-adds-voice-notes-and-image-carousels-in-comments/829640/",
+          "title": "TikTok adds voice and image carousel comments",
+          "url": "https://www.socialmediatoday.com/news/tiktok-adds-voice-and-image-carousel-comments/829640/",
           "postedAt": "2026-09-03T21:42:44.000Z"
         },
         {
@@ -646,26 +662,10 @@
           "title": "No LA Galaxy players competed in the World Cup. The team capitalized anyway",
           "url": "https://www.marketingbrew.com/stories/la-galaxy-world-cup-mls?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-09-03T18:00:52.000Z"
-        },
-        {
-          "id": "om_13ef9d4896",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Pasta Powerhouse Barilla Helps Itself to Posh Mac and Cheese Upstart Goodles",
-          "url": "https://www.adweek.com/commerce/pasta-powerhouse-barilla-helps-itself-to-posh-mac-and-cheese-upstart-goodles/",
-          "postedAt": "2026-09-03T16:47:21.000Z"
-        },
-        {
-          "id": "om_55c153df83",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "How AI is powering Target’s back-to-school push",
-          "url": "https://www.retaildive.com/news/target-back-to-school-push-AI/829468/",
-          "postedAt": "2026-09-03T16:46:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-07T04:38:54.794Z",
+      "lastUpdated": "2026-09-07T17:44:18.463Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
