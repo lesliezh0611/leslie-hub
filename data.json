@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-09T04:39:44.179Z",
+      "lastUpdated": "2026-09-09T16:37:02.477Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-09T04:39:45.625Z",
+      "lastUpdated": "2026-09-09T16:37:04.109Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,134 @@
       },
       "articles": [
         {
+          "id": "om_9d825ebb14",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Signet Jewelers delivers ‘quality’ quarter, raises full-year outlook",
+          "url": "https://www.retaildive.com/news/signet-raises-guidance-kay-jared-zales/829896/",
+          "postedAt": "2026-09-09T16:14:00.000Z"
+        },
+        {
+          "id": "om_b30e98dfb4",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Even luxury brands are adapting to the US Open ticket price surge",
+          "url": "https://www.marketingbrew.com/stories/premium-sponsors-us-open-ticket-prices?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-09T16:00:00.000Z"
+        },
+        {
+          "id": "om_c22d9674b9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Francesca’s Ch. 11 liquidation plan confirmed",
+          "url": "https://www.retaildive.com/news/francescas-ch-11-liquidation-plan-confirmed-bankruptcy/829911/",
+          "postedAt": "2026-09-09T15:38:00.000Z"
+        },
+        {
+          "id": "om_47966d0ee7",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Framework is giving some customers a RAM refund",
+          "url": "https://www.theverge.com/gadgets/992218/framework-lowers-ram-prices-refunds",
+          "postedAt": "2026-09-09T15:36:37.000Z"
+        },
+        {
+          "id": "om_5d8cefcffe",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Caesars gives NFL legend a ‘looksmaxxing’ makeover in sportsbook ads",
+          "url": "https://www.marketingdive.com/news/caesars-gives-nfl-legend-a-looksmaxxing-makeover-in-sportsbook-ads/829915/",
+          "postedAt": "2026-09-09T15:30:00.000Z"
+        },
+        {
+          "id": "om_144c1c9ede",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Retailers bet on AI for supply chain, ‘smart’ shopping",
+          "url": "https://www.retaildive.com/news/retailers-AI-supply-chain-smart-shopping/829609/",
+          "postedAt": "2026-09-09T15:22:00.000Z"
+        },
+        {
+          "id": "om_2ae00fd70a",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
+          "url": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
+          "postedAt": "2026-09-09T15:10:41.000Z"
+        },
+        {
+          "id": "om_c44948af03",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+          "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+          "postedAt": "2026-09-09T14:51:45.000Z"
+        },
+        {
+          "id": "om_e56ea97912",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Boston Beer hires tech-savvy CMO to hone data-driven marketing",
+          "url": "https://www.marketingdive.com/news/boston-beer-hires-tech-savvy-cmo-to-hone-data-driven-marketing/829899/",
+          "postedAt": "2026-09-09T14:24:00.000Z"
+        },
+        {
+          "id": "om_77f42de149",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why brand personality matters more than ever",
+          "url": "https://www.marketingdive.com/news/why-brand-personality-matters-more-than-ever/829709/",
+          "postedAt": "2026-09-09T14:10:00.000Z"
+        },
+        {
+          "id": "om_b5b8678557",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+          "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+          "postedAt": "2026-09-09T13:00:00.000Z"
+        },
+        {
+          "id": "om_e789540456",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Andrew Robertson to Lead Omnicom Advertising as Troy Ruhanen Retires",
+          "url": "https://www.adweek.com/agencies/andrew-robertson-to-lead-omnicom-advertising-as-troy-ruhanen-retires/",
+          "postedAt": "2026-09-09T12:19:12.000Z"
+        },
+        {
+          "id": "om_f0ef880fa3",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Publicis Really Didn’t Have to Choose Between Coke and Pepsi",
+          "url": "https://www.adweek.com/agencies/publicis-really-didnt-have-to-choose-between-coke-and-pepsi/",
+          "postedAt": "2026-09-09T11:37:02.000Z"
+        },
+        {
+          "id": "om_410e7ea1e4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "2026 NFL Ad Tracker: A Running List of the Best Early Season Ads",
+          "url": "https://www.adweek.com/brand-marketing/2026-nfl-ad-tracker-football-ads/",
+          "postedAt": "2026-09-09T10:42:27.000Z"
+        },
+        {
+          "id": "om_ab072e345b",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "House of the dragon: How the Portland Fire found its mascot",
+          "url": "https://www.marketingbrew.com/stories/portland-fire-mascot-rose-dragon-wnba?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-09T09:00:00.000Z"
+        },
+        {
+          "id": "om_4bc446243c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Baker Mayfield Turns His Every Man Jack Partnership Into a Signature Collection",
+          "url": "https://www.adweek.com/brand-marketing/baker-mayfield-turns-his-every-man-jack-partnership-into-a-signature-collection/",
+          "postedAt": "2026-09-09T06:56:54.000Z"
+        },
+        {
           "id": "om_da2a7c06f0",
           "source": "Adweek",
           "lang": "en",
@@ -534,138 +662,10 @@
           "title": "TikTok returns as Toronto International Film Festival platform partner",
           "url": "https://www.socialmediatoday.com/news/tiktok-returns-as-toronto-international-film-festival-platform-partner/829847/",
           "postedAt": "2026-09-08T20:15:30.000Z"
-        },
-        {
-          "id": "om_6f347d89db",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-          "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-          "postedAt": "2026-09-08T19:00:00.000Z"
-        },
-        {
-          "id": "om_c2edb3ca84",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Modelo hikes marketing spend on college football for new platform",
-          "url": "https://www.marketingdive.com/news/modelo-hikes-marketing-spend-on-college-football-for-new-platform/829785/",
-          "postedAt": "2026-09-08T18:29:00.000Z"
-        },
-        {
-          "id": "om_7c529d712f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Samsung U.S. Marketing Chief Allison Stransky to Join Boston Beer Co. as CMO",
-          "url": "https://www.adweek.com/brand-marketing/samsung-us-marketing-chief-allison-stransky-to-join-boston-beer-co-as-cmo/",
-          "postedAt": "2026-09-08T18:24:54.000Z"
-        },
-        {
-          "id": "om_c9377eaee7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Accenture Fills Vacant CMO Post with Veteran Technology Marketer Emma Chalwin",
-          "url": "https://www.adweek.com/brand-marketing/accenture-fills-vacant-cmo-post-with-veteran-technology-marketer-emma-chalwin/",
-          "postedAt": "2026-09-08T16:42:39.000Z"
-        },
-        {
-          "id": "om_c12af58c7d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Ace Hardware: ‘We’re in the business of building national brands’",
-          "url": "https://www.retaildive.com/news/ace-hardware-were-in-the-business-of-building-national-brands/829757/",
-          "postedAt": "2026-09-08T15:49:00.000Z"
-        },
-        {
-          "id": "om_7603d71979",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Nike, Simon Property Group dropped from S&P 100",
-          "url": "https://www.retaildive.com/news/nike-simon-property-group-dropped-sp-100/829760/",
-          "postedAt": "2026-09-08T15:30:00.000Z"
-        },
-        {
-          "id": "om_c99c24593c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bed Bath & Beyond cancels deal to acquire Cabinets To Go owner",
-          "url": "https://www.retaildive.com/news/bed-bath-beyond-cancels-deal-to-acquire-cabinets-to-go-owner/829787/",
-          "postedAt": "2026-09-08T15:28:00.000Z"
-        },
-        {
-          "id": "om_f7ab08692f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Kitchen Table Finances: Intuit on AI and Everyday Money Management",
-          "url": "https://www.adweek.com/brand-marketing/kitchen-table-finances-intuit-on-ai-and-everyday-money-management/",
-          "postedAt": "2026-09-08T14:47:27.000Z"
-        },
-        {
-          "id": "om_ef229174ef",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How to Modernize Marketing in a Legacy Industry With Danielle Wuschke Paige of Nixon Peabody",
-          "url": "https://www.adweek.com/brand-marketing/how-to-modernize-marketing-in-a-legacy-industry-with-danielle-wuschke-paige-of-nixon-peabody/",
-          "postedAt": "2026-09-08T14:21:24.000Z"
-        },
-        {
-          "id": "om_e13a78b98f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Innovation Playbook: Mastercard, Newell Brands, and Uber Advertising Leaders on AI, Data, and Brand Growth",
-          "url": "https://www.adweek.com/brand-marketing/the-innovation-playbook-mastercard-newell-brands-and-uber-advertising-leaders-on-ai-data-and-brand-growth/",
-          "postedAt": "2026-09-08T14:13:11.000Z"
-        },
-        {
-          "id": "om_e3bc778cf9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Campbell’s heats up digital focus amid marketing reformulation",
-          "url": "https://www.marketingdive.com/news/campbells-heats-up-digital-focus-amid-marketing-reformulation/829764/",
-          "postedAt": "2026-09-08T14:10:00.000Z"
-        },
-        {
-          "id": "om_199e7f886a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Advertisers Want More Brand Safety, Prompt-Matching, Incrementality Tracking From ChatGPT Ads",
-          "url": "https://www.adweek.com/programmatic/advertisers-want-brand-safety-prompt-matching-incrementality-tracking-chatgpt-ads/",
-          "postedAt": "2026-09-08T14:06:51.000Z"
-        },
-        {
-          "id": "om_33b7bc38ac",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Established Brands Should Learn From Insurgents Without Trying to Become One",
-          "url": "https://www.adweek.com/brand-marketing/established-brands-should-learn-from-insurgents-without-trying-to-become-one/",
-          "postedAt": "2026-09-08T13:59:55.000Z"
-        },
-        {
-          "id": "om_a0ec9696da",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How 7 Brew’s first CMO is marketing the fastest-growing brand in the US",
-          "url": "https://www.marketingdive.com/news/how-7-brews-first-cmo-is-marketing-the-fastest-growing-brand-in-the-us/829755/",
-          "postedAt": "2026-09-08T11:30:31.000Z"
-        },
-        {
-          "id": "om_5b22382d09",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Some companies are using ads to influence AI agents",
-          "url": "https://www.marketingbrew.com/stories/optimizing-for-ai-agents-time-magazine-wayfair-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-08T10:00:00.000Z"
-        },
-        {
-          "id": "om_bb5aac7067",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "5 lessons for brands who want to win the 2026 holiday season, from the advertisers already doing it",
-          "url": "https://www.marketingdive.com/spons/5-lessons-for-brands-who-want-to-win-the-2026-holiday-season-from-the-adve/829631/",
-          "postedAt": "2026-09-08T09:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-09T04:39:46.922Z",
+      "lastUpdated": "2026-09-09T16:37:05.600Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
