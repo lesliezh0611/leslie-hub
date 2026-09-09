@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-08T16:36:54.078Z",
+      "lastUpdated": "2026-09-09T04:39:44.179Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-08T16:36:55.736Z",
+      "lastUpdated": "2026-09-09T04:39:45.625Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,70 @@
       },
       "articles": [
         {
+          "id": "om_da2a7c06f0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "New Hyundai Campaign Casts Childhood Cancer Survivors As Warriors",
+          "url": "https://www.adweek.com/inside-the-brand/new-hyundai-campaign-casts-childhood-cancer-survivors-as-warriors/",
+          "postedAt": "2026-09-08T22:44:22.000Z"
+        },
+        {
+          "id": "om_4b23e8717b",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Pinterest renames campaign objectives to simplify ad focus",
+          "url": "https://www.socialmediatoday.com/news/pinterest-renames-campaign-objectives-to-simplify-ad-focus/829869/",
+          "postedAt": "2026-09-08T21:54:53.000Z"
+        },
+        {
+          "id": "om_83e15d1dea",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "YouTube expands Watch With to more creators",
+          "url": "https://www.socialmediatoday.com/news/youtube-expands-watch-with-to-more-creators/829854/",
+          "postedAt": "2026-09-08T20:30:29.000Z"
+        },
+        {
+          "id": "om_edaa3c84ea",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok returns as Toronto International Film Festival platform partner",
+          "url": "https://www.socialmediatoday.com/news/tiktok-returns-as-toronto-international-film-festival-platform-partner/829847/",
+          "postedAt": "2026-09-08T20:15:30.000Z"
+        },
+        {
+          "id": "om_6f347d89db",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+          "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+          "postedAt": "2026-09-08T19:00:00.000Z"
+        },
+        {
+          "id": "om_c2edb3ca84",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Modelo hikes marketing spend on college football for new platform",
+          "url": "https://www.marketingdive.com/news/modelo-hikes-marketing-spend-on-college-football-for-new-platform/829785/",
+          "postedAt": "2026-09-08T18:29:00.000Z"
+        },
+        {
+          "id": "om_7c529d712f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Samsung U.S. Marketing Chief Allison Stransky to Join Boston Beer Co. as CMO",
+          "url": "https://www.adweek.com/brand-marketing/samsung-us-marketing-chief-allison-stransky-to-join-boston-beer-co-as-cmo/",
+          "postedAt": "2026-09-08T18:24:54.000Z"
+        },
+        {
+          "id": "om_c9377eaee7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Accenture Fills Vacant CMO Post with Veteran Technology Marketer Emma Chalwin",
+          "url": "https://www.adweek.com/brand-marketing/accenture-fills-vacant-cmo-post-with-veteran-technology-marketer-emma-chalwin/",
+          "postedAt": "2026-09-08T16:42:39.000Z"
+        },
+        {
           "id": "om_c12af58c7d",
           "source": "Retail Dive",
           "lang": "en",
@@ -528,12 +592,52 @@
           "postedAt": "2026-09-08T15:28:00.000Z"
         },
         {
+          "id": "om_f7ab08692f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Kitchen Table Finances: Intuit on AI and Everyday Money Management",
+          "url": "https://www.adweek.com/brand-marketing/kitchen-table-finances-intuit-on-ai-and-everyday-money-management/",
+          "postedAt": "2026-09-08T14:47:27.000Z"
+        },
+        {
+          "id": "om_ef229174ef",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How to Modernize Marketing in a Legacy Industry With Danielle Wuschke Paige of Nixon Peabody",
+          "url": "https://www.adweek.com/brand-marketing/how-to-modernize-marketing-in-a-legacy-industry-with-danielle-wuschke-paige-of-nixon-peabody/",
+          "postedAt": "2026-09-08T14:21:24.000Z"
+        },
+        {
+          "id": "om_e13a78b98f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Innovation Playbook: Mastercard, Newell Brands, and Uber Advertising Leaders on AI, Data, and Brand Growth",
+          "url": "https://www.adweek.com/brand-marketing/the-innovation-playbook-mastercard-newell-brands-and-uber-advertising-leaders-on-ai-data-and-brand-growth/",
+          "postedAt": "2026-09-08T14:13:11.000Z"
+        },
+        {
           "id": "om_e3bc778cf9",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Campbell’s heats up digital focus amid marketing reformulation",
           "url": "https://www.marketingdive.com/news/campbells-heats-up-digital-focus-amid-marketing-reformulation/829764/",
           "postedAt": "2026-09-08T14:10:00.000Z"
+        },
+        {
+          "id": "om_199e7f886a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Advertisers Want More Brand Safety, Prompt-Matching, Incrementality Tracking From ChatGPT Ads",
+          "url": "https://www.adweek.com/programmatic/advertisers-want-brand-safety-prompt-matching-incrementality-tracking-chatgpt-ads/",
+          "postedAt": "2026-09-08T14:06:51.000Z"
+        },
+        {
+          "id": "om_33b7bc38ac",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Established Brands Should Learn From Insurgents Without Trying to Become One",
+          "url": "https://www.adweek.com/brand-marketing/established-brands-should-learn-from-insurgents-without-trying-to-become-one/",
+          "postedAt": "2026-09-08T13:59:55.000Z"
         },
         {
           "id": "om_a0ec9696da",
@@ -544,14 +648,6 @@
           "postedAt": "2026-09-08T11:30:31.000Z"
         },
         {
-          "id": "om_861355dfc2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Five Guys Chooses Mirimar as Creative AOR to Share Its Story and Go Beyond Word-of-Mouth",
-          "url": "https://www.adweek.com/agencies/five-guys-chooses-mirimar-as-creative-aor-to-share-its-story-and-go-beyond-word-of-mouth/",
-          "postedAt": "2026-09-08T10:00:00.000Z"
-        },
-        {
           "id": "om_5b22382d09",
           "source": "Marketing Brew",
           "lang": "en",
@@ -560,112 +656,16 @@
           "postedAt": "2026-09-08T10:00:00.000Z"
         },
         {
-          "id": "om_003004d0f8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Duolingo Creates a Fashion Line for the Brands You Can’t Pronounce",
-          "url": "https://www.adweek.com/creativity/duolingo-creates-a-fashion-line-for-the-brands-you-cant-pronounce/",
-          "postedAt": "2026-09-08T09:00:00.000Z"
-        },
-        {
-          "id": "om_586cfdf507",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "TurboTax Taps AKQA to Appeal Towards Gen Z With Digital Video and Content",
-          "url": "https://www.adweek.com/agencies/turbotax-taps-akqa-to-appeal-towards-gen-z-with-digital-video-and-content/",
-          "postedAt": "2026-09-08T09:00:00.000Z"
-        },
-        {
           "id": "om_bb5aac7067",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "5 lessons for brands who want to win the 2026 holiday season, from the advertisers already doing it",
           "url": "https://www.marketingdive.com/spons/5-lessons-for-brands-who-want-to-win-the-2026-holiday-season-from-the-adve/829631/",
           "postedAt": "2026-09-08T09:00:00.000Z"
-        },
-        {
-          "id": "om_65da411e04",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Understand your people before your data loses relevance",
-          "url": "https://www.marketingdive.com/spons/understand-your-people-before-your-data-loses-relevance/829324/",
-          "postedAt": "2026-09-08T09:00:00.000Z"
-        },
-        {
-          "id": "om_bc9974ad7d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Five reasons your retail warehouse is losing money without knowing it",
-          "url": "https://www.retaildive.com/spons/five-reasons-your-retail-warehouse-is-losing-money-without-knowing-it/828655/",
-          "postedAt": "2026-09-08T09:00:00.000Z"
-        },
-        {
-          "id": "om_a7fa08fef0",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Preparing your platform for agentic commerce: How to authenticate AI buying agents vs. synthetic bots",
-          "url": "https://www.retaildive.com/spons/preparing-your-platform-for-agentic-commerce-how-to-authenticate-ai-buying/829221/",
-          "postedAt": "2026-09-08T09:00:00.000Z"
-        },
-        {
-          "id": "om_4c29078250",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Booze, Romance, and the Female Gaze: The Trends We’re Tracking for Super Bowl 61",
-          "url": "https://www.adweek.com/brand-marketing/booze-romance-and-the-female-gaze-the-trends-were-tracking-for-super-bowl-61/",
-          "postedAt": "2026-09-08T06:00:00.000Z"
-        },
-        {
-          "id": "om_66b05ac836",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Super Bowl 61 Ad Tracker: Complete List of 2027 Super Bowl Commercials",
-          "url": "https://www.adweek.com/brand-marketing/super-bowl-61-ad-tracker-watch-all-commercials-2027/",
-          "postedAt": "2026-09-08T06:00:00.000Z"
-        },
-        {
-          "id": "om_58c55cf744",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Pinterest offers advice on creating effective shopping promotions",
-          "url": "https://www.socialmediatoday.com/news/pinterest-offers-advice-on-creating-effective-shopping-promotions/829245/",
-          "postedAt": "2026-09-08T05:48:00.000Z"
-        },
-        {
-          "id": "om_c4daf43ab2",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Best Tech Labor Day Sales I’d Shop Myself (2026): Vacuums, Headphones, and More",
-          "url": "https://www.wired.com/story/tech-labor-day-sales-2026/",
-          "postedAt": "2026-09-07T16:33:37.000Z"
-        },
-        {
-          "id": "om_2ba326ea52",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
-          "url": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
-          "postedAt": "2026-09-07T10:30:00.000Z"
-        },
-        {
-          "id": "om_759cf4d999",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon Prime members now get free Alexa+ access",
-          "url": "https://www.retaildive.com/news/amazon-adds-perks-prime-free-alexa-access/829610/",
-          "postedAt": "2026-09-04T15:48:00.000Z"
-        },
-        {
-          "id": "om_4240119a78",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Ulta’s use of Flock technology causes upset online",
-          "url": "https://www.retaildive.com/news/ulta-flock-technology-backlash/829623/",
-          "postedAt": "2026-09-04T15:26:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-08T16:36:57.349Z",
+      "lastUpdated": "2026-09-09T04:39:46.922Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
