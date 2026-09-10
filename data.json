@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-10T04:40:42.361Z",
+      "lastUpdated": "2026-09-10T16:22:46.213Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_the_knowledge_project_93f900e7a9",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "Tobi Lütke: AI Agents, Better Decisions, and the Future of Work",
+          "url": "https://fs.blog/knowledge-project-podcast/tobi-lutke-3/",
+          "postedAt": "2026-09-10T09:50:00.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_1f928ee0f4",
           "source": "Lenny's Podcast",
@@ -411,10 +419,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-10T04:40:44.609Z",
+      "lastUpdated": "2026-09-10T16:22:47.533Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -504,6 +512,126 @@
       },
       "articles": [
         {
+          "id": "om_12a825ab49",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Macy’s plows tariff refunds into its rebound",
+          "url": "https://www.retaildive.com/news/macys-invests-tariff-refunds-turnaround-Q2-earnings-sales-growth/830009/",
+          "postedAt": "2026-09-10T16:20:00.000Z"
+        },
+        {
+          "id": "om_c72aedf119",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "American Eagle falls flat with women, again",
+          "url": "https://www.retaildive.com/news/american-eagle-falls-flat-women-denim-sales-earnings/830043/",
+          "postedAt": "2026-09-10T16:00:00.000Z"
+        },
+        {
+          "id": "om_601a17631a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target introduces AI-powered photo search, review features",
+          "url": "https://www.retaildive.com/news/target-introduces-ai-powered-photo-search-review-features/830041/",
+          "postedAt": "2026-09-10T15:48:00.000Z"
+        },
+        {
+          "id": "om_079c7beb48",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "E-commerce to outpace overall holiday sales growth as shoppers lean on AI",
+          "url": "https://www.retaildive.com/news/ecommerce-growth-outpaces-holiday-retail-sales-ai-shopping/830034/",
+          "postedAt": "2026-09-10T15:28:00.000Z"
+        },
+        {
+          "id": "om_eedffd74b9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: YouTube expands Watch With to more creators",
+          "url": "https://www.marketingdive.com/news/sociable-youtube-expands-watch-with-to-more-creators/830037/",
+          "postedAt": "2026-09-10T14:32:00.000Z"
+        },
+        {
+          "id": "om_540eff1309",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Johnsonville puts sausage on the ballot to cut through election ads",
+          "url": "https://www.marketingdive.com/news/johnsonville-puts-sausage-on-the-ballot-to-cut-through-election-ads/829950/",
+          "postedAt": "2026-09-10T13:31:00.000Z"
+        },
+        {
+          "id": "om_71292d4b5e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Snapchat promises advertisers faster conversions for the holidays",
+          "url": "https://www.marketingdive.com/news/snapchat-promises-advertisers-faster-conversions-for-the-holidays/829965/",
+          "postedAt": "2026-09-10T13:00:00.000Z"
+        },
+        {
+          "id": "om_a6c868e194",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Amazon pilots ad services in ChatGPT: What marketers need to know",
+          "url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
+          "postedAt": "2026-09-10T13:00:00.000Z"
+        },
+        {
+          "id": "om_fb06aa9ad9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why Bonobos’ fall campaign centers on episodic content with Jack Quaid",
+          "url": "https://www.marketingdive.com/news/why-bonobos-fall-campaign-centers-on-episodic-content-with-jack-quaid/829938/",
+          "postedAt": "2026-09-10T13:00:00.000Z"
+        },
+        {
+          "id": "om_435797a9f0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Apple’s First Foldable iPhone Could Reshape the Creative Canvas for Brands",
+          "url": "https://www.adweek.com/creativity/apples-first-foldable-iphone-could-reshape-the-creative-canvas-for-brands/",
+          "postedAt": "2026-09-10T12:08:11.000Z"
+        },
+        {
+          "id": "om_55789fd203",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Jury Nominations Open for 2027 ADWEEK Awards",
+          "url": "https://www.adweek.com/agencies/jury-nominations-open-for-2027-adweek-awards/",
+          "postedAt": "2026-09-10T11:54:36.000Z"
+        },
+        {
+          "id": "om_343ddc628d",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Warner Bros. Discovery is embracing youth to hype the Basketball World Cup",
+          "url": "https://www.marketingbrew.com/stories/warner-bros-discovery-basketball-world-cup?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-10T11:00:00.000Z"
+        },
+        {
+          "id": "om_c7e4fc561f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Amazon and OpenAI Team Up to Target ChatGPT’s US Users",
+          "url": "https://www.adweek.com/commerce/amazon-and-openai-team-up-to-target-chatgpts-us-users/",
+          "postedAt": "2026-09-10T09:00:00.000Z"
+        },
+        {
+          "id": "om_f1c0774b99",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why Tubi’s New Global Campaign ‘Feels’ About Right",
+          "url": "https://www.adweek.com/convergent-tv/tubi-global-campaign-feels-about-right/",
+          "postedAt": "2026-09-10T07:00:00.000Z"
+        },
+        {
+          "id": "om_d259bea0e4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "DeepIntent Releases Agentic Ad Platform As Pharma Marketing Grows More Complex",
+          "url": "https://www.adweek.com/brand-marketing/deepintent-releases-agentic-ad-platform-as-pharma-marketing-grows-more-complex/",
+          "postedAt": "2026-09-10T06:00:00.000Z"
+        },
+        {
           "id": "om_58604170a8",
           "source": "Marketing Brew",
           "lang": "en",
@@ -542,130 +670,10 @@
           "title": "Caesars gives NFL legend a ‘looksmaxxing’ makeover in sportsbook ads",
           "url": "https://www.marketingdive.com/news/caesars-gives-nfl-legend-a-looksmaxxing-makeover-in-sportsbook-ads/829915/",
           "postedAt": "2026-09-09T15:30:00.000Z"
-        },
-        {
-          "id": "om_e88e4e52d6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Cutbacks in GLP-1 Insurance Coverage Are Forcing Marketers to Pivot",
-          "url": "https://www.adweek.com/brand-marketing/cutbacks-in-glp-1-insurance-coverage-are-forcing-marketers-to-pivot/",
-          "postedAt": "2026-09-09T15:28:30.000Z"
-        },
-        {
-          "id": "om_144c1c9ede",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Retailers bet on AI for supply chain, ‘smart’ shopping",
-          "url": "https://www.retaildive.com/news/retailers-AI-supply-chain-smart-shopping/829609/",
-          "postedAt": "2026-09-09T15:22:00.000Z"
-        },
-        {
-          "id": "om_e56ea97912",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Boston Beer hires tech-savvy CMO to hone data-driven marketing",
-          "url": "https://www.marketingdive.com/news/boston-beer-hires-tech-savvy-cmo-to-hone-data-driven-marketing/829899/",
-          "postedAt": "2026-09-09T14:24:00.000Z"
-        },
-        {
-          "id": "om_77f42de149",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why brand personality matters more than ever",
-          "url": "https://www.marketingdive.com/news/why-brand-personality-matters-more-than-ever/829709/",
-          "postedAt": "2026-09-09T14:10:00.000Z"
-        },
-        {
-          "id": "om_e789540456",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Andrew Robertson to Lead Omnicom Advertising as Troy Ruhanen Retires",
-          "url": "https://www.adweek.com/agencies/andrew-robertson-to-lead-omnicom-advertising-as-troy-ruhanen-retires/",
-          "postedAt": "2026-09-09T12:19:12.000Z"
-        },
-        {
-          "id": "om_f0ef880fa3",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Publicis Really Didn’t Have to Choose Between Coke and Pepsi",
-          "url": "https://www.adweek.com/agencies/publicis-really-didnt-have-to-choose-between-coke-and-pepsi/",
-          "postedAt": "2026-09-09T11:37:02.000Z"
-        },
-        {
-          "id": "om_410e7ea1e4",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "2026 NFL Ad Tracker: A Running List of the Best Early Season Ads",
-          "url": "https://www.adweek.com/brand-marketing/2026-nfl-ad-tracker-football-ads/",
-          "postedAt": "2026-09-09T10:42:27.000Z"
-        },
-        {
-          "id": "om_ab072e345b",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "House of the dragon: How the Portland Fire found its mascot",
-          "url": "https://www.marketingbrew.com/stories/portland-fire-mascot-rose-dragon-wnba?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-09T09:00:00.000Z"
-        },
-        {
-          "id": "om_4bc446243c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Baker Mayfield Turns His Every Man Jack Partnership Into a Signature Collection",
-          "url": "https://www.adweek.com/brand-marketing/baker-mayfield-turns-his-every-man-jack-partnership-into-a-signature-collection/",
-          "postedAt": "2026-09-09T06:56:54.000Z"
-        },
-        {
-          "id": "om_da2a7c06f0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "New Hyundai Campaign Casts Childhood Cancer Survivors As Warriors",
-          "url": "https://www.adweek.com/inside-the-brand/new-hyundai-campaign-casts-childhood-cancer-survivors-as-warriors/",
-          "postedAt": "2026-09-08T22:44:22.000Z"
-        },
-        {
-          "id": "om_4b23e8717b",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Pinterest renames campaign objectives to simplify ad focus",
-          "url": "https://www.socialmediatoday.com/news/pinterest-renames-campaign-objectives-to-simplify-ad-focus/829869/",
-          "postedAt": "2026-09-08T21:54:53.000Z"
-        },
-        {
-          "id": "om_83e15d1dea",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "YouTube expands Watch With to more creators",
-          "url": "https://www.socialmediatoday.com/news/youtube-expands-watch-with-to-more-creators/829854/",
-          "postedAt": "2026-09-08T20:30:29.000Z"
-        },
-        {
-          "id": "om_edaa3c84ea",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok returns as Toronto International Film Festival platform partner",
-          "url": "https://www.socialmediatoday.com/news/tiktok-returns-as-toronto-international-film-festival-platform-partner/829847/",
-          "postedAt": "2026-09-08T20:15:30.000Z"
-        },
-        {
-          "id": "om_c2edb3ca84",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Modelo hikes marketing spend on college football for new platform",
-          "url": "https://www.marketingdive.com/news/modelo-hikes-marketing-spend-on-college-football-for-new-platform/829785/",
-          "postedAt": "2026-09-08T18:29:00.000Z"
-        },
-        {
-          "id": "om_c12af58c7d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Ace Hardware: ‘We’re in the business of building national brands’",
-          "url": "https://www.retaildive.com/news/ace-hardware-were-in-the-business-of-building-national-brands/829757/",
-          "postedAt": "2026-09-08T15:49:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-10T04:40:46.340Z",
+      "lastUpdated": "2026-09-10T16:22:48.659Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
