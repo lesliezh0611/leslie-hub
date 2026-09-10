@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-09T16:37:02.477Z",
+      "lastUpdated": "2026-09-10T04:40:42.361Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-09T16:37:04.109Z",
+      "lastUpdated": "2026-09-10T04:40:44.609Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,14 @@
       },
       "articles": [
         {
+          "id": "om_58604170a8",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Mr. Pibb was the fastest growing brand of the year: report",
+          "url": "https://www.marketingbrew.com/stories/mr-pibb-fastest-growing-brand-morning-consult-report?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-09T18:02:18.000Z"
+        },
+        {
           "id": "om_9d825ebb14",
           "source": "Retail Dive",
           "lang": "en",
@@ -528,14 +536,6 @@
           "postedAt": "2026-09-09T15:38:00.000Z"
         },
         {
-          "id": "om_47966d0ee7",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Framework is giving some customers a RAM refund",
-          "url": "https://www.theverge.com/gadgets/992218/framework-lowers-ram-prices-refunds",
-          "postedAt": "2026-09-09T15:36:37.000Z"
-        },
-        {
           "id": "om_5d8cefcffe",
           "source": "Marketing Dive",
           "lang": "en",
@@ -544,28 +544,20 @@
           "postedAt": "2026-09-09T15:30:00.000Z"
         },
         {
+          "id": "om_e88e4e52d6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Cutbacks in GLP-1 Insurance Coverage Are Forcing Marketers to Pivot",
+          "url": "https://www.adweek.com/brand-marketing/cutbacks-in-glp-1-insurance-coverage-are-forcing-marketers-to-pivot/",
+          "postedAt": "2026-09-09T15:28:30.000Z"
+        },
+        {
           "id": "om_144c1c9ede",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Retailers bet on AI for supply chain, ‘smart’ shopping",
           "url": "https://www.retaildive.com/news/retailers-AI-supply-chain-smart-shopping/829609/",
           "postedAt": "2026-09-09T15:22:00.000Z"
-        },
-        {
-          "id": "om_2ae00fd70a",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
-          "url": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
-          "postedAt": "2026-09-09T15:10:41.000Z"
-        },
-        {
-          "id": "om_c44948af03",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
-          "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
-          "postedAt": "2026-09-09T14:51:45.000Z"
         },
         {
           "id": "om_e56ea97912",
@@ -582,14 +574,6 @@
           "title": "Why brand personality matters more than ever",
           "url": "https://www.marketingdive.com/news/why-brand-personality-matters-more-than-ever/829709/",
           "postedAt": "2026-09-09T14:10:00.000Z"
-        },
-        {
-          "id": "om_b5b8678557",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-          "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
-          "postedAt": "2026-09-09T13:00:00.000Z"
         },
         {
           "id": "om_e789540456",
@@ -662,10 +646,26 @@
           "title": "TikTok returns as Toronto International Film Festival platform partner",
           "url": "https://www.socialmediatoday.com/news/tiktok-returns-as-toronto-international-film-festival-platform-partner/829847/",
           "postedAt": "2026-09-08T20:15:30.000Z"
+        },
+        {
+          "id": "om_c2edb3ca84",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Modelo hikes marketing spend on college football for new platform",
+          "url": "https://www.marketingdive.com/news/modelo-hikes-marketing-spend-on-college-football-for-new-platform/829785/",
+          "postedAt": "2026-09-08T18:29:00.000Z"
+        },
+        {
+          "id": "om_c12af58c7d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Ace Hardware: ‘We’re in the business of building national brands’",
+          "url": "https://www.retaildive.com/news/ace-hardware-were-in-the-business-of-building-national-brands/829757/",
+          "postedAt": "2026-09-08T15:49:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-09T16:37:05.600Z",
+      "lastUpdated": "2026-09-10T04:40:46.340Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
