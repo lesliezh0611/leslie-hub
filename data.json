@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-11T04:38:22.822Z",
+      "lastUpdated": "2026-09-11T16:26:51.692Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-11T04:38:24.835Z",
+      "lastUpdated": "2026-09-11T16:26:53.060Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,102 @@
       },
       "articles": [
         {
+          "id": "om_bd7dff8f81",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Reformation charts path to double store fleet in 5 years",
+          "url": "https://www.retaildive.com/news/reformation-first-earnings-double-store-fleet-five-years/830162/",
+          "postedAt": "2026-09-11T16:03:00.000Z"
+        },
+        {
+          "id": "om_a960810be7",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Destination XL maps out a turnaround plan",
+          "url": "https://www.retaildive.com/news/destination-xl-turnaround-plan-second-quarter/830143/",
+          "postedAt": "2026-09-11T15:29:00.000Z"
+        },
+        {
+          "id": "om_a0efb3f3c1",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "After demise of Joann locations, fabric is now in 90% of Michaels stores",
+          "url": "https://www.retaildive.com/news/michaels-fabric-ninety-percent-stores-joann-bankruptcy/830039/",
+          "postedAt": "2026-09-11T15:13:00.000Z"
+        },
+        {
+          "id": "om_84d8c26226",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Cadbury pairs crystal clutch with comedy series for major US campaign",
+          "url": "https://www.marketingdive.com/news/cadbury-pairs-crystal-clutch-with-comedy-series-for-major-us-campaign/830112/",
+          "postedAt": "2026-09-11T15:08:00.000Z"
+        },
+        {
+          "id": "om_0f8b60ca7c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: Chewy’s sales jump and a retail exec turns politician",
+          "url": "https://www.retaildive.com/news/chewys-sales-jump-hudsons-bay-exec-rhode-island-governor/830127/",
+          "postedAt": "2026-09-11T15:04:00.000Z"
+        },
+        {
+          "id": "om_2148bc7b3b",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Hilton CMO Mark Weinstein steps down",
+          "url": "https://www.marketingdive.com/news/hilton-cmo-mark-weinstein-steps-down/830161/",
+          "postedAt": "2026-09-11T14:34:00.000Z"
+        },
+        {
+          "id": "om_642b8783f0",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Old Navy’s MrBeast deal boosts engagement amid bigger bet on creators",
+          "url": "https://www.marketingdive.com/news/old-navys-mrbeast-deal-boosts-engagement-amid-bigger-bet-on-creators/830100/",
+          "postedAt": "2026-09-11T13:00:00.000Z"
+        },
+        {
+          "id": "om_2c0f71114e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Campaign Trail: Cheez-It convenes Couch Committee for college football",
+          "url": "https://www.marketingdive.com/news/campaign-trail-cheez-it-convenes-couch-committee-for-college-football/830011/",
+          "postedAt": "2026-09-11T12:00:00.000Z"
+        },
+        {
+          "id": "om_676aecdb1a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "7 Marketer Moves to Know About This Week: Hilton, Accenture, Boston Beer Co. and More",
+          "url": "https://www.adweek.com/brand-marketing/7-marketer-moves-to-know-about-this-week-hilton-accenture-boston-beer-co-and-more/",
+          "postedAt": "2026-09-11T06:23:58.000Z"
+        },
+        {
+          "id": "om_1825a67736",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Twenty-Five Years After 9/11, Lower Manhattan Is Both a Tribute and a Promise",
+          "url": "https://www.adweek.com/agencies/world-trade-center-911-lower-manhattan-tribute-promise/",
+          "postedAt": "2026-09-11T06:00:00.000Z"
+        },
+        {
+          "id": "om_2fa1520957",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Retail Roundup: Amazon Befriends OpenAI, and Walmart’s Advertising Ambitions Grow",
+          "url": "https://www.adweek.com/commerce/retail-roundup-amazon-befriends-openai-and-walmarts-advertising-ambitions-grow/",
+          "postedAt": "2026-09-11T06:00:00.000Z"
+        },
+        {
+          "id": "om_201dc06f5b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 13 Campaigns That Caught Our Eye, From Dunkin’ to Apple",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-13-campaigns-that-caught-our-eye-from-dunkin-to-apple/",
+          "postedAt": "2026-09-11T06:00:00.000Z"
+        },
+        {
           "id": "om_8e2bb47760",
           "source": "TechCrunch",
           "lang": "en",
@@ -568,112 +664,16 @@
           "postedAt": "2026-09-10T16:00:00.000Z"
         },
         {
-          "id": "om_6f8fbdf80f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why Agency Leaders Are Craving Community ft. Jessica Henrichs, Ross Martin & Chioma Aduba",
-          "url": "https://www.adweek.com/agencies/why-agency-leaders-are-craving-community-ft-jessica-henrichs-ross-martin-chioma-aduba/",
-          "postedAt": "2026-09-10T15:58:45.000Z"
-        },
-        {
           "id": "om_601a17631a",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Target introduces AI-powered photo search, review features",
           "url": "https://www.retaildive.com/news/target-introduces-ai-powered-photo-search-review-features/830041/",
           "postedAt": "2026-09-10T15:48:00.000Z"
-        },
-        {
-          "id": "om_b9fb5d0c68",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The 80% of Marketing That AI Should Take Off Your Plate With Rafa Flores",
-          "url": "https://www.adweek.com/brand-marketing/the-80-of-marketing-that-ai-should-take-off-your-plate-with-rafa-flores/",
-          "postedAt": "2026-09-10T15:34:15.000Z"
-        },
-        {
-          "id": "om_079c7beb48",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "E-commerce to outpace overall holiday sales growth as shoppers lean on AI",
-          "url": "https://www.retaildive.com/news/ecommerce-growth-outpaces-holiday-retail-sales-ai-shopping/830034/",
-          "postedAt": "2026-09-10T15:28:00.000Z"
-        },
-        {
-          "id": "om_eedffd74b9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: YouTube expands Watch With to more creators",
-          "url": "https://www.marketingdive.com/news/sociable-youtube-expands-watch-with-to-more-creators/830037/",
-          "postedAt": "2026-09-10T14:32:00.000Z"
-        },
-        {
-          "id": "om_540eff1309",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Johnsonville puts sausage on the ballot to cut through election ads",
-          "url": "https://www.marketingdive.com/news/johnsonville-puts-sausage-on-the-ballot-to-cut-through-election-ads/829950/",
-          "postedAt": "2026-09-10T13:31:00.000Z"
-        },
-        {
-          "id": "om_fb06aa9ad9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why Bonobos’ fall campaign centers on episodic content with Jack Quaid",
-          "url": "https://www.marketingdive.com/news/why-bonobos-fall-campaign-centers-on-episodic-content-with-jack-quaid/829938/",
-          "postedAt": "2026-09-10T13:00:00.000Z"
-        },
-        {
-          "id": "om_a6c868e194",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Amazon pilots ad services in ChatGPT: What marketers need to know",
-          "url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
-          "postedAt": "2026-09-10T13:00:00.000Z"
-        },
-        {
-          "id": "om_71292d4b5e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Snapchat promises advertisers faster conversions for the holidays",
-          "url": "https://www.marketingdive.com/news/snapchat-promises-advertisers-faster-conversions-for-the-holidays/829965/",
-          "postedAt": "2026-09-10T13:00:00.000Z"
-        },
-        {
-          "id": "om_435797a9f0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Apple’s First Foldable iPhone Could Reshape the Creative Canvas for Brands",
-          "url": "https://www.adweek.com/creativity/apples-first-foldable-iphone-could-reshape-the-creative-canvas-for-brands/",
-          "postedAt": "2026-09-10T12:08:11.000Z"
-        },
-        {
-          "id": "om_55789fd203",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Jury Nominations Open for 2027 ADWEEK Awards",
-          "url": "https://www.adweek.com/agencies/jury-nominations-open-for-2027-adweek-awards/",
-          "postedAt": "2026-09-10T11:54:36.000Z"
-        },
-        {
-          "id": "om_343ddc628d",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Warner Bros. Discovery is embracing youth to hype the Basketball World Cup",
-          "url": "https://www.marketingbrew.com/stories/warner-bros-discovery-basketball-world-cup?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-10T11:00:00.000Z"
-        },
-        {
-          "id": "om_58604170a8",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Mr. Pibb was the fastest growing brand of the year: report",
-          "url": "https://www.marketingbrew.com/stories/mr-pibb-fastest-growing-brand-morning-consult-report?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-09T18:02:18.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-11T04:38:26.672Z",
+      "lastUpdated": "2026-09-11T16:26:54.195Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
