@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-11T16:26:51.692Z",
+      "lastUpdated": "2026-09-12T04:32:17.890Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-11T16:26:53.060Z",
+      "lastUpdated": "2026-09-12T04:32:19.682Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -552,12 +552,28 @@
           "postedAt": "2026-09-11T15:04:00.000Z"
         },
         {
+          "id": "om_b12b3d0cca",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "AI Buying Platforms Will Manage 27% of U.S. Ad Spend by 2030: Report",
+          "url": "https://www.adweek.com/agencies/ai-buying-platforms-will-manage-27-of-us-ad-spend-by-2030-report/",
+          "postedAt": "2026-09-11T14:36:08.000Z"
+        },
+        {
           "id": "om_2148bc7b3b",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Hilton CMO Mark Weinstein steps down",
           "url": "https://www.marketingdive.com/news/hilton-cmo-mark-weinstein-steps-down/830161/",
           "postedAt": "2026-09-11T14:34:00.000Z"
+        },
+        {
+          "id": "om_eb52c8614c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Brandweek Returns to Atlanta With Starbucks, Crocs, Mattel, Coca-Cola, and More",
+          "url": "https://www.adweek.com/brand-marketing/brandweek-returns-to-atlanta-with-starbucks-crocs-mattel-coca-cola-and-more/",
+          "postedAt": "2026-09-11T14:19:31.000Z"
         },
         {
           "id": "om_642b8783f0",
@@ -600,28 +616,12 @@
           "postedAt": "2026-09-11T06:00:00.000Z"
         },
         {
-          "id": "om_201dc06f5b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 13 Campaigns That Caught Our Eye, From Dunkin’ to Apple",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-13-campaigns-that-caught-our-eye-from-dunkin-to-apple/",
-          "postedAt": "2026-09-11T06:00:00.000Z"
-        },
-        {
           "id": "om_8e2bb47760",
           "source": "TechCrunch",
           "lang": "en",
           "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
           "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
           "postedAt": "2026-09-10T20:57:30.000Z"
-        },
-        {
-          "id": "om_9efa78ed73",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "New Filings Suggest Sony Proactively Shared Internal WPP Rebate Probe in Whistleblower Case",
-          "url": "https://www.adweek.com/agencies/new-filings-suggest-sony-proactively-shared-internal-wpp-rebate-probe-in-whistleblower-case/",
-          "postedAt": "2026-09-10T17:23:14.000Z"
         },
         {
           "id": "om_f8b645a046",
@@ -632,28 +632,12 @@
           "postedAt": "2026-09-10T17:15:00.000Z"
         },
         {
-          "id": "om_677c3fdaf6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How to Build an AI Dashboard That Makes Your Case for You",
-          "url": "https://www.adweek.com/brand-marketing/how-to-build-an-ai-dashboard-that-makes-your-case-for-you/",
-          "postedAt": "2026-09-10T16:49:07.000Z"
-        },
-        {
           "id": "om_12a825ab49",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Macy’s plows tariff refunds into its rebound",
           "url": "https://www.retaildive.com/news/macys-invests-tariff-refunds-turnaround-Q2-earnings-sales-growth/830009/",
           "postedAt": "2026-09-10T16:20:00.000Z"
-        },
-        {
-          "id": "om_c8af941cf6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Mark Weinstein Steps Down as Hilton CMO",
-          "url": "https://www.adweek.com/brand-marketing/mark-weinstein-steps-down-as-hilton-cmo/",
-          "postedAt": "2026-09-10T16:11:47.000Z"
         },
         {
           "id": "om_c72aedf119",
@@ -670,10 +654,26 @@
           "title": "Target introduces AI-powered photo search, review features",
           "url": "https://www.retaildive.com/news/target-introduces-ai-powered-photo-search-review-features/830041/",
           "postedAt": "2026-09-10T15:48:00.000Z"
+        },
+        {
+          "id": "om_eedffd74b9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: YouTube expands Watch With to more creators",
+          "url": "https://www.marketingdive.com/news/sociable-youtube-expands-watch-with-to-more-creators/830037/",
+          "postedAt": "2026-09-10T14:32:00.000Z"
+        },
+        {
+          "id": "om_540eff1309",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Johnsonville puts sausage on the ballot to cut through election ads",
+          "url": "https://www.marketingdive.com/news/johnsonville-puts-sausage-on-the-ballot-to-cut-through-election-ads/829950/",
+          "postedAt": "2026-09-10T13:31:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-11T16:26:54.195Z",
+      "lastUpdated": "2026-09-12T04:32:21.680Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
