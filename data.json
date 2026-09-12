@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-12T04:32:17.890Z",
+      "lastUpdated": "2026-09-12T15:30:44.794Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-12T04:32:19.682Z",
+      "lastUpdated": "2026-09-12T15:30:46.336Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -511,6 +511,14 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_07e30d1ae0",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Revolut confirms customer data breach through fake government requests",
+          "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+          "postedAt": "2026-09-12T14:40:00.000Z"
+        },
         {
           "id": "om_bd7dff8f81",
           "source": "Retail Dive",
@@ -662,18 +670,10 @@
           "title": "Sociable: YouTube expands Watch With to more creators",
           "url": "https://www.marketingdive.com/news/sociable-youtube-expands-watch-with-to-more-creators/830037/",
           "postedAt": "2026-09-10T14:32:00.000Z"
-        },
-        {
-          "id": "om_540eff1309",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Johnsonville puts sausage on the ballot to cut through election ads",
-          "url": "https://www.marketingdive.com/news/johnsonville-puts-sausage-on-the-ballot-to-cut-through-election-ads/829950/",
-          "postedAt": "2026-09-10T13:31:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-12T04:32:21.680Z",
+      "lastUpdated": "2026-09-12T15:30:47.706Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
