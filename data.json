@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-14T04:53:58.110Z",
+      "lastUpdated": "2026-09-14T18:04:24.455Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_3c659e3145",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
+          "postedAt": "2026-09-14T15:03:48.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_342cc9381b",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
+          "url": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
+          "postedAt": "2026-09-14T12:04:39.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_8803589aab",
           "source": "Lenny's Podcast",
@@ -339,22 +355,6 @@
           "postedAt": "2026-09-02T12:03:39.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_e821092777",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How to turn your AI into a world-class designer",
-          "url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
-          "postedAt": "2026-09-01T12:45:59.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_99c9d79be6",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
-          "postedAt": "2026-08-31T15:01:58.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_b82a5408d9",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-14T04:53:59.816Z",
+      "lastUpdated": "2026-09-14T18:04:25.971Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,168 +512,168 @@
       },
       "articles": [
         {
-          "id": "om_07e30d1ae0",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Revolut confirms customer data breach through fake government requests",
-          "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-          "postedAt": "2026-09-12T14:40:00.000Z"
-        },
-        {
-          "id": "om_bd7dff8f81",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Reformation charts path to double store fleet in 5 years",
-          "url": "https://www.retaildive.com/news/reformation-first-earnings-double-store-fleet-five-years/830162/",
-          "postedAt": "2026-09-11T16:03:00.000Z"
-        },
-        {
-          "id": "om_a960810be7",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Destination XL maps out a turnaround plan",
-          "url": "https://www.retaildive.com/news/destination-xl-turnaround-plan-second-quarter/830143/",
-          "postedAt": "2026-09-11T15:29:00.000Z"
-        },
-        {
-          "id": "om_a0efb3f3c1",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "After demise of Joann locations, fabric is now in 90% of Michaels stores",
-          "url": "https://www.retaildive.com/news/michaels-fabric-ninety-percent-stores-joann-bankruptcy/830039/",
-          "postedAt": "2026-09-11T15:13:00.000Z"
-        },
-        {
-          "id": "om_84d8c26226",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Cadbury pairs crystal clutch with comedy series for major US campaign",
-          "url": "https://www.marketingdive.com/news/cadbury-pairs-crystal-clutch-with-comedy-series-for-major-us-campaign/830112/",
-          "postedAt": "2026-09-11T15:08:00.000Z"
-        },
-        {
-          "id": "om_0f8b60ca7c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Weekly Closeout: Chewy’s sales jump and a retail exec turns politician",
-          "url": "https://www.retaildive.com/news/chewys-sales-jump-hudsons-bay-exec-rhode-island-governor/830127/",
-          "postedAt": "2026-09-11T15:04:00.000Z"
-        },
-        {
-          "id": "om_b12b3d0cca",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "AI Buying Platforms Will Manage 27% of U.S. Ad Spend by 2030: Report",
-          "url": "https://www.adweek.com/agencies/ai-buying-platforms-will-manage-27-of-us-ad-spend-by-2030-report/",
-          "postedAt": "2026-09-11T14:36:08.000Z"
-        },
-        {
-          "id": "om_2148bc7b3b",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Hilton CMO Mark Weinstein steps down",
-          "url": "https://www.marketingdive.com/news/hilton-cmo-mark-weinstein-steps-down/830161/",
-          "postedAt": "2026-09-11T14:34:00.000Z"
-        },
-        {
-          "id": "om_eb52c8614c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Brandweek Returns to Atlanta With Starbucks, Crocs, Mattel, Coca-Cola, and More",
-          "url": "https://www.adweek.com/brand-marketing/brandweek-returns-to-atlanta-with-starbucks-crocs-mattel-coca-cola-and-more/",
-          "postedAt": "2026-09-11T14:19:31.000Z"
-        },
-        {
-          "id": "om_642b8783f0",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Old Navy’s MrBeast deal boosts engagement amid bigger bet on creators",
-          "url": "https://www.marketingdive.com/news/old-navys-mrbeast-deal-boosts-engagement-amid-bigger-bet-on-creators/830100/",
-          "postedAt": "2026-09-11T13:00:00.000Z"
-        },
-        {
-          "id": "om_2c0f71114e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Campaign Trail: Cheez-It convenes Couch Committee for college football",
-          "url": "https://www.marketingdive.com/news/campaign-trail-cheez-it-convenes-couch-committee-for-college-football/830011/",
-          "postedAt": "2026-09-11T12:00:00.000Z"
-        },
-        {
-          "id": "om_676aecdb1a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "7 Marketer Moves to Know About This Week: Hilton, Accenture, Boston Beer Co. and More",
-          "url": "https://www.adweek.com/brand-marketing/7-marketer-moves-to-know-about-this-week-hilton-accenture-boston-beer-co-and-more/",
-          "postedAt": "2026-09-11T06:23:58.000Z"
-        },
-        {
-          "id": "om_1825a67736",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Twenty-Five Years After 9/11, Lower Manhattan Is Both a Tribute and a Promise",
-          "url": "https://www.adweek.com/agencies/world-trade-center-911-lower-manhattan-tribute-promise/",
-          "postedAt": "2026-09-11T06:00:00.000Z"
-        },
-        {
-          "id": "om_2fa1520957",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Retail Roundup: Amazon Befriends OpenAI, and Walmart’s Advertising Ambitions Grow",
-          "url": "https://www.adweek.com/commerce/retail-roundup-amazon-befriends-openai-and-walmarts-advertising-ambitions-grow/",
-          "postedAt": "2026-09-11T06:00:00.000Z"
-        },
-        {
-          "id": "om_f8b645a046",
+          "id": "om_7bdf8d8ec5",
           "source": "Marketing Brew",
           "lang": "en",
-          "title": "The secret brine behind Grillo’s online success",
-          "url": "https://www.marketingbrew.com/stories/grillos-pickles-social-media-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-10T17:15:00.000Z"
+          "title": "Coworking with Erin Hutchinson",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-erin-hutchinson?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-14T17:35:35.000Z"
         },
         {
-          "id": "om_12a825ab49",
-          "source": "Retail Dive",
+          "id": "om_8ee3050f86",
+          "source": "TechCrunch",
           "lang": "en",
-          "title": "Macy’s plows tariff refunds into its rebound",
-          "url": "https://www.retaildive.com/news/macys-invests-tariff-refunds-turnaround-Q2-earnings-sales-growth/830009/",
-          "postedAt": "2026-09-10T16:20:00.000Z"
+          "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+          "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+          "postedAt": "2026-09-14T17:00:00.000Z"
         },
         {
-          "id": "om_c72aedf119",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "American Eagle falls flat with women, again",
-          "url": "https://www.retaildive.com/news/american-eagle-falls-flat-women-denim-sales-earnings/830043/",
-          "postedAt": "2026-09-10T16:00:00.000Z"
-        },
-        {
-          "id": "om_601a17631a",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target introduces AI-powered photo search, review features",
-          "url": "https://www.retaildive.com/news/target-introduces-ai-powered-photo-search-review-features/830041/",
-          "postedAt": "2026-09-10T15:48:00.000Z"
-        },
-        {
-          "id": "om_eedffd74b9",
+          "id": "om_bdc59f3f66",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Sociable: YouTube expands Watch With to more creators",
-          "url": "https://www.marketingdive.com/news/sociable-youtube-expands-watch-with-to-more-creators/830037/",
-          "postedAt": "2026-09-10T14:32:00.000Z"
+          "title": "The AI content tsunami: Creation is the easy part",
+          "url": "https://www.marketingdive.com/spons/the-ai-content-tsunami-creation-is-the-easy-part/830184/",
+          "postedAt": "2026-09-14T16:06:00.000Z"
         },
         {
-          "id": "om_540eff1309",
+          "id": "om_9f58d893be",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Teens start to trust AI recommendations more than friends, parents",
+          "url": "https://www.retaildive.com/news/teens-ai-shopping-product-recommendations-trust/830277/",
+          "postedAt": "2026-09-14T15:51:00.000Z"
+        },
+        {
+          "id": "om_0f6abe0b60",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Best Buy launches holiday gifting center earlier than ever",
+          "url": "https://www.retaildive.com/news/best-buy-early-holiday-gifting-center/830274/",
+          "postedAt": "2026-09-14T15:13:00.000Z"
+        },
+        {
+          "id": "om_d16921142f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "FedEx launches Shopify app to combat surprise import charges",
+          "url": "https://www.retaildive.com/news/fedex-launches-shopify-app-to-combat-surprise-import-charges/830262/",
+          "postedAt": "2026-09-14T14:45:00.000Z"
+        },
+        {
+          "id": "om_25d3808fe9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Kohl’s turns to Babies R Us as Sephora falters",
+          "url": "https://www.retaildive.com/news/kohls-expands-babies-r-us-shops-sephora-falters/830256/",
+          "postedAt": "2026-09-14T14:43:00.000Z"
+        },
+        {
+          "id": "om_b2d9b7a0bb",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Johnsonville puts sausage on the ballot to cut through election ads",
-          "url": "https://www.marketingdive.com/news/johnsonville-puts-sausage-on-the-ballot-to-cut-through-election-ads/829950/",
-          "postedAt": "2026-09-10T13:31:00.000Z"
+          "title": "Googles upgrades Meridian with agentic AI, upper-funnel capabilities",
+          "url": "https://www.marketingdive.com/news/googles-upgrades-meridian-with-agentic-ai-upper-funnel-capabilities/830253/",
+          "postedAt": "2026-09-14T14:24:00.000Z"
+        },
+        {
+          "id": "om_4e2ac87508",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How the New York Jets extends OOH marketing for better storytelling",
+          "url": "https://www.marketingdive.com/news/how-the-new-york-jets-extends-ooh-marketing-for-better-storytelling/830049/",
+          "postedAt": "2026-09-14T14:00:00.000Z"
+        },
+        {
+          "id": "om_12f93b80f0",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Instacart, Shipt launch AI-powered shopping assistants",
+          "url": "https://www.retaildive.com/news/instacart-shipt-launch-ai-powered-shopping-assistants/830092/",
+          "postedAt": "2026-09-14T13:53:00.000Z"
+        },
+        {
+          "id": "om_d93fa08fb3",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Why SoHo is still a retail favorite",
+          "url": "https://www.retaildive.com/news/soho-new-york-retail/826801/",
+          "postedAt": "2026-09-14T13:14:00.000Z"
+        },
+        {
+          "id": "om_38dced7511",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "IHOP bites into little treat trend with Katseye-soundtracked campaign",
+          "url": "https://www.marketingdive.com/news/ihop-bites-into-little-treat-trend-with-katseye-soundtracked-campaign/830014/",
+          "postedAt": "2026-09-14T12:00:00.000Z"
+        },
+        {
+          "id": "om_267fa18d54",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Columbia’s marketing breaks through with fax machines, flat Earth",
+          "url": "https://www.marketingdive.com/news/how-columbias-marketing-breaks-through-with-fax-machines-flat-earth/829991/",
+          "postedAt": "2026-09-14T12:00:00.000Z"
+        },
+        {
+          "id": "om_ddd44466d2",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "X and Samba team up to bring outcomes measurement offering to entertainment marketers",
+          "url": "https://www.marketingbrew.com/stories/x-samba-outcomes-measurement-offerings-entertainment-marketers?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-14T12:00:00.000Z"
+        },
+        {
+          "id": "om_253f942a25",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "One Year Post-American Eagle Scandal, Sydney Sweeney Sparks Ire by Going Naked for Novig",
+          "url": "https://www.adweek.com/brand-marketing/one-year-post-american-eagle-scandal-sydney-sweeney-sparks-ire-by-going-naked-for-novig/",
+          "postedAt": "2026-09-14T11:48:15.000Z"
+        },
+        {
+          "id": "om_36ae8e246d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Kate McKinnon Is an Evil CEO in Sequel to Zoom’s Bowen Yang-Led Brand Reset",
+          "url": "https://www.adweek.com/brand-marketing/kate-mckinnon-is-an-evil-ceo-in-sequel-to-zooms-bowen-yang-led-brand-reset/",
+          "postedAt": "2026-09-14T10:01:42.000Z"
+        },
+        {
+          "id": "om_ff49961734",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Sonos’ New Brand Story Aims to Win Back Trust Two Years After Botched App Update",
+          "url": "https://www.adweek.com/creativity/sonos-new-brand-story-aims-to-win-back-trust-two-years-after-botched-app-update/",
+          "postedAt": "2026-09-14T09:00:00.000Z"
+        },
+        {
+          "id": "om_808024ef96",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "What separates top self-service performers from laggards?",
+          "url": "https://www.retaildive.com/spons/what-separates-top-self-service-performers-from-laggards/829607/",
+          "postedAt": "2026-09-14T09:00:00.000Z"
+        },
+        {
+          "id": "om_86454d5db2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Retail foot traffic doesn’t equal sales",
+          "url": "https://www.retaildive.com/spons/retail-foot-traffic-doesnt-equal-sales/829880/",
+          "postedAt": "2026-09-14T09:00:00.000Z"
+        },
+        {
+          "id": "om_3047b88917",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Liz Rutgersson Named CEO of Stagwell’s Assembly to Build ‘Agency for the Future’",
+          "url": "https://www.adweek.com/agencies/liz-rutgersson-named-ceo-of-stagwells-assembly-to-build-agency-for-the-future/",
+          "postedAt": "2026-09-14T08:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-14T04:54:01.367Z",
+      "lastUpdated": "2026-09-14T18:04:28.434Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
