@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-15T04:52:33.998Z",
+      "lastUpdated": "2026-09-15T16:57:50.625Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_4fac77afb4",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "60+ new creative growth ideas",
+          "url": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
+          "postedAt": "2026-09-15T12:45:28.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_3c659e3145",
           "source": "Lenny's Podcast",
@@ -347,14 +355,6 @@
           "postedAt": "2026-09-03T19:34:20.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_f9f7f490df",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Grok Bot vs. OpenClaw: How I replaced my entire agent stack",
-          "url": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
-          "postedAt": "2026-09-02T12:03:39.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_b82a5408d9",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-15T04:52:35.647Z",
+      "lastUpdated": "2026-09-15T16:57:51.971Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,142 @@
       },
       "articles": [
         {
+          "id": "om_fdd2803c67",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Old Navy’s new subbrand is a big bet on activewear",
+          "url": "https://www.retaildive.com/news/old-navy-sport-activewear-new-subbrand/830384/",
+          "postedAt": "2026-09-15T16:14:00.000Z"
+        },
+        {
+          "id": "om_42d167785d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Dueling Amazon, Target October sales events return",
+          "url": "https://www.retaildive.com/news/dueling-amazon-target-october-sales-events-return/830402/",
+          "postedAt": "2026-09-15T15:56:00.000Z"
+        },
+        {
+          "id": "om_73c01e9f01",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Wonder scores a $425 million partnership with DoorDash as it builds its food empire",
+          "url": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
+          "postedAt": "2026-09-15T15:21:10.000Z"
+        },
+        {
+          "id": "om_e41f069c79",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "DSW to test affordable luxury shop-in-shops",
+          "url": "https://www.retaildive.com/news/dsw-tests-the-edit-store-concept-shop-in-shop/830406/",
+          "postedAt": "2026-09-15T15:09:00.000Z"
+        },
+        {
+          "id": "om_e2761eb62e",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "At TelevisaUnivision’s PJ Fest, NYX went dancing with its Latina audience",
+          "url": "https://www.marketingbrew.com/stories/televisaunivision-pj-fest-nyx?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-15T15:06:12.000Z"
+        },
+        {
+          "id": "om_c34a54773d",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+          "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+          "postedAt": "2026-09-15T14:42:37.000Z"
+        },
+        {
+          "id": "om_22ea7adfa3",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why Lowe’s CMO Jen Wilson added digital commerce to her portfolio",
+          "url": "https://www.marketingdive.com/news/why-lowes-cmo-jen-wilson-added-digital-commerce-to-her-portfolio/830308/",
+          "postedAt": "2026-09-15T14:05:00.000Z"
+        },
+        {
+          "id": "om_6e3a316be8",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Why Bonobos’ fall campaign centers on episodic content with Jack Quaid",
+          "url": "https://www.retaildive.com/news/why-bonobos-fall-campaign-centers-on-episodic-content-with-jack-quaid/830071/",
+          "postedAt": "2026-09-15T14:03:00.000Z"
+        },
+        {
+          "id": "om_70a9f61e29",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target names chief marketing and guest experience officer",
+          "url": "https://www.retaildive.com/news/target-hires-ex-hilton-cmo-as-chief-marketing-and-guest-experience-officer/830355/",
+          "postedAt": "2026-09-15T13:51:00.000Z"
+        },
+        {
+          "id": "om_bdbf336163",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Old Navy’s MrBeast deal boosts engagement amid bigger bet on creators",
+          "url": "https://www.retaildive.com/news/old-navys-mrbeast-marketing-deal-boosts-engagement/830255/",
+          "postedAt": "2026-09-15T13:00:00.000Z"
+        },
+        {
+          "id": "om_2d49f78890",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Jersey Mike’s kicks off NFL campaign as digital marketing spend surges",
+          "url": "https://www.marketingdive.com/news/jersey-mikes-kicks-off-nfl-campaign-as-digital-marketing-spend-surges/830330/",
+          "postedAt": "2026-09-15T12:50:00.000Z"
+        },
+        {
+          "id": "om_ce2de48e74",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Climate Publisher Heatmap Turned Data Centers Into Triple-Digit Growth",
+          "url": "https://www.adweek.com/media/climate-publisher-heatmap-turned-data-centers-into-triple-digit-growth/",
+          "postedAt": "2026-09-15T12:22:18.000Z"
+        },
+        {
+          "id": "om_132596aaf3",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "LA28 Looks to Bring Golden Opportunity to Brands With New Offerings, Massive Viewership",
+          "url": "https://www.adweek.com/brand-marketing/la28-brands-new-offerings-massive-viewership/",
+          "postedAt": "2026-09-15T11:22:39.000Z"
+        },
+        {
+          "id": "om_ee76fee25a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Carter’s is refreshing its brand to reach Gen Z, millennial parents",
+          "url": "https://www.marketingdive.com/news/how-carters-is-refreshing-its-brand-to-reach-gen-z-millennial-parents/830313/",
+          "postedAt": "2026-09-15T10:00:00.000Z"
+        },
+        {
+          "id": "om_fa826b9f1a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Retail Giant Simon Bets on Real-World Connection to Ignite Mall Culture",
+          "url": "https://www.adweek.com/creativity/retail-giant-simon-bets-on-real-world-connection-to-revive-mall-culture/",
+          "postedAt": "2026-09-15T09:00:00.000Z"
+        },
+        {
+          "id": "om_fa5ddceae7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Meet The AI Tool Helping Brands Like Benefit Cosmetics Unlock a New Kind of Creator",
+          "url": "https://www.adweek.com/brand-marketing/meet-the-ai-tool-helping-brands-like-benefit-cosmetics-unlock-a-new-kind-of-creator/",
+          "postedAt": "2026-09-15T09:00:00.000Z"
+        },
+        {
+          "id": "om_a67d9a0a34",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "When Ads Go Wrong, Women Are Left Holding the Bag",
+          "url": "https://www.adweek.com/brand-marketing/four-female-endorsers-left-holding-the-bag-for-ads-gone-wrong/",
+          "postedAt": "2026-09-15T05:06:13.000Z"
+        },
+        {
           "id": "om_8d0641dea5",
           "source": "Adweek",
           "lang": "en",
@@ -534,146 +670,10 @@
           "title": "Target hires ex-Hilton CMO as chief marketing and guest experience officer",
           "url": "https://www.marketingdive.com/news/target-hires-ex-hilton-cmo-as-chief-marketing-and-guest-experience-officer/830353/",
           "postedAt": "2026-09-14T20:37:14.000Z"
-        },
-        {
-          "id": "om_0410dea45e",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
-          "url": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
-          "postedAt": "2026-09-14T19:30:58.000Z"
-        },
-        {
-          "id": "om_4708e8898c",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "What MLS’s CMO learned from the World Cup summer",
-          "url": "https://www.marketingbrew.com/stories/mls-cmo-world-cup-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-14T18:50:27.000Z"
-        },
-        {
-          "id": "om_f5f567e59f",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Amazon Prime Video takes on TikTok with short-form news clips",
-          "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
-          "postedAt": "2026-09-14T18:14:29.000Z"
-        },
-        {
-          "id": "om_7bdf8d8ec5",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Coworking with Erin Hutchinson",
-          "url": "https://www.marketingbrew.com/stories/coworking-with-erin-hutchinson?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-14T17:35:35.000Z"
-        },
-        {
-          "id": "om_8ee3050f86",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-          "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-          "postedAt": "2026-09-14T17:00:00.000Z"
-        },
-        {
-          "id": "om_557fbbe93d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Mark Weinstein Joins Target as CMO and Guest Experience Officer",
-          "url": "https://www.adweek.com/brand-marketing/mark-weinstein-joins-target-cmo-guest-experience-officer/",
-          "postedAt": "2026-09-14T16:30:00.000Z"
-        },
-        {
-          "id": "om_bdc59f3f66",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "The AI content tsunami: Creation is the easy part",
-          "url": "https://www.marketingdive.com/spons/the-ai-content-tsunami-creation-is-the-easy-part/830184/",
-          "postedAt": "2026-09-14T16:06:00.000Z"
-        },
-        {
-          "id": "om_9f58d893be",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Teens start to trust AI recommendations more than friends, parents",
-          "url": "https://www.retaildive.com/news/teens-ai-shopping-product-recommendations-trust/830277/",
-          "postedAt": "2026-09-14T15:51:00.000Z"
-        },
-        {
-          "id": "om_0f6abe0b60",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Best Buy launches holiday gifting center earlier than ever",
-          "url": "https://www.retaildive.com/news/best-buy-early-holiday-gifting-center/830274/",
-          "postedAt": "2026-09-14T15:13:00.000Z"
-        },
-        {
-          "id": "om_d16921142f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "FedEx launches Shopify app to combat surprise import charges",
-          "url": "https://www.retaildive.com/news/fedex-launches-shopify-app-to-combat-surprise-import-charges/830262/",
-          "postedAt": "2026-09-14T14:45:00.000Z"
-        },
-        {
-          "id": "om_25d3808fe9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Kohl’s turns to Babies R Us as Sephora falters",
-          "url": "https://www.retaildive.com/news/kohls-expands-babies-r-us-shops-sephora-falters/830256/",
-          "postedAt": "2026-09-14T14:43:00.000Z"
-        },
-        {
-          "id": "om_b2d9b7a0bb",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Googles upgrades Meridian with agentic AI, upper-funnel capabilities",
-          "url": "https://www.marketingdive.com/news/googles-upgrades-meridian-with-agentic-ai-upper-funnel-capabilities/830253/",
-          "postedAt": "2026-09-14T14:24:00.000Z"
-        },
-        {
-          "id": "om_4e2ac87508",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How the New York Jets extends OOH marketing for better storytelling",
-          "url": "https://www.marketingdive.com/news/how-the-new-york-jets-extends-ooh-marketing-for-better-storytelling/830049/",
-          "postedAt": "2026-09-14T14:00:00.000Z"
-        },
-        {
-          "id": "om_12f93b80f0",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Instacart, Shipt launch AI-powered shopping assistants",
-          "url": "https://www.retaildive.com/news/instacart-shipt-launch-ai-powered-shopping-assistants/830092/",
-          "postedAt": "2026-09-14T13:53:00.000Z"
-        },
-        {
-          "id": "om_d93fa08fb3",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Why SoHo is still a retail favorite",
-          "url": "https://www.retaildive.com/news/soho-new-york-retail/826801/",
-          "postedAt": "2026-09-14T13:14:00.000Z"
-        },
-        {
-          "id": "om_38dced7511",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "IHOP bites into little treat trend with Katseye-soundtracked campaign",
-          "url": "https://www.marketingdive.com/news/ihop-bites-into-little-treat-trend-with-katseye-soundtracked-campaign/830014/",
-          "postedAt": "2026-09-14T12:00:00.000Z"
-        },
-        {
-          "id": "om_267fa18d54",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Columbia’s marketing breaks through with fax machines, flat Earth",
-          "url": "https://www.marketingdive.com/news/how-columbias-marketing-breaks-through-with-fax-machines-flat-earth/829991/",
-          "postedAt": "2026-09-14T12:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-15T04:52:37.458Z",
+      "lastUpdated": "2026-09-15T16:57:52.965Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
