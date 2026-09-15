@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-14T18:04:24.455Z",
+      "lastUpdated": "2026-09-15T04:52:33.998Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-14T18:04:25.971Z",
+      "lastUpdated": "2026-09-15T04:52:35.647Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,54 @@
       },
       "articles": [
         {
+          "id": "om_8d0641dea5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Mariska Hargitay Wins, Brands Got Involved Early, and More Emmys Takeaways",
+          "url": "https://www.adweek.com/tvnewser/mariska-hargitay-wins-emmys-takeaways/",
+          "postedAt": "2026-09-15T00:07:22.000Z"
+        },
+        {
+          "id": "om_76d6c8dc6e",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Reddit shares holiday shopping insights",
+          "url": "https://www.socialmediatoday.com/news/reddit-shares-holiday-shopping-insights/830363/",
+          "postedAt": "2026-09-14T23:11:45.000Z"
+        },
+        {
+          "id": "om_e31afcf423",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Target hires ex-Hilton CMO as chief marketing and guest experience officer",
+          "url": "https://www.marketingdive.com/news/target-hires-ex-hilton-cmo-as-chief-marketing-and-guest-experience-officer/830353/",
+          "postedAt": "2026-09-14T20:37:14.000Z"
+        },
+        {
+          "id": "om_0410dea45e",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "The best deals from Nintendo’s ‘customer appreciation’ sale",
+          "url": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
+          "postedAt": "2026-09-14T19:30:58.000Z"
+        },
+        {
+          "id": "om_4708e8898c",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "What MLS’s CMO learned from the World Cup summer",
+          "url": "https://www.marketingbrew.com/stories/mls-cmo-world-cup-interview?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-14T18:50:27.000Z"
+        },
+        {
+          "id": "om_f5f567e59f",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+          "url": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
+          "postedAt": "2026-09-14T18:14:29.000Z"
+        },
+        {
           "id": "om_7bdf8d8ec5",
           "source": "Marketing Brew",
           "lang": "en",
@@ -526,6 +574,14 @@
           "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
           "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
           "postedAt": "2026-09-14T17:00:00.000Z"
+        },
+        {
+          "id": "om_557fbbe93d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Mark Weinstein Joins Target as CMO and Guest Experience Officer",
+          "url": "https://www.adweek.com/brand-marketing/mark-weinstein-joins-target-cmo-guest-experience-officer/",
+          "postedAt": "2026-09-14T16:30:00.000Z"
         },
         {
           "id": "om_bdc59f3f66",
@@ -614,66 +670,10 @@
           "title": "How Columbia’s marketing breaks through with fax machines, flat Earth",
           "url": "https://www.marketingdive.com/news/how-columbias-marketing-breaks-through-with-fax-machines-flat-earth/829991/",
           "postedAt": "2026-09-14T12:00:00.000Z"
-        },
-        {
-          "id": "om_ddd44466d2",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "X and Samba team up to bring outcomes measurement offering to entertainment marketers",
-          "url": "https://www.marketingbrew.com/stories/x-samba-outcomes-measurement-offerings-entertainment-marketers?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-14T12:00:00.000Z"
-        },
-        {
-          "id": "om_253f942a25",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "One Year Post-American Eagle Scandal, Sydney Sweeney Sparks Ire by Going Naked for Novig",
-          "url": "https://www.adweek.com/brand-marketing/one-year-post-american-eagle-scandal-sydney-sweeney-sparks-ire-by-going-naked-for-novig/",
-          "postedAt": "2026-09-14T11:48:15.000Z"
-        },
-        {
-          "id": "om_36ae8e246d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Kate McKinnon Is an Evil CEO in Sequel to Zoom’s Bowen Yang-Led Brand Reset",
-          "url": "https://www.adweek.com/brand-marketing/kate-mckinnon-is-an-evil-ceo-in-sequel-to-zooms-bowen-yang-led-brand-reset/",
-          "postedAt": "2026-09-14T10:01:42.000Z"
-        },
-        {
-          "id": "om_ff49961734",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Sonos’ New Brand Story Aims to Win Back Trust Two Years After Botched App Update",
-          "url": "https://www.adweek.com/creativity/sonos-new-brand-story-aims-to-win-back-trust-two-years-after-botched-app-update/",
-          "postedAt": "2026-09-14T09:00:00.000Z"
-        },
-        {
-          "id": "om_808024ef96",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "What separates top self-service performers from laggards?",
-          "url": "https://www.retaildive.com/spons/what-separates-top-self-service-performers-from-laggards/829607/",
-          "postedAt": "2026-09-14T09:00:00.000Z"
-        },
-        {
-          "id": "om_86454d5db2",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Retail foot traffic doesn’t equal sales",
-          "url": "https://www.retaildive.com/spons/retail-foot-traffic-doesnt-equal-sales/829880/",
-          "postedAt": "2026-09-14T09:00:00.000Z"
-        },
-        {
-          "id": "om_3047b88917",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Liz Rutgersson Named CEO of Stagwell’s Assembly to Build ‘Agency for the Future’",
-          "url": "https://www.adweek.com/agencies/liz-rutgersson-named-ceo-of-stagwells-assembly-to-build-agency-for-the-future/",
-          "postedAt": "2026-09-14T08:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-14T18:04:28.434Z",
+      "lastUpdated": "2026-09-15T04:52:37.458Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
