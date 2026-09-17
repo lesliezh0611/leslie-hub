@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-17T04:50:55.376Z",
+      "lastUpdated": "2026-09-17T16:58:47.908Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -361,14 +361,6 @@
           "topic": "🧠 Community Wisdom: Driving AI adoption when habits are the bottleneck, leveling up from APM to a mid-level PM role, converting a wave of new users to subscription, and more",
           "url": "https://www.lennysnewsletter.com/p/community-wisdom-driving-ai-adoption",
           "postedAt": "2026-09-05T17:00:46.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_b82a5408d9",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "Steve Jobs in Exile",
-          "url": "https://fs.blog/knowledge-project-podcast/geoffrey-cain/",
-          "postedAt": "2026-08-27T09:50:00.000Z"
         }
       ],
       "books": [
@@ -419,10 +411,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-17T04:50:57.128Z",
+      "lastUpdated": "2026-09-17T16:58:49.418Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -512,6 +504,118 @@
       },
       "articles": [
         {
+          "id": "om_8128f27064",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Pinterest amps up performance tools, including a visual search product",
+          "url": "https://www.marketingbrew.com/stories/pinterest-visual-search-performance-marketing-tools?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-17T16:24:19.000Z"
+        },
+        {
+          "id": "om_6ab8ee7548",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Jordan Brand debuts training equipment line",
+          "url": "https://www.retaildive.com/news/jordan-brand-debuts-strength-training-equipment-line/830659/",
+          "postedAt": "2026-09-17T16:01:00.000Z"
+        },
+        {
+          "id": "om_80742bc34e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Nike eyes innovation with LVMH board pick",
+          "url": "https://www.retaildive.com/news/nike-adds-lvmh-exec-alexandre-arnault-board-innovation-turnaround/830662/",
+          "postedAt": "2026-09-17T16:00:00.000Z"
+        },
+        {
+          "id": "om_5ed9fbbc36",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon boosts minimum hourly starting wage to $20",
+          "url": "https://www.retaildive.com/news/amazon-boosts-minimum-hourly-starting-wage/830661/",
+          "postedAt": "2026-09-17T15:52:00.000Z"
+        },
+        {
+          "id": "om_4dab3605e0",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Toys R Us accelerates store openings in time for the holidays",
+          "url": "https://www.retaildive.com/news/toys-r-us-accelerates-store-openings-holidays/830637/",
+          "postedAt": "2026-09-17T15:33:00.000Z"
+        },
+        {
+          "id": "om_c37a8abe15",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Wonderful Pistachios spotlights first NIL roster in social campaign",
+          "url": "https://www.marketingdive.com/news/wonderful-pistachios-spotlights-first-nil-roster-in-social-campaign/830629/",
+          "postedAt": "2026-09-17T15:27:00.000Z"
+        },
+        {
+          "id": "om_93365f5d7c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Meta streamlines creator, brand tie-ups with new marketing hub",
+          "url": "https://www.marketingdive.com/news/meta-streamlines-creator-brand-tie-ups-with-new-marketing-hub/830593/",
+          "postedAt": "2026-09-17T15:00:00.000Z"
+        },
+        {
+          "id": "om_b82a8a5347",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How a popular burger drove Applebee’s to double down on cheese",
+          "url": "https://www.marketingdive.com/news/applebees-omcheese-platform-expansion/830642/",
+          "postedAt": "2026-09-17T13:30:00.000Z"
+        },
+        {
+          "id": "om_0a28790d53",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Staples’ CMO on introducing a Hard Button amid bigger B2B push",
+          "url": "https://www.marketingdive.com/news/staples-cmo-on-introducing-a-hard-button-amid-bigger-b2b-push/830611/",
+          "postedAt": "2026-09-17T13:30:00.000Z"
+        },
+        {
+          "id": "om_d6009de4f5",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Grand Theft Auto VI’s soundtrack will feature 34 brand-new tracks",
+          "url": "https://www.theverge.com/entertainment/996831/grand-theft-auto-6-soundtrack",
+          "postedAt": "2026-09-17T13:20:54.000Z"
+        },
+        {
+          "id": "om_9c6bac54c3",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Oscar Health Is Rebranding to Make Health Insurance Feel Human",
+          "url": "https://www.adweek.com/brand-marketing/oscar-health-is-rebranding-to-make-health-insurance-feel-human/",
+          "postedAt": "2026-09-17T12:46:24.000Z"
+        },
+        {
+          "id": "om_65c4c2138d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Siddharth Taparia’s Strategy for Transforming Globally Fragmented JLL Into a Unified Marketing Force",
+          "url": "https://www.adweek.com/brand-marketing/siddharth-taparias-strategy-for-transforming-globally-fragmented-jll-into-a-unified-marketing-force/",
+          "postedAt": "2026-09-17T12:44:35.000Z"
+        },
+        {
+          "id": "om_3374f3e186",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Intuit Credit Karma, Ollie, and 3M Reveal Their Biggest AI Wins and Challenges",
+          "url": "https://www.adweek.com/brand-marketing/intuit-credit-karma-ollie-and-3m-reveal-their-biggest-ai-wins-and-challenges/",
+          "postedAt": "2026-09-17T11:36:19.000Z"
+        },
+        {
+          "id": "om_68aff9a5f0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Fear Is Just Marketing and More Insights From Dr. Bernice King",
+          "url": "https://www.adweek.com/media/fear-is-just-marketing-and-more-insights-from-dr-bernice-king/",
+          "postedAt": "2026-09-17T10:19:01.000Z"
+        },
+        {
           "id": "om_e007848296",
           "source": "Social Media Today",
           "lang": "en",
@@ -558,122 +662,10 @@
           "title": "The Monoculture Is Dead. It’s Time for the Rise of Niche",
           "url": "https://www.adweek.com/brand-marketing/monoculture-dead-niche-communities-bing-chen-gold-house/",
           "postedAt": "2026-09-16T14:50:09.000Z"
-        },
-        {
-          "id": "om_37ad036822",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Coach channels music into fall campaign with Spotify integration, bus tour",
-          "url": "https://www.marketingdive.com/news/coach-channels-music-into-fall-campaign-with-spotify-integration-bus-tour/830501/",
-          "postedAt": "2026-09-16T14:42:00.000Z"
-        },
-        {
-          "id": "om_9c938e0bfd",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Why Lowe’s chief marketer Jen Wilson added digital commerce to her portfolio",
-          "url": "https://www.retaildive.com/news/lowes-chief-marketing-officer-jen-wilson-leads-digital-commerce/830444/",
-          "postedAt": "2026-09-16T14:38:00.000Z"
-        },
-        {
-          "id": "om_529fa63815",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "How Carter’s is refreshing its brand to reach Gen Z, millennial parents",
-          "url": "https://www.retaildive.com/news/carters-refreshing-brand-gen-z-millennial-parents/830443/",
-          "postedAt": "2026-09-16T14:17:00.000Z"
-        },
-        {
-          "id": "om_5f0babe9b7",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "How the retail crime bill could bolster ICE",
-          "url": "https://www.retaildive.com/news/how-the-retail-crime-bill-could-bolster-ice/829731/",
-          "postedAt": "2026-09-16T14:13:00.000Z"
-        },
-        {
-          "id": "om_d632a317a0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why the Fields Good Business Plan Is Anything But Cookie-Cutter",
-          "url": "https://www.adweek.com/brand-marketing/why-fields-good-business-plan-anything-but-cookie-cutter/",
-          "postedAt": "2026-09-16T12:26:46.000Z"
-        },
-        {
-          "id": "om_11e6efba66",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sonos’ brand repositioning trades specs for vibes in hunt for comeback",
-          "url": "https://www.marketingdive.com/news/sonos-brand-repositioning-trades-specs-for-vibes-in-hunt-for-comeback/830462/",
-          "postedAt": "2026-09-16T12:00:00.000Z"
-        },
-        {
-          "id": "om_a1e801ea3a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Reese Witherspoon’s Draper James and Levain Cookies on Building Beyond Their Founders",
-          "url": "https://www.adweek.com/brand-marketing/reese-witherspoons-draper-james-and-levain-cookies-on-building-beyond-their-founders/",
-          "postedAt": "2026-09-16T11:55:04.000Z"
-        },
-        {
-          "id": "om_74b3d6526c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target debuts style-focused apparel for store associates",
-          "url": "https://www.retaildive.com/news/target-style-focused-apparel-store-associates-isaac-mizrahi/830436/",
-          "postedAt": "2026-09-16T11:21:00.000Z"
-        },
-        {
-          "id": "om_aa5fbff34e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Bravo Fan Fest Is Turning Brands Into Bravolebrities",
-          "url": "https://www.adweek.com/convergent-tv/bravo-fan-fest-is-turning-brands-into-bravolebrities/",
-          "postedAt": "2026-09-16T11:00:00.000Z"
-        },
-        {
-          "id": "om_b5d93f0099",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Crocs Became One of TikTok Shop’s Top Sellers",
-          "url": "https://www.adweek.com/brand-marketing/how-crocs-became-one-of-tiktok-shops-top-sellers/",
-          "postedAt": "2026-09-16T10:13:10.000Z"
-        },
-        {
-          "id": "om_d5b81250d9",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok announces featured creators for Hispanic Heritage Month",
-          "url": "https://www.socialmediatoday.com/news/tiktok-announces-featured-creators-for-hispanic-heritage-month/830484/",
-          "postedAt": "2026-09-15T21:07:30.000Z"
-        },
-        {
-          "id": "om_d49d2f3f5c",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Meta adds more creator partnership tools",
-          "url": "https://www.socialmediatoday.com/news/meta-adds-more-creator-partnership-tools/830480/",
-          "postedAt": "2026-09-15T20:48:52.000Z"
-        },
-        {
-          "id": "om_fdd2803c67",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Old Navy’s new subbrand is a big bet on activewear",
-          "url": "https://www.retaildive.com/news/old-navy-sport-activewear-new-subbrand/830384/",
-          "postedAt": "2026-09-15T16:14:00.000Z"
-        },
-        {
-          "id": "om_42d167785d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Dueling Amazon, Target October sales events return",
-          "url": "https://www.retaildive.com/news/dueling-amazon-target-october-sales-events-return/830402/",
-          "postedAt": "2026-09-15T15:56:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-17T04:50:58.907Z",
+      "lastUpdated": "2026-09-17T16:58:50.382Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
