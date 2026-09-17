@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-16T16:53:26.839Z",
+      "lastUpdated": "2026-09-17T04:50:55.376Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lex_fridman_podcast_c19a6bb24b",
+          "source": "Lex Fridman Podcast",
+          "platform": "podcast",
+          "topic": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
+          "url": "https://lexfridman.com/andrew-scull/?utm_source=rss&utm_medium=rss&utm_campaign=andrew-scull",
+          "postedAt": "2026-09-17T00:40:49.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_a558850955",
           "source": "Lenny's Podcast",
@@ -361,14 +369,6 @@
           "topic": "Steve Jobs in Exile",
           "url": "https://fs.blog/knowledge-project-podcast/geoffrey-cain/",
           "postedAt": "2026-08-27T09:50:00.000Z"
-        },
-        {
-          "id": "en_pod_lex_fridman_podcast_b2bd37408b",
-          "source": "Lex Fridman Podcast",
-          "platform": "podcast",
-          "topic": "#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
-          "url": "https://lexfridman.com/dhh-2/?utm_source=rss&utm_medium=rss&utm_campaign=dhh-2",
-          "postedAt": "2026-08-26T21:47:04.000Z"
         }
       ],
       "books": [
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-16T16:53:28.551Z",
+      "lastUpdated": "2026-09-17T04:50:57.128Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,12 +512,52 @@
       },
       "articles": [
         {
+          "id": "om_e007848296",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Report highlights the value of creator-led collabs on Instagram",
+          "url": "https://www.socialmediatoday.com/news/report-highlights-the-value-of-creator-led-collabs-on-instagram/830619/",
+          "postedAt": "2026-09-16T23:04:38.000Z"
+        },
+        {
+          "id": "om_c827b32750",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Noise wants to help everyday people become paid content creators",
+          "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+          "postedAt": "2026-09-16T21:35:00.000Z"
+        },
+        {
+          "id": "om_c2f1d5b9b9",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "LinkedIn offers tips on company targeting via Campaign Manager",
+          "url": "https://www.socialmediatoday.com/news/linkedin-offers-tips-on-company-targeting-via-campaign-manager/830615/",
+          "postedAt": "2026-09-16T21:33:03.000Z"
+        },
+        {
+          "id": "om_ed1d40bb60",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Kim Gravel Wants to Make Live Selling the New Appointment TV",
+          "url": "https://www.adweek.com/commerce/kim-gravel-wants-to-make-live-selling-the-new-appointment-tv/",
+          "postedAt": "2026-09-16T16:48:06.000Z"
+        },
+        {
           "id": "om_af84142bfe",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Allbirds’ IP owner snaps up Nasty Gal for $16M",
           "url": "https://www.retaildive.com/news/allbirds-ip-owner-wsg-brands-buys-nasty-gal-sixteen-million/830520/",
           "postedAt": "2026-09-16T16:02:00.000Z"
+        },
+        {
+          "id": "om_2892d48faf",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Monoculture Is Dead. It’s Time for the Rise of Niche",
+          "url": "https://www.adweek.com/brand-marketing/monoculture-dead-niche-communities-bing-chen-gold-house/",
+          "postedAt": "2026-09-16T14:50:09.000Z"
         },
         {
           "id": "om_37ad036822",
@@ -550,14 +590,6 @@
           "title": "How the retail crime bill could bolster ICE",
           "url": "https://www.retaildive.com/news/how-the-retail-crime-bill-could-bolster-ice/829731/",
           "postedAt": "2026-09-16T14:13:00.000Z"
-        },
-        {
-          "id": "om_7f85b3a63f",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-          "postedAt": "2026-09-16T14:00:00.000Z"
         },
         {
           "id": "om_d632a317a0",
@@ -608,22 +640,6 @@
           "postedAt": "2026-09-16T10:13:10.000Z"
         },
         {
-          "id": "om_186616ece4",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Big Brothers Big Sisters Pitches Bold New Initiative to Get Partners in the Game",
-          "url": "https://www.adweek.com/brand-marketing/big-brothers-big-sisters-game-on-initiative-partners/",
-          "postedAt": "2026-09-16T06:00:00.000Z"
-        },
-        {
-          "id": "om_e5b422d6ac",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "With Engagement Party, CNN Leans Into Culture and Creators",
-          "url": "https://www.adweek.com/media/cnn-engagement-party-audie-cornish-ari-shapiro-creators-culture-brandweek/",
-          "postedAt": "2026-09-16T04:56:47.000Z"
-        },
-        {
           "id": "om_d5b81250d9",
           "source": "Social Media Today",
           "lang": "en",
@@ -654,26 +670,10 @@
           "title": "Dueling Amazon, Target October sales events return",
           "url": "https://www.retaildive.com/news/dueling-amazon-target-october-sales-events-return/830402/",
           "postedAt": "2026-09-15T15:56:00.000Z"
-        },
-        {
-          "id": "om_e41f069c79",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "DSW to test affordable luxury shop-in-shops",
-          "url": "https://www.retaildive.com/news/dsw-tests-the-edit-store-concept-shop-in-shop/830406/",
-          "postedAt": "2026-09-15T15:09:00.000Z"
-        },
-        {
-          "id": "om_e2761eb62e",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "At TelevisaUnivision’s PJ Fest, NYX went dancing with its Latina audience",
-          "url": "https://www.marketingbrew.com/stories/televisaunivision-pj-fest-nyx?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-15T15:06:12.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-16T16:53:29.908Z",
+      "lastUpdated": "2026-09-17T04:50:58.907Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
