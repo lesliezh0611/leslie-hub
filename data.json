@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-17T16:58:47.908Z",
+      "lastUpdated": "2026-09-18T04:41:31.854Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-17T16:58:49.418Z",
+      "lastUpdated": "2026-09-18T04:41:33.535Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,30 @@
       },
       "articles": [
         {
+          "id": "om_d4df3e94d6",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers",
+          "url": "https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/",
+          "postedAt": "2026-09-17T19:15:00.000Z"
+        },
+        {
+          "id": "om_b237fa49f6",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+          "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+          "postedAt": "2026-09-17T17:15:59.000Z"
+        },
+        {
+          "id": "om_aa91e6e95b",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How Sharpie found a way to position pens as an NFL staple",
+          "url": "https://www.marketingbrew.com/stories/sharpie-nfl-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-17T16:58:11.000Z"
+        },
+        {
           "id": "om_8128f27064",
           "source": "Marketing Brew",
           "lang": "en",
@@ -536,6 +560,22 @@
           "postedAt": "2026-09-17T15:52:00.000Z"
         },
         {
+          "id": "om_48044d75a6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Every Man Jack Is Trying to Redefine Modern Masculinity",
+          "url": "https://www.adweek.com/brand-marketing/how-every-man-jack-is-trying-to-redefine-modern-masculinity/",
+          "postedAt": "2026-09-17T15:50:15.000Z"
+        },
+        {
+          "id": "om_0ca1f45462",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK’s Brandweek Moves to Texas in 2027",
+          "url": "https://www.adweek.com/brand-marketing/adweek-brandweek-moves-to-texas-in-2027/",
+          "postedAt": "2026-09-17T15:40:00.000Z"
+        },
+        {
           "id": "om_4dab3605e0",
           "source": "Retail Dive",
           "lang": "en",
@@ -552,12 +592,36 @@
           "postedAt": "2026-09-17T15:27:00.000Z"
         },
         {
+          "id": "om_2196a87f33",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ben Cohen Calls on the Marketing Community to Free Ben & Jerry’s",
+          "url": "https://www.adweek.com/brand-marketing/ben-cohen-calls-on-the-marketing-community-to-free-ben-jerrys/",
+          "postedAt": "2026-09-17T15:16:21.000Z"
+        },
+        {
           "id": "om_93365f5d7c",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Meta streamlines creator, brand tie-ups with new marketing hub",
           "url": "https://www.marketingdive.com/news/meta-streamlines-creator-brand-tie-ups-with-new-marketing-hub/830593/",
           "postedAt": "2026-09-17T15:00:00.000Z"
+        },
+        {
+          "id": "om_db3037d8ac",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Mike’s Hot Honey Found Sweet Success, Unlocking a Spicy New Category",
+          "url": "https://www.adweek.com/brand-marketing/how-mikes-hot-honey-found-sweet-success-new-category/",
+          "postedAt": "2026-09-17T14:32:13.000Z"
+        },
+        {
+          "id": "om_89580b7874",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Coleman Turned a Fake AI Product Into a Marketing Win",
+          "url": "https://www.adweek.com/commerce/how-coleman-turned-a-fake-ai-product-into-a-marketing-win/",
+          "postedAt": "2026-09-17T13:30:22.000Z"
         },
         {
           "id": "om_b82a8a5347",
@@ -576,96 +640,32 @@
           "postedAt": "2026-09-17T13:30:00.000Z"
         },
         {
-          "id": "om_d6009de4f5",
-          "source": "The Verge",
+          "id": "om_5848c3856e",
+          "source": "Adweek",
           "lang": "en",
-          "title": "Grand Theft Auto VI’s soundtrack will feature 34 brand-new tracks",
-          "url": "https://www.theverge.com/entertainment/996831/grand-theft-auto-6-soundtrack",
-          "postedAt": "2026-09-17T13:20:54.000Z"
+          "title": "How Jake From State Farm Became Advertising’s Most Famous Neighbor",
+          "url": "https://www.adweek.com/brand-marketing/how-jake-from-state-farm-became-advertisings-most-famous-neighbor/",
+          "postedAt": "2026-09-17T13:18:50.000Z"
+        },
+        {
+          "id": "om_fa0a92af38",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Coca-Cola’s Top Marketer Reveals What He’s Looking For In His Next Agency",
+          "url": "https://www.adweek.com/agencies/coca-colas-top-marketer-reveals-what-hes-looking-for-in-his-next-agency/",
+          "postedAt": "2026-09-17T13:14:00.000Z"
         },
         {
           "id": "om_9c6bac54c3",
           "source": "Adweek",
           "lang": "en",
-          "title": "Oscar Health Is Rebranding to Make Health Insurance Feel Human",
+          "title": "Oscar Health Is Rebranding to Make Healthcare Feel Human",
           "url": "https://www.adweek.com/brand-marketing/oscar-health-is-rebranding-to-make-health-insurance-feel-human/",
           "postedAt": "2026-09-17T12:46:24.000Z"
-        },
-        {
-          "id": "om_65c4c2138d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Siddharth Taparia’s Strategy for Transforming Globally Fragmented JLL Into a Unified Marketing Force",
-          "url": "https://www.adweek.com/brand-marketing/siddharth-taparias-strategy-for-transforming-globally-fragmented-jll-into-a-unified-marketing-force/",
-          "postedAt": "2026-09-17T12:44:35.000Z"
-        },
-        {
-          "id": "om_3374f3e186",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Intuit Credit Karma, Ollie, and 3M Reveal Their Biggest AI Wins and Challenges",
-          "url": "https://www.adweek.com/brand-marketing/intuit-credit-karma-ollie-and-3m-reveal-their-biggest-ai-wins-and-challenges/",
-          "postedAt": "2026-09-17T11:36:19.000Z"
-        },
-        {
-          "id": "om_68aff9a5f0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Fear Is Just Marketing and More Insights From Dr. Bernice King",
-          "url": "https://www.adweek.com/media/fear-is-just-marketing-and-more-insights-from-dr-bernice-king/",
-          "postedAt": "2026-09-17T10:19:01.000Z"
-        },
-        {
-          "id": "om_e007848296",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Report highlights the value of creator-led collabs on Instagram",
-          "url": "https://www.socialmediatoday.com/news/report-highlights-the-value-of-creator-led-collabs-on-instagram/830619/",
-          "postedAt": "2026-09-16T23:04:38.000Z"
-        },
-        {
-          "id": "om_c827b32750",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Noise wants to help everyday people become paid content creators",
-          "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
-          "postedAt": "2026-09-16T21:35:00.000Z"
-        },
-        {
-          "id": "om_c2f1d5b9b9",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "LinkedIn offers tips on company targeting via Campaign Manager",
-          "url": "https://www.socialmediatoday.com/news/linkedin-offers-tips-on-company-targeting-via-campaign-manager/830615/",
-          "postedAt": "2026-09-16T21:33:03.000Z"
-        },
-        {
-          "id": "om_ed1d40bb60",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Kim Gravel Wants to Make Live Selling the New Appointment TV",
-          "url": "https://www.adweek.com/commerce/kim-gravel-wants-to-make-live-selling-the-new-appointment-tv/",
-          "postedAt": "2026-09-16T16:48:06.000Z"
-        },
-        {
-          "id": "om_af84142bfe",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Allbirds’ IP owner snaps up Nasty Gal for $16M",
-          "url": "https://www.retaildive.com/news/allbirds-ip-owner-wsg-brands-buys-nasty-gal-sixteen-million/830520/",
-          "postedAt": "2026-09-16T16:02:00.000Z"
-        },
-        {
-          "id": "om_2892d48faf",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Monoculture Is Dead. It’s Time for the Rise of Niche",
-          "url": "https://www.adweek.com/brand-marketing/monoculture-dead-niche-communities-bing-chen-gold-house/",
-          "postedAt": "2026-09-16T14:50:09.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-17T16:58:50.382Z",
+      "lastUpdated": "2026-09-18T04:41:35.487Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
