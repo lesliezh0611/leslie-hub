@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-19T04:35:45.484Z",
+      "lastUpdated": "2026-09-19T15:52:11.000Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -313,14 +313,6 @@
           "topic": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
           "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
           "postedAt": "2026-09-12T17:45:34.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_93f900e7a9",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "Tobi Lütke: AI Agents, Better Decisions, and the Future of Work",
-          "url": "https://fs.blog/knowledge-project-podcast/tobi-lutke-3/",
-          "postedAt": "2026-09-10T09:50:00.000Z"
         },
         {
           "id": "en_pod_lenny_s_podcast_1f928ee0f4",
@@ -411,10 +403,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-19T04:35:47.467Z",
+      "lastUpdated": "2026-09-19T15:52:12.204Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "11 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -503,6 +495,14 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_6f168f3191",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
+          "url": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
+          "postedAt": "2026-09-19T06:00:00.000Z"
+        },
         {
           "id": "om_c0ff045573",
           "source": "Wired",
@@ -654,18 +654,10 @@
           "title": "Nike eyes innovation with LVMH board pick",
           "url": "https://www.retaildive.com/news/nike-adds-lvmh-exec-alexandre-arnault-board-innovation-turnaround/830662/",
           "postedAt": "2026-09-17T16:00:00.000Z"
-        },
-        {
-          "id": "om_5ed9fbbc36",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon boosts minimum hourly starting wage to $20",
-          "url": "https://www.retaildive.com/news/amazon-boosts-minimum-hourly-starting-wage/830661/",
-          "postedAt": "2026-09-17T15:52:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-19T04:35:48.689Z",
+      "lastUpdated": "2026-09-19T15:52:13.252Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
