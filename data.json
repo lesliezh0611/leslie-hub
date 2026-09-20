@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-20T04:52:24.912Z",
+      "lastUpdated": "2026-09-20T16:04:14.436Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_6623dba8f2",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+          "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+          "postedAt": "2026-09-20T12:32:17.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_e06b36aa19",
           "source": "Lenny's Podcast",
@@ -353,14 +361,6 @@
           "topic": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
           "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
           "postedAt": "2026-09-07T12:04:19.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_0494e3b616",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
-          "url": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
-          "postedAt": "2026-09-06T12:32:00.000Z"
         }
       ],
       "books": [
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-20T04:52:26.305Z",
+      "lastUpdated": "2026-09-20T16:04:15.966Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -555,7 +555,7 @@
           "id": "om_4bbb5b0f8f",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "The Weekly Closeout: Bed Bath & Beyond parent plots a credit union and Express goes back to the ’90s",
+          "title": "The Weekly Closeout: Bed Bath & Beyond parent plots a credit union and Express goes back to the ‘90s",
           "url": "https://www.retaildive.com/news/bed-bath-and-beyond-credit-union-express-nineties-nostalgia/830739/",
           "postedAt": "2026-09-18T15:23:00.000Z"
         },
@@ -632,14 +632,6 @@
           "postedAt": "2026-09-18T10:00:00.000Z"
         },
         {
-          "id": "om_d4df3e94d6",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers",
-          "url": "https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/",
-          "postedAt": "2026-09-17T19:15:00.000Z"
-        },
-        {
           "id": "om_aa91e6e95b",
           "source": "Marketing Brew",
           "lang": "en",
@@ -662,10 +654,18 @@
           "title": "Jordan Brand debuts training equipment line",
           "url": "https://www.retaildive.com/news/jordan-brand-debuts-strength-training-equipment-line/830659/",
           "postedAt": "2026-09-17T16:01:00.000Z"
+        },
+        {
+          "id": "om_80742bc34e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Nike eyes innovation with LVMH board pick",
+          "url": "https://www.retaildive.com/news/nike-adds-lvmh-exec-alexandre-arnault-board-innovation-turnaround/830662/",
+          "postedAt": "2026-09-17T16:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-20T04:52:27.752Z",
+      "lastUpdated": "2026-09-20T16:04:17.777Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
