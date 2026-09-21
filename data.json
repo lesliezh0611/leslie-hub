@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-20T16:04:14.436Z",
+      "lastUpdated": "2026-09-21T04:53:35.692Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-20T16:04:15.966Z",
+      "lastUpdated": "2026-09-21T04:53:37.208Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,22 @@
       },
       "articles": [
         {
+          "id": "om_c1355961d6",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "ScrollEd wants to turn textbooks into TikTok",
+          "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+          "postedAt": "2026-09-20T18:00:00.000Z"
+        },
+        {
+          "id": "om_f3225fded9",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "New California law will penalize influencers who don’t disclose political ads",
+          "url": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
+          "postedAt": "2026-09-20T16:30:00.000Z"
+        },
+        {
           "id": "om_589c5060cf",
           "source": "TechCrunch",
           "lang": "en",
@@ -555,7 +571,7 @@
           "id": "om_4bbb5b0f8f",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "The Weekly Closeout: Bed Bath & Beyond parent plots a credit union and Express goes back to the ‘90s",
+          "title": "The Weekly Closeout: Bed Bath & Beyond parent plots a credit union and Express goes back to the ’90s",
           "url": "https://www.retaildive.com/news/bed-bath-and-beyond-credit-union-express-nineties-nostalgia/830739/",
           "postedAt": "2026-09-18T15:23:00.000Z"
         },
@@ -646,26 +662,10 @@
           "title": "Pinterest amps up performance tools, including a visual search product",
           "url": "https://www.marketingbrew.com/stories/pinterest-visual-search-performance-marketing-tools?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-09-17T16:24:19.000Z"
-        },
-        {
-          "id": "om_6ab8ee7548",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Jordan Brand debuts training equipment line",
-          "url": "https://www.retaildive.com/news/jordan-brand-debuts-strength-training-equipment-line/830659/",
-          "postedAt": "2026-09-17T16:01:00.000Z"
-        },
-        {
-          "id": "om_80742bc34e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Nike eyes innovation with LVMH board pick",
-          "url": "https://www.retaildive.com/news/nike-adds-lvmh-exec-alexandre-arnault-board-innovation-turnaround/830662/",
-          "postedAt": "2026-09-17T16:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-20T16:04:17.777Z",
+      "lastUpdated": "2026-09-21T04:53:38.484Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
