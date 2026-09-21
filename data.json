@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-21T04:53:35.692Z",
+      "lastUpdated": "2026-09-21T18:12:10.856Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_154febf0aa",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
+          "postedAt": "2026-09-21T15:03:51.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_201957d3ce",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
+          "url": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
+          "postedAt": "2026-09-21T12:04:11.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_6623dba8f2",
           "source": "Lenny's Podcast",
@@ -345,22 +361,6 @@
           "topic": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
           "url": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
           "postedAt": "2026-09-08T12:31:49.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_60ef117285",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
-          "postedAt": "2026-09-07T15:02:41.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_96a0e748f9",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
-          "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
-          "postedAt": "2026-09-07T12:04:19.000Z"
         }
       ],
       "books": [
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-21T04:53:37.208Z",
+      "lastUpdated": "2026-09-21T18:12:12.071Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,168 +504,168 @@
       },
       "articles": [
         {
+          "id": "om_6f8f0df532",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "J.C. Penney loses share, launches marketplace as sales continue to slide",
+          "url": "https://www.retaildive.com/news/jc-penney-q2-earnings-sales-decline-loses-share-launches-marketplace/830872/",
+          "postedAt": "2026-09-21T16:51:00.000Z"
+        },
+        {
+          "id": "om_e69a5deedd",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Two-thirds of Americans are gamers. Why hasn’t ad spending caught up?",
+          "url": "https://www.marketingdive.com/news/two-thirds-of-americans-are-gamers-why-hasnt-ad-spending-caught-up/830823/",
+          "postedAt": "2026-09-21T16:20:00.000Z"
+        },
+        {
+          "id": "om_bdb58e375d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Ethan Allen launches CEO search",
+          "url": "https://www.retaildive.com/news/ethan-allen-launches-ceo-search/830892/",
+          "postedAt": "2026-09-21T16:12:00.000Z"
+        },
+        {
+          "id": "om_623ca8b417",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+          "postedAt": "2026-09-21T15:00:00.000Z"
+        },
+        {
+          "id": "om_064a218cc9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Accenture Song signals US media ambitions with exec appointment",
+          "url": "https://www.marketingdive.com/news/accenture-song-signals-us-media-ambitions-with-exec-appointment/830854/",
+          "postedAt": "2026-09-21T15:00:00.000Z"
+        },
+        {
+          "id": "om_c4293b2340",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Subway skewers modern dining landscape with Will Arnett-led creative",
+          "url": "https://www.marketingdive.com/news/subway-skewers-modern-dining-landscape-with-will-arnett-led-creative/830888/",
+          "postedAt": "2026-09-21T15:00:00.000Z"
+        },
+        {
+          "id": "om_350facc8b2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Costco now offers nationwide delivery on Uber and DoorDash",
+          "url": "https://www.retaildive.com/news/costco-uber-doordash-nationwide-same-day-delivery-ecommerce/830874/",
+          "postedAt": "2026-09-21T14:50:00.000Z"
+        },
+        {
+          "id": "om_6724a8be2f",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why Campari updated a classic ad with Alan Cumming to serve Negronis",
+          "url": "https://www.marketingdive.com/news/why-campari-updated-a-classic-ad-with-alan-cumming-to-serve-negronis/830735/",
+          "postedAt": "2026-09-21T13:00:00.000Z"
+        },
+        {
+          "id": "om_faa262b155",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Behind the scenes of Jalen Brunson’s partnership with Just Salad",
+          "url": "https://www.marketingbrew.com/stories/just-salad-jalen-brunson?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-21T13:00:00.000Z"
+        },
+        {
+          "id": "om_16450bff35",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Amazon Locks Out Meta’s Muse in Agentic Shopping Standoff",
+          "url": "https://www.adweek.com/commerce/amazon-locks-out-metas-muse-in-agentic-shopping-standoff/",
+          "postedAt": "2026-09-21T12:10:20.000Z"
+        },
+        {
+          "id": "om_1b21e338a3",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "From Converse to Ed Sheeran, Let’s End These Tedious Apology Tours",
+          "url": "https://www.adweek.com/brand-marketing/from-converse-to-ed-sheeran-lets-end-these-tedious-apology-tours/",
+          "postedAt": "2026-09-21T09:07:10.000Z"
+        },
+        {
+          "id": "om_a8999a8f26",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "What 25M+ assets taught us about creative production at scale",
+          "url": "https://www.marketingdive.com/spons/what-25m-assets-taught-us-about-creative-production-at-scale/830196/",
+          "postedAt": "2026-09-21T09:00:00.000Z"
+        },
+        {
+          "id": "om_d0f5707b8e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Dairy milk’s demand remains strong across retail",
+          "url": "https://www.retaildive.com/spons/dairy-milks-demand-remains-strong-across-retail/829470/",
+          "postedAt": "2026-09-21T09:00:00.000Z"
+        },
+        {
+          "id": "om_5d6bb1e593",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Ready for the rush: Stress-testing customer notifications for Black Friday",
+          "url": "https://www.retaildive.com/spons/ready-for-the-rush-stress-testing-customer-notifications-for-black-friday/830493/",
+          "postedAt": "2026-09-21T09:00:00.000Z"
+        },
+        {
+          "id": "om_68c9e0bfd1",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Too Many Cooks Spoiled Converse’s Global Ad Rollout",
+          "url": "https://www.adweek.com/brand-marketing/too-many-cooks-spoiled-converses-global-ad-rollout/",
+          "postedAt": "2026-09-21T07:40:30.000Z"
+        },
+        {
+          "id": "om_a6096f7128",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Brands Keep Greenlighting Ads That Many Find Racially Insensitive",
+          "url": "https://www.adweek.com/brand-marketing/brands-keep-greenlighting-ads-that-many-find-racially-insensitive/",
+          "postedAt": "2026-09-21T07:19:31.000Z"
+        },
+        {
+          "id": "om_634d9b727e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Folklore Hires Colle McVoy President to Lead Agency Into the Future",
+          "url": "https://www.adweek.com/agencies/folklore-hires-colle-mcvoy-president-to-lead-agency-into-the-future/",
+          "postedAt": "2026-09-21T07:00:00.000Z"
+        },
+        {
+          "id": "om_bff34bf5be",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Myron Nilsson Joins Ammunition as Agency Levels Up Creative Ambitions",
+          "url": "https://www.adweek.com/agencies/myron-nilsson-joins-ammunition-as-agency-levels-up-creative-ambitions/",
+          "postedAt": "2026-09-21T06:00:00.000Z"
+        },
+        {
+          "id": "om_a897852503",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Direct-to-Consumer Brands Rebuild Their Playbooks Around Retailers",
+          "url": "https://www.adweek.com/commerce/direct-to-consumer-brands-rebuild-their-playbooks-around-retailers/",
+          "postedAt": "2026-09-21T06:00:00.000Z"
+        },
+        {
           "id": "om_c1355961d6",
           "source": "TechCrunch",
           "lang": "en",
           "title": "ScrollEd wants to turn textbooks into TikTok",
           "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
           "postedAt": "2026-09-20T18:00:00.000Z"
-        },
-        {
-          "id": "om_f3225fded9",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "New California law will penalize influencers who don’t disclose political ads",
-          "url": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
-          "postedAt": "2026-09-20T16:30:00.000Z"
-        },
-        {
-          "id": "om_589c5060cf",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-          "postedAt": "2026-09-19T19:57:47.000Z"
-        },
-        {
-          "id": "om_6f168f3191",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear",
-          "url": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
-          "postedAt": "2026-09-19T06:00:00.000Z"
-        },
-        {
-          "id": "om_c0ff045573",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Flock Offers Employees Buyouts as Customers Flee",
-          "url": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
-          "postedAt": "2026-09-19T02:22:54.000Z"
-        },
-        {
-          "id": "om_98dad82b30",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Converse Apologizes After Roiling Social Media With Ads That Evoke a Lynching",
-          "url": "https://www.adweek.com/brand-marketing/converse-roils-social-media-with-ads-that-evoke-a-lynching/",
-          "postedAt": "2026-09-18T18:57:06.000Z"
-        },
-        {
-          "id": "om_163c38550b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Longtime Christmas decor retailer files for bankruptcy",
-          "url": "https://www.retaildive.com/news/christmas-decor-retailer-gordon-companies-files-chapter-11-bankruptcy/830777/",
-          "postedAt": "2026-09-18T16:00:00.000Z"
-        },
-        {
-          "id": "om_a4d238668a",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "On signs Mbappé as it preps entry into soccer",
-          "url": "https://www.retaildive.com/news/on-signs-mbappe-schertenleib-soccer-football-nike-adidas/830761/",
-          "postedAt": "2026-09-18T15:48:00.000Z"
-        },
-        {
-          "id": "om_4bbb5b0f8f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Weekly Closeout: Bed Bath & Beyond parent plots a credit union and Express goes back to the ’90s",
-          "url": "https://www.retaildive.com/news/bed-bath-and-beyond-credit-union-express-nineties-nostalgia/830739/",
-          "postedAt": "2026-09-18T15:23:00.000Z"
-        },
-        {
-          "id": "om_f78a9895ff",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why Brands Should Embrace ‘Constellation Thinking’ in Finding Their Purpose",
-          "url": "https://www.adweek.com/brand-marketing/why-brands-should-embrace-constellation-thinking-in-finding-their-purpose/",
-          "postedAt": "2026-09-18T15:04:34.000Z"
-        },
-        {
-          "id": "om_ea6288dda6",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Instacart enlists icons like Shrek, Scooby-Doo to market AI assistant",
-          "url": "https://www.marketingdive.com/news/instacart-enlists-icons-like-shrek-scooby-doo-to-market-ai-assistant/830757/",
-          "postedAt": "2026-09-18T14:52:00.000Z"
-        },
-        {
-          "id": "om_d7cc3781e2",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Macy’s rolls out AI inventory replenishment tool",
-          "url": "https://www.retaildive.com/news/macys-rolls-out-ai-inventory-replenishment-tool/830751/",
-          "postedAt": "2026-09-18T14:37:00.000Z"
-        },
-        {
-          "id": "om_110fa4bd75",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Beyond Yoga captures ‘highly engaged’ NYC customer base with new pop-up",
-          "url": "https://www.retaildive.com/news/beyond-yoga-new-york-city-pop-up-store/830754/",
-          "postedAt": "2026-09-18T14:14:00.000Z"
-        },
-        {
-          "id": "om_2ae708358e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Beyond Hollywood: Atlanta’s New Entertainment Economy",
-          "url": "https://www.adweek.com/brand-marketing/beyond-hollywood-atlantas-new-entertainment-economy/",
-          "postedAt": "2026-09-18T12:12:35.000Z"
-        },
-        {
-          "id": "om_2d581828ce",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Creator content preferred in AI recommendations: Here’s what the numbers say",
-          "url": "https://www.marketingdive.com/news/creator-content-preferred-in-ai-recommendations-heres-what-the-numbers-sa/830523/",
-          "postedAt": "2026-09-18T12:00:00.000Z"
-        },
-        {
-          "id": "om_e55309d97e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why AI Can Never Replace Great Agencies ft. Andy Lopez, CMO of Behr Paint",
-          "url": "https://www.adweek.com/brand-marketing/why-ai-can-never-replace-great-agencies-ft-andy-lopez-cmo-of-behr-paint/",
-          "postedAt": "2026-09-18T11:53:06.000Z"
-        },
-        {
-          "id": "om_ac076c0e22",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "3 Ways Starbucks Is Reclaiming Its Brand Magic",
-          "url": "https://www.adweek.com/brand-marketing/3-ways-starbucks-is-reclaiming-its-brand-magic/",
-          "postedAt": "2026-09-18T10:16:17.000Z"
-        },
-        {
-          "id": "om_ba68443ecf",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "For some ad campaigns, brands are borrowing from classic TV",
-          "url": "https://www.marketingbrew.com/stories/ad-campaigns-classic-tv-show-formats-dennys-jc-penney?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-18T10:00:00.000Z"
-        },
-        {
-          "id": "om_aa91e6e95b",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How Sharpie found a way to position pens as an NFL staple",
-          "url": "https://www.marketingbrew.com/stories/sharpie-nfl-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-17T16:58:11.000Z"
-        },
-        {
-          "id": "om_8128f27064",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Pinterest amps up performance tools, including a visual search product",
-          "url": "https://www.marketingbrew.com/stories/pinterest-visual-search-performance-marketing-tools?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-17T16:24:19.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-21T04:53:38.484Z",
+      "lastUpdated": "2026-09-21T18:12:13.028Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
