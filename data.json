@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-22T04:53:29.248Z",
+      "lastUpdated": "2026-09-22T16:56:23.390Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_2947393216",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Advanced evals: How to find (and fix) hidden AI failures in your product",
+          "url": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
+          "postedAt": "2026-09-22T12:45:14.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_154febf0aa",
           "source": "Lenny's Podcast",
@@ -353,14 +361,6 @@
           "topic": "Tobi Lütke: AI Agents, Better Decisions, and the Future of Work",
           "url": "https://fs.blog/knowledge-project-podcast/tobi-lutke-3/",
           "postedAt": "2026-09-10T09:50:00.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_1f928ee0f4",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
-          "url": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
-          "postedAt": "2026-09-08T12:31:49.000Z"
         }
       ],
       "books": [
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-22T04:53:30.327Z",
+      "lastUpdated": "2026-09-22T16:56:24.569Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,94 @@
       },
       "articles": [
         {
+          "id": "om_97f4d9447d",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+          "postedAt": "2026-09-22T16:36:20.000Z"
+        },
+        {
+          "id": "om_0928a3a74c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "On looks to nearly double sales by 2029 despite ‘far more challenging’ market",
+          "url": "https://www.retaildive.com/news/on-growth-sales-targets-challenging-athletics-market/831021/",
+          "postedAt": "2026-09-22T15:55:00.000Z"
+        },
+        {
+          "id": "om_6d0e5569bc",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon asks Meta to remove it from the Muse AI agent experience",
+          "url": "https://www.retaildive.com/news/amazon-meta-muse-ai-agent-shopping-experience/831018/",
+          "postedAt": "2026-09-22T15:53:00.000Z"
+        },
+        {
+          "id": "om_3f501e8aee",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Gap rolls out ‘fashiontainment’ strategy with boy band collaboration",
+          "url": "https://www.retaildive.com/news/gap-rolls-out-fashiontainment-strategy-with-boy-band-collaboration/831023/",
+          "postedAt": "2026-09-22T15:22:00.000Z"
+        },
+        {
+          "id": "om_92a41f5019",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "FAO Schwarz opens Amazon storefront",
+          "url": "https://www.retaildive.com/news/fao-schwarz-opens-amazon-storefront/830992/",
+          "postedAt": "2026-09-22T15:11:00.000Z"
+        },
+        {
+          "id": "om_3c4ee0773a",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Global consumers are using AI, but it hasn’t yet translated to shopping: report",
+          "url": "https://www.marketingbrew.com/stories/global-consumers-ai-use-shopping-habits-vml?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-22T15:00:58.000Z"
+        },
+        {
+          "id": "om_0406f4f7da",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Gap rolls out Fashiontainment strategy with boy band collaboration",
+          "url": "https://www.marketingdive.com/news/gap-rolls-out-fashiontainment-strategy-with-boy-band-collaboration/830984/",
+          "postedAt": "2026-09-22T14:58:00.000Z"
+        },
+        {
+          "id": "om_e844556496",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
+          "url": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
+          "postedAt": "2026-09-22T14:00:00.000Z"
+        },
+        {
+          "id": "om_5f456c945c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Beats taps multiple Kendall Jenners to promote customizable headphones",
+          "url": "https://www.marketingdive.com/news/beats-taps-multiple-kendall-jenners-to-promote-customizable-headphones/830835/",
+          "postedAt": "2026-09-22T14:00:00.000Z"
+        },
+        {
+          "id": "om_fb46b18948",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Coworking with Justine Frostad",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-justine-frostad?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-22T13:27:27.000Z"
+        },
+        {
+          "id": "om_1f3b252bd0",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "‘Dancing with the Stars’ waltzes into new season with record number of advertisers",
+          "url": "https://www.marketingbrew.com/stories/dancing-with-the-stars-record-advertiser-interest-?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-22T09:00:00.000Z"
+        },
+        {
           "id": "om_6495b18d60",
           "source": "TechCrunch",
           "lang": "en",
@@ -552,14 +640,6 @@
           "postedAt": "2026-09-21T16:12:00.000Z"
         },
         {
-          "id": "om_623ca8b417",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-          "postedAt": "2026-09-21T15:00:00.000Z"
-        },
-        {
           "id": "om_064a218cc9",
           "source": "Marketing Dive",
           "lang": "en",
@@ -582,90 +662,10 @@
           "title": "Women’s Sports Are Creating a New Playbook for Brand Partnerships",
           "url": "https://www.adweek.com/brand-marketing/womens-sports-are-creating-a-new-playbook-for-brand-partnerships/",
           "postedAt": "2026-09-21T14:50:10.000Z"
-        },
-        {
-          "id": "om_350facc8b2",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Costco now offers nationwide delivery on Uber and DoorDash",
-          "url": "https://www.retaildive.com/news/costco-uber-doordash-nationwide-same-day-delivery-ecommerce/830874/",
-          "postedAt": "2026-09-21T14:50:00.000Z"
-        },
-        {
-          "id": "om_b60e6739fd",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Media Brands Can Build Loyalty Between Big News Moments",
-          "url": "https://www.adweek.com/media/how-media-brands-can-build-loyalty-between-big-news-moments/",
-          "postedAt": "2026-09-21T14:49:55.000Z"
-        },
-        {
-          "id": "om_088b016209",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Turning Brand Affinity Into Measurable Business Outcomes",
-          "url": "https://www.adweek.com/brand-marketing/turning-brand-affinity-into-measurable-business-outcomes/",
-          "postedAt": "2026-09-21T14:48:24.000Z"
-        },
-        {
-          "id": "om_0be8213130",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Brands Can Keep Up With the Speed of Culture",
-          "url": "https://www.adweek.com/brand-marketing/how-brands-can-keep-up-with-the-speed-of-culture/",
-          "postedAt": "2026-09-21T14:48:08.000Z"
-        },
-        {
-          "id": "om_ae6598799d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "A Winning Formula for Building Brand Trust",
-          "url": "https://www.adweek.com/brand-marketing/a-winning-formula-for-building-brand-trust/",
-          "postedAt": "2026-09-21T14:46:26.000Z"
-        },
-        {
-          "id": "om_6724a8be2f",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why Campari updated a classic ad with Alan Cumming to serve Negronis",
-          "url": "https://www.marketingdive.com/news/why-campari-updated-a-classic-ad-with-alan-cumming-to-serve-negronis/830735/",
-          "postedAt": "2026-09-21T13:00:00.000Z"
-        },
-        {
-          "id": "om_faa262b155",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Behind the scenes of Jalen Brunson’s partnership with Just Salad",
-          "url": "https://www.marketingbrew.com/stories/just-salad-jalen-brunson?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-21T13:00:00.000Z"
-        },
-        {
-          "id": "om_a8999a8f26",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "What 25M+ assets taught us about creative production at scale",
-          "url": "https://www.marketingdive.com/spons/what-25m-assets-taught-us-about-creative-production-at-scale/830196/",
-          "postedAt": "2026-09-21T09:00:00.000Z"
-        },
-        {
-          "id": "om_d0f5707b8e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Dairy milk’s demand remains strong across retail",
-          "url": "https://www.retaildive.com/spons/dairy-milks-demand-remains-strong-across-retail/829470/",
-          "postedAt": "2026-09-21T09:00:00.000Z"
-        },
-        {
-          "id": "om_5d6bb1e593",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Ready for the rush: Stress-testing customer notifications for Black Friday",
-          "url": "https://www.retaildive.com/spons/ready-for-the-rush-stress-testing-customer-notifications-for-black-friday/830493/",
-          "postedAt": "2026-09-21T09:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-22T04:53:31.205Z",
+      "lastUpdated": "2026-09-22T16:56:25.646Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
