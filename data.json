@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-21T18:12:10.856Z",
+      "lastUpdated": "2026-09-22T04:53:29.248Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-21T18:12:12.071Z",
+      "lastUpdated": "2026-09-22T04:53:30.327Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,30 @@
       },
       "articles": [
         {
+          "id": "om_6495b18d60",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+          "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+          "postedAt": "2026-09-21T23:44:28.000Z"
+        },
+        {
+          "id": "om_460caf7bac",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Enjoy e-commerce delivery at the speed of flight",
+          "url": "https://www.retaildive.com/spons/enjoy-e-commerce-delivery-at-the-speed-of-flight/830957/",
+          "postedAt": "2026-09-21T20:24:06.000Z"
+        },
+        {
+          "id": "om_d4a6048b35",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Goodwipes Made a Splash In the Bathroom Business",
+          "url": "https://www.adweek.com/brand-marketing/how-goodwipes-made-a-splash-in-the-bathroom-business/",
+          "postedAt": "2026-09-21T16:52:50.000Z"
+        },
+        {
           "id": "om_6f8f0df532",
           "source": "Retail Dive",
           "lang": "en",
@@ -552,12 +576,52 @@
           "postedAt": "2026-09-21T15:00:00.000Z"
         },
         {
+          "id": "om_b835d7f8b3",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Women’s Sports Are Creating a New Playbook for Brand Partnerships",
+          "url": "https://www.adweek.com/brand-marketing/womens-sports-are-creating-a-new-playbook-for-brand-partnerships/",
+          "postedAt": "2026-09-21T14:50:10.000Z"
+        },
+        {
           "id": "om_350facc8b2",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Costco now offers nationwide delivery on Uber and DoorDash",
           "url": "https://www.retaildive.com/news/costco-uber-doordash-nationwide-same-day-delivery-ecommerce/830874/",
           "postedAt": "2026-09-21T14:50:00.000Z"
+        },
+        {
+          "id": "om_b60e6739fd",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Media Brands Can Build Loyalty Between Big News Moments",
+          "url": "https://www.adweek.com/media/how-media-brands-can-build-loyalty-between-big-news-moments/",
+          "postedAt": "2026-09-21T14:49:55.000Z"
+        },
+        {
+          "id": "om_088b016209",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Turning Brand Affinity Into Measurable Business Outcomes",
+          "url": "https://www.adweek.com/brand-marketing/turning-brand-affinity-into-measurable-business-outcomes/",
+          "postedAt": "2026-09-21T14:48:24.000Z"
+        },
+        {
+          "id": "om_0be8213130",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Brands Can Keep Up With the Speed of Culture",
+          "url": "https://www.adweek.com/brand-marketing/how-brands-can-keep-up-with-the-speed-of-culture/",
+          "postedAt": "2026-09-21T14:48:08.000Z"
+        },
+        {
+          "id": "om_ae6598799d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "A Winning Formula for Building Brand Trust",
+          "url": "https://www.adweek.com/brand-marketing/a-winning-formula-for-building-brand-trust/",
+          "postedAt": "2026-09-21T14:46:26.000Z"
         },
         {
           "id": "om_6724a8be2f",
@@ -574,22 +638,6 @@
           "title": "Behind the scenes of Jalen Brunson’s partnership with Just Salad",
           "url": "https://www.marketingbrew.com/stories/just-salad-jalen-brunson?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-09-21T13:00:00.000Z"
-        },
-        {
-          "id": "om_16450bff35",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Amazon Locks Out Meta’s Muse in Agentic Shopping Standoff",
-          "url": "https://www.adweek.com/commerce/amazon-locks-out-metas-muse-in-agentic-shopping-standoff/",
-          "postedAt": "2026-09-21T12:10:20.000Z"
-        },
-        {
-          "id": "om_1b21e338a3",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "From Converse to Ed Sheeran, Let’s End These Tedious Apology Tours",
-          "url": "https://www.adweek.com/brand-marketing/from-converse-to-ed-sheeran-lets-end-these-tedious-apology-tours/",
-          "postedAt": "2026-09-21T09:07:10.000Z"
         },
         {
           "id": "om_a8999a8f26",
@@ -614,58 +662,10 @@
           "title": "Ready for the rush: Stress-testing customer notifications for Black Friday",
           "url": "https://www.retaildive.com/spons/ready-for-the-rush-stress-testing-customer-notifications-for-black-friday/830493/",
           "postedAt": "2026-09-21T09:00:00.000Z"
-        },
-        {
-          "id": "om_68c9e0bfd1",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Too Many Cooks Spoiled Converse’s Global Ad Rollout",
-          "url": "https://www.adweek.com/brand-marketing/too-many-cooks-spoiled-converses-global-ad-rollout/",
-          "postedAt": "2026-09-21T07:40:30.000Z"
-        },
-        {
-          "id": "om_a6096f7128",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Brands Keep Greenlighting Ads That Many Find Racially Insensitive",
-          "url": "https://www.adweek.com/brand-marketing/brands-keep-greenlighting-ads-that-many-find-racially-insensitive/",
-          "postedAt": "2026-09-21T07:19:31.000Z"
-        },
-        {
-          "id": "om_634d9b727e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Folklore Hires Colle McVoy President to Lead Agency Into the Future",
-          "url": "https://www.adweek.com/agencies/folklore-hires-colle-mcvoy-president-to-lead-agency-into-the-future/",
-          "postedAt": "2026-09-21T07:00:00.000Z"
-        },
-        {
-          "id": "om_bff34bf5be",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Myron Nilsson Joins Ammunition as Agency Levels Up Creative Ambitions",
-          "url": "https://www.adweek.com/agencies/myron-nilsson-joins-ammunition-as-agency-levels-up-creative-ambitions/",
-          "postedAt": "2026-09-21T06:00:00.000Z"
-        },
-        {
-          "id": "om_a897852503",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Direct-to-Consumer Brands Rebuild Their Playbooks Around Retailers",
-          "url": "https://www.adweek.com/commerce/direct-to-consumer-brands-rebuild-their-playbooks-around-retailers/",
-          "postedAt": "2026-09-21T06:00:00.000Z"
-        },
-        {
-          "id": "om_c1355961d6",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "ScrollEd wants to turn textbooks into TikTok",
-          "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-          "postedAt": "2026-09-20T18:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-21T18:12:13.028Z",
+      "lastUpdated": "2026-09-22T04:53:31.205Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
