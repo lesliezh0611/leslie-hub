@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-23T04:43:28.424Z",
+      "lastUpdated": "2026-09-23T16:56:21.053Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-23T04:43:29.691Z",
+      "lastUpdated": "2026-09-23T16:56:23.100Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,168 +504,168 @@
       },
       "articles": [
         {
-          "id": "om_b5c2cc7d45",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Meta Muse partners with Shopify and gets blocked by Amazon",
-          "url": "https://www.socialmediatoday.com/news/meta-muse-partners-with-shopify-and-gets-blocked-by-amazon/831096/",
-          "postedAt": "2026-09-22T23:14:35.000Z"
-        },
-        {
-          "id": "om_334a87ba68",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok commits to expanded child protection initiatives",
-          "url": "https://www.socialmediatoday.com/news/tiktok-commits-to-expanded-child-protection-initiatives/831086/",
-          "postedAt": "2026-09-22T20:00:53.000Z"
-        },
-        {
-          "id": "om_465fa217c6",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "What’s in a name? EV naming trends evolve to match the market",
-          "url": "https://www.marketingbrew.com/stories/electric-vehicle-naming-trends?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-22T19:23:56.000Z"
-        },
-        {
-          "id": "om_65bf898f83",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "4 Things We Saw Inside WPP’s New AI-Powered Production Hub",
-          "url": "https://www.adweek.com/agencies/inside-wpp-ai-powered-production-hub-devons-point/",
-          "postedAt": "2026-09-22T19:01:00.000Z"
-        },
-        {
-          "id": "om_d091433977",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Chili’s marketing works — and why Mexican QSRs are its next target",
-          "url": "https://www.marketingdive.com/news/how-chilis-marketing-works-and-why-mexican-qsrs-are-its-next-target/830959/",
-          "postedAt": "2026-09-22T18:46:00.000Z"
-        },
-        {
-          "id": "om_c3cbeb3c5e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How a 161-Year-Old Brand Stays Relevant",
-          "url": "https://www.adweek.com/brand-marketing/how-a-161-year-old-brand-stays-relevant/",
-          "postedAt": "2026-09-22T17:23:21.000Z"
-        },
-        {
-          "id": "om_ecfd25c95d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Bai Founder Ben Weiss Wants Gen Z To Drink More",
-          "url": "https://www.adweek.com/brand-marketing/bai-founder-ben-weiss-wants-gen-z-to-drink-more/",
-          "postedAt": "2026-09-22T17:22:50.000Z"
-        },
-        {
-          "id": "om_0928a3a74c",
+          "id": "om_2059980b8b",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "On looks to nearly double sales by 2029 despite ‘far more challenging’ market",
-          "url": "https://www.retaildive.com/news/on-growth-sales-targets-challenging-athletics-market/831021/",
-          "postedAt": "2026-09-22T15:55:00.000Z"
+          "title": "More lower-income households feel financially vulnerable",
+          "url": "https://www.retaildive.com/news/lower-income-households-financially-vulnerable-financial-health-network/831129/",
+          "postedAt": "2026-09-23T16:13:00.000Z"
         },
         {
-          "id": "om_6d0e5569bc",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon asks Meta to remove it from the Muse AI agent experience",
-          "url": "https://www.retaildive.com/news/amazon-meta-muse-ai-agent-shopping-experience/831018/",
-          "postedAt": "2026-09-22T15:53:00.000Z"
-        },
-        {
-          "id": "om_3f501e8aee",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Gap rolls out ‘fashiontainment’ strategy with boy band collaboration",
-          "url": "https://www.retaildive.com/news/gap-rolls-out-fashiontainment-strategy-with-boy-band-collaboration/831023/",
-          "postedAt": "2026-09-22T15:22:00.000Z"
-        },
-        {
-          "id": "om_92a41f5019",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "FAO Schwarz opens Amazon storefront",
-          "url": "https://www.retaildive.com/news/fao-schwarz-opens-amazon-storefront/830992/",
-          "postedAt": "2026-09-22T15:11:00.000Z"
-        },
-        {
-          "id": "om_3c4ee0773a",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Global consumers are using AI, but it hasn’t yet translated to shopping: report",
-          "url": "https://www.marketingbrew.com/stories/global-consumers-ai-use-shopping-habits-vml?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-22T15:00:58.000Z"
-        },
-        {
-          "id": "om_0406f4f7da",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Gap rolls out Fashiontainment strategy with boy band collaboration",
-          "url": "https://www.marketingdive.com/news/gap-rolls-out-fashiontainment-strategy-with-boy-band-collaboration/830984/",
-          "postedAt": "2026-09-22T14:58:00.000Z"
-        },
-        {
-          "id": "om_9f85a2eb19",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Mediterranean Way, at Scale: Cava’s Growth Story",
-          "url": "https://www.adweek.com/brand-marketing/the-mediterranean-way-at-scale-cavas-growth-story/",
-          "postedAt": "2026-09-22T14:05:17.000Z"
-        },
-        {
-          "id": "om_e844556496",
+          "id": "om_cb8771dad7",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
-          "url": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
-          "postedAt": "2026-09-22T14:00:00.000Z"
+          "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
+          "url": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
+          "postedAt": "2026-09-23T16:03:44.000Z"
         },
         {
-          "id": "om_5f456c945c",
+          "id": "om_30e57a1397",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target’s new campaign puts design legacy at center of marketing",
+          "url": "https://www.retaildive.com/news/target-inside-out-ad-campaign-marketing-design-legacy/831146/",
+          "postedAt": "2026-09-23T15:49:00.000Z"
+        },
+        {
+          "id": "om_6c5b86c7b0",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
+          "url": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
+          "postedAt": "2026-09-23T15:46:57.000Z"
+        },
+        {
+          "id": "om_30d6bedc93",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Environmental marketing regulations are contradictory. How do advertisers comply?",
+          "url": "https://www.marketingbrew.com/stories/environmental-marketing-regulations-climate-week-nyc?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-23T15:41:47.000Z"
+        },
+        {
+          "id": "om_cee89aeb66",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Shoppers burned by bad AI recommendations",
+          "url": "https://www.retaildive.com/news/shoppers-burned-bad-ai-purchase-recommendations/831013/",
+          "postedAt": "2026-09-23T15:18:00.000Z"
+        },
+        {
+          "id": "om_0a72a31310",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside year two of the NFL’s AI partnership with Adobe",
+          "url": "https://www.marketingbrew.com/stories/nfl-adobe-AI-partnership-fan-data?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-23T14:56:37.000Z"
+        },
+        {
+          "id": "om_6c2956164d",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Beats taps multiple Kendall Jenners to promote customizable headphones",
-          "url": "https://www.marketingdive.com/news/beats-taps-multiple-kendall-jenners-to-promote-customizable-headphones/830835/",
-          "postedAt": "2026-09-22T14:00:00.000Z"
+          "title": "Target’s new campaign puts design legacy at center of marketing",
+          "url": "https://www.marketingdive.com/news/targets-new-campaign-puts-design-legacy-at-center-of-marketing/831116/",
+          "postedAt": "2026-09-23T14:44:00.000Z"
         },
         {
-          "id": "om_fb46b18948",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Coworking with Justine Frostad",
-          "url": "https://www.marketingbrew.com/stories/coworking-with-justine-frostad?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-22T13:27:27.000Z"
-        },
-        {
-          "id": "om_1f3b252bd0",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "‘Dancing with the Stars’ waltzes into new season with record number of advertisers",
-          "url": "https://www.marketingbrew.com/stories/dancing-with-the-stars-record-advertiser-interest-?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-22T09:00:00.000Z"
-        },
-        {
-          "id": "om_460caf7bac",
+          "id": "om_e1a47230bc",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Enjoy e-commerce delivery at the speed of flight",
-          "url": "https://www.retaildive.com/spons/enjoy-e-commerce-delivery-at-the-speed-of-flight/830957/",
-          "postedAt": "2026-09-21T20:24:06.000Z"
+          "title": "At Home gives its customers a voice in its loyalty program evolution",
+          "url": "https://www.retaildive.com/news/at-home-customers-voice-loyalty-program-evolution/831085/",
+          "postedAt": "2026-09-23T14:44:00.000Z"
         },
         {
-          "id": "om_6f8f0df532",
+          "id": "om_14e016e779",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "J.C. Penney loses share, launches marketplace as sales continue to slide",
-          "url": "https://www.retaildive.com/news/jc-penney-q2-earnings-sales-decline-loses-share-launches-marketplace/830872/",
-          "postedAt": "2026-09-21T16:51:00.000Z"
+          "title": "Staples’ chief marketer on introducing a hard button amid bigger B2B push",
+          "url": "https://www.retaildive.com/news/staples-chief-marketer-hard-button-ad-campaign/830795/",
+          "postedAt": "2026-09-23T14:42:00.000Z"
+        },
+        {
+          "id": "om_33d4153d93",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "YouTube releases new AI features for creators within its Studio app",
+          "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+          "postedAt": "2026-09-23T14:30:00.000Z"
+        },
+        {
+          "id": "om_5485f87cdf",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
+          "url": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
+          "postedAt": "2026-09-23T14:30:00.000Z"
+        },
+        {
+          "id": "om_0258e7f2cd",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
+          "url": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
+          "postedAt": "2026-09-23T14:30:00.000Z"
+        },
+        {
+          "id": "om_5ef7b4daed",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "YouTube is building AI creator tools that do almost everything for them",
+          "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+          "postedAt": "2026-09-23T13:49:24.000Z"
+        },
+        {
+          "id": "om_df69abde28",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Executive Partnership Behind Stanley 1913’s Hypergrowth",
+          "url": "https://www.adweek.com/brand-marketing/the-executive-partnership-behind-stanley-1913s-hypergrowth/",
+          "postedAt": "2026-09-23T11:41:08.000Z"
+        },
+        {
+          "id": "om_94c1b951a3",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "A Social Commerce Playbook for the AI Era",
+          "url": "https://www.adweek.com/commerce/a-social-commerce-playbook-for-the-ai-era/",
+          "postedAt": "2026-09-23T09:54:49.000Z"
+        },
+        {
+          "id": "om_f27f1646bc",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "What It Takes to Manage Creator Commerce at Scale",
+          "url": "https://www.adweek.com/brand-marketing/what-it-takes-to-manage-creator-commerce-at-scale/",
+          "postedAt": "2026-09-23T09:54:09.000Z"
+        },
+        {
+          "id": "om_baacc2da8a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Alignment Is Your Most Important Growth Strategy",
+          "url": "https://www.adweek.com/brand-marketing/alignment-is-your-most-important-growth-strategy/",
+          "postedAt": "2026-09-23T09:53:46.000Z"
+        },
+        {
+          "id": "om_caf826e266",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Uncovering Unconventional Marketing Tactics in Higher Ed",
+          "url": "https://www.adweek.com/brand-marketing/uncovering-unconventional-marketing-tactics-in-higher-ed/",
+          "postedAt": "2026-09-23T09:53:30.000Z"
+        },
+        {
+          "id": "om_b17e70f5f3",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Turn AI Experimentation Into Business Results",
+          "url": "https://www.adweek.com/brand-marketing/turn-ai-experimentation-into-business-results/",
+          "postedAt": "2026-09-23T09:52:51.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-23T04:43:30.737Z",
+      "lastUpdated": "2026-09-23T16:56:24.697Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
