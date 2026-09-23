@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-22T16:56:23.390Z",
+      "lastUpdated": "2026-09-23T04:43:28.424Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_f0c4809f60",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
+          "url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
+          "postedAt": "2026-09-22T23:12:49.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_48b6ca0f88",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "I left Claude for months. Opus 5.5 is why I'm back",
+          "url": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
+          "postedAt": "2026-09-22T19:06:40.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_2947393216",
           "source": "Lenny's Podcast",
@@ -339,22 +355,6 @@
           "postedAt": "2026-09-14T15:03:48.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_342cc9381b",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
-          "url": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
-          "postedAt": "2026-09-14T12:04:39.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_8803589aab",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
-          "postedAt": "2026-09-12T17:45:34.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_93f900e7a9",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-22T16:56:24.569Z",
+      "lastUpdated": "2026-09-23T04:43:29.691Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,12 +504,60 @@
       },
       "articles": [
         {
-          "id": "om_97f4d9447d",
-          "source": "The Verge",
+          "id": "om_b5c2cc7d45",
+          "source": "Social Media Today",
           "lang": "en",
-          "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-          "postedAt": "2026-09-22T16:36:20.000Z"
+          "title": "Meta Muse partners with Shopify and gets blocked by Amazon",
+          "url": "https://www.socialmediatoday.com/news/meta-muse-partners-with-shopify-and-gets-blocked-by-amazon/831096/",
+          "postedAt": "2026-09-22T23:14:35.000Z"
+        },
+        {
+          "id": "om_334a87ba68",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok commits to expanded child protection initiatives",
+          "url": "https://www.socialmediatoday.com/news/tiktok-commits-to-expanded-child-protection-initiatives/831086/",
+          "postedAt": "2026-09-22T20:00:53.000Z"
+        },
+        {
+          "id": "om_465fa217c6",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "What’s in a name? EV naming trends evolve to match the market",
+          "url": "https://www.marketingbrew.com/stories/electric-vehicle-naming-trends?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-22T19:23:56.000Z"
+        },
+        {
+          "id": "om_65bf898f83",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "4 Things We Saw Inside WPP’s New AI-Powered Production Hub",
+          "url": "https://www.adweek.com/agencies/inside-wpp-ai-powered-production-hub-devons-point/",
+          "postedAt": "2026-09-22T19:01:00.000Z"
+        },
+        {
+          "id": "om_d091433977",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Chili’s marketing works — and why Mexican QSRs are its next target",
+          "url": "https://www.marketingdive.com/news/how-chilis-marketing-works-and-why-mexican-qsrs-are-its-next-target/830959/",
+          "postedAt": "2026-09-22T18:46:00.000Z"
+        },
+        {
+          "id": "om_c3cbeb3c5e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How a 161-Year-Old Brand Stays Relevant",
+          "url": "https://www.adweek.com/brand-marketing/how-a-161-year-old-brand-stays-relevant/",
+          "postedAt": "2026-09-22T17:23:21.000Z"
+        },
+        {
+          "id": "om_ecfd25c95d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Bai Founder Ben Weiss Wants Gen Z To Drink More",
+          "url": "https://www.adweek.com/brand-marketing/bai-founder-ben-weiss-wants-gen-z-to-drink-more/",
+          "postedAt": "2026-09-22T17:22:50.000Z"
         },
         {
           "id": "om_0928a3a74c",
@@ -560,6 +608,14 @@
           "postedAt": "2026-09-22T14:58:00.000Z"
         },
         {
+          "id": "om_9f85a2eb19",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Mediterranean Way, at Scale: Cava’s Growth Story",
+          "url": "https://www.adweek.com/brand-marketing/the-mediterranean-way-at-scale-cavas-growth-story/",
+          "postedAt": "2026-09-22T14:05:17.000Z"
+        },
+        {
           "id": "om_e844556496",
           "source": "TechCrunch",
           "lang": "en",
@@ -592,14 +648,6 @@
           "postedAt": "2026-09-22T09:00:00.000Z"
         },
         {
-          "id": "om_6495b18d60",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-          "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-          "postedAt": "2026-09-21T23:44:28.000Z"
-        },
-        {
           "id": "om_460caf7bac",
           "source": "Retail Dive",
           "lang": "en",
@@ -608,64 +656,16 @@
           "postedAt": "2026-09-21T20:24:06.000Z"
         },
         {
-          "id": "om_d4a6048b35",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Goodwipes Made a Splash In the Bathroom Business",
-          "url": "https://www.adweek.com/brand-marketing/how-goodwipes-made-a-splash-in-the-bathroom-business/",
-          "postedAt": "2026-09-21T16:52:50.000Z"
-        },
-        {
           "id": "om_6f8f0df532",
           "source": "Retail Dive",
           "lang": "en",
           "title": "J.C. Penney loses share, launches marketplace as sales continue to slide",
           "url": "https://www.retaildive.com/news/jc-penney-q2-earnings-sales-decline-loses-share-launches-marketplace/830872/",
           "postedAt": "2026-09-21T16:51:00.000Z"
-        },
-        {
-          "id": "om_e69a5deedd",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Two-thirds of Americans are gamers. Why hasn’t ad spending caught up?",
-          "url": "https://www.marketingdive.com/news/two-thirds-of-americans-are-gamers-why-hasnt-ad-spending-caught-up/830823/",
-          "postedAt": "2026-09-21T16:20:00.000Z"
-        },
-        {
-          "id": "om_bdb58e375d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Ethan Allen launches CEO search",
-          "url": "https://www.retaildive.com/news/ethan-allen-launches-ceo-search/830892/",
-          "postedAt": "2026-09-21T16:12:00.000Z"
-        },
-        {
-          "id": "om_064a218cc9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Accenture Song signals US media ambitions with exec appointment",
-          "url": "https://www.marketingdive.com/news/accenture-song-signals-us-media-ambitions-with-exec-appointment/830854/",
-          "postedAt": "2026-09-21T15:00:00.000Z"
-        },
-        {
-          "id": "om_c4293b2340",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Subway skewers modern dining landscape with Will Arnett-led creative",
-          "url": "https://www.marketingdive.com/news/subway-skewers-modern-dining-landscape-with-will-arnett-led-creative/830888/",
-          "postedAt": "2026-09-21T15:00:00.000Z"
-        },
-        {
-          "id": "om_b835d7f8b3",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Women’s Sports Are Creating a New Playbook for Brand Partnerships",
-          "url": "https://www.adweek.com/brand-marketing/womens-sports-are-creating-a-new-playbook-for-brand-partnerships/",
-          "postedAt": "2026-09-21T14:50:10.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-22T16:56:25.646Z",
+      "lastUpdated": "2026-09-23T04:43:30.737Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
