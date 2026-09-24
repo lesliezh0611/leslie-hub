@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-24T04:48:08.244Z",
+      "lastUpdated": "2026-09-24T17:09:12.325Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_the_knowledge_project_efa3a8744b",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "Bill Ackman: The Biggest Fight of His Life",
+          "url": "https://fs.blog/knowledge-project-podcast/bill-ackman-2/",
+          "postedAt": "2026-09-24T09:50:00.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_f0c4809f60",
           "source": "Lenny's Podcast",
@@ -411,10 +419,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-24T04:48:09.399Z",
+      "lastUpdated": "2026-09-24T17:09:13.824Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -504,6 +512,118 @@
       },
       "articles": [
         {
+          "id": "om_0b4b6bf115",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside Rogaine's push to position itself as a solution for men and women alike",
+          "url": "https://www.marketingbrew.com/stories/rogaine-marketing-strategy-experiential-creators?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-24T16:59:31.000Z"
+        },
+        {
+          "id": "om_71246c634c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Tapestry to sell via Google’s Gemini app, AI Mode",
+          "url": "https://www.retaildive.com/news/tapestry-sell-via-google-gemini-app-ai-mode/830890/",
+          "postedAt": "2026-09-24T16:16:00.000Z"
+        },
+        {
+          "id": "om_ce0779704e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Stitch Fix keeps sales expectations in check as it loses active clients",
+          "url": "https://www.retaildive.com/news/stitch-fix-q4-sales-expectations-in-check-loses-active-clients/831210/",
+          "postedAt": "2026-09-24T15:54:00.000Z"
+        },
+        {
+          "id": "om_a1e569b74c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Wayfair ups investment in sports for values-focused brand platform",
+          "url": "https://www.marketingdive.com/news/wayfair-ups-investment-in-sports-for-values-focused-brand-platform/831231/",
+          "postedAt": "2026-09-24T15:26:00.000Z"
+        },
+        {
+          "id": "om_6ee0ccf8d0",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Halloween spending expected to reach $13.5B",
+          "url": "https://www.retaildive.com/news/halloween-spending-surpass-2025-record/831239/",
+          "postedAt": "2026-09-24T15:09:00.000Z"
+        },
+        {
+          "id": "om_1b89f5c29e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Retailers tamp down shadow AI but struggle to oversee agentic sprawl",
+          "url": "https://www.retaildive.com/news/retail-ai-agents-visibility-data-breaches-netskope/831035/",
+          "postedAt": "2026-09-24T15:09:00.000Z"
+        },
+        {
+          "id": "om_e6fd4c89a7",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "For Cakes Body, the next phase of its founder-led marketing is owned entertainment",
+          "url": "https://www.marketingbrew.com/stories/cakes-body-owned-entertainment-founder-led-marketing?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-24T15:00:31.000Z"
+        },
+        {
+          "id": "om_966cae1407",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "M&M’s candy mascots hop genres in ads tapping into film, TV tropes",
+          "url": "https://www.marketingdive.com/news/mms-candy-mascots-hop-genres-in-ads-tapping-into-film-tv-tropes/831240/",
+          "postedAt": "2026-09-24T14:39:00.000Z"
+        },
+        {
+          "id": "om_eb48c34977",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+          "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+          "postedAt": "2026-09-24T14:30:00.000Z"
+        },
+        {
+          "id": "om_0bf010ae19",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Tecovas uses music for its Western-focused marketing",
+          "url": "https://www.marketingdive.com/news/why-tecovas-places-music-at-the-center-of-its-western-focused-marketing/830565/",
+          "postedAt": "2026-09-24T14:00:00.000Z"
+        },
+        {
+          "id": "om_bf836a7dd6",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Backroom: A status check on Target’s turnaround",
+          "url": "https://www.retaildive.com/news/podcast-the-backroom-target-turnaround-progress/831241/",
+          "postedAt": "2026-09-24T13:29:00.000Z"
+        },
+        {
+          "id": "om_504830c507",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Michelob Ultra Shoots and Scores Multiyear NHL Partnership",
+          "url": "https://www.adweek.com/convergent-tv/michelob-ultra-shoots-and-scores-multiyear-nhl-partnership/",
+          "postedAt": "2026-09-24T09:56:38.000Z"
+        },
+        {
+          "id": "om_6b6e0277cf",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Lowe’s Pilots Drone Delivery as New Way to Quickly Buy Paintbrushes or Batteries",
+          "url": "https://www.adweek.com/commerce/lowes-pilots-drone-delivery-as-new-way-to-quickly-buy-paintbrushes-or-batteries/",
+          "postedAt": "2026-09-24T08:00:00.000Z"
+        },
+        {
+          "id": "om_963e6566d5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ben James Boomerangs Back to Crispin as CCO",
+          "url": "https://www.adweek.com/agencies/ben-james-boomerangs-back-to-crispin-as-cco/",
+          "postedAt": "2026-09-24T06:00:00.000Z"
+        },
+        {
           "id": "om_5868208110",
           "source": "Retail Dive",
           "lang": "en",
@@ -536,14 +656,6 @@
           "postedAt": "2026-09-23T16:13:00.000Z"
         },
         {
-          "id": "om_cb8771dad7",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
-          "url": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
-          "postedAt": "2026-09-23T16:03:44.000Z"
-        },
-        {
           "id": "om_30e57a1397",
           "source": "Retail Dive",
           "lang": "en",
@@ -552,120 +664,16 @@
           "postedAt": "2026-09-23T15:49:00.000Z"
         },
         {
-          "id": "om_6c5b86c7b0",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
-          "url": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
-          "postedAt": "2026-09-23T15:46:57.000Z"
-        },
-        {
           "id": "om_30d6bedc93",
           "source": "Marketing Brew",
           "lang": "en",
           "title": "Environmental marketing regulations are contradictory. How do advertisers comply?",
           "url": "https://www.marketingbrew.com/stories/environmental-marketing-regulations-climate-week-nyc?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-09-23T15:41:47.000Z"
-        },
-        {
-          "id": "om_cee89aeb66",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Shoppers burned by bad AI recommendations",
-          "url": "https://www.retaildive.com/news/shoppers-burned-bad-ai-purchase-recommendations/831013/",
-          "postedAt": "2026-09-23T15:18:00.000Z"
-        },
-        {
-          "id": "om_0a72a31310",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside year two of the NFL’s AI partnership with Adobe",
-          "url": "https://www.marketingbrew.com/stories/nfl-adobe-AI-partnership-fan-data?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-23T14:56:37.000Z"
-        },
-        {
-          "id": "om_6c2956164d",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Target’s new campaign puts design legacy at center of marketing",
-          "url": "https://www.marketingdive.com/news/targets-new-campaign-puts-design-legacy-at-center-of-marketing/831116/",
-          "postedAt": "2026-09-23T14:44:00.000Z"
-        },
-        {
-          "id": "om_e1a47230bc",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "At Home gives its customers a voice in its loyalty program evolution",
-          "url": "https://www.retaildive.com/news/at-home-customers-voice-loyalty-program-evolution/831085/",
-          "postedAt": "2026-09-23T14:44:00.000Z"
-        },
-        {
-          "id": "om_14e016e779",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Staples’ chief marketer on introducing a hard button amid bigger B2B push",
-          "url": "https://www.retaildive.com/news/staples-chief-marketer-hard-button-ad-campaign/830795/",
-          "postedAt": "2026-09-23T14:42:00.000Z"
-        },
-        {
-          "id": "om_33d4153d93",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "YouTube releases new AI features for creators within its Studio app",
-          "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-          "postedAt": "2026-09-23T14:30:00.000Z"
-        },
-        {
-          "id": "om_ac3819e81a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How HBO’s Marketing Shined a Green Spotlight on Lanterns",
-          "url": "https://www.adweek.com/convergent-tv/how-hbo-marketing-shined-a-green-spotlight-on-lanterns/",
-          "postedAt": "2026-09-23T13:57:13.000Z"
-        },
-        {
-          "id": "om_df69abde28",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Executive Partnership Behind Stanley 1913’s Hypergrowth",
-          "url": "https://www.adweek.com/brand-marketing/the-executive-partnership-behind-stanley-1913s-hypergrowth/",
-          "postedAt": "2026-09-23T11:41:08.000Z"
-        },
-        {
-          "id": "om_94c1b951a3",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "A Social Commerce Playbook for the AI Era",
-          "url": "https://www.adweek.com/commerce/a-social-commerce-playbook-for-the-ai-era/",
-          "postedAt": "2026-09-23T09:54:49.000Z"
-        },
-        {
-          "id": "om_f27f1646bc",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "What It Takes to Manage Creator Commerce at Scale",
-          "url": "https://www.adweek.com/brand-marketing/what-it-takes-to-manage-creator-commerce-at-scale/",
-          "postedAt": "2026-09-23T09:54:09.000Z"
-        },
-        {
-          "id": "om_baacc2da8a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Alignment Is Your Most Important Growth Strategy",
-          "url": "https://www.adweek.com/brand-marketing/alignment-is-your-most-important-growth-strategy/",
-          "postedAt": "2026-09-23T09:53:46.000Z"
-        },
-        {
-          "id": "om_caf826e266",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Uncovering Unconventional Marketing Tactics in Higher Ed",
-          "url": "https://www.adweek.com/brand-marketing/uncovering-unconventional-marketing-tactics-in-higher-ed/",
-          "postedAt": "2026-09-23T09:53:30.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-24T04:48:10.331Z",
+      "lastUpdated": "2026-09-24T17:09:15.092Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
