@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-24T17:09:12.325Z",
+      "lastUpdated": "2026-09-25T04:55:39.542Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,14 +266,6 @@
         }
       ],
       "podcasts": [
-        {
-          "id": "en_pod_the_knowledge_project_efa3a8744b",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "Bill Ackman: The Biggest Fight of His Life",
-          "url": "https://fs.blog/knowledge-project-podcast/bill-ackman-2/",
-          "postedAt": "2026-09-24T09:50:00.000Z"
-        },
         {
           "id": "en_pod_lenny_s_podcast_f0c4809f60",
           "source": "Lenny's Podcast",
@@ -419,10 +411,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-24T17:09:13.824Z",
+      "lastUpdated": "2026-09-25T04:55:40.883Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -512,12 +504,44 @@
       },
       "articles": [
         {
+          "id": "om_847969f8b6",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+          "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+          "postedAt": "2026-09-25T01:25:53.000Z"
+        },
+        {
+          "id": "om_1174734142",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "E.l.f. Cosmetics Names Joaquina Its Brand Ambassador Alongside Second Album Drop",
+          "url": "https://www.adweek.com/brand-marketing/elf-cosmetics-names-joaquina-its-brand-ambassador-alongside-second-album-drop/",
+          "postedAt": "2026-09-24T20:00:00.000Z"
+        },
+        {
           "id": "om_0b4b6bf115",
           "source": "Marketing Brew",
           "lang": "en",
           "title": "Inside Rogaine's push to position itself as a solution for men and women alike",
           "url": "https://www.marketingbrew.com/stories/rogaine-marketing-strategy-experiential-creators?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-09-24T16:59:31.000Z"
+        },
+        {
+          "id": "om_e41cd15e9c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "An Accountant’s Playbook to Great Marketing ft. Sony’s Mary Yee",
+          "url": "https://www.adweek.com/brand-marketing/an-accountants-playbook-to-great-marketing-ft-sonys-mary-yee/",
+          "postedAt": "2026-09-24T16:53:03.000Z"
+        },
+        {
+          "id": "om_5fbe01394f",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+          "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+          "postedAt": "2026-09-24T16:35:13.000Z"
         },
         {
           "id": "om_71246c634c",
@@ -568,6 +592,14 @@
           "postedAt": "2026-09-24T15:00:31.000Z"
         },
         {
+          "id": "om_7179037096",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "McDonald’s Wants to Build a $1 Billion Ad Business",
+          "url": "https://www.adweek.com/commerce/mcdonalds-wants-to-build-a-1-billion-ad-business/",
+          "postedAt": "2026-09-24T15:00:11.000Z"
+        },
+        {
           "id": "om_966cae1407",
           "source": "Marketing Dive",
           "lang": "en",
@@ -592,6 +624,22 @@
           "postedAt": "2026-09-24T14:00:00.000Z"
         },
         {
+          "id": "om_86c57f7dff",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Best Buy Pitches Itself as a Media Production Company With Studios and Influencers",
+          "url": "https://www.adweek.com/commerce/best-buy-pitches-itself-as-a-media-production-company-with-studios-and-influencers/",
+          "postedAt": "2026-09-24T13:48:53.000Z"
+        },
+        {
+          "id": "om_a948e54f0c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Doceree Honors Top Healthcare Leaders Innovating With AI",
+          "url": "https://www.adweek.com/brand-marketing/doceree-honors-top-25-healthcare-leaders-innovating-with-ai/",
+          "postedAt": "2026-09-24T13:39:56.000Z"
+        },
+        {
           "id": "om_bf836a7dd6",
           "source": "Retail Dive",
           "lang": "en",
@@ -600,28 +648,12 @@
           "postedAt": "2026-09-24T13:29:00.000Z"
         },
         {
-          "id": "om_504830c507",
+          "id": "om_e48640a5b8",
           "source": "Adweek",
           "lang": "en",
-          "title": "Michelob Ultra Shoots and Scores Multiyear NHL Partnership",
-          "url": "https://www.adweek.com/convergent-tv/michelob-ultra-shoots-and-scores-multiyear-nhl-partnership/",
-          "postedAt": "2026-09-24T09:56:38.000Z"
-        },
-        {
-          "id": "om_6b6e0277cf",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Lowe’s Pilots Drone Delivery as New Way to Quickly Buy Paintbrushes or Batteries",
-          "url": "https://www.adweek.com/commerce/lowes-pilots-drone-delivery-as-new-way-to-quickly-buy-paintbrushes-or-batteries/",
-          "postedAt": "2026-09-24T08:00:00.000Z"
-        },
-        {
-          "id": "om_963e6566d5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ben James Boomerangs Back to Crispin as CCO",
-          "url": "https://www.adweek.com/agencies/ben-james-boomerangs-back-to-crispin-as-cco/",
-          "postedAt": "2026-09-24T06:00:00.000Z"
+          "title": "Gut Holds Onto Tim Horton’s Creative Account in Competitive Review",
+          "url": "https://www.adweek.com/agencies/gut-holds-onto-tim-hortons-creative-account-in-competitive-review/",
+          "postedAt": "2026-09-24T13:17:31.000Z"
         },
         {
           "id": "om_5868208110",
@@ -630,50 +662,10 @@
           "title": "Consumers trust AI to advise, but don’t consent to it purchasing for them",
           "url": "https://www.retaildive.com/news/consumers-trust-ai-advise-do-not-consent-purchasing-them/830990/",
           "postedAt": "2026-09-23T20:07:00.000Z"
-        },
-        {
-          "id": "om_d5fc01cef0",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Inside McDonald’s new marketing model as it enters media network fray",
-          "url": "https://www.marketingdive.com/news/inside-mcdonalds-new-marketing-model-as-it-enters-media-network-fray/831170/",
-          "postedAt": "2026-09-23T18:30:00.000Z"
-        },
-        {
-          "id": "om_ace55fb126",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Best Buy Is Selling Amazon Fire Streaming Ads",
-          "url": "https://www.adweek.com/commerce/best-buy-is-selling-amazon-fire-streaming-ads/",
-          "postedAt": "2026-09-23T17:00:00.000Z"
-        },
-        {
-          "id": "om_2059980b8b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "More lower-income households feel financially vulnerable",
-          "url": "https://www.retaildive.com/news/lower-income-households-financially-vulnerable-financial-health-network/831129/",
-          "postedAt": "2026-09-23T16:13:00.000Z"
-        },
-        {
-          "id": "om_30e57a1397",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target’s new campaign puts design legacy at center of marketing",
-          "url": "https://www.retaildive.com/news/target-inside-out-ad-campaign-marketing-design-legacy/831146/",
-          "postedAt": "2026-09-23T15:49:00.000Z"
-        },
-        {
-          "id": "om_30d6bedc93",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Environmental marketing regulations are contradictory. How do advertisers comply?",
-          "url": "https://www.marketingbrew.com/stories/environmental-marketing-regulations-climate-week-nyc?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-23T15:41:47.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-24T17:09:15.092Z",
+      "lastUpdated": "2026-09-25T04:55:41.957Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
