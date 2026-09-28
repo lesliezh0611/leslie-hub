@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-28T05:21:39.439Z",
+      "lastUpdated": "2026-09-28T19:39:54.935Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_c426a07aa4",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
+          "postedAt": "2026-09-28T15:03:13.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_631e24e3f2",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Jev for beginners: how to use it and what to build",
+          "url": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
+          "postedAt": "2026-09-28T12:03:04.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_821f7322b5",
           "source": "Lenny's Podcast",
@@ -339,28 +355,12 @@
           "postedAt": "2026-09-20T12:32:17.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_e06b36aa19",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
-          "postedAt": "2026-09-19T19:42:24.000Z"
-        },
-        {
           "id": "en_pod_lex_fridman_podcast_c19a6bb24b",
           "source": "Lex Fridman Podcast",
           "platform": "podcast",
           "topic": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
           "url": "https://lexfridman.com/andrew-scull/?utm_source=rss&utm_medium=rss&utm_campaign=andrew-scull",
           "postedAt": "2026-09-17T00:40:49.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_a558850955",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Muse review: The personal AI agent that gets consumer UX right",
-          "url": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
-          "postedAt": "2026-09-16T12:02:14.000Z"
         },
         {
           "id": "en_pod_the_knowledge_project_93f900e7a9",
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-28T05:21:40.893Z",
+      "lastUpdated": "2026-09-28T19:39:56.655Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,168 +512,168 @@
       },
       "articles": [
         {
-          "id": "om_cf8a3cbc88",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "How can Instagram creators use Muse AI agents?",
-          "url": "https://www.socialmediatoday.com/news/how-can-instagram-creators-use-muse-ai-agents/831443/",
-          "postedAt": "2026-09-27T22:24:06.000Z"
-        },
-        {
-          "id": "om_f1966d9612",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok agrees to teen usage restrictions in Alabama",
-          "url": "https://www.socialmediatoday.com/news/tiktok-agrees-to-teen-usage-restrictions-in-alabama/831442/",
-          "postedAt": "2026-09-27T22:21:25.000Z"
-        },
-        {
-          "id": "om_31b997b1e9",
+          "id": "om_07c0d45eef",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-          "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
-          "postedAt": "2026-09-26T20:24:45.000Z"
+          "title": "Shopify opens checkout to browser-based AI agents",
+          "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+          "postedAt": "2026-09-28T19:33:57.000Z"
         },
         {
-          "id": "om_3af09f2242",
-          "source": "Adweek",
+          "id": "om_907cbfcfae",
+          "source": "The Verge",
           "lang": "en",
-          "title": "Creators That Convert: 4 Business Leaders on Driving Full-Funnel Marketing Results",
-          "url": "https://www.adweek.com/brand-marketing/creators-that-convert-4-business-leaders-on-driving-full-funnel-marketing-results/",
-          "postedAt": "2026-09-25T16:54:53.000Z"
+          "title": "Walmart won’t hike prices based on your shopping history, CEO says",
+          "url": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
+          "postedAt": "2026-09-28T16:44:57.000Z"
         },
         {
-          "id": "om_001911f84e",
+          "id": "om_3bf26fe2d7",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Target is opening a store in the Hamptons. It’s not red.",
-          "url": "https://www.retaildive.com/news/target-store-hamptons-bridgehampton-gray/831356/",
-          "postedAt": "2026-09-25T15:41:00.000Z"
+          "title": "David’s Bridal wants to make it easy for vendors to engage with couples",
+          "url": "https://www.retaildive.com/news/davids-bridal-wedding-vendor-platform-pearl-connect/831475/",
+          "postedAt": "2026-09-28T15:52:00.000Z"
         },
         {
-          "id": "om_90623c3dec",
+          "id": "om_ed19ee26ba",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "TJX CEO: Distribution model will help weather El Niño",
-          "url": "https://www.retaildive.com/news/tjx-ceo-distribution-model-el-nino/831118/",
-          "postedAt": "2026-09-25T15:24:00.000Z"
+          "title": "Walmart consolidates merchant teams with focus on style",
+          "url": "https://www.retaildive.com/news/walmart-fashion-home-beauty-merchant-teams-style-organization/831464/",
+          "postedAt": "2026-09-28T15:51:00.000Z"
         },
         {
-          "id": "om_1f37fa4363",
+          "id": "om_d89c60ef35",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "The Weekly Closeout: What will happen to Michael Kors and J. Crew celebrates its Barn Jacket",
-          "url": "https://www.retaildive.com/news/michael-kors-capri-sale-acquisition-j-crew-barn-jacket-anniversary/831321/",
-          "postedAt": "2026-09-25T14:38:00.000Z"
+          "title": "Consumers aren’t just buying gifts this holiday season. They’re stocking up on essentials.",
+          "url": "https://www.retaildive.com/news/holiday-season-ecommerce-sales-growth-2026/831121/",
+          "postedAt": "2026-09-28T15:27:00.000Z"
         },
         {
-          "id": "om_8102fe8d39",
-          "source": "Adweek",
+          "id": "om_31ac3c58c3",
+          "source": "TechCrunch",
           "lang": "en",
-          "title": "Move Over, Taylor Swift. The Brands Are About to Spice Up the VMAs",
-          "url": "https://www.adweek.com/convergent-tv/move-over-taylor-swift-the-brands-are-about-to-spice-up-the-vmas/",
-          "postedAt": "2026-09-25T14:08:00.000Z"
+          "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+          "postedAt": "2026-09-28T15:00:00.000Z"
         },
         {
-          "id": "om_e4df246d12",
+          "id": "om_907bef9641",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "How Jeep is charting a new course for its marketing",
-          "url": "https://www.marketingdive.com/news/how-jeep-is-charting-a-new-course-for-its-marketing/831335/",
-          "postedAt": "2026-09-25T14:00:00.000Z"
+          "title": "DoorDash doubles down on WPP, naming agency global media partner",
+          "url": "https://www.marketingdive.com/news/doordash-doubles-down-on-wpp-naming-agency-global-media-partner/831473/",
+          "postedAt": "2026-09-28T15:00:00.000Z"
         },
         {
-          "id": "om_f87b67be97",
+          "id": "om_23181cf223",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Campaign Trail: Brooklinen goes in-house for first celebrity-led effort",
-          "url": "https://www.marketingdive.com/news/campaign-trail-brooklinen-goes-in-house-for-first-celebrity-led-effort/830987/",
-          "postedAt": "2026-09-25T12:00:00.000Z"
+          "title": "Twisted Tea dons camo for collab campaign as brand faces headwinds",
+          "url": "https://www.marketingdive.com/news/twisted-tea-dons-camo-for-collab-campaign-as-brand-faces-headwinds/831472/",
+          "postedAt": "2026-09-28T14:46:00.000Z"
         },
         {
-          "id": "om_9523aa9ad5",
-          "source": "Adweek",
+          "id": "om_a158679d7c",
+          "source": "Marketing Dive",
           "lang": "en",
-          "title": "Global Citizen Taps Influential As Its Official Creator Partner",
-          "url": "https://www.adweek.com/media/global-citizen-influential-official-creator-partner/",
-          "postedAt": "2026-09-25T09:00:00.000Z"
+          "title": "Dave & Buster’s shakes up agencies amid bid to rebuild brand relevance",
+          "url": "https://www.marketingdive.com/news/dave-busters-shakes-up-agencies-amid-bid-to-rebuild-brand-relevance/831369/",
+          "postedAt": "2026-09-28T14:10:00.000Z"
         },
         {
-          "id": "om_ec2b442696",
+          "id": "om_570c976490",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "E.l.f. jams to second music album under entertainment marketing arm",
+          "url": "https://www.marketingdive.com/news/elf-jams-to-second-music-album-under-entertainment-marketing-arm/831453/",
+          "postedAt": "2026-09-28T13:55:00.000Z"
+        },
+        {
+          "id": "om_db1b7e278e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "5 store concepts that launched in 2026",
+          "url": "https://www.retaildive.com/news/store-concepts-launched-2026-target-foot-locker-dicks-michaels/831350/",
+          "postedAt": "2026-09-28T13:33:00.000Z"
+        },
+        {
+          "id": "om_1d3957fc87",
           "source": "Marketing Brew",
           "lang": "en",
-          "title": "Inside Oura’s year of sports marketing",
-          "url": "https://www.marketingbrew.com/stories/oura-ring-sports-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-25T09:00:00.000Z"
+          "title": "Agentic advertising trade group debuts board amid broader industry adoption",
+          "url": "https://www.marketingbrew.com/stories/agentic-advertising-trade-group-adcp?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-28T13:00:00.000Z"
         },
         {
-          "id": "om_6eed94a260",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Dave & Buster’s Hires New Agencies to Get More People Into Its Locations",
-          "url": "https://www.adweek.com/agencies/dave-busters-hires-new-agencies-to-get-more-people-into-its-locations/",
-          "postedAt": "2026-09-25T06:00:00.000Z"
-        },
-        {
-          "id": "om_0089c8cb73",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 9 Campaigns That Caught Our Eye, From Beats to Peloton",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-9-campaigns-that-caught-our-eye-from-beats-to-peloton/",
-          "postedAt": "2026-09-25T06:00:00.000Z"
-        },
-        {
-          "id": "om_1174734142",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "E.l.f. Cosmetics Names Joaquina Its Brand Ambassador Alongside Second Album Drop",
-          "url": "https://www.adweek.com/brand-marketing/elf-cosmetics-names-joaquina-its-brand-ambassador-alongside-second-album-drop/",
-          "postedAt": "2026-09-24T20:00:00.000Z"
-        },
-        {
-          "id": "om_0b4b6bf115",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside Rogaine’s push to position itself as a solution for men and women alike",
-          "url": "https://www.marketingbrew.com/stories/rogaine-marketing-strategy-experiential-creators?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-24T16:59:31.000Z"
-        },
-        {
-          "id": "om_71246c634c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Tapestry to sell via Google’s Gemini app, AI Mode",
-          "url": "https://www.retaildive.com/news/tapestry-sell-via-google-gemini-app-ai-mode/830890/",
-          "postedAt": "2026-09-24T16:16:00.000Z"
-        },
-        {
-          "id": "om_ce0779704e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Stitch Fix keeps sales expectations in check as it loses active clients",
-          "url": "https://www.retaildive.com/news/stitch-fix-q4-sales-expectations-in-check-loses-active-clients/831210/",
-          "postedAt": "2026-09-24T15:54:00.000Z"
-        },
-        {
-          "id": "om_a1e569b74c",
+          "id": "om_600ee697d4",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Wayfair ups investment in sports for values-focused brand platform",
-          "url": "https://www.marketingdive.com/news/wayfair-ups-investment-in-sports-for-values-focused-brand-platform/831231/",
-          "postedAt": "2026-09-24T15:26:00.000Z"
+          "title": "Subway’s CMO on finding room to grow between competitors in QSR",
+          "url": "https://www.marketingdive.com/news/subways-cmo-on-finding-room-to-grow-between-competitors-in-qsr/831341/",
+          "postedAt": "2026-09-28T11:30:00.000Z"
         },
         {
-          "id": "om_6ee0ccf8d0",
+          "id": "om_7e03137331",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Delta Air Lines Follows United in Building an Ads Business",
+          "url": "https://www.adweek.com/commerce/delta-air-lines-follows-united-in-building-an-ads-business/",
+          "postedAt": "2026-09-28T10:59:37.000Z"
+        },
+        {
+          "id": "om_d4ddf5e72c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How agencies can turn holiday intent into action",
+          "url": "https://www.marketingdive.com/spons/how-agencies-can-turn-holiday-intent-into-action/831219/",
+          "postedAt": "2026-09-28T09:00:00.000Z"
+        },
+        {
+          "id": "om_1c531ea63c",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How advertisers are adjusting to Meta’s ad creative diversification best practices",
+          "url": "https://www.marketingbrew.com/stories/meta-ad-creative-diversification-best-practices-advertiser-approach?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-28T09:00:00.000Z"
+        },
+        {
+          "id": "om_8e5dba316a",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Halloween spending expected to reach $13.5B",
-          "url": "https://www.retaildive.com/news/halloween-spending-surpass-2025-record/831239/",
-          "postedAt": "2026-09-24T15:09:00.000Z"
+          "title": "Surf, don’t drown: How retailers can ride the AI wave successfully",
+          "url": "https://www.retaildive.com/spons/surf-dont-drown-how-retailers-can-ride-the-ai-wave-successfully/831274/",
+          "postedAt": "2026-09-28T09:00:00.000Z"
+        },
+        {
+          "id": "om_4053c09418",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "AI in grocery retail: 5 tips for better customer experiences",
+          "url": "https://www.retaildive.com/spons/ai-in-grocery-retail-5-tips-for-better-customer-experiences/830745/",
+          "postedAt": "2026-09-28T09:00:00.000Z"
+        },
+        {
+          "id": "om_50afa1d22e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Black Friday 2026 ready: The infrastructure and compliance checklist retailers can’t afford to skip",
+          "url": "https://www.retaildive.com/spons/black-friday-2026-ready-the-infrastructure-and-compliance-checklist-retail/831107/",
+          "postedAt": "2026-09-28T09:00:00.000Z"
+        },
+        {
+          "id": "om_4e7b689db4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Holiday Ecommerce Shopping to Hit $275 Billion Despite Consumer Strain, According to Adobe",
+          "url": "https://www.adweek.com/commerce/holiday-ecommerce-shopping-to-hit-275-billion-despite-consumer-strain-according-to-adobe/",
+          "postedAt": "2026-09-28T08:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-28T05:21:42.103Z",
+      "lastUpdated": "2026-09-28T19:39:57.654Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
