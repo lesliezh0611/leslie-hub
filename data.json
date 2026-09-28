@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-27T16:56:56.218Z",
+      "lastUpdated": "2026-09-28T05:21:39.439Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-27T16:56:57.534Z",
+      "lastUpdated": "2026-09-28T05:21:40.893Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -511,6 +511,22 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_cf8a3cbc88",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "How can Instagram creators use Muse AI agents?",
+          "url": "https://www.socialmediatoday.com/news/how-can-instagram-creators-use-muse-ai-agents/831443/",
+          "postedAt": "2026-09-27T22:24:06.000Z"
+        },
+        {
+          "id": "om_f1966d9612",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok agrees to teen usage restrictions in Alabama",
+          "url": "https://www.socialmediatoday.com/news/tiktok-agrees-to-teen-usage-restrictions-in-alabama/831442/",
+          "postedAt": "2026-09-27T22:21:25.000Z"
+        },
         {
           "id": "om_31b997b1e9",
           "source": "TechCrunch",
@@ -654,26 +670,10 @@
           "title": "Halloween spending expected to reach $13.5B",
           "url": "https://www.retaildive.com/news/halloween-spending-surpass-2025-record/831239/",
           "postedAt": "2026-09-24T15:09:00.000Z"
-        },
-        {
-          "id": "om_1b89f5c29e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Retailers tamp down shadow AI but struggle to oversee agentic sprawl",
-          "url": "https://www.retaildive.com/news/retail-ai-agents-visibility-data-breaches-netskope/831035/",
-          "postedAt": "2026-09-24T15:09:00.000Z"
-        },
-        {
-          "id": "om_e6fd4c89a7",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "For Cakes Body, the next phase of its founder-led marketing is owned entertainment",
-          "url": "https://www.marketingbrew.com/stories/cakes-body-owned-entertainment-founder-led-marketing?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-24T15:00:31.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-27T16:56:58.234Z",
+      "lastUpdated": "2026-09-28T05:21:42.103Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
