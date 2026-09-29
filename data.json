@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-28T19:39:54.935Z",
+      "lastUpdated": "2026-09-29T05:42:11.179Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-28T19:39:56.655Z",
+      "lastUpdated": "2026-09-29T05:42:12.860Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -511,6 +511,22 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_a54b0644ea",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+          "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+          "postedAt": "2026-09-29T05:13:43.000Z"
+        },
+        {
+          "id": "om_df48d91266",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "LinkedIn tests advanced creator discovery to power brand campaigns",
+          "url": "https://www.socialmediatoday.com/news/linkedin-tests-advanced-creator-discovery-to-power-brand-campaigns/831555/",
+          "postedAt": "2026-09-28T20:00:35.000Z"
+        },
         {
           "id": "om_07c0d45eef",
           "source": "TechCrunch",
@@ -654,26 +670,10 @@
           "title": "AI in grocery retail: 5 tips for better customer experiences",
           "url": "https://www.retaildive.com/spons/ai-in-grocery-retail-5-tips-for-better-customer-experiences/830745/",
           "postedAt": "2026-09-28T09:00:00.000Z"
-        },
-        {
-          "id": "om_50afa1d22e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Black Friday 2026 ready: The infrastructure and compliance checklist retailers can’t afford to skip",
-          "url": "https://www.retaildive.com/spons/black-friday-2026-ready-the-infrastructure-and-compliance-checklist-retail/831107/",
-          "postedAt": "2026-09-28T09:00:00.000Z"
-        },
-        {
-          "id": "om_4e7b689db4",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Holiday Ecommerce Shopping to Hit $275 Billion Despite Consumer Strain, According to Adobe",
-          "url": "https://www.adweek.com/commerce/holiday-ecommerce-shopping-to-hit-275-billion-despite-consumer-strain-according-to-adobe/",
-          "postedAt": "2026-09-28T08:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-28T19:39:57.654Z",
+      "lastUpdated": "2026-09-29T05:42:14.506Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
