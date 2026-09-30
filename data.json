@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-30T05:31:05.398Z",
+      "lastUpdated": "2026-09-30T17:59:29.634Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_82cfe0728e",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "OpenAI Dev Day 2026: The releases that actually matter",
+          "url": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
+          "postedAt": "2026-09-30T14:45:15.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_d58360993c",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Jev: 8 real use cases for the fastest, cheapest model I’ve ever used | John Lindquist",
+          "url": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest",
+          "postedAt": "2026-09-30T12:04:27.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_64138d9738",
           "source": "Lenny's Podcast",
@@ -339,22 +355,6 @@
           "postedAt": "2026-09-22T12:45:14.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_154febf0aa",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
-          "postedAt": "2026-09-21T15:03:51.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_201957d3ce",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
-          "url": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
-          "postedAt": "2026-09-21T12:04:11.000Z"
-        },
-        {
           "id": "en_pod_lex_fridman_podcast_c19a6bb24b",
           "source": "Lex Fridman Podcast",
           "platform": "podcast",
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-30T05:31:07.410Z",
+      "lastUpdated": "2026-09-30T17:59:31.865Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,70 @@
       },
       "articles": [
         {
+          "id": "om_04acd56abe",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "The ugly economics of consumer AI",
+          "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+          "postedAt": "2026-09-30T17:24:45.000Z"
+        },
+        {
+          "id": "om_d4b8033fa6",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Instagram rolls out an AI video assistant for creators",
+          "url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+          "postedAt": "2026-09-30T14:30:00.000Z"
+        },
+        {
+          "id": "om_fdccb1b374",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "NBC Sports Turns NBA Athletes Into Comic Book Heroes for a Super Second Season",
+          "url": "https://www.adweek.com/brand-marketing/nbc-sports-turns-nba-athletes-into-comic-book-heroes-for-a-super-second-season/",
+          "postedAt": "2026-09-30T13:16:49.000Z"
+        },
+        {
+          "id": "om_1b21958974",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Scouting America drops recruitment campaign starring Josh Hart",
+          "url": "https://www.marketingbrew.com/stories/scouting-america-recruitment-campaign-josh-hart?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-30T13:01:00.000Z"
+        },
+        {
+          "id": "om_3737f2cde9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "What Kroger’s predictive scoring work means for e-commerce marketers",
+          "url": "https://www.marketingdive.com/news/how-kroger-uses-ai-and-predictive-scoring-to-tie-creative-to-conversion/831659/",
+          "postedAt": "2026-09-30T12:00:00.000Z"
+        },
+        {
+          "id": "om_a8c9f986d6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Emma Armstrong and Michael Aimette to Depart BBDO NY",
+          "url": "https://www.adweek.com/agencies/emma-armstrong-and-michael-aimette-to-depart-bbdo-ny/",
+          "postedAt": "2026-09-30T11:30:00.000Z"
+        },
+        {
+          "id": "om_e84d918e29",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "You Can Order DoorDash Through Texts and Slack Messages Now",
+          "url": "https://www.adweek.com/commerce/you-can-order-doordash-through-texts-and-slack-messages-now/",
+          "postedAt": "2026-09-30T09:00:00.000Z"
+        },
+        {
+          "id": "om_8948bf6682",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "The State of the CMO",
+          "url": "https://www.marketingbrew.com/stories/the-state-of-the-cmo?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-09-30T09:00:00.000Z"
+        },
+        {
           "id": "om_1b7296a886",
           "source": "Social Media Today",
           "lang": "en",
@@ -539,7 +603,7 @@
           "id": "om_9df754e372",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "How Thorne’s brand platform led to a $3.8B P&G deal — and what’s next",
+          "title": "How Thorne built a brand platform ahead of $3.8B P&G deal — and what’s next",
           "url": "https://www.marketingdive.com/news/how-thornes-brand-platform-led-to-a-38b-pg-deal-and-whats-next/831494/",
           "postedAt": "2026-09-29T17:00:00.000Z"
         },
@@ -600,80 +664,16 @@
           "postedAt": "2026-09-29T15:04:00.000Z"
         },
         {
-          "id": "om_6043d78db3",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Kids2’s Rochelle Wainer on Consumer Insights and the Next Generation of Parents",
-          "url": "https://www.adweek.com/commerce/kids2s-rochelle-wainer-on-consumer-insights-and-the-next-generation-of-parents/",
-          "postedAt": "2026-09-29T14:53:03.000Z"
-        },
-        {
-          "id": "om_ae7e1777e2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "From Heritage to Happy Hour: How Campari Keeps Iconic Brands Moving With Culture",
-          "url": "https://www.adweek.com/brand-marketing/from-heritage-to-happy-hour-how-campari-keeps-iconic-brands-moving-with-culture/",
-          "postedAt": "2026-09-29T14:51:51.000Z"
-        },
-        {
           "id": "om_baaf21db1d",
           "source": "Marketing Brew",
           "lang": "en",
           "title": "Uncorking the New York Liberty’s end-of-season-awards campaign",
           "url": "https://www.marketingbrew.com/stories/new-york-liberty-end-of-season-awards-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-09-29T14:49:45.000Z"
-        },
-        {
-          "id": "om_3831f220fa",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why CMOs Get Fired Fast ft. Jessica Apotheker of BCG",
-          "url": "https://www.adweek.com/brand-marketing/why-cmos-get-fired-fast-ft-jessica-apotheker-of-bcg/",
-          "postedAt": "2026-09-29T14:49:34.000Z"
-        },
-        {
-          "id": "om_d7771372ed",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Clean Creatives’ 2026 F-list takes on global fossil fuel contracts and AI-generated oil ads",
-          "url": "https://www.marketingbrew.com/stories/clean-creatives-f-list-ai-generated-ads?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-29T14:39:05.000Z"
-        },
-        {
-          "id": "om_27750c61cf",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "CMOs must rethink entry-level talent as AI alters marketing needs: Gartner",
-          "url": "https://www.marketingdive.com/news/cmos-must-rethink-entry-level-talent-as-ai-alters-marketing-needs-gartner/831604/",
-          "postedAt": "2026-09-29T14:37:00.000Z"
-        },
-        {
-          "id": "om_9e8658de1c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Inflation slams consumer sentiment to 4-month low",
-          "url": "https://www.retaildive.com/news/inflation-slams-consumer-sentiment-four-month-low-fed-monetary-policy/831599/",
-          "postedAt": "2026-09-29T14:26:00.000Z"
-        },
-        {
-          "id": "om_65aebd5da9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Amazon is streamlining ad buys across multiple formats with AI",
-          "url": "https://www.marketingdive.com/news/how-amazon-is-streamlining-ad-buys-across-multiple-formats-with-ai/831492/",
-          "postedAt": "2026-09-29T13:00:00.000Z"
-        },
-        {
-          "id": "om_83c0b2b206",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Alphabet’s Wing Hires Minjae Ormes as Head of Marketing",
-          "url": "https://www.adweek.com/brand-marketing/alphabets-wing-hires-minjae-ormes-as-head-of-marketing/",
-          "postedAt": "2026-09-29T12:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-30T05:31:08.725Z",
+      "lastUpdated": "2026-09-30T17:59:33.266Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
