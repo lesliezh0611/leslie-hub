@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-01T05:50:14.124Z",
+      "lastUpdated": "2026-10-01T18:24:48.507Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_the_knowledge_project_6f1c8184f3",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "[Outliers] Charlie Munger’s Interview with Todd Combs",
+          "url": "https://fs.blog/knowledge-project-podcast/outliers-munger-combs/",
+          "postedAt": "2026-10-01T09:50:00.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_82cfe0728e",
           "source": "Lenny's Podcast",
@@ -361,14 +369,6 @@
           "topic": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
           "url": "https://lexfridman.com/andrew-scull/?utm_source=rss&utm_medium=rss&utm_campaign=andrew-scull",
           "postedAt": "2026-09-17T00:40:49.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_93f900e7a9",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "Tobi Lütke: AI Agents, Better Decisions, and the Future of Work",
-          "url": "https://fs.blog/knowledge-project-podcast/tobi-lutke-3/",
-          "postedAt": "2026-09-10T09:50:00.000Z"
         }
       ],
       "books": [
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-01T05:50:17.677Z",
+      "lastUpdated": "2026-10-01T18:24:50.027Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,118 @@
       },
       "articles": [
         {
+          "id": "om_67fa7499b8",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+          "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+          "postedAt": "2026-10-01T16:44:35.000Z"
+        },
+        {
+          "id": "om_fc08855c5b",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Discord steps up play for mobile advertisers with rewarded video product",
+          "url": "https://www.marketingdive.com/news/discord-steps-up-play-for-mobile-advertisers-with-rewarded-video-product/831808/",
+          "postedAt": "2026-10-01T16:00:00.000Z"
+        },
+        {
+          "id": "om_b376d603cd",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Skechers CFO jumps to Levi’s",
+          "url": "https://www.retaildive.com/news/skechers-cfo-jumps-levis/831872/",
+          "postedAt": "2026-10-01T15:52:00.000Z"
+        },
+        {
+          "id": "om_0b627a0cf9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Consumer AI use a boon for the holidays as AI traffic doubles",
+          "url": "https://www.retaildive.com/news/consumer-ai-use-boon-holidays-ai-traffic-doubles/831790/",
+          "postedAt": "2026-10-01T15:49:00.000Z"
+        },
+        {
+          "id": "om_668cd8aaa6",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Holiday hiring is getting ‘smaller and more surgical’",
+          "url": "https://www.retaildive.com/news/holiday-seasonal-retail-hiring-lower/831866/",
+          "postedAt": "2026-10-01T15:23:00.000Z"
+        },
+        {
+          "id": "om_bd4e7308b9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "KnitWell Group names chief digital and customer data officer",
+          "url": "https://www.retaildive.com/news/knitwell-chief-digital-customer-data-officer-ann-taylor-chicos/831807/",
+          "postedAt": "2026-10-01T15:13:00.000Z"
+        },
+        {
+          "id": "om_ea7829e84d",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: TikTok adds certification tiers for agency partners",
+          "url": "https://www.marketingdive.com/news/sociable-tiktok-adds-certification-tiers-for-agency-partners/831892/",
+          "postedAt": "2026-10-01T15:03:00.000Z"
+        },
+        {
+          "id": "om_9dccc48a3f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Consumer confidence sags to 12-year low, eroded by inflation, job anxiety",
+          "url": "https://www.retaildive.com/news/consumer-confidence-sags-12-year-low-eroded-inflation-job-anxiety-fed-federal-reserve/831783/",
+          "postedAt": "2026-10-01T14:39:00.000Z"
+        },
+        {
+          "id": "om_4cdc9bf267",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Reese’s searches for ‘trick-or-treatiest street’ in multichannel effort",
+          "url": "https://www.marketingdive.com/news/reeses-searches-for-trick-or-treatiest-street-in-multichannel-effort/831813/",
+          "postedAt": "2026-10-01T14:00:00.000Z"
+        },
+        {
+          "id": "om_9e293ede11",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Sallie Starts Serving Ads to Students Looking for Scholarships",
+          "url": "https://www.adweek.com/commerce/sallie-starts-serving-ads-to-students-looking-for-scholarships/",
+          "postedAt": "2026-10-01T12:48:53.000Z"
+        },
+        {
+          "id": "om_5c7a25d754",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Inside Advertising Week’s changes — and a bid for $100M in creator deals",
+          "url": "https://www.marketingdive.com/news/inside-advertising-weeks-changes-and-a-bid-for-100m-in-creator-deals/831812/",
+          "postedAt": "2026-10-01T12:00:00.000Z"
+        },
+        {
+          "id": "om_085a3cae82",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Megan Fox Is the ED Treatment In New Ro Sparks Campaign",
+          "url": "https://www.adweek.com/brand-marketing/megan-fox-is-the-ed-treatment-in-new-ro-sparks-campaign/",
+          "postedAt": "2026-10-01T09:00:00.000Z"
+        },
+        {
+          "id": "om_a516b7d0b3",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Under the hood of Under Armour’s quest to reconnect with its football roots",
+          "url": "https://www.marketingbrew.com/stories/under-armour-football-marketing?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-01T09:00:00.000Z"
+        },
+        {
+          "id": "om_7d76fca8e7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Three NFL Wives Who Sacked the Stereotype and Ran Their Own Brand Plays",
+          "url": "https://www.adweek.com/brand-marketing/three-nfl-wives-who-sacked-the-stereotype-and-ran-their-own-brand-plays/",
+          "postedAt": "2026-10-01T08:08:13.000Z"
+        },
+        {
           "id": "om_15c86ff163",
           "source": "Adweek",
           "lang": "en",
@@ -544,46 +656,6 @@
           "postedAt": "2026-09-30T19:00:00.000Z"
         },
         {
-          "id": "om_04acd56abe",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "The ugly economics of consumer AI",
-          "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-          "postedAt": "2026-09-30T17:24:45.000Z"
-        },
-        {
-          "id": "om_3d3a5f3080",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "KFC Superfans Prove Their Devotion to Chicken in 30-Minute Game Show",
-          "url": "https://www.adweek.com/brand-marketing/kfc-superfans-prove-their-devotion-to-chicken-in-30-minute-game-show/",
-          "postedAt": "2026-09-30T15:00:00.000Z"
-        },
-        {
-          "id": "om_249b4d840d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Entries Open for ADWEEK Team Visionary Awards 2027",
-          "url": "https://www.adweek.com/brand-marketing/entries-open-for-adweek-team-visionary-awards-2027/",
-          "postedAt": "2026-09-30T14:53:27.000Z"
-        },
-        {
-          "id": "om_d4b8033fa6",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Instagram rolls out an AI video assistant for creators",
-          "url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
-          "postedAt": "2026-09-30T14:30:00.000Z"
-        },
-        {
-          "id": "om_fdccb1b374",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "NBC Sports Turns NBA Athletes Into Comic Book Heroes for a Super Second Season",
-          "url": "https://www.adweek.com/brand-marketing/nbc-sports-turns-nba-athletes-into-comic-book-heroes-for-a-super-second-season/",
-          "postedAt": "2026-09-30T13:16:49.000Z"
-        },
-        {
           "id": "om_1b21958974",
           "source": "Marketing Brew",
           "lang": "en",
@@ -598,82 +670,10 @@
           "title": "What Kroger’s predictive scoring work means for e-commerce marketers",
           "url": "https://www.marketingdive.com/news/how-kroger-uses-ai-and-predictive-scoring-to-tie-creative-to-conversion/831659/",
           "postedAt": "2026-09-30T12:00:00.000Z"
-        },
-        {
-          "id": "om_8948bf6682",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "The State of the CMO",
-          "url": "https://www.marketingbrew.com/stories/the-state-of-the-cmo?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-30T09:00:00.000Z"
-        },
-        {
-          "id": "om_1b7296a886",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok adds certification tiers for agency partners",
-          "url": "https://www.socialmediatoday.com/news/tiktok-adds-certification-tiers-for-agency-partners/831719/",
-          "postedAt": "2026-09-29T22:29:28.000Z"
-        },
-        {
-          "id": "om_3a00c1d0a6",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Pinterest offers post-holiday marketing tips",
-          "url": "https://www.socialmediatoday.com/news/pinterest-offers-post-holiday-marketing-tips/831715/",
-          "postedAt": "2026-09-29T21:45:40.000Z"
-        },
-        {
-          "id": "om_9df754e372",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Thorne built a brand platform ahead of $3.8B P&G deal — and what’s next",
-          "url": "https://www.marketingdive.com/news/how-thornes-brand-platform-led-to-a-38b-pg-deal-and-whats-next/831494/",
-          "postedAt": "2026-09-29T17:00:00.000Z"
-        },
-        {
-          "id": "om_f6c6c01201",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "NHL taps Adobe as creative, marketing and AI partner",
-          "url": "https://www.marketingdive.com/news/nhl-taps-adobe-as-creative-marketing-and-ai-partner/831601/",
-          "postedAt": "2026-09-29T16:30:00.000Z"
-        },
-        {
-          "id": "om_f81c41167f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Wayfair ups investment in sports for values-focused brand platform",
-          "url": "https://www.retaildive.com/news/wayfair-ups-investment-in-sports-for-values-focused-brand-platform/831615/",
-          "postedAt": "2026-09-29T15:55:00.000Z"
-        },
-        {
-          "id": "om_2c06b9fb33",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target cuts prices as consumer sentiment sours",
-          "url": "https://www.retaildive.com/news/target-cuts-prices-consumer-sentiment-sours/831627/",
-          "postedAt": "2026-09-29T15:42:00.000Z"
-        },
-        {
-          "id": "om_562626f262",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Sephora furthers UK ambitions via M&S shop-in-shops",
-          "url": "https://www.retaildive.com/news/sephora-marks-spencer-uk-beauty-retail-shop-in-shops/831603/",
-          "postedAt": "2026-09-29T15:41:00.000Z"
-        },
-        {
-          "id": "om_0b72ad1a14",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Best Buy to launch on TikTok Shop",
-          "url": "https://www.retaildive.com/news/best-buy-tiktok-shop-launch/831527/",
-          "postedAt": "2026-09-29T15:04:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-01T05:50:19.174Z",
+      "lastUpdated": "2026-10-01T18:24:51.332Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
