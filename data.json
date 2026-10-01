@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-09-30T17:59:29.634Z",
+      "lastUpdated": "2026-10-01T05:50:14.124Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-30T17:59:31.865Z",
+      "lastUpdated": "2026-10-01T05:50:17.677Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,12 +512,60 @@
       },
       "articles": [
         {
+          "id": "om_15c86ff163",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ad Council PSA Reveals the Secret Struggles of New Motherhood",
+          "url": "https://www.adweek.com/brand-marketing/ad-council-psa-reveals-the-secret-struggles-of-new-motherhood/",
+          "postedAt": "2026-10-01T00:01:00.000Z"
+        },
+        {
+          "id": "om_83b4ee790b",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok hosts launch of David Geffen Galleries",
+          "url": "https://www.socialmediatoday.com/news/tiktok-hosts-launch-of-david-geffen-galleries/831839/",
+          "postedAt": "2026-09-30T21:39:17.000Z"
+        },
+        {
+          "id": "om_169b494659",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Cava hires Dr. Squatch marketer as CMO to build on growth",
+          "url": "https://www.marketingdive.com/news/cava-hires-dr-squatch-marketer-as-cmo-to-build-on-growth/831662/",
+          "postedAt": "2026-09-30T20:00:00.000Z"
+        },
+        {
+          "id": "om_c755e99acf",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Slow Ventures Backs 3 More Creators in Its $64 Million Bet on Niche ‘Cults’",
+          "url": "https://www.adweek.com/dealroom/slow-ventures-invests-creators/",
+          "postedAt": "2026-09-30T19:00:00.000Z"
+        },
+        {
           "id": "om_04acd56abe",
           "source": "TechCrunch",
           "lang": "en",
           "title": "The ugly economics of consumer AI",
           "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
           "postedAt": "2026-09-30T17:24:45.000Z"
+        },
+        {
+          "id": "om_3d3a5f3080",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "KFC Superfans Prove Their Devotion to Chicken in 30-Minute Game Show",
+          "url": "https://www.adweek.com/brand-marketing/kfc-superfans-prove-their-devotion-to-chicken-in-30-minute-game-show/",
+          "postedAt": "2026-09-30T15:00:00.000Z"
+        },
+        {
+          "id": "om_249b4d840d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Entries Open for ADWEEK Team Visionary Awards 2027",
+          "url": "https://www.adweek.com/brand-marketing/entries-open-for-adweek-team-visionary-awards-2027/",
+          "postedAt": "2026-09-30T14:53:27.000Z"
         },
         {
           "id": "om_d4b8033fa6",
@@ -552,22 +600,6 @@
           "postedAt": "2026-09-30T12:00:00.000Z"
         },
         {
-          "id": "om_a8c9f986d6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Emma Armstrong and Michael Aimette to Depart BBDO NY",
-          "url": "https://www.adweek.com/agencies/emma-armstrong-and-michael-aimette-to-depart-bbdo-ny/",
-          "postedAt": "2026-09-30T11:30:00.000Z"
-        },
-        {
-          "id": "om_e84d918e29",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "You Can Order DoorDash Through Texts and Slack Messages Now",
-          "url": "https://www.adweek.com/commerce/you-can-order-doordash-through-texts-and-slack-messages-now/",
-          "postedAt": "2026-09-30T09:00:00.000Z"
-        },
-        {
           "id": "om_8948bf6682",
           "source": "Marketing Brew",
           "lang": "en",
@@ -590,14 +622,6 @@
           "title": "Pinterest offers post-holiday marketing tips",
           "url": "https://www.socialmediatoday.com/news/pinterest-offers-post-holiday-marketing-tips/831715/",
           "postedAt": "2026-09-29T21:45:40.000Z"
-        },
-        {
-          "id": "om_8121c77155",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Horizon’s Bob Lord Takes Aim at Holdcos’ FTE Pricing Models: ‘It’s the Old System’",
-          "url": "https://www.adweek.com/agencies/horizons-bob-lord-takes-aim-at-holdcos-fte-pricing-models-its-the-old-system/",
-          "postedAt": "2026-09-29T17:02:29.000Z"
         },
         {
           "id": "om_9df754e372",
@@ -640,40 +664,16 @@
           "postedAt": "2026-09-29T15:41:00.000Z"
         },
         {
-          "id": "om_1e4a463be6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marketing Has a Goldfish Memory",
-          "url": "https://www.adweek.com/brand-marketing/marketing-has-a-goldfish-memory/",
-          "postedAt": "2026-09-29T15:32:29.000Z"
-        },
-        {
-          "id": "om_3e43401e2a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The One Thing Agency Chiefs Want to Change Over the Next 12 Months",
-          "url": "https://www.adweek.com/agencies/the-one-thing-agency-chiefs-want-to-change-over-the-next-12-months/",
-          "postedAt": "2026-09-29T15:11:59.000Z"
-        },
-        {
           "id": "om_0b72ad1a14",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Best Buy to launch on TikTok Shop",
           "url": "https://www.retaildive.com/news/best-buy-tiktok-shop-launch/831527/",
           "postedAt": "2026-09-29T15:04:00.000Z"
-        },
-        {
-          "id": "om_baaf21db1d",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Uncorking the New York Liberty’s end-of-season-awards campaign",
-          "url": "https://www.marketingbrew.com/stories/new-york-liberty-end-of-season-awards-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-29T14:49:45.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-09-30T17:59:33.266Z",
+      "lastUpdated": "2026-10-01T05:50:19.174Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
