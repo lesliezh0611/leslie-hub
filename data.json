@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-01T18:24:48.507Z",
+      "lastUpdated": "2026-10-02T05:34:54.534Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,14 +266,6 @@
         }
       ],
       "podcasts": [
-        {
-          "id": "en_pod_the_knowledge_project_6f1c8184f3",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "[Outliers] Charlie Munger’s Interview with Todd Combs",
-          "url": "https://fs.blog/knowledge-project-podcast/outliers-munger-combs/",
-          "postedAt": "2026-10-01T09:50:00.000Z"
-        },
         {
           "id": "en_pod_lenny_s_podcast_82cfe0728e",
           "source": "Lenny's Podcast",
@@ -419,10 +411,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-01T18:24:50.027Z",
+      "lastUpdated": "2026-10-02T05:34:55.595Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -512,6 +504,38 @@
       },
       "articles": [
         {
+          "id": "om_5386751026",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok U.S. reports generating $81B in economic value",
+          "url": "https://www.socialmediatoday.com/news/tiktok-us-reports-generating-81b-in-economic-value/831978/",
+          "postedAt": "2026-10-01T22:20:33.000Z"
+        },
+        {
+          "id": "om_2f6ba66548",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "From Awareness to Action: Rethinking Mental Health Campaigns",
+          "url": "https://www.adweek.com/brand-marketing/from-awareness-to-action-rethinking-mental-health-campaigns/",
+          "postedAt": "2026-10-01T17:41:56.000Z"
+        },
+        {
+          "id": "om_e8726fad86",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Great Brand Secret: Know Exactly Who You Are ft. Snap CMO Grace Kao",
+          "url": "https://www.adweek.com/brand-marketing/the-great-brand-secret-know-exactly-who-you-are-ft-snap-cmo-grace-kao/",
+          "postedAt": "2026-10-01T17:24:49.000Z"
+        },
+        {
+          "id": "om_039b559ad7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why Scarlett Johansson’s Low-Profile Beauty Brand Couldn’t Last",
+          "url": "https://www.adweek.com/brand-marketing/why-scarlett-johanssons-low-profile-beauty-brand-couldnt-last/",
+          "postedAt": "2026-10-01T17:02:37.000Z"
+        },
+        {
           "id": "om_67fa7499b8",
           "source": "TechCrunch",
           "lang": "en",
@@ -568,6 +592,14 @@
           "postedAt": "2026-10-01T15:03:00.000Z"
         },
         {
+          "id": "om_b7c22d8e59",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Red Antler-owned Creator Studio Wants to Fight AI Slop With UGC",
+          "url": "https://www.adweek.com/agencies/red-antler-owned-creator-studio-wants-to-fight-ai-slop-with-ugc/",
+          "postedAt": "2026-10-01T14:47:15.000Z"
+        },
+        {
           "id": "om_9dccc48a3f",
           "source": "Retail Dive",
           "lang": "en",
@@ -600,36 +632,12 @@
           "postedAt": "2026-10-01T12:00:00.000Z"
         },
         {
-          "id": "om_085a3cae82",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Megan Fox Is the ED Treatment In New Ro Sparks Campaign",
-          "url": "https://www.adweek.com/brand-marketing/megan-fox-is-the-ed-treatment-in-new-ro-sparks-campaign/",
-          "postedAt": "2026-10-01T09:00:00.000Z"
-        },
-        {
           "id": "om_a516b7d0b3",
           "source": "Marketing Brew",
           "lang": "en",
           "title": "Under the hood of Under Armour’s quest to reconnect with its football roots",
           "url": "https://www.marketingbrew.com/stories/under-armour-football-marketing?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-10-01T09:00:00.000Z"
-        },
-        {
-          "id": "om_7d76fca8e7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Three NFL Wives Who Sacked the Stereotype and Ran Their Own Brand Plays",
-          "url": "https://www.adweek.com/brand-marketing/three-nfl-wives-who-sacked-the-stereotype-and-ran-their-own-brand-plays/",
-          "postedAt": "2026-10-01T08:08:13.000Z"
-        },
-        {
-          "id": "om_15c86ff163",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ad Council PSA Reveals the Secret Struggles of New Motherhood",
-          "url": "https://www.adweek.com/brand-marketing/ad-council-psa-reveals-the-secret-struggles-of-new-motherhood/",
-          "postedAt": "2026-10-01T00:01:00.000Z"
         },
         {
           "id": "om_83b4ee790b",
@@ -648,32 +656,16 @@
           "postedAt": "2026-09-30T20:00:00.000Z"
         },
         {
-          "id": "om_c755e99acf",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Slow Ventures Backs 3 More Creators in Its $64 Million Bet on Niche ‘Cults’",
-          "url": "https://www.adweek.com/dealroom/slow-ventures-invests-creators/",
-          "postedAt": "2026-09-30T19:00:00.000Z"
-        },
-        {
           "id": "om_1b21958974",
           "source": "Marketing Brew",
           "lang": "en",
           "title": "Scouting America drops recruitment campaign starring Josh Hart",
           "url": "https://www.marketingbrew.com/stories/scouting-america-recruitment-campaign-josh-hart?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-09-30T13:01:00.000Z"
-        },
-        {
-          "id": "om_3737f2cde9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "What Kroger’s predictive scoring work means for e-commerce marketers",
-          "url": "https://www.marketingdive.com/news/how-kroger-uses-ai-and-predictive-scoring-to-tie-creative-to-conversion/831659/",
-          "postedAt": "2026-09-30T12:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-01T18:24:51.332Z",
+      "lastUpdated": "2026-10-02T05:34:56.838Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
