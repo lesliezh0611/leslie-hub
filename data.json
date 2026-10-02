@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-02T05:34:54.534Z",
+      "lastUpdated": "2026-10-02T17:51:41.316Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_the_knowledge_project_6f1c8184f3",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "[Outliers] Charlie Munger’s Interview with Todd Combs",
+          "url": "https://fs.blog/knowledge-project-podcast/outliers-munger-combs/",
+          "postedAt": "2026-10-01T09:50:00.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_82cfe0728e",
           "source": "Lenny's Podcast",
@@ -411,10 +419,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-02T05:34:55.595Z",
+      "lastUpdated": "2026-10-02T17:51:43.391Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -504,10 +512,82 @@
       },
       "articles": [
         {
+          "id": "om_1f5ec19fdb",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Beehiiv creators are buzzing about a new price increase",
+          "url": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions",
+          "postedAt": "2026-10-02T17:35:38.000Z"
+        },
+        {
+          "id": "om_cd12df6a7d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Ikea to shutter 3 small-format plan and order stores",
+          "url": "https://www.retaildive.com/news/ikea-shutters-three-small-format-plan-and-order-stores/832021/",
+          "postedAt": "2026-10-02T16:04:00.000Z"
+        },
+        {
+          "id": "om_bb07669d3b",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+          "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+          "postedAt": "2026-10-02T15:00:00.000Z"
+        },
+        {
+          "id": "om_3afcfe2589",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: Revolve debuts magazine and Cato closes 120 stores",
+          "url": "https://www.retaildive.com/news/revolve-debuts-magazine-cato-closes-120-stores/831914/",
+          "postedAt": "2026-10-02T13:00:00.000Z"
+        },
+        {
+          "id": "om_6a6a17083a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Midsize brewers shake up marketing strategies as Americans drink less",
+          "url": "https://www.marketingdive.com/news/midsize-brewers-shake-up-marketing-strategies-as-americans-drink-less/831982/",
+          "postedAt": "2026-10-02T12:59:00.000Z"
+        },
+        {
+          "id": "om_53aa88f239",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Walmart+ Is Growing Faster Than Ever as the Retailer Loads on More Perks",
+          "url": "https://www.adweek.com/commerce/walmart-is-growing-faster-than-ever-as-the-retailer-loads-on-more-perks/",
+          "postedAt": "2026-10-02T12:54:38.000Z"
+        },
+        {
+          "id": "om_32c3b7b521",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "CMOs in a ‘pressure cooker’ as tenure shrinks, demands multiply: study",
+          "url": "https://www.marketingdive.com/news/cmos-in-a-pressure-cooker-as-tenure-shrinks-demands-multiply-study/831775/",
+          "postedAt": "2026-10-02T12:00:00.000Z"
+        },
+        {
+          "id": "om_5877e6aeab",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Jon Cook Steps Down as VML and WPP Creative Boss, Eric Campbell to Succeed",
+          "url": "https://www.adweek.com/agencies/jon-cook-steps-down-as-vml-and-wpp-creative-boss-eric-campbell-to-succeed/",
+          "postedAt": "2026-10-02T11:57:15.000Z"
+        },
+        {
+          "id": "om_5a4e84f2a6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 10 Campaigns That Caught Our Eye, From On to KFC",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-10-campaigns-that-caught-our-eye-from-on-to-kfc/",
+          "postedAt": "2026-10-02T06:00:00.000Z"
+        },
+        {
           "id": "om_5386751026",
           "source": "Social Media Today",
           "lang": "en",
-          "title": "TikTok U.S. reports generating $81B in economic value",
+          "title": "TikTok US reports generating $81B in economic value",
           "url": "https://www.socialmediatoday.com/news/tiktok-us-reports-generating-81b-in-economic-value/831978/",
           "postedAt": "2026-10-01T22:20:33.000Z"
         },
@@ -534,14 +614,6 @@
           "title": "Why Scarlett Johansson’s Low-Profile Beauty Brand Couldn’t Last",
           "url": "https://www.adweek.com/brand-marketing/why-scarlett-johanssons-low-profile-beauty-brand-couldnt-last/",
           "postedAt": "2026-10-01T17:02:37.000Z"
-        },
-        {
-          "id": "om_67fa7499b8",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-          "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-          "postedAt": "2026-10-01T16:44:35.000Z"
         },
         {
           "id": "om_fc08855c5b",
@@ -592,80 +664,16 @@
           "postedAt": "2026-10-01T15:03:00.000Z"
         },
         {
-          "id": "om_b7c22d8e59",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Red Antler-owned Creator Studio Wants to Fight AI Slop With UGC",
-          "url": "https://www.adweek.com/agencies/red-antler-owned-creator-studio-wants-to-fight-ai-slop-with-ugc/",
-          "postedAt": "2026-10-01T14:47:15.000Z"
-        },
-        {
           "id": "om_9dccc48a3f",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Consumer confidence sags to 12-year low, eroded by inflation, job anxiety",
           "url": "https://www.retaildive.com/news/consumer-confidence-sags-12-year-low-eroded-inflation-job-anxiety-fed-federal-reserve/831783/",
           "postedAt": "2026-10-01T14:39:00.000Z"
-        },
-        {
-          "id": "om_4cdc9bf267",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Reese’s searches for ‘trick-or-treatiest street’ in multichannel effort",
-          "url": "https://www.marketingdive.com/news/reeses-searches-for-trick-or-treatiest-street-in-multichannel-effort/831813/",
-          "postedAt": "2026-10-01T14:00:00.000Z"
-        },
-        {
-          "id": "om_9e293ede11",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Sallie Starts Serving Ads to Students Looking for Scholarships",
-          "url": "https://www.adweek.com/commerce/sallie-starts-serving-ads-to-students-looking-for-scholarships/",
-          "postedAt": "2026-10-01T12:48:53.000Z"
-        },
-        {
-          "id": "om_5c7a25d754",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Inside Advertising Week’s changes — and a bid for $100M in creator deals",
-          "url": "https://www.marketingdive.com/news/inside-advertising-weeks-changes-and-a-bid-for-100m-in-creator-deals/831812/",
-          "postedAt": "2026-10-01T12:00:00.000Z"
-        },
-        {
-          "id": "om_a516b7d0b3",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Under the hood of Under Armour’s quest to reconnect with its football roots",
-          "url": "https://www.marketingbrew.com/stories/under-armour-football-marketing?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-01T09:00:00.000Z"
-        },
-        {
-          "id": "om_83b4ee790b",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok hosts launch of David Geffen Galleries",
-          "url": "https://www.socialmediatoday.com/news/tiktok-hosts-launch-of-david-geffen-galleries/831839/",
-          "postedAt": "2026-09-30T21:39:17.000Z"
-        },
-        {
-          "id": "om_169b494659",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Cava hires Dr. Squatch marketer as CMO to build on growth",
-          "url": "https://www.marketingdive.com/news/cava-hires-dr-squatch-marketer-as-cmo-to-build-on-growth/831662/",
-          "postedAt": "2026-09-30T20:00:00.000Z"
-        },
-        {
-          "id": "om_1b21958974",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Scouting America drops recruitment campaign starring Josh Hart",
-          "url": "https://www.marketingbrew.com/stories/scouting-america-recruitment-campaign-josh-hart?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-09-30T13:01:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-02T05:34:56.838Z",
+      "lastUpdated": "2026-10-02T17:51:44.943Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
