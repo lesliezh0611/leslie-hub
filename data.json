@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-02T17:51:41.316Z",
+      "lastUpdated": "2026-10-03T05:16:43.764Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-02T17:51:43.391Z",
+      "lastUpdated": "2026-10-03T05:16:45.002Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -518,6 +518,14 @@
           "title": "Beehiiv creators are buzzing about a new price increase",
           "url": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions",
           "postedAt": "2026-10-02T17:35:38.000Z"
+        },
+        {
+          "id": "om_a9d0946b4f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Amex Is Turning Harry Styles Fandom Into a Membership Perk",
+          "url": "https://www.adweek.com/brand-marketing/amex-is-turning-harry-styles-fandom-into-a-membership-perk/",
+          "postedAt": "2026-10-02T16:31:10.000Z"
         },
         {
           "id": "om_cd12df6a7d",
@@ -662,18 +670,10 @@
           "title": "Sociable: TikTok adds certification tiers for agency partners",
           "url": "https://www.marketingdive.com/news/sociable-tiktok-adds-certification-tiers-for-agency-partners/831892/",
           "postedAt": "2026-10-01T15:03:00.000Z"
-        },
-        {
-          "id": "om_9dccc48a3f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Consumer confidence sags to 12-year low, eroded by inflation, job anxiety",
-          "url": "https://www.retaildive.com/news/consumer-confidence-sags-12-year-low-eroded-inflation-job-anxiety-fed-federal-reserve/831783/",
-          "postedAt": "2026-10-01T14:39:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-02T17:51:44.943Z",
+      "lastUpdated": "2026-10-03T05:16:46.039Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
