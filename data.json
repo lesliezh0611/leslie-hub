@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-03T16:16:14.993Z",
+      "lastUpdated": "2026-10-04T05:50:21.871Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_3e3437293d",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from",
+          "postedAt": "2026-10-03T17:00:49.000Z"
+        },
         {
           "id": "en_pod_the_knowledge_project_6f1c8184f3",
           "source": "The Knowledge Project",
@@ -355,14 +363,6 @@
           "postedAt": "2026-09-22T19:06:40.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_2947393216",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Advanced evals: How to find (and fix) hidden AI failures in your product",
-          "url": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
-          "postedAt": "2026-09-22T12:45:14.000Z"
-        },
-        {
           "id": "en_pod_lex_fridman_podcast_c19a6bb24b",
           "source": "Lex Fridman Podcast",
           "platform": "podcast",
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-03T16:16:16.216Z",
+      "lastUpdated": "2026-10-04T05:50:23.014Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -673,7 +673,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-03T16:16:17.696Z",
+      "lastUpdated": "2026-10-04T05:50:23.943Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
