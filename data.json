@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-05T05:37:15.537Z",
+      "lastUpdated": "2026-10-05T20:38:09.775Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_126d97f78f",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
+          "postedAt": "2026-10-05T15:03:24.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_49838babf0",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
+          "url": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
+          "postedAt": "2026-10-05T12:04:54.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_11bbfc6002",
           "source": "Lenny's Podcast",
@@ -339,28 +355,12 @@
           "postedAt": "2026-09-27T12:32:18.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_c9c09c16a0",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: AI doomerism, speeding up discovery in a big org, verifying engineering answers as a new PM, where analytics adds the most value, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-doomerism-speeding",
-          "postedAt": "2026-09-26T17:54:02.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_efa3a8744b",
           "source": "The Knowledge Project",
           "platform": "podcast",
           "topic": "Bill Ackman: The Biggest Fight of His Life",
           "url": "https://fs.blog/knowledge-project-podcast/bill-ackman-2/",
           "postedAt": "2026-09-24T09:50:00.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_f0c4809f60",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
-          "url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
-          "postedAt": "2026-09-22T23:12:49.000Z"
         },
         {
           "id": "en_pod_lex_fridman_podcast_c19a6bb24b",
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-05T05:37:17.218Z",
+      "lastUpdated": "2026-10-05T20:38:10.974Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,168 +512,168 @@
       },
       "articles": [
         {
-          "id": "om_a9d0946b4f",
-          "source": "Adweek",
+          "id": "om_e08f8e4c16",
+          "source": "TechCrunch",
           "lang": "en",
-          "title": "Amex Is Turning Harry Styles Fandom Into a Membership Perk",
-          "url": "https://www.adweek.com/brand-marketing/amex-is-turning-harry-styles-fandom-into-a-membership-perk/",
-          "postedAt": "2026-10-02T16:31:10.000Z"
+          "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+          "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+          "postedAt": "2026-10-05T18:29:00.000Z"
         },
         {
-          "id": "om_cd12df6a7d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Ikea to shutter 3 small-format plan and order stores",
-          "url": "https://www.retaildive.com/news/ikea-shutters-three-small-format-plan-and-order-stores/832021/",
-          "postedAt": "2026-10-02T16:04:00.000Z"
-        },
-        {
-          "id": "om_bb07669d3b",
+          "id": "om_44f504fcad",
           "source": "Wired",
           "lang": "en",
-          "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-          "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-          "postedAt": "2026-10-02T15:00:00.000Z"
+          "title": "The Best Early Amazon Prime Day Deals 2026: WIRED-Tested Picks to Shop Now",
+          "url": "https://www.wired.com/story/amazon-prime-day-early-deals-10-05-2026/",
+          "postedAt": "2026-10-05T17:36:00.000Z"
         },
         {
-          "id": "om_3afcfe2589",
+          "id": "om_98df5e760d",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "The Weekly Closeout: Revolve debuts magazine and Cato closes 120 stores",
-          "url": "https://www.retaildive.com/news/revolve-debuts-magazine-cato-closes-120-stores/831914/",
-          "postedAt": "2026-10-02T13:00:00.000Z"
+          "title": "Halloween spending creeps up this year",
+          "url": "https://www.retaildive.com/news/halloween-holiday-retail-consumer-spending-2026/832125/",
+          "postedAt": "2026-10-05T15:43:00.000Z"
         },
         {
-          "id": "om_6a6a17083a",
+          "id": "om_904f128a51",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target’s digital holiday catalog features toys — and a way to incorporate handwritten wish lists",
+          "url": "https://www.retaildive.com/news/target-digital-holiday-catalog-toys-wish-lists/832099/",
+          "postedAt": "2026-10-05T15:35:00.000Z"
+        },
+        {
+          "id": "om_df76686045",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Gap unveils AI-assisted shopping, three decades after its first website",
+          "url": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/832070/",
+          "postedAt": "2026-10-05T15:01:00.000Z"
+        },
+        {
+          "id": "om_a82fb8c5a5",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Coworking with Emily Steele",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-emily-steele?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-05T14:44:59.000Z"
+        },
+        {
+          "id": "om_d80ee00a65",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Midsize brewers shake up marketing strategies as Americans drink less",
-          "url": "https://www.marketingdive.com/news/midsize-brewers-shake-up-marketing-strategies-as-americans-drink-less/831982/",
-          "postedAt": "2026-10-02T12:59:00.000Z"
+          "title": "TikTok broadens agentic AI play, brings global ad network to US",
+          "url": "https://www.marketingdive.com/news/tiktok-broadens-agentic-ai-play-brings-global-ad-network-to-us/832007/",
+          "postedAt": "2026-10-05T14:30:00.000Z"
         },
         {
-          "id": "om_53aa88f239",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Walmart+ Is Growing Faster Than Ever as the Retailer Loads on More Perks",
-          "url": "https://www.adweek.com/commerce/walmart-is-growing-faster-than-ever-as-the-retailer-loads-on-more-perks/",
-          "postedAt": "2026-10-02T12:54:38.000Z"
-        },
-        {
-          "id": "om_32c3b7b521",
+          "id": "om_68f4271457",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "CMOs in a ‘pressure cooker’ as tenure shrinks, demands multiply: study",
-          "url": "https://www.marketingdive.com/news/cmos-in-a-pressure-cooker-as-tenure-shrinks-demands-multiply-study/831775/",
-          "postedAt": "2026-10-02T12:00:00.000Z"
+          "title": "Why Panda Express is embracing an ‘always-on’ gaming strategy",
+          "url": "https://www.marketingdive.com/news/why-panda-express-is-embracing-an-always-on-gaming-strategy/832051/",
+          "postedAt": "2026-10-05T14:00:00.000Z"
         },
         {
-          "id": "om_5877e6aeab",
+          "id": "om_b118c79c00",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "How GLP-1 users are forcing retailers to rethink everything",
+          "url": "https://www.retaildive.com/news/glp1-users-apparel-retailers-rethink-everything-returns-davids-bridal/831835/",
+          "postedAt": "2026-10-05T13:40:00.000Z"
+        },
+        {
+          "id": "om_751ff67626",
           "source": "Adweek",
           "lang": "en",
-          "title": "Jon Cook Steps Down as VML and WPP Creative Boss, Eric Campbell to Succeed",
-          "url": "https://www.adweek.com/agencies/jon-cook-steps-down-as-vml-and-wpp-creative-boss-eric-campbell-to-succeed/",
-          "postedAt": "2026-10-02T11:57:15.000Z"
+          "title": "Albertsons’ Retail Media Head Leaves Grocery Giant",
+          "url": "https://www.adweek.com/commerce/albertsons-retail-media-head-leaves-grocery-giant/",
+          "postedAt": "2026-10-05T13:14:35.000Z"
         },
         {
-          "id": "om_5a4e84f2a6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 10 Campaigns That Caught Our Eye, From On to KFC",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-10-campaigns-that-caught-our-eye-from-on-to-kfc/",
-          "postedAt": "2026-10-02T06:00:00.000Z"
-        },
-        {
-          "id": "om_5386751026",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok US reports generating $81B in economic value",
-          "url": "https://www.socialmediatoday.com/news/tiktok-us-reports-generating-81b-in-economic-value/831978/",
-          "postedAt": "2026-10-01T22:20:33.000Z"
-        },
-        {
-          "id": "om_2f6ba66548",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "From Awareness to Action: Rethinking Mental Health Campaigns",
-          "url": "https://www.adweek.com/brand-marketing/from-awareness-to-action-rethinking-mental-health-campaigns/",
-          "postedAt": "2026-10-01T17:41:56.000Z"
-        },
-        {
-          "id": "om_e8726fad86",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Great Brand Secret: Know Exactly Who You Are ft. Snap CMO Grace Kao",
-          "url": "https://www.adweek.com/brand-marketing/the-great-brand-secret-know-exactly-who-you-are-ft-snap-cmo-grace-kao/",
-          "postedAt": "2026-10-01T17:24:49.000Z"
-        },
-        {
-          "id": "om_039b559ad7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why Scarlett Johansson’s Low-Profile Beauty Brand Couldn’t Last",
-          "url": "https://www.adweek.com/brand-marketing/why-scarlett-johanssons-low-profile-beauty-brand-couldnt-last/",
-          "postedAt": "2026-10-01T17:02:37.000Z"
-        },
-        {
-          "id": "om_fc08855c5b",
+          "id": "om_0afcd888ed",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Discord steps up play for mobile advertisers with rewarded video product",
-          "url": "https://www.marketingdive.com/news/discord-steps-up-play-for-mobile-advertisers-with-rewarded-video-product/831808/",
-          "postedAt": "2026-10-01T16:00:00.000Z"
+          "title": "How Poppi keeps its cultural marketing fizz without over-relying on data",
+          "url": "https://www.marketingdive.com/news/how-poppi-keeps-its-cultural-marketing-fizz-without-over-relying-on-data/832058/",
+          "postedAt": "2026-10-05T13:00:00.000Z"
         },
         {
-          "id": "om_b376d603cd",
-          "source": "Retail Dive",
+          "id": "om_bfe4d0c81c",
+          "source": "Adweek",
           "lang": "en",
-          "title": "Skechers CFO jumps to Levi’s",
-          "url": "https://www.retaildive.com/news/skechers-cfo-jumps-levis/831872/",
-          "postedAt": "2026-10-01T15:52:00.000Z"
+          "title": "OpenAI Is Piloting Brand Suitability Controls With DoubleVerify and IAS",
+          "url": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
+          "postedAt": "2026-10-05T12:06:50.000Z"
         },
         {
-          "id": "om_0b627a0cf9",
-          "source": "Retail Dive",
+          "id": "om_3f05e2ae01",
+          "source": "Marketing Brew",
           "lang": "en",
-          "title": "Consumer AI use a boon for the holidays as AI traffic doubles",
-          "url": "https://www.retaildive.com/news/consumer-ai-use-boon-holidays-ai-traffic-doubles/831790/",
-          "postedAt": "2026-10-01T15:49:00.000Z"
+          "title": "A guide to creating successful brand merch",
+          "url": "https://www.marketingbrew.com/stories/a-guide-to-creating-successful-brand-merch?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-05T12:00:15.000Z"
         },
         {
-          "id": "om_668cd8aaa6",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Holiday hiring is getting ‘smaller and more surgical’",
-          "url": "https://www.retaildive.com/news/holiday-seasonal-retail-hiring-lower/831866/",
-          "postedAt": "2026-10-01T15:23:00.000Z"
-        },
-        {
-          "id": "om_bd4e7308b9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "KnitWell Group names chief digital and customer data officer",
-          "url": "https://www.retaildive.com/news/knitwell-chief-digital-customer-data-officer-ann-taylor-chicos/831807/",
-          "postedAt": "2026-10-01T15:13:00.000Z"
-        },
-        {
-          "id": "om_ea7829e84d",
+          "id": "om_d1939bff26",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Sociable: TikTok adds certification tiers for agency partners",
-          "url": "https://www.marketingdive.com/news/sociable-tiktok-adds-certification-tiers-for-agency-partners/831892/",
-          "postedAt": "2026-10-01T15:03:00.000Z"
+          "title": "Papa Johns’ CMO on how the brand is reasserting itself as delivery evolves",
+          "url": "https://www.marketingdive.com/news/papa-johns-cmo-on-how-the-brand-is-reasserting-itself-as-delivery-evolves/831855/",
+          "postedAt": "2026-10-05T12:00:00.000Z"
         },
         {
-          "id": "om_9dccc48a3f",
-          "source": "Retail Dive",
+          "id": "om_7f5ff79135",
+          "source": "Adweek",
           "lang": "en",
-          "title": "Consumer confidence sags to 12-year low, eroded by inflation, job anxiety",
-          "url": "https://www.retaildive.com/news/consumer-confidence-sags-12-year-low-eroded-inflation-job-anxiety-fed-federal-reserve/831783/",
-          "postedAt": "2026-10-01T14:39:00.000Z"
+          "title": "TikTok Expands Its Off-Platform Ad Network to US Advertisers",
+          "url": "https://www.adweek.com/media/tiktok-expands-its-off-platform-ad-network-to-us-advertisers/",
+          "postedAt": "2026-10-05T11:34:34.000Z"
+        },
+        {
+          "id": "om_1565f5a370",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "TikTok Adds an AI Shopping Assistant and Lets Users Buy Direct From Brands",
+          "url": "https://www.adweek.com/commerce/tiktok-adds-an-ai-shopping-assistant-and-lets-users-buy-direct-from-brands/",
+          "postedAt": "2026-10-05T10:41:47.000Z"
+        },
+        {
+          "id": "om_2b951aeaa9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Join Gronk, Coach, The Home Depot, and More at ADWEEK House",
+          "url": "https://www.adweek.com/brand-marketing/join-gronk-coach-the-home-depot-and-more-at-adweek-house/",
+          "postedAt": "2026-10-05T10:10:54.000Z"
+        },
+        {
+          "id": "om_a775da31c6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Piers Morgan’s Uncensored Launches Paid Tier to Own Its Audience Beyond YouTube",
+          "url": "https://www.adweek.com/media/piers-morgans-uncensored-paid-subscriptions/",
+          "postedAt": "2026-10-05T10:00:00.000Z"
+        },
+        {
+          "id": "om_e877521fda",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Morning Brew Acquires Express Checkout in Latest Creator Play",
+          "url": "https://www.adweek.com/dealroom/morning-brew-acquires-express-checkout-creator/",
+          "postedAt": "2026-10-05T09:30:00.000Z"
+        },
+        {
+          "id": "om_f5be4e2939",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Staples Print and Marketing Services Review: Fast Holiday Gifts",
+          "url": "https://www.wired.com/story/staples-print-and-marketing-services/",
+          "postedAt": "2026-10-05T09:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-05T05:37:18.621Z",
+      "lastUpdated": "2026-10-05T20:38:12.088Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
