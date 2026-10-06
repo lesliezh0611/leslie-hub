@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-06T06:18:20.264Z",
+      "lastUpdated": "2026-10-06T18:20:23.845Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-06T06:18:24.115Z",
+      "lastUpdated": "2026-10-06T18:20:24.969Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,168 +512,168 @@
       },
       "articles": [
         {
+          "id": "om_212f80ed7e",
+          "source": "Wired",
+          "lang": "en",
+          "title": "114 Best Prime Day Deals We’re Shopping This October (2026)",
+          "url": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
+          "postedAt": "2026-10-06T18:09:44.000Z"
+        },
+        {
+          "id": "om_d3eca62a79",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How Amex is incorporating ‘Thursday Night Football’ into its NFL marketing",
+          "url": "https://www.marketingbrew.com/stories/amex-amazon-thursday-night-football?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-06T18:00:00.000Z"
+        },
+        {
+          "id": "om_1c535ad6a8",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "India’s JioHotstar takes partnership route for Middle East expansion",
+          "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
+          "postedAt": "2026-10-06T17:14:07.000Z"
+        },
+        {
+          "id": "om_382e437bfd",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart defends pricing practices, again",
+          "url": "https://www.retaildive.com/news/walmart-defends-dynamic-pricing-practices-again/832248/",
+          "postedAt": "2026-10-06T16:44:00.000Z"
+        },
+        {
+          "id": "om_f86dfeef9a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Where do associates fit in an AI world?",
+          "url": "https://www.retaildive.com/news/where-do-associates-fit-in-an-ai-world-retail/831640/",
+          "postedAt": "2026-10-06T16:14:00.000Z"
+        },
+        {
+          "id": "om_61e1e92c85",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target reprises another partnership in merchandise overhaul",
+          "url": "https://www.retaildive.com/news/target-simply-shabby-chic-partnership-home-merchandise-overhaul/832229/",
+          "postedAt": "2026-10-06T15:50:00.000Z"
+        },
+        {
+          "id": "om_a19f5cbe85",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Top marketing conferences to attend in 2027",
+          "url": "https://www.marketingdive.com/news/top-marketing-events-2027/831301/",
+          "postedAt": "2026-10-06T14:00:00.000Z"
+        },
+        {
+          "id": "om_923a0bc5a4",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside Zip’s ‘surgical’ approach to sports sponsorships",
+          "url": "https://www.marketingbrew.com/stories/bnpl-zip-76ers-sports-sponsorships?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-06T14:00:00.000Z"
+        },
+        {
+          "id": "om_6a4daca292",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How marketers can fuel social, discoverability with experiences",
+          "url": "https://www.marketingdive.com/news/how-marketers-can-fuel-social-discoverability-with-experiences/832218/",
+          "postedAt": "2026-10-06T13:47:00.000Z"
+        },
+        {
+          "id": "om_958a5d7a39",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How brands’ deeper creator deals are unlocking cost efficiencies, results",
+          "url": "https://www.marketingdive.com/news/how-brands-deeper-creator-deals-are-unlocking-cost-efficiencies-results/832205/",
+          "postedAt": "2026-10-06T13:15:00.000Z"
+        },
+        {
+          "id": "om_210396f567",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "What the Super El Niño means for retail",
+          "url": "https://www.retaildive.com/news/what-the-super-el-nino-means-for-retail/831188/",
+          "postedAt": "2026-10-06T13:00:00.000Z"
+        },
+        {
+          "id": "om_46f92dbfdf",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "7 Billion Impressions Without Paid Media: Fanta’s Halloween Strategy",
+          "url": "https://www.adweek.com/brand-marketing/7-billion-impressions-without-paid-media-fantas-halloween-strategy/",
+          "postedAt": "2026-10-06T12:41:30.000Z"
+        },
+        {
+          "id": "om_3a0ad4d1ca",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target’s turnaround has seen early success. Now comes the holidays.",
+          "url": "https://www.retaildive.com/news/target-retail-holiday-season-performance/831858/",
+          "postedAt": "2026-10-06T11:00:00.000Z"
+        },
+        {
+          "id": "om_551cc0a835",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Stagwell Sunsets Assembly, Relaunches as Stagwell Media",
+          "url": "https://www.adweek.com/agencies/stagwell-sunsets-assembly-relaunches-as-stagwell-media/",
+          "postedAt": "2026-10-06T09:30:00.000Z"
+        },
+        {
+          "id": "om_7c423ab2f5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Social Agency SAMY Buys Influencer Shop Get Engaged in Low Nine-Figure Deal",
+          "url": "https://www.adweek.com/dealroom/samy-buys-get-engaged/",
+          "postedAt": "2026-10-06T09:30:00.000Z"
+        },
+        {
+          "id": "om_ab308c4fe4",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How GM is marketing new fuel-guzzling vehicles amid price spikes",
+          "url": "https://www.marketingbrew.com/stories/gm-marketing-gas-diesel-price-spikes?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-06T09:00:00.000Z"
+        },
+        {
+          "id": "om_e29e641df7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Read All of ADWEEK’s Starbucks Coverage",
+          "url": "https://www.adweek.com/brand-marketing/read-all-of-adweeks-starbucks-coverage/",
+          "postedAt": "2026-10-06T06:38:00.000Z"
+        },
+        {
+          "id": "om_2efb128b71",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Noom’s Latest Ad Stokes Fears of GLP-1 Weight Rebound",
+          "url": "https://www.adweek.com/brand-marketing/nooms-latest-ad-stokes-fears-of-glp-1-weight-rebound/",
+          "postedAt": "2026-10-06T06:00:00.000Z"
+        },
+        {
+          "id": "om_84f26cb565",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Caffeine Gold Rush: The Competition for Coffee Fans Has Never Been Hotter",
+          "url": "https://www.adweek.com/brand-marketing/caffeine-gold-rush-the-competition-for-coffee-fans-has-never-been-hotter/",
+          "postedAt": "2026-10-06T06:00:00.000Z"
+        },
+        {
           "id": "om_b5efd54e7c",
           "source": "Social Media Today",
           "lang": "en",
           "title": "TikTok outlines US election preparations",
           "url": "https://www.socialmediatoday.com/news/tiktok-outlines-us-election-preparations/832201/",
           "postedAt": "2026-10-05T21:22:31.000Z"
-        },
-        {
-          "id": "om_f3d9448d74",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok unveils AI-powered updates at Advertising Week",
-          "url": "https://www.socialmediatoday.com/news/tiktok-unveils-ai-powered-updates-at-advertising-week/832192/",
-          "postedAt": "2026-10-05T19:13:54.000Z"
-        },
-        {
-          "id": "om_e08f8e4c16",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-          "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-          "postedAt": "2026-10-05T18:29:00.000Z"
-        },
-        {
-          "id": "om_44f504fcad",
-          "source": "Wired",
-          "lang": "en",
-          "title": "The Best Early Amazon Prime Day Deals 2026: WIRED-Tested Picks to Shop Now",
-          "url": "https://www.wired.com/story/amazon-prime-day-early-deals-10-05-2026/",
-          "postedAt": "2026-10-05T17:36:00.000Z"
-        },
-        {
-          "id": "om_98df5e760d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Halloween spending creeps up this year",
-          "url": "https://www.retaildive.com/news/halloween-holiday-retail-consumer-spending-2026/832125/",
-          "postedAt": "2026-10-05T15:43:00.000Z"
-        },
-        {
-          "id": "om_904f128a51",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target’s digital holiday catalog features toys — and a way to incorporate handwritten wish lists",
-          "url": "https://www.retaildive.com/news/target-digital-holiday-catalog-toys-wish-lists/832099/",
-          "postedAt": "2026-10-05T15:35:00.000Z"
-        },
-        {
-          "id": "om_df76686045",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Gap unveils AI-assisted shopping, three decades after its first website",
-          "url": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/832070/",
-          "postedAt": "2026-10-05T15:01:00.000Z"
-        },
-        {
-          "id": "om_a82fb8c5a5",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Coworking with Emily Steele",
-          "url": "https://www.marketingbrew.com/stories/coworking-with-emily-steele?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-05T14:44:59.000Z"
-        },
-        {
-          "id": "om_d80ee00a65",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "TikTok broadens agentic AI play, brings global ad network to US",
-          "url": "https://www.marketingdive.com/news/tiktok-broadens-agentic-ai-play-brings-global-ad-network-to-us/832007/",
-          "postedAt": "2026-10-05T14:30:00.000Z"
-        },
-        {
-          "id": "om_68f4271457",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why Panda Express is embracing an ‘always-on’ gaming strategy",
-          "url": "https://www.marketingdive.com/news/why-panda-express-is-embracing-an-always-on-gaming-strategy/832051/",
-          "postedAt": "2026-10-05T14:00:00.000Z"
-        },
-        {
-          "id": "om_b118c79c00",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "How GLP-1 users are forcing retailers to rethink everything",
-          "url": "https://www.retaildive.com/news/glp1-users-apparel-retailers-rethink-everything-returns-davids-bridal/831835/",
-          "postedAt": "2026-10-05T13:40:00.000Z"
-        },
-        {
-          "id": "om_751ff67626",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Albertsons’ Retail Media Head Leaves Grocery Giant",
-          "url": "https://www.adweek.com/commerce/albertsons-retail-media-head-leaves-grocery-giant/",
-          "postedAt": "2026-10-05T13:14:35.000Z"
-        },
-        {
-          "id": "om_0afcd888ed",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Poppi keeps its cultural marketing fizz without over-relying on data",
-          "url": "https://www.marketingdive.com/news/how-poppi-keeps-its-cultural-marketing-fizz-without-over-relying-on-data/832058/",
-          "postedAt": "2026-10-05T13:00:00.000Z"
-        },
-        {
-          "id": "om_bfe4d0c81c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "OpenAI Is Piloting Brand Suitability Controls With DoubleVerify and IAS",
-          "url": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
-          "postedAt": "2026-10-05T12:06:50.000Z"
-        },
-        {
-          "id": "om_3f05e2ae01",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "A guide to creating successful brand merch",
-          "url": "https://www.marketingbrew.com/stories/a-guide-to-creating-successful-brand-merch?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-05T12:00:15.000Z"
-        },
-        {
-          "id": "om_d1939bff26",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Papa Johns’ CMO on how the brand is reasserting itself as delivery evolves",
-          "url": "https://www.marketingdive.com/news/papa-johns-cmo-on-how-the-brand-is-reasserting-itself-as-delivery-evolves/831855/",
-          "postedAt": "2026-10-05T12:00:00.000Z"
-        },
-        {
-          "id": "om_7f5ff79135",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "TikTok Expands Its Off-Platform Ad Network to US Advertisers",
-          "url": "https://www.adweek.com/media/tiktok-expands-its-off-platform-ad-network-to-us-advertisers/",
-          "postedAt": "2026-10-05T11:34:34.000Z"
-        },
-        {
-          "id": "om_1565f5a370",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "TikTok Adds an AI Shopping Assistant and Lets Users Buy Direct From Brands",
-          "url": "https://www.adweek.com/commerce/tiktok-adds-an-ai-shopping-assistant-and-lets-users-buy-direct-from-brands/",
-          "postedAt": "2026-10-05T10:41:47.000Z"
-        },
-        {
-          "id": "om_2b951aeaa9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Join Gronk, Coach, The Home Depot, and More at ADWEEK House",
-          "url": "https://www.adweek.com/brand-marketing/join-gronk-coach-the-home-depot-and-more-at-adweek-house/",
-          "postedAt": "2026-10-05T10:10:54.000Z"
-        },
-        {
-          "id": "om_a775da31c6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Piers Morgan’s Uncensored Launches Paid Tier to Own Its Audience Beyond YouTube",
-          "url": "https://www.adweek.com/media/piers-morgans-uncensored-paid-subscriptions/",
-          "postedAt": "2026-10-05T10:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-06T06:18:25.447Z",
+      "lastUpdated": "2026-10-06T18:20:26.066Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
