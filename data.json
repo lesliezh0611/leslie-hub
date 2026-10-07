@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-07T05:57:01.355Z",
+      "lastUpdated": "2026-10-07T18:56:17.702Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-07T05:57:03.234Z",
+      "lastUpdated": "2026-10-07T18:56:18.914Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,19 +512,123 @@
       },
       "articles": [
         {
-          "id": "om_212f80ed7e",
+          "id": "om_e85bf29363",
           "source": "Wired",
           "lang": "en",
-          "title": "113 Best Prime Day Deals We’re Shopping This October (2026)",
-          "url": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
-          "postedAt": "2026-10-07T00:32:13.000Z"
+          "title": "115 Best Prime Day Deals We’re Shopping This October (2026)",
+          "url": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/",
+          "postedAt": "2026-10-07T17:17:00.000Z"
         },
         {
-          "id": "om_ffaf2bfb03",
+          "id": "om_dfa9750d5f",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Experiences worth attending and creators as strategists: Takeaways from the Marketing Brew Summit",
+          "url": "https://www.marketingbrew.com/stories/marketing-brew-summit-takeaways?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-07T16:24:29.000Z"
+        },
+        {
+          "id": "om_e5f92938ef",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Top retail conferences in 2027",
-          "url": "https://www.retaildive.com/news/top-retail-conferences-in-2027/832294/",
+          "title": "Bed Bath & Beyond parent company calls off another deal",
+          "url": "https://www.retaildive.com/news/neighborhood-intelligence-bed-bath-beyond-calls-off-fathom-acquisition/832373/",
+          "postedAt": "2026-10-07T15:50:00.000Z"
+        },
+        {
+          "id": "om_c8924660b7",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Anta Sports officially becomes largest Puma shareholder",
+          "url": "https://www.retaildive.com/news/anta-sports-closes-deal-largest-puma-shareholder/832362/",
+          "postedAt": "2026-10-07T15:23:00.000Z"
+        },
+        {
+          "id": "om_aac7aa8044",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Nominations for 2027 ADWEEK 50 Are Now Open",
+          "url": "https://www.adweek.com/agencies/nominations-for-2027-adweek-50-are-now-open/",
+          "postedAt": "2026-10-07T14:41:51.000Z"
+        },
+        {
+          "id": "om_c33eb23eb9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "TikTok to add AI-powered discovery and one-click checkout",
+          "url": "https://www.retaildive.com/news/tiktok-ai-powered-discovery-one-click-checkout/832326/",
+          "postedAt": "2026-10-07T14:20:00.000Z"
+        },
+        {
+          "id": "om_1e67f45270",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "CMOs see their internal influence rising. Has it come at a cost?",
+          "url": "https://www.marketingdive.com/news/cmos-see-their-internal-influence-rising-has-it-come-at-a-cost/832335/",
+          "postedAt": "2026-10-07T13:09:00.000Z"
+        },
+        {
+          "id": "om_582370957a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Nominations Open for 2027 ADWEEK Brand Genius Creators",
+          "url": "https://www.adweek.com/social-marketing/nominations-open-for-2027-adweek-brand-genius-creators/",
+          "postedAt": "2026-10-07T12:55:54.000Z"
+        },
+        {
+          "id": "om_6a2b96a543",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The ‘Bizarre Chemistry’ of Card Collecting With Fuse Create’s Grant Cleland",
+          "url": "https://www.adweek.com/agencies/bizarre-chemistry-card-collecting-fuse-create-grant-cleland/",
+          "postedAt": "2026-10-07T12:48:34.000Z"
+        },
+        {
+          "id": "om_32b03382aa",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Walmart Lays Out Its Plan to Take Over TV Advertising",
+          "url": "https://www.adweek.com/commerce/walmart-lays-out-its-plan-to-take-over-tv-advertising/",
+          "postedAt": "2026-10-07T12:26:23.000Z"
+        },
+        {
+          "id": "om_4366fd28fa",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Brandweek 2026: Why Brand and Performance Should Stop Fighting ft. Nick Fairbairn of Chime",
+          "url": "https://www.adweek.com/brand-marketing/brandweek-2026-why-brand-and-performance-should-stop-fighting-ft-nick-fairbairn-of-chime/",
+          "postedAt": "2026-10-07T11:13:35.000Z"
+        },
+        {
+          "id": "om_7f12587f99",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK Commerce Advantage: Amazon’s AI-Driven Future Leaves Some Buyers Weary of Losing Control",
+          "url": "https://www.adweek.com/commerce/adweek-commerce-advantage-amazon-plots-an-ai-driven-future-but-some-ad-buyers-worry-about-giving-up-too-much-control/",
+          "postedAt": "2026-10-07T09:33:14.000Z"
+        },
+        {
+          "id": "om_7bd948d595",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Ford execs wanted a splashy new ad campaign. They enlisted Nate Bargatze.",
+          "url": "https://www.marketingbrew.com/stories/ford-ad-campaign-nate-bargatze?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-07T09:00:00.000Z"
+        },
+        {
+          "id": "om_d7e4df895e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why Advertising Will Be Key to Shaping Our AI-Powered Future—For Better or Worse",
+          "url": "https://www.adweek.com/brand-marketing/why-advertising-will-be-key-to-shaping-our-ai-powered-future/",
+          "postedAt": "2026-10-07T06:00:00.000Z"
+        },
+        {
+          "id": "om_acf611a6dc",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Top retail trade shows in 2027",
+          "url": "https://www.retaildive.com/news/top-retail-trade-shows-in-2027/832294/",
           "postedAt": "2026-10-06T21:47:00.000Z"
         },
         {
@@ -536,14 +640,6 @@
           "postedAt": "2026-10-06T21:09:00.000Z"
         },
         {
-          "id": "om_403ef06505",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK Launches Inaugural Creator Economy Power List",
-          "url": "https://www.adweek.com/social-marketing/adweek-launches-inaugural-creator-economy-power-list/",
-          "postedAt": "2026-10-06T20:20:31.000Z"
-        },
-        {
           "id": "om_dd51d944db",
           "source": "Wired",
           "lang": "en",
@@ -552,12 +648,20 @@
           "postedAt": "2026-10-06T18:45:39.000Z"
         },
         {
-          "id": "om_84af9905a6",
+          "id": "om_5860f061a5",
           "source": "Social Media Today",
           "lang": "en",
-          "title": "TikTok highlights creator recs for Halloween travel",
-          "url": "https://www.socialmediatoday.com/news/tiktok-highlights-creator-recs-for-halloween-travel/832289/",
+          "title": "TikTok highlights creator recommendations for Halloween travel",
+          "url": "https://www.socialmediatoday.com/news/tiktok-highlights-creator-recommendations-for-halloween-travel/832289/",
           "postedAt": "2026-10-06T18:45:24.000Z"
+        },
+        {
+          "id": "om_e9682d9368",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta introduces new AI-powered tools at Advertising Week",
+          "url": "https://www.socialmediatoday.com/news/meta-introduces-new-ai-powered-tools-at-advertising-week/832288/",
+          "postedAt": "2026-10-06T18:37:34.000Z"
         },
         {
           "id": "om_d3eca62a79",
@@ -566,114 +670,10 @@
           "title": "How Amex is incorporating ‘Thursday Night Football’ into its NFL marketing",
           "url": "https://www.marketingbrew.com/stories/amex-amazon-thursday-night-football?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-10-06T18:00:00.000Z"
-        },
-        {
-          "id": "om_c45919053a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Dear Media and Amanda Hirsch Want Brands To Ditch the Script",
-          "url": "https://www.adweek.com/media/dear-media-amanda-hirsch-advertising-week/",
-          "postedAt": "2026-10-06T17:24:18.000Z"
-        },
-        {
-          "id": "om_1c535ad6a8",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "India’s JioHotstar takes partnership route for Middle East expansion",
-          "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
-          "postedAt": "2026-10-06T17:14:07.000Z"
-        },
-        {
-          "id": "om_382e437bfd",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart defends pricing practices, again",
-          "url": "https://www.retaildive.com/news/walmart-defends-dynamic-pricing-practices-again/832248/",
-          "postedAt": "2026-10-06T16:44:00.000Z"
-        },
-        {
-          "id": "om_f86dfeef9a",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Where do associates fit in an AI world?",
-          "url": "https://www.retaildive.com/news/where-do-associates-fit-in-an-ai-world-retail/831640/",
-          "postedAt": "2026-10-06T16:14:00.000Z"
-        },
-        {
-          "id": "om_61e1e92c85",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target reprises another partnership in merchandise overhaul",
-          "url": "https://www.retaildive.com/news/target-simply-shabby-chic-partnership-home-merchandise-overhaul/832229/",
-          "postedAt": "2026-10-06T15:50:00.000Z"
-        },
-        {
-          "id": "om_22d2edd342",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ferrero Will Have Two Ads in Super Bowl 2027, Part of a $50 Million Bet on Sports",
-          "url": "https://www.adweek.com/brand-marketing/ferrero-will-have-two-ads-in-super-bowl-2027-part-of-a-50-million-bet-on-sports/",
-          "postedAt": "2026-10-06T14:52:28.000Z"
-        },
-        {
-          "id": "om_a19f5cbe85",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Top marketing conferences to attend in 2027",
-          "url": "https://www.marketingdive.com/news/top-marketing-events-2027/831301/",
-          "postedAt": "2026-10-06T14:00:00.000Z"
-        },
-        {
-          "id": "om_923a0bc5a4",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside Zip’s ‘surgical’ approach to sports sponsorships",
-          "url": "https://www.marketingbrew.com/stories/bnpl-zip-76ers-sports-sponsorships?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-06T14:00:00.000Z"
-        },
-        {
-          "id": "om_6a4daca292",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How marketers can fuel social, discoverability with experiences",
-          "url": "https://www.marketingdive.com/news/how-marketers-can-fuel-social-discoverability-with-experiences/832218/",
-          "postedAt": "2026-10-06T13:47:00.000Z"
-        },
-        {
-          "id": "om_958a5d7a39",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How brands’ deeper creator deals are unlocking cost efficiencies, results",
-          "url": "https://www.marketingdive.com/news/how-brands-deeper-creator-deals-are-unlocking-cost-efficiencies-results/832205/",
-          "postedAt": "2026-10-06T13:15:00.000Z"
-        },
-        {
-          "id": "om_210396f567",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "What the Super El Niño means for retail",
-          "url": "https://www.retaildive.com/news/what-the-super-el-nino-means-for-retail/831188/",
-          "postedAt": "2026-10-06T13:00:00.000Z"
-        },
-        {
-          "id": "om_46f92dbfdf",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "7 Billion Impressions Without Paid Media: Fanta’s Halloween Strategy",
-          "url": "https://www.adweek.com/brand-marketing/7-billion-impressions-without-paid-media-fantas-halloween-strategy/",
-          "postedAt": "2026-10-06T12:41:30.000Z"
-        },
-        {
-          "id": "om_3a0ad4d1ca",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target’s turnaround has seen early success. Now comes the holidays.",
-          "url": "https://www.retaildive.com/news/target-retail-holiday-season-performance/831858/",
-          "postedAt": "2026-10-06T11:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-07T05:57:05.260Z",
+      "lastUpdated": "2026-10-07T18:56:20.170Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
