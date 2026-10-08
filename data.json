@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-07T18:56:17.702Z",
+      "lastUpdated": "2026-10-08T06:01:18.748Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -361,14 +361,6 @@
           "topic": "Bill Ackman: The Biggest Fight of His Life",
           "url": "https://fs.blog/knowledge-project-podcast/bill-ackman-2/",
           "postedAt": "2026-09-24T09:50:00.000Z"
-        },
-        {
-          "id": "en_pod_lex_fridman_podcast_c19a6bb24b",
-          "source": "Lex Fridman Podcast",
-          "platform": "podcast",
-          "topic": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
-          "url": "https://lexfridman.com/andrew-scull/?utm_source=rss&utm_medium=rss&utm_campaign=andrew-scull",
-          "postedAt": "2026-09-17T00:40:49.000Z"
         }
       ],
       "books": [
@@ -419,10 +411,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-07T18:56:18.914Z",
+      "lastUpdated": "2026-10-08T06:01:30.108Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -515,9 +507,65 @@
           "id": "om_e85bf29363",
           "source": "Wired",
           "lang": "en",
-          "title": "115 Best Prime Day Deals We’re Shopping This October (2026)",
+          "title": "Best October Prime Day Deals to Shop Before the Sale Ends (2026)",
           "url": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/",
-          "postedAt": "2026-10-07T17:17:00.000Z"
+          "postedAt": "2026-10-08T01:34:26.000Z"
+        },
+        {
+          "id": "om_3bb4932090",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "AI favors brands with an active social media presence",
+          "url": "https://www.socialmediatoday.com/news/ai-favors-brands-with-an-active-social-media-presence/832450/",
+          "postedAt": "2026-10-07T22:19:25.000Z"
+        },
+        {
+          "id": "om_3c2aefb5bb",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "LinkedIn shares checklist for B2B marketing campaigns",
+          "url": "https://www.socialmediatoday.com/news/linkedin-shares-checklist-for-b2b-marketing-campaigns/832449/",
+          "postedAt": "2026-10-07T22:13:37.000Z"
+        },
+        {
+          "id": "om_79c2f21f8d",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Pinterest expands creator content promotions",
+          "url": "https://www.socialmediatoday.com/news/pinterest-expands-creator-content-promotions/832447/",
+          "postedAt": "2026-10-07T21:26:17.000Z"
+        },
+        {
+          "id": "om_9f1dc2f791",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "AI Is Pushing Advertising Back Into the Physical World",
+          "url": "https://www.adweek.com/media/ai-advertising-physical-world/",
+          "postedAt": "2026-10-07T21:15:31.000Z"
+        },
+        {
+          "id": "om_4f84aa81b9",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta discusses protocols for agentic commerce",
+          "url": "https://www.socialmediatoday.com/news/meta-discusses-protocols-for-agentic-commerce/832446/",
+          "postedAt": "2026-10-07T21:13:34.000Z"
+        },
+        {
+          "id": "om_9b3fe066ec",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Dan Smith has put up 1.5 million flyers advertising guitar lessons. Now he’s on a Times Square billboard",
+          "url": "https://www.marketingbrew.com/stories/dan-smith-guitar-lessons-posters-times-square-billboard-hp-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-07T19:20:14.000Z"
+        },
+        {
+          "id": "om_e02ac8768f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Indie Agencies Are Setting AI Guardrails to Keep Their Cultures Human",
+          "url": "https://www.adweek.com/agencies/how-indie-agencies-are-setting-ai-guardrails-to-keep-their-cultures-human/",
+          "postedAt": "2026-10-07T17:00:15.000Z"
         },
         {
           "id": "om_dfa9750d5f",
@@ -534,6 +582,14 @@
           "title": "Bed Bath & Beyond parent company calls off another deal",
           "url": "https://www.retaildive.com/news/neighborhood-intelligence-bed-bath-beyond-calls-off-fathom-acquisition/832373/",
           "postedAt": "2026-10-07T15:50:00.000Z"
+        },
+        {
+          "id": "om_5155267d5b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Walmart Is Betting on MrBeast and Holiday Films To Fuel Its Streaming Business",
+          "url": "https://www.adweek.com/commerce/walmart-is-betting-on-mrbeast-and-holiday-films-to-fuel-its-streaming-business/",
+          "postedAt": "2026-10-07T15:34:23.000Z"
         },
         {
           "id": "om_c8924660b7",
@@ -584,44 +640,12 @@
           "postedAt": "2026-10-07T12:48:34.000Z"
         },
         {
-          "id": "om_32b03382aa",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Walmart Lays Out Its Plan to Take Over TV Advertising",
-          "url": "https://www.adweek.com/commerce/walmart-lays-out-its-plan-to-take-over-tv-advertising/",
-          "postedAt": "2026-10-07T12:26:23.000Z"
-        },
-        {
-          "id": "om_4366fd28fa",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Brandweek 2026: Why Brand and Performance Should Stop Fighting ft. Nick Fairbairn of Chime",
-          "url": "https://www.adweek.com/brand-marketing/brandweek-2026-why-brand-and-performance-should-stop-fighting-ft-nick-fairbairn-of-chime/",
-          "postedAt": "2026-10-07T11:13:35.000Z"
-        },
-        {
-          "id": "om_7f12587f99",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK Commerce Advantage: Amazon’s AI-Driven Future Leaves Some Buyers Weary of Losing Control",
-          "url": "https://www.adweek.com/commerce/adweek-commerce-advantage-amazon-plots-an-ai-driven-future-but-some-ad-buyers-worry-about-giving-up-too-much-control/",
-          "postedAt": "2026-10-07T09:33:14.000Z"
-        },
-        {
           "id": "om_7bd948d595",
           "source": "Marketing Brew",
           "lang": "en",
           "title": "Ford execs wanted a splashy new ad campaign. They enlisted Nate Bargatze.",
           "url": "https://www.marketingbrew.com/stories/ford-ad-campaign-nate-bargatze?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-10-07T09:00:00.000Z"
-        },
-        {
-          "id": "om_d7e4df895e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why Advertising Will Be Key to Shaping Our AI-Powered Future—For Better or Worse",
-          "url": "https://www.adweek.com/brand-marketing/why-advertising-will-be-key-to-shaping-our-ai-powered-future/",
-          "postedAt": "2026-10-07T06:00:00.000Z"
         },
         {
           "id": "om_acf611a6dc",
@@ -638,42 +662,10 @@
           "title": "Nutella heads to Super Bowl, part of Ferrero’s $50M marketing bet in 2027",
           "url": "https://www.marketingdive.com/news/nutella-heads-to-super-bowl-part-of-ferreros-50m-marketing-bet-in-2027/832311/",
           "postedAt": "2026-10-06T21:09:00.000Z"
-        },
-        {
-          "id": "om_dd51d944db",
-          "source": "Wired",
-          "lang": "en",
-          "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
-          "url": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
-          "postedAt": "2026-10-06T18:45:39.000Z"
-        },
-        {
-          "id": "om_5860f061a5",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok highlights creator recommendations for Halloween travel",
-          "url": "https://www.socialmediatoday.com/news/tiktok-highlights-creator-recommendations-for-halloween-travel/832289/",
-          "postedAt": "2026-10-06T18:45:24.000Z"
-        },
-        {
-          "id": "om_e9682d9368",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Meta introduces new AI-powered tools at Advertising Week",
-          "url": "https://www.socialmediatoday.com/news/meta-introduces-new-ai-powered-tools-at-advertising-week/832288/",
-          "postedAt": "2026-10-06T18:37:34.000Z"
-        },
-        {
-          "id": "om_d3eca62a79",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How Amex is incorporating ‘Thursday Night Football’ into its NFL marketing",
-          "url": "https://www.marketingbrew.com/stories/amex-amazon-thursday-night-football?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-06T18:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-07T18:56:20.170Z",
+      "lastUpdated": "2026-10-08T06:01:32.259Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
