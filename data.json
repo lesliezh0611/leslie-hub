@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-08T18:50:04.836Z",
+      "lastUpdated": "2026-10-09T06:06:30.566Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,14 +266,6 @@
         }
       ],
       "podcasts": [
-        {
-          "id": "en_pod_the_knowledge_project_44544cabe5",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "Ryan Serhant: How to Get People to Say Yes",
-          "url": "https://fs.blog/knowledge-project-podcast/ryan-serhant/",
-          "postedAt": "2026-10-08T09:55:00.000Z"
-        },
         {
           "id": "en_pod_lenny_s_podcast_126d97f78f",
           "source": "Lenny's Podcast",
@@ -419,10 +411,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-08T18:50:06.467Z",
+      "lastUpdated": "2026-10-09T06:06:32.357Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -512,6 +504,22 @@
       },
       "articles": [
         {
+          "id": "om_a384fae5ff",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok announces its first European Bestseller of the Year",
+          "url": "https://www.socialmediatoday.com/news/tiktok-announces-its-first-european-bestseller-of-the-year/832571/",
+          "postedAt": "2026-10-08T20:57:54.000Z"
+        },
+        {
+          "id": "om_9205621b27",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "OpenAI rolls out new visual ad format, measurement tools for ChatGPT ads",
+          "url": "https://www.marketingbrew.com/stories/openai-visual-ad-format-measurement-tools-advertising-week?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-08T20:13:44.000Z"
+        },
+        {
           "id": "om_34ddcd2a40",
           "source": "Wired",
           "lang": "en",
@@ -520,20 +528,12 @@
           "postedAt": "2026-10-08T17:49:06.000Z"
         },
         {
-          "id": "om_5f967c287f",
-          "source": "The Verge",
+          "id": "om_3d354f274f",
+          "source": "Adweek",
           "lang": "en",
-          "title": "Are you ready for everything to look like TikTok?",
-          "url": "https://www.theverge.com/tech/1006069/instagram-facebook-full-screen-reels-test-tiktok",
-          "postedAt": "2026-10-08T17:12:09.000Z"
-        },
-        {
-          "id": "om_212c6ee068",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "New York accuses TikTok of serving users ‘placebo’ safety features",
-          "url": "https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features",
-          "postedAt": "2026-10-08T16:53:49.000Z"
+          "title": "McCann’s Tyler Turnbull Named WPP Creative Global CEO",
+          "url": "https://www.adweek.com/agencies/mccanns-tyler-turnbull-named-wpp-creative-global-ceo/",
+          "postedAt": "2026-10-08T17:09:01.000Z"
         },
         {
           "id": "om_f3dd30022a",
@@ -662,18 +662,10 @@
           "title": "Your brand can do almost anything — and that’s the problem",
           "url": "https://www.marketingdive.com/news/your-brand-can-do-almost-anything-and-thats-the-problem/831496/",
           "postedAt": "2026-10-08T13:55:00.000Z"
-        },
-        {
-          "id": "om_a1bbb4b1df",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Revlon used Amazon’s interactive video ads to drive outcomes",
-          "url": "https://www.marketingdive.com/news/how-revlon-used-amazons-interactive-video-ads-to-drive-outcomes/832462/",
-          "postedAt": "2026-10-08T13:52:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-08T18:50:07.783Z",
+      "lastUpdated": "2026-10-09T06:06:33.913Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
