@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-09T06:06:30.566Z",
+      "lastUpdated": "2026-10-09T18:20:32.867Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_the_knowledge_project_44544cabe5",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "Ryan Serhant: How to Get People to Say Yes",
+          "url": "https://fs.blog/knowledge-project-podcast/ryan-serhant/",
+          "postedAt": "2026-10-08T09:55:00.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_126d97f78f",
           "source": "Lenny's Podcast",
@@ -411,10 +419,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-09T06:06:32.357Z",
+      "lastUpdated": "2026-10-09T18:20:34.881Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -504,6 +512,110 @@
       },
       "articles": [
         {
+          "id": "om_7dd7cc2719",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Nearly half of shoppers are worried about affording holiday gifts this year",
+          "url": "https://www.retaildive.com/news/shoppers-worried-affording-holidays-icsc/832615/",
+          "postedAt": "2026-10-09T15:51:00.000Z"
+        },
+        {
+          "id": "om_b7942fed5b",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "a16z’s Olivia Moore on the state of consumer AI",
+          "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+          "postedAt": "2026-10-09T15:43:33.000Z"
+        },
+        {
+          "id": "om_a6c90c36e3",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: E.l.f. Brands pushes into fragrance and is Athleta’s C-suite shakeup an opportunity?",
+          "url": "https://www.retaildive.com/news/elf-brands-fragrance-athleta-ceo-lululemon-crocs-bark/832592/",
+          "postedAt": "2026-10-09T15:42:00.000Z"
+        },
+        {
+          "id": "om_f49ab383ef",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Online spend during Amazon’s Prime Big Deal Days neared $10B in the US",
+          "url": "https://www.retaildive.com/news/amazon-prime-big-deal-days-online-spend-nears-ten-billion/832604/",
+          "postedAt": "2026-10-09T15:08:00.000Z"
+        },
+        {
+          "id": "om_082d236387",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Volkswagen’s CMO on driving emotional connection through partnerships",
+          "url": "https://www.marketingdive.com/news/volkswagens-cmo-on-driving-emotional-connection-through-partnerships/832455/",
+          "postedAt": "2026-10-09T15:00:00.000Z"
+        },
+        {
+          "id": "om_1e4dca1876",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+          "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+          "postedAt": "2026-10-09T14:30:00.000Z"
+        },
+        {
+          "id": "om_b7f283f48b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Treasure AI Unveils Agentic Marketing Products and Features at Agentic World 2026",
+          "url": "https://www.adweek.com/sponsored-content/treasure-ai-unveils-agentic-marketing-products-and-features-at-agentic-world-2026/",
+          "postedAt": "2026-10-09T13:57:16.000Z"
+        },
+        {
+          "id": "om_0f5bafe00e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why Free People prioritizes cultural co-authorship in celeb tie-ups",
+          "url": "https://www.marketingdive.com/news/why-free-people-prioritizes-cultural-co-authorship-in-celeb-tie-ups/832568/",
+          "postedAt": "2026-10-09T13:35:00.000Z"
+        },
+        {
+          "id": "om_7368e344e5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "5 Marketer Moves In October So Far: Red Lobster, Rocket Companies, and More",
+          "url": "https://www.adweek.com/brand-marketing/5-marketer-moves-in-october-so-far-red-lobster-rocket-companies-and-more/",
+          "postedAt": "2026-10-09T12:58:15.000Z"
+        },
+        {
+          "id": "om_b208b974b0",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Campaign Trail: Polymarket bets on celebs to build its own ad universe",
+          "url": "https://www.marketingdive.com/news/campaign-trail-polymarket-bets-on-celebs-to-build-its-own-ad-universe/832012/",
+          "postedAt": "2026-10-09T12:00:00.000Z"
+        },
+        {
+          "id": "om_04812beac7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Brian Niccol On Starbucks’ Food Ambitions, Weeks Before Chipotle Takeover Speculation",
+          "url": "https://www.adweek.com/brand-marketing/brian-niccol-on-starbucks-food-ambitions-weeks-before-chipotle-takeover-speculation/",
+          "postedAt": "2026-10-09T08:37:16.000Z"
+        },
+        {
+          "id": "om_2e0372094e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK Agencies Advantage: Brands Stall the Shift to Performance Pay",
+          "url": "https://www.adweek.com/agencies/adweek-agencies-advantage-brands-stall-the-shift-to-performance-pay/",
+          "postedAt": "2026-10-09T08:14:54.000Z"
+        },
+        {
+          "id": "om_f6c985b68c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 12 Campaigns That Caught Our Eye, From Wet Ones to Ikea",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-12-campaigns-that-caught-our-eye-from-wet-ones-to-ikea/",
+          "postedAt": "2026-10-09T06:00:00.000Z"
+        },
+        {
           "id": "om_a384fae5ff",
           "source": "Social Media Today",
           "lang": "en",
@@ -558,114 +670,10 @@
           "title": "Arc’teryx opens concept store devoted to climbing",
           "url": "https://www.retaildive.com/news/arcteryx-concept-store-climbing-los-angeles/832474/",
           "postedAt": "2026-10-08T16:14:00.000Z"
-        },
-        {
-          "id": "om_dbe05a421c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon retail division hit by job cuts",
-          "url": "https://www.retaildive.com/news/amazon-retail-stores-division-layoffs/832501/",
-          "postedAt": "2026-10-08T16:08:00.000Z"
-        },
-        {
-          "id": "om_44a5a8877f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "AI is ‘reshaping’ Walmart and Sparky is leading the charge",
-          "url": "https://www.retaildive.com/news/ai-walmart-sparky-CX-investment/832327/",
-          "postedAt": "2026-10-08T15:28:00.000Z"
-        },
-        {
-          "id": "om_3f77d58663",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one",
-          "url": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/",
-          "postedAt": "2026-10-08T15:06:17.000Z"
-        },
-        {
-          "id": "om_6b355b449f",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Asos confirms breach of customer data after hackers send rogue app notification",
-          "url": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/",
-          "postedAt": "2026-10-08T15:01:15.000Z"
-        },
-        {
-          "id": "om_b358bf0424",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart debuts 1-hour express pickup, ASL service ahead of holidays",
-          "url": "https://www.retaildive.com/news/walmart-one-hour-express-store-pickup-asl-service-holiday/832464/",
-          "postedAt": "2026-10-08T14:29:00.000Z"
-        },
-        {
-          "id": "om_d7de8d3268",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Reinventing Retail Icons: Ken Ohashi and Marisa Thalberg on Making Legacy Brands Relevant",
-          "url": "https://www.adweek.com/brand-marketing/reinventing-retail-icons-ken-ohashi-and-marisa-thalberg-on-making-legacy-brands-relevant/",
-          "postedAt": "2026-10-08T14:27:12.000Z"
-        },
-        {
-          "id": "om_a0e94400a0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Starbucks Is Reportedly Eyeing Chipotle, But The Burrito Chain May Be More Than It Can Chew",
-          "url": "https://www.adweek.com/brand-marketing/starbucks-is-reportedly-eyeing-chipotle-but-the-burrito-chain-may-be-more-than-it-can-chew/",
-          "postedAt": "2026-10-08T14:21:53.000Z"
-        },
-        {
-          "id": "om_3167b34e1b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Brandweek 2026: The Hard Leadership Calls Behind Chicago Fire FC’s Growth ft. Dan Moriarty",
-          "url": "https://www.adweek.com/brand-marketing/brandweek-2026-the-hard-leadership-calls-behind-chicago-fire-fcs-growth-ft-dan-moriarty/",
-          "postedAt": "2026-10-08T14:18:04.000Z"
-        },
-        {
-          "id": "om_a2ce6180cf",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How social listening informed one of Walmart’s biggest merch drops to date",
-          "url": "https://www.marketingbrew.com/stories/walmart-rotisserie-chicken-social-listening-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-08T14:05:20.000Z"
-        },
-        {
-          "id": "om_2199371eff",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Inside Omaha Steaks’ efforts to ditch marketing bull and attract Gen Z",
-          "url": "https://www.marketingdive.com/news/inside-omaha-steaks-efforts-to-ditch-marketing-bull-and-attract-gen-z/832062/",
-          "postedAt": "2026-10-08T14:01:00.000Z"
-        },
-        {
-          "id": "om_17093d1d92",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Espolòn Tequila combats surge pricing with ride-hailing refund program",
-          "url": "https://www.marketingdive.com/news/espolon-tequila-combats-surge-pricing-with-ride-hailing-refund-program/832452/",
-          "postedAt": "2026-10-08T13:58:21.000Z"
-        },
-        {
-          "id": "om_5f1b77ea8d",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Southwest turns notifications into rewards in mobile-forward campaign",
-          "url": "https://www.marketingdive.com/news/southwest-turns-notifications-into-rewards-in-mobile-forward-campaign/832439/",
-          "postedAt": "2026-10-08T13:57:00.000Z"
-        },
-        {
-          "id": "om_027286d4c0",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Your brand can do almost anything — and that’s the problem",
-          "url": "https://www.marketingdive.com/news/your-brand-can-do-almost-anything-and-thats-the-problem/831496/",
-          "postedAt": "2026-10-08T13:55:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-09T06:06:33.913Z",
+      "lastUpdated": "2026-10-09T18:20:36.568Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
