@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-09T18:20:32.867Z",
+      "lastUpdated": "2026-10-10T05:50:26.524Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-09T18:20:34.881Z",
+      "lastUpdated": "2026-10-10T05:50:28.075Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,54 @@
       },
       "articles": [
         {
+          "id": "om_1e4dca1876",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+          "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+          "postedAt": "2026-10-09T18:57:06.000Z"
+        },
+        {
+          "id": "om_25bcb11a87",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Health Marketing Is Moving From Information to Navigation",
+          "url": "https://www.adweek.com/brand-marketing/health-marketing-is-moving-from-information-to-navigation/",
+          "postedAt": "2026-10-09T16:49:07.000Z"
+        },
+        {
+          "id": "om_6af06fde9a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Brands Can Expect a Longer Holiday Shopping Season and Thriftier Consumers",
+          "url": "https://www.adweek.com/commerce/brands-can-expect-a-longer-holiday-shopping-season-and-thriftier-consumers/",
+          "postedAt": "2026-10-09T16:40:55.000Z"
+        },
+        {
+          "id": "om_e84e9afa0a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "People Are Getting Together—Will Brands Meet Up With Them?",
+          "url": "https://www.adweek.com/brand-marketing/people-are-getting-togetherwill-brands-meet-up-with-them/",
+          "postedAt": "2026-10-09T16:40:12.000Z"
+        },
+        {
+          "id": "om_377b1592e5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Building the Right Team Is More Important Than Ever for Marketers",
+          "url": "https://www.adweek.com/brand-marketing/building-the-right-team-is-more-important-than-ever-for-marketers/",
+          "postedAt": "2026-10-09T16:37:56.000Z"
+        },
+        {
+          "id": "om_7ee6712565",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Award-Winning Agencies Talk TikTok",
+          "url": "https://www.adweek.com/agencies/award-winning-agencies-talk-tiktok/",
+          "postedAt": "2026-10-09T16:37:50.000Z"
+        },
+        {
           "id": "om_7dd7cc2719",
           "source": "Retail Dive",
           "lang": "en",
@@ -536,6 +584,14 @@
           "postedAt": "2026-10-09T15:42:00.000Z"
         },
         {
+          "id": "om_2b22094637",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Walmart Tests Placing Marketplace Inventory In Stores For Pickup and Delivery",
+          "url": "https://www.adweek.com/commerce/walmart-tests-placing-marketplace-inventory-in-stores-for-pickup-and-delivery/",
+          "postedAt": "2026-10-09T15:24:09.000Z"
+        },
+        {
           "id": "om_f49ab383ef",
           "source": "Retail Dive",
           "lang": "en",
@@ -552,22 +608,6 @@
           "postedAt": "2026-10-09T15:00:00.000Z"
         },
         {
-          "id": "om_1e4dca1876",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
-          "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-          "postedAt": "2026-10-09T14:30:00.000Z"
-        },
-        {
-          "id": "om_b7f283f48b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Treasure AI Unveils Agentic Marketing Products and Features at Agentic World 2026",
-          "url": "https://www.adweek.com/sponsored-content/treasure-ai-unveils-agentic-marketing-products-and-features-at-agentic-world-2026/",
-          "postedAt": "2026-10-09T13:57:16.000Z"
-        },
-        {
           "id": "om_0f5bafe00e",
           "source": "Marketing Dive",
           "lang": "en",
@@ -576,44 +616,12 @@
           "postedAt": "2026-10-09T13:35:00.000Z"
         },
         {
-          "id": "om_7368e344e5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "5 Marketer Moves In October So Far: Red Lobster, Rocket Companies, and More",
-          "url": "https://www.adweek.com/brand-marketing/5-marketer-moves-in-october-so-far-red-lobster-rocket-companies-and-more/",
-          "postedAt": "2026-10-09T12:58:15.000Z"
-        },
-        {
           "id": "om_b208b974b0",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Campaign Trail: Polymarket bets on celebs to build its own ad universe",
           "url": "https://www.marketingdive.com/news/campaign-trail-polymarket-bets-on-celebs-to-build-its-own-ad-universe/832012/",
           "postedAt": "2026-10-09T12:00:00.000Z"
-        },
-        {
-          "id": "om_04812beac7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Brian Niccol On Starbucks’ Food Ambitions, Weeks Before Chipotle Takeover Speculation",
-          "url": "https://www.adweek.com/brand-marketing/brian-niccol-on-starbucks-food-ambitions-weeks-before-chipotle-takeover-speculation/",
-          "postedAt": "2026-10-09T08:37:16.000Z"
-        },
-        {
-          "id": "om_2e0372094e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK Agencies Advantage: Brands Stall the Shift to Performance Pay",
-          "url": "https://www.adweek.com/agencies/adweek-agencies-advantage-brands-stall-the-shift-to-performance-pay/",
-          "postedAt": "2026-10-09T08:14:54.000Z"
-        },
-        {
-          "id": "om_f6c985b68c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 12 Campaigns That Caught Our Eye, From Wet Ones to Ikea",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-12-campaigns-that-caught-our-eye-from-wet-ones-to-ikea/",
-          "postedAt": "2026-10-09T06:00:00.000Z"
         },
         {
           "id": "om_a384fae5ff",
@@ -638,14 +646,6 @@
           "title": "38 Best Last-Minute Prime Day Deals You Can Still Shop Today (2026)",
           "url": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-08-2026/",
           "postedAt": "2026-10-08T17:49:06.000Z"
-        },
-        {
-          "id": "om_3d354f274f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "McCann’s Tyler Turnbull Named WPP Creative Global CEO",
-          "url": "https://www.adweek.com/agencies/mccanns-tyler-turnbull-named-wpp-creative-global-ceo/",
-          "postedAt": "2026-10-08T17:09:01.000Z"
         },
         {
           "id": "om_f3dd30022a",
@@ -673,7 +673,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-09T18:20:36.568Z",
+      "lastUpdated": "2026-10-10T05:50:29.191Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
