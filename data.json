@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-10T05:50:26.524Z",
+      "lastUpdated": "2026-10-10T17:19:51.657Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_09682752ef",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: Community Wisdom Top Contributors Summer Class 2026 + ML recommendation systems, getting back into product after being fired, deciding when to quit a side project, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom",
+          "postedAt": "2026-10-10T13:01:38.000Z"
+        },
         {
           "id": "en_pod_the_knowledge_project_44544cabe5",
           "source": "The Knowledge Project",
@@ -355,14 +363,6 @@
           "postedAt": "2026-09-28T12:03:04.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_821f7322b5",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
-          "url": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
-          "postedAt": "2026-09-27T12:32:18.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_efa3a8744b",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-10T05:50:28.075Z",
+      "lastUpdated": "2026-10-10T17:19:53.454Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -673,7 +673,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-10T05:50:29.191Z",
+      "lastUpdated": "2026-10-10T17:19:54.789Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
