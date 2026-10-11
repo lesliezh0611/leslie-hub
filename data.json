@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-11T05:44:22.073Z",
+      "lastUpdated": "2026-10-11T17:40:47.989Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_490ac16a59",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+          "url": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
+          "postedAt": "2026-10-11T12:31:59.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_09682752ef",
           "source": "Lenny's Podcast",
@@ -355,14 +363,6 @@
           "postedAt": "2026-09-28T15:03:13.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_631e24e3f2",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Jev for beginners: how to use it and what to build",
-          "url": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
-          "postedAt": "2026-09-28T12:03:04.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_efa3a8744b",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-11T05:44:23.333Z",
+      "lastUpdated": "2026-10-11T17:40:49.363Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -568,14 +568,6 @@
           "postedAt": "2026-10-09T15:51:00.000Z"
         },
         {
-          "id": "om_b7942fed5b",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "a16z’s Olivia Moore on the state of consumer AI",
-          "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-          "postedAt": "2026-10-09T15:43:33.000Z"
-        },
-        {
           "id": "om_a6c90c36e3",
           "source": "Retail Dive",
           "lang": "en",
@@ -670,10 +662,18 @@
           "title": "Arc’teryx opens concept store devoted to climbing",
           "url": "https://www.retaildive.com/news/arcteryx-concept-store-climbing-los-angeles/832474/",
           "postedAt": "2026-10-08T16:14:00.000Z"
+        },
+        {
+          "id": "om_dbe05a421c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon retail division hit by job cuts",
+          "url": "https://www.retaildive.com/news/amazon-retail-stores-division-layoffs/832501/",
+          "postedAt": "2026-10-08T16:08:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-11T05:44:24.786Z",
+      "lastUpdated": "2026-10-11T17:40:50.660Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
