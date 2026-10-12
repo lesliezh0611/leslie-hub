@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-11T17:40:47.989Z",
+      "lastUpdated": "2026-10-12T05:54:46.057Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-11T17:40:49.363Z",
+      "lastUpdated": "2026-10-12T05:54:47.233Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -511,14 +511,6 @@
         ]
       },
       "articles": [
-        {
-          "id": "om_1e4dca1876",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
-          "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-          "postedAt": "2026-10-09T18:57:06.000Z"
-        },
         {
           "id": "om_25bcb11a87",
           "source": "Adweek",
@@ -670,10 +662,18 @@
           "title": "Amazon retail division hit by job cuts",
           "url": "https://www.retaildive.com/news/amazon-retail-stores-division-layoffs/832501/",
           "postedAt": "2026-10-08T16:08:00.000Z"
+        },
+        {
+          "id": "om_44a5a8877f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "AI is ‘reshaping’ Walmart and Sparky is leading the charge",
+          "url": "https://www.retaildive.com/news/ai-walmart-sparky-CX-investment/832327/",
+          "postedAt": "2026-10-08T15:28:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-11T17:40:50.660Z",
+      "lastUpdated": "2026-10-12T05:54:48.200Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
