@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-12T21:15:37.293Z",
+      "lastUpdated": "2026-10-13T06:45:52.152Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-12T21:15:38.569Z",
+      "lastUpdated": "2026-10-13T06:45:54.100Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,20 +512,76 @@
       },
       "articles": [
         {
-          "id": "om_3ca049c310",
+          "id": "om_90c38b55a7",
           "source": "Adweek",
           "lang": "en",
-          "title": "United Reorganizes Advertising Business To Prioritize Starlink and Other Tech Investments",
-          "url": "https://www.adweek.com/commerce/united-reorganizes-advertising-business-to-prioritize-starlink-and-other-tech-investments/",
-          "postedAt": "2026-10-12T16:04:53.000Z"
+          "title": "Publicis Thanks Omnicom For Market Consolidation As Q3 Growth Hits 5%",
+          "url": "https://www.adweek.com/agencies/publicis-says-three-horse-holdco-race-is-good-for-business-as-q3-growth-hits-5/",
+          "postedAt": "2026-10-13T02:30:00.000Z"
         },
         {
-          "id": "om_91daeeea3f",
+          "id": "om_729fbe1023",
           "source": "Adweek",
           "lang": "en",
-          "title": "How Brands Made Space for Creativity at CultureCon",
-          "url": "https://www.adweek.com/brand-marketing/how-brands-made-space-for-creativity-at-culturecon/",
-          "postedAt": "2026-10-12T16:04:30.000Z"
+          "title": "With Fewer Big Holdcos, Arthur Sadoun Says Client Conflict Is No Longer a Dealbreaker",
+          "url": "https://www.adweek.com/agencies/with-fewer-big-holdcos-arthur-sadoun-says-client-conflict-is-no-longer-a-dealbreaker/",
+          "postedAt": "2026-10-13T02:30:00.000Z"
+        },
+        {
+          "id": "om_28835d3c6e",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Snapchat publishes 2026 holiday marketing guide",
+          "url": "https://www.socialmediatoday.com/news/snapchat-publishes-2026-holiday-marketing-guide/832800/",
+          "postedAt": "2026-10-12T20:38:39.000Z"
+        },
+        {
+          "id": "om_dbf040b1e5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The New Frontiers of Commerce Media",
+          "url": "https://www.adweek.com/commerce/the-new-frontiers-of-commerce-media/",
+          "postedAt": "2026-10-12T17:48:12.000Z"
+        },
+        {
+          "id": "om_a55f95e2b6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Breaking Down the New Customer Acquisition Playbook",
+          "url": "https://www.adweek.com/brand-marketing/breaking-down-the-new-customer-acquisition-playbook/",
+          "postedAt": "2026-10-12T17:47:40.000Z"
+        },
+        {
+          "id": "om_5c2af8a407",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Brands Can Build on Holiday Shopping to Inspire Lasting Loyalty",
+          "url": "https://www.adweek.com/commerce/how-brands-can-build-on-holiday-shopping-to-inspire-lasting-loyalty/",
+          "postedAt": "2026-10-12T17:47:14.000Z"
+        },
+        {
+          "id": "om_f230a7615e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Capturing the Moving Target of Consumer Intent",
+          "url": "https://www.adweek.com/commerce/capturing-the-moving-target-of-consumer-intent/",
+          "postedAt": "2026-10-12T17:46:47.000Z"
+        },
+        {
+          "id": "om_c5ee8edd04",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "A Good Deal Is Much More Than a Good Price During the Holidays",
+          "url": "https://www.adweek.com/commerce/a-good-deal-is-much-more-than-a-good-price-during-the-holidays/",
+          "postedAt": "2026-10-12T17:46:19.000Z"
+        },
+        {
+          "id": "om_b6ba63570d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "A Holiday Playbook for the Year’s Busiest Shopping Season",
+          "url": "https://www.adweek.com/commerce/a-holiday-playbook-for-the-years-busiest-shopping-season/",
+          "postedAt": "2026-10-12T17:45:56.000Z"
         },
         {
           "id": "om_621e582faf",
@@ -552,14 +608,6 @@
           "postedAt": "2026-10-12T14:54:00.000Z"
         },
         {
-          "id": "om_a4d65d8b2c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Lifestyle First: How the Next Generation Is Rewriting Luxury Real Estate",
-          "url": "https://www.adweek.com/brand-marketing/lifestyle-first-how-the-next-generation-is-rewriting-luxury-real-estate/",
-          "postedAt": "2026-10-12T14:47:59.000Z"
-        },
-        {
           "id": "om_ac89924bf8",
           "source": "Marketing Dive",
           "lang": "en",
@@ -574,14 +622,6 @@
           "title": "Why Free People prioritizes cultural co-authorship in celeb tie-ups",
           "url": "https://www.retaildive.com/news/free-people-willow-smith-marketing-cultural-co-authorship/832707/",
           "postedAt": "2026-10-12T14:31:00.000Z"
-        },
-        {
-          "id": "om_bbc0f7bae6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "As Novig Unveils Sydney Sweeney Sequel, Powerade Bites Back",
-          "url": "https://www.adweek.com/brand-marketing/as-novig-unveils-sydney-sweeney-sequel-powerade-bites-back/",
-          "postedAt": "2026-10-12T14:21:16.000Z"
         },
         {
           "id": "om_db0c75b100",
@@ -624,46 +664,6 @@
           "postedAt": "2026-10-12T12:00:00.000Z"
         },
         {
-          "id": "om_99808208d9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How to Resonate With Consumers in the Age of Attention",
-          "url": "https://www.adweek.com/creativity/how-to-resonate-with-consumers-in-the-age-of-attention/",
-          "postedAt": "2026-10-12T11:26:22.000Z"
-        },
-        {
-          "id": "om_e3bf5110a5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "AI Is Changing How Marketing and Technology Teams Work Together",
-          "url": "https://www.adweek.com/brand-marketing/ai-is-changing-how-marketing-and-technology-teams-work-together/",
-          "postedAt": "2026-10-12T11:25:50.000Z"
-        },
-        {
-          "id": "om_956603bce5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Entering the New World of Marketing With LLMs",
-          "url": "https://www.adweek.com/programmatic/entering-the-new-world-of-marketing-with-llms/",
-          "postedAt": "2026-10-12T11:25:24.000Z"
-        },
-        {
-          "id": "om_77765a0805",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Healthcare Marketers Rethink Infrastructure in Search of Real-Time Results",
-          "url": "https://www.adweek.com/performance-marketing/healthcare-marketers-rethink-infrastructure-in-search-of-real-time-results/",
-          "postedAt": "2026-10-12T11:24:57.000Z"
-        },
-        {
-          "id": "om_f3e145fb26",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How AI use in webinars builds a program that compounds",
-          "url": "https://www.marketingdive.com/spons/how-ai-use-in-webinars-builds-a-program-that-compounds/832206/",
-          "postedAt": "2026-10-12T09:00:00.000Z"
-        },
-        {
           "id": "om_2c61bdb25e",
           "source": "Marketing Dive",
           "lang": "en",
@@ -673,7 +673,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-12T21:15:39.697Z",
+      "lastUpdated": "2026-10-13T06:45:55.993Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
