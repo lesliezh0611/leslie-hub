@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-13T06:45:52.152Z",
+      "lastUpdated": "2026-10-13T19:15:21.495Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_ee47aa4819",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How to tell if a startup has a moat",
+          "url": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
+          "postedAt": "2026-10-13T12:45:41.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_35483b1348",
           "source": "Lenny's Podcast",
@@ -355,14 +363,6 @@
           "postedAt": "2026-09-30T14:45:15.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_d58360993c",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Jev: 8 real use cases for the fastest, cheapest model I’ve ever used | John Lindquist",
-          "url": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest",
-          "postedAt": "2026-09-30T12:04:27.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_efa3a8744b",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-13T06:45:54.100Z",
+      "lastUpdated": "2026-10-13T19:15:22.751Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,19 +512,123 @@
       },
       "articles": [
         {
+          "id": "om_1851696c1a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Nordstrom expands FAO Schwarz offerings, debuts new app features for holidays",
+          "url": "https://www.retaildive.com/news/nordstrom-expands-fao-schwarz-offerings-new-app-features-holiday/832853/",
+          "postedAt": "2026-10-13T15:55:00.000Z"
+        },
+        {
+          "id": "om_6f29730f00",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Publicis calls AI marketing opportunity a ‘2-speed boat’ as agentic booms",
+          "url": "https://www.marketingdive.com/news/publicis-calls-ai-marketing-opportunity-a-2-speed-boat-as-agentic-booms/832836/",
+          "postedAt": "2026-10-13T14:46:00.000Z"
+        },
+        {
+          "id": "om_052b8f23f4",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Where has the aspirational luxury consumer gone?",
+          "url": "https://www.retaildive.com/news/where-has-aspirational-luxury-consumer-gone/832365/",
+          "postedAt": "2026-10-13T14:12:00.000Z"
+        },
+        {
+          "id": "om_da6e59a437",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "To Sell ChatGPT to Businesses, OpenAI Is Going Back to Field Marketing",
+          "url": "https://www.adweek.com/media/to-sell-chatgpt-to-businesses-openai-is-going-back-to-field-marketing/",
+          "postedAt": "2026-10-13T14:04:24.000Z"
+        },
+        {
+          "id": "om_9aab4c5eb0",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Coworking with Satoru Wakeshima",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-satoru-wakeshima?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-13T13:27:37.000Z"
+        },
+        {
+          "id": "om_016589b0b2",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "India delays digital payments fee rollout amid retailer pushback",
+          "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
+          "postedAt": "2026-10-13T13:25:05.000Z"
+        },
+        {
+          "id": "om_3ed5ed83d5",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Lowe’s is building — and measuring — a full-funnel media network",
+          "url": "https://www.marketingdive.com/news/how-lowes-is-building-and-measuring-a-full-funnel-media-network/832747/",
+          "postedAt": "2026-10-13T13:00:00.000Z"
+        },
+        {
+          "id": "om_b177cbab1a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Reporter’s notebook: Inside Scheels’ sporting goods wonderland",
+          "url": "https://www.retaildive.com/news/scheels-store-experience-retail-best-kept-secret/831211/",
+          "postedAt": "2026-10-13T13:00:00.000Z"
+        },
+        {
+          "id": "om_7312afad5a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Brand new bag: Chipotle, Unreal Snacks reach for fashion relevancy",
+          "url": "https://www.marketingdive.com/news/brand-new-bag-chipotle-unreal-snacks-reach-for-fashion-relevancy/832488/",
+          "postedAt": "2026-10-13T11:53:00.000Z"
+        },
+        {
+          "id": "om_ccc445eed3",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Virtual Vanguard: Show Us the Prompt",
+          "url": "https://www.adweek.com/brand-marketing/virtual-vanguard-show-us-the-prompt/",
+          "postedAt": "2026-10-13T11:27:33.000Z"
+        },
+        {
+          "id": "om_2e732d5bca",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Gen Z, Gen Alpha and the AI-ificiation of retail this holiday season",
+          "url": "https://www.retaildive.com/news/gen-z-gen-alpha-holiday-shopping-retail-trends/831838/",
+          "postedAt": "2026-10-13T11:00:00.000Z"
+        },
+        {
+          "id": "om_dde42a2f09",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Pringles Offers One Die-Hard Fan a Final Resting Place in a Branded Urn",
+          "url": "https://www.adweek.com/creativity/pringles-offers-one-die-hard-fan-a-final-resting-place-in-a-branded-urn/",
+          "postedAt": "2026-10-13T09:30:00.000Z"
+        },
+        {
+          "id": "om_1261fe5447",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Matt MacDonald Leaves VCCP for Omnicom’s Merkley+Partners",
+          "url": "https://www.adweek.com/agencies/matt-macdonald-leaves-vccp-for-omnicoms-merkleypartners/",
+          "postedAt": "2026-10-13T06:00:00.000Z"
+        },
+        {
+          "id": "om_a028fc1cd5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Meta’s TikTok Link Ban Could Hobble Media Buyers’ Creator Campaigns",
+          "url": "https://www.adweek.com/social-marketing/meta-tiktok-ad-ban-advertisers/",
+          "postedAt": "2026-10-13T05:03:11.000Z"
+        },
+        {
           "id": "om_90c38b55a7",
           "source": "Adweek",
           "lang": "en",
           "title": "Publicis Thanks Omnicom For Market Consolidation As Q3 Growth Hits 5%",
           "url": "https://www.adweek.com/agencies/publicis-says-three-horse-holdco-race-is-good-for-business-as-q3-growth-hits-5/",
-          "postedAt": "2026-10-13T02:30:00.000Z"
-        },
-        {
-          "id": "om_729fbe1023",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "With Fewer Big Holdcos, Arthur Sadoun Says Client Conflict Is No Longer a Dealbreaker",
-          "url": "https://www.adweek.com/agencies/with-fewer-big-holdcos-arthur-sadoun-says-client-conflict-is-no-longer-a-dealbreaker/",
           "postedAt": "2026-10-13T02:30:00.000Z"
         },
         {
@@ -534,54 +638,6 @@
           "title": "Snapchat publishes 2026 holiday marketing guide",
           "url": "https://www.socialmediatoday.com/news/snapchat-publishes-2026-holiday-marketing-guide/832800/",
           "postedAt": "2026-10-12T20:38:39.000Z"
-        },
-        {
-          "id": "om_dbf040b1e5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The New Frontiers of Commerce Media",
-          "url": "https://www.adweek.com/commerce/the-new-frontiers-of-commerce-media/",
-          "postedAt": "2026-10-12T17:48:12.000Z"
-        },
-        {
-          "id": "om_a55f95e2b6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Breaking Down the New Customer Acquisition Playbook",
-          "url": "https://www.adweek.com/brand-marketing/breaking-down-the-new-customer-acquisition-playbook/",
-          "postedAt": "2026-10-12T17:47:40.000Z"
-        },
-        {
-          "id": "om_5c2af8a407",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Brands Can Build on Holiday Shopping to Inspire Lasting Loyalty",
-          "url": "https://www.adweek.com/commerce/how-brands-can-build-on-holiday-shopping-to-inspire-lasting-loyalty/",
-          "postedAt": "2026-10-12T17:47:14.000Z"
-        },
-        {
-          "id": "om_f230a7615e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Capturing the Moving Target of Consumer Intent",
-          "url": "https://www.adweek.com/commerce/capturing-the-moving-target-of-consumer-intent/",
-          "postedAt": "2026-10-12T17:46:47.000Z"
-        },
-        {
-          "id": "om_c5ee8edd04",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "A Good Deal Is Much More Than a Good Price During the Holidays",
-          "url": "https://www.adweek.com/commerce/a-good-deal-is-much-more-than-a-good-price-during-the-holidays/",
-          "postedAt": "2026-10-12T17:46:19.000Z"
-        },
-        {
-          "id": "om_b6ba63570d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "A Holiday Playbook for the Year’s Busiest Shopping Season",
-          "url": "https://www.adweek.com/commerce/a-holiday-playbook-for-the-years-busiest-shopping-season/",
-          "postedAt": "2026-10-12T17:45:56.000Z"
         },
         {
           "id": "om_621e582faf",
@@ -614,66 +670,10 @@
           "title": "Vizio ramps up creator-led programming in bid for CTV ad dollars",
           "url": "https://www.marketingdive.com/news/vizio-ramps-up-creator-led-programming-in-bid-for-ctv-ad-dollars/832640/",
           "postedAt": "2026-10-12T14:37:00.000Z"
-        },
-        {
-          "id": "om_8c5c08a3b1",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Why Free People prioritizes cultural co-authorship in celeb tie-ups",
-          "url": "https://www.retaildive.com/news/free-people-willow-smith-marketing-cultural-co-authorship/832707/",
-          "postedAt": "2026-10-12T14:31:00.000Z"
-        },
-        {
-          "id": "om_db0c75b100",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Tariffs pushed up consumer goods prices by 2.9 percentage points: NY Fed",
-          "url": "https://www.retaildive.com/news/tariffs-pushed-up-consumer-goods-prices-ny-fed-inflation-elections-tax-taxes/832701/",
-          "postedAt": "2026-10-12T14:01:00.000Z"
-        },
-        {
-          "id": "om_5aa2e0908f",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "‘Don’t be boring’: How Smirnoff, Hinge cozy up to Gen Z through culture",
-          "url": "https://www.marketingdive.com/news/dont-be-boring-how-smirnoff-hinge-cozy-up-to-gen-z-through-culture/832572/",
-          "postedAt": "2026-10-12T13:38:00.000Z"
-        },
-        {
-          "id": "om_39505b84a8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target denies cooperating with ICE. Here’s why that may not matter.",
-          "url": "https://www.retaildive.com/news/target-denies-cooperating-with-ice-heres-why-that-may-not-matter/832645/",
-          "postedAt": "2026-10-12T13:17:00.000Z"
-        },
-        {
-          "id": "om_45e86bfd0c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Tractor Supply opens Idaho distribution center with automation, dedicated AI team",
-          "url": "https://www.retaildive.com/news/tractor-supply-opens-idaho-distribution-center-with-automation-dedicated-a/832591/",
-          "postedAt": "2026-10-12T13:00:00.000Z"
-        },
-        {
-          "id": "om_e164703fd2",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Sprite is refreshing its NBA sponsorship with a global focus",
-          "url": "https://www.marketingdive.com/news/how-sprite-is-refreshing-its-nba-sponsorship-with-a-global-focus/832599/",
-          "postedAt": "2026-10-12T12:00:00.000Z"
-        },
-        {
-          "id": "om_2c61bdb25e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why the joy of checking out belongs in every holiday media plan",
-          "url": "https://www.marketingdive.com/spons/why-the-joy-of-checking-out-belongs-in-every-holiday-media-plan/832626/",
-          "postedAt": "2026-10-12T09:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-13T06:45:55.993Z",
+      "lastUpdated": "2026-10-13T19:15:23.804Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
