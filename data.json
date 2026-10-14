@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-13T19:15:21.495Z",
+      "lastUpdated": "2026-10-14T04:50:58.732Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-13T19:15:22.751Z",
+      "lastUpdated": "2026-10-14T04:51:00.367Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,12 +512,60 @@
       },
       "articles": [
         {
+          "id": "om_5048194e87",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Pinterest asks brands to send people ‘back into their life’",
+          "url": "https://www.socialmediatoday.com/news/pinterest-asks-brands-to-send-people-back-into-their-life/832922/",
+          "postedAt": "2026-10-13T20:57:48.000Z"
+        },
+        {
+          "id": "om_c839b9474f",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Shopify opens its catalog up to more AI agents",
+          "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+          "postedAt": "2026-10-13T20:23:23.000Z"
+        },
+        {
+          "id": "om_87f1292aad",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Sizing up Meta’s push into the crowded world of enterprise AI",
+          "url": "https://www.marketingbrew.com/stories/meta-muse-enterprise-ai?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-13T18:43:22.000Z"
+        },
+        {
+          "id": "om_de876063a6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "4 Creative and Marketing Leaders on Turning Legacy Brands Into Cultural Icons",
+          "url": "https://www.adweek.com/brand-marketing/4-creative-and-marketing-leaders-on-turning-legacy-brands-into-cultural-icons/",
+          "postedAt": "2026-10-13T16:17:33.000Z"
+        },
+        {
+          "id": "om_fe408a4db0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Brandweek 2026: The New Rules of Sports Partnerships ft. NWSL’s Jessica Goldstein",
+          "url": "https://www.adweek.com/brand-marketing/brandweek-2026-the-new-rules-of-sports-partnerships-ft-nwsls-jessica-goldstein/",
+          "postedAt": "2026-10-13T16:05:51.000Z"
+        },
+        {
           "id": "om_1851696c1a",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Nordstrom expands FAO Schwarz offerings, debuts new app features for holidays",
           "url": "https://www.retaildive.com/news/nordstrom-expands-fao-schwarz-offerings-new-app-features-holiday/832853/",
           "postedAt": "2026-10-13T15:55:00.000Z"
+        },
+        {
+          "id": "om_72e08ec723",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Building a Brand Customers Believe In",
+          "url": "https://www.adweek.com/brand-marketing/building-a-brand-customers-believe-in/",
+          "postedAt": "2026-10-13T15:25:15.000Z"
         },
         {
           "id": "om_6f29730f00",
@@ -550,14 +598,6 @@
           "title": "Coworking with Satoru Wakeshima",
           "url": "https://www.marketingbrew.com/stories/coworking-with-satoru-wakeshima?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-10-13T13:27:37.000Z"
-        },
-        {
-          "id": "om_016589b0b2",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "India delays digital payments fee rollout amid retailer pushback",
-          "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
-          "postedAt": "2026-10-13T13:25:05.000Z"
         },
         {
           "id": "om_3ed5ed83d5",
@@ -608,30 +648,6 @@
           "postedAt": "2026-10-13T09:30:00.000Z"
         },
         {
-          "id": "om_1261fe5447",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Matt MacDonald Leaves VCCP for Omnicom’s Merkley+Partners",
-          "url": "https://www.adweek.com/agencies/matt-macdonald-leaves-vccp-for-omnicoms-merkleypartners/",
-          "postedAt": "2026-10-13T06:00:00.000Z"
-        },
-        {
-          "id": "om_a028fc1cd5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Meta’s TikTok Link Ban Could Hobble Media Buyers’ Creator Campaigns",
-          "url": "https://www.adweek.com/social-marketing/meta-tiktok-ad-ban-advertisers/",
-          "postedAt": "2026-10-13T05:03:11.000Z"
-        },
-        {
-          "id": "om_90c38b55a7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Publicis Thanks Omnicom For Market Consolidation As Q3 Growth Hits 5%",
-          "url": "https://www.adweek.com/agencies/publicis-says-three-horse-holdco-race-is-good-for-business-as-q3-growth-hits-5/",
-          "postedAt": "2026-10-13T02:30:00.000Z"
-        },
-        {
           "id": "om_28835d3c6e",
           "source": "Social Media Today",
           "lang": "en",
@@ -654,26 +670,10 @@
           "title": "Ross opens 51 new stores",
           "url": "https://www.retaildive.com/news/ross-opens-51-new-stores/832721/",
           "postedAt": "2026-10-12T15:18:00.000Z"
-        },
-        {
-          "id": "om_14558d4df3",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Spirit Halloween to transform dozens of locations to Spirit Christmas",
-          "url": "https://www.retaildive.com/news/spirit-halloween-store-openings-spirit-christmas-2026/832675/",
-          "postedAt": "2026-10-12T14:54:00.000Z"
-        },
-        {
-          "id": "om_ac89924bf8",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Vizio ramps up creator-led programming in bid for CTV ad dollars",
-          "url": "https://www.marketingdive.com/news/vizio-ramps-up-creator-led-programming-in-bid-for-ctv-ad-dollars/832640/",
-          "postedAt": "2026-10-12T14:37:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-13T19:15:23.804Z",
+      "lastUpdated": "2026-10-14T04:51:02.235Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
