@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-14T04:50:58.732Z",
+      "lastUpdated": "2026-10-14T17:08:25.488Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_a23eabea07",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design",
+          "url": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
+          "postedAt": "2026-10-14T12:04:05.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_ee47aa4819",
           "source": "Lenny's Podcast",
@@ -355,14 +363,6 @@
           "postedAt": "2026-10-01T09:50:00.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_82cfe0728e",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "OpenAI Dev Day 2026: The releases that actually matter",
-          "url": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
-          "postedAt": "2026-09-30T14:45:15.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_efa3a8744b",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-14T04:51:00.367Z",
+      "lastUpdated": "2026-10-14T17:08:27.571Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,20 +512,124 @@
       },
       "articles": [
         {
+          "id": "om_cc771619c0",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target wants more efficient stores. An upgraded employee app could help.",
+          "url": "https://www.retaildive.com/news/target-upgrades-store-operations-app-employees/832989/",
+          "postedAt": "2026-10-14T16:35:00.000Z"
+        },
+        {
+          "id": "om_56776a38c8",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Toy prices jump 4.2% ahead of the holidays",
+          "url": "https://www.retaildive.com/news/toy-prices-jump-holiday-season-inflation/832955/",
+          "postedAt": "2026-10-14T16:13:00.000Z"
+        },
+        {
+          "id": "om_248c81ef23",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Moody’s upgrades retail and apparel outlook as tariffs ease",
+          "url": "https://www.retaildive.com/news/moodys-retail-apparel-outlook-boosted-tariff-refunds/832964/",
+          "postedAt": "2026-10-14T15:27:00.000Z"
+        },
+        {
+          "id": "om_6611b2239f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Shortlist Revealed: 2026 ADWEEK Experiential Awards",
+          "url": "https://www.adweek.com/brand-marketing/shortlist-revealed-2026-adweek-experiential-awards/",
+          "postedAt": "2026-10-14T12:53:11.000Z"
+        },
+        {
+          "id": "om_07d92755c4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Square’s First Standalone Kiosk Features An AI Ordering Assistant",
+          "url": "https://www.adweek.com/commerce/squares-first-standalone-kiosk-features-an-ai-ordering-assistant/",
+          "postedAt": "2026-10-14T12:00:00.000Z"
+        },
+        {
+          "id": "om_dc8db2806c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "5 ways marketers can make a lasting impact with Gen Alpha",
+          "url": "https://www.marketingdive.com/news/5-ways-marketers-can-make-a-lasting-impact-with-gen-alpha/832805/",
+          "postedAt": "2026-10-14T12:00:00.000Z"
+        },
+        {
+          "id": "om_6c43cc9f39",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Applebee’s CMO on differentiating marketing in a value-obsessed industry",
+          "url": "https://www.marketingdive.com/news/applebees-cmo-on-differentiating-marketing-in-a-value-obsessed-industry/832838/",
+          "postedAt": "2026-10-14T12:00:00.000Z"
+        },
+        {
+          "id": "om_83fbb76d44",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Rethinking Retail Media’s Role in the Marketing Mix",
+          "url": "https://www.adweek.com/commerce/rethinking-retail-medias-role-in-the-marketing-mix/",
+          "postedAt": "2026-10-14T11:33:28.000Z"
+        },
+        {
+          "id": "om_7904a5e49d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "When It Pays for an Agency to Break the Rules",
+          "url": "https://www.adweek.com/agencies/when-it-pays-for-an-agency-to-break-the-rules/",
+          "postedAt": "2026-10-14T11:33:07.000Z"
+        },
+        {
+          "id": "om_fb8fb8c7d0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Contextual Intelligence Is Reshaping How Campaigns Target Audiences",
+          "url": "https://www.adweek.com/brand-marketing/contextual-intelligence-is-reshaping-how-campaigns-target-audiences/",
+          "postedAt": "2026-10-14T11:32:46.000Z"
+        },
+        {
+          "id": "om_5d3a9be9de",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "When Everyone Has the Same Technology, What Sets Brands Apart?",
+          "url": "https://www.adweek.com/brand-marketing/when-everyone-has-the-same-technology-what-sets-brands-apart/",
+          "postedAt": "2026-10-14T11:32:23.000Z"
+        },
+        {
+          "id": "om_6a37abeaf6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Fandom Doesn’t End When the Game Does—Neither Should the Marketing",
+          "url": "https://www.adweek.com/brand-marketing/fandom-doesnt-end-when-the-game-doesneither-should-the-marketing/",
+          "postedAt": "2026-10-14T11:32:04.000Z"
+        },
+        {
+          "id": "om_aeda3e75af",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How the Performance Marketing Reset Affects the Open Web",
+          "url": "https://www.adweek.com/performance-marketing/how-the-performance-marketing-reset-affects-the-open-web/",
+          "postedAt": "2026-10-14T11:31:39.000Z"
+        },
+        {
+          "id": "om_7cbb515960",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How SharkNinja went from the big screen to real life in Formula 1",
+          "url": "https://www.marketingbrew.com/stories/sharkninja-formula-1-mclaren?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-14T10:00:00.000Z"
+        },
+        {
           "id": "om_5048194e87",
           "source": "Social Media Today",
           "lang": "en",
           "title": "Pinterest asks brands to send people ‘back into their life’",
           "url": "https://www.socialmediatoday.com/news/pinterest-asks-brands-to-send-people-back-into-their-life/832922/",
           "postedAt": "2026-10-13T20:57:48.000Z"
-        },
-        {
-          "id": "om_c839b9474f",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Shopify opens its catalog up to more AI agents",
-          "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-          "postedAt": "2026-10-13T20:23:23.000Z"
         },
         {
           "id": "om_87f1292aad",
@@ -536,36 +640,12 @@
           "postedAt": "2026-10-13T18:43:22.000Z"
         },
         {
-          "id": "om_de876063a6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "4 Creative and Marketing Leaders on Turning Legacy Brands Into Cultural Icons",
-          "url": "https://www.adweek.com/brand-marketing/4-creative-and-marketing-leaders-on-turning-legacy-brands-into-cultural-icons/",
-          "postedAt": "2026-10-13T16:17:33.000Z"
-        },
-        {
-          "id": "om_fe408a4db0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Brandweek 2026: The New Rules of Sports Partnerships ft. NWSL’s Jessica Goldstein",
-          "url": "https://www.adweek.com/brand-marketing/brandweek-2026-the-new-rules-of-sports-partnerships-ft-nwsls-jessica-goldstein/",
-          "postedAt": "2026-10-13T16:05:51.000Z"
-        },
-        {
           "id": "om_1851696c1a",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Nordstrom expands FAO Schwarz offerings, debuts new app features for holidays",
           "url": "https://www.retaildive.com/news/nordstrom-expands-fao-schwarz-offerings-new-app-features-holiday/832853/",
           "postedAt": "2026-10-13T15:55:00.000Z"
-        },
-        {
-          "id": "om_72e08ec723",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Building a Brand Customers Believe In",
-          "url": "https://www.adweek.com/brand-marketing/building-a-brand-customers-believe-in/",
-          "postedAt": "2026-10-13T15:25:15.000Z"
         },
         {
           "id": "om_6f29730f00",
@@ -584,96 +664,16 @@
           "postedAt": "2026-10-13T14:12:00.000Z"
         },
         {
-          "id": "om_da6e59a437",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "To Sell ChatGPT to Businesses, OpenAI Is Going Back to Field Marketing",
-          "url": "https://www.adweek.com/media/to-sell-chatgpt-to-businesses-openai-is-going-back-to-field-marketing/",
-          "postedAt": "2026-10-13T14:04:24.000Z"
-        },
-        {
           "id": "om_9aab4c5eb0",
           "source": "Marketing Brew",
           "lang": "en",
           "title": "Coworking with Satoru Wakeshima",
           "url": "https://www.marketingbrew.com/stories/coworking-with-satoru-wakeshima?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-10-13T13:27:37.000Z"
-        },
-        {
-          "id": "om_3ed5ed83d5",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Lowe’s is building — and measuring — a full-funnel media network",
-          "url": "https://www.marketingdive.com/news/how-lowes-is-building-and-measuring-a-full-funnel-media-network/832747/",
-          "postedAt": "2026-10-13T13:00:00.000Z"
-        },
-        {
-          "id": "om_b177cbab1a",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Reporter’s notebook: Inside Scheels’ sporting goods wonderland",
-          "url": "https://www.retaildive.com/news/scheels-store-experience-retail-best-kept-secret/831211/",
-          "postedAt": "2026-10-13T13:00:00.000Z"
-        },
-        {
-          "id": "om_7312afad5a",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Brand new bag: Chipotle, Unreal Snacks reach for fashion relevancy",
-          "url": "https://www.marketingdive.com/news/brand-new-bag-chipotle-unreal-snacks-reach-for-fashion-relevancy/832488/",
-          "postedAt": "2026-10-13T11:53:00.000Z"
-        },
-        {
-          "id": "om_ccc445eed3",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Virtual Vanguard: Show Us the Prompt",
-          "url": "https://www.adweek.com/brand-marketing/virtual-vanguard-show-us-the-prompt/",
-          "postedAt": "2026-10-13T11:27:33.000Z"
-        },
-        {
-          "id": "om_2e732d5bca",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Gen Z, Gen Alpha and the AI-ificiation of retail this holiday season",
-          "url": "https://www.retaildive.com/news/gen-z-gen-alpha-holiday-shopping-retail-trends/831838/",
-          "postedAt": "2026-10-13T11:00:00.000Z"
-        },
-        {
-          "id": "om_dde42a2f09",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Pringles Offers One Die-Hard Fan a Final Resting Place in a Branded Urn",
-          "url": "https://www.adweek.com/creativity/pringles-offers-one-die-hard-fan-a-final-resting-place-in-a-branded-urn/",
-          "postedAt": "2026-10-13T09:30:00.000Z"
-        },
-        {
-          "id": "om_28835d3c6e",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Snapchat publishes 2026 holiday marketing guide",
-          "url": "https://www.socialmediatoday.com/news/snapchat-publishes-2026-holiday-marketing-guide/832800/",
-          "postedAt": "2026-10-12T20:38:39.000Z"
-        },
-        {
-          "id": "om_621e582faf",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Lowe’s launches Black Friday deals in October",
-          "url": "https://www.retaildive.com/news/lowes-launches-black-friday-deals-in-october/832730/",
-          "postedAt": "2026-10-12T15:55:00.000Z"
-        },
-        {
-          "id": "om_3e9aa31296",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Ross opens 51 new stores",
-          "url": "https://www.retaildive.com/news/ross-opens-51-new-stores/832721/",
-          "postedAt": "2026-10-12T15:18:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-14T04:51:02.235Z",
+      "lastUpdated": "2026-10-14T17:08:29.520Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
