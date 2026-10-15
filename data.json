@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-15T04:35:58.546Z",
+      "lastUpdated": "2026-10-15T16:58:52.858Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -361,14 +361,6 @@
           "topic": "[Outliers] Charlie Munger’s Interview with Todd Combs",
           "url": "https://fs.blog/knowledge-project-podcast/outliers-munger-combs/",
           "postedAt": "2026-10-01T09:50:00.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_efa3a8744b",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "Bill Ackman: The Biggest Fight of His Life",
-          "url": "https://fs.blog/knowledge-project-podcast/bill-ackman-2/",
-          "postedAt": "2026-09-24T09:50:00.000Z"
         }
       ],
       "books": [
@@ -419,10 +411,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-15T04:36:00.075Z",
+      "lastUpdated": "2026-10-15T16:58:54.681Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "12 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -512,6 +504,118 @@
       },
       "articles": [
         {
+          "id": "om_4395da84df",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Bealls to debut mobile app",
+          "url": "https://www.retaildive.com/news/bealls-debuts-mobile-app-marketing-campaign/832855/",
+          "postedAt": "2026-10-15T16:03:00.000Z"
+        },
+        {
+          "id": "om_deaf062ff7",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "E.l.f. Cosmetics returns to metaverse on avatar-based gaming platform",
+          "url": "https://www.marketingdive.com/news/elf-cosmetics-returns-to-metaverse-on-avatar-based-gaming-platform/833027/",
+          "postedAt": "2026-10-15T15:59:00.000Z"
+        },
+        {
+          "id": "om_c2706f902a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Wendy’s signs on as first sponsor for in-app Bravo fan experience",
+          "url": "https://www.marketingdive.com/news/wendys-signs-on-as-first-sponsor-for-in-app-bravo-fan-experience/833067/",
+          "postedAt": "2026-10-15T15:59:00.000Z"
+        },
+        {
+          "id": "om_c75f6616fc",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Ad spend on data center messaging surges ahead of midterms",
+          "url": "https://www.marketingbrew.com/stories/ad-spend-data-center-messaging-midterm-surge?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-15T15:57:46.000Z"
+        },
+        {
+          "id": "om_2937971bf9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Lululemon restructures raw materials team, lays off 7 people",
+          "url": "https://www.retaildive.com/news/lululemon-restructures-raw-materials-team-layoffs/833106/",
+          "postedAt": "2026-10-15T15:49:00.000Z"
+        },
+        {
+          "id": "om_c4eaf209ad",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: TikTok inks microdrama partnership with Made By Us studios",
+          "url": "https://www.marketingdive.com/news/sociable-tiktok-inks-microdrama-partnership-with-made-by-us-studios/833115/",
+          "postedAt": "2026-10-15T15:27:00.000Z"
+        },
+        {
+          "id": "om_f17750b34f",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why Dove Men+Care tapped into fandom at New York Comic Con",
+          "url": "https://www.marketingbrew.com/stories/dove-men-care-new-york-comic-con-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-15T15:07:17.000Z"
+        },
+        {
+          "id": "om_2869ce7203",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Consumer goods giants step up ad intensity as other big spenders pull back: report",
+          "url": "https://www.marketingdive.com/news/consumer-goods-giants-step-up-ad-intensity-as-other-big-spenders-pull-back/833102/",
+          "postedAt": "2026-10-15T14:48:00.000Z"
+        },
+        {
+          "id": "om_b4faeb1cc1",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Google’s Universal Cart shopping tool launches in the US",
+          "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+          "postedAt": "2026-10-15T14:29:33.000Z"
+        },
+        {
+          "id": "om_4ec413c6e9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Coca-Cola’s Mr. Pibb became the fastest-growing brand of 2026",
+          "url": "https://www.marketingdive.com/news/how-coca-colas-mr-pibb-became-the-fastest-growing-brand-of-2026/833009/",
+          "postedAt": "2026-10-15T12:57:00.000Z"
+        },
+        {
+          "id": "om_1dce370d0c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why Brand Entertainment Goes Unwatched and What to Do About It",
+          "url": "https://www.adweek.com/creativity/why-brand-entertainment-goes-unwatched-and-what-to-do-about-it/",
+          "postedAt": "2026-10-15T12:42:37.000Z"
+        },
+        {
+          "id": "om_308eb1db74",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why brands struggle with influencer measurement — and what to do about it",
+          "url": "https://www.marketingdive.com/news/why-brands-struggle-with-influencer-measurement-and-what-to-do-about-it/832380/",
+          "postedAt": "2026-10-15T12:20:00.000Z"
+        },
+        {
+          "id": "om_d21c1626a4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Land O’Lakes CMO Reveals How To Sell Cultural Moments Fit For a Farm Co-op",
+          "url": "https://www.adweek.com/brand-marketing/land-olakes-cmo-reveals-how-to-sell-cultural-moments-fit-for-a-farm-co-op/",
+          "postedAt": "2026-10-15T10:26:48.000Z"
+        },
+        {
+          "id": "om_8cfb4c0f6b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "As the NBA Season Begins, Michelob Ultra Cheers On Knicks Championship",
+          "url": "https://www.adweek.com/brand-marketing/michelob-ultra-cheers-on-knicks-championship/",
+          "postedAt": "2026-10-15T09:00:00.000Z"
+        },
+        {
           "id": "om_d16cf43c72",
           "source": "Social Media Today",
           "lang": "en",
@@ -558,122 +662,10 @@
           "title": "Brands can use scandal to their advantage—but it can easily go awry",
           "url": "https://www.marketingbrew.com/stories/scandal-as-marketing-reformation-olivia-jade?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-10-14T18:02:02.000Z"
-        },
-        {
-          "id": "om_cc771619c0",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target wants more efficient stores. An upgraded employee app could help.",
-          "url": "https://www.retaildive.com/news/target-upgrades-store-operations-app-employees/832989/",
-          "postedAt": "2026-10-14T16:35:00.000Z"
-        },
-        {
-          "id": "om_4d95038c59",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Havas Grows In North America as It Lags In Other Regions",
-          "url": "https://www.adweek.com/agencies/havas-grows-in-north-america-as-it-lags-in-other-regions/",
-          "postedAt": "2026-10-14T16:31:54.000Z"
-        },
-        {
-          "id": "om_56776a38c8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Toy prices jump 4.2% ahead of the holidays",
-          "url": "https://www.retaildive.com/news/toy-prices-jump-holiday-season-inflation/832955/",
-          "postedAt": "2026-10-14T16:13:00.000Z"
-        },
-        {
-          "id": "om_248c81ef23",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Moody’s upgrades retail and apparel outlook as tariffs ease",
-          "url": "https://www.retaildive.com/news/moodys-retail-apparel-outlook-boosted-tariff-refunds/832964/",
-          "postedAt": "2026-10-14T15:27:00.000Z"
-        },
-        {
-          "id": "om_6611b2239f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Shortlist Revealed: 2026 ADWEEK Experiential Awards",
-          "url": "https://www.adweek.com/brand-marketing/shortlist-revealed-2026-adweek-experiential-awards/",
-          "postedAt": "2026-10-14T12:53:11.000Z"
-        },
-        {
-          "id": "om_07d92755c4",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Square’s First Standalone Kiosk Features An AI Ordering Assistant",
-          "url": "https://www.adweek.com/commerce/squares-first-standalone-kiosk-features-an-ai-ordering-assistant/",
-          "postedAt": "2026-10-14T12:00:00.000Z"
-        },
-        {
-          "id": "om_dc8db2806c",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "5 ways marketers can make a lasting impact with Gen Alpha",
-          "url": "https://www.marketingdive.com/news/5-ways-marketers-can-make-a-lasting-impact-with-gen-alpha/832805/",
-          "postedAt": "2026-10-14T12:00:00.000Z"
-        },
-        {
-          "id": "om_6c43cc9f39",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Applebee’s CMO on differentiating marketing in a value-obsessed industry",
-          "url": "https://www.marketingdive.com/news/applebees-cmo-on-differentiating-marketing-in-a-value-obsessed-industry/832838/",
-          "postedAt": "2026-10-14T12:00:00.000Z"
-        },
-        {
-          "id": "om_83fbb76d44",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Rethinking Retail Media’s Role in the Marketing Mix",
-          "url": "https://www.adweek.com/commerce/rethinking-retail-medias-role-in-the-marketing-mix/",
-          "postedAt": "2026-10-14T11:33:28.000Z"
-        },
-        {
-          "id": "om_7904a5e49d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "When It Pays for an Agency to Break the Rules",
-          "url": "https://www.adweek.com/agencies/when-it-pays-for-an-agency-to-break-the-rules/",
-          "postedAt": "2026-10-14T11:33:07.000Z"
-        },
-        {
-          "id": "om_fb8fb8c7d0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Contextual Intelligence Is Reshaping How Campaigns Target Audiences",
-          "url": "https://www.adweek.com/brand-marketing/contextual-intelligence-is-reshaping-how-campaigns-target-audiences/",
-          "postedAt": "2026-10-14T11:32:46.000Z"
-        },
-        {
-          "id": "om_5d3a9be9de",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "When Everyone Has the Same Technology, What Sets Brands Apart?",
-          "url": "https://www.adweek.com/brand-marketing/when-everyone-has-the-same-technology-what-sets-brands-apart/",
-          "postedAt": "2026-10-14T11:32:23.000Z"
-        },
-        {
-          "id": "om_7cbb515960",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How SharkNinja went from the big screen to real life in Formula 1",
-          "url": "https://www.marketingbrew.com/stories/sharkninja-formula-1-mclaren?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-14T10:00:00.000Z"
-        },
-        {
-          "id": "om_87f1292aad",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Sizing up Meta’s push into the crowded world of enterprise AI",
-          "url": "https://www.marketingbrew.com/stories/meta-muse-enterprise-ai?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-13T18:43:22.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-15T04:36:01.695Z",
+      "lastUpdated": "2026-10-15T16:58:55.964Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
