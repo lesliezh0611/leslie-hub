@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-15T16:58:52.858Z",
+      "lastUpdated": "2026-10-16T04:29:55.058Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-15T16:58:54.681Z",
+      "lastUpdated": "2026-10-16T04:29:57.022Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,12 +504,68 @@
       },
       "articles": [
         {
+          "id": "om_c9c43f1e32",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+          "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+          "postedAt": "2026-10-15T23:44:56.000Z"
+        },
+        {
+          "id": "om_02421fc1b9",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok shares holiday sales data",
+          "url": "https://www.socialmediatoday.com/news/tiktok-shares-holiday-sales-data/833191/",
+          "postedAt": "2026-10-15T21:58:55.000Z"
+        },
+        {
+          "id": "om_c77819a26c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Arby’s hires ex-Papa Johns CMO to balance brand-building, sales growth",
+          "url": "https://www.marketingdive.com/news/arbys-hires-ex-papa-johns-cmo-to-balance-brand-building-sales-growth/833184/",
+          "postedAt": "2026-10-15T21:22:00.000Z"
+        },
+        {
+          "id": "om_346daa14ee",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "LinkedIn adds new creator monetization options",
+          "url": "https://www.socialmediatoday.com/news/linkedin-adds-new-creator-monetization-options/833179/",
+          "postedAt": "2026-10-15T20:31:31.000Z"
+        },
+        {
+          "id": "om_40670cba8d",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta offers enhanced ad campaign exposure",
+          "url": "https://www.socialmediatoday.com/news/meta-offers-enhanced-ad-campaign-exposure/833171/",
+          "postedAt": "2026-10-15T19:34:30.000Z"
+        },
+        {
+          "id": "om_e1d9675b4c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "American Express CMO and 37-Year Vet Elizabeth Rutledge Retires",
+          "url": "https://www.adweek.com/brand-marketing/american-express-cmo-and-37-year-vet-elizabeth-rutledge-retires/",
+          "postedAt": "2026-10-15T17:15:20.000Z"
+        },
+        {
           "id": "om_4395da84df",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Bealls to debut mobile app",
           "url": "https://www.retaildive.com/news/bealls-debuts-mobile-app-marketing-campaign/832855/",
           "postedAt": "2026-10-15T16:03:00.000Z"
+        },
+        {
+          "id": "om_612b13f725",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Clear Channel Taps Two Top TV Execs to Reprogram Outdoor Advertising",
+          "url": "https://www.adweek.com/convergent-tv/clear-channel-taps-two-top-tv-execs-to-reprogram-outdoor-advertising/",
+          "postedAt": "2026-10-15T16:00:00.000Z"
         },
         {
           "id": "om_deaf062ff7",
@@ -560,6 +616,14 @@
           "postedAt": "2026-10-15T15:07:17.000Z"
         },
         {
+          "id": "om_3a41cf0fb0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Pivot or Perish: Kargo’s Bet on AI Media Buying",
+          "url": "https://www.adweek.com/brand-marketing/pivot-or-perish-kargos-bet-on-ai-media-buying/",
+          "postedAt": "2026-10-15T15:02:23.000Z"
+        },
+        {
           "id": "om_2869ce7203",
           "source": "Marketing Dive",
           "lang": "en",
@@ -587,7 +651,7 @@
           "id": "om_1dce370d0c",
           "source": "Adweek",
           "lang": "en",
-          "title": "Why Brand Entertainment Goes Unwatched and What to Do About It",
+          "title": "Why Branded Entertainment Goes Unwatched and What To Do About It",
           "url": "https://www.adweek.com/creativity/why-brand-entertainment-goes-unwatched-and-what-to-do-about-it/",
           "postedAt": "2026-10-15T12:42:37.000Z"
         },
@@ -598,74 +662,10 @@
           "title": "Why brands struggle with influencer measurement — and what to do about it",
           "url": "https://www.marketingdive.com/news/why-brands-struggle-with-influencer-measurement-and-what-to-do-about-it/832380/",
           "postedAt": "2026-10-15T12:20:00.000Z"
-        },
-        {
-          "id": "om_d21c1626a4",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Land O’Lakes CMO Reveals How To Sell Cultural Moments Fit For a Farm Co-op",
-          "url": "https://www.adweek.com/brand-marketing/land-olakes-cmo-reveals-how-to-sell-cultural-moments-fit-for-a-farm-co-op/",
-          "postedAt": "2026-10-15T10:26:48.000Z"
-        },
-        {
-          "id": "om_8cfb4c0f6b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "As the NBA Season Begins, Michelob Ultra Cheers On Knicks Championship",
-          "url": "https://www.adweek.com/brand-marketing/michelob-ultra-cheers-on-knicks-championship/",
-          "postedAt": "2026-10-15T09:00:00.000Z"
-        },
-        {
-          "id": "om_d16cf43c72",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Snap reports on Snap Map data for brands",
-          "url": "https://www.socialmediatoday.com/news/snap-reports-on-snap-map-data-for-brands/833065/",
-          "postedAt": "2026-10-14T22:13:36.000Z"
-        },
-        {
-          "id": "om_81252a188c",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok Shop offers U.K. merchants more engagement tools",
-          "url": "https://www.socialmediatoday.com/news/tiktok-shop-offers-uk-merchants-more-engagement-tools/833064/",
-          "postedAt": "2026-10-14T22:12:02.000Z"
-        },
-        {
-          "id": "om_b7ce9cc1b6",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok inks partnership with Made By Us studios",
-          "url": "https://www.socialmediatoday.com/news/tiktok-inks-partnership-with-made-by-us-studios/833055/",
-          "postedAt": "2026-10-14T20:41:34.000Z"
-        },
-        {
-          "id": "om_720cb8abff",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
-          "url": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
-          "postedAt": "2026-10-14T20:26:25.000Z"
-        },
-        {
-          "id": "om_ffaa88ec44",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Content-to-Commerce Publishers Have Struggled. Could Outdoor Life Be the Exception?",
-          "url": "https://www.adweek.com/media/content-commerce-publishers-outdoor-life/",
-          "postedAt": "2026-10-14T19:00:00.000Z"
-        },
-        {
-          "id": "om_d6418a31a1",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Brands can use scandal to their advantage—but it can easily go awry",
-          "url": "https://www.marketingbrew.com/stories/scandal-as-marketing-reformation-olivia-jade?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-14T18:02:02.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-15T16:58:55.964Z",
+      "lastUpdated": "2026-10-16T04:29:58.660Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
