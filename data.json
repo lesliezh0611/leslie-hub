@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-16T04:29:55.058Z",
+      "lastUpdated": "2026-10-16T16:37:11.531Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-16T04:29:57.022Z",
+      "lastUpdated": "2026-10-16T16:37:13.175Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,86 @@
       },
       "articles": [
         {
+          "id": "om_1ceab754f4",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Halloween without candy? What shoppers are cutting from budgets this year",
+          "url": "https://www.retaildive.com/news/halloween-without-candy-holiday-shoppers-cutting-budgets/833212/",
+          "postedAt": "2026-10-16T16:09:00.000Z"
+        },
+        {
+          "id": "om_be25f900c3",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Bath & Body Works expands partnership to all Ulta stores for the holidays",
+          "url": "https://www.retaildive.com/news/bath-body-works-ulta-beauty-pink-suede/833214/",
+          "postedAt": "2026-10-16T15:56:00.000Z"
+        },
+        {
+          "id": "om_1c976062de",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Nordstrom Rack comes back to San Francisco",
+          "url": "https://www.retaildive.com/news/nordstrom-rack-returns-san-francisco-store-opening/833229/",
+          "postedAt": "2026-10-16T15:55:00.000Z"
+        },
+        {
+          "id": "om_1be5f025ca",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: The RealReal secures fresh financing, Roots buyout advances",
+          "url": "https://www.retaildive.com/news/the-realreal-new-financing-gildan-ftc-price-fixing-scrutiny/833130/",
+          "postedAt": "2026-10-16T15:15:00.000Z"
+        },
+        {
+          "id": "om_c782424aa1",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "What marketers need to know from Advertising Week New York 2026",
+          "url": "https://www.marketingdive.com/news/what-marketers-need-to-know-from-advertising-week-new-york-2026/833139/",
+          "postedAt": "2026-10-16T12:00:00.000Z"
+        },
+        {
+          "id": "om_a3c42dc4b2",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Optimizing ad spend ahead of Black Friday: What the numbers say",
+          "url": "https://www.marketingdive.com/news/optimizing-ad-spend-ahead-of-black-friday-what-the-numbers-say/833154/",
+          "postedAt": "2026-10-16T12:00:00.000Z"
+        },
+        {
+          "id": "om_8095c82346",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Tower 28 built its first standalone popup space for community, not commerce",
+          "url": "https://www.marketingbrew.com/stories/tower-28-sephora-popup-community-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-16T10:00:00.000Z"
+        },
+        {
+          "id": "om_f996ebe2b8",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Katzenberg-Backed Netomi Expands Leadership as It Bets on AI-Tailored Websites",
+          "url": "https://www.adweek.com/brand-marketing/jeffrey-katzenberg-netomi-agentic-web/",
+          "postedAt": "2026-10-16T08:00:00.000Z"
+        },
+        {
+          "id": "om_2b3aa22bb9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "A Meta-Morphosis: Frontier Foray and TikTok Block",
+          "url": "https://www.adweek.com/media/a-meta-morphosis-frontier-foray-and-tiktok-block/",
+          "postedAt": "2026-10-16T06:48:22.000Z"
+        },
+        {
+          "id": "om_33c26c9f3e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 13 Campaigns That Caught Our Eye, From Chipotle to Pringles",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-13-campaigns-that-caught-our-eye-from-chipotle-to-pringles/",
+          "postedAt": "2026-10-16T06:00:00.000Z"
+        },
+        {
           "id": "om_c9c43f1e32",
           "source": "TechCrunch",
           "lang": "en",
@@ -568,14 +648,6 @@
           "postedAt": "2026-10-15T16:00:00.000Z"
         },
         {
-          "id": "om_deaf062ff7",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "E.l.f. Cosmetics returns to metaverse on avatar-based gaming platform",
-          "url": "https://www.marketingdive.com/news/elf-cosmetics-returns-to-metaverse-on-avatar-based-gaming-platform/833027/",
-          "postedAt": "2026-10-15T15:59:00.000Z"
-        },
-        {
           "id": "om_c2706f902a",
           "source": "Marketing Dive",
           "lang": "en",
@@ -584,88 +656,16 @@
           "postedAt": "2026-10-15T15:59:00.000Z"
         },
         {
-          "id": "om_c75f6616fc",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Ad spend on data center messaging surges ahead of midterms",
-          "url": "https://www.marketingbrew.com/stories/ad-spend-data-center-messaging-midterm-surge?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-15T15:57:46.000Z"
-        },
-        {
-          "id": "om_2937971bf9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Lululemon restructures raw materials team, lays off 7 people",
-          "url": "https://www.retaildive.com/news/lululemon-restructures-raw-materials-team-layoffs/833106/",
-          "postedAt": "2026-10-15T15:49:00.000Z"
-        },
-        {
-          "id": "om_c4eaf209ad",
+          "id": "om_deaf062ff7",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Sociable: TikTok inks microdrama partnership with Made By Us studios",
-          "url": "https://www.marketingdive.com/news/sociable-tiktok-inks-microdrama-partnership-with-made-by-us-studios/833115/",
-          "postedAt": "2026-10-15T15:27:00.000Z"
-        },
-        {
-          "id": "om_f17750b34f",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why Dove Men+Care tapped into fandom at New York Comic Con",
-          "url": "https://www.marketingbrew.com/stories/dove-men-care-new-york-comic-con-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-15T15:07:17.000Z"
-        },
-        {
-          "id": "om_3a41cf0fb0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Pivot or Perish: Kargo’s Bet on AI Media Buying",
-          "url": "https://www.adweek.com/brand-marketing/pivot-or-perish-kargos-bet-on-ai-media-buying/",
-          "postedAt": "2026-10-15T15:02:23.000Z"
-        },
-        {
-          "id": "om_2869ce7203",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Consumer goods giants step up ad intensity as other big spenders pull back: report",
-          "url": "https://www.marketingdive.com/news/consumer-goods-giants-step-up-ad-intensity-as-other-big-spenders-pull-back/833102/",
-          "postedAt": "2026-10-15T14:48:00.000Z"
-        },
-        {
-          "id": "om_b4faeb1cc1",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Google’s Universal Cart shopping tool launches in the US",
-          "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-          "postedAt": "2026-10-15T14:29:33.000Z"
-        },
-        {
-          "id": "om_4ec413c6e9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Coca-Cola’s Mr. Pibb became the fastest-growing brand of 2026",
-          "url": "https://www.marketingdive.com/news/how-coca-colas-mr-pibb-became-the-fastest-growing-brand-of-2026/833009/",
-          "postedAt": "2026-10-15T12:57:00.000Z"
-        },
-        {
-          "id": "om_1dce370d0c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why Branded Entertainment Goes Unwatched and What To Do About It",
-          "url": "https://www.adweek.com/creativity/why-brand-entertainment-goes-unwatched-and-what-to-do-about-it/",
-          "postedAt": "2026-10-15T12:42:37.000Z"
-        },
-        {
-          "id": "om_308eb1db74",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why brands struggle with influencer measurement — and what to do about it",
-          "url": "https://www.marketingdive.com/news/why-brands-struggle-with-influencer-measurement-and-what-to-do-about-it/832380/",
-          "postedAt": "2026-10-15T12:20:00.000Z"
+          "title": "E.l.f. Cosmetics returns to metaverse on avatar-based gaming platform",
+          "url": "https://www.marketingdive.com/news/elf-cosmetics-returns-to-metaverse-on-avatar-based-gaming-platform/833027/",
+          "postedAt": "2026-10-15T15:59:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-16T04:29:58.660Z",
+      "lastUpdated": "2026-10-16T16:37:14.481Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
