@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-16T16:37:11.531Z",
+      "lastUpdated": "2026-10-17T04:23:02.732Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-16T16:37:13.175Z",
+      "lastUpdated": "2026-10-17T04:23:04.166Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -536,6 +536,14 @@
           "postedAt": "2026-10-16T15:15:00.000Z"
         },
         {
+          "id": "om_5fb54730e6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Target Is Pitching an Ad Metric to Drive Sales, But Most Brands Aren’t Fully On Board, Exec Says",
+          "url": "https://www.adweek.com/commerce/target-is-pitching-an-ad-metric-to-drive-sales-but-most-brands-arent-fully-on-board-exec-says/",
+          "postedAt": "2026-10-16T14:15:50.000Z"
+        },
+        {
           "id": "om_c782424aa1",
           "source": "Marketing Dive",
           "lang": "en",
@@ -555,7 +563,7 @@
           "id": "om_8095c82346",
           "source": "Marketing Brew",
           "lang": "en",
-          "title": "Tower 28 built its first standalone popup space for community, not commerce",
+          "title": "Tower 28 built its first standalone pop-up space for community, not commerce",
           "url": "https://www.marketingbrew.com/stories/tower-28-sephora-popup-community-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-10-16T10:00:00.000Z"
         },
@@ -654,18 +662,10 @@
           "title": "Wendy’s signs on as first sponsor for in-app Bravo fan experience",
           "url": "https://www.marketingdive.com/news/wendys-signs-on-as-first-sponsor-for-in-app-bravo-fan-experience/833067/",
           "postedAt": "2026-10-15T15:59:00.000Z"
-        },
-        {
-          "id": "om_deaf062ff7",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "E.l.f. Cosmetics returns to metaverse on avatar-based gaming platform",
-          "url": "https://www.marketingdive.com/news/elf-cosmetics-returns-to-metaverse-on-avatar-based-gaming-platform/833027/",
-          "postedAt": "2026-10-15T15:59:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-16T16:37:14.481Z",
+      "lastUpdated": "2026-10-17T04:23:05.347Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
