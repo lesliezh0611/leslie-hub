@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-17T04:23:02.732Z",
+      "lastUpdated": "2026-10-17T15:32:25.555Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_4c96a2001c",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
+          "postedAt": "2026-10-17T13:53:57.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_a23eabea07",
           "source": "Lenny's Podcast",
@@ -347,14 +355,6 @@
           "postedAt": "2026-10-04T12:32:47.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_3e3437293d",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from",
-          "postedAt": "2026-10-03T17:00:49.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_6f1c8184f3",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-17T04:23:04.166Z",
+      "lastUpdated": "2026-10-17T15:32:27.391Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -544,19 +544,19 @@
           "postedAt": "2026-10-16T14:15:50.000Z"
         },
         {
-          "id": "om_c782424aa1",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "What marketers need to know from Advertising Week New York 2026",
-          "url": "https://www.marketingdive.com/news/what-marketers-need-to-know-from-advertising-week-new-york-2026/833139/",
-          "postedAt": "2026-10-16T12:00:00.000Z"
-        },
-        {
           "id": "om_a3c42dc4b2",
           "source": "Marketing Dive",
           "lang": "en",
           "title": "Optimizing ad spend ahead of Black Friday: What the numbers say",
           "url": "https://www.marketingdive.com/news/optimizing-ad-spend-ahead-of-black-friday-what-the-numbers-say/833154/",
+          "postedAt": "2026-10-16T12:00:00.000Z"
+        },
+        {
+          "id": "om_c782424aa1",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "What marketers need to know from Advertising Week New York 2026",
+          "url": "https://www.marketingdive.com/news/what-marketers-need-to-know-from-advertising-week-new-york-2026/833139/",
           "postedAt": "2026-10-16T12:00:00.000Z"
         },
         {
@@ -656,16 +656,16 @@
           "postedAt": "2026-10-15T16:00:00.000Z"
         },
         {
-          "id": "om_c2706f902a",
+          "id": "om_deaf062ff7",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Wendy’s signs on as first sponsor for in-app Bravo fan experience",
-          "url": "https://www.marketingdive.com/news/wendys-signs-on-as-first-sponsor-for-in-app-bravo-fan-experience/833067/",
+          "title": "E.l.f. Cosmetics returns to metaverse on avatar-based gaming platform",
+          "url": "https://www.marketingdive.com/news/elf-cosmetics-returns-to-metaverse-on-avatar-based-gaming-platform/833027/",
           "postedAt": "2026-10-15T15:59:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-17T04:23:05.347Z",
+      "lastUpdated": "2026-10-17T15:32:28.972Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
