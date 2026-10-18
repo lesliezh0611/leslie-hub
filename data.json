@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-17T15:32:25.555Z",
+      "lastUpdated": "2026-10-18T04:29:47.672Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-17T15:32:27.391Z",
+      "lastUpdated": "2026-10-18T04:29:48.857Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -503,6 +503,22 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_5c37b2406e",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+          "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+          "postedAt": "2026-10-17T20:55:52.000Z"
+        },
+        {
+          "id": "om_bb38f1891d",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "TikTok bans Musk documentary account",
+          "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+          "postedAt": "2026-10-17T19:32:23.000Z"
+        },
         {
           "id": "om_1ceab754f4",
           "source": "Retail Dive",
@@ -646,26 +662,10 @@
           "title": "Bealls to debut mobile app",
           "url": "https://www.retaildive.com/news/bealls-debuts-mobile-app-marketing-campaign/832855/",
           "postedAt": "2026-10-15T16:03:00.000Z"
-        },
-        {
-          "id": "om_612b13f725",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Clear Channel Taps Two Top TV Execs to Reprogram Outdoor Advertising",
-          "url": "https://www.adweek.com/convergent-tv/clear-channel-taps-two-top-tv-execs-to-reprogram-outdoor-advertising/",
-          "postedAt": "2026-10-15T16:00:00.000Z"
-        },
-        {
-          "id": "om_deaf062ff7",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "E.l.f. Cosmetics returns to metaverse on avatar-based gaming platform",
-          "url": "https://www.marketingdive.com/news/elf-cosmetics-returns-to-metaverse-on-avatar-based-gaming-platform/833027/",
-          "postedAt": "2026-10-15T15:59:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-17T15:32:28.972Z",
+      "lastUpdated": "2026-10-18T04:29:49.805Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
