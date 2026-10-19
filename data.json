@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-19T04:37:54.654Z",
+      "lastUpdated": "2026-10-19T18:42:23.720Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_58ba945ca6",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
+          "postedAt": "2026-10-19T15:03:35.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_88f1e2c230",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey",
+          "url": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
+          "postedAt": "2026-10-19T12:04:52.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_20469758d3",
           "source": "Lenny's Podcast",
@@ -339,22 +355,6 @@
           "postedAt": "2026-10-08T09:55:00.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_126d97f78f",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
-          "postedAt": "2026-10-05T15:03:24.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_49838babf0",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
-          "url": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
-          "postedAt": "2026-10-05T12:04:54.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_6f1c8184f3",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-19T04:37:56.339Z",
+      "lastUpdated": "2026-10-19T18:42:26.030Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,150 @@
       },
       "articles": [
         {
+          "id": "om_936cccf85d",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Coworking with Raqib Sheikh",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-raqib-sheikh?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-19T17:01:47.000Z"
+        },
+        {
+          "id": "om_0c4f2ba43e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Dick’s Sporting Goods’ seasonal hiring slips",
+          "url": "https://www.retaildive.com/news/dicks-sporting-goods-seasonal-hiring-down/833348/",
+          "postedAt": "2026-10-19T16:12:00.000Z"
+        },
+        {
+          "id": "om_75cd249717",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Amy’s Kitchen tackles ultra-processed food myths in national campaign",
+          "url": "https://www.marketingdive.com/news/amys-kitchen-tackles-ultra-processed-food-myths-in-national-campaign/833334/",
+          "postedAt": "2026-10-19T16:00:00.000Z"
+        },
+        {
+          "id": "om_e6c6f20cbd",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Billion Dollar Boy Group bets B2B is creator marketing’s next big wave",
+          "url": "https://www.marketingdive.com/news/billion-dollar-boy-group-bets-b2b-is-creator-marketings-next-big-wave/833346/",
+          "postedAt": "2026-10-19T15:00:00.000Z"
+        },
+        {
+          "id": "om_c50a7811ef",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How marketers can optimize their media mix as confidence takes a turn",
+          "url": "https://www.marketingdive.com/news/how-marketers-can-optimize-their-media-mix-as-confidence-takes-a-turn/833197/",
+          "postedAt": "2026-10-19T15:00:00.000Z"
+        },
+        {
+          "id": "om_2b9fa90e9d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Former Estée Lauder exec no longer with Gap Inc.",
+          "url": "https://www.retaildive.com/news/gap-john-demsey-executive-director-beauty-exits/833283/",
+          "postedAt": "2026-10-19T14:47:00.000Z"
+        },
+        {
+          "id": "om_0b9924ac54",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "NRF forecasts 4.2% holiday sales growth, muted seasonal hiring",
+          "url": "https://www.retaildive.com/news/nrf-forecasts-2026-holiday-sales-growth-seasonal-hiring/833239/",
+          "postedAt": "2026-10-19T14:33:00.000Z"
+        },
+        {
+          "id": "om_66e51ee420",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Marriott Bonvoy got scale, speed with global creator-led campaign",
+          "url": "https://www.marketingdive.com/news/how-marriott-bonvoy-got-scale-speed-global-creator-led-campaign/833318/",
+          "postedAt": "2026-10-19T13:47:00.000Z"
+        },
+        {
+          "id": "om_08000b72ba",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Nike hired Elliott Hill to fix a couple problems. They keep growing.",
+          "url": "https://www.retaildive.com/news/nike-ceo-elliott-hill-problems-keep-growing-china-sportswear-jordan/832803/",
+          "postedAt": "2026-10-19T13:08:00.000Z"
+        },
+        {
+          "id": "om_b7bcdf6a11",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Anthropologie’s holiday marketing seeks to balance emotion, business impact",
+          "url": "https://www.marketingdive.com/news/anthropologies-holiday-marketing-seeks-to-balance-emotion-business-impact/833172/",
+          "postedAt": "2026-10-19T13:01:00.000Z"
+        },
+        {
+          "id": "om_10b3225d75",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Brandweek 2026: Does ROAS Tell the Whole Story? ft. Jason Pirock",
+          "url": "https://www.adweek.com/brand-marketing/brandweek-2026-does-roas-tell-the-whole-story-ft-jason-pirock/",
+          "postedAt": "2026-10-19T12:58:17.000Z"
+        },
+        {
+          "id": "om_2747c83432",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Fresh Off Her Mummy Pig Collab, Kylie Kelce Stars In Honey Baked Ham’s Holiday Ad",
+          "url": "https://www.adweek.com/brand-marketing/fresh-off-her-mummy-pig-collab-kylie-kelce-stars-in-honey-baked-hams-holiday-ad/",
+          "postedAt": "2026-10-19T09:00:00.000Z"
+        },
+        {
+          "id": "om_cf1ad5a14d",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside Chipotle’s ‘chronically online’ social strategy",
+          "url": "https://www.marketingbrew.com/stories/chipotle-chronically-online-social-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-19T09:00:00.000Z"
+        },
+        {
+          "id": "om_5064ef460e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Power profitable growth: How retailers are elevating customer experiences while unlocking new revenue without adding operational complexity",
+          "url": "https://www.retaildive.com/spons/power-profitable-growth-how-retailers-are-elevating-customer-experiences-w/832927/",
+          "postedAt": "2026-10-19T09:00:00.000Z"
+        },
+        {
+          "id": "om_1184b109d0",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Why retail is positioned to win the flexible credential opportunity",
+          "url": "https://www.retaildive.com/spons/why-retail-is-positioned-to-win-the-flexible-credential-opportunity/833182/",
+          "postedAt": "2026-10-19T09:00:00.000Z"
+        },
+        {
+          "id": "om_1a1fcfb63a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Your retail network isn’t ready for AI. Here’s why.",
+          "url": "https://www.retaildive.com/spons/your-retail-network-isnt-ready-for-ai-heres-why/832985/",
+          "postedAt": "2026-10-19T09:00:00.000Z"
+        },
+        {
+          "id": "om_b49a0d87d1",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK Reveals the 2026 Agency of the Year Shortlist",
+          "url": "https://www.adweek.com/agencies/adweek-reveals-the-2026-agency-of-the-year-shortlist/",
+          "postedAt": "2026-10-19T06:00:00.000Z"
+        },
+        {
+          "id": "om_5f61030d07",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Target Cautiously Considers Placing Digital Screens for Ads in Stores",
+          "url": "https://www.adweek.com/commerce/target-cautiously-considers-placing-digital-screens-for-ads-in-stores/",
+          "postedAt": "2026-10-19T06:00:00.000Z"
+        },
+        {
           "id": "om_730e50a13e",
           "source": "Social Media Today",
           "lang": "en",
@@ -518,154 +662,10 @@
           "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
           "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
           "postedAt": "2026-10-18T10:30:00.000Z"
-        },
-        {
-          "id": "om_5c37b2406e",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "TikTok says it’s restored ‘Musk’ documentary advertising account",
-          "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
-          "postedAt": "2026-10-17T20:55:52.000Z"
-        },
-        {
-          "id": "om_1ceab754f4",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Halloween without candy? What shoppers are cutting from budgets this year",
-          "url": "https://www.retaildive.com/news/halloween-without-candy-holiday-shoppers-cutting-budgets/833212/",
-          "postedAt": "2026-10-16T16:09:00.000Z"
-        },
-        {
-          "id": "om_be25f900c3",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bath & Body Works expands partnership to all Ulta stores for the holidays",
-          "url": "https://www.retaildive.com/news/bath-body-works-ulta-beauty-pink-suede/833214/",
-          "postedAt": "2026-10-16T15:56:00.000Z"
-        },
-        {
-          "id": "om_1c976062de",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Nordstrom Rack comes back to San Francisco",
-          "url": "https://www.retaildive.com/news/nordstrom-rack-returns-san-francisco-store-opening/833229/",
-          "postedAt": "2026-10-16T15:55:00.000Z"
-        },
-        {
-          "id": "om_1be5f025ca",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Weekly Closeout: The RealReal secures fresh financing, Roots buyout advances",
-          "url": "https://www.retaildive.com/news/the-realreal-new-financing-gildan-ftc-price-fixing-scrutiny/833130/",
-          "postedAt": "2026-10-16T15:15:00.000Z"
-        },
-        {
-          "id": "om_5fb54730e6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Target Is Pitching an Ad Metric to Drive Sales, But Most Brands Aren’t Fully On Board, Exec Says",
-          "url": "https://www.adweek.com/commerce/target-is-pitching-an-ad-metric-to-drive-sales-but-most-brands-arent-fully-on-board-exec-says/",
-          "postedAt": "2026-10-16T14:15:50.000Z"
-        },
-        {
-          "id": "om_c782424aa1",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "What marketers need to know from Advertising Week New York 2026",
-          "url": "https://www.marketingdive.com/news/what-marketers-need-to-know-from-advertising-week-new-york-2026/833139/",
-          "postedAt": "2026-10-16T12:00:00.000Z"
-        },
-        {
-          "id": "om_a3c42dc4b2",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Optimizing ad spend ahead of Black Friday: What the numbers say",
-          "url": "https://www.marketingdive.com/news/optimizing-ad-spend-ahead-of-black-friday-what-the-numbers-say/833154/",
-          "postedAt": "2026-10-16T12:00:00.000Z"
-        },
-        {
-          "id": "om_8095c82346",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Tower 28 built its first standalone pop-up space for community, not commerce",
-          "url": "https://www.marketingbrew.com/stories/tower-28-sephora-popup-community-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-16T10:00:00.000Z"
-        },
-        {
-          "id": "om_f996ebe2b8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Katzenberg-Backed Netomi Expands Leadership as It Bets on AI-Tailored Websites",
-          "url": "https://www.adweek.com/brand-marketing/jeffrey-katzenberg-netomi-agentic-web/",
-          "postedAt": "2026-10-16T08:00:00.000Z"
-        },
-        {
-          "id": "om_2b3aa22bb9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "A Meta-Morphosis: Frontier Foray and TikTok Block",
-          "url": "https://www.adweek.com/media/a-meta-morphosis-frontier-foray-and-tiktok-block/",
-          "postedAt": "2026-10-16T06:48:22.000Z"
-        },
-        {
-          "id": "om_33c26c9f3e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 13 Campaigns That Caught Our Eye, From Chipotle to Pringles",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-13-campaigns-that-caught-our-eye-from-chipotle-to-pringles/",
-          "postedAt": "2026-10-16T06:00:00.000Z"
-        },
-        {
-          "id": "om_02421fc1b9",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok shares holiday sales data",
-          "url": "https://www.socialmediatoday.com/news/tiktok-shares-holiday-sales-data/833191/",
-          "postedAt": "2026-10-15T21:58:55.000Z"
-        },
-        {
-          "id": "om_c77819a26c",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Arby’s hires ex-Papa Johns CMO to balance brand-building, sales growth",
-          "url": "https://www.marketingdive.com/news/arbys-hires-ex-papa-johns-cmo-to-balance-brand-building-sales-growth/833184/",
-          "postedAt": "2026-10-15T21:22:00.000Z"
-        },
-        {
-          "id": "om_346daa14ee",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "LinkedIn adds new creator monetization options",
-          "url": "https://www.socialmediatoday.com/news/linkedin-adds-new-creator-monetization-options/833179/",
-          "postedAt": "2026-10-15T20:31:31.000Z"
-        },
-        {
-          "id": "om_e1d9675b4c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "American Express CMO and 37-Year Vet Elizabeth Rutledge Retires",
-          "url": "https://www.adweek.com/brand-marketing/american-express-cmo-and-37-year-vet-elizabeth-rutledge-retires/",
-          "postedAt": "2026-10-15T17:15:20.000Z"
-        },
-        {
-          "id": "om_4395da84df",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bealls to debut mobile app",
-          "url": "https://www.retaildive.com/news/bealls-debuts-mobile-app-marketing-campaign/832855/",
-          "postedAt": "2026-10-15T16:03:00.000Z"
-        },
-        {
-          "id": "om_c2706f902a",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Wendy’s signs on as first sponsor for in-app Bravo fan experience",
-          "url": "https://www.marketingdive.com/news/wendys-signs-on-as-first-sponsor-for-in-app-bravo-fan-experience/833067/",
-          "postedAt": "2026-10-15T15:59:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-19T04:37:57.482Z",
+      "lastUpdated": "2026-10-19T18:42:27.935Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
