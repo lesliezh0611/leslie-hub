@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-18T15:50:27.354Z",
+      "lastUpdated": "2026-10-19T04:37:54.654Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-18T15:50:29.011Z",
+      "lastUpdated": "2026-10-19T04:37:56.339Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,12 +504,12 @@
       },
       "articles": [
         {
-          "id": "om_bb38f1891d",
-          "source": "The Verge",
+          "id": "om_730e50a13e",
+          "source": "Social Media Today",
           "lang": "en",
-          "title": "TikTok bans Musk documentary account",
-          "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-          "postedAt": "2026-10-18T12:38:14.000Z"
+          "title": "Google introduces shopping updates ahead of the holidays",
+          "url": "https://www.socialmediatoday.com/news/google-introduces-shopping-updates-ahead-of-the-holidays/833309/",
+          "postedAt": "2026-10-18T20:50:14.000Z"
         },
         {
           "id": "om_70bdb9d8da",
@@ -523,7 +523,7 @@
           "id": "om_5c37b2406e",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+          "title": "TikTok says it’s restored ‘Musk’ documentary advertising account",
           "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
           "postedAt": "2026-10-17T20:55:52.000Z"
         },
@@ -616,14 +616,6 @@
           "postedAt": "2026-10-16T06:00:00.000Z"
         },
         {
-          "id": "om_c9c43f1e32",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-          "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-          "postedAt": "2026-10-15T23:44:56.000Z"
-        },
-        {
           "id": "om_02421fc1b9",
           "source": "Social Media Today",
           "lang": "en",
@@ -648,24 +640,32 @@
           "postedAt": "2026-10-15T20:31:31.000Z"
         },
         {
-          "id": "om_40670cba8d",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Meta offers enhanced ad campaign exposure",
-          "url": "https://www.socialmediatoday.com/news/meta-offers-enhanced-ad-campaign-exposure/833171/",
-          "postedAt": "2026-10-15T19:34:30.000Z"
-        },
-        {
           "id": "om_e1d9675b4c",
           "source": "Adweek",
           "lang": "en",
           "title": "American Express CMO and 37-Year Vet Elizabeth Rutledge Retires",
           "url": "https://www.adweek.com/brand-marketing/american-express-cmo-and-37-year-vet-elizabeth-rutledge-retires/",
           "postedAt": "2026-10-15T17:15:20.000Z"
+        },
+        {
+          "id": "om_4395da84df",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Bealls to debut mobile app",
+          "url": "https://www.retaildive.com/news/bealls-debuts-mobile-app-marketing-campaign/832855/",
+          "postedAt": "2026-10-15T16:03:00.000Z"
+        },
+        {
+          "id": "om_c2706f902a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Wendy’s signs on as first sponsor for in-app Bravo fan experience",
+          "url": "https://www.marketingdive.com/news/wendys-signs-on-as-first-sponsor-for-in-app-bravo-fan-experience/833067/",
+          "postedAt": "2026-10-15T15:59:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-18T15:50:30.330Z",
+      "lastUpdated": "2026-10-19T04:37:57.482Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
