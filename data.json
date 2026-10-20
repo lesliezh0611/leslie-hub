@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-20T04:47:56.395Z",
+      "lastUpdated": "2026-10-20T17:01:07.505Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-20T04:47:57.771Z",
+      "lastUpdated": "2026-10-20T17:01:11.059Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,134 @@
       },
       "articles": [
         {
+          "id": "om_f68ecb8ac3",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart enlists Sam’s Club in latest challenge to Amazon Prime",
+          "url": "https://www.retaildive.com/news/walmart-sams-club-membership-challenge-to-amazon-prime/833447/",
+          "postedAt": "2026-10-20T16:26:00.000Z"
+        },
+        {
+          "id": "om_d216aefbc4",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Can Best Buy be the new gaming boss?",
+          "url": "https://www.retaildive.com/news/best-buy-gaming-boss-digital-hub-pilot/833471/",
+          "postedAt": "2026-10-20T16:20:00.000Z"
+        },
+        {
+          "id": "om_52dec3f1a6",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
+          "url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
+          "postedAt": "2026-10-20T15:03:41.000Z"
+        },
+        {
+          "id": "om_601138f703",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Publicis agrees to preserve LiveRamp’s neutrality. Will it matter?",
+          "url": "https://www.marketingdive.com/news/publicis-agrees-to-preserve-liveramps-neutrality-will-it-matter/833463/",
+          "postedAt": "2026-10-20T14:49:00.000Z"
+        },
+        {
+          "id": "om_793a08973e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "UPS’ Happy Returns comes to TikTok Shop",
+          "url": "https://www.retaildive.com/news/ups-happy-returns-tiktok-shop/833322/",
+          "postedAt": "2026-10-20T14:48:00.000Z"
+        },
+        {
+          "id": "om_a869393db7",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Anthropologie’s holiday marketing seeks to balance emotion, business impact",
+          "url": "https://www.retaildive.com/news/anthropologie-holiday-marketing-campaign/833440/",
+          "postedAt": "2026-10-20T14:44:00.000Z"
+        },
+        {
+          "id": "om_9e4586ca71",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "State Farm to sponsor Overtime’s inaugural girls flag football game",
+          "url": "https://www.marketingbrew.com/stories/state-farm-overtime-girls-flag-football?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-20T14:00:00.000Z"
+        },
+        {
+          "id": "om_84ec731973",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Dollar Shave Club markets ‘perfectly good’ razors as AI push continues",
+          "url": "https://www.marketingdive.com/news/dollar-shave-club-markets-perfectly-good-razors-as-ai-push-continues/833343/",
+          "postedAt": "2026-10-20T13:17:00.000Z"
+        },
+        {
+          "id": "om_979e928743",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "TikTok employees said they knew about child safety issues, but execs failed to act",
+          "url": "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings",
+          "postedAt": "2026-10-20T13:11:23.000Z"
+        },
+        {
+          "id": "om_df50b59fda",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "FTC Approves Publicis’ $2.2 Billion LiveRamp Deal With ‘Neutrality’ Conditions",
+          "url": "https://www.adweek.com/agencies/ftc-approves-publicis-22-billion-liveramp-deal-with-neutrality-conditions/",
+          "postedAt": "2026-10-20T11:56:59.000Z"
+        },
+        {
+          "id": "om_ab3ced9f3f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Charli XCX Joins Absolut for ‘Chaotic’ Two-Year Partnership",
+          "url": "https://www.adweek.com/creativity/charli-xcx-joins-absolut-for-chaotic-two-year-partnership/",
+          "postedAt": "2026-10-20T11:13:51.000Z"
+        },
+        {
+          "id": "om_697eb620bf",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+          "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+          "postedAt": "2026-10-20T11:00:00.000Z"
+        },
+        {
+          "id": "om_8ec4e65535",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Shoppers expect less for more this holiday season. That could mean a sales decline.",
+          "url": "https://www.retaildive.com/news/holiday-season-retail-spending-sales-decline-outlook/832624/",
+          "postedAt": "2026-10-20T11:00:00.000Z"
+        },
+        {
+          "id": "om_99ec5cf196",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Robert Downey Jr. Trades Tony Stark’s Aviators for Snap’s AR Specs",
+          "url": "https://www.adweek.com/brand-marketing/robert-downey-jr-trades-tony-starks-aviators-for-snaps-ar-specs/",
+          "postedAt": "2026-10-20T10:57:28.000Z"
+        },
+        {
+          "id": "om_6eba2ea711",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Shoes Became the Ultimate Cultural Vehicle for Brands",
+          "url": "https://www.adweek.com/creativity/how-shoes-became-the-ultimate-cultural-vehicle-for-brands/",
+          "postedAt": "2026-10-20T10:00:27.000Z"
+        },
+        {
+          "id": "om_1e4433c237",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why brands are embracing analog photography",
+          "url": "https://www.marketingbrew.com/stories/brands-embracing-analog-photography?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-20T10:00:00.000Z"
+        },
+        {
           "id": "om_358b11dee7",
           "source": "Social Media Today",
           "lang": "en",
@@ -534,138 +662,10 @@
           "title": "Amy’s Kitchen tackles ultra-processed food myths in national campaign",
           "url": "https://www.marketingdive.com/news/amys-kitchen-tackles-ultra-processed-food-myths-in-national-campaign/833334/",
           "postedAt": "2026-10-19T16:00:00.000Z"
-        },
-        {
-          "id": "om_e6c6f20cbd",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Billion Dollar Boy Group bets B2B is creator marketing’s next big wave",
-          "url": "https://www.marketingdive.com/news/billion-dollar-boy-group-bets-b2b-is-creator-marketings-next-big-wave/833346/",
-          "postedAt": "2026-10-19T15:00:00.000Z"
-        },
-        {
-          "id": "om_c50a7811ef",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How marketers can optimize their media mix as confidence takes a turn",
-          "url": "https://www.marketingdive.com/news/how-marketers-can-optimize-their-media-mix-as-confidence-takes-a-turn/833197/",
-          "postedAt": "2026-10-19T15:00:00.000Z"
-        },
-        {
-          "id": "om_2b9fa90e9d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Former Estée Lauder exec no longer with Gap Inc.",
-          "url": "https://www.retaildive.com/news/gap-john-demsey-executive-director-beauty-exits/833283/",
-          "postedAt": "2026-10-19T14:47:00.000Z"
-        },
-        {
-          "id": "om_0b9924ac54",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "NRF forecasts 4.2% holiday sales growth, muted seasonal hiring",
-          "url": "https://www.retaildive.com/news/nrf-forecasts-2026-holiday-sales-growth-seasonal-hiring/833239/",
-          "postedAt": "2026-10-19T14:33:00.000Z"
-        },
-        {
-          "id": "om_66e51ee420",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Marriott Bonvoy got scale, speed with global creator-led campaign",
-          "url": "https://www.marketingdive.com/news/how-marriott-bonvoy-got-scale-speed-global-creator-led-campaign/833318/",
-          "postedAt": "2026-10-19T13:47:00.000Z"
-        },
-        {
-          "id": "om_08000b72ba",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Nike hired Elliott Hill to fix a couple problems. They keep growing.",
-          "url": "https://www.retaildive.com/news/nike-ceo-elliott-hill-problems-keep-growing-china-sportswear-jordan/832803/",
-          "postedAt": "2026-10-19T13:08:00.000Z"
-        },
-        {
-          "id": "om_b7bcdf6a11",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Anthropologie’s holiday marketing seeks to balance emotion, business impact",
-          "url": "https://www.marketingdive.com/news/anthropologies-holiday-marketing-seeks-to-balance-emotion-business-impact/833172/",
-          "postedAt": "2026-10-19T13:01:00.000Z"
-        },
-        {
-          "id": "om_10b3225d75",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Brandweek 2026: Does ROAS Tell the Whole Story? ft. Jason Pirock",
-          "url": "https://www.adweek.com/brand-marketing/brandweek-2026-does-roas-tell-the-whole-story-ft-jason-pirock/",
-          "postedAt": "2026-10-19T12:58:17.000Z"
-        },
-        {
-          "id": "om_2747c83432",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Fresh Off Her Mummy Pig Collab, Kylie Kelce Stars In Honey Baked Ham’s Holiday Ad",
-          "url": "https://www.adweek.com/brand-marketing/fresh-off-her-mummy-pig-collab-kylie-kelce-stars-in-honey-baked-hams-holiday-ad/",
-          "postedAt": "2026-10-19T09:00:00.000Z"
-        },
-        {
-          "id": "om_cf1ad5a14d",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside Chipotle’s ‘chronically online’ social strategy",
-          "url": "https://www.marketingbrew.com/stories/chipotle-chronically-online-social-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-19T09:00:00.000Z"
-        },
-        {
-          "id": "om_5064ef460e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Power profitable growth: How retailers are elevating customer experiences while unlocking new revenue without adding operational complexity",
-          "url": "https://www.retaildive.com/spons/power-profitable-growth-how-retailers-are-elevating-customer-experiences-w/832927/",
-          "postedAt": "2026-10-19T09:00:00.000Z"
-        },
-        {
-          "id": "om_1184b109d0",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Why retail is positioned to win the flexible credential opportunity",
-          "url": "https://www.retaildive.com/spons/why-retail-is-positioned-to-win-the-flexible-credential-opportunity/833182/",
-          "postedAt": "2026-10-19T09:00:00.000Z"
-        },
-        {
-          "id": "om_1a1fcfb63a",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Your retail network isn’t ready for AI. Here’s why.",
-          "url": "https://www.retaildive.com/spons/your-retail-network-isnt-ready-for-ai-heres-why/832985/",
-          "postedAt": "2026-10-19T09:00:00.000Z"
-        },
-        {
-          "id": "om_b49a0d87d1",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK Reveals the 2026 Agency of the Year Shortlist",
-          "url": "https://www.adweek.com/agencies/adweek-reveals-the-2026-agency-of-the-year-shortlist/",
-          "postedAt": "2026-10-19T06:00:00.000Z"
-        },
-        {
-          "id": "om_5f61030d07",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Target Cautiously Considers Placing Digital Screens for Ads in Stores",
-          "url": "https://www.adweek.com/commerce/target-cautiously-considers-placing-digital-screens-for-ads-in-stores/",
-          "postedAt": "2026-10-19T06:00:00.000Z"
-        },
-        {
-          "id": "om_730e50a13e",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Google introduces shopping updates ahead of the holidays",
-          "url": "https://www.socialmediatoday.com/news/google-introduces-shopping-updates-ahead-of-the-holidays/833309/",
-          "postedAt": "2026-10-18T20:50:14.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-20T04:47:58.610Z",
+      "lastUpdated": "2026-10-20T17:01:12.616Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
