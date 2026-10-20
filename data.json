@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-19T18:42:23.720Z",
+      "lastUpdated": "2026-10-20T04:47:56.395Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-19T18:42:26.030Z",
+      "lastUpdated": "2026-10-20T04:47:57.771Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -503,6 +503,14 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_358b11dee7",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Pinterest shares festive holiday brand guide",
+          "url": "https://www.socialmediatoday.com/news/pinterest-shares-festive-holiday-brand-guide/833418/",
+          "postedAt": "2026-10-19T22:34:07.000Z"
+        },
         {
           "id": "om_936cccf85d",
           "source": "Marketing Brew",
@@ -654,18 +662,10 @@
           "title": "Google introduces shopping updates ahead of the holidays",
           "url": "https://www.socialmediatoday.com/news/google-introduces-shopping-updates-ahead-of-the-holidays/833309/",
           "postedAt": "2026-10-18T20:50:14.000Z"
-        },
-        {
-          "id": "om_70bdb9d8da",
-          "source": "Wired",
-          "lang": "en",
-          "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-          "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-          "postedAt": "2026-10-18T10:30:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-19T18:42:27.935Z",
+      "lastUpdated": "2026-10-20T04:47:58.610Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
