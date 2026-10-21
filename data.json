@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-20T17:01:07.505Z",
+      "lastUpdated": "2026-10-21T04:43:35.781Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-20T17:01:11.059Z",
+      "lastUpdated": "2026-10-21T04:43:36.818Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,54 @@
       },
       "articles": [
         {
+          "id": "om_d52d6f3150",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Pitch Deck: Cuttable Raises $20M to Turn Brands’ Photos and Videos Into Meta Ads",
+          "url": "https://www.adweek.com/media/pitch-deck-cuttable-raises-20m-to-turn-brands-photos-and-videos-into-meta-ads/",
+          "postedAt": "2026-10-21T00:00:00.000Z"
+        },
+        {
+          "id": "om_f44baaa916",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "SpaceX says big AI growth fueled revenue jump",
+          "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
+          "postedAt": "2026-10-20T22:04:10.000Z"
+        },
+        {
+          "id": "om_57b29d2a69",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok shares Black Friday, Cyber Monday promotion tips",
+          "url": "https://www.socialmediatoday.com/news/tiktok-shares-black-friday-cyber-monday-promotion-tips/833546/",
+          "postedAt": "2026-10-20T21:52:30.000Z"
+        },
+        {
+          "id": "om_9ea810a533",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Anthropic’s cloud partnerships are getting messy",
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+          "postedAt": "2026-10-20T21:25:22.000Z"
+        },
+        {
+          "id": "om_807964b29c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Courvoisier’s first global campaign in years embraces house party culture",
+          "url": "https://www.marketingdive.com/news/courvoisiers-first-global-campaign-in-years-embraces-house-party-culture/833481/",
+          "postedAt": "2026-10-20T19:40:00.000Z"
+        },
+        {
+          "id": "om_c8e703ab83",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Can TikTok Shop be about more than just shopping?",
+          "url": "https://www.marketingbrew.com/stories/can-tiktok-shop-be-more-than-just-a-revenue-driver?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-20T19:02:39.000Z"
+        },
+        {
           "id": "om_f68ecb8ac3",
           "source": "Retail Dive",
           "lang": "en",
@@ -568,14 +616,6 @@
           "postedAt": "2026-10-20T13:17:00.000Z"
         },
         {
-          "id": "om_979e928743",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "TikTok employees said they knew about child safety issues, but execs failed to act",
-          "url": "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings",
-          "postedAt": "2026-10-20T13:11:23.000Z"
-        },
-        {
           "id": "om_df50b59fda",
           "source": "Adweek",
           "lang": "en",
@@ -590,14 +630,6 @@
           "title": "Charli XCX Joins Absolut for ‘Chaotic’ Two-Year Partnership",
           "url": "https://www.adweek.com/creativity/charli-xcx-joins-absolut-for-chaotic-two-year-partnership/",
           "postedAt": "2026-10-20T11:13:51.000Z"
-        },
-        {
-          "id": "om_697eb620bf",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-          "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-          "postedAt": "2026-10-20T11:00:00.000Z"
         },
         {
           "id": "om_8ec4e65535",
@@ -630,42 +662,10 @@
           "title": "Why brands are embracing analog photography",
           "url": "https://www.marketingbrew.com/stories/brands-embracing-analog-photography?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-10-20T10:00:00.000Z"
-        },
-        {
-          "id": "om_358b11dee7",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Pinterest shares festive holiday brand guide",
-          "url": "https://www.socialmediatoday.com/news/pinterest-shares-festive-holiday-brand-guide/833418/",
-          "postedAt": "2026-10-19T22:34:07.000Z"
-        },
-        {
-          "id": "om_936cccf85d",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Coworking with Raqib Sheikh",
-          "url": "https://www.marketingbrew.com/stories/coworking-with-raqib-sheikh?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-19T17:01:47.000Z"
-        },
-        {
-          "id": "om_0c4f2ba43e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Dick’s Sporting Goods’ seasonal hiring slips",
-          "url": "https://www.retaildive.com/news/dicks-sporting-goods-seasonal-hiring-down/833348/",
-          "postedAt": "2026-10-19T16:12:00.000Z"
-        },
-        {
-          "id": "om_75cd249717",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Amy’s Kitchen tackles ultra-processed food myths in national campaign",
-          "url": "https://www.marketingdive.com/news/amys-kitchen-tackles-ultra-processed-food-myths-in-national-campaign/833334/",
-          "postedAt": "2026-10-19T16:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-20T17:01:12.616Z",
+      "lastUpdated": "2026-10-21T04:43:37.643Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
