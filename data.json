@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-21T04:43:35.781Z",
+      "lastUpdated": "2026-10-21T17:10:23.020Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-21T04:43:36.818Z",
+      "lastUpdated": "2026-10-21T17:10:24.820Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,94 @@
       },
       "articles": [
         {
+          "id": "om_a6a0b82982",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon eyes 300K holiday hires",
+          "url": "https://www.retaildive.com/news/amazon-eyes-three-hundred-thousand-holiday-season-hires/833567/",
+          "postedAt": "2026-10-21T16:40:00.000Z"
+        },
+        {
+          "id": "om_be21e58b4f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target unwraps high-concept holiday ads focused on gift-giving academy",
+          "url": "https://www.retaildive.com/news/target-unwraps-high-concept-holiday-ads-gift-giving-academy/833596/",
+          "postedAt": "2026-10-21T16:29:00.000Z"
+        },
+        {
+          "id": "om_a753f1275f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Teen spending up 6% as they trade athletic apparel for fashion",
+          "url": "https://www.retaildive.com/news/teen-spending-grows-trade-athletic-apparel-fashion-piper-sandler/833565/",
+          "postedAt": "2026-10-21T16:21:00.000Z"
+        },
+        {
+          "id": "om_eff41dff74",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target touts holiday bargains as consumers stress out about their finances",
+          "url": "https://www.retaildive.com/news/target-holiday-bargains-consumer-stress-toys-ai/833564/",
+          "postedAt": "2026-10-21T15:45:00.000Z"
+        },
+        {
+          "id": "om_35d367ee7e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Netflix lowers ad revenue forecast by 10%, continues to beef up ad suite",
+          "url": "https://www.marketingdive.com/news/netflix-lowers-ad-revenue-forecast-by-10-continues-to-beef-up-ad-suite/833571/",
+          "postedAt": "2026-10-21T14:21:00.000Z"
+        },
+        {
+          "id": "om_5b1fd7562d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Kohl’s Brings Back Ellie Kemper for Holiday Ad Campaign",
+          "url": "https://www.adweek.com/commerce/kohls-brings-back-ellie-kemper-for-holiday-ad-campaign/",
+          "postedAt": "2026-10-21T12:41:13.000Z"
+        },
+        {
+          "id": "om_2317d351e3",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Apple Music Rebrands With a Look Made by Sound",
+          "url": "https://www.adweek.com/creativity/apple-music-rebrands-with-a-look-made-by-sound/",
+          "postedAt": "2026-10-21T11:15:00.000Z"
+        },
+        {
+          "id": "om_00808e2477",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Domino’s links with Minecraft to push personal pizza via gaming",
+          "url": "https://www.marketingdive.com/news/dominos-links-with-minecraft-to-push-personal-pizza-via-gaming/833357/",
+          "postedAt": "2026-10-21T11:07:00.000Z"
+        },
+        {
+          "id": "om_e006361e54",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why is an AI brand focusing on film festivals?",
+          "url": "https://www.marketingbrew.com/stories/wonder-studios-film-festival-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-21T10:00:00.000Z"
+        },
+        {
+          "id": "om_266dc5f083",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Whatnot Launches Its First National Spot as Live Shopping Finally Starts Gaining Traction",
+          "url": "https://www.adweek.com/brand-marketing/whatnot-launches-its-first-national-spot-as-live-shopping-finally-starts-gaining-traction/",
+          "postedAt": "2026-10-21T09:00:00.000Z"
+        },
+        {
+          "id": "om_41b5717769",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Target Ditches ‘Hot Santa’ for D’Arcy Carden in First Holiday Campaign Under New CEO",
+          "url": "https://www.adweek.com/commerce/target-ditches-hot-santa-for-darcy-carden-in-first-holiday-campaign-under-new-ceo/",
+          "postedAt": "2026-10-21T05:00:00.000Z"
+        },
+        {
           "id": "om_d52d6f3150",
           "source": "Adweek",
           "lang": "en",
@@ -512,19 +600,11 @@
           "postedAt": "2026-10-21T00:00:00.000Z"
         },
         {
-          "id": "om_f44baaa916",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "SpaceX says big AI growth fueled revenue jump",
-          "url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
-          "postedAt": "2026-10-20T22:04:10.000Z"
-        },
-        {
-          "id": "om_57b29d2a69",
+          "id": "om_1b2eb6467a",
           "source": "Social Media Today",
           "lang": "en",
-          "title": "TikTok shares Black Friday, Cyber Monday promotion tips",
-          "url": "https://www.socialmediatoday.com/news/tiktok-shares-black-friday-cyber-monday-promotion-tips/833546/",
+          "title": "TikTok shares Black Friday/Cyber Monday promotion tips",
+          "url": "https://www.socialmediatoday.com/news/tiktok-shares-black-fridaycyber-monday-promotion-tips/833546/",
           "postedAt": "2026-10-20T21:52:30.000Z"
         },
         {
@@ -568,14 +648,6 @@
           "postedAt": "2026-10-20T16:20:00.000Z"
         },
         {
-          "id": "om_52dec3f1a6",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
-          "url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
-          "postedAt": "2026-10-20T15:03:41.000Z"
-        },
-        {
           "id": "om_601138f703",
           "source": "Marketing Dive",
           "lang": "en",
@@ -590,82 +662,10 @@
           "title": "UPS’ Happy Returns comes to TikTok Shop",
           "url": "https://www.retaildive.com/news/ups-happy-returns-tiktok-shop/833322/",
           "postedAt": "2026-10-20T14:48:00.000Z"
-        },
-        {
-          "id": "om_a869393db7",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Anthropologie’s holiday marketing seeks to balance emotion, business impact",
-          "url": "https://www.retaildive.com/news/anthropologie-holiday-marketing-campaign/833440/",
-          "postedAt": "2026-10-20T14:44:00.000Z"
-        },
-        {
-          "id": "om_9e4586ca71",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "State Farm to sponsor Overtime’s inaugural girls flag football game",
-          "url": "https://www.marketingbrew.com/stories/state-farm-overtime-girls-flag-football?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-20T14:00:00.000Z"
-        },
-        {
-          "id": "om_84ec731973",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Dollar Shave Club markets ‘perfectly good’ razors as AI push continues",
-          "url": "https://www.marketingdive.com/news/dollar-shave-club-markets-perfectly-good-razors-as-ai-push-continues/833343/",
-          "postedAt": "2026-10-20T13:17:00.000Z"
-        },
-        {
-          "id": "om_df50b59fda",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "FTC Approves Publicis’ $2.2 Billion LiveRamp Deal With ‘Neutrality’ Conditions",
-          "url": "https://www.adweek.com/agencies/ftc-approves-publicis-22-billion-liveramp-deal-with-neutrality-conditions/",
-          "postedAt": "2026-10-20T11:56:59.000Z"
-        },
-        {
-          "id": "om_ab3ced9f3f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Charli XCX Joins Absolut for ‘Chaotic’ Two-Year Partnership",
-          "url": "https://www.adweek.com/creativity/charli-xcx-joins-absolut-for-chaotic-two-year-partnership/",
-          "postedAt": "2026-10-20T11:13:51.000Z"
-        },
-        {
-          "id": "om_8ec4e65535",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Shoppers expect less for more this holiday season. That could mean a sales decline.",
-          "url": "https://www.retaildive.com/news/holiday-season-retail-spending-sales-decline-outlook/832624/",
-          "postedAt": "2026-10-20T11:00:00.000Z"
-        },
-        {
-          "id": "om_99ec5cf196",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Robert Downey Jr. Trades Tony Stark’s Aviators for Snap’s AR Specs",
-          "url": "https://www.adweek.com/brand-marketing/robert-downey-jr-trades-tony-starks-aviators-for-snaps-ar-specs/",
-          "postedAt": "2026-10-20T10:57:28.000Z"
-        },
-        {
-          "id": "om_6eba2ea711",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Shoes Became the Ultimate Cultural Vehicle for Brands",
-          "url": "https://www.adweek.com/creativity/how-shoes-became-the-ultimate-cultural-vehicle-for-brands/",
-          "postedAt": "2026-10-20T10:00:27.000Z"
-        },
-        {
-          "id": "om_1e4433c237",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why brands are embracing analog photography",
-          "url": "https://www.marketingbrew.com/stories/brands-embracing-analog-photography?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-20T10:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-21T04:43:37.643Z",
+      "lastUpdated": "2026-10-21T17:10:26.073Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
