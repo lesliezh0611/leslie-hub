@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-22T04:41:34.165Z",
+      "lastUpdated": "2026-10-22T17:08:45.854Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_the_knowledge_project_bd8f931e3b",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "The Science of Doing Your Best Work",
+          "url": "https://fs.blog/knowledge-project-podcast/steven-kotler/",
+          "postedAt": "2026-10-22T09:50:00.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_a76f8995ad",
           "source": "Lenny's Podcast",
@@ -353,14 +361,6 @@
           "topic": "Ryan Serhant: How to Get People to Say Yes",
           "url": "https://fs.blog/knowledge-project-podcast/ryan-serhant/",
           "postedAt": "2026-10-08T09:55:00.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_6f1c8184f3",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "[Outliers] Charlie Munger’s Interview with Todd Combs",
-          "url": "https://fs.blog/knowledge-project-podcast/outliers-munger-combs/",
-          "postedAt": "2026-10-01T09:50:00.000Z"
         }
       ],
       "books": [
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-22T04:41:35.434Z",
+      "lastUpdated": "2026-10-22T17:08:47.164Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,12 +504,132 @@
       },
       "articles": [
         {
-          "id": "om_8d0e217e82",
-          "source": "The Verge",
+          "id": "om_8f808373ed",
+          "source": "Retail Dive",
           "lang": "en",
-          "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
-          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
-          "postedAt": "2026-10-22T02:15:39.000Z"
+          "title": "Beyond Yoga aims to have ‘many’ stores. They’ll probably be yellow.",
+          "url": "https://www.retaildive.com/news/beyond-yoga-store-strategy-yellow-joy-ceo-nancy-green/833665/",
+          "postedAt": "2026-10-22T16:34:00.000Z"
+        },
+        {
+          "id": "om_1297d16492",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "David’s Bridal to spin off Pearl into stand-alone, publicly traded company",
+          "url": "https://www.retaildive.com/news/davids-bridal-spin-off-pearl-AI-stand-alone-publicly-traded-company/833699/",
+          "postedAt": "2026-10-22T16:29:00.000Z"
+        },
+        {
+          "id": "om_02f999eaee",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Warner Bros. stirs up ‘The Cat in the Hat’ mayhem on Roblox ahead of film",
+          "url": "https://www.marketingdive.com/news/warner-bros-stirs-up-the-cat-in-the-hat-mayhem-on-roblox-ahead-of-film/833689/",
+          "postedAt": "2026-10-22T16:26:00.000Z"
+        },
+        {
+          "id": "om_45951007f4",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart welcomes external AI agents — with some guardrails",
+          "url": "https://www.retaildive.com/news/walmart-welcomes-external-ai-shopping-agents-terms-boundaries/833723/",
+          "postedAt": "2026-10-22T16:14:00.000Z"
+        },
+        {
+          "id": "om_ce8f161036",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "EBay cuts 1K jobs, downsizing for the second time this year",
+          "url": "https://www.retaildive.com/news/ebay-cuts-one-thousand-jobs-layoffs-downsizing/833668/",
+          "postedAt": "2026-10-22T16:11:00.000Z"
+        },
+        {
+          "id": "om_f09c407449",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Tractor Supply taps former Home Depot exec as chief digital, technology officer",
+          "url": "https://www.retaildive.com/news/tractor-supply-hires-home-depot-vet-chief-digital-technology-officer/833724/",
+          "postedAt": "2026-10-22T15:43:00.000Z"
+        },
+        {
+          "id": "om_b140b07ea9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Why customers are fed up with AI chatbots",
+          "url": "https://www.retaildive.com/news/why-customers-fed-up-ai-chatbots/833488/",
+          "postedAt": "2026-10-22T14:18:00.000Z"
+        },
+        {
+          "id": "om_ce968d4ef6",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Banana Republic debuts TikTok content series in bid for younger shoppers",
+          "url": "https://www.marketingdive.com/news/banana-republic-debuts-tiktok-content-series-in-bid-for-younger-shoppers/833663/",
+          "postedAt": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "id": "om_b17f0ea67f",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "For retailers who use Flock cameras, brand reputation may be at risk",
+          "url": "https://www.marketingbrew.com/stories/retailers-flock-cameras-brand-reputation-risks?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-22T14:00:00.000Z"
+        },
+        {
+          "id": "om_fcb400fef9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How AB InBev built a culture of creative effectiveness that drives growth",
+          "url": "https://www.marketingdive.com/news/how-ab-inbev-built-a-culture-of-creative-effectiveness-that-drives-growth/833674/",
+          "postedAt": "2026-10-22T13:47:00.000Z"
+        },
+        {
+          "id": "om_9825c9a42a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How CPG challenger brands are setting category marketing trends",
+          "url": "https://www.marketingdive.com/news/how-cpg-challenger-brands-are-setting-category-marketing-trends/833696/",
+          "postedAt": "2026-10-22T13:25:41.000Z"
+        },
+        {
+          "id": "om_52794eb8ac",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Shannon Nunn Rounds Out LePub NY Leadership Team as CEO",
+          "url": "https://www.adweek.com/agencies/shannon-nunn-rounds-out-lepub-ny-leadership-team-as-ceo/",
+          "postedAt": "2026-10-22T10:00:00.000Z"
+        },
+        {
+          "id": "om_c331c5140f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Common Interest Expands US Presence With Mirimar Investment",
+          "url": "https://www.adweek.com/agencies/common-interest-expands-us-presence-with-mirimar-investment/",
+          "postedAt": "2026-10-22T09:30:00.000Z"
+        },
+        {
+          "id": "om_72c3a3b0a8",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Marcel Gets its First CEO as Publicis Competes With Off-the-Shelf AI",
+          "url": "https://www.adweek.com/agencies/marcel-gets-its-first-ceo-as-publicis-competes-with-off-the-shelf-ai/",
+          "postedAt": "2026-10-22T08:00:00.000Z"
+        },
+        {
+          "id": "om_315e512651",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta offers creative ad targeting for specific audiences",
+          "url": "https://www.socialmediatoday.com/news/meta-offers-creative-ad-targeting-for-specific-audiences/833672/",
+          "postedAt": "2026-10-21T22:30:35.000Z"
+        },
+        {
+          "id": "om_4d2522f510",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: Meta adds users and revenue as AI costs climb",
+          "url": "https://www.marketingdive.com/news/sociable-meta-adds-users-and-revenue-as-ai-costs-climb/833694/",
+          "postedAt": "2026-10-21T22:08:33.000Z"
         },
         {
           "id": "om_21039cf535",
@@ -518,14 +638,6 @@
           "title": "Meta says Muse has over 10M users, with shopping a top activity",
           "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
           "postedAt": "2026-10-21T21:14:19.000Z"
-        },
-        {
-          "id": "om_f3e22c3912",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "New York’s first microdrama film festival searches for its audience",
-          "url": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
-          "postedAt": "2026-10-21T20:49:07.000Z"
         },
         {
           "id": "om_bc5c35e1ba",
@@ -550,122 +662,10 @@
           "title": "Walmart Embraces AI Agents That Shop on Behalf of Customers",
           "url": "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/",
           "postedAt": "2026-10-21T17:55:37.000Z"
-        },
-        {
-          "id": "om_f0eb317dc7",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Bose acquires Skullcandy to help it reach a wider audience",
-          "url": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers",
-          "postedAt": "2026-10-21T17:13:57.000Z"
-        },
-        {
-          "id": "om_a6a0b82982",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon eyes 300K holiday hires",
-          "url": "https://www.retaildive.com/news/amazon-eyes-three-hundred-thousand-holiday-season-hires/833567/",
-          "postedAt": "2026-10-21T16:40:00.000Z"
-        },
-        {
-          "id": "om_be21e58b4f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target unwraps high-concept holiday ads focused on gift-giving academy",
-          "url": "https://www.retaildive.com/news/target-unwraps-high-concept-holiday-ads-gift-giving-academy/833596/",
-          "postedAt": "2026-10-21T16:29:00.000Z"
-        },
-        {
-          "id": "om_a753f1275f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Teen spending up 6% as they trade athletic apparel for fashion",
-          "url": "https://www.retaildive.com/news/teen-spending-grows-trade-athletic-apparel-fashion-piper-sandler/833565/",
-          "postedAt": "2026-10-21T16:21:00.000Z"
-        },
-        {
-          "id": "om_eff41dff74",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target touts holiday bargains as consumers stress out about their finances",
-          "url": "https://www.retaildive.com/news/target-holiday-bargains-consumer-stress-toys-ai/833564/",
-          "postedAt": "2026-10-21T15:45:00.000Z"
-        },
-        {
-          "id": "om_9388d34339",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "PepsiCo and AB InBev Vet Takes CMO Post at Troubled Diageo North America",
-          "url": "https://www.adweek.com/brand-marketing/pepsico-and-ab-inbev-vet-takes-cmo-post-at-troubled-diageo-north-america/",
-          "postedAt": "2026-10-21T15:06:48.000Z"
-        },
-        {
-          "id": "om_c30461850b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Purpose Over Product: The Brand-Building Playbook of Paulie Dery and Victoria Lozano",
-          "url": "https://www.adweek.com/brand-marketing/purpose-over-product-the-brand-building-playbook-of-paulie-dery-and-victoria-lozano/",
-          "postedAt": "2026-10-21T14:57:45.000Z"
-        },
-        {
-          "id": "om_76b40e65c2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Best CMOs Don’t Just Run Marketing ft. Kellyn Smith Kenny of AT&T",
-          "url": "https://www.adweek.com/brand-marketing/the-best-cmos-dont-just-run-marketing-ft-kellyn-smith-kenny-of-att/",
-          "postedAt": "2026-10-21T14:34:09.000Z"
-        },
-        {
-          "id": "om_35d367ee7e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Netflix lowers ad revenue forecast by 10%, continues to beef up ad suite",
-          "url": "https://www.marketingdive.com/news/netflix-lowers-ad-revenue-forecast-by-10-continues-to-beef-up-ad-suite/833571/",
-          "postedAt": "2026-10-21T14:21:00.000Z"
-        },
-        {
-          "id": "om_5b1fd7562d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Kohl’s Brings Back Ellie Kemper for Holiday Ad Campaign",
-          "url": "https://www.adweek.com/commerce/kohls-brings-back-ellie-kemper-for-holiday-ad-campaign/",
-          "postedAt": "2026-10-21T12:41:13.000Z"
-        },
-        {
-          "id": "om_2317d351e3",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Apple Music Rebrands With a Look Made by Sound",
-          "url": "https://www.adweek.com/creativity/apple-music-rebrands-with-a-look-made-by-sound/",
-          "postedAt": "2026-10-21T11:15:00.000Z"
-        },
-        {
-          "id": "om_00808e2477",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Domino’s links with Minecraft to push personal pizza via gaming",
-          "url": "https://www.marketingdive.com/news/dominos-links-with-minecraft-to-push-personal-pizza-via-gaming/833357/",
-          "postedAt": "2026-10-21T11:07:00.000Z"
-        },
-        {
-          "id": "om_e006361e54",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why is an AI brand focusing on film festivals?",
-          "url": "https://www.marketingbrew.com/stories/wonder-studios-film-festival-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-21T10:00:00.000Z"
-        },
-        {
-          "id": "om_57b29d2a69",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok shares Black Friday, Cyber Monday promotion tips",
-          "url": "https://www.socialmediatoday.com/news/tiktok-shares-black-friday-cyber-monday-promotion-tips/833546/",
-          "postedAt": "2026-10-20T21:52:30.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-22T04:41:36.576Z",
+      "lastUpdated": "2026-10-22T17:08:47.897Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
