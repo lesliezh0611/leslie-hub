@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-21T17:10:23.020Z",
+      "lastUpdated": "2026-10-22T04:41:34.165Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_a76f8995ad",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Claude Duet is beautiful. I still forgot to use it",
+          "url": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
+          "postedAt": "2026-10-21T20:25:18.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_58ba945ca6",
           "source": "Lenny's Podcast",
@@ -339,14 +347,6 @@
           "postedAt": "2026-10-11T12:31:59.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_09682752ef",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: Community Wisdom Top Contributors Summer Class 2026 + ML recommendation systems, getting back into product after being fired, deciding when to quit a side project, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom",
-          "postedAt": "2026-10-10T13:01:38.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_44544cabe5",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-21T17:10:24.820Z",
+      "lastUpdated": "2026-10-22T04:41:35.434Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,62 @@
       },
       "articles": [
         {
+          "id": "om_8d0e217e82",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+          "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+          "postedAt": "2026-10-22T02:15:39.000Z"
+        },
+        {
+          "id": "om_21039cf535",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Meta says Muse has over 10M users, with shopping a top activity",
+          "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+          "postedAt": "2026-10-21T21:14:19.000Z"
+        },
+        {
+          "id": "om_f3e22c3912",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "New York’s first microdrama film festival searches for its audience",
+          "url": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
+          "postedAt": "2026-10-21T20:49:07.000Z"
+        },
+        {
+          "id": "om_bc5c35e1ba",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Poppi’s latest sports deal puts it ‘on the sidelines of culture’—literally",
+          "url": "https://www.marketingbrew.com/stories/poppi-dallas-cowboys-cheerleaders?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-21T20:36:57.000Z"
+        },
+        {
+          "id": "om_d1e976ec65",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "YouTube shares data on how creators are using AI",
+          "url": "https://www.socialmediatoday.com/news/youtube-shares-data-on-how-creators-are-using-ai/833657/",
+          "postedAt": "2026-10-21T20:00:56.000Z"
+        },
+        {
+          "id": "om_7de70a23a4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Walmart Embraces AI Agents That Shop on Behalf of Customers",
+          "url": "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/",
+          "postedAt": "2026-10-21T17:55:37.000Z"
+        },
+        {
+          "id": "om_f0eb317dc7",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Bose acquires Skullcandy to help it reach a wider audience",
+          "url": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers",
+          "postedAt": "2026-10-21T17:13:57.000Z"
+        },
+        {
           "id": "om_a6a0b82982",
           "source": "Retail Dive",
           "lang": "en",
@@ -534,6 +590,30 @@
           "title": "Target touts holiday bargains as consumers stress out about their finances",
           "url": "https://www.retaildive.com/news/target-holiday-bargains-consumer-stress-toys-ai/833564/",
           "postedAt": "2026-10-21T15:45:00.000Z"
+        },
+        {
+          "id": "om_9388d34339",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "PepsiCo and AB InBev Vet Takes CMO Post at Troubled Diageo North America",
+          "url": "https://www.adweek.com/brand-marketing/pepsico-and-ab-inbev-vet-takes-cmo-post-at-troubled-diageo-north-america/",
+          "postedAt": "2026-10-21T15:06:48.000Z"
+        },
+        {
+          "id": "om_c30461850b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Purpose Over Product: The Brand-Building Playbook of Paulie Dery and Victoria Lozano",
+          "url": "https://www.adweek.com/brand-marketing/purpose-over-product-the-brand-building-playbook-of-paulie-dery-and-victoria-lozano/",
+          "postedAt": "2026-10-21T14:57:45.000Z"
+        },
+        {
+          "id": "om_76b40e65c2",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Best CMOs Don’t Just Run Marketing ft. Kellyn Smith Kenny of AT&T",
+          "url": "https://www.adweek.com/brand-marketing/the-best-cmos-dont-just-run-marketing-ft-kellyn-smith-kenny-of-att/",
+          "postedAt": "2026-10-21T14:34:09.000Z"
         },
         {
           "id": "om_35d367ee7e",
@@ -576,96 +656,16 @@
           "postedAt": "2026-10-21T10:00:00.000Z"
         },
         {
-          "id": "om_266dc5f083",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Whatnot Launches Its First National Spot as Live Shopping Finally Starts Gaining Traction",
-          "url": "https://www.adweek.com/brand-marketing/whatnot-launches-its-first-national-spot-as-live-shopping-finally-starts-gaining-traction/",
-          "postedAt": "2026-10-21T09:00:00.000Z"
-        },
-        {
-          "id": "om_41b5717769",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Target Ditches ‘Hot Santa’ for D’Arcy Carden in First Holiday Campaign Under New CEO",
-          "url": "https://www.adweek.com/commerce/target-ditches-hot-santa-for-darcy-carden-in-first-holiday-campaign-under-new-ceo/",
-          "postedAt": "2026-10-21T05:00:00.000Z"
-        },
-        {
-          "id": "om_d52d6f3150",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Pitch Deck: Cuttable Raises $20M to Turn Brands’ Photos and Videos Into Meta Ads",
-          "url": "https://www.adweek.com/media/pitch-deck-cuttable-raises-20m-to-turn-brands-photos-and-videos-into-meta-ads/",
-          "postedAt": "2026-10-21T00:00:00.000Z"
-        },
-        {
-          "id": "om_1b2eb6467a",
+          "id": "om_57b29d2a69",
           "source": "Social Media Today",
           "lang": "en",
-          "title": "TikTok shares Black Friday/Cyber Monday promotion tips",
-          "url": "https://www.socialmediatoday.com/news/tiktok-shares-black-fridaycyber-monday-promotion-tips/833546/",
+          "title": "TikTok shares Black Friday, Cyber Monday promotion tips",
+          "url": "https://www.socialmediatoday.com/news/tiktok-shares-black-friday-cyber-monday-promotion-tips/833546/",
           "postedAt": "2026-10-20T21:52:30.000Z"
-        },
-        {
-          "id": "om_9ea810a533",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Anthropic’s cloud partnerships are getting messy",
-          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-          "postedAt": "2026-10-20T21:25:22.000Z"
-        },
-        {
-          "id": "om_807964b29c",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Courvoisier’s first global campaign in years embraces house party culture",
-          "url": "https://www.marketingdive.com/news/courvoisiers-first-global-campaign-in-years-embraces-house-party-culture/833481/",
-          "postedAt": "2026-10-20T19:40:00.000Z"
-        },
-        {
-          "id": "om_c8e703ab83",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Can TikTok Shop be about more than just shopping?",
-          "url": "https://www.marketingbrew.com/stories/can-tiktok-shop-be-more-than-just-a-revenue-driver?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-20T19:02:39.000Z"
-        },
-        {
-          "id": "om_f68ecb8ac3",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart enlists Sam’s Club in latest challenge to Amazon Prime",
-          "url": "https://www.retaildive.com/news/walmart-sams-club-membership-challenge-to-amazon-prime/833447/",
-          "postedAt": "2026-10-20T16:26:00.000Z"
-        },
-        {
-          "id": "om_d216aefbc4",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Can Best Buy be the new gaming boss?",
-          "url": "https://www.retaildive.com/news/best-buy-gaming-boss-digital-hub-pilot/833471/",
-          "postedAt": "2026-10-20T16:20:00.000Z"
-        },
-        {
-          "id": "om_601138f703",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Publicis agrees to preserve LiveRamp’s neutrality. Will it matter?",
-          "url": "https://www.marketingdive.com/news/publicis-agrees-to-preserve-liveramps-neutrality-will-it-matter/833463/",
-          "postedAt": "2026-10-20T14:49:00.000Z"
-        },
-        {
-          "id": "om_793a08973e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "UPS’ Happy Returns comes to TikTok Shop",
-          "url": "https://www.retaildive.com/news/ups-happy-returns-tiktok-shop/833322/",
-          "postedAt": "2026-10-20T14:48:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-21T17:10:26.073Z",
+      "lastUpdated": "2026-10-22T04:41:36.576Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
