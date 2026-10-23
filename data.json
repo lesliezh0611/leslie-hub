@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-23T04:46:40.491Z",
+      "lastUpdated": "2026-10-23T17:04:45.389Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-23T04:46:41.553Z",
+      "lastUpdated": "2026-10-23T17:04:47.022Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,86 @@
       },
       "articles": [
         {
+          "id": "om_7deb41758e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Lululemon adds former product chief to board",
+          "url": "https://www.retaildive.com/news/lululemon-adds-product-chief-board-chip-wilson-settlement/833839/",
+          "postedAt": "2026-10-23T16:19:00.000Z"
+        },
+        {
+          "id": "om_7dfbc4172c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Etsy updates AI use policies to emphasize craftsmanship",
+          "url": "https://www.retaildive.com/news/etsy-updates-ai-use-policies-emphasize-craftsmanship/833838/",
+          "postedAt": "2026-10-23T16:08:00.000Z"
+        },
+        {
+          "id": "om_6e9688ec21",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: Torrid CFO exits and Belk secures financing",
+          "url": "https://www.retaildive.com/news/torrid-cfo-exits-belk-financing/833755/",
+          "postedAt": "2026-10-23T15:56:00.000Z"
+        },
+        {
+          "id": "om_b6ae5a68d7",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Omnicom-IPG deal ‘substantially completed’ as group wins Coke’s NA media",
+          "url": "https://www.marketingdive.com/news/omnicom-ipg-deal-substantially-completed-as-group-wins-cokes-na-media/833837/",
+          "postedAt": "2026-10-23T14:26:14.000Z"
+        },
+        {
+          "id": "om_e2ce01092c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Inside Coca-Cola’s marketing transformation amid agency roster shake-up",
+          "url": "https://www.marketingdive.com/news/inside-coca-colas-marketing-transformation-amid-agency-roster-shakeup/833809/",
+          "postedAt": "2026-10-23T13:33:00.000Z"
+        },
+        {
+          "id": "om_9dbdb42cae",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Dentsu X’s Bruce Williams Explains That Campaigns Can Overcome Fragmentation",
+          "url": "https://www.adweek.com/brand-marketing/dentsu-x-bruce-williams-explains-that-campaigns-can-overcome-fragmentation/",
+          "postedAt": "2026-10-23T11:05:51.000Z"
+        },
+        {
+          "id": "om_8de0654e7b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "McDonald’s Ends 32-Year FIFA World Cup Sponsorship Amid Marketing Overhaul",
+          "url": "https://www.adweek.com/brand-marketing/mcdonalds-ends-32-year-fifa-world-cup-sponsorship-amid-marketing-overhaul/",
+          "postedAt": "2026-10-23T11:00:00.000Z"
+        },
+        {
+          "id": "om_8668e3f87e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Campaign Trail: E.l.f. casts spell to deliver Y2K nostalgia to Gen Z",
+          "url": "https://www.marketingdive.com/news/campaign-trail-elf-casts-spell-to-deliver-y2k-nostalgia-to-gen-z/833260/",
+          "postedAt": "2026-10-23T11:00:00.000Z"
+        },
+        {
+          "id": "om_0f821a0e70",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How the World Surf League is leveraging fan data without tickets or arenas",
+          "url": "https://www.marketingbrew.com/stories/world-surf-league-fan-data?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-23T09:00:00.000Z"
+        },
+        {
+          "id": "om_85798eef7b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 10 Campaigns That Caught Our Eye, From Away to Walmart",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-10-campaigns-that-caught-our-eye-from-away-to-walmart/",
+          "postedAt": "2026-10-23T06:00:00.000Z"
+        },
+        {
           "id": "om_741934d97c",
           "source": "Social Media Today",
           "lang": "en",
@@ -582,90 +662,10 @@
           "title": "Walmart welcomes external AI agents — with some guardrails",
           "url": "https://www.retaildive.com/news/walmart-welcomes-external-ai-shopping-agents-terms-boundaries/833723/",
           "postedAt": "2026-10-22T16:14:00.000Z"
-        },
-        {
-          "id": "om_ce8f161036",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "EBay cuts 1K jobs, downsizing for the second time this year",
-          "url": "https://www.retaildive.com/news/ebay-cuts-one-thousand-jobs-layoffs-downsizing/833668/",
-          "postedAt": "2026-10-22T16:11:00.000Z"
-        },
-        {
-          "id": "om_f09c407449",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Tractor Supply taps former Home Depot exec as chief technology, digital officer",
-          "url": "https://www.retaildive.com/news/tractor-supply-hires-home-depot-vet-chief-digital-technology-officer/833724/",
-          "postedAt": "2026-10-22T15:43:00.000Z"
-        },
-        {
-          "id": "om_2bb6fdc00a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why Reach Beats Creative: Angela Voss and Dale Harrison on the Marketing Math That Matters",
-          "url": "https://www.adweek.com/brand-marketing/why-reach-beats-creative-angela-voss-and-dale-harrison-on-the-marketing-math-that-matters/",
-          "postedAt": "2026-10-22T15:06:21.000Z"
-        },
-        {
-          "id": "om_b6a1fa974b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Grocery Chain 99 Ranch Market Is Expanding Amid a Growth in Asian Cuisine",
-          "url": "https://www.adweek.com/commerce/how-grocery-chain-99-ranch-market-is-expanding-amid-a-growth-in-asian-cuisine/",
-          "postedAt": "2026-10-22T14:58:12.000Z"
-        },
-        {
-          "id": "om_e81214b30b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Dentsu Creative Expands Scope With Diageo Across U.S. Trade and Shopper Marketing",
-          "url": "https://www.adweek.com/agencies/dentsu-creative-expands-scope-with-diageo-across-us-trade-and-shopper-marketing/",
-          "postedAt": "2026-10-22T14:57:53.000Z"
-        },
-        {
-          "id": "om_b140b07ea9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Why customers are fed up with AI chatbots",
-          "url": "https://www.retaildive.com/news/why-customers-fed-up-ai-chatbots/833488/",
-          "postedAt": "2026-10-22T14:18:00.000Z"
-        },
-        {
-          "id": "om_ce968d4ef6",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Banana Republic debuts TikTok content series in bid for younger shoppers",
-          "url": "https://www.marketingdive.com/news/banana-republic-debuts-tiktok-content-series-in-bid-for-younger-shoppers/833663/",
-          "postedAt": "2026-10-22T14:00:00.000Z"
-        },
-        {
-          "id": "om_b17f0ea67f",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "For retailers who use Flock cameras, brand reputation may be at risk",
-          "url": "https://www.marketingbrew.com/stories/retailers-flock-cameras-brand-reputation-risks?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-22T14:00:00.000Z"
-        },
-        {
-          "id": "om_fcb400fef9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How AB InBev built a culture of creative effectiveness that drives growth",
-          "url": "https://www.marketingdive.com/news/how-ab-inbev-built-a-culture-of-creative-effectiveness-that-drives-growth/833674/",
-          "postedAt": "2026-10-22T13:47:00.000Z"
-        },
-        {
-          "id": "om_9825c9a42a",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How CPG challenger brands are setting category marketing trends",
-          "url": "https://www.marketingdive.com/news/how-cpg-challenger-brands-are-setting-category-marketing-trends/833696/",
-          "postedAt": "2026-10-22T13:25:41.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-23T04:46:42.675Z",
+      "lastUpdated": "2026-10-23T17:04:48.339Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
