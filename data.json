@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-22T17:08:45.854Z",
+      "lastUpdated": "2026-10-23T04:46:40.491Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-22T17:08:47.164Z",
+      "lastUpdated": "2026-10-23T04:46:41.553Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,6 +504,54 @@
       },
       "articles": [
         {
+          "id": "om_741934d97c",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta says shopping is Muse’s primary use case",
+          "url": "https://www.socialmediatoday.com/news/meta-says-shopping-is-muses-primary-use-case/833808/",
+          "postedAt": "2026-10-22T22:36:18.000Z"
+        },
+        {
+          "id": "om_e1ac4e4598",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+          "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+          "postedAt": "2026-10-22T22:34:54.000Z"
+        },
+        {
+          "id": "om_dcfe403bf0",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta offers insights on individual platform growth",
+          "url": "https://www.socialmediatoday.com/news/meta-offers-insights-on-individual-platform-growth/833807/",
+          "postedAt": "2026-10-22T22:30:27.000Z"
+        },
+        {
+          "id": "om_64c1c9e5e4",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+          "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+          "postedAt": "2026-10-22T20:00:00.000Z"
+        },
+        {
+          "id": "om_a95ba3c7de",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Google adds brand management tools to Gemini",
+          "url": "https://www.socialmediatoday.com/news/google-adds-brand-management-tools-to-gemini/833790/",
+          "postedAt": "2026-10-22T19:25:08.000Z"
+        },
+        {
+          "id": "om_66269c9682",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Omnicom Nabs Coca-Cola’s North America Media Account While WPP Retains Globally",
+          "url": "https://www.adweek.com/agencies/omnicom-nabs-coca-colas-north-america-media-account-while-wpp-retains-globally/",
+          "postedAt": "2026-10-22T17:08:42.000Z"
+        },
+        {
           "id": "om_8f808373ed",
           "source": "Retail Dive",
           "lang": "en",
@@ -547,9 +595,33 @@
           "id": "om_f09c407449",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Tractor Supply taps former Home Depot exec as chief digital, technology officer",
+          "title": "Tractor Supply taps former Home Depot exec as chief technology, digital officer",
           "url": "https://www.retaildive.com/news/tractor-supply-hires-home-depot-vet-chief-digital-technology-officer/833724/",
           "postedAt": "2026-10-22T15:43:00.000Z"
+        },
+        {
+          "id": "om_2bb6fdc00a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why Reach Beats Creative: Angela Voss and Dale Harrison on the Marketing Math That Matters",
+          "url": "https://www.adweek.com/brand-marketing/why-reach-beats-creative-angela-voss-and-dale-harrison-on-the-marketing-math-that-matters/",
+          "postedAt": "2026-10-22T15:06:21.000Z"
+        },
+        {
+          "id": "om_b6a1fa974b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Grocery Chain 99 Ranch Market Is Expanding Amid a Growth in Asian Cuisine",
+          "url": "https://www.adweek.com/commerce/how-grocery-chain-99-ranch-market-is-expanding-amid-a-growth-in-asian-cuisine/",
+          "postedAt": "2026-10-22T14:58:12.000Z"
+        },
+        {
+          "id": "om_e81214b30b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Dentsu Creative Expands Scope With Diageo Across U.S. Trade and Shopper Marketing",
+          "url": "https://www.adweek.com/agencies/dentsu-creative-expands-scope-with-diageo-across-us-trade-and-shopper-marketing/",
+          "postedAt": "2026-10-22T14:57:53.000Z"
         },
         {
           "id": "om_b140b07ea9",
@@ -590,82 +662,10 @@
           "title": "How CPG challenger brands are setting category marketing trends",
           "url": "https://www.marketingdive.com/news/how-cpg-challenger-brands-are-setting-category-marketing-trends/833696/",
           "postedAt": "2026-10-22T13:25:41.000Z"
-        },
-        {
-          "id": "om_52794eb8ac",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Shannon Nunn Rounds Out LePub NY Leadership Team as CEO",
-          "url": "https://www.adweek.com/agencies/shannon-nunn-rounds-out-lepub-ny-leadership-team-as-ceo/",
-          "postedAt": "2026-10-22T10:00:00.000Z"
-        },
-        {
-          "id": "om_c331c5140f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Common Interest Expands US Presence With Mirimar Investment",
-          "url": "https://www.adweek.com/agencies/common-interest-expands-us-presence-with-mirimar-investment/",
-          "postedAt": "2026-10-22T09:30:00.000Z"
-        },
-        {
-          "id": "om_72c3a3b0a8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Marcel Gets its First CEO as Publicis Competes With Off-the-Shelf AI",
-          "url": "https://www.adweek.com/agencies/marcel-gets-its-first-ceo-as-publicis-competes-with-off-the-shelf-ai/",
-          "postedAt": "2026-10-22T08:00:00.000Z"
-        },
-        {
-          "id": "om_315e512651",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Meta offers creative ad targeting for specific audiences",
-          "url": "https://www.socialmediatoday.com/news/meta-offers-creative-ad-targeting-for-specific-audiences/833672/",
-          "postedAt": "2026-10-21T22:30:35.000Z"
-        },
-        {
-          "id": "om_4d2522f510",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: Meta adds users and revenue as AI costs climb",
-          "url": "https://www.marketingdive.com/news/sociable-meta-adds-users-and-revenue-as-ai-costs-climb/833694/",
-          "postedAt": "2026-10-21T22:08:33.000Z"
-        },
-        {
-          "id": "om_21039cf535",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Meta says Muse has over 10M users, with shopping a top activity",
-          "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-          "postedAt": "2026-10-21T21:14:19.000Z"
-        },
-        {
-          "id": "om_bc5c35e1ba",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Poppi’s latest sports deal puts it ‘on the sidelines of culture’—literally",
-          "url": "https://www.marketingbrew.com/stories/poppi-dallas-cowboys-cheerleaders?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-21T20:36:57.000Z"
-        },
-        {
-          "id": "om_d1e976ec65",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "YouTube shares data on how creators are using AI",
-          "url": "https://www.socialmediatoday.com/news/youtube-shares-data-on-how-creators-are-using-ai/833657/",
-          "postedAt": "2026-10-21T20:00:56.000Z"
-        },
-        {
-          "id": "om_7de70a23a4",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Walmart Embraces AI Agents That Shop on Behalf of Customers",
-          "url": "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/",
-          "postedAt": "2026-10-21T17:55:37.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-22T17:08:47.897Z",
+      "lastUpdated": "2026-10-23T04:46:42.675Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
