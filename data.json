@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-23T17:04:45.389Z",
+      "lastUpdated": "2026-10-24T04:33:58.934Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-23T17:04:47.022Z",
+      "lastUpdated": "2026-10-24T04:34:00.315Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,12 +504,36 @@
       },
       "articles": [
         {
+          "id": "om_5d9a6526c7",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Startups don’t need to go viral to win customers",
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+          "postedAt": "2026-10-23T23:07:45.000Z"
+        },
+        {
+          "id": "om_52633c6486",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Meta’s Muse is popular, but personal agents still face barriers to adoption",
+          "url": "https://www.marketingbrew.com/stories/meta-muse-popularity-barriers-to-adoption?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-23T19:50:02.000Z"
+        },
+        {
           "id": "om_7deb41758e",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Lululemon adds former product chief to board",
           "url": "https://www.retaildive.com/news/lululemon-adds-product-chief-board-chip-wilson-settlement/833839/",
           "postedAt": "2026-10-23T16:19:00.000Z"
+        },
+        {
+          "id": "om_2b953e98d4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Omnicom’s $900M Cost Cutting Drive Continues in Q3 as Revenues Stay Flat",
+          "url": "https://www.adweek.com/agencies/omnicoms-900m-cost-cutting-drive-continues-in-q3-as-revenues-stay-flat/",
+          "postedAt": "2026-10-23T16:08:58.000Z"
         },
         {
           "id": "om_7dfbc4172c",
@@ -526,6 +550,22 @@
           "title": "The Weekly Closeout: Torrid CFO exits and Belk secures financing",
           "url": "https://www.retaildive.com/news/torrid-cfo-exits-belk-financing/833755/",
           "postedAt": "2026-10-23T15:56:00.000Z"
+        },
+        {
+          "id": "om_395e1a33b3",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Amazon Made a Stronger Partnership Play in Thursday Night Football in Year 5",
+          "url": "https://www.adweek.com/convergent-tv/how-amazon-made-a-stronger-partnership-play-in-thursday-night-football-in-year-5/",
+          "postedAt": "2026-10-23T15:26:37.000Z"
+        },
+        {
+          "id": "om_1334ef9153",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Polymarket’s Reported CMO Firing is the Latest in a Long String of Controversies",
+          "url": "https://www.adweek.com/brand-marketing/polymarkets-reported-cmo-firing-is-the-latest-in-a-long-string-of-controversies/",
+          "postedAt": "2026-10-23T14:57:34.000Z"
         },
         {
           "id": "om_b6ae5a68d7",
@@ -608,14 +648,6 @@
           "postedAt": "2026-10-22T22:30:27.000Z"
         },
         {
-          "id": "om_64c1c9e5e4",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
-          "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
-          "postedAt": "2026-10-22T20:00:00.000Z"
-        },
-        {
           "id": "om_a95ba3c7de",
           "source": "Social Media Today",
           "lang": "en",
@@ -624,48 +656,16 @@
           "postedAt": "2026-10-22T19:25:08.000Z"
         },
         {
-          "id": "om_66269c9682",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Omnicom Nabs Coca-Cola’s North America Media Account While WPP Retains Globally",
-          "url": "https://www.adweek.com/agencies/omnicom-nabs-coca-colas-north-america-media-account-while-wpp-retains-globally/",
-          "postedAt": "2026-10-22T17:08:42.000Z"
-        },
-        {
           "id": "om_8f808373ed",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Beyond Yoga aims to have ‘many’ stores. They’ll probably be yellow.",
           "url": "https://www.retaildive.com/news/beyond-yoga-store-strategy-yellow-joy-ceo-nancy-green/833665/",
           "postedAt": "2026-10-22T16:34:00.000Z"
-        },
-        {
-          "id": "om_1297d16492",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "David’s Bridal to spin off Pearl into stand-alone, publicly traded company",
-          "url": "https://www.retaildive.com/news/davids-bridal-spin-off-pearl-AI-stand-alone-publicly-traded-company/833699/",
-          "postedAt": "2026-10-22T16:29:00.000Z"
-        },
-        {
-          "id": "om_02f999eaee",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Warner Bros. stirs up ‘The Cat in the Hat’ mayhem on Roblox ahead of film",
-          "url": "https://www.marketingdive.com/news/warner-bros-stirs-up-the-cat-in-the-hat-mayhem-on-roblox-ahead-of-film/833689/",
-          "postedAt": "2026-10-22T16:26:00.000Z"
-        },
-        {
-          "id": "om_45951007f4",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart welcomes external AI agents — with some guardrails",
-          "url": "https://www.retaildive.com/news/walmart-welcomes-external-ai-shopping-agents-terms-boundaries/833723/",
-          "postedAt": "2026-10-22T16:14:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-23T17:04:48.339Z",
+      "lastUpdated": "2026-10-24T04:34:01.671Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
