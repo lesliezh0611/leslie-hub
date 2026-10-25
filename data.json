@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-25T04:38:37.359Z",
+      "lastUpdated": "2026-10-25T16:15:16.337Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_a1d2b210a5",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+          "url": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+          "postedAt": "2026-10-25T12:31:34.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_95ad285f18",
           "source": "Lenny's Podcast",
@@ -347,14 +355,6 @@
           "postedAt": "2026-10-12T15:00:38.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_2d01a1ff8e",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
-          "url": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
-          "postedAt": "2026-10-12T12:03:55.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_44544cabe5",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-25T04:38:38.839Z",
+      "lastUpdated": "2026-10-25T16:15:17.971Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -665,7 +665,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-25T04:38:40.407Z",
+      "lastUpdated": "2026-10-25T16:15:19.122Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
