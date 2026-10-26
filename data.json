@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-26T04:44:03.531Z",
+      "lastUpdated": "2026-10-26T18:40:09.456Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_2f03fd1eed",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
+          "postedAt": "2026-10-26T15:00:53.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_c6373e1c52",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Why Reddit built its own AI prototyping tool | Blair Metcalf",
+          "url": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
+          "postedAt": "2026-10-26T12:04:20.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_a1d2b210a5",
           "source": "Lenny's Podcast",
@@ -339,22 +355,6 @@
           "postedAt": "2026-10-14T12:04:05.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_ee47aa4819",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How to tell if a startup has a moat",
-          "url": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
-          "postedAt": "2026-10-13T12:45:41.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_35483b1348",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: How Meta designed Muse with Alex Cornell",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
-          "postedAt": "2026-10-12T15:00:38.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_44544cabe5",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -411,7 +411,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-26T04:44:05.485Z",
+      "lastUpdated": "2026-10-26T18:40:11.686Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "12 fresh updates from the last 21 days"
@@ -504,168 +504,168 @@
       },
       "articles": [
         {
-          "id": "om_5d9a6526c7",
+          "id": "om_3676c5b47e",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
+          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+          "postedAt": "2026-10-26T18:22:19.000Z"
+        },
+        {
+          "id": "om_0c7a0e5840",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "Startups don’t need to go viral to win customers",
-          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-          "postedAt": "2026-10-23T23:07:45.000Z"
+          "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+          "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+          "postedAt": "2026-10-26T16:49:42.000Z"
         },
         {
-          "id": "om_52633c6486",
+          "id": "om_ec8c6c9ed9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "CVS wants to sell more Pokémon, collectibles",
+          "url": "https://www.retaildive.com/news/cvs-pokemon-collectibles-beauty-seasonal/872755/",
+          "postedAt": "2026-10-26T16:22:00.000Z"
+        },
+        {
+          "id": "om_23222132a5",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target spruces up SoHo store, fan shops ahead of the holidays",
+          "url": "https://www.retaildive.com/news/target-soho-store-renovation-fan-shop-remodels-holidays/833925/",
+          "postedAt": "2026-10-26T16:13:00.000Z"
+        },
+        {
+          "id": "om_198ef53a11",
           "source": "Marketing Brew",
           "lang": "en",
-          "title": "Meta’s Muse is popular, but personal agents still face barriers to adoption",
-          "url": "https://www.marketingbrew.com/stories/meta-muse-popularity-barriers-to-adoption?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-23T19:50:02.000Z"
+          "title": "Why BelliWelli’s co-founder and CEO is filming skits in Walmart at night",
+          "url": "https://www.marketingbrew.com/stories/why-belliwellis-co-founder-and-ceo-is-filming-skits-in-walmart-at-night?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-26T15:52:22.000Z"
         },
         {
-          "id": "om_7deb41758e",
+          "id": "om_4e4d44eb5f",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Lululemon adds former product chief to board",
-          "url": "https://www.retaildive.com/news/lululemon-adds-product-chief-board-chip-wilson-settlement/833839/",
-          "postedAt": "2026-10-23T16:19:00.000Z"
+          "title": "Walmart debuts longer Black Friday, Cyber Monday sales events",
+          "url": "https://www.retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747/",
+          "postedAt": "2026-10-26T15:43:00.000Z"
         },
         {
-          "id": "om_2b953e98d4",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Omnicom’s $900M Cost Cutting Drive Continues in Q3 as Revenues Stay Flat",
-          "url": "https://www.adweek.com/agencies/omnicoms-900m-cost-cutting-drive-continues-in-q3-as-revenues-stay-flat/",
-          "postedAt": "2026-10-23T16:08:58.000Z"
-        },
-        {
-          "id": "om_7dfbc4172c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Etsy updates AI use policies to emphasize craftsmanship",
-          "url": "https://www.retaildive.com/news/etsy-updates-ai-use-policies-emphasize-craftsmanship/833838/",
-          "postedAt": "2026-10-23T16:08:00.000Z"
-        },
-        {
-          "id": "om_6e9688ec21",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Weekly Closeout: Torrid CFO exits and Belk secures financing",
-          "url": "https://www.retaildive.com/news/torrid-cfo-exits-belk-financing/833755/",
-          "postedAt": "2026-10-23T15:56:00.000Z"
-        },
-        {
-          "id": "om_395e1a33b3",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Amazon Made a Stronger Partnership Play in Thursday Night Football in Year 5",
-          "url": "https://www.adweek.com/convergent-tv/how-amazon-made-a-stronger-partnership-play-in-thursday-night-football-in-year-5/",
-          "postedAt": "2026-10-23T15:26:37.000Z"
-        },
-        {
-          "id": "om_1334ef9153",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Polymarket’s Reported CMO Firing is the Latest in a Long String of Controversies",
-          "url": "https://www.adweek.com/brand-marketing/polymarkets-reported-cmo-firing-is-the-latest-in-a-long-string-of-controversies/",
-          "postedAt": "2026-10-23T14:57:34.000Z"
-        },
-        {
-          "id": "om_b6ae5a68d7",
+          "id": "om_d64771ab58",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Omnicom-IPG deal ‘substantially completed’ as group wins Coke’s NA media",
-          "url": "https://www.marketingdive.com/news/omnicom-ipg-deal-substantially-completed-as-group-wins-cokes-na-media/833837/",
-          "postedAt": "2026-10-23T14:26:14.000Z"
+          "title": "Publicis installs leadership atop Marcel as agentic drives growth plans",
+          "url": "https://www.marketingdive.com/news/publicis-installs-leadership-atop-marcel-as-agentic-drives-growth-plans/872691/",
+          "postedAt": "2026-10-26T15:01:00.000Z"
         },
         {
-          "id": "om_e2ce01092c",
+          "id": "om_eb030e8615",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Inside Coca-Cola’s marketing transformation amid agency roster shake-up",
-          "url": "https://www.marketingdive.com/news/inside-coca-colas-marketing-transformation-amid-agency-roster-shakeup/833809/",
-          "postedAt": "2026-10-23T13:33:00.000Z"
+          "title": "Pinterest strengthens bid to media buyers with programmatic solution",
+          "url": "https://www.marketingdive.com/news/pinterest-strengthens-bid-to-media-buyers-with-programmatic-solution/833913/",
+          "postedAt": "2026-10-26T14:40:00.000Z"
         },
         {
-          "id": "om_9dbdb42cae",
-          "source": "Adweek",
+          "id": "om_bc6749a192",
+          "source": "Retail Dive",
           "lang": "en",
-          "title": "Dentsu X’s Bruce Williams Explains That Campaigns Can Overcome Fragmentation",
-          "url": "https://www.adweek.com/brand-marketing/dentsu-x-bruce-williams-explains-that-campaigns-can-overcome-fragmentation/",
-          "postedAt": "2026-10-23T11:05:51.000Z"
+          "title": "Levi’s distribution network transition saga continues to drag",
+          "url": "https://www.retaildive.com/news/levis-distribution-network-transition-delay/833896/",
+          "postedAt": "2026-10-26T14:39:00.000Z"
         },
         {
-          "id": "om_8de0654e7b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "McDonald’s Ends 32-Year FIFA World Cup Sponsorship Amid Marketing Overhaul",
-          "url": "https://www.adweek.com/brand-marketing/mcdonalds-ends-32-year-fifa-world-cup-sponsorship-amid-marketing-overhaul/",
-          "postedAt": "2026-10-23T11:00:00.000Z"
-        },
-        {
-          "id": "om_8668e3f87e",
+          "id": "om_333ad6cdf8",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Campaign Trail: E.l.f. casts spell to deliver Y2K nostalgia to Gen Z",
-          "url": "https://www.marketingdive.com/news/campaign-trail-elf-casts-spell-to-deliver-y2k-nostalgia-to-gen-z/833260/",
-          "postedAt": "2026-10-23T11:00:00.000Z"
+          "title": "Why Clorox shifted from creating brand campaigns to systems of relevance",
+          "url": "https://www.marketingdive.com/news/why-clorox-shifted-from-creating-brand-campaigns-to-systems-of-relevance/838232/",
+          "postedAt": "2026-10-26T14:18:00.000Z"
         },
         {
-          "id": "om_0f821a0e70",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How the World Surf League is leveraging fan data without tickets or arenas",
-          "url": "https://www.marketingbrew.com/stories/world-surf-league-fan-data?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-23T09:00:00.000Z"
-        },
-        {
-          "id": "om_85798eef7b",
+          "id": "om_bd31d56a7d",
           "source": "Adweek",
           "lang": "en",
-          "title": "Ads of the Week: 10 Campaigns That Caught Our Eye, From Away to Walmart",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-10-campaigns-that-caught-our-eye-from-away-to-walmart/",
-          "postedAt": "2026-10-23T06:00:00.000Z"
+          "title": "Seth Rogen Checks Off His Gift List in Sephora’s Holiday Campaign",
+          "url": "https://www.adweek.com/brand-marketing/seth-rogen-checks-off-his-gift-list-in-sephoras-holiday-campaign/",
+          "postedAt": "2026-10-26T12:40:41.000Z"
         },
         {
-          "id": "om_741934d97c",
-          "source": "Social Media Today",
+          "id": "om_ca958cbd07",
+          "source": "Adweek",
           "lang": "en",
-          "title": "Meta says shopping is Muse’s primary use case",
-          "url": "https://www.socialmediatoday.com/news/meta-says-shopping-is-muses-primary-use-case/833808/",
-          "postedAt": "2026-10-22T22:36:18.000Z"
+          "title": "Brandweek 2026: Is Retention the Real Problem in Marketing? ft. Doug Zarkin",
+          "url": "https://www.adweek.com/brand-marketing/brandweek-2026-is-retention-the-real-problem-in-marketing-ft-doug-zarkin/",
+          "postedAt": "2026-10-26T12:09:58.000Z"
         },
         {
-          "id": "om_dcfe403bf0",
-          "source": "Social Media Today",
+          "id": "om_cca90c2109",
+          "source": "Adweek",
           "lang": "en",
-          "title": "Meta offers insights on individual platform growth",
-          "url": "https://www.socialmediatoday.com/news/meta-offers-insights-on-individual-platform-growth/833807/",
-          "postedAt": "2026-10-22T22:30:27.000Z"
+          "title": "Google Sells Itself As A Commerce ‘Matchmaker,’ Not A Retailer",
+          "url": "https://www.adweek.com/commerce/google-sells-itself-as-a-commerce-matchmaker-not-a-retailer/",
+          "postedAt": "2026-10-26T11:51:00.000Z"
         },
         {
-          "id": "om_a95ba3c7de",
-          "source": "Social Media Today",
+          "id": "om_57944f3cc5",
+          "source": "Marketing Dive",
           "lang": "en",
-          "title": "Google adds brand management tools to Gemini",
-          "url": "https://www.socialmediatoday.com/news/google-adds-brand-management-tools-to-gemini/833790/",
-          "postedAt": "2026-10-22T19:25:08.000Z"
+          "title": "Walmart CMO breaks down retailer’s Muppet-fueled holiday campaign",
+          "url": "https://www.marketingdive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/833778/",
+          "postedAt": "2026-10-26T10:00:00.000Z"
         },
         {
-          "id": "om_8f808373ed",
+          "id": "om_3059c84bc1",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "The new rules of virtual event strategy in 2026",
+          "url": "https://www.marketingdive.com/spons/the-new-rules-of-virtual-event-strategy-in-2026/833550/",
+          "postedAt": "2026-10-26T09:00:00.000Z"
+        },
+        {
+          "id": "om_36c58598f6",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Beyond Yoga aims to have ‘many’ stores. They’ll probably be yellow.",
-          "url": "https://www.retaildive.com/news/beyond-yoga-store-strategy-yellow-joy-ceo-nancy-green/833665/",
-          "postedAt": "2026-10-22T16:34:00.000Z"
+          "title": "Agentic commerce: The infrastructure is ready for AI agents. Is your store?",
+          "url": "https://www.retaildive.com/spons/agentic-commerce-the-infrastructure-is-ready-for-ai-agents-is-your-store/833313/",
+          "postedAt": "2026-10-26T09:00:00.000Z"
         },
         {
-          "id": "om_1297d16492",
+          "id": "om_049bcf059d",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "David’s Bridal to spin off Pearl into stand-alone, publicly traded company",
-          "url": "https://www.retaildive.com/news/davids-bridal-spin-off-pearl-AI-stand-alone-publicly-traded-company/833699/",
-          "postedAt": "2026-10-22T16:29:00.000Z"
+          "title": "Keeping pace with Walmart Marketplace: the work behind Base.com’s Innovation Award",
+          "url": "https://www.retaildive.com/spons/keeping-pace-with-walmart-marketplace-the-work-behind-basecoms-innovatio/833294/",
+          "postedAt": "2026-10-26T09:00:00.000Z"
+        },
+        {
+          "id": "om_2b078a1179",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The most expensive problems are the ones you’ve learned to live with",
+          "url": "https://www.retaildive.com/spons/the-most-expensive-problems-are-the-ones-youve-learned-to-live-with/833681/",
+          "postedAt": "2026-10-26T09:00:00.000Z"
+        },
+        {
+          "id": "om_b3f9f247c7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Agents and Creators: Ndidi Oteh’s Growth Plan for Accenture Song",
+          "url": "https://www.adweek.com/agencies/agents-and-creators-ndidi-otehs-growth-plan-for-accenture-song/",
+          "postedAt": "2026-10-26T06:00:00.000Z"
+        },
+        {
+          "id": "om_fdd48804e0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Strava’s CMO Is Winning Over Walkers Without Losing Hardcore Runners",
+          "url": "https://www.adweek.com/brand-marketing/how-stravas-cmo-is-winning-over-walkers-without-losing-hardcore-runners/",
+          "postedAt": "2026-10-26T06:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-26T04:44:07.385Z",
+      "lastUpdated": "2026-10-26T18:40:13.368Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
