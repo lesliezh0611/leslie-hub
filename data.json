@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-27T05:01:08.196Z",
+      "lastUpdated": "2026-10-27T17:59:10.407Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-27T05:01:09.251Z",
+      "lastUpdated": "2026-10-27T17:59:10.918Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,20 +512,108 @@
       },
       "articles": [
         {
+          "id": "om_52a0bf1f8b",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target overhauls Threshold home goods brand",
+          "url": "https://www.retaildive.com/news/target-overhauls-threshold-home-goods-brand/872851/",
+          "postedAt": "2026-10-27T15:43:00.000Z"
+        },
+        {
+          "id": "om_5b4ae779b6",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "These 3 department stores need a good holiday",
+          "url": "https://www.retaildive.com/news/these-department-stores-need-a-good-holiday-kohls-penney-saks/833912/",
+          "postedAt": "2026-10-27T15:41:00.000Z"
+        },
+        {
+          "id": "om_d519e9f599",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart’s chief marketer breaks down retailer’s Muppet-fueled holiday campaign",
+          "url": "https://www.retaildive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/872773/",
+          "postedAt": "2026-10-27T14:26:00.000Z"
+        },
+        {
+          "id": "om_21f5a48c60",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Patrón embraces Día de Muertos for one-night only comedy show",
+          "url": "https://www.marketingdive.com/news/patron-embraces-dia-de-muertos-for-one-night-only-comedy-show/872814/",
+          "postedAt": "2026-10-27T14:25:00.000Z"
+        },
+        {
+          "id": "om_6c930674e3",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Japan internet giant GMO says hackers posted stolen customer data",
+          "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+          "postedAt": "2026-10-27T13:32:57.000Z"
+        },
+        {
+          "id": "om_307e94bb48",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "What McDonald’s dropping its FIFA sponsorship means for sports marketing",
+          "url": "https://www.marketingdive.com/news/what-mcdonalds-dropping-its-fifa-sponsorship-means-for-sports-marketing/872775/",
+          "postedAt": "2026-10-27T13:15:00.000Z"
+        },
+        {
+          "id": "om_2856311b60",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How Knix brought A Court of Thorns and Roses to life for an audience of ‘enthralled’ fans",
+          "url": "https://www.marketingbrew.com/stories/knix-acotar-partnership-fandom-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-27T13:12:14.000Z"
+        },
+        {
+          "id": "om_cc373051dc",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Half of Shoppers Plan to Buy Gifts Like Meals or Event Tickets, Deloitte Finds",
+          "url": "https://www.adweek.com/commerce/half-of-shoppers-plan-to-buy-gifts-like-meals-or-event-tickets-deloitte-finds/",
+          "postedAt": "2026-10-27T11:49:47.000Z"
+        },
+        {
+          "id": "om_7401fa1c5e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Liquid I.V. Taps Former Poppi Exec Jenny Danzi as CMO",
+          "url": "https://www.adweek.com/brand-marketing/liquid-iv-taps-former-poppi-exec-jenny-danzi-as-cmo/",
+          "postedAt": "2026-10-27T11:07:33.000Z"
+        },
+        {
+          "id": "om_8923f51bcf",
+          "source": "Wired",
+          "lang": "en",
+          "title": "AI Agents Are Media’s New Favorite Audience",
+          "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+          "postedAt": "2026-10-27T11:00:00.000Z"
+        },
+        {
+          "id": "om_287c083fac",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "5 of the biggest retail horror stories of 2026",
+          "url": "https://www.retaildive.com/news/retail-horror-stories-nike-turnaround-lululemon-chip-wilson-2026/833866/",
+          "postedAt": "2026-10-27T11:00:00.000Z"
+        },
+        {
+          "id": "om_c4ce98955a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Jay-Z Will Finally Headline Super Bowl 61 Halftime Show After Years Behind the Scenes",
+          "url": "https://www.adweek.com/brand-marketing/jay-z-will-finally-headline-super-bowl-61-halftime-show-after-years-behind-the-scenes/",
+          "postedAt": "2026-10-27T06:03:13.000Z"
+        },
+        {
           "id": "om_e0b9f52c07",
           "source": "Social Media Today",
           "lang": "en",
           "title": "TikTok playbook outlines the value of its high-end ad options",
           "url": "https://www.socialmediatoday.com/news/tiktok-playbook-outlines-the-value-of-its-high-end-ad-options/872827/",
           "postedAt": "2026-10-26T22:26:07.000Z"
-        },
-        {
-          "id": "om_41bd296bbf",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Pinterest introduces new programmatic buying partnership",
-          "url": "https://www.socialmediatoday.com/news/pinterest-introduces-new-programmatic-buying-partnership/872826/",
-          "postedAt": "2026-10-26T22:23:24.000Z"
         },
         {
           "id": "om_6c43de2ba5",
@@ -560,22 +648,6 @@
           "postedAt": "2026-10-26T18:40:59.000Z"
         },
         {
-          "id": "om_3676c5b47e",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
-          "url": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
-          "postedAt": "2026-10-26T18:22:19.000Z"
-        },
-        {
-          "id": "om_0c7a0e5840",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-          "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-          "postedAt": "2026-10-26T16:49:42.000Z"
-        },
-        {
           "id": "om_ec8c6c9ed9",
           "source": "Retail Dive",
           "lang": "en",
@@ -598,82 +670,10 @@
           "title": "Why BelliWelli’s co-founder and CEO is filming skits in Walmart at night",
           "url": "https://www.marketingbrew.com/stories/why-belliwellis-co-founder-and-ceo-is-filming-skits-in-walmart-at-night?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-10-26T15:52:22.000Z"
-        },
-        {
-          "id": "om_4e4d44eb5f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart debuts longer Black Friday, Cyber Monday sales events",
-          "url": "https://www.retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747/",
-          "postedAt": "2026-10-26T15:43:00.000Z"
-        },
-        {
-          "id": "om_d64771ab58",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Publicis installs leadership atop Marcel as agentic drives growth plans",
-          "url": "https://www.marketingdive.com/news/publicis-installs-leadership-atop-marcel-as-agentic-drives-growth-plans/872691/",
-          "postedAt": "2026-10-26T15:01:00.000Z"
-        },
-        {
-          "id": "om_eb030e8615",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Pinterest strengthens bid to media buyers with programmatic solution",
-          "url": "https://www.marketingdive.com/news/pinterest-strengthens-bid-to-media-buyers-with-programmatic-solution/833913/",
-          "postedAt": "2026-10-26T14:40:00.000Z"
-        },
-        {
-          "id": "om_bc6749a192",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Levi’s distribution network transition saga continues to drag",
-          "url": "https://www.retaildive.com/news/levis-distribution-network-transition-delay/833896/",
-          "postedAt": "2026-10-26T14:39:00.000Z"
-        },
-        {
-          "id": "om_333ad6cdf8",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why Clorox shifted from creating brand campaigns to systems of relevance",
-          "url": "https://www.marketingdive.com/news/why-clorox-shifted-from-creating-brand-campaigns-to-systems-of-relevance/838232/",
-          "postedAt": "2026-10-26T14:18:00.000Z"
-        },
-        {
-          "id": "om_bd31d56a7d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Seth Rogen Checks Off His Gift List in Sephora’s Holiday Campaign",
-          "url": "https://www.adweek.com/brand-marketing/seth-rogen-checks-off-his-gift-list-in-sephoras-holiday-campaign/",
-          "postedAt": "2026-10-26T12:40:41.000Z"
-        },
-        {
-          "id": "om_ca958cbd07",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Brandweek 2026: Is Retention the Real Problem in Marketing? ft. Doug Zarkin",
-          "url": "https://www.adweek.com/brand-marketing/brandweek-2026-is-retention-the-real-problem-in-marketing-ft-doug-zarkin/",
-          "postedAt": "2026-10-26T12:09:58.000Z"
-        },
-        {
-          "id": "om_cca90c2109",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Google Sells Itself As A Commerce ‘Matchmaker,’ Not A Retailer",
-          "url": "https://www.adweek.com/commerce/google-sells-itself-as-a-commerce-matchmaker-not-a-retailer/",
-          "postedAt": "2026-10-26T11:51:00.000Z"
-        },
-        {
-          "id": "om_57944f3cc5",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Walmart CMO breaks down retailer’s Muppet-fueled holiday campaign",
-          "url": "https://www.marketingdive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/833778/",
-          "postedAt": "2026-10-26T10:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-27T05:01:10.321Z",
+      "lastUpdated": "2026-10-27T17:59:11.890Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
