@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-26T18:40:09.456Z",
+      "lastUpdated": "2026-10-27T05:01:08.196Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lex_fridman_podcast_a6e502b64e",
+          "source": "Lex Fridman Podcast",
+          "platform": "podcast",
+          "topic": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
+          "url": "https://lexfridman.com/math-ai-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=math-ai-crisis",
+          "postedAt": "2026-10-26T22:52:28.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_2f03fd1eed",
           "source": "Lenny's Podcast",
@@ -411,10 +419,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-26T18:40:11.686Z",
+      "lastUpdated": "2026-10-27T05:01:09.251Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -503,6 +511,54 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_e0b9f52c07",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok playbook outlines the value of its high-end ad options",
+          "url": "https://www.socialmediatoday.com/news/tiktok-playbook-outlines-the-value-of-its-high-end-ad-options/872827/",
+          "postedAt": "2026-10-26T22:26:07.000Z"
+        },
+        {
+          "id": "om_41bd296bbf",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Pinterest introduces new programmatic buying partnership",
+          "url": "https://www.socialmediatoday.com/news/pinterest-introduces-new-programmatic-buying-partnership/872826/",
+          "postedAt": "2026-10-26T22:23:24.000Z"
+        },
+        {
+          "id": "om_6c43de2ba5",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+          "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+          "postedAt": "2026-10-26T22:00:00.000Z"
+        },
+        {
+          "id": "om_38114840e7",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Dollar General sued by FTC over ‘deceptive pricing practices’",
+          "url": "https://www.retaildive.com/news/dollar-general-sued-ftc-alleged-deceptive-pricing/872790/",
+          "postedAt": "2026-10-26T20:36:00.000Z"
+        },
+        {
+          "id": "om_b4e5482500",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Banana Republic debuts TikTok content series in bid for younger shoppers",
+          "url": "https://www.retaildive.com/news/banana-republic-debuts-tiktok-content-series-in-bid-for-younger-shoppers/833851/",
+          "postedAt": "2026-10-26T19:58:00.000Z"
+        },
+        {
+          "id": "om_2afb9d3ffb",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Coworking with Jonathan Ouellette",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-jonathan-ouellette?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-26T18:40:59.000Z"
+        },
         {
           "id": "om_3676c5b47e",
           "source": "The Verge",
@@ -614,58 +670,10 @@
           "title": "Walmart CMO breaks down retailer’s Muppet-fueled holiday campaign",
           "url": "https://www.marketingdive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/833778/",
           "postedAt": "2026-10-26T10:00:00.000Z"
-        },
-        {
-          "id": "om_3059c84bc1",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "The new rules of virtual event strategy in 2026",
-          "url": "https://www.marketingdive.com/spons/the-new-rules-of-virtual-event-strategy-in-2026/833550/",
-          "postedAt": "2026-10-26T09:00:00.000Z"
-        },
-        {
-          "id": "om_36c58598f6",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Agentic commerce: The infrastructure is ready for AI agents. Is your store?",
-          "url": "https://www.retaildive.com/spons/agentic-commerce-the-infrastructure-is-ready-for-ai-agents-is-your-store/833313/",
-          "postedAt": "2026-10-26T09:00:00.000Z"
-        },
-        {
-          "id": "om_049bcf059d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Keeping pace with Walmart Marketplace: the work behind Base.com’s Innovation Award",
-          "url": "https://www.retaildive.com/spons/keeping-pace-with-walmart-marketplace-the-work-behind-basecoms-innovatio/833294/",
-          "postedAt": "2026-10-26T09:00:00.000Z"
-        },
-        {
-          "id": "om_2b078a1179",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The most expensive problems are the ones you’ve learned to live with",
-          "url": "https://www.retaildive.com/spons/the-most-expensive-problems-are-the-ones-youve-learned-to-live-with/833681/",
-          "postedAt": "2026-10-26T09:00:00.000Z"
-        },
-        {
-          "id": "om_b3f9f247c7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Agents and Creators: Ndidi Oteh’s Growth Plan for Accenture Song",
-          "url": "https://www.adweek.com/agencies/agents-and-creators-ndidi-otehs-growth-plan-for-accenture-song/",
-          "postedAt": "2026-10-26T06:00:00.000Z"
-        },
-        {
-          "id": "om_fdd48804e0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Strava’s CMO Is Winning Over Walkers Without Losing Hardcore Runners",
-          "url": "https://www.adweek.com/brand-marketing/how-stravas-cmo-is-winning-over-walkers-without-losing-hardcore-runners/",
-          "postedAt": "2026-10-26T06:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-26T18:40:13.368Z",
+      "lastUpdated": "2026-10-27T05:01:10.321Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
