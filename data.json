@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-27T17:59:10.407Z",
+      "lastUpdated": "2026-10-28T05:39:32.720Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-27T17:59:10.918Z",
+      "lastUpdated": "2026-10-28T05:39:33.818Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,22 @@
       },
       "articles": [
         {
+          "id": "om_8836a34175",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How New York Road Runners is promoting the NYC Marathon",
+          "url": "https://www.marketingbrew.com/stories/new-york-road-runners-nyc-marathon-marketing-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-27T19:25:37.000Z"
+        },
+        {
+          "id": "om_b4d866e28f",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "YouTube tests reduced payment threshold for creators",
+          "url": "https://www.socialmediatoday.com/news/youtube-tests-reduced-payment-threshold-for-creators/872965/",
+          "postedAt": "2026-10-27T19:19:41.000Z"
+        },
+        {
           "id": "om_52a0bf1f8b",
           "source": "Retail Dive",
           "lang": "en",
@@ -528,6 +544,30 @@
           "postedAt": "2026-10-27T15:41:00.000Z"
         },
         {
+          "id": "om_a9519df087",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Brandweek 2026: Democratized Marketing Won’t Differentiate Your Brand. ft. Cheryl Guerin of Mastercard",
+          "url": "https://www.adweek.com/brand-marketing/brandweek-2026-democratized-marketing-wont-differentiate-your-brand-ft-cheryl-guerin-of-mastercard/",
+          "postedAt": "2026-10-27T15:11:51.000Z"
+        },
+        {
+          "id": "om_ffdb32cc16",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Beyond Going Viral: How Global Fashion Marketing Leaders Create Brands People Care About",
+          "url": "https://www.adweek.com/brand-marketing/beyond-going-viral-how-global-fashion-marketing-leaders-create-brands-people-care-about/",
+          "postedAt": "2026-10-27T15:02:04.000Z"
+        },
+        {
+          "id": "om_07f9a437f7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Consumers Hold the Mic: Fanta Gives Them Something to Talk About",
+          "url": "https://www.adweek.com/brand-marketing/consumers-hold-the-mic-fanta-gives-them-something-to-talk-about/",
+          "postedAt": "2026-10-27T14:45:10.000Z"
+        },
+        {
           "id": "om_d519e9f599",
           "source": "Retail Dive",
           "lang": "en",
@@ -539,9 +579,17 @@
           "id": "om_21f5a48c60",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Patrón embraces Día de Muertos for one-night only comedy show",
+          "title": "Patrón embraces Día de Muertos for one-night-only comedy show",
           "url": "https://www.marketingdive.com/news/patron-embraces-dia-de-muertos-for-one-night-only-comedy-show/872814/",
           "postedAt": "2026-10-27T14:25:00.000Z"
+        },
+        {
+          "id": "om_1010d58e44",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why MLB invited hundreds of influencers to postseason games",
+          "url": "https://www.marketingbrew.com/stories/mlb-world-series-influencer-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-27T14:01:21.000Z"
         },
         {
           "id": "om_6c930674e3",
@@ -616,64 +664,16 @@
           "postedAt": "2026-10-26T22:26:07.000Z"
         },
         {
-          "id": "om_6c43de2ba5",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-          "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-          "postedAt": "2026-10-26T22:00:00.000Z"
-        },
-        {
           "id": "om_38114840e7",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Dollar General sued by FTC over ‘deceptive pricing practices’",
           "url": "https://www.retaildive.com/news/dollar-general-sued-ftc-alleged-deceptive-pricing/872790/",
           "postedAt": "2026-10-26T20:36:00.000Z"
-        },
-        {
-          "id": "om_b4e5482500",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Banana Republic debuts TikTok content series in bid for younger shoppers",
-          "url": "https://www.retaildive.com/news/banana-republic-debuts-tiktok-content-series-in-bid-for-younger-shoppers/833851/",
-          "postedAt": "2026-10-26T19:58:00.000Z"
-        },
-        {
-          "id": "om_2afb9d3ffb",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Coworking with Jonathan Ouellette",
-          "url": "https://www.marketingbrew.com/stories/coworking-with-jonathan-ouellette?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-26T18:40:59.000Z"
-        },
-        {
-          "id": "om_ec8c6c9ed9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "CVS wants to sell more Pokémon, collectibles",
-          "url": "https://www.retaildive.com/news/cvs-pokemon-collectibles-beauty-seasonal/872755/",
-          "postedAt": "2026-10-26T16:22:00.000Z"
-        },
-        {
-          "id": "om_23222132a5",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target spruces up SoHo store, fan shops ahead of the holidays",
-          "url": "https://www.retaildive.com/news/target-soho-store-renovation-fan-shop-remodels-holidays/833925/",
-          "postedAt": "2026-10-26T16:13:00.000Z"
-        },
-        {
-          "id": "om_198ef53a11",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why BelliWelli’s co-founder and CEO is filming skits in Walmart at night",
-          "url": "https://www.marketingbrew.com/stories/why-belliwellis-co-founder-and-ceo-is-filming-skits-in-walmart-at-night?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-26T15:52:22.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-27T17:59:11.890Z",
+      "lastUpdated": "2026-10-28T05:39:35.249Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
