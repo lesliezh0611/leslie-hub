@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-28T05:39:32.720Z",
+      "lastUpdated": "2026-10-28T18:20:11.202Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_f41fca18f2",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
+          "url": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
+          "postedAt": "2026-10-28T12:04:22.000Z"
+        },
         {
           "id": "en_pod_lex_fridman_podcast_a6e502b64e",
           "source": "Lex Fridman Podcast",
@@ -355,14 +363,6 @@
           "postedAt": "2026-10-17T13:53:57.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_a23eabea07",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design",
-          "url": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
-          "postedAt": "2026-10-14T12:04:05.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_44544cabe5",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-28T05:39:33.818Z",
+      "lastUpdated": "2026-10-28T18:20:12.175Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,142 @@
       },
       "articles": [
         {
+          "id": "om_491dc0187e",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Instagram doesn’t have a plan to pay long-form video creators",
+          "url": "https://www.theverge.com/tech/1020806/instagram-long-form-video-creator-monetization",
+          "postedAt": "2026-10-28T17:10:46.000Z"
+        },
+        {
+          "id": "om_847d9a5cb0",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Sephora casts Seth Rogen for holiday ads targeted at gift-givers",
+          "url": "https://www.retaildive.com/news/sephora-casts-seth-rogen-holiday-ads/873013/",
+          "postedAt": "2026-10-28T16:58:00.000Z"
+        },
+        {
+          "id": "om_ef9e071de7",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Urban Outfitters finds the right campus fit with college marketing",
+          "url": "https://www.marketingdive.com/news/how-urban-outfitters-finds-the-right-campus-fit-with-college-marketing/873007/",
+          "postedAt": "2026-10-28T16:47:00.000Z"
+        },
+        {
+          "id": "om_a2ce2ec053",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Could this running brand rescue Vans owner VF Corp?",
+          "url": "https://www.retaildive.com/news/running-brand-rescue-vans-vf-corp-altra/873014/",
+          "postedAt": "2026-10-28T16:13:00.000Z"
+        },
+        {
+          "id": "om_dba812e21c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Jos. A. Bank puts customer experience at the center of new store concept",
+          "url": "https://www.retaildive.com/news/jos-a-bank-new-store-concept/872882/",
+          "postedAt": "2026-10-28T15:56:00.000Z"
+        },
+        {
+          "id": "om_7bfa77059a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Etsy CEO addresses friction of AI vs. human creativity",
+          "url": "https://www.retaildive.com/news/etsy-ceo-ai-human-creativity-earnings/873009/",
+          "postedAt": "2026-10-28T15:41:00.000Z"
+        },
+        {
+          "id": "om_bc82ba92a1",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
+          "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+          "postedAt": "2026-10-28T14:26:36.000Z"
+        },
+        {
+          "id": "om_fe14bbf585",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Liquid I.V. enlists former Poppi CMO to drive cultural impact",
+          "url": "https://www.marketingdive.com/news/liquid-iv-enlists-former-poppi-cmo-to-drive-cultural-impact/873001/",
+          "postedAt": "2026-10-28T14:12:00.000Z"
+        },
+        {
+          "id": "om_3df12f858c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "What influencer fatigue says about creator-driven marketing’s next phase",
+          "url": "https://www.marketingdive.com/news/what-influencer-fatigue-says-about-creator-driven-marketings-next-phase/833864/",
+          "postedAt": "2026-10-28T13:39:00.000Z"
+        },
+        {
+          "id": "om_41f01989c2",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "P.F. Chang’s CMO is cooking up a plan to recapture chain’s old magic",
+          "url": "https://www.marketingdive.com/news/pf-changs-cmo-is-cooking-up-a-plan-to-recapture-chains-old-magic/872879/",
+          "postedAt": "2026-10-28T13:18:00.000Z"
+        },
+        {
+          "id": "om_462980fe94",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "LA28 drops first ad, new slogan for 2028 Olympics",
+          "url": "https://www.marketingbrew.com/stories/la28-ad-slogan-2028-olympics?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-28T12:00:00.000Z"
+        },
+        {
+          "id": "om_c301c4033a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sephora casts Seth Rogen for holiday ads targeted at gift-givers",
+          "url": "https://www.marketingdive.com/news/sephora-casts-seth-rogen-for-holiday-ads-targeted-at-gift-givers/872877/",
+          "postedAt": "2026-10-28T11:54:00.000Z"
+        },
+        {
+          "id": "om_74482ad44f",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Ahead of the NYC Marathon, run-club sponsorships are picking up speed",
+          "url": "https://www.marketingbrew.com/stories/nyc-marathon-run-club-sponsorships-influencers?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-28T10:00:00.000Z"
+        },
+        {
+          "id": "om_394bdc0a88",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ShopMy Taps Ex-Trade Desk Vet Jed Dederick as CRO to Scale Creator Commerce",
+          "url": "https://www.adweek.com/programmatic/shopmy-taps-ex-trade-desk-vet-jed-dederick-as-cro-to-scale-creator-commerce/",
+          "postedAt": "2026-10-28T09:19:07.000Z"
+        },
+        {
+          "id": "om_886f5806f4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "7-Eleven Bets on Korean Food and Drama with a Spicy New Social Miniseries",
+          "url": "https://www.adweek.com/brand-marketing/7-eleven-bets-on-korean-food-and-drama-with-a-spicy-new-social-miniseries/",
+          "postedAt": "2026-10-28T09:00:00.000Z"
+        },
+        {
+          "id": "om_dd4f644b9e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "LA28 Reveals Star-Powered Slogan Set to Shine Across Olympics Marketing",
+          "url": "https://www.adweek.com/convergent-tv/la28-reveals-star-powered-slogan-set-to-shine-across-olympics-marketing/",
+          "postedAt": "2026-10-28T08:00:00.000Z"
+        },
+        {
+          "id": "om_5a9e8274fe",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Fanta’s Long Game for Halloween Starts With Creators and Original Characters",
+          "url": "https://www.adweek.com/brand-marketing/fantas-long-game-for-halloween-starts-with-creators-and-original-characters/",
+          "postedAt": "2026-10-28T06:00:00.000Z"
+        },
+        {
           "id": "om_8836a34175",
           "source": "Marketing Brew",
           "lang": "en",
@@ -534,146 +670,10 @@
           "title": "Target overhauls Threshold home goods brand",
           "url": "https://www.retaildive.com/news/target-overhauls-threshold-home-goods-brand/872851/",
           "postedAt": "2026-10-27T15:43:00.000Z"
-        },
-        {
-          "id": "om_5b4ae779b6",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "These 3 department stores need a good holiday",
-          "url": "https://www.retaildive.com/news/these-department-stores-need-a-good-holiday-kohls-penney-saks/833912/",
-          "postedAt": "2026-10-27T15:41:00.000Z"
-        },
-        {
-          "id": "om_a9519df087",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Brandweek 2026: Democratized Marketing Won’t Differentiate Your Brand. ft. Cheryl Guerin of Mastercard",
-          "url": "https://www.adweek.com/brand-marketing/brandweek-2026-democratized-marketing-wont-differentiate-your-brand-ft-cheryl-guerin-of-mastercard/",
-          "postedAt": "2026-10-27T15:11:51.000Z"
-        },
-        {
-          "id": "om_ffdb32cc16",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Beyond Going Viral: How Global Fashion Marketing Leaders Create Brands People Care About",
-          "url": "https://www.adweek.com/brand-marketing/beyond-going-viral-how-global-fashion-marketing-leaders-create-brands-people-care-about/",
-          "postedAt": "2026-10-27T15:02:04.000Z"
-        },
-        {
-          "id": "om_07f9a437f7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Consumers Hold the Mic: Fanta Gives Them Something to Talk About",
-          "url": "https://www.adweek.com/brand-marketing/consumers-hold-the-mic-fanta-gives-them-something-to-talk-about/",
-          "postedAt": "2026-10-27T14:45:10.000Z"
-        },
-        {
-          "id": "om_d519e9f599",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart’s chief marketer breaks down retailer’s Muppet-fueled holiday campaign",
-          "url": "https://www.retaildive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/872773/",
-          "postedAt": "2026-10-27T14:26:00.000Z"
-        },
-        {
-          "id": "om_21f5a48c60",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Patrón embraces Día de Muertos for one-night-only comedy show",
-          "url": "https://www.marketingdive.com/news/patron-embraces-dia-de-muertos-for-one-night-only-comedy-show/872814/",
-          "postedAt": "2026-10-27T14:25:00.000Z"
-        },
-        {
-          "id": "om_1010d58e44",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why MLB invited hundreds of influencers to postseason games",
-          "url": "https://www.marketingbrew.com/stories/mlb-world-series-influencer-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-27T14:01:21.000Z"
-        },
-        {
-          "id": "om_6c930674e3",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Japan internet giant GMO says hackers posted stolen customer data",
-          "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-          "postedAt": "2026-10-27T13:32:57.000Z"
-        },
-        {
-          "id": "om_307e94bb48",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "What McDonald’s dropping its FIFA sponsorship means for sports marketing",
-          "url": "https://www.marketingdive.com/news/what-mcdonalds-dropping-its-fifa-sponsorship-means-for-sports-marketing/872775/",
-          "postedAt": "2026-10-27T13:15:00.000Z"
-        },
-        {
-          "id": "om_2856311b60",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How Knix brought A Court of Thorns and Roses to life for an audience of ‘enthralled’ fans",
-          "url": "https://www.marketingbrew.com/stories/knix-acotar-partnership-fandom-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-27T13:12:14.000Z"
-        },
-        {
-          "id": "om_cc373051dc",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Half of Shoppers Plan to Buy Gifts Like Meals or Event Tickets, Deloitte Finds",
-          "url": "https://www.adweek.com/commerce/half-of-shoppers-plan-to-buy-gifts-like-meals-or-event-tickets-deloitte-finds/",
-          "postedAt": "2026-10-27T11:49:47.000Z"
-        },
-        {
-          "id": "om_7401fa1c5e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Liquid I.V. Taps Former Poppi Exec Jenny Danzi as CMO",
-          "url": "https://www.adweek.com/brand-marketing/liquid-iv-taps-former-poppi-exec-jenny-danzi-as-cmo/",
-          "postedAt": "2026-10-27T11:07:33.000Z"
-        },
-        {
-          "id": "om_8923f51bcf",
-          "source": "Wired",
-          "lang": "en",
-          "title": "AI Agents Are Media’s New Favorite Audience",
-          "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
-          "postedAt": "2026-10-27T11:00:00.000Z"
-        },
-        {
-          "id": "om_287c083fac",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "5 of the biggest retail horror stories of 2026",
-          "url": "https://www.retaildive.com/news/retail-horror-stories-nike-turnaround-lululemon-chip-wilson-2026/833866/",
-          "postedAt": "2026-10-27T11:00:00.000Z"
-        },
-        {
-          "id": "om_c4ce98955a",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Jay-Z Will Finally Headline Super Bowl 61 Halftime Show After Years Behind the Scenes",
-          "url": "https://www.adweek.com/brand-marketing/jay-z-will-finally-headline-super-bowl-61-halftime-show-after-years-behind-the-scenes/",
-          "postedAt": "2026-10-27T06:03:13.000Z"
-        },
-        {
-          "id": "om_e0b9f52c07",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok playbook outlines the value of its high-end ad options",
-          "url": "https://www.socialmediatoday.com/news/tiktok-playbook-outlines-the-value-of-its-high-end-ad-options/872827/",
-          "postedAt": "2026-10-26T22:26:07.000Z"
-        },
-        {
-          "id": "om_38114840e7",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Dollar General sued by FTC over ‘deceptive pricing practices’",
-          "url": "https://www.retaildive.com/news/dollar-general-sued-ftc-alleged-deceptive-pricing/872790/",
-          "postedAt": "2026-10-26T20:36:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-28T05:39:35.249Z",
+      "lastUpdated": "2026-10-28T18:20:13.510Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
