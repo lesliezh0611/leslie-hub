@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-29T05:45:09.845Z",
+      "lastUpdated": "2026-10-29T18:26:52.412Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_the_knowledge_project_88f6158806",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "[Outliers] K.C. Irving: How to Build an Empire on Your Own Terms",
+          "url": "https://fs.blog/knowledge-project-podcast/outliers-kc-irving/",
+          "postedAt": "2026-10-29T09:50:00.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_f41fca18f2",
           "source": "Lenny's Podcast",
@@ -361,14 +369,6 @@
           "topic": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more",
           "url": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
           "postedAt": "2026-10-17T13:53:57.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_44544cabe5",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "Ryan Serhant: How to Get People to Say Yes",
-          "url": "https://fs.blog/knowledge-project-podcast/ryan-serhant/",
-          "postedAt": "2026-10-08T09:55:00.000Z"
         }
       ],
       "books": [
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-29T05:45:10.847Z",
+      "lastUpdated": "2026-10-29T18:26:53.659Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,168 +512,168 @@
       },
       "articles": [
         {
-          "id": "om_3905ca1fc7",
-          "source": "The Verge",
+          "id": "om_2f5986a618",
+          "source": "Retail Dive",
           "lang": "en",
-          "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
-          "url": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
-          "postedAt": "2026-10-28T22:47:29.000Z"
+          "title": "Fanatics revamps outfit curation tool with OpenAI",
+          "url": "https://www.retaildive.com/news/fanatics-openai-outfit-curation-tool/873180/",
+          "postedAt": "2026-10-29T16:58:00.000Z"
         },
         {
-          "id": "om_f348c6db37",
+          "id": "om_5f401e00e7",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Most consumers aren’t using AI for product discovery, yet",
+          "url": "https://www.retaildive.com/news/most-consumers-arent-using-ai-for-product-discovery-yet/833604/",
+          "postedAt": "2026-10-29T16:32:00.000Z"
+        },
+        {
+          "id": "om_a778492580",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Heydude wants to sell more in North America, but is unlikely to open new stores",
+          "url": "https://www.retaildive.com/news/heydude-north-america-wholesale-crocs-q3/873169/",
+          "postedAt": "2026-10-29T16:13:00.000Z"
+        },
+        {
+          "id": "om_7d3f8fd260",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Warner Bros. chases ‘Cat in the Hat’ across Amazon’s ad ecosystem",
+          "url": "https://www.marketingdive.com/news/warner-bros-chases-cat-in-the-hat-across-amazons-ad-ecosystem/873092/",
+          "postedAt": "2026-10-29T16:00:00.000Z"
+        },
+        {
+          "id": "om_3b66e62f5f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "DoorDash to buy Instacart for $17B",
+          "url": "https://www.retaildive.com/news/doordash-buys-instacart-delivery-seventeen-billion/873151/",
+          "postedAt": "2026-10-29T15:51:00.000Z"
+        },
+        {
+          "id": "om_2c0ce3dde7",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Backroom: Dynamic pricing and the anxious consumer",
+          "url": "https://www.retaildive.com/news/podcast-the-backroom-dynamic-pricing-walmart-consumer-sentiment-holidays/873172/",
+          "postedAt": "2026-10-29T15:46:00.000Z"
+        },
+        {
+          "id": "om_7ddcaa395e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Consumer confidence edges up on decline in gas prices: Conference Board",
+          "url": "https://www.retaildive.com/news/consumer-confidence-edges-up-decline-gas-prices-conference-board-inflation-fed-federal-reserve-warsh/873161/",
+          "postedAt": "2026-10-29T15:35:00.000Z"
+        },
+        {
+          "id": "om_eb76177b36",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: Meta says its expanded processing capacity is driving ad results",
+          "url": "https://www.marketingdive.com/news/sociable-meta-says-its-expanded-processing-capacity-is-driving-ad-results/873191/",
+          "postedAt": "2026-10-29T15:22:00.000Z"
+        },
+        {
+          "id": "om_008e65656f",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "What Nike’s Jordan pullback means for Foot Locker",
+          "url": "https://www.retaildive.com/news/nike-jordan-retro-pullback-foot-locker-impact/873154/",
+          "postedAt": "2026-10-29T15:10:00.000Z"
+        },
+        {
+          "id": "om_902417dde2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Gap Inc. launches AI hiring tool in time for the holidays",
+          "url": "https://www.retaildive.com/news/gap-ai-hiring-tool-bridgette/872884/",
+          "postedAt": "2026-10-29T14:32:00.000Z"
+        },
+        {
+          "id": "om_4a5a4b9f7e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Google’s AI overhaul of search hits snags as ad revenue growth cools",
+          "url": "https://www.marketingdive.com/news/googles-ai-overhaul-of-search-hits-snags-as-ad-revenue-growth-cools/873150/",
+          "postedAt": "2026-10-29T14:28:00.000Z"
+        },
+        {
+          "id": "om_fd92a52966",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "Google expands AI Search ads globally as core ad growth slows",
-          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-          "postedAt": "2026-10-28T21:48:37.000Z"
+          "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+          "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+          "postedAt": "2026-10-29T13:00:00.000Z"
         },
         {
-          "id": "om_5e449a88c4",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok adds in-app restaurant guide",
-          "url": "https://www.socialmediatoday.com/news/tiktok-adds-in-app-restaurant-guide/873122/",
-          "postedAt": "2026-10-28T20:54:12.000Z"
-        },
-        {
-          "id": "om_3ee32a120f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Google Stock Sinks as AI Mode Pressures Search Ad Growth",
-          "url": "https://www.adweek.com/media/google-stock-sinks-as-ai-mode-pressures-search-ad-growth/",
-          "postedAt": "2026-10-28T19:36:14.000Z"
-        },
-        {
-          "id": "om_c4920e30c5",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "The horror movie marketing hall of fame",
-          "url": "https://www.marketingbrew.com/stories/horror-movie-marketing-that-worked?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-28T19:07:21.000Z"
-        },
-        {
-          "id": "om_bd8d6b3e20",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Baby oil and sound waves: How Apple Music created its new brand mark",
-          "url": "https://www.marketingbrew.com/stories/apple-music-brand-mark-behind-the-scenes?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-28T18:28:33.000Z"
-        },
-        {
-          "id": "om_7d5cccfe93",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "3 Mistakes Healthcare Brands Make When Marketing to Women",
-          "url": "https://www.adweek.com/brand-marketing/3-mistakes-healthcare-brands-make-when-marketing-to-women/",
-          "postedAt": "2026-10-28T16:58:24.000Z"
-        },
-        {
-          "id": "om_ef9e071de7",
+          "id": "om_0b1056a07f",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "How Urban Outfitters finds the right campus fit with college marketing",
-          "url": "https://www.marketingdive.com/news/how-urban-outfitters-finds-the-right-campus-fit-with-college-marketing/873007/",
-          "postedAt": "2026-10-28T16:47:00.000Z"
+          "title": "Disney plans TikTok Shop holiday experience with over 20 brands",
+          "url": "https://www.marketingdive.com/news/disney-plans-tiktok-shop-holiday-experience-with-over-20-brands/873072/",
+          "postedAt": "2026-10-29T13:00:00.000Z"
         },
         {
-          "id": "om_7e84635ef7",
+          "id": "om_0e024cd372",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "What marketers should know about the legal risks of algorithmic pricing",
+          "url": "https://www.marketingdive.com/news/what-marketers-should-know-about-the-legal-risks-of-algorithmic-pricing/832963/",
+          "postedAt": "2026-10-29T12:00:00.000Z"
+        },
+        {
+          "id": "om_da3d0ba06b",
           "source": "Adweek",
           "lang": "en",
-          "title": "Comcast Advertising Reveals Insights Amid Record-Breaking Midterm Political Ad Spend",
-          "url": "https://www.adweek.com/convergent-tv/comcast-advertising-reveals-insights-from-record-breaking-midterm-political-ad-spend/",
-          "postedAt": "2026-10-28T15:36:08.000Z"
+          "title": "Avoiding The Ick Factor: Anthony Po and Lauren Probyn Aouad on Getting Authenticity Right",
+          "url": "https://www.adweek.com/brand-marketing/avoiding-the-ick-factor-anthony-po-and-lauren-probyn-aouad-on-getting-authenticity-right/",
+          "postedAt": "2026-10-29T11:46:52.000Z"
         },
         {
-          "id": "om_c735ae423e",
+          "id": "om_9242d1a81b",
           "source": "Adweek",
           "lang": "en",
-          "title": "Consumers Aren’t Ready to Let AI Do Their Holiday Shopping Yet",
-          "url": "https://www.adweek.com/commerce/consumers-arent-ready-to-let-ai-do-their-holiday-shopping-yet/",
-          "postedAt": "2026-10-28T15:19:02.000Z"
+          "title": "The Sydney Sweeney Effect Can Fade Fast for Brands, Data Suggests",
+          "url": "https://www.adweek.com/brand-marketing/the-sydney-sweeney-effect-can-fade-fast-for-brands-data-suggests/",
+          "postedAt": "2026-10-29T11:42:39.000Z"
         },
         {
-          "id": "om_bc82ba92a1",
-          "source": "TechCrunch",
+          "id": "om_f906048742",
+          "source": "Adweek",
           "lang": "en",
-          "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
-          "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
-          "postedAt": "2026-10-28T14:26:36.000Z"
+          "title": "Walmart+ Launches in Mexico at Half the U.S. Price",
+          "url": "https://www.adweek.com/commerce/walmart-launches-in-mexico-at-half-the-us-price/",
+          "postedAt": "2026-10-29T10:26:58.000Z"
         },
         {
-          "id": "om_fe14bbf585",
-          "source": "Marketing Dive",
+          "id": "om_2f0696fde7",
+          "source": "Adweek",
           "lang": "en",
-          "title": "Liquid I.V. enlists former Poppi CMO to drive cultural impact",
-          "url": "https://www.marketingdive.com/news/liquid-iv-enlists-former-poppi-cmo-to-drive-cultural-impact/873001/",
-          "postedAt": "2026-10-28T14:12:00.000Z"
+          "title": "How K-Beauty Made Skincare the Language of Beauty Marketing",
+          "url": "https://www.adweek.com/brand-marketing/how-k-beauty-made-skincare-the-language-of-beauty-marketing/",
+          "postedAt": "2026-10-29T10:00:00.000Z"
         },
         {
-          "id": "om_3df12f858c",
-          "source": "Marketing Dive",
+          "id": "om_07019e224e",
+          "source": "Adweek",
           "lang": "en",
-          "title": "What influencer fatigue says about creator-driven marketing’s next phase",
-          "url": "https://www.marketingdive.com/news/what-influencer-fatigue-says-about-creator-driven-marketings-next-phase/833864/",
-          "postedAt": "2026-10-28T13:39:00.000Z"
+          "title": "Walmart Opens Shopper Audiences to Advertisers on Its CTV Platform, Vibe",
+          "url": "https://www.adweek.com/media/months-after-buying-vibe-walmart-opens-shopper-audiences-to-ctv-advertisers/",
+          "postedAt": "2026-10-29T10:00:00.000Z"
         },
         {
-          "id": "om_41f01989c2",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "P.F. Chang’s CMO is cooking up a plan to recapture chain’s old magic",
-          "url": "https://www.marketingdive.com/news/pf-changs-cmo-is-cooking-up-a-plan-to-recapture-chains-old-magic/872879/",
-          "postedAt": "2026-10-28T13:18:00.000Z"
-        },
-        {
-          "id": "om_462980fe94",
+          "id": "om_4b51956795",
           "source": "Marketing Brew",
           "lang": "en",
-          "title": "LA28 drops first ad, new slogan for 2028 Olympics",
-          "url": "https://www.marketingbrew.com/stories/la28-ad-slogan-2028-olympics?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-28T12:00:00.000Z"
-        },
-        {
-          "id": "om_c301c4033a",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sephora casts Seth Rogen for holiday ads targeted at gift-givers",
-          "url": "https://www.marketingdive.com/news/sephora-casts-seth-rogen-for-holiday-ads-targeted-at-gift-givers/872877/",
-          "postedAt": "2026-10-28T11:54:00.000Z"
-        },
-        {
-          "id": "om_74482ad44f",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Ahead of the NYC Marathon, run-club sponsorships are picking up speed",
-          "url": "https://www.marketingbrew.com/stories/nyc-marathon-run-club-sponsorships-influencers?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-28T10:00:00.000Z"
-        },
-        {
-          "id": "om_394bdc0a88",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ShopMy Taps Ex-Trade Desk Vet Jed Dederick as CRO to Scale Creator Commerce",
-          "url": "https://www.adweek.com/programmatic/shopmy-taps-ex-trade-desk-vet-jed-dederick-as-cro-to-scale-creator-commerce/",
-          "postedAt": "2026-10-28T09:19:07.000Z"
-        },
-        {
-          "id": "om_886f5806f4",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "7-Eleven Bets on Korean Food and Drama with a Spicy New Social Miniseries",
-          "url": "https://www.adweek.com/brand-marketing/7-eleven-bets-on-korean-food-and-drama-with-a-spicy-new-social-miniseries/",
-          "postedAt": "2026-10-28T09:00:00.000Z"
-        },
-        {
-          "id": "om_8836a34175",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How New York Road Runners is promoting the NYC Marathon",
-          "url": "https://www.marketingbrew.com/stories/new-york-road-runners-nyc-marathon-marketing-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-27T19:25:37.000Z"
+          "title": "How ‘Paranormal Activity’ on Broadway modernized its film franchise’s marketing playbook",
+          "url": "https://www.marketingbrew.com/stories/paranormal-activity-broadway-marketing-playbook-ugc-audience-reactions?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-29T10:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-29T05:45:14.979Z",
+      "lastUpdated": "2026-10-29T18:26:55.343Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
