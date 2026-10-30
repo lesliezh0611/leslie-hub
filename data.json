@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-30T05:45:19.217Z",
+      "lastUpdated": "2026-10-30T17:59:24.217Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_the_knowledge_project_88f6158806",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "[Outliers] K.C. Irving: How to Build an Empire on Your Own Terms",
+          "url": "https://fs.blog/knowledge-project-podcast/outliers-kc-irving/",
+          "postedAt": "2026-10-29T09:50:00.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_f41fca18f2",
           "source": "Lenny's Podcast",
@@ -411,10 +419,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-30T05:45:20.331Z",
+      "lastUpdated": "2026-10-30T17:59:25.198Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "12 fresh updates from the last 21 days"
+      "freshCountLabel": "13 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -504,6 +512,70 @@
       },
       "articles": [
         {
+          "id": "om_f115b21d26",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon CEO says retail business is being slept on",
+          "url": "https://www.retaildive.com/news/amazon-ceo-retail-business-important-q3-earnings/873316/",
+          "postedAt": "2026-10-30T16:05:00.000Z"
+        },
+        {
+          "id": "om_216455dafb",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: Roots CEO exits, the FTC zeroes in on price",
+          "url": "https://www.retaildive.com/news/roots-ceo-exits-ftc-retailers-prices-brooks-earnings/873246/",
+          "postedAt": "2026-10-30T15:56:00.000Z"
+        },
+        {
+          "id": "om_4e3e09cc04",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Amazon’s ad revenue growth decelerates due to Prime Day tweaks",
+          "url": "https://www.marketingdive.com/news/amazons-ad-revenue-growth-decelerates-due-to-prime-day-tweaks/873302/",
+          "postedAt": "2026-10-30T14:15:10.000Z"
+        },
+        {
+          "id": "om_10223114f2",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "The changing CMO role in 3 numbers",
+          "url": "https://www.marketingdive.com/news/the-changing-cmo-role-in-3-numbers/873219/",
+          "postedAt": "2026-10-30T13:44:00.000Z"
+        },
+        {
+          "id": "om_69e7b1d6be",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "From Pontiac to Paramount, Patrick Stewart Lent His Star Power to Brands",
+          "url": "https://www.adweek.com/creativity/from-pontiac-to-paramount-patrick-stewart-lent-his-star-to-brands/",
+          "postedAt": "2026-10-30T13:36:03.000Z"
+        },
+        {
+          "id": "om_1a8bb9ae35",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Cheesecake Factory Is the Real Winner in Obama-Trump Food Fight",
+          "url": "https://www.adweek.com/brand-marketing/the-cheesecake-factory-is-the-real-winner-in-obama-trump-food-fight/",
+          "postedAt": "2026-10-30T11:03:06.000Z"
+        },
+        {
+          "id": "om_2743c20179",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How Japanese mayo brand Kewpie is making inroads stateside",
+          "url": "https://www.marketingbrew.com/stories/japanese-mayo-brand-kewpie-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-10-30T09:00:00.000Z"
+        },
+        {
+          "id": "om_98aea53547",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 9 Campaigns That Caught Our Eye, From Walmart to Sephora",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-9-campaigns-that-caught-our-eye-from-walmart-to-sephora/",
+          "postedAt": "2026-10-30T06:00:00.000Z"
+        },
+        {
           "id": "om_0c5fbb871d",
           "source": "Social Media Today",
           "lang": "en",
@@ -584,14 +656,6 @@
           "postedAt": "2026-10-29T15:46:00.000Z"
         },
         {
-          "id": "om_7ddcaa395e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Consumer confidence edges up on decline in gas prices: Conference Board",
-          "url": "https://www.retaildive.com/news/consumer-confidence-edges-up-decline-gas-prices-conference-board-inflation-fed-federal-reserve-warsh/873161/",
-          "postedAt": "2026-10-29T15:35:00.000Z"
-        },
-        {
           "id": "om_eb76177b36",
           "source": "Marketing Dive",
           "lang": "en",
@@ -600,72 +664,16 @@
           "postedAt": "2026-10-29T15:22:00.000Z"
         },
         {
-          "id": "om_008e65656f",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "What Nike’s Jordan pullback means for Foot Locker",
-          "url": "https://www.retaildive.com/news/nike-jordan-retro-pullback-foot-locker-impact/873154/",
-          "postedAt": "2026-10-29T15:10:00.000Z"
-        },
-        {
           "id": "om_af1eb1bd3d",
           "source": "Adweek",
           "lang": "en",
           "title": "The Four Down and Dirtiest Political Ads of the 2026 Midterms",
           "url": "https://www.adweek.com/brand-marketing/the-four-down-and-dirtiest-political-ads-of-the-2026-midterms/",
           "postedAt": "2026-10-29T14:44:52.000Z"
-        },
-        {
-          "id": "om_902417dde2",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Gap Inc. launches AI hiring tool in time for the holidays",
-          "url": "https://www.retaildive.com/news/gap-ai-hiring-tool-bridgette/872884/",
-          "postedAt": "2026-10-29T14:32:00.000Z"
-        },
-        {
-          "id": "om_4a5a4b9f7e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Google’s AI overhaul of search hits snags as ad revenue growth cools",
-          "url": "https://www.marketingdive.com/news/googles-ai-overhaul-of-search-hits-snags-as-ad-revenue-growth-cools/873150/",
-          "postedAt": "2026-10-29T14:28:00.000Z"
-        },
-        {
-          "id": "om_4e345676b9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Your Marketing Playbook Expired Last Week ft. Erin Oles of Salesforce",
-          "url": "https://www.adweek.com/brand-marketing/your-marketing-playbook-expired-last-week-ft-erin-oles-of-salesforce/",
-          "postedAt": "2026-10-29T14:27:05.000Z"
-        },
-        {
-          "id": "om_0b1056a07f",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Disney plans TikTok Shop holiday experience with over 20 brands",
-          "url": "https://www.marketingdive.com/news/disney-plans-tiktok-shop-holiday-experience-with-over-20-brands/873072/",
-          "postedAt": "2026-10-29T13:00:00.000Z"
-        },
-        {
-          "id": "om_0e024cd372",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "What marketers should know about the legal risks of algorithmic pricing",
-          "url": "https://www.marketingdive.com/news/what-marketers-should-know-about-the-legal-risks-of-algorithmic-pricing/832963/",
-          "postedAt": "2026-10-29T12:00:00.000Z"
-        },
-        {
-          "id": "om_da3d0ba06b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Avoiding The Ick Factor: Anthony Po and Lauren Probyn Aouad on Getting Authenticity Right",
-          "url": "https://www.adweek.com/brand-marketing/avoiding-the-ick-factor-anthony-po-and-lauren-probyn-aouad-on-getting-authenticity-right/",
-          "postedAt": "2026-10-29T11:46:52.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-30T05:45:21.626Z",
+      "lastUpdated": "2026-10-30T17:59:26.681Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
