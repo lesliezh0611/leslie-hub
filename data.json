@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-10-30T17:59:24.217Z",
+      "lastUpdated": "2026-10-31T05:37:45.343Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-30T17:59:25.198Z",
+      "lastUpdated": "2026-10-31T05:37:46.006Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,30 @@
       },
       "articles": [
         {
+          "id": "om_632ce12363",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+          "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+          "postedAt": "2026-10-30T21:48:53.000Z"
+        },
+        {
+          "id": "om_96319dcef1",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "How Brands Like Wendy’s and Planet Fitness Wove Into the Fabric of Bravo Fan Fest",
+          "url": "https://www.adweek.com/brand-marketing/how-brands-like-wendys-and-planet-fitness-wove-into-the-fabric-of-bravo-fan-fest/",
+          "postedAt": "2026-10-30T17:18:17.000Z"
+        },
+        {
+          "id": "om_2b11621bcc",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "DoorDash Buying Instacart Challenges Uber’s $2 Billion Ad Business",
+          "url": "https://www.adweek.com/commerce/doordash-buying-instacart-challenges-ubers-2-billion-ad-business/",
+          "postedAt": "2026-10-30T16:22:42.000Z"
+        },
+        {
           "id": "om_f115b21d26",
           "source": "Retail Dive",
           "lang": "en",
@@ -526,6 +550,14 @@
           "title": "The Weekly Closeout: Roots CEO exits, the FTC zeroes in on price",
           "url": "https://www.retaildive.com/news/roots-ceo-exits-ftc-retailers-prices-brooks-earnings/873246/",
           "postedAt": "2026-10-30T15:56:00.000Z"
+        },
+        {
+          "id": "om_70ca7adaa0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "13 Recent Marketer Moves to Know: Liquid I.V., MrBeast, NYT, and More",
+          "url": "https://www.adweek.com/brand-marketing/13-recent-marketer-moves-to-know-liquid-iv-mrbeast-nyt-and-more/",
+          "postedAt": "2026-10-30T14:47:30.000Z"
         },
         {
           "id": "om_4e3e09cc04",
@@ -568,28 +600,12 @@
           "postedAt": "2026-10-30T09:00:00.000Z"
         },
         {
-          "id": "om_98aea53547",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 9 Campaigns That Caught Our Eye, From Walmart to Sephora",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-9-campaigns-that-caught-our-eye-from-walmart-to-sephora/",
-          "postedAt": "2026-10-30T06:00:00.000Z"
-        },
-        {
           "id": "om_0c5fbb871d",
           "source": "Social Media Today",
           "lang": "en",
           "title": "Pinterest reports solid user growth in Q3",
           "url": "https://www.socialmediatoday.com/news/pinterest-reports-solid-user-growth-in-q3/873274/",
           "postedAt": "2026-10-30T00:56:32.000Z"
-        },
-        {
-          "id": "om_d9e1e75ddd",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Amazon Says External AI Agents Aren’t Hurting Its Ad Business",
-          "url": "https://www.adweek.com/commerce/amazon-says-external-ai-agents-arent-hurting-its-ad-business/",
-          "postedAt": "2026-10-29T18:55:36.000Z"
         },
         {
           "id": "om_a26597a330",
@@ -624,14 +640,6 @@
           "postedAt": "2026-10-29T16:13:00.000Z"
         },
         {
-          "id": "om_8d1d762784",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Stagwell Posts Best Results Yet as Mark Penn Eyes Government Contracts",
-          "url": "https://www.adweek.com/agencies/stagwell-posts-best-results-yet-as-mark-penn-eyes-government-contracts/",
-          "postedAt": "2026-10-29T16:06:55.000Z"
-        },
-        {
           "id": "om_7d3f8fd260",
           "source": "Marketing Dive",
           "lang": "en",
@@ -662,18 +670,10 @@
           "title": "Sociable: Meta says its expanded processing capacity is driving ad results",
           "url": "https://www.marketingdive.com/news/sociable-meta-says-its-expanded-processing-capacity-is-driving-ad-results/873191/",
           "postedAt": "2026-10-29T15:22:00.000Z"
-        },
-        {
-          "id": "om_af1eb1bd3d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Four Down and Dirtiest Political Ads of the 2026 Midterms",
-          "url": "https://www.adweek.com/brand-marketing/the-four-down-and-dirtiest-political-ads-of-the-2026-midterms/",
-          "postedAt": "2026-10-29T14:44:52.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-10-30T17:59:26.681Z",
+      "lastUpdated": "2026-10-31T05:37:46.782Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
