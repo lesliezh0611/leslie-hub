@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-01T17:55:19.397Z",
+      "lastUpdated": "2026-11-02T05:58:49.516Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-01T17:55:19.963Z",
+      "lastUpdated": "2026-11-02T05:58:50.504Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,22 @@
       },
       "articles": [
         {
+          "id": "om_4c5ef8733a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why JCPenney is taking on deal fatigue for its holiday campaign",
+          "url": "https://www.marketingdive.com/news/why-jcpenney-is-taking-on-deal-fatigue-for-its-holiday-campaign/873354/",
+          "postedAt": "2026-11-02T05:01:00.000Z"
+        },
+        {
+          "id": "om_33c086ca14",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+          "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+          "postedAt": "2026-11-01T21:55:23.000Z"
+        },
+        {
           "id": "om_5690fa4bc6",
           "source": "TechCrunch",
           "lang": "en",
@@ -534,14 +550,6 @@
           "title": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
           "url": "https://www.wired.com/review/keurig-alta-brewer/",
           "postedAt": "2026-10-31T09:35:00.000Z"
-        },
-        {
-          "id": "om_632ce12363",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
-          "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
-          "postedAt": "2026-10-30T21:48:53.000Z"
         },
         {
           "id": "om_96319dcef1",
@@ -662,18 +670,10 @@
           "title": "Heydude wants to sell more in North America, but is unlikely to open new stores",
           "url": "https://www.retaildive.com/news/heydude-north-america-wholesale-crocs-q3/873169/",
           "postedAt": "2026-10-29T16:13:00.000Z"
-        },
-        {
-          "id": "om_7d3f8fd260",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Warner Bros. chases ‘Cat in the Hat’ across Amazon’s ad ecosystem",
-          "url": "https://www.marketingdive.com/news/warner-bros-chases-cat-in-the-hat-across-amazons-ad-ecosystem/873092/",
-          "postedAt": "2026-10-29T16:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-01T17:55:20.747Z",
+      "lastUpdated": "2026-11-02T05:58:52.024Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
