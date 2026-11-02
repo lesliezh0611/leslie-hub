@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-02T05:58:49.516Z",
+      "lastUpdated": "2026-11-02T21:41:51.149Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_853a62592e",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
+          "postedAt": "2026-11-02T16:02:08.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_81161cac28",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
+          "url": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
+          "postedAt": "2026-11-02T13:04:11.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_d0139d3297",
           "source": "Lenny's Podcast",
@@ -353,22 +369,6 @@
           "topic": "Claude Duet is beautiful. I still forgot to use it",
           "url": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
           "postedAt": "2026-10-21T20:25:18.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_58ba945ca6",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI",
-          "url": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
-          "postedAt": "2026-10-19T15:03:35.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_88f1e2c230",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey",
-          "url": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
-          "postedAt": "2026-10-19T12:04:52.000Z"
         }
       ],
       "books": [
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-02T05:58:50.504Z",
+      "lastUpdated": "2026-11-02T21:41:52.615Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,168 +512,168 @@
       },
       "articles": [
         {
-          "id": "om_4c5ef8733a",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why JCPenney is taking on deal fatigue for its holiday campaign",
-          "url": "https://www.marketingdive.com/news/why-jcpenney-is-taking-on-deal-fatigue-for-its-holiday-campaign/873354/",
-          "postedAt": "2026-11-02T05:01:00.000Z"
-        },
-        {
-          "id": "om_33c086ca14",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-          "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-          "postedAt": "2026-11-01T21:55:23.000Z"
-        },
-        {
-          "id": "om_5690fa4bc6",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-          "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-          "postedAt": "2026-10-31T15:41:57.000Z"
-        },
-        {
-          "id": "om_dc10fc4742",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Selena Gomez and Tate McRae Bring the Magic to Ulta Beauty’s Holiday Campaign",
-          "url": "https://www.adweek.com/creativity/selena-gomez-and-tate-mcrae-bring-the-magic-to-ulta-beautys-holiday-campaign/",
-          "postedAt": "2026-10-31T11:00:00.000Z"
-        },
-        {
-          "id": "om_8e141f4fc5",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
-          "url": "https://www.wired.com/review/keurig-alta-brewer/",
-          "postedAt": "2026-10-31T09:35:00.000Z"
-        },
-        {
-          "id": "om_96319dcef1",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Brands Like Wendy’s and Planet Fitness Wove Into the Fabric of Bravo Fan Fest",
-          "url": "https://www.adweek.com/brand-marketing/how-brands-like-wendys-and-planet-fitness-wove-into-the-fabric-of-bravo-fan-fest/",
-          "postedAt": "2026-10-30T17:18:17.000Z"
-        },
-        {
-          "id": "om_2b11621bcc",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "DoorDash Buying Instacart Challenges Uber’s $2 Billion Ad Business",
-          "url": "https://www.adweek.com/commerce/doordash-buying-instacart-challenges-ubers-2-billion-ad-business/",
-          "postedAt": "2026-10-30T16:22:42.000Z"
-        },
-        {
-          "id": "om_f115b21d26",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon CEO says retail business is being slept on",
-          "url": "https://www.retaildive.com/news/amazon-ceo-retail-business-important-q3-earnings/873316/",
-          "postedAt": "2026-10-30T16:05:00.000Z"
-        },
-        {
-          "id": "om_216455dafb",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Weekly Closeout: Roots CEO exits, the FTC zeroes in on price",
-          "url": "https://www.retaildive.com/news/roots-ceo-exits-ftc-retailers-prices-brooks-earnings/873246/",
-          "postedAt": "2026-10-30T15:56:00.000Z"
-        },
-        {
-          "id": "om_70ca7adaa0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "13 Recent Marketer Moves to Know: Liquid I.V., MrBeast, NYT, and More",
-          "url": "https://www.adweek.com/brand-marketing/13-recent-marketer-moves-to-know-liquid-iv-mrbeast-nyt-and-more/",
-          "postedAt": "2026-10-30T14:47:30.000Z"
-        },
-        {
-          "id": "om_4e3e09cc04",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Amazon’s ad revenue growth decelerates due to Prime Day tweaks",
-          "url": "https://www.marketingdive.com/news/amazons-ad-revenue-growth-decelerates-due-to-prime-day-tweaks/873302/",
-          "postedAt": "2026-10-30T14:15:10.000Z"
-        },
-        {
-          "id": "om_10223114f2",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "The changing CMO role in 3 numbers",
-          "url": "https://www.marketingdive.com/news/the-changing-cmo-role-in-3-numbers/873219/",
-          "postedAt": "2026-10-30T13:44:00.000Z"
-        },
-        {
-          "id": "om_69e7b1d6be",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "From Pontiac to Paramount, Patrick Stewart Lent His Star Power to Brands",
-          "url": "https://www.adweek.com/creativity/from-pontiac-to-paramount-patrick-stewart-lent-his-star-to-brands/",
-          "postedAt": "2026-10-30T13:36:03.000Z"
-        },
-        {
-          "id": "om_1a8bb9ae35",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Cheesecake Factory Is the Real Winner in Obama-Trump Food Fight",
-          "url": "https://www.adweek.com/brand-marketing/the-cheesecake-factory-is-the-real-winner-in-obama-trump-food-fight/",
-          "postedAt": "2026-10-30T11:03:06.000Z"
-        },
-        {
-          "id": "om_2743c20179",
+          "id": "om_bc2da946b6",
           "source": "Marketing Brew",
           "lang": "en",
-          "title": "How Japanese mayo brand Kewpie is making inroads stateside",
-          "url": "https://www.marketingbrew.com/stories/japanese-mayo-brand-kewpie-marketing-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-10-30T09:00:00.000Z"
+          "title": "Coworking with Sherry Riad",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-sherry-riad?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-02T19:44:22.000Z"
         },
         {
-          "id": "om_0c5fbb871d",
-          "source": "Social Media Today",
+          "id": "om_de5ab67652",
+          "source": "Marketing Brew",
           "lang": "en",
-          "title": "Pinterest reports solid user growth in Q3",
-          "url": "https://www.socialmediatoday.com/news/pinterest-reports-solid-user-growth-in-q3/873274/",
-          "postedAt": "2026-10-30T00:56:32.000Z"
+          "title": "The trendiest new OOH ad buys might be on a creator’s wall—or dog",
+          "url": "https://www.marketingbrew.com/stories/creators-selling-ad-space-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-02T18:48:07.000Z"
         },
         {
-          "id": "om_a26597a330",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "LinkedIn increases user time, members and creator ads",
-          "url": "https://www.socialmediatoday.com/news/linkedin-increases-user-time-members-and-creator-ads/873266/",
-          "postedAt": "2026-10-29T18:49:40.000Z"
-        },
-        {
-          "id": "om_2f5986a618",
+          "id": "om_7445dcd13b",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Fanatics revamps outfit curation tool with OpenAI",
-          "url": "https://www.retaildive.com/news/fanatics-openai-outfit-curation-tool/873180/",
-          "postedAt": "2026-10-29T16:58:00.000Z"
+          "title": "Boot Barn ramps up store openings despite lowering outlook",
+          "url": "https://www.retaildive.com/news/boot-barn-ramps-up-store-openings-lower-outlook/873449/",
+          "postedAt": "2026-11-02T17:24:00.000Z"
         },
         {
-          "id": "om_5f401e00e7",
+          "id": "om_2f68c7671e",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Most consumers aren’t using AI for product discovery, yet",
-          "url": "https://www.retaildive.com/news/most-consumers-arent-using-ai-for-product-discovery-yet/833604/",
-          "postedAt": "2026-10-29T16:32:00.000Z"
+          "title": "Shakeup at Old Navy continues amid merchandising struggles",
+          "url": "https://www.retaildive.com/news/shakeup-old-navy-amid-merchandising-struggles-walmart/873431/",
+          "postedAt": "2026-11-02T17:23:00.000Z"
         },
         {
-          "id": "om_a778492580",
+          "id": "om_b6bdd5b43c",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Heydude wants to sell more in North America, but is unlikely to open new stores",
-          "url": "https://www.retaildive.com/news/heydude-north-america-wholesale-crocs-q3/873169/",
-          "postedAt": "2026-10-29T16:13:00.000Z"
+          "title": "Carter’s new chief product officer is from H&M",
+          "url": "https://www.retaildive.com/news/carters-chief-product-officer-h-and-m/873406/",
+          "postedAt": "2026-11-02T16:38:00.000Z"
+        },
+        {
+          "id": "om_2146638cbc",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Consumers want to feel the holiday spirit. A good store experience can help.",
+          "url": "https://www.retaildive.com/news/consumers-want-holiday-spirit-store-experience-can-help/873162/",
+          "postedAt": "2026-11-02T16:38:00.000Z"
+        },
+        {
+          "id": "om_97a5425856",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Reebok chooses Foot Locker as exclusive partner for Question shoe relaunch",
+          "url": "https://www.retaildive.com/news/reebok-foot-locker-question-shoe-launch-allen-iverson/873438/",
+          "postedAt": "2026-11-02T16:20:00.000Z"
+        },
+        {
+          "id": "om_2883f05994",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Where agency strategists see opportunity as AI challenges their worth",
+          "url": "https://www.marketingdive.com/news/where-agency-strategists-see-opportunity-as-ai-challenges-their-worth/872985/",
+          "postedAt": "2026-11-02T16:00:00.000Z"
+        },
+        {
+          "id": "om_2bf08267b9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "After AI backlash, Svedka challenges consumers to create Super Bowl ad",
+          "url": "https://www.marketingdive.com/news/after-ai-backlash-svedka-challenges-consumers-to-create-super-bowl-ad/873445/",
+          "postedAt": "2026-11-02T15:49:00.000Z"
+        },
+        {
+          "id": "om_427c1d456c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Jonathan Halvorson Named Kimberly-Clark CMO After $40B Kenvue Merger",
+          "url": "https://www.adweek.com/brand-marketing/jonathan-halvorson-named-kimberly-clark-cmo-after-40b-kenvue-merger/",
+          "postedAt": "2026-11-02T15:39:34.000Z"
+        },
+        {
+          "id": "om_bd5e96fa41",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart plans $400M Texas distribution center",
+          "url": "https://www.retaildive.com/news/walmart-plans-400m-texas-distribution-center/873426/",
+          "postedAt": "2026-11-02T15:38:00.000Z"
+        },
+        {
+          "id": "om_0cf5a9f58a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart dishes up holiday meal deal",
+          "url": "https://www.retaildive.com/news/walmart-holiday-meal-2026-cheaper-2025/873287/",
+          "postedAt": "2026-11-02T14:59:00.000Z"
+        },
+        {
+          "id": "om_595c603521",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "What Reddit’s Q3 earnings mean for marketers amid major traffic shift",
+          "url": "https://www.marketingdive.com/news/what-reddits-q3-earnings-mean-for-marketers-amid-major-traffic-shift/873386/",
+          "postedAt": "2026-11-02T14:55:00.000Z"
+        },
+        {
+          "id": "om_ea0f04f8ce",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
+          "url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
+          "postedAt": "2026-11-02T14:22:35.000Z"
+        },
+        {
+          "id": "om_3e651040e0",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Mark Green, Droga5 global CEO and The Monkeys Co-Founder, Dies at 53",
+          "url": "https://www.adweek.com/agencies/mark-green-droga5-global-ceo-and-the-monkey-co-founder-dies-at-53/",
+          "postedAt": "2026-11-02T14:01:38.000Z"
+        },
+        {
+          "id": "om_1d1a5562e0",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Express unwraps holiday campaign to build on brand metric gains",
+          "url": "https://www.marketingdive.com/news/express-unwraps-holiday-campaign-to-build-on-brand-metric-gains/873124/",
+          "postedAt": "2026-11-02T13:00:00.000Z"
+        },
+        {
+          "id": "om_0400fd7849",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Creator Agency LV8 Merges With Sister Firm Mirage, Raises ‘High Eight Figures’",
+          "url": "https://www.adweek.com/agencies/lv8-mirage-velocity-merger-investment-creators-agency/",
+          "postedAt": "2026-11-02T12:00:00.000Z"
+        },
+        {
+          "id": "om_15f566ce40",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Publicis Closes $2.2 Billion LiveRamp Deal: ‘We Aren’t Worried About Competitors Leaving’",
+          "url": "https://www.adweek.com/agencies/publicis-closes-22-billion-liveramp-deal-we-arent-worried-about-competitors-leaving/",
+          "postedAt": "2026-11-02T11:45:00.000Z"
+        },
+        {
+          "id": "om_9e1ddd4105",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+          "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
+          "postedAt": "2026-11-02T11:00:00.000Z"
+        },
+        {
+          "id": "om_0d11fd4b61",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Your buyers are sending agents. Will they recommend your brand?",
+          "url": "https://www.marketingdive.com/spons/your-buyers-are-sending-agents-will-they-recommend-your-brand/833812/",
+          "postedAt": "2026-11-02T10:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-02T05:58:52.024Z",
+      "lastUpdated": "2026-11-02T21:41:54.543Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
