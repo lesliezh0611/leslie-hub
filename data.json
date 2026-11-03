@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-03T06:44:40.358Z",
+      "lastUpdated": "2026-11-03T19:28:51.707Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_5c054ef054",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Lenny’s Newsletter holiday gift guide 2026",
+          "url": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
+          "postedAt": "2026-11-03T14:45:33.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_853a62592e",
           "source": "Lenny's Podcast",
@@ -361,14 +369,6 @@
           "topic": "The Science of Doing Your Best Work | Steven Kotler",
           "url": "https://fs.blog/knowledge-project-podcast/steven-kotler/",
           "postedAt": "2026-10-22T09:50:00.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_a76f8995ad",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Claude Duet is beautiful. I still forgot to use it",
-          "url": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
-          "postedAt": "2026-10-21T20:25:18.000Z"
         }
       ],
       "books": [
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-03T06:44:41.440Z",
+      "lastUpdated": "2026-11-03T19:28:53.416Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,134 @@
       },
       "articles": [
         {
+          "id": "om_c2327eb389",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+          "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+          "postedAt": "2026-11-03T19:24:37.000Z"
+        },
+        {
+          "id": "om_9d2b2dd20f",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Levi’s claymation holiday campaign celebrates handmade craft amid AI bloat",
+          "url": "https://www.marketingdive.com/news/levis-claymation-holiday-campaign-celebrates-handmade-craft-amid-ai-bloat/873496/",
+          "postedAt": "2026-11-03T17:00:00.000Z"
+        },
+        {
+          "id": "om_ddbdc979be",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "With new ownership, Lee eyes activewear and workwear",
+          "url": "https://www.retaildive.com/news/lee-authentic-brands-group-activewear-workwear-expansion/873590/",
+          "postedAt": "2026-11-03T16:28:00.000Z"
+        },
+        {
+          "id": "om_e598a40a3c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Bed Bath & Beyond’s strategy needs a reset",
+          "url": "https://www.retaildive.com/news/bed-bath-beyonds-turnaround-strategy-needs-reset-neighborhood-intelligence/873479/",
+          "postedAt": "2026-11-03T15:35:00.000Z"
+        },
+        {
+          "id": "om_773e5c64ad",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "As Publicis closes LiveRamp deal, some brands say they’re jumping ship",
+          "url": "https://www.marketingdive.com/news/as-publicis-closes-liveramp-deal-some-brands-say-theyre-jumping-ship/873561/",
+          "postedAt": "2026-11-03T15:33:00.000Z"
+        },
+        {
+          "id": "om_7f52e00ffd",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Why J.C. Penney is taking on deal fatigue for its holiday campaign",
+          "url": "https://www.retaildive.com/news/why-jcpenney-is-taking-on-deal-fatigue-for-its-holiday-campaign/873484/",
+          "postedAt": "2026-11-03T15:06:00.000Z"
+        },
+        {
+          "id": "om_4717266cc9",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Roli Has Fallen Apart—and Left Customers Holding the Bag",
+          "url": "https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag/",
+          "postedAt": "2026-11-03T14:00:34.000Z"
+        },
+        {
+          "id": "om_0e815de4c8",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside agency efforts to navigate the AEO platform landscape",
+          "url": "https://www.marketingbrew.com/stories/agencies-evaluating-aeo-platforms?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-03T13:02:45.000Z"
+        },
+        {
+          "id": "om_60051f5b57",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How the sausage is made: Inside Johnsonville’s political parody campaign",
+          "url": "https://www.marketingdive.com/news/how-the-sausage-is-made-inside-johnsonvilles-political-parody-campaign/873248/",
+          "postedAt": "2026-11-03T12:00:00.000Z"
+        },
+        {
+          "id": "om_a52e99fcd5",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Holiday shoppers only want a dash of AI for the gift hunt",
+          "url": "https://www.retaildive.com/news/holiday-shoppers-only-want-a-dash-of-ai-for-the-gift-hunt/873317/",
+          "postedAt": "2026-11-03T12:00:00.000Z"
+        },
+        {
+          "id": "om_d808b3386f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Shopify Stores Face Suspected AI-Driven Attacks",
+          "url": "https://www.adweek.com/commerce/shopify-stores-face-suspected-ai-driven-attacks/",
+          "postedAt": "2026-11-03T10:38:02.000Z"
+        },
+        {
+          "id": "om_56c58e32b8",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "SharkNinja’s Holiday Ad Puts David Beckham’s Gadgets at the Mercy of His Celeb Pals",
+          "url": "https://www.adweek.com/brand-marketing/sharkninjas-holiday-ad-puts-david-beckhams-gadgets-at-the-mercy-of-his-celeb-pals/",
+          "postedAt": "2026-11-03T10:00:00.000Z"
+        },
+        {
+          "id": "om_aa0229ccf6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Gap’s Holiday Choir Tradition Reaches New Heights With Jackson 5 Cover",
+          "url": "https://www.adweek.com/brand-marketing/gaps-holiday-choir-tradition-reaches-new-heights-with-jackson-5-cover/",
+          "postedAt": "2026-11-03T09:00:00.000Z"
+        },
+        {
+          "id": "om_e2476cb1b1",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Kristin Scott Thomas Is No Ordinary Grandma in John Lewis’ Holiday Campaign",
+          "url": "https://www.adweek.com/brand-marketing/kristin-scott-thomas-is-no-ordinary-grandma-in-john-lewis-holiday-campaign/",
+          "postedAt": "2026-11-03T06:14:54.000Z"
+        },
+        {
+          "id": "om_ddd7b6477c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ben Cohen Goes Guerrilla In His Next Push to Free Ben & Jerry’s",
+          "url": "https://www.adweek.com/brand-marketing/ben-cohen-goes-guerrilla-in-his-next-push-to-free-ben-jerrys/",
+          "postedAt": "2026-11-03T06:00:00.000Z"
+        },
+        {
+          "id": "om_a652c399d3",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The 2026 ADWEEK Innovator 50: Building Relevance for Tomorrow",
+          "url": "https://www.adweek.com/brand-marketing/2026-adweek-innovator-50-building-relevance-for-tomorrow/",
+          "postedAt": "2026-11-03T06:00:00.000Z"
+        },
+        {
           "id": "om_226d68d701",
           "source": "Wired",
           "lang": "en",
@@ -542,138 +670,10 @@
           "title": "TikTok inks new content deal with WTA",
           "url": "https://www.socialmediatoday.com/news/tiktok-inks-new-content-deal-with-wta/873502/",
           "postedAt": "2026-11-02T19:50:12.000Z"
-        },
-        {
-          "id": "om_bc2da946b6",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Coworking with Sherry Riad",
-          "url": "https://www.marketingbrew.com/stories/coworking-with-sherry-riad?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-02T19:44:22.000Z"
-        },
-        {
-          "id": "om_de5ab67652",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "The trendiest new OOH ad buys might be on a creator’s wall—or dog",
-          "url": "https://www.marketingbrew.com/stories/creators-selling-ad-space-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-02T18:48:07.000Z"
-        },
-        {
-          "id": "om_7445dcd13b",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Boot Barn ramps up store openings despite lowering outlook",
-          "url": "https://www.retaildive.com/news/boot-barn-ramps-up-store-openings-lower-outlook/873449/",
-          "postedAt": "2026-11-02T17:24:00.000Z"
-        },
-        {
-          "id": "om_2f68c7671e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Shakeup at Old Navy continues amid merchandising struggles",
-          "url": "https://www.retaildive.com/news/shakeup-old-navy-amid-merchandising-struggles-walmart/873431/",
-          "postedAt": "2026-11-02T17:23:00.000Z"
-        },
-        {
-          "id": "om_b6bdd5b43c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Carter’s new chief product officer is from H&M",
-          "url": "https://www.retaildive.com/news/carters-chief-product-officer-h-and-m/873406/",
-          "postedAt": "2026-11-02T16:38:00.000Z"
-        },
-        {
-          "id": "om_2146638cbc",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Consumers want to feel the holiday spirit. A good store experience can help.",
-          "url": "https://www.retaildive.com/news/consumers-want-holiday-spirit-store-experience-can-help/873162/",
-          "postedAt": "2026-11-02T16:38:00.000Z"
-        },
-        {
-          "id": "om_97a5425856",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Reebok chooses Foot Locker as exclusive partner for Question shoe relaunch",
-          "url": "https://www.retaildive.com/news/reebok-foot-locker-question-shoe-launch-allen-iverson/873438/",
-          "postedAt": "2026-11-02T16:20:00.000Z"
-        },
-        {
-          "id": "om_2883f05994",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Where agency strategists see opportunity as AI challenges their worth",
-          "url": "https://www.marketingdive.com/news/where-agency-strategists-see-opportunity-as-ai-challenges-their-worth/872985/",
-          "postedAt": "2026-11-02T16:00:00.000Z"
-        },
-        {
-          "id": "om_2bf08267b9",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "After AI backlash, Svedka challenges consumers to create Super Bowl ad",
-          "url": "https://www.marketingdive.com/news/after-ai-backlash-svedka-challenges-consumers-to-create-super-bowl-ad/873445/",
-          "postedAt": "2026-11-02T15:49:00.000Z"
-        },
-        {
-          "id": "om_427c1d456c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Jonathan Halvorson Named Kimberly-Clark CMO After $40B Kenvue Merger",
-          "url": "https://www.adweek.com/brand-marketing/jonathan-halvorson-named-kimberly-clark-cmo-after-40b-kenvue-merger/",
-          "postedAt": "2026-11-02T15:39:34.000Z"
-        },
-        {
-          "id": "om_bd5e96fa41",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart plans $400M Texas distribution center",
-          "url": "https://www.retaildive.com/news/walmart-plans-400m-texas-distribution-center/873426/",
-          "postedAt": "2026-11-02T15:38:00.000Z"
-        },
-        {
-          "id": "om_0cf5a9f58a",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart dishes up holiday meal deal",
-          "url": "https://www.retaildive.com/news/walmart-holiday-meal-2026-cheaper-2025/873287/",
-          "postedAt": "2026-11-02T14:59:00.000Z"
-        },
-        {
-          "id": "om_595c603521",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "What Reddit’s Q3 earnings mean for marketers amid major traffic shift",
-          "url": "https://www.marketingdive.com/news/what-reddits-q3-earnings-mean-for-marketers-amid-major-traffic-shift/873386/",
-          "postedAt": "2026-11-02T14:55:00.000Z"
-        },
-        {
-          "id": "om_3e651040e0",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Mark Green, Droga5 global CEO and The Monkeys Co-Founder, Dies at 53",
-          "url": "https://www.adweek.com/agencies/mark-green-droga5-global-ceo-and-the-monkey-co-founder-dies-at-53/",
-          "postedAt": "2026-11-02T14:01:38.000Z"
-        },
-        {
-          "id": "om_1d1a5562e0",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Express unwraps holiday campaign to build on brand metric gains",
-          "url": "https://www.marketingdive.com/news/express-unwraps-holiday-campaign-to-build-on-brand-metric-gains/873124/",
-          "postedAt": "2026-11-02T13:00:00.000Z"
-        },
-        {
-          "id": "om_0400fd7849",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Creator Agency LV8 Merges With Sister Firm Mirage, Raises ‘High Eight Figures’",
-          "url": "https://www.adweek.com/agencies/lv8-mirage-velocity-merger-investment-creators-agency/",
-          "postedAt": "2026-11-02T12:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-03T06:44:43.199Z",
+      "lastUpdated": "2026-11-03T19:28:55.334Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
