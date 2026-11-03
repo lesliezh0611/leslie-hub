@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-02T21:41:51.149Z",
+      "lastUpdated": "2026-11-03T06:44:40.358Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-02T21:41:52.615Z",
+      "lastUpdated": "2026-11-03T06:44:41.440Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -511,6 +511,38 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_226d68d701",
+          "source": "Wired",
+          "lang": "en",
+          "title": "The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes",
+          "url": "https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/",
+          "postedAt": "2026-11-02T23:17:27.000Z"
+        },
+        {
+          "id": "om_2a33c4690f",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok adds new brand safety resources",
+          "url": "https://www.socialmediatoday.com/news/tiktok-adds-new-brand-safety-resources/873529/",
+          "postedAt": "2026-11-02T22:51:17.000Z"
+        },
+        {
+          "id": "om_145e06d4b6",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta updates creator assistant chatbot",
+          "url": "https://www.socialmediatoday.com/news/meta-updates-creator-assistant-chatbot/873524/",
+          "postedAt": "2026-11-02T22:25:51.000Z"
+        },
+        {
+          "id": "om_c3ba64e869",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok inks new content deal with WTA",
+          "url": "https://www.socialmediatoday.com/news/tiktok-inks-new-content-deal-with-wta/873502/",
+          "postedAt": "2026-11-02T19:50:12.000Z"
+        },
         {
           "id": "om_bc2da946b6",
           "source": "Marketing Brew",
@@ -616,14 +648,6 @@
           "postedAt": "2026-11-02T14:55:00.000Z"
         },
         {
-          "id": "om_ea0f04f8ce",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
-          "url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
-          "postedAt": "2026-11-02T14:22:35.000Z"
-        },
-        {
           "id": "om_3e651040e0",
           "source": "Adweek",
           "lang": "en",
@@ -646,34 +670,10 @@
           "title": "Creator Agency LV8 Merges With Sister Firm Mirage, Raises ‘High Eight Figures’",
           "url": "https://www.adweek.com/agencies/lv8-mirage-velocity-merger-investment-creators-agency/",
           "postedAt": "2026-11-02T12:00:00.000Z"
-        },
-        {
-          "id": "om_15f566ce40",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Publicis Closes $2.2 Billion LiveRamp Deal: ‘We Aren’t Worried About Competitors Leaving’",
-          "url": "https://www.adweek.com/agencies/publicis-closes-22-billion-liveramp-deal-we-arent-worried-about-competitors-leaving/",
-          "postedAt": "2026-11-02T11:45:00.000Z"
-        },
-        {
-          "id": "om_9e1ddd4105",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
-          "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
-          "postedAt": "2026-11-02T11:00:00.000Z"
-        },
-        {
-          "id": "om_0d11fd4b61",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Your buyers are sending agents. Will they recommend your brand?",
-          "url": "https://www.marketingdive.com/spons/your-buyers-are-sending-agents-will-they-recommend-your-brand/833812/",
-          "postedAt": "2026-11-02T10:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-02T21:41:54.543Z",
+      "lastUpdated": "2026-11-03T06:44:43.199Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
