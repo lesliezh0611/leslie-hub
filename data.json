@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-03T19:28:51.707Z",
+      "lastUpdated": "2026-11-04T06:16:54.876Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-03T19:28:53.416Z",
+      "lastUpdated": "2026-11-04T06:16:55.695Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,22 @@
       },
       "articles": [
         {
+          "id": "om_f14053aabf",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "LinkedIn shares information on new creator insights options",
+          "url": "https://www.socialmediatoday.com/news/linkedin-shares-information-on-new-creator-insights-options/873675/",
+          "postedAt": "2026-11-03T23:25:51.000Z"
+        },
+        {
+          "id": "om_58e976d008",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Reddit pitches its 1,300 gaming-related communities to brands",
+          "url": "https://www.socialmediatoday.com/news/reddit-pitches-its-1300-gaming-related-communities-to-brands/873673/",
+          "postedAt": "2026-11-03T23:19:23.000Z"
+        },
+        {
           "id": "om_c2327eb389",
           "source": "TechCrunch",
           "lang": "en",
@@ -528,12 +544,36 @@
           "postedAt": "2026-11-03T17:00:00.000Z"
         },
         {
+          "id": "om_3a85c4157c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Brandweek 2026: Why Marketing Belongs in Product, Finance, and Tech with Petzey’s Ameetess Dira",
+          "url": "https://www.adweek.com/brand-marketing/brandweek-2026-why-marketing-belongs-in-product-finance-and-tech-with-petzeys-ameetess-dira/",
+          "postedAt": "2026-11-03T16:31:00.000Z"
+        },
+        {
           "id": "om_ddbdc979be",
           "source": "Retail Dive",
           "lang": "en",
           "title": "With new ownership, Lee eyes activewear and workwear",
           "url": "https://www.retaildive.com/news/lee-authentic-brands-group-activewear-workwear-expansion/873590/",
           "postedAt": "2026-11-03T16:28:00.000Z"
+        },
+        {
+          "id": "om_a04cf36671",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "From ROAS to Real Results: Benoit Vatere and Bryan Leach on the Future of Performance Marketing",
+          "url": "https://www.adweek.com/brand-marketing/from-roas-to-real-results-benoit-vatere-and-bryan-leach-on-the-future-of-performance-marketing/",
+          "postedAt": "2026-11-03T16:18:04.000Z"
+        },
+        {
+          "id": "om_3c13ec0fed",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Respect Over Authenticity: Whalar Group Rewrites the Brand-Creator Partnership",
+          "url": "https://www.adweek.com/brand-marketing/respect-over-authenticity-whalar-group-rewrites-the-brand-creator-partnership/",
+          "postedAt": "2026-11-03T16:06:34.000Z"
         },
         {
           "id": "om_e598a40a3c",
@@ -624,56 +664,16 @@
           "postedAt": "2026-11-03T06:14:54.000Z"
         },
         {
-          "id": "om_ddd7b6477c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ben Cohen Goes Guerrilla In His Next Push to Free Ben & Jerry’s",
-          "url": "https://www.adweek.com/brand-marketing/ben-cohen-goes-guerrilla-in-his-next-push-to-free-ben-jerrys/",
-          "postedAt": "2026-11-03T06:00:00.000Z"
-        },
-        {
-          "id": "om_a652c399d3",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The 2026 ADWEEK Innovator 50: Building Relevance for Tomorrow",
-          "url": "https://www.adweek.com/brand-marketing/2026-adweek-innovator-50-building-relevance-for-tomorrow/",
-          "postedAt": "2026-11-03T06:00:00.000Z"
-        },
-        {
           "id": "om_226d68d701",
           "source": "Wired",
           "lang": "en",
           "title": "The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes",
           "url": "https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/",
           "postedAt": "2026-11-02T23:17:27.000Z"
-        },
-        {
-          "id": "om_2a33c4690f",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok adds new brand safety resources",
-          "url": "https://www.socialmediatoday.com/news/tiktok-adds-new-brand-safety-resources/873529/",
-          "postedAt": "2026-11-02T22:51:17.000Z"
-        },
-        {
-          "id": "om_145e06d4b6",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Meta updates creator assistant chatbot",
-          "url": "https://www.socialmediatoday.com/news/meta-updates-creator-assistant-chatbot/873524/",
-          "postedAt": "2026-11-02T22:25:51.000Z"
-        },
-        {
-          "id": "om_c3ba64e869",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok inks new content deal with WTA",
-          "url": "https://www.socialmediatoday.com/news/tiktok-inks-new-content-deal-with-wta/873502/",
-          "postedAt": "2026-11-02T19:50:12.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-03T19:28:55.334Z",
+      "lastUpdated": "2026-11-04T06:16:56.520Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
