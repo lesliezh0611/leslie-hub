@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-04T06:16:54.876Z",
+      "lastUpdated": "2026-11-04T19:43:32.547Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-04T06:16:55.695Z",
+      "lastUpdated": "2026-11-04T19:43:33.190Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,11 +512,99 @@
       },
       "articles": [
         {
-          "id": "om_f14053aabf",
+          "id": "om_ef8026b415",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Wayfair notches ‘strongest quarter of growth’ since the pandemic",
+          "url": "https://www.retaildive.com/news/wayfair-strongest-quarter-since-pandemic/873740/",
+          "postedAt": "2026-11-04T17:18:00.000Z"
+        },
+        {
+          "id": "om_9cd5b2ca9a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Outdoor Voices inks licensing deal for UK and EU",
+          "url": "https://www.retaildive.com/news/outdoor-voices-expands-uk-eu/873730/",
+          "postedAt": "2026-11-04T16:57:00.000Z"
+        },
+        {
+          "id": "om_dbb79aa298",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "‘This will normalize’: What Adidas’ Q3 reveals about the broader footwear market",
+          "url": "https://www.retaildive.com/news/adidas-q3-earnings-sales-growth-lifestyle-footwear-market/873640/",
+          "postedAt": "2026-11-04T16:51:00.000Z"
+        },
+        {
+          "id": "om_a135027b04",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Hydro Flask, Osprey owner receives acquisition proposal valued at $1.6B",
+          "url": "https://www.retaildive.com/news/hydro-flask-osprey-owner-receives-acquisition-proposal-valued-at-16b/873719/",
+          "postedAt": "2026-11-04T16:31:00.000Z"
+        },
+        {
+          "id": "om_5e8108981a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Target vs. Walmart: Holiday marketing’s stakes feel higher this year",
+          "url": "https://www.marketingdive.com/news/target-vs-walmart-holiday-marketings-stakes-feel-higher-this-year/873343/",
+          "postedAt": "2026-11-04T14:00:00.000Z"
+        },
+        {
+          "id": "om_0496dc6e4a",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Canva lays off over 1,200 people amid slowing growth",
+          "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+          "postedAt": "2026-11-04T11:59:00.000Z"
+        },
+        {
+          "id": "om_16e5c88d83",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Channing Tatum Suits Up as Gambit for Dunkin’s First-Ever Marvel Partnership",
+          "url": "https://www.adweek.com/creativity/channing-tatum-suits-up-as-gambit-for-dunkins-first-ever-marvel-partnership/",
+          "postedAt": "2026-11-04T10:24:53.000Z"
+        },
+        {
+          "id": "om_0aa7eaa872",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Nike’s latest marathon campaign is in the pages of the New York Times",
+          "url": "https://www.marketingbrew.com/stories/nikes-nyc-marathon-new-york-times?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-04T10:00:00.000Z"
+        },
+        {
+          "id": "om_a0d5ffb340",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Trade Desk and Dstillery Link AI Agents to Reshape Audiences Mid-Campaign",
+          "url": "https://www.adweek.com/programmatic/the-trade-desk-and-dstillery-link-ai-agents-to-reshape-audiences-mid-campaign/",
+          "postedAt": "2026-11-04T09:27:40.000Z"
+        },
+        {
+          "id": "om_af847f390a",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Amazon Advertisers Can Now Target Shoppers That Buy Elsewhere",
+          "url": "https://www.adweek.com/commerce/amazon-advertisers-can-now-target-shoppers-that-buy-elsewhere/",
+          "postedAt": "2026-11-04T07:00:00.000Z"
+        },
+        {
+          "id": "om_dc979f937d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK Commerce Advantage: Ecommerce Agencies Are Buying Up TikTok Shop Specialists",
+          "url": "https://www.adweek.com/commerce/adweek-commerce-advantage-ecommerce-agencies-are-buying-up-tiktok-shop-specialists/",
+          "postedAt": "2026-11-04T06:00:00.000Z"
+        },
+        {
+          "id": "om_68dc127148",
           "source": "Social Media Today",
           "lang": "en",
-          "title": "LinkedIn shares information on new creator insights options",
-          "url": "https://www.socialmediatoday.com/news/linkedin-shares-information-on-new-creator-insights-options/873675/",
+          "title": "LinkedIn details new creator insights options",
+          "url": "https://www.socialmediatoday.com/news/linkedin-details-new-creator-insights-options/873675/",
           "postedAt": "2026-11-03T23:25:51.000Z"
         },
         {
@@ -582,98 +670,10 @@
           "title": "Bed Bath & Beyond’s strategy needs a reset",
           "url": "https://www.retaildive.com/news/bed-bath-beyonds-turnaround-strategy-needs-reset-neighborhood-intelligence/873479/",
           "postedAt": "2026-11-03T15:35:00.000Z"
-        },
-        {
-          "id": "om_773e5c64ad",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "As Publicis closes LiveRamp deal, some brands say they’re jumping ship",
-          "url": "https://www.marketingdive.com/news/as-publicis-closes-liveramp-deal-some-brands-say-theyre-jumping-ship/873561/",
-          "postedAt": "2026-11-03T15:33:00.000Z"
-        },
-        {
-          "id": "om_7f52e00ffd",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Why J.C. Penney is taking on deal fatigue for its holiday campaign",
-          "url": "https://www.retaildive.com/news/why-jcpenney-is-taking-on-deal-fatigue-for-its-holiday-campaign/873484/",
-          "postedAt": "2026-11-03T15:06:00.000Z"
-        },
-        {
-          "id": "om_4717266cc9",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Roli Has Fallen Apart—and Left Customers Holding the Bag",
-          "url": "https://www.wired.com/story/roli-has-fallen-apart-and-left-customers-holding-the-bag/",
-          "postedAt": "2026-11-03T14:00:34.000Z"
-        },
-        {
-          "id": "om_0e815de4c8",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside agency efforts to navigate the AEO platform landscape",
-          "url": "https://www.marketingbrew.com/stories/agencies-evaluating-aeo-platforms?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-03T13:02:45.000Z"
-        },
-        {
-          "id": "om_60051f5b57",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How the sausage is made: Inside Johnsonville’s political parody campaign",
-          "url": "https://www.marketingdive.com/news/how-the-sausage-is-made-inside-johnsonvilles-political-parody-campaign/873248/",
-          "postedAt": "2026-11-03T12:00:00.000Z"
-        },
-        {
-          "id": "om_a52e99fcd5",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Holiday shoppers only want a dash of AI for the gift hunt",
-          "url": "https://www.retaildive.com/news/holiday-shoppers-only-want-a-dash-of-ai-for-the-gift-hunt/873317/",
-          "postedAt": "2026-11-03T12:00:00.000Z"
-        },
-        {
-          "id": "om_d808b3386f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Shopify Stores Face Suspected AI-Driven Attacks",
-          "url": "https://www.adweek.com/commerce/shopify-stores-face-suspected-ai-driven-attacks/",
-          "postedAt": "2026-11-03T10:38:02.000Z"
-        },
-        {
-          "id": "om_56c58e32b8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "SharkNinja’s Holiday Ad Puts David Beckham’s Gadgets at the Mercy of His Celeb Pals",
-          "url": "https://www.adweek.com/brand-marketing/sharkninjas-holiday-ad-puts-david-beckhams-gadgets-at-the-mercy-of-his-celeb-pals/",
-          "postedAt": "2026-11-03T10:00:00.000Z"
-        },
-        {
-          "id": "om_aa0229ccf6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Gap’s Holiday Choir Tradition Reaches New Heights With Jackson 5 Cover",
-          "url": "https://www.adweek.com/brand-marketing/gaps-holiday-choir-tradition-reaches-new-heights-with-jackson-5-cover/",
-          "postedAt": "2026-11-03T09:00:00.000Z"
-        },
-        {
-          "id": "om_e2476cb1b1",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Kristin Scott Thomas Is No Ordinary Grandma in John Lewis’ Holiday Campaign",
-          "url": "https://www.adweek.com/brand-marketing/kristin-scott-thomas-is-no-ordinary-grandma-in-john-lewis-holiday-campaign/",
-          "postedAt": "2026-11-03T06:14:54.000Z"
-        },
-        {
-          "id": "om_226d68d701",
-          "source": "Wired",
-          "lang": "en",
-          "title": "The Online Right’s Closing Campaign Argument: Fascist Anakin Skywalker Memes",
-          "url": "https://www.wired.com/story/the-online-rights-closing-campaign-argument-fascist-anakin-skywalker-memes/",
-          "postedAt": "2026-11-02T23:17:27.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-04T06:16:56.520Z",
+      "lastUpdated": "2026-11-04T19:43:34.198Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
