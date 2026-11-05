@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-05T06:42:33.791Z",
+      "lastUpdated": "2026-11-05T19:55:32.526Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_the_knowledge_project_6ac0cf6d5c",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "Jon McNeill: How Elon Musk Makes Decisions",
+          "url": "https://fs.blog/knowledge-project-podcast/jon-mcneill/",
+          "postedAt": "2026-11-05T10:55:00.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_5c054ef054",
           "source": "Lenny's Podcast",
@@ -419,10 +427,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-05T06:42:35.308Z",
+      "lastUpdated": "2026-11-05T19:55:34.192Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "14 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -512,168 +520,168 @@
       },
       "articles": [
         {
-          "id": "om_14551e7dcd",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Facebook expands Creator Fast Track program to Brazil",
-          "url": "https://www.socialmediatoday.com/news/facebook-expands-creator-fast-track-program-to-brazil/873821/",
-          "postedAt": "2026-11-04T22:56:01.000Z"
-        },
-        {
-          "id": "om_ea67268821",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Instagram tries to entice long-form creators",
-          "url": "https://www.socialmediatoday.com/news/instagram-tries-to-entice-long-form-creators/873820/",
-          "postedAt": "2026-11-04T22:50:52.000Z"
-        },
-        {
-          "id": "om_08ee20a53c",
-          "source": "Wired",
-          "lang": "en",
-          "title": "‘We Have No Shared Reality’: Two Political Influencers on the Future of Politics Online",
-          "url": "https://www.wired.com/story/wired-world-fair-2026-cj-pearson-and-kat-abughazaleh/",
-          "postedAt": "2026-11-04T21:04:05.000Z"
-        },
-        {
-          "id": "om_0036be4a48",
+          "id": "om_1187877bbc",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-          "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
-          "postedAt": "2026-11-04T20:36:57.000Z"
+          "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+          "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+          "postedAt": "2026-11-05T18:48:34.000Z"
         },
         {
-          "id": "om_90e5761a59",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Reddit publishes 2027 marketing playbook",
-          "url": "https://www.socialmediatoday.com/news/reddit-publishes-2027-marketing-playbook/873789/",
-          "postedAt": "2026-11-04T19:31:00.000Z"
-        },
-        {
-          "id": "om_9ac8a3fc15",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Brandweek 2026: Can Too Much Attribution Make Marketing Worse? ft. Amanda Teder",
-          "url": "https://www.adweek.com/brand-marketing/brandweek-2026-can-too-much-attribution-make-marketing-worse-ft-amanda-teder/",
-          "postedAt": "2026-11-04T18:05:30.000Z"
-        },
-        {
-          "id": "om_ef8026b415",
+          "id": "om_56ba094769",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Wayfair notches ‘strongest quarter of growth’ since the pandemic",
-          "url": "https://www.retaildive.com/news/wayfair-strongest-quarter-since-pandemic/873740/",
-          "postedAt": "2026-11-04T17:18:00.000Z"
+          "title": "Walmart ramps up Sparky features in time for the holidays",
+          "url": "https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/",
+          "postedAt": "2026-11-05T18:01:00.000Z"
         },
         {
-          "id": "om_9cd5b2ca9a",
+          "id": "om_2e6268bf9e",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Outdoor Voices inks licensing deal for UK and EU",
-          "url": "https://www.retaildive.com/news/outdoor-voices-expands-uk-eu/873730/",
-          "postedAt": "2026-11-04T16:57:00.000Z"
+          "title": "Amazon adds over 100 Alexa for Shopping functions",
+          "url": "https://www.retaildive.com/news/amazon-adds-alexa-ai-shopping-functions/873602/",
+          "postedAt": "2026-11-05T17:38:00.000Z"
         },
         {
-          "id": "om_dbb79aa298",
+          "id": "om_4024dd001f",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "TikTok launched a dedicated TikTok Shop app",
+          "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
+          "postedAt": "2026-11-05T17:27:36.000Z"
+        },
+        {
+          "id": "om_f759c45485",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "‘This will normalize’: What Adidas’ Q3 reveals about the broader footwear market",
-          "url": "https://www.retaildive.com/news/adidas-q3-earnings-sales-growth-lifestyle-footwear-market/873640/",
-          "postedAt": "2026-11-04T16:51:00.000Z"
+          "title": "Ikea leans into events for the holidays",
+          "url": "https://www.retaildive.com/news/ikea-holiday-market-store-events/873869/",
+          "postedAt": "2026-11-05T17:22:00.000Z"
         },
         {
-          "id": "om_a135027b04",
+          "id": "om_b58594496c",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Hydro Flask, Osprey owner receives acquisition proposal valued at $1.6B",
-          "url": "https://www.retaildive.com/news/hydro-flask-osprey-owner-receives-acquisition-proposal-valued-at-16b/873719/",
-          "postedAt": "2026-11-04T16:31:00.000Z"
+          "title": "E.l.f. Beauty growth driven by innovation, not just pricing power",
+          "url": "https://www.retaildive.com/news/elf-beauty-q2-earnings-sales-growth-innovation-pricing-power/873868/",
+          "postedAt": "2026-11-05T17:02:00.000Z"
         },
         {
-          "id": "om_aa8296816d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "RadioShack Makes a Retro-Centric Comeback",
-          "url": "https://www.adweek.com/commerce/radioshack-makes-a-retro-centric-comeback/",
-          "postedAt": "2026-11-04T15:01:05.000Z"
-        },
-        {
-          "id": "om_7e7a4794a8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why I’m Wary of a Publicis-Owned LiveRamp—and Your CMO Should Be Too",
-          "url": "https://www.adweek.com/agencies/why-im-wary-of-a-publicis-owned-liverampand-your-cmo-should-be-too/",
-          "postedAt": "2026-11-04T14:58:36.000Z"
-        },
-        {
-          "id": "om_5e8108981a",
+          "id": "om_efc6e00e9a",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Target vs. Walmart: Holiday marketing’s stakes feel higher this year",
-          "url": "https://www.marketingdive.com/news/target-vs-walmart-holiday-marketings-stakes-feel-higher-this-year/873343/",
-          "postedAt": "2026-11-04T14:00:00.000Z"
+          "title": "L’Oréal’s evolving microdrama strategy puts entertainment over product",
+          "url": "https://www.marketingdive.com/news/loreals-evolving-microdrama-strategy-puts-entertainment-over-product/873646/",
+          "postedAt": "2026-11-05T17:00:00.000Z"
         },
         {
-          "id": "om_0496dc6e4a",
+          "id": "om_53cf361e53",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Ethan Allen CEO out as chair after activist board shakeup",
+          "url": "https://www.retaildive.com/news/ethan-allen-ceo-out-as-chair-after-activist-board-shakeup/873850/",
+          "postedAt": "2026-11-05T16:41:00.000Z"
+        },
+        {
+          "id": "om_ee559fc5f4",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Revolve points to stores’ strengths but won’t rush to expand its fleet",
+          "url": "https://www.retaildive.com/news/revolve-q3-earnings-sales-growth-store-strength-expand-fleet/873747/",
+          "postedAt": "2026-11-05T16:18:00.000Z"
+        },
+        {
+          "id": "om_077b11dbb8",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: Reddit tests ads in search results",
+          "url": "https://www.marketingdive.com/news/sociable-reddit-tests-ads-in-search-results/873874/",
+          "postedAt": "2026-11-05T16:04:00.000Z"
+        },
+        {
+          "id": "om_2aa16e9146",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Wendy’s takes a shot at McDonald’s with rewards-based video game",
+          "url": "https://www.marketingdive.com/news/wendys-takes-a-shot-at-mcdonalds-with-rewards-based-video-game/873785/",
+          "postedAt": "2026-11-05T16:00:00.000Z"
+        },
+        {
+          "id": "om_5fa1bb96e0",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Hydro Flask owner rejects ‘opportunistic’ takeover proposal",
+          "url": "https://www.retaildive.com/news/hydro-flask-owner-rejects-opportunistic-takeover-proposal-empower-brands/873837/",
+          "postedAt": "2026-11-05T15:59:00.000Z"
+        },
+        {
+          "id": "om_b3db1a2575",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "Canva lays off over 1,200 people amid slowing growth",
-          "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
-          "postedAt": "2026-11-04T11:59:00.000Z"
+          "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+          "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+          "postedAt": "2026-11-05T15:33:58.000Z"
         },
         {
-          "id": "om_16e5c88d83",
+          "id": "om_0c87c89d2e",
           "source": "Adweek",
           "lang": "en",
-          "title": "Channing Tatum Suits Up as Gambit for Dunkin’s First-Ever Marvel Partnership",
-          "url": "https://www.adweek.com/creativity/channing-tatum-suits-up-as-gambit-for-dunkins-first-ever-marvel-partnership/",
-          "postedAt": "2026-11-04T10:24:53.000Z"
+          "title": "How Athletes Are Becoming the Media Companies of Tomorrow",
+          "url": "https://www.adweek.com/brand-marketing/how-athletes-are-becoming-the-media-companies-of-tomorrow/",
+          "postedAt": "2026-11-05T14:34:57.000Z"
         },
         {
-          "id": "om_0aa7eaa872",
+          "id": "om_bb3cec2b2c",
           "source": "Marketing Brew",
           "lang": "en",
-          "title": "Nike’s latest marathon campaign is in the pages of the New York Times",
-          "url": "https://www.marketingbrew.com/stories/nikes-nyc-marathon-new-york-times?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-04T10:00:00.000Z"
+          "title": "Inside Firefox’s internet nostalgia brand campaign",
+          "url": "https://www.marketingbrew.com/stories/firefox-internet-nostalgia-brand-campaign-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-05T14:23:39.000Z"
         },
         {
-          "id": "om_a0d5ffb340",
+          "id": "om_a9d6c2b514",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Lenovo NA CMO on telling the ‘full stack story’ through sports",
+          "url": "https://www.marketingdive.com/news/lenovo-na-cmo-on-telling-the-full-stack-story-through-sports/873756/",
+          "postedAt": "2026-11-05T14:17:00.000Z"
+        },
+        {
+          "id": "om_dcfb05c165",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Old Navy flies with celebs, Gap keeps it acapella for holiday campaigns",
+          "url": "https://www.marketingdive.com/news/old-navy-flies-with-celebs-gap-keeps-it-acapella-for-holiday-campaigns/873777/",
+          "postedAt": "2026-11-05T14:00:00.000Z"
+        },
+        {
+          "id": "om_f18a3aebe2",
           "source": "Adweek",
           "lang": "en",
-          "title": "The Trade Desk and Dstillery Link AI Agents to Reshape Audiences Mid-Campaign",
-          "url": "https://www.adweek.com/programmatic/the-trade-desk-and-dstillery-link-ai-agents-to-reshape-audiences-mid-campaign/",
-          "postedAt": "2026-11-04T09:27:40.000Z"
+          "title": "American Express Picks Jess Ling as Its Next CMO",
+          "url": "https://www.adweek.com/commerce/american-express-names-jess-ling-cmo/",
+          "postedAt": "2026-11-05T13:56:29.000Z"
         },
         {
-          "id": "om_af847f390a",
+          "id": "om_7c99440138",
           "source": "Adweek",
           "lang": "en",
-          "title": "Amazon Advertisers Can Now Target Shoppers That Buy Elsewhere",
-          "url": "https://www.adweek.com/commerce/amazon-advertisers-can-now-target-shoppers-that-buy-elsewhere/",
-          "postedAt": "2026-11-04T07:00:00.000Z"
+          "title": "McDonald’s Splits Top U.S. Marketing Job As U.S. CMO Alyssa Buetikofer Exits",
+          "url": "https://www.adweek.com/brand-marketing/mcdonalds-splits-top-us-marketing-job-as-us-cmo-alyssa-buetikofer-exits/",
+          "postedAt": "2026-11-05T13:50:33.000Z"
         },
         {
-          "id": "om_68dc127148",
-          "source": "Social Media Today",
+          "id": "om_09d4a2cc16",
+          "source": "Marketing Dive",
           "lang": "en",
-          "title": "LinkedIn details new creator insights options",
-          "url": "https://www.socialmediatoday.com/news/linkedin-details-new-creator-insights-options/873675/",
-          "postedAt": "2026-11-03T23:25:51.000Z"
-        },
-        {
-          "id": "om_58e976d008",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Reddit pitches its 1,300 gaming-related communities to brands",
-          "url": "https://www.socialmediatoday.com/news/reddit-pitches-its-1300-gaming-related-communities-to-brands/873673/",
-          "postedAt": "2026-11-03T23:19:23.000Z"
+          "title": "How marketers can better optimize for AI search visibility",
+          "url": "https://www.marketingdive.com/news/how-marketers-can-better-optimize-for-ai-search-visibility/833013/",
+          "postedAt": "2026-11-05T13:49:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-05T06:42:36.428Z",
+      "lastUpdated": "2026-11-05T19:55:35.687Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
