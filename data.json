@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-04T19:43:32.547Z",
+      "lastUpdated": "2026-11-05T06:42:33.791Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-04T19:43:33.190Z",
+      "lastUpdated": "2026-11-05T06:42:35.308Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,54 @@
       },
       "articles": [
         {
+          "id": "om_14551e7dcd",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Facebook expands Creator Fast Track program to Brazil",
+          "url": "https://www.socialmediatoday.com/news/facebook-expands-creator-fast-track-program-to-brazil/873821/",
+          "postedAt": "2026-11-04T22:56:01.000Z"
+        },
+        {
+          "id": "om_ea67268821",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Instagram tries to entice long-form creators",
+          "url": "https://www.socialmediatoday.com/news/instagram-tries-to-entice-long-form-creators/873820/",
+          "postedAt": "2026-11-04T22:50:52.000Z"
+        },
+        {
+          "id": "om_08ee20a53c",
+          "source": "Wired",
+          "lang": "en",
+          "title": "‘We Have No Shared Reality’: Two Political Influencers on the Future of Politics Online",
+          "url": "https://www.wired.com/story/wired-world-fair-2026-cj-pearson-and-kat-abughazaleh/",
+          "postedAt": "2026-11-04T21:04:05.000Z"
+        },
+        {
+          "id": "om_0036be4a48",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
+          "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
+          "postedAt": "2026-11-04T20:36:57.000Z"
+        },
+        {
+          "id": "om_90e5761a59",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Reddit publishes 2027 marketing playbook",
+          "url": "https://www.socialmediatoday.com/news/reddit-publishes-2027-marketing-playbook/873789/",
+          "postedAt": "2026-11-04T19:31:00.000Z"
+        },
+        {
+          "id": "om_9ac8a3fc15",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Brandweek 2026: Can Too Much Attribution Make Marketing Worse? ft. Amanda Teder",
+          "url": "https://www.adweek.com/brand-marketing/brandweek-2026-can-too-much-attribution-make-marketing-worse-ft-amanda-teder/",
+          "postedAt": "2026-11-04T18:05:30.000Z"
+        },
+        {
           "id": "om_ef8026b415",
           "source": "Retail Dive",
           "lang": "en",
@@ -542,6 +590,22 @@
           "title": "Hydro Flask, Osprey owner receives acquisition proposal valued at $1.6B",
           "url": "https://www.retaildive.com/news/hydro-flask-osprey-owner-receives-acquisition-proposal-valued-at-16b/873719/",
           "postedAt": "2026-11-04T16:31:00.000Z"
+        },
+        {
+          "id": "om_aa8296816d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "RadioShack Makes a Retro-Centric Comeback",
+          "url": "https://www.adweek.com/commerce/radioshack-makes-a-retro-centric-comeback/",
+          "postedAt": "2026-11-04T15:01:05.000Z"
+        },
+        {
+          "id": "om_7e7a4794a8",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why I’m Wary of a Publicis-Owned LiveRamp—and Your CMO Should Be Too",
+          "url": "https://www.adweek.com/agencies/why-im-wary-of-a-publicis-owned-liverampand-your-cmo-should-be-too/",
+          "postedAt": "2026-11-04T14:58:36.000Z"
         },
         {
           "id": "om_5e8108981a",
@@ -592,14 +656,6 @@
           "postedAt": "2026-11-04T07:00:00.000Z"
         },
         {
-          "id": "om_dc979f937d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ADWEEK Commerce Advantage: Ecommerce Agencies Are Buying Up TikTok Shop Specialists",
-          "url": "https://www.adweek.com/commerce/adweek-commerce-advantage-ecommerce-agencies-are-buying-up-tiktok-shop-specialists/",
-          "postedAt": "2026-11-04T06:00:00.000Z"
-        },
-        {
           "id": "om_68dc127148",
           "source": "Social Media Today",
           "lang": "en",
@@ -614,66 +670,10 @@
           "title": "Reddit pitches its 1,300 gaming-related communities to brands",
           "url": "https://www.socialmediatoday.com/news/reddit-pitches-its-1300-gaming-related-communities-to-brands/873673/",
           "postedAt": "2026-11-03T23:19:23.000Z"
-        },
-        {
-          "id": "om_c2327eb389",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-          "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
-          "postedAt": "2026-11-03T19:24:37.000Z"
-        },
-        {
-          "id": "om_9d2b2dd20f",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Levi’s claymation holiday campaign celebrates handmade craft amid AI bloat",
-          "url": "https://www.marketingdive.com/news/levis-claymation-holiday-campaign-celebrates-handmade-craft-amid-ai-bloat/873496/",
-          "postedAt": "2026-11-03T17:00:00.000Z"
-        },
-        {
-          "id": "om_3a85c4157c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Brandweek 2026: Why Marketing Belongs in Product, Finance, and Tech with Petzey’s Ameetess Dira",
-          "url": "https://www.adweek.com/brand-marketing/brandweek-2026-why-marketing-belongs-in-product-finance-and-tech-with-petzeys-ameetess-dira/",
-          "postedAt": "2026-11-03T16:31:00.000Z"
-        },
-        {
-          "id": "om_ddbdc979be",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "With new ownership, Lee eyes activewear and workwear",
-          "url": "https://www.retaildive.com/news/lee-authentic-brands-group-activewear-workwear-expansion/873590/",
-          "postedAt": "2026-11-03T16:28:00.000Z"
-        },
-        {
-          "id": "om_a04cf36671",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "From ROAS to Real Results: Benoit Vatere and Bryan Leach on the Future of Performance Marketing",
-          "url": "https://www.adweek.com/brand-marketing/from-roas-to-real-results-benoit-vatere-and-bryan-leach-on-the-future-of-performance-marketing/",
-          "postedAt": "2026-11-03T16:18:04.000Z"
-        },
-        {
-          "id": "om_3c13ec0fed",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Respect Over Authenticity: Whalar Group Rewrites the Brand-Creator Partnership",
-          "url": "https://www.adweek.com/brand-marketing/respect-over-authenticity-whalar-group-rewrites-the-brand-creator-partnership/",
-          "postedAt": "2026-11-03T16:06:34.000Z"
-        },
-        {
-          "id": "om_e598a40a3c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Bed Bath & Beyond’s strategy needs a reset",
-          "url": "https://www.retaildive.com/news/bed-bath-beyonds-turnaround-strategy-needs-reset-neighborhood-intelligence/873479/",
-          "postedAt": "2026-11-03T15:35:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-04T19:43:34.198Z",
+      "lastUpdated": "2026-11-05T06:42:36.428Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
