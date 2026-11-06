@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-05T19:55:32.526Z",
+      "lastUpdated": "2026-11-06T06:39:59.607Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-05T19:55:34.192Z",
+      "lastUpdated": "2026-11-06T06:40:00.229Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,54 @@
       },
       "articles": [
         {
+          "id": "om_fb3e595a55",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+          "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+          "postedAt": "2026-11-06T00:01:38.000Z"
+        },
+        {
+          "id": "om_31dbaa3452",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta, TikTok and Google push back on California law",
+          "url": "https://www.socialmediatoday.com/news/meta-tiktok-and-google-push-back-on-california-law/873955/",
+          "postedAt": "2026-11-05T22:57:37.000Z"
+        },
+        {
+          "id": "om_019e7e4605",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok launches standalone shopping app",
+          "url": "https://www.socialmediatoday.com/news/tiktok-launches-standalone-shopping-app/873952/",
+          "postedAt": "2026-11-05T22:14:51.000Z"
+        },
+        {
+          "id": "om_5fd6fc3eb3",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta adds new capabilities to Graph and Marketing API",
+          "url": "https://www.socialmediatoday.com/news/meta-adds-new-capabilities-to-graph-and-marketing-api/873951/",
+          "postedAt": "2026-11-05T22:13:39.000Z"
+        },
+        {
+          "id": "om_52ec90e016",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "McDonald’s US CMO steps down as sales decline",
+          "url": "https://www.marketingdive.com/news/mcdonalds-us-cmo-steps-down-as-sales-decline/873927/",
+          "postedAt": "2026-11-05T21:03:00.000Z"
+        },
+        {
+          "id": "om_95fb8ed662",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Behind the scenes of Ikea’s rapid-response social team",
+          "url": "https://www.marketingbrew.com/stories/ikea-rapid-response-social-team?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-05T20:08:11.000Z"
+        },
+        {
           "id": "om_1187877bbc",
           "source": "TechCrunch",
           "lang": "en",
@@ -536,20 +584,20 @@
           "postedAt": "2026-11-05T18:01:00.000Z"
         },
         {
+          "id": "om_543641e8c1",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The 2026 Political Ad Outlay Was the Dumbest Money Spent In the History of Advertising",
+          "url": "https://www.adweek.com/media/the-2026-political-ad-outlay-was-the-dumbest-money-spent-in-the-history-of-advertising/",
+          "postedAt": "2026-11-05T17:38:24.000Z"
+        },
+        {
           "id": "om_2e6268bf9e",
           "source": "Retail Dive",
           "lang": "en",
           "title": "Amazon adds over 100 Alexa for Shopping functions",
           "url": "https://www.retaildive.com/news/amazon-adds-alexa-ai-shopping-functions/873602/",
           "postedAt": "2026-11-05T17:38:00.000Z"
-        },
-        {
-          "id": "om_4024dd001f",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "TikTok launched a dedicated TikTok Shop app",
-          "url": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
-          "postedAt": "2026-11-05T17:27:36.000Z"
         },
         {
           "id": "om_f759c45485",
@@ -630,58 +678,10 @@
           "title": "How Athletes Are Becoming the Media Companies of Tomorrow",
           "url": "https://www.adweek.com/brand-marketing/how-athletes-are-becoming-the-media-companies-of-tomorrow/",
           "postedAt": "2026-11-05T14:34:57.000Z"
-        },
-        {
-          "id": "om_bb3cec2b2c",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside Firefox’s internet nostalgia brand campaign",
-          "url": "https://www.marketingbrew.com/stories/firefox-internet-nostalgia-brand-campaign-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-05T14:23:39.000Z"
-        },
-        {
-          "id": "om_a9d6c2b514",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Lenovo NA CMO on telling the ‘full stack story’ through sports",
-          "url": "https://www.marketingdive.com/news/lenovo-na-cmo-on-telling-the-full-stack-story-through-sports/873756/",
-          "postedAt": "2026-11-05T14:17:00.000Z"
-        },
-        {
-          "id": "om_dcfb05c165",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Old Navy flies with celebs, Gap keeps it acapella for holiday campaigns",
-          "url": "https://www.marketingdive.com/news/old-navy-flies-with-celebs-gap-keeps-it-acapella-for-holiday-campaigns/873777/",
-          "postedAt": "2026-11-05T14:00:00.000Z"
-        },
-        {
-          "id": "om_f18a3aebe2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "American Express Picks Jess Ling as Its Next CMO",
-          "url": "https://www.adweek.com/commerce/american-express-names-jess-ling-cmo/",
-          "postedAt": "2026-11-05T13:56:29.000Z"
-        },
-        {
-          "id": "om_7c99440138",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "McDonald’s Splits Top U.S. Marketing Job As U.S. CMO Alyssa Buetikofer Exits",
-          "url": "https://www.adweek.com/brand-marketing/mcdonalds-splits-top-us-marketing-job-as-us-cmo-alyssa-buetikofer-exits/",
-          "postedAt": "2026-11-05T13:50:33.000Z"
-        },
-        {
-          "id": "om_09d4a2cc16",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How marketers can better optimize for AI search visibility",
-          "url": "https://www.marketingdive.com/news/how-marketers-can-better-optimize-for-ai-search-visibility/833013/",
-          "postedAt": "2026-11-05T13:49:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-05T19:55:35.687Z",
+      "lastUpdated": "2026-11-06T06:40:01.118Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
