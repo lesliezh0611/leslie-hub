@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-06T06:39:59.607Z",
+      "lastUpdated": "2026-11-06T19:22:40.068Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-06T06:40:00.229Z",
+      "lastUpdated": "2026-11-06T19:22:41.491Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,126 @@
       },
       "articles": [
         {
+          "id": "om_004793be4e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Children’s Place shakes up leadership amid bankruptcy rumors",
+          "url": "https://www.retaildive.com/news/the-childrens-place-leadership-shakeup-bankruptcy-rumors/874004/",
+          "postedAt": "2026-11-06T17:31:00.000Z"
+        },
+        {
+          "id": "om_653c3d9091",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Under Armour to sell more full-price product at outlet stores",
+          "url": "https://www.retaildive.com/news/under-armour-q2-earnings-sales-declines-licensed-youth-sports/873996/",
+          "postedAt": "2026-11-06T17:13:00.000Z"
+        },
+        {
+          "id": "om_45275216cb",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Reformation implements new AI planning tool, helping in-stock rates",
+          "url": "https://www.retaildive.com/news/reformation-q3-earnings-sales-growth-ai-planning-tool-in-stock-rates/873991/",
+          "postedAt": "2026-11-06T17:12:00.000Z"
+        },
+        {
+          "id": "om_ab4846bbc5",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+          "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+          "postedAt": "2026-11-06T14:10:00.000Z"
+        },
+        {
+          "id": "om_800746acf9",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Lands’ End’s holiday pop-up feeds an always-on marketing strategy",
+          "url": "https://www.marketingdive.com/news/how-lands-ends-holiday-pop-up-feeds-an-always-on-marketing-strategy/873792/",
+          "postedAt": "2026-11-06T14:00:00.000Z"
+        },
+        {
+          "id": "om_96bb90d949",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: What’s next for CVS retail and Canada Goose net loss widens",
+          "url": "https://www.retaildive.com/news/whats-next-cvs-retail-canada-goose-net-loss-wid/873933/",
+          "postedAt": "2026-11-06T14:00:00.000Z"
+        },
+        {
+          "id": "om_0bb613a709",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Meerkat’s Dustin Black Makes an Art of Staying Curious",
+          "url": "https://www.adweek.com/agencies/meerkats-dustin-black-makes-an-art-of-staying-curious/",
+          "postedAt": "2026-11-06T13:16:11.000Z"
+        },
+        {
+          "id": "om_fa11926b7f",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Campaign Trail: Wet Ones puts ‘hand butts’ on the streets",
+          "url": "https://www.marketingdive.com/news/campaign-trail-wet-ones-puts-hand-butts-on-the-streets/873564/",
+          "postedAt": "2026-11-06T13:00:00.000Z"
+        },
+        {
+          "id": "om_f1d7f01009",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Brandweek 2026: The ‘Why’ Test Behind Mars’ Boldest Ideas ft. Rankin Carroll",
+          "url": "https://www.adweek.com/brand-marketing/brandweek-2026-the-why-test-behind-mars-boldest-ideas-ft-rankin-carroll/",
+          "postedAt": "2026-11-06T11:47:17.000Z"
+        },
+        {
+          "id": "om_886b6ff3d2",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Entries Now Open for the 2027 ADWEEK Marketing Vanguard Awards",
+          "url": "https://www.adweek.com/brand-marketing/entries-now-open-for-the-2027-adweek-marketing-vanguard-awards/",
+          "postedAt": "2026-11-06T10:11:58.000Z"
+        },
+        {
+          "id": "om_e041e32554",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "9 Marketing Moves to Know This Week: McDonald’s, Netflix, and More",
+          "url": "https://www.adweek.com/brand-marketing/9-marketing-moves-to-know-this-week-mcdonalds-netflix-and-more/",
+          "postedAt": "2026-11-06T10:01:39.000Z"
+        },
+        {
+          "id": "om_98117990cd",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "GM’s AI pitch to consumers: Let us take something off your plate",
+          "url": "https://www.marketingbrew.com/stories/gm-onstar-ai-pitch-to-consumers-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-06T10:00:00.000Z"
+        },
+        {
+          "id": "om_ec8419045c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Amazon is Letting Customers Text Its Shopping Assistant",
+          "url": "https://www.adweek.com/commerce/amazon-is-letting-customers-text-its-shopping-assistant/",
+          "postedAt": "2026-11-06T09:00:00.000Z"
+        },
+        {
+          "id": "om_0e5c094b11",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Political Campaigns Spent a Near-Record $331 Per Voter, But Waste Forces Rethink",
+          "url": "https://www.adweek.com/convergent-tv/political-campaigns-spent-a-near-record-331-per-voter-but-waste-forces-rethink/",
+          "postedAt": "2026-11-06T06:00:00.000Z"
+        },
+        {
+          "id": "om_e157c90c34",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 11 Campaigns That Caught Our Eye, From Calvin Klein to Dunkin’",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-11-campaigns-that-caught-our-eye-from-calvin-klein-to-dunkin/",
+          "postedAt": "2026-11-06T06:00:00.000Z"
+        },
+        {
           "id": "om_fb3e595a55",
           "source": "TechCrunch",
           "lang": "en",
@@ -558,130 +678,10 @@
           "title": "McDonald’s US CMO steps down as sales decline",
           "url": "https://www.marketingdive.com/news/mcdonalds-us-cmo-steps-down-as-sales-decline/873927/",
           "postedAt": "2026-11-05T21:03:00.000Z"
-        },
-        {
-          "id": "om_95fb8ed662",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Behind the scenes of Ikea’s rapid-response social team",
-          "url": "https://www.marketingbrew.com/stories/ikea-rapid-response-social-team?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-05T20:08:11.000Z"
-        },
-        {
-          "id": "om_1187877bbc",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-          "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-          "postedAt": "2026-11-05T18:48:34.000Z"
-        },
-        {
-          "id": "om_56ba094769",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart ramps up Sparky features in time for the holidays",
-          "url": "https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/",
-          "postedAt": "2026-11-05T18:01:00.000Z"
-        },
-        {
-          "id": "om_543641e8c1",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The 2026 Political Ad Outlay Was the Dumbest Money Spent In the History of Advertising",
-          "url": "https://www.adweek.com/media/the-2026-political-ad-outlay-was-the-dumbest-money-spent-in-the-history-of-advertising/",
-          "postedAt": "2026-11-05T17:38:24.000Z"
-        },
-        {
-          "id": "om_2e6268bf9e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon adds over 100 Alexa for Shopping functions",
-          "url": "https://www.retaildive.com/news/amazon-adds-alexa-ai-shopping-functions/873602/",
-          "postedAt": "2026-11-05T17:38:00.000Z"
-        },
-        {
-          "id": "om_f759c45485",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Ikea leans into events for the holidays",
-          "url": "https://www.retaildive.com/news/ikea-holiday-market-store-events/873869/",
-          "postedAt": "2026-11-05T17:22:00.000Z"
-        },
-        {
-          "id": "om_b58594496c",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "E.l.f. Beauty growth driven by innovation, not just pricing power",
-          "url": "https://www.retaildive.com/news/elf-beauty-q2-earnings-sales-growth-innovation-pricing-power/873868/",
-          "postedAt": "2026-11-05T17:02:00.000Z"
-        },
-        {
-          "id": "om_efc6e00e9a",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "L’Oréal’s evolving microdrama strategy puts entertainment over product",
-          "url": "https://www.marketingdive.com/news/loreals-evolving-microdrama-strategy-puts-entertainment-over-product/873646/",
-          "postedAt": "2026-11-05T17:00:00.000Z"
-        },
-        {
-          "id": "om_53cf361e53",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Ethan Allen CEO out as chair after activist board shakeup",
-          "url": "https://www.retaildive.com/news/ethan-allen-ceo-out-as-chair-after-activist-board-shakeup/873850/",
-          "postedAt": "2026-11-05T16:41:00.000Z"
-        },
-        {
-          "id": "om_ee559fc5f4",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Revolve points to stores’ strengths but won’t rush to expand its fleet",
-          "url": "https://www.retaildive.com/news/revolve-q3-earnings-sales-growth-store-strength-expand-fleet/873747/",
-          "postedAt": "2026-11-05T16:18:00.000Z"
-        },
-        {
-          "id": "om_077b11dbb8",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: Reddit tests ads in search results",
-          "url": "https://www.marketingdive.com/news/sociable-reddit-tests-ads-in-search-results/873874/",
-          "postedAt": "2026-11-05T16:04:00.000Z"
-        },
-        {
-          "id": "om_2aa16e9146",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Wendy’s takes a shot at McDonald’s with rewards-based video game",
-          "url": "https://www.marketingdive.com/news/wendys-takes-a-shot-at-mcdonalds-with-rewards-based-video-game/873785/",
-          "postedAt": "2026-11-05T16:00:00.000Z"
-        },
-        {
-          "id": "om_5fa1bb96e0",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Hydro Flask owner rejects ‘opportunistic’ takeover proposal",
-          "url": "https://www.retaildive.com/news/hydro-flask-owner-rejects-opportunistic-takeover-proposal-empower-brands/873837/",
-          "postedAt": "2026-11-05T15:59:00.000Z"
-        },
-        {
-          "id": "om_b3db1a2575",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "TikTok quietly launches a stand-alone TikTok Shop app",
-          "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
-          "postedAt": "2026-11-05T15:33:58.000Z"
-        },
-        {
-          "id": "om_0c87c89d2e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Athletes Are Becoming the Media Companies of Tomorrow",
-          "url": "https://www.adweek.com/brand-marketing/how-athletes-are-becoming-the-media-companies-of-tomorrow/",
-          "postedAt": "2026-11-05T14:34:57.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-06T06:40:01.118Z",
+      "lastUpdated": "2026-11-06T19:22:43.416Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
