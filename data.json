@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-07T05:56:04.309Z",
+      "lastUpdated": "2026-11-07T17:44:12.340Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-07T05:56:05.499Z",
+      "lastUpdated": "2026-11-07T17:44:13.422Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -632,14 +632,6 @@
           "postedAt": "2026-11-06T06:00:00.000Z"
         },
         {
-          "id": "om_fb3e595a55",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Meta, Google, and TikTok sue California AG over teen social media law",
-          "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
-          "postedAt": "2026-11-06T00:01:38.000Z"
-        },
-        {
           "id": "om_31dbaa3452",
           "source": "Social Media Today",
           "lang": "en",
@@ -678,10 +670,18 @@
           "title": "Behind the scenes of Ikea’s rapid-response social team",
           "url": "https://www.marketingbrew.com/stories/ikea-rapid-response-social-team?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-11-05T20:08:11.000Z"
+        },
+        {
+          "id": "om_56ba094769",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart ramps up Sparky features in time for the holidays",
+          "url": "https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/",
+          "postedAt": "2026-11-05T18:01:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-07T05:56:06.918Z",
+      "lastUpdated": "2026-11-07T17:44:14.823Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
