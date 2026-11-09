@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-08T17:55:01.361Z",
+      "lastUpdated": "2026-11-09T06:22:40.259Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -270,7 +270,7 @@
           "id": "en_pod_lenny_s_podcast_ed44bd78a8",
           "source": "Lenny's Podcast",
           "platform": "newsletter",
-          "topic": "What it actually takes to build frontier models | Tulsee Doshi (Head of Product for Gemini)",
+          "topic": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
           "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
           "postedAt": "2026-11-08T13:31:32.000Z"
         },
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-08T17:55:02.524Z",
+      "lastUpdated": "2026-11-09T06:22:40.723Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,30 @@
       },
       "articles": [
         {
+          "id": "om_b825c71893",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok shares gaming and app promotional guides for end-of-year period",
+          "url": "https://www.socialmediatoday.com/news/tiktok-shares-gaming-and-app-promotional-guides-for-end-of-year-period/874069/",
+          "postedAt": "2026-11-08T22:31:16.000Z"
+        },
+        {
+          "id": "om_0e20143802",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "YouTube expands custom feeds and offers new partnership options",
+          "url": "https://www.socialmediatoday.com/news/youtube-expands-custom-feeds-and-offers-new-partnership-options/874068/",
+          "postedAt": "2026-11-08T21:14:53.000Z"
+        },
+        {
+          "id": "om_47324e1724",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "After a $2 Billion Exit, Poppi’s Founders Take Aim at Hydration Drinks",
+          "url": "https://www.adweek.com/brand-marketing/after-a-2-billion-exit-poppis-founders-take-aim-at-hydration-drinks/",
+          "postedAt": "2026-11-08T15:00:00.000Z"
+        },
+        {
           "id": "om_004793be4e",
           "source": "Retail Dive",
           "lang": "en",
@@ -542,14 +566,6 @@
           "title": "Reformation implements new AI planning tool, helping in-stock rates",
           "url": "https://www.retaildive.com/news/reformation-q3-earnings-sales-growth-ai-planning-tool-in-stock-rates/873991/",
           "postedAt": "2026-11-06T17:12:00.000Z"
-        },
-        {
-          "id": "om_ab4846bbc5",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-          "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-          "postedAt": "2026-11-06T14:10:00.000Z"
         },
         {
           "id": "om_800746acf9",
@@ -624,14 +640,6 @@
           "postedAt": "2026-11-06T09:00:00.000Z"
         },
         {
-          "id": "om_0e5c094b11",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Political Campaigns Spent a Near-Record $331 Per Voter, But Waste Forces Rethink",
-          "url": "https://www.adweek.com/convergent-tv/political-campaigns-spent-a-near-record-331-per-voter-but-waste-forces-rethink/",
-          "postedAt": "2026-11-06T06:00:00.000Z"
-        },
-        {
           "id": "om_31dbaa3452",
           "source": "Social Media Today",
           "lang": "en",
@@ -670,18 +678,10 @@
           "title": "Behind the scenes of Ikea’s rapid-response social team",
           "url": "https://www.marketingbrew.com/stories/ikea-rapid-response-social-team?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-11-05T20:08:11.000Z"
-        },
-        {
-          "id": "om_56ba094769",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart ramps up Sparky features in time for the holidays",
-          "url": "https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/",
-          "postedAt": "2026-11-05T18:01:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-08T17:55:03.920Z",
+      "lastUpdated": "2026-11-09T06:22:41.644Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
