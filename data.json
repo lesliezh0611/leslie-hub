@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-10T07:14:38.675Z",
+      "lastUpdated": "2026-11-10T19:41:58.967Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_a51a23f384",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "State of the tech job market: late 2026",
+          "url": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
+          "postedAt": "2026-11-10T15:04:03.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_f040ac4e3c",
           "source": "Lenny's Podcast",
@@ -355,14 +363,6 @@
           "postedAt": "2026-10-29T09:50:00.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_f41fca18f2",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
-          "url": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
-          "postedAt": "2026-10-28T12:04:22.000Z"
-        },
-        {
           "id": "en_pod_lex_fridman_podcast_a6e502b64e",
           "source": "Lex Fridman Podcast",
           "platform": "podcast",
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-10T07:14:39.634Z",
+      "lastUpdated": "2026-11-10T19:41:59.444Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,168 +520,168 @@
       },
       "articles": [
         {
-          "id": "om_25c39a431f",
-          "source": "Social Media Today",
+          "id": "om_c994dc8db9",
+          "source": "Retail Dive",
           "lang": "en",
-          "title": "TikTok updates its AI video ad tools",
-          "url": "https://www.socialmediatoday.com/news/tiktok-updates-its-ai-video-ad-tools/874209/",
-          "postedAt": "2026-11-09T23:46:53.000Z"
+          "title": "Ethan Allen CEO out after four decades",
+          "url": "https://www.retaildive.com/news/ethan-allen-ceo-out-after-four-decades/874228/",
+          "postedAt": "2026-11-10T17:24:00.000Z"
         },
         {
-          "id": "om_41c3a16908",
-          "source": "Social Media Today",
+          "id": "om_fb06267de9",
+          "source": "Retail Dive",
           "lang": "en",
-          "title": "Instagram launches visual effects creator for Edits",
-          "url": "https://www.socialmediatoday.com/news/instagram-launches-visual-effects-creator-for-edits/874205/",
-          "postedAt": "2026-11-09T23:06:59.000Z"
+          "title": "On surprises with wholesale growth",
+          "url": "https://www.retaildive.com/news/on-third-quarter-earnings-wholesale-growth/874245/",
+          "postedAt": "2026-11-10T16:36:00.000Z"
         },
         {
-          "id": "om_fffcae2ee0",
+          "id": "om_a42c67bc3a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Netflix embraces 35mm film in international campaign",
+          "url": "https://www.marketingdive.com/news/netflix-embraces-35mm-film-in-international-campaign/874237/",
+          "postedAt": "2026-11-10T15:42:00.000Z"
+        },
+        {
+          "id": "om_421cee7a1c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Lululemon fills 2 of 4 open roles with new brand, strategy chiefs",
+          "url": "https://www.retaildive.com/news/lululemon-fills-executive-roles-chief-brand-strategy-officer-heidi-oneill-turnaround-team/874204/",
+          "postedAt": "2026-11-10T15:37:00.000Z"
+        },
+        {
+          "id": "om_55ccd84ee5",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Priceline’s AI agent Penny lands in Snapchat ads amid holiday rush",
+          "url": "https://www.marketingdive.com/news/pricelines-ai-agent-penny-lands-in-snapchat-ads-amid-holiday-rush/874247/",
+          "postedAt": "2026-11-10T15:13:24.000Z"
+        },
+        {
+          "id": "om_906080e1b1",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target vs. Walmart: Holiday marketing’s stakes feel higher this year",
+          "url": "https://www.retaildive.com/news/target-vs-walmart-holiday-marketings-stakes-feel-higher-this-year/873764/",
+          "postedAt": "2026-11-10T14:34:00.000Z"
+        },
+        {
+          "id": "om_bc39201c7c",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Synthetic audiences fall short: What marketers need to know",
+          "url": "https://www.marketingdive.com/news/synthetic-audiences-fall-short-what-marketers-need-to-know/833664/",
+          "postedAt": "2026-11-10T14:30:00.000Z"
+        },
+        {
+          "id": "om_eb1dec98d2",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why Rao’s heated up brand building with a request to slow down meals",
+          "url": "https://www.marketingdive.com/news/raos-heats-up-brand-building-with-a-request-to-slow-down-meals/874122/",
+          "postedAt": "2026-11-10T14:30:00.000Z"
+        },
+        {
+          "id": "om_33774adcc0",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Why Maybelline updated its iconic ‘Maybe’ tagline",
+          "url": "https://www.marketingbrew.com/stories/maybe-it-s-maybelline-tagline-update-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-10T14:15:00.000Z"
+        },
+        {
+          "id": "om_643523c4d7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Commerce Media’s Consolidation Era Is Here",
+          "url": "https://www.adweek.com/commerce/commerce-medias-consolidation-era-is-here/",
+          "postedAt": "2026-11-10T14:07:37.000Z"
+        },
+        {
+          "id": "om_d10ce5761f",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-          "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
-          "postedAt": "2026-11-09T23:03:46.000Z"
+          "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+          "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+          "postedAt": "2026-11-10T14:05:10.000Z"
         },
         {
-          "id": "om_a737f708c1",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Children’s Place, in search of new ownership, files for bankruptcy",
-          "url": "https://www.retaildive.com/news/the-childrens-place-in-search-of-new-ownership-files-for-bankruptcy/874078/",
-          "postedAt": "2026-11-09T16:52:00.000Z"
-        },
-        {
-          "id": "om_d307b193fa",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "ThredUp revenue growth slows despite record number of buyers",
-          "url": "https://www.retaildive.com/news/thredup-revenue-growth-slows-despite-record-buyers/874081/",
-          "postedAt": "2026-11-09T16:42:00.000Z"
-        },
-        {
-          "id": "om_fc14a627d0",
+          "id": "om_01d8c03b58",
           "source": "Marketing Brew",
           "lang": "en",
-          "title": "Why a diaper brand is disrupting sports advertising",
-          "url": "https://www.marketingbrew.com/stories/coterie-diaper-sports-advertising-golf-knicks?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-09T16:03:16.000Z"
+          "title": "Why are two holdcos beefing online?",
+          "url": "https://www.marketingbrew.com/stories/publicis-groupe-wpp-cindy-rose-agency-pitch-process?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-10T14:01:00.000Z"
         },
         {
-          "id": "om_6563f654a9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Levi’s claymation holiday campaign celebrates handmade craft amid AI bloat",
-          "url": "https://www.retaildive.com/news/levis-claymation-holiday-campaign-celebrates-handmade-craft-amid-ai-bloat/873842/",
-          "postedAt": "2026-11-09T15:59:00.000Z"
-        },
-        {
-          "id": "om_0abbab9993",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon debuts text-to-shop AI agent feature",
-          "url": "https://www.retaildive.com/news/amazon-text-to-shop-ai-agent/874085/",
-          "postedAt": "2026-11-09T15:42:00.000Z"
-        },
-        {
-          "id": "om_2b11667ad9",
+          "id": "om_5d57064863",
           "source": "Marketing Brew",
           "lang": "en",
-          "title": "Coworking with Allison Varone",
-          "url": "https://www.marketingbrew.com/stories/coworking-with-allison-varone?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-09T15:27:02.000Z"
+          "title": "The PWHL slides into its fourth season with four new teams",
+          "url": "https://www.marketingbrew.com/stories/pwhl-expansion-teams?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-10T13:30:00.000Z"
         },
         {
-          "id": "om_d4bf25340a",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Pepsi’s holiday push includes bigger retail presence, soda for Santa",
-          "url": "https://www.marketingdive.com/news/pepsis-holiday-push-includes-bigger-retail-presence-soda-for-santa/874072/",
-          "postedAt": "2026-11-09T15:16:00.000Z"
-        },
-        {
-          "id": "om_10eacaafe7",
+          "id": "om_54319a01ae",
           "source": "Adweek",
           "lang": "en",
-          "title": "The AI-or-Not Debate Is Advertising’s Most Pointless Argument",
-          "url": "https://www.adweek.com/brand-marketing/the-ai-or-not-debate-is-advertisings-most-pointless-argument/",
-          "postedAt": "2026-11-09T14:24:36.000Z"
+          "title": "Omnicom Makes Tom Schwenger CEO of Omnicom Health Marketing",
+          "url": "https://www.adweek.com/brand-marketing/omnicom-makes-tom-schwenger-ceo-of-omnicom-health-marketing/",
+          "postedAt": "2026-11-10T13:10:19.000Z"
         },
         {
-          "id": "om_7dab918b85",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Ogilvy uses AI to unlock scale, protect rights for brand talent shoots",
-          "url": "https://www.marketingdive.com/news/how-ogilvy-uses-ai-to-unlock-scale-protect-rights-for-brand-talent-shoots/874014/",
-          "postedAt": "2026-11-09T14:00:00.000Z"
-        },
-        {
-          "id": "om_f2e38081b5",
+          "id": "om_eb26df1a82",
           "source": "Adweek",
           "lang": "en",
-          "title": "ADWEEK Agencies Advantage: As Reviews Give Way to Handshakes, Clients Will Decide The Fate of the Pitch",
-          "url": "https://www.adweek.com/agencies/adweek-agencies-advantage-as-reviews-give-way-to-handshakes-clients-will-decide-the-fate-of-the-pitch/",
-          "postedAt": "2026-11-09T12:10:55.000Z"
+          "title": "OpenAI Gives Brands Some Data About How They Appear in ChatGPT",
+          "url": "https://www.adweek.com/commerce/openai-gives-brands-some-data-about-how-they-appear-in-chatgpt/",
+          "postedAt": "2026-11-10T13:00:00.000Z"
         },
         {
-          "id": "om_9cbb0b0f39",
-          "source": "Marketing Dive",
+          "id": "om_69d80ca3f8",
+          "source": "Adweek",
           "lang": "en",
-          "title": "5 social signals brands should act on now",
-          "url": "https://www.marketingdive.com/spons/5-social-signals-brands-should-act-on-now/833882/",
-          "postedAt": "2026-11-09T10:00:00.000Z"
+          "title": "The 3 Paths to Being a Better Marketer That Have Nothing to Do with Marketing.",
+          "url": "https://www.adweek.com/brand-marketing/the-3-paths-to-being-a-better-marketer-that-have-nothing-to-do-with-marketing/",
+          "postedAt": "2026-11-10T12:50:00.000Z"
         },
         {
-          "id": "om_bea18ccfd7",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How Gander is designing NYC’s first city-owned supermarkets",
-          "url": "https://www.marketingbrew.com/stories/gander-nyc-city-owned-supermarkets-design-approach?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-09T10:00:00.000Z"
-        },
-        {
-          "id": "om_2b90bdc63d",
+          "id": "om_fb77610dd8",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "How enterprise brands are retooling commerce platforms to capture AI shoppers",
-          "url": "https://www.retaildive.com/spons/how-enterprise-brands-are-retooling-commerce-platforms-to-capture-ai-shoppe/873905/",
-          "postedAt": "2026-11-09T10:00:00.000Z"
+          "title": "Holiday hiring looks different this year. Here’s why.",
+          "url": "https://www.retaildive.com/news/why-retail-holiday-hiring-looks-different-2026/873988/",
+          "postedAt": "2026-11-10T12:00:00.000Z"
         },
         {
-          "id": "om_dcd0b55482",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Beyond the AI shortlist: How brands can inspire the next purchase",
-          "url": "https://www.retaildive.com/spons/beyond-the-ai-shortlist-how-brands-can-inspire-the-next-purchase/873681/",
-          "postedAt": "2026-11-09T10:00:00.000Z"
-        },
-        {
-          "id": "om_5367dc2fe1",
+          "id": "om_077ff39951",
           "source": "Adweek",
           "lang": "en",
-          "title": "Your Brand Is Your Most Powerful Differentiator",
-          "url": "https://www.adweek.com/brand-marketing/your-brand-is-your-most-powerful-differentiator/",
-          "postedAt": "2026-11-09T09:25:46.000Z"
+          "title": "Beyond the Cookie: How AI Is Transforming Marketing Performance",
+          "url": "https://www.adweek.com/brand-marketing/beyond-the-cookie-how-ai-is-transforming-marketing-performance/",
+          "postedAt": "2026-11-10T11:25:47.000Z"
         },
         {
-          "id": "om_b825c71893",
-          "source": "Social Media Today",
+          "id": "om_116e1af694",
+          "source": "Adweek",
           "lang": "en",
-          "title": "TikTok shares gaming and app promotional guides for end-of-year period",
-          "url": "https://www.socialmediatoday.com/news/tiktok-shares-gaming-and-app-promotional-guides-for-end-of-year-period/874069/",
-          "postedAt": "2026-11-08T22:31:16.000Z"
+          "title": "The Brand Isn’t Always the Star ft. Alyssa Schaefer of MDVIP",
+          "url": "https://www.adweek.com/brand-marketing/the-brand-isnt-always-the-star-ft-alyssa-schaefer-of-mdvip/",
+          "postedAt": "2026-11-10T10:37:53.000Z"
         },
         {
-          "id": "om_0e20143802",
-          "source": "Social Media Today",
+          "id": "om_bd56d88d96",
+          "source": "Adweek",
           "lang": "en",
-          "title": "YouTube expands custom feeds and offers new partnership options",
-          "url": "https://www.socialmediatoday.com/news/youtube-expands-custom-feeds-and-offers-new-partnership-options/874068/",
-          "postedAt": "2026-11-08T21:14:53.000Z"
+          "title": "Who What Wear Sells AI Visibility to Brands, Helping Fuel Double-Digit Revenue Growth",
+          "url": "https://www.adweek.com/media/who-what-wear-20th-anniversary-revenue-growth/",
+          "postedAt": "2026-11-10T10:14:51.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-10T07:14:40.864Z",
+      "lastUpdated": "2026-11-10T19:42:00.405Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
