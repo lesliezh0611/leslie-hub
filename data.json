@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-11T06:13:40.883Z",
+      "lastUpdated": "2026-11-11T19:33:34.880Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_0f3a523ea2",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
+          "url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
+          "postedAt": "2026-11-11T13:04:09.000Z"
+        },
         {
           "id": "en_pod_lex_fridman_podcast_54e95485ee",
           "source": "Lex Fridman Podcast",
@@ -355,14 +363,6 @@
           "postedAt": "2026-11-01T13:31:36.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_60ae10a553",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more",
-          "url": "https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources",
-          "postedAt": "2026-10-31T16:14:41.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_88f6158806",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -435,7 +435,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-11T06:13:41.404Z",
+      "lastUpdated": "2026-11-11T19:33:35.980Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "15 fresh updates from the last 21 days"
@@ -528,6 +528,78 @@
       },
       "articles": [
         {
+          "id": "om_e85f211719",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+          "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+          "postedAt": "2026-11-11T18:13:52.000Z"
+        },
+        {
+          "id": "om_bb28ff3f8d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Dick’s Sporting Goods signs Caitlin Clark",
+          "url": "https://www.retaildive.com/news/dicks-sporting-goods-foot-locker-signs-caitlin-clark/874141/",
+          "postedAt": "2026-11-11T17:20:00.000Z"
+        },
+        {
+          "id": "om_a37b1c8223",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon’s Black Friday, Cyber Monday deals boast record exclusives",
+          "url": "https://www.retaildive.com/news/amazon-black-friday-cyber-monday-holiday-deals/874359/",
+          "postedAt": "2026-11-11T16:23:00.000Z"
+        },
+        {
+          "id": "om_b10ebf4340",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "The best early Black Friday deals you can already shop",
+          "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+          "postedAt": "2026-11-11T15:53:55.000Z"
+        },
+        {
+          "id": "om_6b50dcc725",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Maybelline updates ‘Maybe’ tagline as beauty perceptions evolve",
+          "url": "https://www.marketingdive.com/news/maybelline-updates-maybe-tagline-as-beauty-perceptions-evolve/874376/",
+          "postedAt": "2026-11-11T15:39:00.000Z"
+        },
+        {
+          "id": "om_b742fdee62",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Carnival gamifies cruise experience via interactive Twitch livestream",
+          "url": "https://www.marketingdive.com/news/carnival-gamifies-cruise-experience-via-interactive-twitch-livestream/874033/",
+          "postedAt": "2026-11-11T14:00:00.000Z"
+        },
+        {
+          "id": "om_0fabdbbb10",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "This creator is trying to turn a viral moment into a lasting advertising business",
+          "url": "https://www.marketingbrew.com/stories/brand-my-laptop-vincent-seube-ad-sales-business-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-11T10:00:00.000Z"
+        },
+        {
+          "id": "om_612adcf536",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ADWEEK Brand Advantage: Prediction Markets Grabbed Midterm Attention. Super Bowl Is Their Next Test",
+          "url": "https://www.adweek.com/brand-marketing/adweek-brand-advantage-prediction-markets-grabbed-midterm-attention-the-super-bowl-is-their-next-branding-test/",
+          "postedAt": "2026-11-11T06:00:00.000Z"
+        },
+        {
+          "id": "om_da60f267ce",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Streaming is still trying to be TikTok",
+          "url": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video",
+          "postedAt": "2026-11-11T02:01:05.000Z"
+        },
+        {
           "id": "om_2a6b192322",
           "source": "TechCrunch",
           "lang": "en",
@@ -600,14 +672,6 @@
           "postedAt": "2026-11-10T14:34:00.000Z"
         },
         {
-          "id": "om_bc39201c7c",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Synthetic audiences fall short: What marketers need to know",
-          "url": "https://www.marketingdive.com/news/synthetic-audiences-fall-short-what-marketers-need-to-know/833664/",
-          "postedAt": "2026-11-10T14:30:00.000Z"
-        },
-        {
           "id": "om_eb1dec98d2",
           "source": "Marketing Dive",
           "lang": "en",
@@ -616,80 +680,16 @@
           "postedAt": "2026-11-10T14:30:00.000Z"
         },
         {
-          "id": "om_33774adcc0",
-          "source": "Marketing Brew",
+          "id": "om_bc39201c7c",
+          "source": "Marketing Dive",
           "lang": "en",
-          "title": "Why Maybelline updated its iconic ‘Maybe’ tagline",
-          "url": "https://www.marketingbrew.com/stories/maybe-it-s-maybelline-tagline-update-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-10T14:15:00.000Z"
-        },
-        {
-          "id": "om_643523c4d7",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Commerce Media’s Consolidation Era Is Here",
-          "url": "https://www.adweek.com/commerce/commerce-medias-consolidation-era-is-here/",
-          "postedAt": "2026-11-10T14:07:37.000Z"
-        },
-        {
-          "id": "om_d10ce5761f",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-          "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-          "postedAt": "2026-11-10T14:05:10.000Z"
-        },
-        {
-          "id": "om_01d8c03b58",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why are two holdcos beefing online?",
-          "url": "https://www.marketingbrew.com/stories/publicis-groupe-wpp-cindy-rose-agency-pitch-process?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-10T14:01:00.000Z"
-        },
-        {
-          "id": "om_5d57064863",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "The PWHL slides into its fourth season with four new teams",
-          "url": "https://www.marketingbrew.com/stories/pwhl-expansion-teams?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-10T13:30:00.000Z"
-        },
-        {
-          "id": "om_54319a01ae",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Omnicom Makes Tom Schwenger CEO of Omnicom Health Marketing",
-          "url": "https://www.adweek.com/brand-marketing/omnicom-makes-tom-schwenger-ceo-of-omnicom-health-marketing/",
-          "postedAt": "2026-11-10T13:10:19.000Z"
-        },
-        {
-          "id": "om_eb26df1a82",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "OpenAI Gives Brands Some Data About How They Appear in ChatGPT",
-          "url": "https://www.adweek.com/commerce/openai-gives-brands-some-data-about-how-they-appear-in-chatgpt/",
-          "postedAt": "2026-11-10T13:00:00.000Z"
-        },
-        {
-          "id": "om_69d80ca3f8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The 3 Paths to Being a Better Marketer That Have Nothing to Do with Marketing.",
-          "url": "https://www.adweek.com/brand-marketing/the-3-paths-to-being-a-better-marketer-that-have-nothing-to-do-with-marketing/",
-          "postedAt": "2026-11-10T12:50:00.000Z"
-        },
-        {
-          "id": "om_fb77610dd8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Holiday hiring looks different this year. Here’s why.",
-          "url": "https://www.retaildive.com/news/why-retail-holiday-hiring-looks-different-2026/873988/",
-          "postedAt": "2026-11-10T12:00:00.000Z"
+          "title": "Synthetic audiences fall short: What marketers need to know",
+          "url": "https://www.marketingdive.com/news/synthetic-audiences-fall-short-what-marketers-need-to-know/833664/",
+          "postedAt": "2026-11-10T14:30:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-11T06:13:42.561Z",
+      "lastUpdated": "2026-11-11T19:33:37.356Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
