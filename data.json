@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-11T19:33:34.880Z",
+      "lastUpdated": "2026-11-12T07:07:21.335Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -435,7 +435,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-11T19:33:35.980Z",
+      "lastUpdated": "2026-11-12T07:07:22.237Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "15 fresh updates from the last 21 days"
@@ -528,6 +528,22 @@
       },
       "articles": [
         {
+          "id": "om_7356e5d305",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Walking Pad Deals to Shop Ahead of Black Friday (2026)",
+          "url": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-11-26/",
+          "postedAt": "2026-11-12T01:53:24.000Z"
+        },
+        {
+          "id": "om_c063829a61",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+          "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+          "postedAt": "2026-11-11T19:54:00.000Z"
+        },
+        {
           "id": "om_e85f211719",
           "source": "The Verge",
           "lang": "en",
@@ -568,6 +584,14 @@
           "postedAt": "2026-11-11T15:39:00.000Z"
         },
         {
+          "id": "om_28c21bb319",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Adobe’s CMO on Why It’s Made Its Biggest Brand Campaign in 5 Years",
+          "url": "https://www.adweek.com/media/adobes-cmo-on-why-its-made-its-biggest-brand-campaign-in-5-years/",
+          "postedAt": "2026-11-11T15:22:05.000Z"
+        },
+        {
           "id": "om_b742fdee62",
           "source": "Marketing Dive",
           "lang": "en",
@@ -590,14 +614,6 @@
           "title": "ADWEEK Brand Advantage: Prediction Markets Grabbed Midterm Attention. Super Bowl Is Their Next Test",
           "url": "https://www.adweek.com/brand-marketing/adweek-brand-advantage-prediction-markets-grabbed-midterm-attention-the-super-bowl-is-their-next-branding-test/",
           "postedAt": "2026-11-11T06:00:00.000Z"
-        },
-        {
-          "id": "om_da60f267ce",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Streaming is still trying to be TikTok",
-          "url": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video",
-          "postedAt": "2026-11-11T02:01:05.000Z"
         },
         {
           "id": "om_2a6b192322",
@@ -670,26 +686,10 @@
           "title": "Target vs. Walmart: Holiday marketing’s stakes feel higher this year",
           "url": "https://www.retaildive.com/news/target-vs-walmart-holiday-marketings-stakes-feel-higher-this-year/873764/",
           "postedAt": "2026-11-10T14:34:00.000Z"
-        },
-        {
-          "id": "om_eb1dec98d2",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why Rao’s heated up brand building with a request to slow down meals",
-          "url": "https://www.marketingdive.com/news/raos-heats-up-brand-building-with-a-request-to-slow-down-meals/874122/",
-          "postedAt": "2026-11-10T14:30:00.000Z"
-        },
-        {
-          "id": "om_bc39201c7c",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Synthetic audiences fall short: What marketers need to know",
-          "url": "https://www.marketingdive.com/news/synthetic-audiences-fall-short-what-marketers-need-to-know/833664/",
-          "postedAt": "2026-11-10T14:30:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-11T19:33:37.356Z",
+      "lastUpdated": "2026-11-12T07:07:23.417Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
