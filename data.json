@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-12T19:52:43.562Z",
+      "lastUpdated": "2026-11-13T06:41:50.426Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-12T19:52:44.154Z",
+      "lastUpdated": "2026-11-13T06:41:51.539Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,20 +520,20 @@
       },
       "articles": [
         {
+          "id": "om_82e474f881",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Pinterest adds holiday shopping tools",
+          "url": "https://www.socialmediatoday.com/news/pinterest-adds-holiday-shopping-tools/874575/",
+          "postedAt": "2026-11-12T19:19:33.000Z"
+        },
+        {
           "id": "om_f7effce2db",
           "source": "TechCrunch",
           "lang": "en",
           "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
           "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
           "postedAt": "2026-11-12T19:11:00.000Z"
-        },
-        {
-          "id": "om_3293393520",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "AI chatbots are recommending fake retail websites, study finds",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-          "postedAt": "2026-11-12T18:35:54.000Z"
         },
         {
           "id": "om_402eae935f",
@@ -664,24 +664,24 @@
           "postedAt": "2026-11-12T09:23:30.000Z"
         },
         {
-          "id": "om_7641a3b850",
-          "source": "Adweek",
+          "id": "om_7356e5d305",
+          "source": "Wired",
           "lang": "en",
-          "title": "SunnyD and Juicy Juice Hand Their Comeback to Goodby Silverstein & Partners",
-          "url": "https://www.adweek.com/agencies/sunnyd-and-juicy-juice-hand-their-comeback-to-goodby-silverstein-partners/",
-          "postedAt": "2026-11-12T09:00:00.000Z"
+          "title": "Walking Pad Deals to Shop Ahead of Black Friday (2026)",
+          "url": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-11-26/",
+          "postedAt": "2026-11-12T01:53:24.000Z"
         },
         {
-          "id": "om_09bcf08366",
-          "source": "Adweek",
+          "id": "om_bb28ff3f8d",
+          "source": "Retail Dive",
           "lang": "en",
-          "title": "VML Elevates Debbi Vandeven in Push For ‘Human-First’ Creative",
-          "url": "https://www.adweek.com/agencies/vml-elevates-debbi-vandeven-in-push-for-human-first-creative/",
-          "postedAt": "2026-11-12T09:00:00.000Z"
+          "title": "Dick’s Sporting Goods signs Caitlin Clark",
+          "url": "https://www.retaildive.com/news/dicks-sporting-goods-foot-locker-signs-caitlin-clark/874141/",
+          "postedAt": "2026-11-11T17:20:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-12T19:52:45.085Z",
+      "lastUpdated": "2026-11-13T06:41:52.903Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
