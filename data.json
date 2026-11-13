@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-13T06:41:50.426Z",
+      "lastUpdated": "2026-11-13T19:39:34.594Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-13T06:41:51.539Z",
+      "lastUpdated": "2026-11-13T19:39:35.724Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,134 @@
       },
       "articles": [
         {
+          "id": "om_c8bd8d1548",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "‘It’s so confusing’: Punctuation changes to Maybelline’s iconic tagline are breaking brains",
+          "url": "https://www.marketingbrew.com/stories/punctuation-changes-maybelline-iconic-tagline-response?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-13T17:19:53.000Z"
+        },
+        {
+          "id": "om_2852bd00bb",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Family Dollar will pay $63M to settle unfair-pricing claims from state, federal regulators",
+          "url": "https://www.retaildive.com/news/family-dollar-63-million-settlement-unfair-pricing-claims-ftc/874605/",
+          "postedAt": "2026-11-13T16:43:00.000Z"
+        },
+        {
+          "id": "om_c231d25e54",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+          "postedAt": "2026-11-13T16:00:12.000Z"
+        },
+        {
+          "id": "om_b10ebf4340",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "The best early Black Friday deals you can already shop",
+          "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+          "postedAt": "2026-11-13T15:49:27.000Z"
+        },
+        {
+          "id": "om_140e77511e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The Weekly Closeout: Target names a new board member and Centric Brands sells itself to CEO",
+          "url": "https://www.retaildive.com/news/target-board-member-centric-brands-ceo-fossil-turnaround/874550/",
+          "postedAt": "2026-11-13T15:43:00.000Z"
+        },
+        {
+          "id": "om_85adf1bc85",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Twitch debuts shoppable, skippable ads as TwitchCon feels growing pains",
+          "url": "https://www.marketingdive.com/news/twitch-debuts-shoppable-skippable-ads-as-twitchcon-feels-growing-pains/874614/",
+          "postedAt": "2026-11-13T15:14:27.000Z"
+        },
+        {
+          "id": "om_8bb5dbcc8c",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Sally Beauty to expand refreshed store model in 2027",
+          "url": "https://www.retaildive.com/news/sally-beauty-expand-refreshed-store-model/874547/",
+          "postedAt": "2026-11-13T15:09:00.000Z"
+        },
+        {
+          "id": "om_4115eed265",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "AI-derived audience insights hurt results: What the numbers say",
+          "url": "https://www.marketingdive.com/news/ai-derived-audience-insights-hurt-results-what-the-numbers-say/874565/",
+          "postedAt": "2026-11-13T14:21:00.000Z"
+        },
+        {
+          "id": "om_8a98dc7df9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Home Depot, ESPN Among 2026 Brand Hall of Fame Inductees",
+          "url": "https://www.adweek.com/brand-marketing/home-depot-espn-among-2026-brand-hall-of-fame-inductees/",
+          "postedAt": "2026-11-13T11:20:52.000Z"
+        },
+        {
+          "id": "om_855413eab4",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Velocity Over Volume: Archer Roose Wines on Building Brand Loyalty in a Competitive Market",
+          "url": "https://www.adweek.com/brand-marketing/velocity-over-volume-archer-roose-wines-on-building-brand-loyalty-in-a-competitive-market/",
+          "postedAt": "2026-11-13T10:38:35.000Z"
+        },
+        {
+          "id": "om_17db1541e7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Brandweek 2026: Why Gopuff Would ‘Rather Be Debated Than Ignored’ ft. Tyler Stewart",
+          "url": "https://www.adweek.com/brand-marketing/brandweek-2026-why-gopuff-would-rather-be-debated-than-ignored-ft-tyler-stewart/",
+          "postedAt": "2026-11-13T10:14:39.000Z"
+        },
+        {
+          "id": "om_8cb3402fca",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Nascar’s been building a fan database for years. Will a larger fanbase follow?",
+          "url": "https://www.marketingbrew.com/stories/nascar-fan-database?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-13T10:00:00.000Z"
+        },
+        {
+          "id": "om_ceaed558c1",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Beyond Points and Perks: How Sephora Makes 46 Million Members Feel Known",
+          "url": "https://www.adweek.com/brand-marketing/beyond-points-and-perks-how-sephora-makes-46-million-members-feel-known/",
+          "postedAt": "2026-11-13T09:45:55.000Z"
+        },
+        {
+          "id": "om_8e6e4f600b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Pamela Anderson on How Skincare Brand Sonsie’s First Holiday Ad Reflects Her World",
+          "url": "https://www.adweek.com/brand-marketing/pamela-anderson-on-how-skincare-brand-sonsies-first-holiday-ad-reflects-her-world/",
+          "postedAt": "2026-11-13T09:20:19.000Z"
+        },
+        {
+          "id": "om_1d27c445ca",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Target’s New CMO Wants the Brand To Get Its Edge Back",
+          "url": "https://www.adweek.com/commerce/targets-new-cmo-wants-the-brand-to-get-its-edge-back/",
+          "postedAt": "2026-11-13T06:00:00.000Z"
+        },
+        {
+          "id": "om_29a2f1c5ed",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ads of the Week: 13 Campaigns That Caught Our Eye, From Disney to Maybelline",
+          "url": "https://www.adweek.com/creativity/ads-of-the-week-12-campaigns-that-caught-our-eye-from-disney-to-maybelline/",
+          "postedAt": "2026-11-13T06:00:00.000Z"
+        },
+        {
           "id": "om_82e474f881",
           "source": "Social Media Today",
           "lang": "en",
@@ -550,138 +678,10 @@
           "title": "Welch’s holiday microdrama embraces Y2K nostalgia as Gen Z become parents",
           "url": "https://www.marketingdive.com/news/welchs-holiday-microdrama-embraces-y2k-nostalgia-as-gen-z-become-parents/874453/",
           "postedAt": "2026-11-12T17:36:00.000Z"
-        },
-        {
-          "id": "om_b9b77865fe",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: Meta’s AI ads included unapproved discounts",
-          "url": "https://www.marketingdive.com/news/sociable-metas-ai-ads-included-unapproved-discounts/874525/",
-          "postedAt": "2026-11-12T17:24:00.000Z"
-        },
-        {
-          "id": "om_a41295b7a0",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Michaels encourages a screen-free holiday season",
-          "url": "https://www.retaildive.com/news/michaels-holiday-black-friday-cyber-monday/874500/",
-          "postedAt": "2026-11-12T17:12:00.000Z"
-        },
-        {
-          "id": "om_88e5da2464",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Walmart more than doubles planned drone delivery sites",
-          "url": "https://www.retaildive.com/news/walmart-more-than-doubles-planned-drone-delivery-sites-zipline/874378/",
-          "postedAt": "2026-11-12T16:46:00.000Z"
-        },
-        {
-          "id": "om_3734d385e7",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "TikTok Shop pilots paid membership",
-          "url": "https://www.retaildive.com/news/tiktok-shop-plus-paid-membership/874451/",
-          "postedAt": "2026-11-12T16:27:00.000Z"
-        },
-        {
-          "id": "om_f0093dfad0",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Oreo refreshes holiday creative with spin on Santa’s milk and cookies",
-          "url": "https://www.marketingdive.com/news/oreo-refreshes-holiday-creative-with-spin-on-santas-milk-and-cookies/874493/",
-          "postedAt": "2026-11-12T15:20:14.000Z"
-        },
-        {
-          "id": "om_023d1c79ca",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-          "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-          "postedAt": "2026-11-12T15:02:28.000Z"
-        },
-        {
-          "id": "om_2aa7f8d635",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Unilever’s social-first marketing is evolving amid reorganization",
-          "url": "https://www.marketingdive.com/news/how-unilevers-social-first-marketing-is-evolving-amid-reorganization/874457/",
-          "postedAt": "2026-11-12T14:46:00.000Z"
-        },
-        {
-          "id": "om_0f94a82815",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "British Airways Parent IAG Bets Big on Advertising",
-          "url": "https://www.adweek.com/commerce/british-airways-parent-iag-bets-big-on-advertising/",
-          "postedAt": "2026-11-12T14:30:00.000Z"
-        },
-        {
-          "id": "om_71c0489a84",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Adobe is testing a tool that tailors web pages to individual visitors",
-          "url": "https://www.marketingbrew.com/stories/adobe-tailoring-web-pages-project-marshvale?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-12T14:00:36.000Z"
-        },
-        {
-          "id": "om_1174c8623d",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Fetch trades views for rewards with brand-backed holiday microseries",
-          "url": "https://www.marketingdive.com/news/fetch-trades-views-for-rewards-with-brand-backed-holiday-microseries/874424/",
-          "postedAt": "2026-11-12T13:00:00.000Z"
-        },
-        {
-          "id": "om_ee53318e1c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Shopify Celebrates the Power of an Idea in First Mother LA Campaign",
-          "url": "https://www.adweek.com/brand-marketing/shopify-celebrates-the-power-of-an-idea-in-first-mother-la-campaign/",
-          "postedAt": "2026-11-12T12:00:00.000Z"
-        },
-        {
-          "id": "om_834c1f2d27",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Talkspace Recruits Michael Phelps for Men’s Mental Health Awareness Month",
-          "url": "https://www.adweek.com/brand-marketing/talkspace-recruits-michael-phelps-for-mens-mental-health-awareness-month/",
-          "postedAt": "2026-11-12T11:24:48.000Z"
-        },
-        {
-          "id": "om_5dd7a892bf",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "‘You say it, we create it’: How Saie seized on another brand’s creator opportunity",
-          "url": "https://www.marketingbrew.com/stories/saie-bellini-tom-ford-dupe-hannah-chody-creator-brand-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-12T10:00:00.000Z"
-        },
-        {
-          "id": "om_da2ddbd95d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "In Oreo’s First Holiday Ad in 5 Years, Cookie-Stealing Parents Land On Santa’s Naughty List",
-          "url": "https://www.adweek.com/brand-marketing/in-oreos-first-holiday-ad-in-5-years-cookie-stealing-parents-land-on-santas-naughty-list/",
-          "postedAt": "2026-11-12T09:23:30.000Z"
-        },
-        {
-          "id": "om_7356e5d305",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Walking Pad Deals to Shop Ahead of Black Friday (2026)",
-          "url": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-11-26/",
-          "postedAt": "2026-11-12T01:53:24.000Z"
-        },
-        {
-          "id": "om_bb28ff3f8d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Dick’s Sporting Goods signs Caitlin Clark",
-          "url": "https://www.retaildive.com/news/dicks-sporting-goods-foot-locker-signs-caitlin-clark/874141/",
-          "postedAt": "2026-11-11T17:20:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-13T06:41:52.903Z",
+      "lastUpdated": "2026-11-13T19:39:37.505Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
