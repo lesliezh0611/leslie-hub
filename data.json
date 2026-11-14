@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-13T19:39:34.594Z",
+      "lastUpdated": "2026-11-14T06:19:12.106Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-13T19:39:35.724Z",
+      "lastUpdated": "2026-11-14T06:19:12.637Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,12 +520,28 @@
       },
       "articles": [
         {
+          "id": "om_04367a7d0b",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Amazon has a plan to index the world’s online shopping data",
+          "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+          "postedAt": "2026-11-13T23:49:11.000Z"
+        },
+        {
           "id": "om_c8bd8d1548",
           "source": "Marketing Brew",
           "lang": "en",
           "title": "‘It’s so confusing’: Punctuation changes to Maybelline’s iconic tagline are breaking brains",
           "url": "https://www.marketingbrew.com/stories/punctuation-changes-maybelline-iconic-tagline-response?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-11-13T17:19:53.000Z"
+        },
+        {
+          "id": "om_4b4882aa6e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Election Advertising Drove 10% of Viewers to Seek Ad-Free Options",
+          "url": "https://www.adweek.com/convergent-tv/election-advertising-drove-10-of-viewers-to-seek-ad-free-options/",
+          "postedAt": "2026-11-13T16:58:11.000Z"
         },
         {
           "id": "om_2852bd00bb",
@@ -536,20 +552,20 @@
           "postedAt": "2026-11-13T16:43:00.000Z"
         },
         {
+          "id": "om_b0ebb951a7",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Lyft Is Testing a Prominent New Ad Placement",
+          "url": "https://www.adweek.com/commerce/lyft-is-testing-a-prominent-new-ad-placement/",
+          "postedAt": "2026-11-13T16:18:55.000Z"
+        },
+        {
           "id": "om_c231d25e54",
           "source": "TechCrunch",
           "lang": "en",
           "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
           "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
           "postedAt": "2026-11-13T16:00:12.000Z"
-        },
-        {
-          "id": "om_b10ebf4340",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "The best early Black Friday deals you can already shop",
-          "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-          "postedAt": "2026-11-13T15:49:27.000Z"
         },
         {
           "id": "om_140e77511e",
@@ -640,14 +656,6 @@
           "postedAt": "2026-11-13T06:00:00.000Z"
         },
         {
-          "id": "om_29a2f1c5ed",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ads of the Week: 13 Campaigns That Caught Our Eye, From Disney to Maybelline",
-          "url": "https://www.adweek.com/creativity/ads-of-the-week-12-campaigns-that-caught-our-eye-from-disney-to-maybelline/",
-          "postedAt": "2026-11-13T06:00:00.000Z"
-        },
-        {
           "id": "om_82e474f881",
           "source": "Social Media Today",
           "lang": "en",
@@ -670,18 +678,10 @@
           "title": "BNPL bolsters holiday budgets",
           "url": "https://www.retaildive.com/news/bnpl-bolsters-holiday-budgets/874425/",
           "postedAt": "2026-11-12T17:36:02.000Z"
-        },
-        {
-          "id": "om_7f14a166ff",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Welch’s holiday microdrama embraces Y2K nostalgia as Gen Z become parents",
-          "url": "https://www.marketingdive.com/news/welchs-holiday-microdrama-embraces-y2k-nostalgia-as-gen-z-become-parents/874453/",
-          "postedAt": "2026-11-12T17:36:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-13T19:39:37.505Z",
+      "lastUpdated": "2026-11-14T06:19:13.447Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
