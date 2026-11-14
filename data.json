@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-14T06:19:12.106Z",
+      "lastUpdated": "2026-11-14T17:58:55.693Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-14T06:19:12.637Z",
+      "lastUpdated": "2026-11-14T17:58:56.646Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -664,24 +664,24 @@
           "postedAt": "2026-11-12T19:19:33.000Z"
         },
         {
-          "id": "om_f7effce2db",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-          "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-          "postedAt": "2026-11-12T19:11:00.000Z"
-        },
-        {
           "id": "om_402eae935f",
           "source": "Retail Dive",
           "lang": "en",
           "title": "BNPL bolsters holiday budgets",
           "url": "https://www.retaildive.com/news/bnpl-bolsters-holiday-budgets/874425/",
           "postedAt": "2026-11-12T17:36:02.000Z"
+        },
+        {
+          "id": "om_7f14a166ff",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Welch’s holiday microdrama embraces Y2K nostalgia as Gen Z become parents",
+          "url": "https://www.marketingdive.com/news/welchs-holiday-microdrama-embraces-y2k-nostalgia-as-gen-z-become-parents/874453/",
+          "postedAt": "2026-11-12T17:36:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-14T06:19:13.447Z",
+      "lastUpdated": "2026-11-14T17:58:58.223Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
