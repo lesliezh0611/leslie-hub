@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-14T17:58:55.693Z",
+      "lastUpdated": "2026-11-15T06:26:52.033Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_ac661c1b0b",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
+          "postedAt": "2026-11-14T21:15:46.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_0f3a523ea2",
           "source": "Lenny's Podcast",
@@ -355,14 +363,6 @@
           "postedAt": "2026-11-02T13:04:11.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_d0139d3297",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
-          "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
-          "postedAt": "2026-11-01T13:31:36.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_88f6158806",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-14T17:58:56.646Z",
+      "lastUpdated": "2026-11-15T06:26:53.171Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -519,14 +519,6 @@
         ]
       },
       "articles": [
-        {
-          "id": "om_04367a7d0b",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Amazon has a plan to index the world’s online shopping data",
-          "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-          "postedAt": "2026-11-13T23:49:11.000Z"
-        },
         {
           "id": "om_c8bd8d1548",
           "source": "Marketing Brew",
@@ -678,10 +670,18 @@
           "title": "Welch’s holiday microdrama embraces Y2K nostalgia as Gen Z become parents",
           "url": "https://www.marketingdive.com/news/welchs-holiday-microdrama-embraces-y2k-nostalgia-as-gen-z-become-parents/874453/",
           "postedAt": "2026-11-12T17:36:00.000Z"
+        },
+        {
+          "id": "om_b9b77865fe",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: Meta’s AI ads included unapproved discounts",
+          "url": "https://www.marketingdive.com/news/sociable-metas-ai-ads-included-unapproved-discounts/874525/",
+          "postedAt": "2026-11-12T17:24:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-14T17:58:58.223Z",
+      "lastUpdated": "2026-11-15T06:26:54.583Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
