@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-15T06:26:52.033Z",
+      "lastUpdated": "2026-11-15T18:49:20.016Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_5f5faf4419",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
+          "url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
+          "postedAt": "2026-11-15T13:31:28.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_ac661c1b0b",
           "source": "Lenny's Podcast",
@@ -355,14 +363,6 @@
           "postedAt": "2026-11-02T16:02:08.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_81161cac28",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
-          "url": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
-          "postedAt": "2026-11-02T13:04:11.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_88f6158806",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-15T06:26:53.171Z",
+      "lastUpdated": "2026-11-15T18:49:20.986Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -519,6 +519,14 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_8327947f68",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+          "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+          "postedAt": "2026-11-15T18:29:14.000Z"
+        },
         {
           "id": "om_c8bd8d1548",
           "source": "Marketing Brew",
@@ -670,18 +678,10 @@
           "title": "Welch’s holiday microdrama embraces Y2K nostalgia as Gen Z become parents",
           "url": "https://www.marketingdive.com/news/welchs-holiday-microdrama-embraces-y2k-nostalgia-as-gen-z-become-parents/874453/",
           "postedAt": "2026-11-12T17:36:00.000Z"
-        },
-        {
-          "id": "om_b9b77865fe",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Sociable: Meta’s AI ads included unapproved discounts",
-          "url": "https://www.marketingdive.com/news/sociable-metas-ai-ads-included-unapproved-discounts/874525/",
-          "postedAt": "2026-11-12T17:24:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-15T06:26:54.583Z",
+      "lastUpdated": "2026-11-15T18:49:22.013Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
