@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-17T07:52:36.121Z",
+      "lastUpdated": "2026-11-17T20:53:08.112Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_7dd7996048",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
+          "url": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
+          "postedAt": "2026-11-17T18:02:02.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_6dd50b81f3",
           "source": "Lenny's Podcast",
@@ -347,14 +355,6 @@
           "postedAt": "2026-11-09T13:04:17.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_ed44bd78a8",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
-          "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
-          "postedAt": "2026-11-08T13:31:32.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_6ac0cf6d5c",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-17T07:52:36.979Z",
+      "lastUpdated": "2026-11-17T20:53:08.910Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,168 +512,168 @@
       },
       "articles": [
         {
-          "id": "om_5e09eedc83",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Dillard’s grabs some market share again despite weak sales growth",
-          "url": "https://www.retaildive.com/news/dillards-grabs-market-share-weak-sales-growth/874735/",
-          "postedAt": "2026-11-16T17:29:00.000Z"
-        },
-        {
-          "id": "om_2b316099c9",
+          "id": "om_aaf17f297a",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Deloitte Digital’s new agentic tools aim to fix messy marketing workflows",
-          "url": "https://www.marketingdive.com/news/deloitte-digitals-new-agentic-tools-aim-to-fix-messy-marketing-workflows/874779/",
-          "postedAt": "2026-11-16T17:09:28.000Z"
+          "title": "Why Qualcomm teamed with F1’s new star in race for sports marketing ROI",
+          "url": "https://www.marketingdive.com/news/why-qualcomm-teamed-with-f1s-new-star-in-race-for-sports-marketing-roi/874895/",
+          "postedAt": "2026-11-17T20:00:00.000Z"
         },
         {
-          "id": "om_5e8231895f",
+          "id": "om_3270c822a9",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "J. Crew introduces AI-powered Style Advisor",
-          "url": "https://www.retaildive.com/news/j-crew-introduces-ai-style-advisor/874596/",
-          "postedAt": "2026-11-16T17:09:00.000Z"
+          "title": "How brands can welcome AI users onto their sites this holiday season",
+          "url": "https://www.retaildive.com/news/brands-welcome-ai-users-onto-sites-holiday-season/874725/",
+          "postedAt": "2026-11-17T18:03:00.000Z"
         },
         {
-          "id": "om_b3bd9404fa",
-          "source": "Adweek",
+          "id": "om_9481158644",
+          "source": "Retail Dive",
           "lang": "en",
-          "title": "Dentsu Looks to AI to Restore its ‘Competitive Edge’ as it Underperforms in Q3",
-          "url": "https://www.adweek.com/agencies/dentsu-looks-to-ai-to-restore-its-competitive-edge-as-it-underperforms-in-q3/",
-          "postedAt": "2026-11-16T17:05:12.000Z"
+          "title": "Nike won’t return to growth for 3 more years",
+          "url": "https://www.retaildive.com/news/nike-return-sales-growth-three-years-strategic-turnaround-plan-full-stride-ahead/874901/",
+          "postedAt": "2026-11-17T17:36:00.000Z"
         },
         {
-          "id": "om_f1ee60c21c",
+          "id": "om_2c51a833bb",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Home Depot names longtime company vet as CEO",
+          "url": "https://www.retaildive.com/news/home-depot-ceo-richard-mcphail-coo-cfo/874893/",
+          "postedAt": "2026-11-17T17:28:00.000Z"
+        },
+        {
+          "id": "om_9733fc83cc",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target’s Black Friday sale includes in-store gift card giveaway",
+          "url": "https://www.retaildive.com/news/targets-black-friday-sale-gift-card-giveaway/874891/",
+          "postedAt": "2026-11-17T17:13:00.000Z"
+        },
+        {
+          "id": "om_e3123b469a",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "BondiBoost’s latest collaboration may be the future of creator partnerships",
+          "url": "https://www.marketingbrew.com/stories/bondiboost-kennedy-eurich-collaboration-creator-partnership-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-17T16:50:16.000Z"
+        },
+        {
+          "id": "om_f70b9be328",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
-          "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
-          "postedAt": "2026-11-16T17:00:00.000Z"
+          "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+          "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+          "postedAt": "2026-11-17T16:32:55.000Z"
         },
         {
-          "id": "om_2f76bc8539",
+          "id": "om_0f4464ba5a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Holiday TV ads from retailers arrive earlier, more frequently in 2026",
+          "url": "https://www.marketingdive.com/news/holiday-tv-ads-from-retailers-arrive-earlier-more-frequently-in-2026/874883/",
+          "postedAt": "2026-11-17T15:46:00.000Z"
+        },
+        {
+          "id": "om_6cb4d09492",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
+          "url": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
+          "postedAt": "2026-11-17T15:00:00.000Z"
+        },
+        {
+          "id": "om_ea5d1fd52c",
           "source": "Marketing Brew",
           "lang": "en",
-          "title": "Why Columbia Sportswear is giving away a doomsday bunker",
-          "url": "https://www.marketingbrew.com/stories/columbia-sportswear-doomsday-bunker-campaign?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-16T16:14:38.000Z"
+          "title": "Coworking with Megan Driscoll",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-megan-driscoll?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-17T14:16:52.000Z"
         },
         {
-          "id": "om_5596647722",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Meow Mix reimagines iconic cat memes for multichannel campaign",
-          "url": "https://www.marketingdive.com/news/meow-mix-reimagines-iconic-cat-memes-for-multichannel-campaign/874724/",
-          "postedAt": "2026-11-16T15:08:00.000Z"
-        },
-        {
-          "id": "om_7bdfaec1a4",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Amazon puts Arnold Schwarzenegger in Santa suit to extend holiday push",
-          "url": "https://www.marketingdive.com/news/amazon-puts-arnold-schwarzenegger-in-santa-suit-to-extend-holiday-push/874675/",
-          "postedAt": "2026-11-16T14:56:00.000Z"
-        },
-        {
-          "id": "om_db96bb2dac",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why Your Brand Needs a Gaming Strategy",
-          "url": "https://www.adweek.com/brand-marketing/why-your-brand-needs-a-gaming-strategy/",
-          "postedAt": "2026-11-16T14:39:02.000Z"
-        },
-        {
-          "id": "om_9b7752b2c1",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How CeraVe’s ‘Dune’ deal takes the brand’s social-first playbook global",
-          "url": "https://www.marketingdive.com/news/how-ceraves-dune-deal-takes-the-brands-social-first-playbook-global/874654/",
-          "postedAt": "2026-11-16T14:00:00.000Z"
-        },
-        {
-          "id": "om_1ceab6793e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Asics boosts inventory management using warehouse drones",
-          "url": "https://www.retaildive.com/news/asics-boosts-inventory-management-using-warehouse-drones/874481/",
-          "postedAt": "2026-11-16T14:00:00.000Z"
-        },
-        {
-          "id": "om_a7a67f32ef",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Harlem Globetrotters Team With Sprite in Rivalry Tour Sponsorship",
-          "url": "https://www.adweek.com/brand-marketing/harlem-globetrotters-team-with-sprite-in-rivalry-tour-sponsorship/",
-          "postedAt": "2026-11-16T13:48:45.000Z"
-        },
-        {
-          "id": "om_78fe7bfc83",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Today Plaza Becomes a Key Integration Point for Audiences and Brands",
-          "url": "https://www.adweek.com/brand-marketing/today-plaza-becomes-a-key-integration-point-for-audiences-and-brands/",
-          "postedAt": "2026-11-16T13:43:19.000Z"
-        },
-        {
-          "id": "om_63e55728d5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "1 in 5 Marketers Is Looking to Quit—Double the Average in Other Fields",
-          "url": "https://www.adweek.com/brand-marketing/1-in-5-marketers-is-looking-to-quitdouble-the-average-in-other-fields/",
-          "postedAt": "2026-11-16T11:40:20.000Z"
-        },
-        {
-          "id": "om_b755f80d65",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Holiday Ads Arrive Earlier, With Retailers Getting a Head Start",
-          "url": "https://www.adweek.com/convergent-tv/holiday-ads-arrive-earlier-with-retailers-getting-a-head-start/",
-          "postedAt": "2026-11-16T10:00:00.000Z"
-        },
-        {
-          "id": "om_1477673e82",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Commerce media networks: 6 questions agencies should ask before investing",
-          "url": "https://www.marketingdive.com/spons/commerce-media-networks-6-questions-agencies-should-ask-before-investing/874217/",
-          "postedAt": "2026-11-16T10:00:00.000Z"
-        },
-        {
-          "id": "om_b0198a6fe5",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "AI Is transforming marketing. Can marketers prove it’s working?",
-          "url": "https://www.marketingdive.com/spons/ai-is-transforming-marketing-can-marketers-prove-its-working/874404/",
-          "postedAt": "2026-11-16T10:00:00.000Z"
-        },
-        {
-          "id": "om_a4186e5585",
+          "id": "om_e38aa71761",
           "source": "Marketing Brew",
           "lang": "en",
-          "title": "How do you advertise AI to an increasingly skeptical public?",
-          "url": "https://www.marketingbrew.com/stories/ai-marketing-skeptical-public?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-16T10:00:00.000Z"
+          "title": "Why Geico bet big on a youth sports docuseries",
+          "url": "https://www.marketingbrew.com/stories/geico-youth-sports-docuseries-miles-that-matter?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-17T14:12:43.000Z"
         },
         {
-          "id": "om_a287eca7bf",
-          "source": "Retail Dive",
+          "id": "om_f0c2cee666",
+          "source": "Adweek",
           "lang": "en",
-          "title": "The shrinking store: How retailers and restaurants are doing more with less square footage",
-          "url": "https://www.retaildive.com/spons/the-shrinking-store-how-retailers-and-restaurants-are-doing-more-with-less/874147/",
-          "postedAt": "2026-11-16T10:00:00.000Z"
+          "title": "Kroger Names Melanie Zimmermann to Lead Advertising Business",
+          "url": "https://www.adweek.com/commerce/kroger-names-melanie-zimmermann-to-lead-advertising-business/",
+          "postedAt": "2026-11-17T14:00:00.000Z"
         },
         {
-          "id": "om_440d61542b",
+          "id": "om_b0d4d8e855",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Burger King’s feedback campaign takes aim at its own restaurants",
+          "url": "https://www.marketingdive.com/news/burger-kings-push-for-consumer-feedback-takes-aim-at-its-own-restaurants/874704/",
+          "postedAt": "2026-11-17T14:00:00.000Z"
+        },
+        {
+          "id": "om_4d19d9f4f2",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Amazon’s New Christmas Ad Is a Bet Against Itself",
+          "url": "https://www.adweek.com/brand-marketing/amazons-new-christmas-ad-is-a-bet-against-itself/",
+          "postedAt": "2026-11-17T13:48:08.000Z"
+        },
+        {
+          "id": "om_66b77b03b9",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "A Crash Course in Marketing to Machines",
+          "url": "https://www.adweek.com/brand-marketing/a-crash-course-in-marketing-to-machines/",
+          "postedAt": "2026-11-17T13:17:40.000Z"
+        },
+        {
+          "id": "om_6ae202f576",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Holiday marketing hits inflection point in 2026: What brands need to know",
+          "url": "https://www.marketingdive.com/news/holiday-marketing-hits-inflection-point-in-2026-what-brands-need-to-know/874758/",
+          "postedAt": "2026-11-17T13:00:00.000Z"
+        },
+        {
+          "id": "om_8ee3bcb0ff",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "72andSunny Appoints WPP Exec to Lead New York Office After Layoffs",
+          "url": "https://www.adweek.com/agencies/72andsunny-appoints-wpp-exec-to-lead-new-york-office-after-layoffs/",
+          "postedAt": "2026-11-17T12:51:21.000Z"
+        },
+        {
+          "id": "om_fda48912d0",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "The mall advantage: how shopping centers fuel retail growth",
-          "url": "https://www.retaildive.com/spons/the-mall-advantage-how-shopping-centers-fuel-retail-growth/873797/",
-          "postedAt": "2026-11-16T10:00:00.000Z"
+          "title": "This year, every day is Black Friday",
+          "url": "https://www.retaildive.com/news/black-friday-2026-preview-ai-resale-stores/874163/",
+          "postedAt": "2026-11-17T12:00:00.000Z"
+        },
+        {
+          "id": "om_0102b64a7c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "NowThis Acquires Impact Media in ‘Seven-Figure’ Deal to Reach Younger, Civic-Minded Audiences",
+          "url": "https://www.adweek.com/media/nowthis-acquires-impact-media/",
+          "postedAt": "2026-11-17T10:16:21.000Z"
+        },
+        {
+          "id": "om_601a201588",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Unilever’s Creator Army Has Grown From 75,000 to 500,000 in Two Years",
+          "url": "https://www.adweek.com/brand-marketing/unilevers-creator-army-has-grown-from-75000-to-500000-in-two-years/",
+          "postedAt": "2026-11-17T09:44:04.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-17T07:52:37.860Z",
+      "lastUpdated": "2026-11-17T20:53:10.253Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
