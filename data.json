@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-17T20:53:08.112Z",
+      "lastUpdated": "2026-11-18T07:25:00.529Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-17T20:53:08.910Z",
+      "lastUpdated": "2026-11-18T07:25:00.838Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,6 +512,30 @@
       },
       "articles": [
         {
+          "id": "om_17a1640c1e",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Snapchat shares insight into luxury shopping trends",
+          "url": "https://www.socialmediatoday.com/news/snapchat-shares-insight-into-luxury-shopping-trends/874984/",
+          "postedAt": "2026-11-17T21:08:35.000Z"
+        },
+        {
+          "id": "om_99d0991b31",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Instagram is helping creators crack down on copycat videos",
+          "url": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
+          "postedAt": "2026-11-17T20:46:31.000Z"
+        },
+        {
+          "id": "om_1684f7b309",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Pinterest shares its first Creators to Watch list",
+          "url": "https://www.socialmediatoday.com/news/pinterest-shares-its-first-creators-to-watch-list/874969/",
+          "postedAt": "2026-11-17T20:39:19.000Z"
+        },
+        {
           "id": "om_aaf17f297a",
           "source": "Marketing Dive",
           "lang": "en",
@@ -560,6 +584,14 @@
           "postedAt": "2026-11-17T16:50:16.000Z"
         },
         {
+          "id": "om_90bdb27032",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Ad Buyers Embrace Retail Media’s Honeymoon With Streaming",
+          "url": "https://www.adweek.com/commerce/ad-buyers-embrace-retail-medias-honeymoon-with-streaming/",
+          "postedAt": "2026-11-17T16:34:50.000Z"
+        },
+        {
           "id": "om_f70b9be328",
           "source": "TechCrunch",
           "lang": "en",
@@ -574,14 +606,6 @@
           "title": "Holiday TV ads from retailers arrive earlier, more frequently in 2026",
           "url": "https://www.marketingdive.com/news/holiday-tv-ads-from-retailers-arrive-earlier-more-frequently-in-2026/874883/",
           "postedAt": "2026-11-17T15:46:00.000Z"
-        },
-        {
-          "id": "om_6cb4d09492",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
-          "url": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
-          "postedAt": "2026-11-17T15:00:00.000Z"
         },
         {
           "id": "om_ea5d1fd52c",
@@ -646,34 +670,10 @@
           "title": "72andSunny Appoints WPP Exec to Lead New York Office After Layoffs",
           "url": "https://www.adweek.com/agencies/72andsunny-appoints-wpp-exec-to-lead-new-york-office-after-layoffs/",
           "postedAt": "2026-11-17T12:51:21.000Z"
-        },
-        {
-          "id": "om_fda48912d0",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "This year, every day is Black Friday",
-          "url": "https://www.retaildive.com/news/black-friday-2026-preview-ai-resale-stores/874163/",
-          "postedAt": "2026-11-17T12:00:00.000Z"
-        },
-        {
-          "id": "om_0102b64a7c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "NowThis Acquires Impact Media in ‘Seven-Figure’ Deal to Reach Younger, Civic-Minded Audiences",
-          "url": "https://www.adweek.com/media/nowthis-acquires-impact-media/",
-          "postedAt": "2026-11-17T10:16:21.000Z"
-        },
-        {
-          "id": "om_601a201588",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Unilever’s Creator Army Has Grown From 75,000 to 500,000 in Two Years",
-          "url": "https://www.adweek.com/brand-marketing/unilevers-creator-army-has-grown-from-75000-to-500000-in-two-years/",
-          "postedAt": "2026-11-17T09:44:04.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-17T20:53:10.253Z",
+      "lastUpdated": "2026-11-18T07:25:01.316Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
