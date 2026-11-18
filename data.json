@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-18T07:25:00.529Z",
+      "lastUpdated": "2026-11-18T20:29:02.272Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -419,7 +419,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-18T07:25:00.838Z",
+      "lastUpdated": "2026-11-18T20:29:03.410Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "13 fresh updates from the last 21 days"
@@ -512,168 +512,168 @@
       },
       "articles": [
         {
+          "id": "om_fd704f7fc7",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Raiders give fans all access with new TikTok Live show",
+          "url": "https://www.marketingbrew.com/stories/raiders-all-access-tiktok-live-show?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-18T19:00:11.000Z"
+        },
+        {
+          "id": "om_b10ebf4340",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "The best early Black Friday deals you can already shop",
+          "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+          "postedAt": "2026-11-18T18:46:46.000Z"
+        },
+        {
+          "id": "om_972ddf42b3",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon puts Arnold Schwarzenegger in Santa suit to extend holiday push",
+          "url": "https://www.retaildive.com/news/amazon-arnold-schwarzenegger-santa-holiday-ad-campaign-retail-marketing-push/875055/",
+          "postedAt": "2026-11-18T18:02:00.000Z"
+        },
+        {
+          "id": "om_708e52618c",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+          "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+          "postedAt": "2026-11-18T17:32:10.000Z"
+        },
+        {
+          "id": "om_f39757667a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "E-commerce boosts Home Depot, Lowe’s in Q3",
+          "url": "https://www.retaildive.com/news/home-depot-lowes-digital-sales-boost-q3-ecommerce/875054/",
+          "postedAt": "2026-11-18T17:31:00.000Z"
+        },
+        {
+          "id": "om_be71e5d49a",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Economic optimism plunges to lowest level since Great Recession",
+          "url": "https://www.retaildive.com/news/economic-optimism-plunges-lowest-level-great-recession-gallup-inflation/875058/",
+          "postedAt": "2026-11-18T17:12:00.000Z"
+        },
+        {
+          "id": "om_335eccc9d2",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Holiday shoppers expect AI to save them over $190 this year",
+          "url": "https://www.retaildive.com/news/holiday-shoppers-ai-discounts-save-hundreds/874309/",
+          "postedAt": "2026-11-18T15:44:00.000Z"
+        },
+        {
+          "id": "om_54cf46985b",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Paid media now plays largest role in brand-funded creator growth: report",
+          "url": "https://www.marketingdive.com/news/paid-media-now-plays-largest-role-in-brand-funded-creator-growth-report/875032/",
+          "postedAt": "2026-11-18T15:09:50.000Z"
+        },
+        {
+          "id": "om_b96bb33143",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Maker’s Mark spotlights signature red wax top in visual refresh",
+          "url": "https://www.marketingdive.com/news/makers-mark-sees-red-with-visual-refresh-spotlighting-signature-wax-top/874975/",
+          "postedAt": "2026-11-18T14:42:00.000Z"
+        },
+        {
+          "id": "om_321d1f38b8",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Brands are hiring former journalists for storytelling. Or are they?",
+          "url": "https://www.marketingbrew.com/stories/brands-hiring-former-journalists-storytelling-skills?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-18T14:19:04.000Z"
+        },
+        {
+          "id": "om_c4d14814b6",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "6 Ways Brands Are Capturing Buzz Around GTA 6’s Release",
+          "url": "https://www.adweek.com/brand-marketing/6-ways-brands-are-capturing-buzz-around-gta-6s-release/",
+          "postedAt": "2026-11-18T14:01:56.000Z"
+        },
+        {
+          "id": "om_b4030e29a0",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Target traffic rises as retailer reports broad-based gains",
+          "url": "https://www.retaildive.com/news/target-traffic-rises-q3-earnings/874959/",
+          "postedAt": "2026-11-18T11:55:00.000Z"
+        },
+        {
+          "id": "om_c66ff06a72",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The New Competitive Edge in AI-Powered Advertising",
+          "url": "https://www.adweek.com/commerce/the-new-competitive-edge-in-ai-powered-advertising/",
+          "postedAt": "2026-11-18T10:57:52.000Z"
+        },
+        {
+          "id": "om_4f9347173b",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Why Brands Need to Rethink the Business of Creator Commerce",
+          "url": "https://www.adweek.com/commerce/why-brands-need-to-rethink-the-business-of-creator-commerce/",
+          "postedAt": "2026-11-18T10:56:32.000Z"
+        },
+        {
+          "id": "om_7481f49260",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "What Verified Purchase Data Unlocks for Streaming Advertisers",
+          "url": "https://www.adweek.com/commerce/what-verified-purchase-data-unlocks-for-streaming-advertisers/",
+          "postedAt": "2026-11-18T10:56:06.000Z"
+        },
+        {
+          "id": "om_6b4cd94dca",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "A Playbook for Marketers on Agentic Commerce",
+          "url": "https://www.adweek.com/commerce/a-playbook-for-marketers-on-agentic-commerce/",
+          "postedAt": "2026-11-18T10:55:48.000Z"
+        },
+        {
+          "id": "om_0ce8a85eb5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Can Media Budgets Go Big on Brand Building and Still Drive Sales?",
+          "url": "https://www.adweek.com/commerce/can-media-budgets-go-big-on-brand-building-and-still-drive-sales/",
+          "postedAt": "2026-11-18T10:55:34.000Z"
+        },
+        {
+          "id": "om_8114ddffcc",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Target Enters Holiday Season With Pop Culture Momentum",
+          "url": "https://www.adweek.com/commerce/target-enters-holiday-season-with-pop-culture-momentum/",
+          "postedAt": "2026-11-18T10:44:02.000Z"
+        },
+        {
+          "id": "om_f46d177119",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Instacart Returns to the Super Bowl for Its Third Straight Year",
+          "url": "https://www.adweek.com/brand-marketing/instacart-returns-to-the-super-bowl-for-its-third-straight-year/",
+          "postedAt": "2026-11-18T10:15:49.000Z"
+        },
+        {
           "id": "om_17a1640c1e",
           "source": "Social Media Today",
           "lang": "en",
           "title": "Snapchat shares insight into luxury shopping trends",
           "url": "https://www.socialmediatoday.com/news/snapchat-shares-insight-into-luxury-shopping-trends/874984/",
           "postedAt": "2026-11-17T21:08:35.000Z"
-        },
-        {
-          "id": "om_99d0991b31",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Instagram is helping creators crack down on copycat videos",
-          "url": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
-          "postedAt": "2026-11-17T20:46:31.000Z"
-        },
-        {
-          "id": "om_1684f7b309",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Pinterest shares its first Creators to Watch list",
-          "url": "https://www.socialmediatoday.com/news/pinterest-shares-its-first-creators-to-watch-list/874969/",
-          "postedAt": "2026-11-17T20:39:19.000Z"
-        },
-        {
-          "id": "om_aaf17f297a",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Why Qualcomm teamed with F1’s new star in race for sports marketing ROI",
-          "url": "https://www.marketingdive.com/news/why-qualcomm-teamed-with-f1s-new-star-in-race-for-sports-marketing-roi/874895/",
-          "postedAt": "2026-11-17T20:00:00.000Z"
-        },
-        {
-          "id": "om_3270c822a9",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "How brands can welcome AI users onto their sites this holiday season",
-          "url": "https://www.retaildive.com/news/brands-welcome-ai-users-onto-sites-holiday-season/874725/",
-          "postedAt": "2026-11-17T18:03:00.000Z"
-        },
-        {
-          "id": "om_9481158644",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Nike won’t return to growth for 3 more years",
-          "url": "https://www.retaildive.com/news/nike-return-sales-growth-three-years-strategic-turnaround-plan-full-stride-ahead/874901/",
-          "postedAt": "2026-11-17T17:36:00.000Z"
-        },
-        {
-          "id": "om_2c51a833bb",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Home Depot names longtime company vet as CEO",
-          "url": "https://www.retaildive.com/news/home-depot-ceo-richard-mcphail-coo-cfo/874893/",
-          "postedAt": "2026-11-17T17:28:00.000Z"
-        },
-        {
-          "id": "om_9733fc83cc",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Target’s Black Friday sale includes in-store gift card giveaway",
-          "url": "https://www.retaildive.com/news/targets-black-friday-sale-gift-card-giveaway/874891/",
-          "postedAt": "2026-11-17T17:13:00.000Z"
-        },
-        {
-          "id": "om_e3123b469a",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "BondiBoost’s latest collaboration may be the future of creator partnerships",
-          "url": "https://www.marketingbrew.com/stories/bondiboost-kennedy-eurich-collaboration-creator-partnership-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-17T16:50:16.000Z"
-        },
-        {
-          "id": "om_90bdb27032",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Ad Buyers Embrace Retail Media’s Honeymoon With Streaming",
-          "url": "https://www.adweek.com/commerce/ad-buyers-embrace-retail-medias-honeymoon-with-streaming/",
-          "postedAt": "2026-11-17T16:34:50.000Z"
-        },
-        {
-          "id": "om_f70b9be328",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-          "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-          "postedAt": "2026-11-17T16:32:55.000Z"
-        },
-        {
-          "id": "om_0f4464ba5a",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Holiday TV ads from retailers arrive earlier, more frequently in 2026",
-          "url": "https://www.marketingdive.com/news/holiday-tv-ads-from-retailers-arrive-earlier-more-frequently-in-2026/874883/",
-          "postedAt": "2026-11-17T15:46:00.000Z"
-        },
-        {
-          "id": "om_ea5d1fd52c",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Coworking with Megan Driscoll",
-          "url": "https://www.marketingbrew.com/stories/coworking-with-megan-driscoll?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-17T14:16:52.000Z"
-        },
-        {
-          "id": "om_e38aa71761",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Why Geico bet big on a youth sports docuseries",
-          "url": "https://www.marketingbrew.com/stories/geico-youth-sports-docuseries-miles-that-matter?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-17T14:12:43.000Z"
-        },
-        {
-          "id": "om_f0c2cee666",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Kroger Names Melanie Zimmermann to Lead Advertising Business",
-          "url": "https://www.adweek.com/commerce/kroger-names-melanie-zimmermann-to-lead-advertising-business/",
-          "postedAt": "2026-11-17T14:00:00.000Z"
-        },
-        {
-          "id": "om_b0d4d8e855",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Burger King’s feedback campaign takes aim at its own restaurants",
-          "url": "https://www.marketingdive.com/news/burger-kings-push-for-consumer-feedback-takes-aim-at-its-own-restaurants/874704/",
-          "postedAt": "2026-11-17T14:00:00.000Z"
-        },
-        {
-          "id": "om_4d19d9f4f2",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Amazon’s New Christmas Ad Is a Bet Against Itself",
-          "url": "https://www.adweek.com/brand-marketing/amazons-new-christmas-ad-is-a-bet-against-itself/",
-          "postedAt": "2026-11-17T13:48:08.000Z"
-        },
-        {
-          "id": "om_66b77b03b9",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "A Crash Course in Marketing to Machines",
-          "url": "https://www.adweek.com/brand-marketing/a-crash-course-in-marketing-to-machines/",
-          "postedAt": "2026-11-17T13:17:40.000Z"
-        },
-        {
-          "id": "om_6ae202f576",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Holiday marketing hits inflection point in 2026: What brands need to know",
-          "url": "https://www.marketingdive.com/news/holiday-marketing-hits-inflection-point-in-2026-what-brands-need-to-know/874758/",
-          "postedAt": "2026-11-17T13:00:00.000Z"
-        },
-        {
-          "id": "om_8ee3bcb0ff",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "72andSunny Appoints WPP Exec to Lead New York Office After Layoffs",
-          "url": "https://www.adweek.com/agencies/72andsunny-appoints-wpp-exec-to-lead-new-york-office-after-layoffs/",
-          "postedAt": "2026-11-17T12:51:21.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-18T07:25:01.316Z",
+      "lastUpdated": "2026-11-18T20:29:04.481Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
