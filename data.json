@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-18T20:29:02.272Z",
+      "lastUpdated": "2026-11-19T07:21:33.930Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lex_fridman_podcast_a1b0f472af",
+          "source": "Lex Fridman Podcast",
+          "platform": "podcast",
+          "topic": "#505 – GTA 6, Crime, Jewel Heists, Prison, Corrupt Cops, Mafia, Miami & Money",
+          "url": "https://lexfridman.com/larry-lawton/?utm_source=rss&utm_medium=rss&utm_campaign=larry-lawton",
+          "postedAt": "2026-11-19T04:37:34.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_7dd7996048",
           "source": "Lenny's Podcast",
@@ -419,10 +427,10 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-18T20:29:03.410Z",
+      "lastUpdated": "2026-11-19T07:21:35.319Z",
       "targetItems": 20,
       "freshnessDays": 21,
-      "freshCountLabel": "13 fresh updates from the last 21 days"
+      "freshCountLabel": "14 fresh updates from the last 21 days"
     },
     "overseaMarketing": {
       "title": "Oversea Marketing",
@@ -512,20 +520,36 @@
       },
       "articles": [
         {
+          "id": "om_2637852b12",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok releases its 2026 Music Impact Report",
+          "url": "https://www.socialmediatoday.com/news/tiktok-releases-its-2026-music-impact-report/875144/",
+          "postedAt": "2026-11-18T22:19:18.000Z"
+        },
+        {
+          "id": "om_4b51e13f1d",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta brings its updated Creator Dashboard to the web",
+          "url": "https://www.socialmediatoday.com/news/meta-brings-its-updated-creator-dashboard-to-the-web/875143/",
+          "postedAt": "2026-11-18T22:09:00.000Z"
+        },
+        {
+          "id": "om_4eb76073ae",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Snapchat adds more creator partnership opportunities",
+          "url": "https://www.socialmediatoday.com/news/snapchat-adds-more-creator-partnership-opportunities/875141/",
+          "postedAt": "2026-11-18T22:02:22.000Z"
+        },
+        {
           "id": "om_fd704f7fc7",
           "source": "Marketing Brew",
           "lang": "en",
           "title": "Raiders give fans all access with new TikTok Live show",
           "url": "https://www.marketingbrew.com/stories/raiders-all-access-tiktok-live-show?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-11-18T19:00:11.000Z"
-        },
-        {
-          "id": "om_b10ebf4340",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "The best early Black Friday deals you can already shop",
-          "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-          "postedAt": "2026-11-18T18:46:46.000Z"
         },
         {
           "id": "om_972ddf42b3",
@@ -558,6 +582,14 @@
           "title": "Economic optimism plunges to lowest level since Great Recession",
           "url": "https://www.retaildive.com/news/economic-optimism-plunges-lowest-level-great-recession-gallup-inflation/875058/",
           "postedAt": "2026-11-18T17:12:00.000Z"
+        },
+        {
+          "id": "om_4ea3a19e9d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Amazon’s Temu Competitor Now Shows up in Search Results",
+          "url": "https://www.adweek.com/commerce/amazons-temu-competitor-now-shows-up-in-search-results/",
+          "postedAt": "2026-11-18T15:52:43.000Z"
         },
         {
           "id": "om_335eccc9d2",
@@ -616,64 +648,40 @@
           "postedAt": "2026-11-18T10:57:52.000Z"
         },
         {
-          "id": "om_4f9347173b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Why Brands Need to Rethink the Business of Creator Commerce",
-          "url": "https://www.adweek.com/commerce/why-brands-need-to-rethink-the-business-of-creator-commerce/",
-          "postedAt": "2026-11-18T10:56:32.000Z"
-        },
-        {
-          "id": "om_7481f49260",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "What Verified Purchase Data Unlocks for Streaming Advertisers",
-          "url": "https://www.adweek.com/commerce/what-verified-purchase-data-unlocks-for-streaming-advertisers/",
-          "postedAt": "2026-11-18T10:56:06.000Z"
-        },
-        {
-          "id": "om_6b4cd94dca",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "A Playbook for Marketers on Agentic Commerce",
-          "url": "https://www.adweek.com/commerce/a-playbook-for-marketers-on-agentic-commerce/",
-          "postedAt": "2026-11-18T10:55:48.000Z"
-        },
-        {
-          "id": "om_0ce8a85eb5",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Can Media Budgets Go Big on Brand Building and Still Drive Sales?",
-          "url": "https://www.adweek.com/commerce/can-media-budgets-go-big-on-brand-building-and-still-drive-sales/",
-          "postedAt": "2026-11-18T10:55:34.000Z"
-        },
-        {
-          "id": "om_8114ddffcc",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Target Enters Holiday Season With Pop Culture Momentum",
-          "url": "https://www.adweek.com/commerce/target-enters-holiday-season-with-pop-culture-momentum/",
-          "postedAt": "2026-11-18T10:44:02.000Z"
-        },
-        {
-          "id": "om_f46d177119",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Instacart Returns to the Super Bowl for Its Third Straight Year",
-          "url": "https://www.adweek.com/brand-marketing/instacart-returns-to-the-super-bowl-for-its-third-straight-year/",
-          "postedAt": "2026-11-18T10:15:49.000Z"
-        },
-        {
           "id": "om_17a1640c1e",
           "source": "Social Media Today",
           "lang": "en",
           "title": "Snapchat shares insight into luxury shopping trends",
           "url": "https://www.socialmediatoday.com/news/snapchat-shares-insight-into-luxury-shopping-trends/874984/",
           "postedAt": "2026-11-17T21:08:35.000Z"
+        },
+        {
+          "id": "om_1684f7b309",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Pinterest shares its first Creators to Watch list",
+          "url": "https://www.socialmediatoday.com/news/pinterest-shares-its-first-creators-to-watch-list/874969/",
+          "postedAt": "2026-11-17T20:39:19.000Z"
+        },
+        {
+          "id": "om_aaf17f297a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Why Qualcomm teamed with F1’s new star in race for sports marketing ROI",
+          "url": "https://www.marketingdive.com/news/why-qualcomm-teamed-with-f1s-new-star-in-race-for-sports-marketing-roi/874895/",
+          "postedAt": "2026-11-17T20:00:00.000Z"
+        },
+        {
+          "id": "om_3270c822a9",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "How brands can welcome AI users onto their sites this holiday season",
+          "url": "https://www.retaildive.com/news/brands-welcome-ai-users-onto-sites-holiday-season/874725/",
+          "postedAt": "2026-11-17T18:03:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-18T20:29:04.481Z",
+      "lastUpdated": "2026-11-19T07:21:36.890Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
