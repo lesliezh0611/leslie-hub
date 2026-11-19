@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-19T07:21:33.930Z",
+      "lastUpdated": "2026-11-19T20:33:14.879Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_the_knowledge_project_2b0ab462bc",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "Bing Gordon: Learning From Bezos, Jobs, and Spielberg",
+          "url": "https://fs.blog/knowledge-project-podcast/bing-gordon/",
+          "postedAt": "2026-11-19T10:55:00.000Z"
+        },
         {
           "id": "en_pod_lex_fridman_podcast_a1b0f472af",
           "source": "Lex Fridman Podcast",
@@ -369,14 +377,6 @@
           "topic": "Jon McNeill: How Elon Musk Makes Decisions",
           "url": "https://fs.blog/knowledge-project-podcast/jon-mcneill/",
           "postedAt": "2026-11-05T10:55:00.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_88f6158806",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "[Outliers] K.C. Irving: Competing with Giants",
-          "url": "https://fs.blog/knowledge-project-podcast/outliers-kc-irving/",
-          "postedAt": "2026-10-29T09:50:00.000Z"
         }
       ],
       "books": [
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-19T07:21:35.319Z",
+      "lastUpdated": "2026-11-19T20:33:15.263Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,168 +520,168 @@
       },
       "articles": [
         {
-          "id": "om_2637852b12",
-          "source": "Social Media Today",
+          "id": "om_191f99a064",
+          "source": "The Verge",
           "lang": "en",
-          "title": "TikTok releases its 2026 Music Impact Report",
-          "url": "https://www.socialmediatoday.com/news/tiktok-releases-its-2026-music-impact-report/875144/",
-          "postedAt": "2026-11-18T22:19:18.000Z"
+          "title": "Some creators are skeptical of Instagram’s new affiliate program",
+          "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+          "postedAt": "2026-11-19T19:12:30.000Z"
         },
         {
-          "id": "om_4b51e13f1d",
-          "source": "Social Media Today",
+          "id": "om_a484fb6a50",
+          "source": "Marketing Dive",
           "lang": "en",
-          "title": "Meta brings its updated Creator Dashboard to the web",
-          "url": "https://www.socialmediatoday.com/news/meta-brings-its-updated-creator-dashboard-to-the-web/875143/",
-          "postedAt": "2026-11-18T22:09:00.000Z"
+          "title": "Coca-Cola pivots from divisive AI-generated ads for holiday campaign",
+          "url": "https://www.marketingdive.com/news/coca-cola-pivots-from-divisive-ai-generated-ads-for-holiday-campaign/875215/",
+          "postedAt": "2026-11-19T18:23:00.000Z"
         },
         {
-          "id": "om_4eb76073ae",
-          "source": "Social Media Today",
+          "id": "om_9421408a11",
+          "source": "Marketing Dive",
           "lang": "en",
-          "title": "Snapchat adds more creator partnership opportunities",
-          "url": "https://www.socialmediatoday.com/news/snapchat-adds-more-creator-partnership-opportunities/875141/",
-          "postedAt": "2026-11-18T22:02:22.000Z"
+          "title": "Walmart mulls role advertising will play in an agentic shopping world",
+          "url": "https://www.marketingdive.com/news/walmart-mulls-role-advertising-will-play-in-an-agentic-shopping-world/875185/",
+          "postedAt": "2026-11-19T18:19:00.000Z"
         },
         {
-          "id": "om_fd704f7fc7",
+          "id": "om_c8b3b062b6",
           "source": "Marketing Brew",
           "lang": "en",
-          "title": "Raiders give fans all access with new TikTok Live show",
-          "url": "https://www.marketingbrew.com/stories/raiders-all-access-tiktok-live-show?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-18T19:00:11.000Z"
+          "title": "Amid a major renovation project, Burger King is using its flaws as marketing",
+          "url": "https://www.marketingbrew.com/stories/burger-king-consumer-complaints-ad-campaign-renovations?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-19T17:37:22.000Z"
         },
         {
-          "id": "om_972ddf42b3",
+          "id": "om_6a19a40a07",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Amazon puts Arnold Schwarzenegger in Santa suit to extend holiday push",
-          "url": "https://www.retaildive.com/news/amazon-arnold-schwarzenegger-santa-holiday-ad-campaign-retail-marketing-push/875055/",
-          "postedAt": "2026-11-18T18:02:00.000Z"
+          "title": "Mall of America debuts AI-backed concierge, Mallie",
+          "url": "https://www.retaildive.com/news/mall-of-america-debuts-ai-concierge-mallie/875089/",
+          "postedAt": "2026-11-19T17:33:00.000Z"
         },
         {
-          "id": "om_708e52618c",
+          "id": "om_b314b1183f",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Sociable: Instagram adds Amazon affiliate links",
+          "url": "https://www.marketingdive.com/news/sociable-instagram-adds-amazon-affiliate-links/875206/",
+          "postedAt": "2026-11-19T17:18:00.000Z"
+        },
+        {
+          "id": "om_27f297a759",
           "source": "TechCrunch",
           "lang": "en",
-          "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-          "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-          "postedAt": "2026-11-18T17:32:10.000Z"
+          "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+          "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+          "postedAt": "2026-11-19T17:00:00.000Z"
         },
         {
-          "id": "om_f39757667a",
+          "id": "om_1f659ed311",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "E-commerce boosts Home Depot, Lowe’s in Q3",
-          "url": "https://www.retaildive.com/news/home-depot-lowes-digital-sales-boost-q3-ecommerce/875054/",
-          "postedAt": "2026-11-18T17:31:00.000Z"
+          "title": "The Backroom: How department stores are shaping up this holiday",
+          "url": "https://www.retaildive.com/news/the-backroom-podcast-department-stores-holiday-season/875199/",
+          "postedAt": "2026-11-19T16:56:00.000Z"
         },
         {
-          "id": "om_be71e5d49a",
+          "id": "om_cccef13183",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Economic optimism plunges to lowest level since Great Recession",
-          "url": "https://www.retaildive.com/news/economic-optimism-plunges-lowest-level-great-recession-gallup-inflation/875058/",
-          "postedAt": "2026-11-18T17:12:00.000Z"
+          "title": "Bath & Body Works CEO: ‘We are on track, but far from satisfied’",
+          "url": "https://www.retaildive.com/news/bath-body-works-turnaround-q3-consumer-first-formula/875168/",
+          "postedAt": "2026-11-19T16:51:00.000Z"
         },
         {
-          "id": "om_4ea3a19e9d",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Amazon’s Temu Competitor Now Shows up in Search Results",
-          "url": "https://www.adweek.com/commerce/amazons-temu-competitor-now-shows-up-in-search-results/",
-          "postedAt": "2026-11-18T15:52:43.000Z"
-        },
-        {
-          "id": "om_335eccc9d2",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Holiday shoppers expect AI to save them over $190 this year",
-          "url": "https://www.retaildive.com/news/holiday-shoppers-ai-discounts-save-hundreds/874309/",
-          "postedAt": "2026-11-18T15:44:00.000Z"
-        },
-        {
-          "id": "om_54cf46985b",
+          "id": "om_5c8d02a84b",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Paid media now plays largest role in brand-funded creator growth: report",
-          "url": "https://www.marketingdive.com/news/paid-media-now-plays-largest-role-in-brand-funded-creator-growth-report/875032/",
-          "postedAt": "2026-11-18T15:09:50.000Z"
+          "title": "Bumble cozies up to Alix Earle in attempt to convert Gen Zers",
+          "url": "https://www.marketingdive.com/news/bumble-cozies-up-to-alix-earle-in-attempt-to-convert-gen-zers/875123/",
+          "postedAt": "2026-11-19T16:37:37.000Z"
         },
         {
-          "id": "om_b96bb33143",
-          "source": "Marketing Dive",
+          "id": "om_0d97822dc8",
+          "source": "Retail Dive",
           "lang": "en",
-          "title": "Maker’s Mark spotlights signature red wax top in visual refresh",
-          "url": "https://www.marketingdive.com/news/makers-mark-sees-red-with-visual-refresh-spotlighting-signature-wax-top/874975/",
-          "postedAt": "2026-11-18T14:42:00.000Z"
+          "title": "Instagram creators can now add Amazon affiliate links directly to Reels, posts",
+          "url": "https://www.retaildive.com/news/instagram-creators-add-amazon-affiliate-links-reels-posts/874889/",
+          "postedAt": "2026-11-19T16:35:00.000Z"
         },
         {
-          "id": "om_321d1f38b8",
+          "id": "om_907b0b4643",
           "source": "Marketing Brew",
           "lang": "en",
-          "title": "Brands are hiring former journalists for storytelling. Or are they?",
-          "url": "https://www.marketingbrew.com/stories/brands-hiring-former-journalists-storytelling-skills?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-18T14:19:04.000Z"
+          "title": "How ‘maxxing’ and ‘mogging’ took over marketing, according to a linguist",
+          "url": "https://www.marketingbrew.com/stories/maxxing-and-mogging-in-marketing?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-19T16:30:11.000Z"
         },
         {
-          "id": "om_c4d14814b6",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "6 Ways Brands Are Capturing Buzz Around GTA 6’s Release",
-          "url": "https://www.adweek.com/brand-marketing/6-ways-brands-are-capturing-buzz-around-gta-6s-release/",
-          "postedAt": "2026-11-18T14:01:56.000Z"
-        },
-        {
-          "id": "om_b4030e29a0",
+          "id": "om_4e84dbedb9",
           "source": "Retail Dive",
           "lang": "en",
-          "title": "Target traffic rises as retailer reports broad-based gains",
-          "url": "https://www.retaildive.com/news/target-traffic-rises-q3-earnings/874959/",
-          "postedAt": "2026-11-18T11:55:00.000Z"
+          "title": "Tractor Supply boosts same-day delivery options",
+          "url": "https://www.retaildive.com/news/tractor-supply-uber-same-day-delivery/874748/",
+          "postedAt": "2026-11-19T15:55:00.000Z"
         },
         {
-          "id": "om_c66ff06a72",
+          "id": "om_b10dd49897",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Walmart’s e-commerce boom driven by fulfillment speed",
+          "url": "https://www.retaildive.com/news/walmart-ecommerce-boom-fulfillment-speed-q3-earnings/875166/",
+          "postedAt": "2026-11-19T15:54:00.000Z"
+        },
+        {
+          "id": "om_dfcf6bf66a",
           "source": "Adweek",
           "lang": "en",
-          "title": "The New Competitive Edge in AI-Powered Advertising",
-          "url": "https://www.adweek.com/commerce/the-new-competitive-edge-in-ai-powered-advertising/",
-          "postedAt": "2026-11-18T10:57:52.000Z"
+          "title": "Playing for More: How Purpose and Authenticity Build Stronger Brands",
+          "url": "https://www.adweek.com/brand-marketing/playing-for-more-how-purpose-and-authenticity-build-stronger-brands/",
+          "postedAt": "2026-11-19T15:20:18.000Z"
         },
         {
-          "id": "om_17a1640c1e",
-          "source": "Social Media Today",
+          "id": "om_c447d7062e",
+          "source": "Retail Dive",
           "lang": "en",
-          "title": "Snapchat shares insight into luxury shopping trends",
-          "url": "https://www.socialmediatoday.com/news/snapchat-shares-insight-into-luxury-shopping-trends/874984/",
-          "postedAt": "2026-11-17T21:08:35.000Z"
+          "title": "Target’s AI shopping assistant is driving sales",
+          "url": "https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/",
+          "postedAt": "2026-11-19T14:16:00.000Z"
         },
         {
-          "id": "om_1684f7b309",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Pinterest shares its first Creators to Watch list",
-          "url": "https://www.socialmediatoday.com/news/pinterest-shares-its-first-creators-to-watch-list/874969/",
-          "postedAt": "2026-11-17T20:39:19.000Z"
-        },
-        {
-          "id": "om_aaf17f297a",
+          "id": "om_24c1c892d3",
           "source": "Marketing Dive",
           "lang": "en",
-          "title": "Why Qualcomm teamed with F1’s new star in race for sports marketing ROI",
-          "url": "https://www.marketingdive.com/news/why-qualcomm-teamed-with-f1s-new-star-in-race-for-sports-marketing-roi/874895/",
-          "postedAt": "2026-11-17T20:00:00.000Z"
+          "title": "How SharkNinja is doubling down on its creator strategy",
+          "url": "https://www.marketingdive.com/news/sharkninja-is-doubling-down-on-its-creator-strategy/874691/",
+          "postedAt": "2026-11-19T14:00:00.000Z"
         },
         {
-          "id": "om_3270c822a9",
-          "source": "Retail Dive",
+          "id": "om_6200f9664c",
+          "source": "Marketing Dive",
           "lang": "en",
-          "title": "How brands can welcome AI users onto their sites this holiday season",
-          "url": "https://www.retaildive.com/news/brands-welcome-ai-users-onto-sites-holiday-season/874725/",
-          "postedAt": "2026-11-17T18:03:00.000Z"
+          "title": "How Disney helps brands interact and transact with holiday audiences",
+          "url": "https://www.marketingdive.com/news/how-disney-helps-brands-interact-and-transact-with-holiday-audiences/875042/",
+          "postedAt": "2026-11-19T13:55:05.000Z"
+        },
+        {
+          "id": "om_79673bc45c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "ChatGPT Is Going From Healthcare Advice to Prescriptions Platform",
+          "url": "https://www.adweek.com/commerce/chatgpt-is-going-from-healthcare-advice-to-prescriptions-platform/",
+          "postedAt": "2026-11-19T11:23:00.000Z"
+        },
+        {
+          "id": "om_ca567675ac",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Walmart Sees Weakest Global Ad Sales Growth in 2 Years",
+          "url": "https://www.adweek.com/commerce/walmart-sees-weakest-global-ad-sales-growth-in-2-years/",
+          "postedAt": "2026-11-19T10:34:27.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-19T07:21:36.890Z",
+      "lastUpdated": "2026-11-19T20:33:15.813Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
