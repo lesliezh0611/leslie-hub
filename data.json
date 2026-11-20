@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-19T20:33:14.879Z",
+      "lastUpdated": "2026-11-20T07:11:47.579Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-19T20:33:15.263Z",
+      "lastUpdated": "2026-11-20T07:11:48.298Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,14 @@
       },
       "articles": [
         {
+          "id": "om_2c274287c8",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta launches shopping platform Achados in Brazil",
+          "url": "https://www.socialmediatoday.com/news/meta-launches-shopping-platform-achados-in-brazil/875290/",
+          "postedAt": "2026-11-19T22:33:57.000Z"
+        },
+        {
           "id": "om_191f99a064",
           "source": "The Verge",
           "lang": "en",
@@ -608,6 +616,14 @@
           "postedAt": "2026-11-19T16:35:00.000Z"
         },
         {
+          "id": "om_5bedacc3a1",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Disney Advertising Hopes to Give Brands Multiple Layups This College Basketball Season",
+          "url": "https://www.adweek.com/convergent-tv/disney-advertising-hopes-to-give-brands-multiple-layups-this-college-basketball-season/",
+          "postedAt": "2026-11-19T16:34:01.000Z"
+        },
+        {
           "id": "om_907b0b4643",
           "source": "Marketing Brew",
           "lang": "en",
@@ -662,26 +678,10 @@
           "title": "How Disney helps brands interact and transact with holiday audiences",
           "url": "https://www.marketingdive.com/news/how-disney-helps-brands-interact-and-transact-with-holiday-audiences/875042/",
           "postedAt": "2026-11-19T13:55:05.000Z"
-        },
-        {
-          "id": "om_79673bc45c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "ChatGPT Is Going From Healthcare Advice to Prescriptions Platform",
-          "url": "https://www.adweek.com/commerce/chatgpt-is-going-from-healthcare-advice-to-prescriptions-platform/",
-          "postedAt": "2026-11-19T11:23:00.000Z"
-        },
-        {
-          "id": "om_ca567675ac",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Walmart Sees Weakest Global Ad Sales Growth in 2 Years",
-          "url": "https://www.adweek.com/commerce/walmart-sees-weakest-global-ad-sales-growth-in-2-years/",
-          "postedAt": "2026-11-19T10:34:27.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-19T20:33:15.813Z",
+      "lastUpdated": "2026-11-20T07:11:49.160Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
