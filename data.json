@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-23T07:33:52.432Z",
+      "lastUpdated": "2026-11-23T23:51:12.749Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,22 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_0fa181a123",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "🎙️ How I AI: OpenClaw for executives: Automate every 1% annoyance",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives",
+          "postedAt": "2026-11-23T16:01:48.000Z"
+        },
+        {
+          "id": "en_pod_lenny_s_podcast_eb28781016",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "OpenClaw for executives: Automate every 1% annoyance | Ankit Maheshwari (Innovaccer)",
+          "url": "https://www.lennysnewsletter.com/p/openclaw-for-executives-automate",
+          "postedAt": "2026-11-23T13:04:43.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_62d043f2c9",
           "source": "Lenny's Podcast",
@@ -355,22 +371,6 @@
           "postedAt": "2026-11-10T23:52:44.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_a51a23f384",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "State of the tech job market: late 2026",
-          "url": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
-          "postedAt": "2026-11-10T15:04:03.000Z"
-        },
-        {
-          "id": "en_pod_lenny_s_podcast_f040ac4e3c",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Claude Fable 5.2 review: fast, creative, and finally not annoying",
-          "url": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
-          "postedAt": "2026-11-09T20:37:49.000Z"
-        },
-        {
           "id": "en_pod_the_knowledge_project_6ac0cf6d5c",
           "source": "The Knowledge Project",
           "platform": "podcast",
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-23T07:33:53.399Z",
+      "lastUpdated": "2026-11-23T23:51:13.839Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,168 +520,168 @@
       },
       "articles": [
         {
+          "id": "om_a675be0314",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Black Friday, Cyber Monday shopping projected to slip",
+          "url": "https://www.retaildive.com/news/black-friday-cyber-monday-shopping-projected-to-slip/875473/",
+          "postedAt": "2026-11-23T20:39:00.000Z"
+        },
+        {
+          "id": "om_16f09c6067",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Coworking with Sophie Ozoux",
+          "url": "https://www.marketingbrew.com/stories/coworking-with-sophie-ozoux?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-23T20:31:17.000Z"
+        },
+        {
+          "id": "om_f723c7f788",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Amazon enlists customers in fight against NYC delivery worker bill",
+          "url": "https://www.retaildive.com/news/amazon-enlists-customers-in-fight-against-nyc-delivery-protection-act/875451/",
+          "postedAt": "2026-11-23T16:33:00.000Z"
+        },
+        {
+          "id": "om_6e1aa37a82",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Intuit offloads Mailchimp to Bending Spoons to deepen bets on AI",
+          "url": "https://www.marketingdive.com/news/intuit-offloads-mailchimp-to-bending-spoons-to-deepen-bets-on-ai/875423/",
+          "postedAt": "2026-11-23T16:08:52.000Z"
+        },
+        {
+          "id": "om_69343500b5",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Carl’s Jr. taps David&Goliath as marketing focus turns to boldness",
+          "url": "https://www.marketingdive.com/news/carls-jr-taps-davidgoliath-as-marketing-focus-turns-to-boldness/875471/",
+          "postedAt": "2026-11-23T15:56:00.000Z"
+        },
+        {
+          "id": "om_ae6e82110d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Backcountry acquires winter sports retailer Christy Sports",
+          "url": "https://www.retaildive.com/news/backcountry-acquires-christy-sports-ski-retailer/875323/",
+          "postedAt": "2026-11-23T15:44:00.000Z"
+        },
+        {
+          "id": "om_16e054aea0",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "David’s Bridal tests dress rental",
+          "url": "https://www.retaildive.com/news/davids-bridal-tests-dress-rental-something-borrowed/875262/",
+          "postedAt": "2026-11-23T15:37:00.000Z"
+        },
+        {
+          "id": "om_423071d6f7",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+          "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+          "postedAt": "2026-11-23T15:29:49.000Z"
+        },
+        {
+          "id": "om_f2e62e1231",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Art of Using AI as ‘Power Steering,’ Not Autopilot ft. Kathy Collins",
+          "url": "https://www.adweek.com/brand-marketing/the-art-of-using-ai-as-power-steering-not-autopilot-ft-kathy-collins/",
+          "postedAt": "2026-11-23T15:22:02.000Z"
+        },
+        {
+          "id": "om_92606ea585",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Pet Brands Find New Ways to Invite the Family Dog to Thanksgiving Dinner",
+          "url": "https://www.adweek.com/brand-marketing/pet-brands-find-new-ways-to-invite-the-family-dog-to-thanksgiving-dinner/",
+          "postedAt": "2026-11-23T15:17:00.000Z"
+        },
+        {
+          "id": "om_8edce983f0",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How Joya Studio brought the scents of A24's ‘Backrooms’ into consumers’ own rooms",
+          "url": "https://www.marketingbrew.com/stories/a24-backrooms-joya-studio-scent-score?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-23T15:13:59.000Z"
+        },
+        {
+          "id": "om_39eccb6405",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "How Home Depot built the missing logistics piece for its Pro business",
+          "url": "https://www.retaildive.com/news/home-depot-logistics-pro-business/875396/",
+          "postedAt": "2026-11-23T15:03:00.000Z"
+        },
+        {
+          "id": "om_72d5817862",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Dr. Alex Cooper Prescribes Less Screen Time in Google Pixel’s Holiday Ad",
+          "url": "https://www.adweek.com/brand-marketing/dr-alex-cooper-prescribes-less-screen-time-in-google-pixels-holiday-ad/",
+          "postedAt": "2026-11-23T12:00:00.000Z"
+        },
+        {
+          "id": "om_b05c3556ee",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Philadelphia whips up bigger holiday marketing spend amid brand revamp",
+          "url": "https://www.marketingdive.com/news/philadelphia-whips-up-bigger-holiday-marketing-spend-amid-brand-revamp/875325/",
+          "postedAt": "2026-11-23T11:05:00.000Z"
+        },
+        {
+          "id": "om_632d974398",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Early Black Friday iPad Deals Already Worth Shopping (2026)",
+          "url": "https://www.wired.com/story/best-black-friday-ipad-deals-2026/",
+          "postedAt": "2026-11-23T11:00:00.000Z"
+        },
+        {
+          "id": "om_0ed5191c99",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Jell-O’s new creative platform looks to shift consumer perceptions",
+          "url": "https://www.marketingdive.com/news/how-jell-o-new-creative-platform-looks-to-shift-consumer-perceptions/875220/",
+          "postedAt": "2026-11-23T11:00:00.000Z"
+        },
+        {
+          "id": "om_c2f182fa35",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Why retailers prefer real human expertise over automated payment support",
+          "url": "https://www.retaildive.com/spons/why-retailers-prefer-real-human-expertise-over-automated-payment-support/875272/",
+          "postedAt": "2026-11-23T10:00:00.000Z"
+        },
+        {
+          "id": "om_3dbdcdaf11",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Retail’s fastest AI return right now sits behind the storefront",
+          "url": "https://www.retaildive.com/spons/retails-fastest-ai-return-right-now-sits-behind-the-storefront/875359/",
+          "postedAt": "2026-11-23T10:00:00.000Z"
+        },
+        {
+          "id": "om_26cb8d2aa5",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Amazon’s Alan Moss on How Black Friday Sports Lineup, Shoppable Ads Are Winning Advertisers",
+          "url": "https://www.adweek.com/performance-marketing/amazons-alan-moss-on-how-black-friday-sports-lineup-shoppable-ads-are-winning-advertisers/",
+          "postedAt": "2026-11-23T09:00:00.000Z"
+        },
+        {
           "id": "om_7039eae1d7",
           "source": "Social Media Today",
           "lang": "en",
           "title": "TikTok adds new AI transparency and parental controls",
           "url": "https://www.socialmediatoday.com/news/tiktok-adds-new-ai-transparency-and-parental-controls/875424/",
           "postedAt": "2026-11-22T21:45:48.000Z"
-        },
-        {
-          "id": "om_4f4cc469b8",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "At this year’s NWSL championship, sponsors are putting athletes first",
-          "url": "https://www.marketingbrew.com/stories/nwsl-championship-sponsors-athletes?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-20T20:00:55.000Z"
-        },
-        {
-          "id": "om_33cb67c1ba",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The Container Store is back online after cybersecurity incident",
-          "url": "https://www.retaildive.com/news/container-store-neighborhood-intelligence-cybersecurity-incident/875342/",
-          "postedAt": "2026-11-20T17:41:00.000Z"
-        },
-        {
-          "id": "om_e399afeed8",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Warm weather thwarts Old Navy recovery, as Gap continues to shine",
-          "url": "https://www.retaildive.com/news/old-navy-recovery-gap-shines-q3-earnings-warm-weather/875291/",
-          "postedAt": "2026-11-20T17:28:00.000Z"
-        },
-        {
-          "id": "om_a9f14a2239",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "ThredUp leans into livestream shopping with TikTok Shop",
-          "url": "https://www.retaildive.com/news/thredup-tiktok-shop-livestream-shopping/875247/",
-          "postedAt": "2026-11-20T17:16:00.000Z"
-        },
-        {
-          "id": "om_feaf36786f",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Media RFP Is Quietly Becoming Obsolete ft. Bruce Williams",
-          "url": "https://www.adweek.com/brand-marketing/the-media-rfp-is-quietly-becoming-obsolete-ft-bruce-williams/",
-          "postedAt": "2026-11-20T17:12:02.000Z"
-        },
-        {
-          "id": "om_6f8bd017fd",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Art, Science and Theater of Modern Marketing ft. Thomas Ranese",
-          "url": "https://www.adweek.com/brand-marketing/the-art-science-and-theater-of-modern-marketing-ft-thomas-ranese/",
-          "postedAt": "2026-11-20T16:56:01.000Z"
-        },
-        {
-          "id": "om_21f293cee5",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Vuori exec to lead struggling Athleta",
-          "url": "https://www.retaildive.com/news/vuori-exec-ceo-athleta-sales-declines-q3-earnings/875279/",
-          "postedAt": "2026-11-20T16:42:00.000Z"
-        },
-        {
-          "id": "om_e7d94c3056",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Skydance’s Rebecca Mall Announces New Marketing Leadership Team",
-          "url": "https://www.adweek.com/media/skydances-rebecca-mall-announces-new-marketing-leadership-team/",
-          "postedAt": "2026-11-20T14:41:37.000Z"
-        },
-        {
-          "id": "om_aa90291416",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "When It Comes to GTA 6, Every Brand Suddenly Wants to Break the Rules",
-          "url": "https://www.adweek.com/brand-marketing/when-it-comes-to-gta-6-every-brand-suddenly-wants-to-break-the-rules/",
-          "postedAt": "2026-11-20T14:31:54.000Z"
-        },
-        {
-          "id": "om_b86f51fd4b",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "How Taco Bell Turned a Golf Tournament Into Its Latest Entertainment Play",
-          "url": "https://www.adweek.com/brand-marketing/how-taco-bell-turned-a-golf-tournament-into-its-latest-entertainment-play/",
-          "postedAt": "2026-11-20T14:23:00.000Z"
-        },
-        {
-          "id": "om_6262654dc8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "6 Recent Marketer Moves to Know at Danone, Lululemon, and More",
-          "url": "https://www.adweek.com/brand-marketing/6-recent-marketer-moves-to-know-at-danone-lululemon-and-more/",
-          "postedAt": "2026-11-20T13:16:08.000Z"
-        },
-        {
-          "id": "om_eb7d5ab5be",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Campaign Trail: Tiffany tells human holiday story with Hollywood talent",
-          "url": "https://www.marketingdive.com/news/campaign-trail-tiffany-tells-human-holiday-story-with-hollywood-talent/874914/",
-          "postedAt": "2026-11-20T13:00:00.000Z"
-        },
-        {
-          "id": "om_6b1093cc66",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Verizon renews LaLiga sponsorship amid World Cup years",
-          "url": "https://www.marketingbrew.com/stories/verizon-laliga-sponsorship?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-20T13:00:00.000Z"
-        },
-        {
-          "id": "om_341a2094ba",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Meta’s Holiday Ad Pitches Its Smart Glasses as the Secret to Present Parenting",
-          "url": "https://www.adweek.com/brand-marketing/metas-holiday-ad-pitches-its-smart-glasses-as-the-secret-to-present-parenting/",
-          "postedAt": "2026-11-20T12:21:38.000Z"
-        },
-        {
-          "id": "om_bac1aa4ff8",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "To build loyalty and awareness, some brands are turning to delight",
-          "url": "https://www.marketingbrew.com/stories/rivian-slack-matic-delightful-software?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-20T10:00:00.000Z"
-        },
-        {
-          "id": "om_3ceb3e19e9",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Meta launches shopping platform in Brazil",
-          "url": "https://www.socialmediatoday.com/news/meta-launches-shopping-platform-in-brazil/875290/",
-          "postedAt": "2026-11-19T22:33:57.000Z"
-        },
-        {
-          "id": "om_a484fb6a50",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Coca-Cola pivots from divisive AI-generated ads for holiday campaign",
-          "url": "https://www.marketingdive.com/news/coca-cola-pivots-from-divisive-ai-generated-ads-for-holiday-campaign/875215/",
-          "postedAt": "2026-11-19T18:23:00.000Z"
-        },
-        {
-          "id": "om_9421408a11",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Walmart mulls role advertising will play in an agentic shopping world",
-          "url": "https://www.marketingdive.com/news/walmart-mulls-role-advertising-will-play-in-an-agentic-shopping-world/875185/",
-          "postedAt": "2026-11-19T18:19:00.000Z"
-        },
-        {
-          "id": "om_c8b3b062b6",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Amid a major renovation project, Burger King is using its flaws as marketing",
-          "url": "https://www.marketingbrew.com/stories/burger-king-consumer-complaints-ad-campaign-renovations?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-19T17:37:22.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-23T07:33:54.526Z",
+      "lastUpdated": "2026-11-23T23:51:15.081Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
