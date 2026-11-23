@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-22T19:36:16.511Z",
+      "lastUpdated": "2026-11-23T07:33:52.432Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-22T19:36:17.658Z",
+      "lastUpdated": "2026-11-23T07:33:53.399Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,14 @@
       },
       "articles": [
         {
+          "id": "om_7039eae1d7",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "TikTok adds new AI transparency and parental controls",
+          "url": "https://www.socialmediatoday.com/news/tiktok-adds-new-ai-transparency-and-parental-controls/875424/",
+          "postedAt": "2026-11-22T21:45:48.000Z"
+        },
+        {
           "id": "om_4f4cc469b8",
           "source": "Marketing Brew",
           "lang": "en",
@@ -574,14 +582,6 @@
           "title": "Vuori exec to lead struggling Athleta",
           "url": "https://www.retaildive.com/news/vuori-exec-ceo-athleta-sales-declines-q3-earnings/875279/",
           "postedAt": "2026-11-20T16:42:00.000Z"
-        },
-        {
-          "id": "om_91f1fffca1",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-          "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
-          "postedAt": "2026-11-20T15:46:07.000Z"
         },
         {
           "id": "om_e7d94c3056",
@@ -648,11 +648,11 @@
           "postedAt": "2026-11-20T10:00:00.000Z"
         },
         {
-          "id": "om_2c274287c8",
+          "id": "om_3ceb3e19e9",
           "source": "Social Media Today",
           "lang": "en",
-          "title": "Meta launches shopping platform Achados in Brazil",
-          "url": "https://www.socialmediatoday.com/news/meta-launches-shopping-platform-achados-in-brazil/875290/",
+          "title": "Meta launches shopping platform in Brazil",
+          "url": "https://www.socialmediatoday.com/news/meta-launches-shopping-platform-in-brazil/875290/",
           "postedAt": "2026-11-19T22:33:57.000Z"
         },
         {
@@ -681,7 +681,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-22T19:36:19.271Z",
+      "lastUpdated": "2026-11-23T07:33:54.526Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
