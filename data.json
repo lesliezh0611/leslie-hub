@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-24T09:52:00.883Z",
+      "lastUpdated": "2026-11-24T22:24:05.996Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-24T09:52:02.304Z",
+      "lastUpdated": "2026-11-24T22:24:07.280Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,150 @@
       },
       "articles": [
         {
+          "id": "om_79070e62a4",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "TikTok was down",
+          "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+          "postedAt": "2026-11-24T21:06:21.000Z"
+        },
+        {
+          "id": "om_52bd38b9ec",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Consumer trust around Black Friday deals is down. Some marketers are trying a different approach",
+          "url": "https://www.marketingbrew.com/stories/black-friday-deals-consumer-trust-brand-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-24T20:04:46.000Z"
+        },
+        {
+          "id": "om_ef2b612c68",
+          "source": "Wired",
+          "lang": "en",
+          "title": "iRestore Elite Laser Hair Growth System Review: Husband-Approved",
+          "url": "https://www.wired.com/review/irestore-elite-laser-hair-growth-system/",
+          "postedAt": "2026-11-24T19:00:00.000Z"
+        },
+        {
+          "id": "om_ce87464468",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Oribe has released handmade holiday campaigns for nearly a decade. This year, more people are watching",
+          "url": "https://www.marketingbrew.com/stories/oribe-handmade-holiday-campaigns-mosaic-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-24T18:42:58.000Z"
+        },
+        {
+          "id": "om_132c62cdc3",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Dollar Tree predicts holiday shoppers will ‘buy closer to need’",
+          "url": "https://www.retaildive.com/news/dollar-tree-q3-holiday-shoppers-buy-closer-to-need/875619/",
+          "postedAt": "2026-11-24T16:26:00.000Z"
+        },
+        {
+          "id": "om_5409bc982e",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Retailers brace for Black Friday after widespread tech outages",
+          "url": "https://www.retaildive.com/news/black-friday-retailers-tech-outages-ai/875541/",
+          "postedAt": "2026-11-24T15:23:00.000Z"
+        },
+        {
+          "id": "om_da87147fa8",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "JOVS Recruits an Advisory Board to Back Its Beauty Tech",
+          "url": "https://www.adweek.com/brand-marketing/jovs-recruits-an-advisory-board-to-back-its-beauty-tech/",
+          "postedAt": "2026-11-24T15:17:04.000Z"
+        },
+        {
+          "id": "om_c623e2f58c",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Inflation, AI, and Tech Outages Will Reshape Holiday Shopping",
+          "url": "https://www.adweek.com/commerce/inflation-ai-and-tech-outages-will-reshape-holiday-shopping/",
+          "postedAt": "2026-11-24T15:05:36.000Z"
+        },
+        {
+          "id": "om_5489d6ce5e",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The RX Assistant Wants to Help Pharmaceutical Brands Use AI to Reach Patients",
+          "url": "https://www.adweek.com/brand-marketing/the-rx-assistant-wants-to-help-pharmaceutical-brands-use-ai-to-reach-patients/",
+          "postedAt": "2026-11-24T14:41:23.000Z"
+        },
+        {
+          "id": "om_8c4e362d7a",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Super Bowl 61: Tracking every ad",
+          "url": "https://www.marketingdive.com/news/super-bowl-61-tracking-every-ad/873626/",
+          "postedAt": "2026-11-24T14:06:00.000Z"
+        },
+        {
+          "id": "om_ad3669d67e",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Chewy jumps on stop-motion animation trend lighting up holiday ads",
+          "url": "https://www.marketingdive.com/news/chewy-jumps-on-stop-motion-animation-trend-lighting-up-holiday-ads/875412/",
+          "postedAt": "2026-11-24T14:00:00.000Z"
+        },
+        {
+          "id": "om_ce7bd5d388",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Advertising Is a Top Priority for Best Buy’s New CEO",
+          "url": "https://www.adweek.com/commerce/advertising-is-a-top-priority-for-best-buys-new-ceo/",
+          "postedAt": "2026-11-24T12:10:45.000Z"
+        },
+        {
+          "id": "om_9a4cd26b21",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "The wonder and ritual of Macy’s Thanksgiving Day Parade",
+          "url": "https://www.retaildive.com/news/macys-hundredth-thanksgiving-day-parade-history/875134/",
+          "postedAt": "2026-11-24T12:00:00.000Z"
+        },
+        {
+          "id": "om_f82dddf133",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Whiskey Brand Evan Williams Makes Its First Move Into College Football",
+          "url": "https://www.adweek.com/brand-marketing/whiskey-brand-evan-williams-makes-its-first-drive-into-college-football/",
+          "postedAt": "2026-11-24T11:15:29.000Z"
+        },
+        {
+          "id": "om_8300f817a0",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Inside Hershey’s push for movie magic",
+          "url": "https://www.marketingbrew.com/stories/hershey-movie-brand-involvement-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-24T10:00:00.000Z"
+        },
+        {
+          "id": "om_fcdb1baeed",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Mission Over Metrics: Rethinking the Shopper Journey with Liz Roche",
+          "url": "https://www.adweek.com/brand-marketing/mission-over-metrics-rethinking-the-shopper-journey-with-liz-roche/",
+          "postedAt": "2026-11-24T09:41:51.000Z"
+        },
+        {
+          "id": "om_39c6a32b06",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "The Analog Advantage: Luxury Retail in the Age of AI at Bucherer",
+          "url": "https://www.adweek.com/brand-marketing/the-analog-advantage-luxury-retail-in-the-age-of-ai-at-bucherer/",
+          "postedAt": "2026-11-24T09:39:32.000Z"
+        },
+        {
+          "id": "om_c04e601297",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Inside AWS’s Bid to Be a Brand for Everyone, Including AI Agents",
+          "url": "https://www.adweek.com/brand-marketing/inside-awss-bid-to-be-a-brand-for-everyone-including-ai-agents/",
+          "postedAt": "2026-11-24T09:00:00.000Z"
+        },
+        {
           "id": "om_e792f0c3a7",
           "source": "Social Media Today",
           "lang": "en",
@@ -534,154 +678,10 @@
           "title": "Pinterest announces partnership with Microsoft Ads",
           "url": "https://www.socialmediatoday.com/news/pinterest-announces-partnership-with-microsoft-ads/875553/",
           "postedAt": "2026-11-23T21:10:29.000Z"
-        },
-        {
-          "id": "om_a675be0314",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Black Friday, Cyber Monday shopping projected to slip",
-          "url": "https://www.retaildive.com/news/black-friday-cyber-monday-shopping-projected-to-slip/875473/",
-          "postedAt": "2026-11-23T20:39:00.000Z"
-        },
-        {
-          "id": "om_16f09c6067",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Coworking with Sophie Ozoux",
-          "url": "https://www.marketingbrew.com/stories/coworking-with-sophie-ozoux?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-23T20:31:17.000Z"
-        },
-        {
-          "id": "om_f723c7f788",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Amazon enlists customers in fight against NYC delivery worker bill",
-          "url": "https://www.retaildive.com/news/amazon-enlists-customers-in-fight-against-nyc-delivery-protection-act/875451/",
-          "postedAt": "2026-11-23T16:33:00.000Z"
-        },
-        {
-          "id": "om_6e1aa37a82",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Intuit offloads Mailchimp to Bending Spoons to deepen bets on AI",
-          "url": "https://www.marketingdive.com/news/intuit-offloads-mailchimp-to-bending-spoons-to-deepen-bets-on-ai/875423/",
-          "postedAt": "2026-11-23T16:08:52.000Z"
-        },
-        {
-          "id": "om_69343500b5",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Carl’s Jr. taps David&Goliath as marketing focus turns to boldness",
-          "url": "https://www.marketingdive.com/news/carls-jr-taps-davidgoliath-as-marketing-focus-turns-to-boldness/875471/",
-          "postedAt": "2026-11-23T15:56:00.000Z"
-        },
-        {
-          "id": "om_ae6e82110d",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Backcountry acquires winter sports retailer Christy Sports",
-          "url": "https://www.retaildive.com/news/backcountry-acquires-christy-sports-ski-retailer/875323/",
-          "postedAt": "2026-11-23T15:44:00.000Z"
-        },
-        {
-          "id": "om_16e054aea0",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "David’s Bridal tests dress rental",
-          "url": "https://www.retaildive.com/news/davids-bridal-tests-dress-rental-something-borrowed/875262/",
-          "postedAt": "2026-11-23T15:37:00.000Z"
-        },
-        {
-          "id": "om_423071d6f7",
-          "source": "TechCrunch",
-          "lang": "en",
-          "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
-          "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
-          "postedAt": "2026-11-23T15:29:49.000Z"
-        },
-        {
-          "id": "om_f2e62e1231",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Art of Using AI as ‘Power Steering,’ Not Autopilot ft. Kathy Collins",
-          "url": "https://www.adweek.com/brand-marketing/the-art-of-using-ai-as-power-steering-not-autopilot-ft-kathy-collins/",
-          "postedAt": "2026-11-23T15:22:02.000Z"
-        },
-        {
-          "id": "om_92606ea585",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Pet Brands Find New Ways to Invite the Family Dog to Thanksgiving Dinner",
-          "url": "https://www.adweek.com/brand-marketing/pet-brands-find-new-ways-to-invite-the-family-dog-to-thanksgiving-dinner/",
-          "postedAt": "2026-11-23T15:17:00.000Z"
-        },
-        {
-          "id": "om_8edce983f0",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How Joya Studio brought the scents of A24's ‘Backrooms’ into consumers’ own rooms",
-          "url": "https://www.marketingbrew.com/stories/a24-backrooms-joya-studio-scent-score?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-23T15:13:59.000Z"
-        },
-        {
-          "id": "om_39eccb6405",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "How Home Depot built the missing logistics piece for its Pro business",
-          "url": "https://www.retaildive.com/news/home-depot-logistics-pro-business/875396/",
-          "postedAt": "2026-11-23T15:03:00.000Z"
-        },
-        {
-          "id": "om_72d5817862",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Dr. Alex Cooper Prescribes Less Screen Time in Google Pixel’s Holiday Ad",
-          "url": "https://www.adweek.com/brand-marketing/dr-alex-cooper-prescribes-less-screen-time-in-google-pixels-holiday-ad/",
-          "postedAt": "2026-11-23T12:00:00.000Z"
-        },
-        {
-          "id": "om_b05c3556ee",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Philadelphia whips up bigger holiday marketing spend amid brand revamp",
-          "url": "https://www.marketingdive.com/news/philadelphia-whips-up-bigger-holiday-marketing-spend-amid-brand-revamp/875325/",
-          "postedAt": "2026-11-23T11:05:00.000Z"
-        },
-        {
-          "id": "om_632d974398",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Early Black Friday iPad Deals Already Worth Shopping (2026)",
-          "url": "https://www.wired.com/story/best-black-friday-ipad-deals-2026/",
-          "postedAt": "2026-11-23T11:00:00.000Z"
-        },
-        {
-          "id": "om_0ed5191c99",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "How Jell-O’s new creative platform looks to shift consumer perceptions",
-          "url": "https://www.marketingdive.com/news/how-jell-o-new-creative-platform-looks-to-shift-consumer-perceptions/875220/",
-          "postedAt": "2026-11-23T11:00:00.000Z"
-        },
-        {
-          "id": "om_c2f182fa35",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Why retailers prefer real human expertise over automated payment support",
-          "url": "https://www.retaildive.com/spons/why-retailers-prefer-real-human-expertise-over-automated-payment-support/875272/",
-          "postedAt": "2026-11-23T10:00:00.000Z"
-        },
-        {
-          "id": "om_3dbdcdaf11",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Retail’s fastest AI return right now sits behind the storefront",
-          "url": "https://www.retaildive.com/spons/retails-fastest-ai-return-right-now-sits-behind-the-storefront/875359/",
-          "postedAt": "2026-11-23T10:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-24T09:52:04.135Z",
+      "lastUpdated": "2026-11-24T22:24:08.748Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
