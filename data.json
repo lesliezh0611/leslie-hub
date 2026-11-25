@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-24T22:24:05.996Z",
+      "lastUpdated": "2026-11-25T08:29:39.660Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-24T22:24:07.280Z",
+      "lastUpdated": "2026-11-25T08:29:40.611Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -525,7 +525,15 @@
           "lang": "en",
           "title": "TikTok was down",
           "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
-          "postedAt": "2026-11-24T21:06:21.000Z"
+          "postedAt": "2026-11-24T23:47:36.000Z"
+        },
+        {
+          "id": "om_5f881ec66b",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Emplifi shares notes on social media marketing trends",
+          "url": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
+          "postedAt": "2026-11-24T22:15:49.000Z"
         },
         {
           "id": "om_52bd38b9ec",
@@ -544,12 +552,28 @@
           "postedAt": "2026-11-24T19:00:00.000Z"
         },
         {
+          "id": "om_5dc4de37b3",
+          "source": "Social Media Today",
+          "lang": "en",
+          "title": "Meta says festive shoppers use social media for gift discovery",
+          "url": "https://www.socialmediatoday.com/news/meta-says-festive-shoppers-use-social-media-for-gift-discovery/875523/",
+          "postedAt": "2026-11-24T18:59:00.000Z"
+        },
+        {
           "id": "om_ce87464468",
           "source": "Marketing Brew",
           "lang": "en",
           "title": "Oribe has released handmade holiday campaigns for nearly a decade. This year, more people are watching",
           "url": "https://www.marketingbrew.com/stories/oribe-handmade-holiday-campaigns-mosaic-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-11-24T18:42:58.000Z"
+        },
+        {
+          "id": "om_63c9a81457",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "U.S. Soccer Extends Its Long-Running Partnership with AT&T",
+          "url": "https://www.adweek.com/brand-marketing/us-soccer-extends-its-long-running-partnership-with-att/",
+          "postedAt": "2026-11-24T18:42:51.000Z"
         },
         {
           "id": "om_132c62cdc3",
@@ -654,34 +678,10 @@
           "title": "The Analog Advantage: Luxury Retail in the Age of AI at Bucherer",
           "url": "https://www.adweek.com/brand-marketing/the-analog-advantage-luxury-retail-in-the-age-of-ai-at-bucherer/",
           "postedAt": "2026-11-24T09:39:32.000Z"
-        },
-        {
-          "id": "om_c04e601297",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Inside AWS’s Bid to Be a Brand for Everyone, Including AI Agents",
-          "url": "https://www.adweek.com/brand-marketing/inside-awss-bid-to-be-a-brand-for-everyone-including-ai-agents/",
-          "postedAt": "2026-11-24T09:00:00.000Z"
-        },
-        {
-          "id": "om_e792f0c3a7",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "TikTok highlights 2026 holiday trends",
-          "url": "https://www.socialmediatoday.com/news/tiktok-highlights-2026-holiday-trends/875560/",
-          "postedAt": "2026-11-23T21:24:48.000Z"
-        },
-        {
-          "id": "om_e55f4fef51",
-          "source": "Social Media Today",
-          "lang": "en",
-          "title": "Pinterest announces partnership with Microsoft Ads",
-          "url": "https://www.socialmediatoday.com/news/pinterest-announces-partnership-with-microsoft-ads/875553/",
-          "postedAt": "2026-11-23T21:10:29.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-24T22:24:08.748Z",
+      "lastUpdated": "2026-11-25T08:29:41.800Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
