@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-25T08:29:39.660Z",
+      "lastUpdated": "2026-11-25T21:39:27.570Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_lenny_s_podcast_f7effe0849",
+          "source": "Lenny's Podcast",
+          "platform": "newsletter",
+          "topic": "Gemini 4 Neon beat GPT-6.2 and Claude in my 25-task AI benchmark",
+          "url": "https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude",
+          "postedAt": "2026-11-25T13:04:21.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_0fa181a123",
           "source": "Lenny's Podcast",
@@ -355,14 +363,6 @@
           "postedAt": "2026-11-14T21:15:46.000Z"
         },
         {
-          "id": "en_pod_lenny_s_podcast_0f3a523ea2",
-          "source": "Lenny's Podcast",
-          "platform": "newsletter",
-          "topic": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
-          "url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
-          "postedAt": "2026-11-11T13:04:09.000Z"
-        },
-        {
           "id": "en_pod_lex_fridman_podcast_54e95485ee",
           "source": "Lex Fridman Podcast",
           "platform": "podcast",
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-25T08:29:40.611Z",
+      "lastUpdated": "2026-11-25T21:39:28.920Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,168 +520,168 @@
       },
       "articles": [
         {
-          "id": "om_79070e62a4",
+          "id": "om_ba7672fbda",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "For some brands, humor plus niche targeting is a winning formula",
+          "url": "https://www.marketingbrew.com/stories/humor-niche-targeting-marketing-columbia-goodwipes?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-25T20:10:00.000Z"
+        },
+        {
+          "id": "om_11b99dd6ea",
           "source": "The Verge",
           "lang": "en",
-          "title": "TikTok was down",
-          "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
-          "postedAt": "2026-11-24T23:47:36.000Z"
+          "title": "1Password breach leaked customer names and emails, but not passwords",
+          "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+          "postedAt": "2026-11-25T19:10:15.000Z"
         },
         {
-          "id": "om_5f881ec66b",
-          "source": "Social Media Today",
+          "id": "om_8f62a618cd",
+          "source": "TechCrunch",
           "lang": "en",
-          "title": "Emplifi shares notes on social media marketing trends",
-          "url": "https://www.socialmediatoday.com/news/emplifi-shares-notes-on-social-media-marketing-trends/875699/",
-          "postedAt": "2026-11-24T22:15:49.000Z"
+          "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+          "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+          "postedAt": "2026-11-25T18:49:52.000Z"
         },
         {
-          "id": "om_52bd38b9ec",
+          "id": "om_3f099d94e5",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "X’s latest update for creators focuses on vertical video",
+          "url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
+          "postedAt": "2026-11-25T17:28:29.000Z"
+        },
+        {
+          "id": "om_2791321067",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Shein to pay $100M in FTC settlement over deceptive practices claims",
+          "url": "https://www.retaildive.com/news/shein-to-pay-100m-in-ftc-settlement-over-deceptive-practices-claims/875748/",
+          "postedAt": "2026-11-25T16:25:00.000Z"
+        },
+        {
+          "id": "om_cb6391d209",
           "source": "Marketing Brew",
           "lang": "en",
-          "title": "Consumer trust around Black Friday deals is down. Some marketers are trying a different approach",
-          "url": "https://www.marketingbrew.com/stories/black-friday-deals-consumer-trust-brand-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-24T20:04:46.000Z"
+          "title": "Tech ad spend continues to grow, but AI industry worries could usher in a slowdown: report",
+          "url": "https://www.marketingbrew.com/stories/tech-ad-spend-growth-ai-industry-slowdown?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-25T16:00:00.000Z"
         },
         {
-          "id": "om_ef2b612c68",
+          "id": "om_991328fe9d",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Holiday marketing hits inflection point in 2026: What brands need to know",
+          "url": "https://www.retaildive.com/news/holiday-marketing-hits-inflection-point-in-2026-what-brands-need-to-know/875056/",
+          "postedAt": "2026-11-25T15:57:00.000Z"
+        },
+        {
+          "id": "om_bc9234ca75",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Geico unites brand icons in holiday ad mixing human craft, nostalgia",
+          "url": "https://www.marketingdive.com/news/geico-unites-brand-icons-in-holiday-ad-mixing-human-craft-nostalgia/875728/",
+          "postedAt": "2026-11-25T15:46:00.000Z"
+        },
+        {
+          "id": "om_f5ef2a3586",
+          "source": "TechCrunch",
+          "lang": "en",
+          "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
+          "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+          "postedAt": "2026-11-25T14:20:28.000Z"
+        },
+        {
+          "id": "om_324d99a687",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "Nike ‘absolutely making the right decision with Jordan’: Dick’s Sporting Goods",
+          "url": "https://www.retaildive.com/news/nike-jordan-dicks-sporting-goods-foot-locker-q3/875628/",
+          "postedAt": "2026-11-25T14:18:00.000Z"
+        },
+        {
+          "id": "om_e1845ee0b5",
+          "source": "The Verge",
+          "lang": "en",
+          "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+          "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+          "postedAt": "2026-11-25T14:12:33.000Z"
+        },
+        {
+          "id": "om_00c7c62845",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Brandweek 2026: Consumer-First Still Beats AI-First ft. Laura Knebusch",
+          "url": "https://www.adweek.com/brand-marketing/brandweek-2026-consumer-first-still-beats-ai-first-ft-laura-knebusch/",
+          "postedAt": "2026-11-25T14:02:23.000Z"
+        },
+        {
+          "id": "om_981cf2597f",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "Kraft Heinz isn’t afraid to get cheesy with its NFL sponsorship",
+          "url": "https://www.marketingbrew.com/stories/nfl-sponsorship-kraft-heinz-velveeta-cheese-pylons?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-25T13:24:49.000Z"
+        },
+        {
+          "id": "om_0ce9d82fb3",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "Brands turn to handmade craft, handfuls of creators for holiday season",
+          "url": "https://www.marketingdive.com/news/brands-turn-to-handmade-craft-handfuls-of-creators-for-holiday-season/875335/",
+          "postedAt": "2026-11-25T13:00:00.000Z"
+        },
+        {
+          "id": "om_59a311dd26",
+          "source": "Marketing Dive",
+          "lang": "en",
+          "title": "How Hershey strategized its brand film to be more than a 90-minute ad",
+          "url": "https://www.marketingdive.com/news/how-hershey-strategized-its-brand-film-to-be-more-than-a-90-minute-ad/875365/",
+          "postedAt": "2026-11-25T13:00:00.000Z"
+        },
+        {
+          "id": "om_347aabb79f",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Target’s New AI Assistant Is Just For Browsing, For Now",
+          "url": "https://www.adweek.com/commerce/targets-new-ai-assistant-is-just-for-browsing-for-now/",
+          "postedAt": "2026-11-25T12:50:33.000Z"
+        },
+        {
+          "id": "om_3c032f6030",
           "source": "Wired",
           "lang": "en",
-          "title": "iRestore Elite Laser Hair Growth System Review: Husband-Approved",
-          "url": "https://www.wired.com/review/irestore-elite-laser-hair-growth-system/",
-          "postedAt": "2026-11-24T19:00:00.000Z"
+          "title": "The ‘True Crime Community’ Is Inspiring Violent Attacks Through TikTok",
+          "url": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/",
+          "postedAt": "2026-11-25T11:00:00.000Z"
         },
         {
-          "id": "om_5dc4de37b3",
-          "source": "Social Media Today",
+          "id": "om_6dbfec0100",
+          "source": "Wired",
           "lang": "en",
-          "title": "Meta says festive shoppers use social media for gift discovery",
-          "url": "https://www.socialmediatoday.com/news/meta-says-festive-shoppers-use-social-media-for-gift-discovery/875523/",
-          "postedAt": "2026-11-24T18:59:00.000Z"
+          "title": "Shop Small: Our Favorite Gifts From Independent Businesses (2026)",
+          "url": "https://www.wired.com/story/shop-small-gift-guide-2026/",
+          "postedAt": "2026-11-25T10:32:00.000Z"
         },
         {
-          "id": "om_ce87464468",
+          "id": "om_fe8993d136",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Best Red-Light Therapy for Hair Growth and Restoration (2026)",
+          "url": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
+          "postedAt": "2026-11-25T10:01:00.000Z"
+        },
+        {
+          "id": "om_736e9da8ee",
           "source": "Marketing Brew",
           "lang": "en",
-          "title": "Oribe has released handmade holiday campaigns for nearly a decade. This year, more people are watching",
-          "url": "https://www.marketingbrew.com/stories/oribe-handmade-holiday-campaigns-mosaic-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-24T18:42:58.000Z"
-        },
-        {
-          "id": "om_63c9a81457",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "U.S. Soccer Extends Its Long-Running Partnership with AT&T",
-          "url": "https://www.adweek.com/brand-marketing/us-soccer-extends-its-long-running-partnership-with-att/",
-          "postedAt": "2026-11-24T18:42:51.000Z"
-        },
-        {
-          "id": "om_132c62cdc3",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Dollar Tree predicts holiday shoppers will ‘buy closer to need’",
-          "url": "https://www.retaildive.com/news/dollar-tree-q3-holiday-shoppers-buy-closer-to-need/875619/",
-          "postedAt": "2026-11-24T16:26:00.000Z"
-        },
-        {
-          "id": "om_5409bc982e",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "Retailers brace for Black Friday after widespread tech outages",
-          "url": "https://www.retaildive.com/news/black-friday-retailers-tech-outages-ai/875541/",
-          "postedAt": "2026-11-24T15:23:00.000Z"
-        },
-        {
-          "id": "om_da87147fa8",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "JOVS Recruits an Advisory Board to Back Its Beauty Tech",
-          "url": "https://www.adweek.com/brand-marketing/jovs-recruits-an-advisory-board-to-back-its-beauty-tech/",
-          "postedAt": "2026-11-24T15:17:04.000Z"
-        },
-        {
-          "id": "om_c623e2f58c",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Inflation, AI, and Tech Outages Will Reshape Holiday Shopping",
-          "url": "https://www.adweek.com/commerce/inflation-ai-and-tech-outages-will-reshape-holiday-shopping/",
-          "postedAt": "2026-11-24T15:05:36.000Z"
-        },
-        {
-          "id": "om_5489d6ce5e",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The RX Assistant Wants to Help Pharmaceutical Brands Use AI to Reach Patients",
-          "url": "https://www.adweek.com/brand-marketing/the-rx-assistant-wants-to-help-pharmaceutical-brands-use-ai-to-reach-patients/",
-          "postedAt": "2026-11-24T14:41:23.000Z"
-        },
-        {
-          "id": "om_8c4e362d7a",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Super Bowl 61: Tracking every ad",
-          "url": "https://www.marketingdive.com/news/super-bowl-61-tracking-every-ad/873626/",
-          "postedAt": "2026-11-24T14:06:00.000Z"
-        },
-        {
-          "id": "om_ad3669d67e",
-          "source": "Marketing Dive",
-          "lang": "en",
-          "title": "Chewy jumps on stop-motion animation trend lighting up holiday ads",
-          "url": "https://www.marketingdive.com/news/chewy-jumps-on-stop-motion-animation-trend-lighting-up-holiday-ads/875412/",
-          "postedAt": "2026-11-24T14:00:00.000Z"
-        },
-        {
-          "id": "om_ce7bd5d388",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Advertising Is a Top Priority for Best Buy’s New CEO",
-          "url": "https://www.adweek.com/commerce/advertising-is-a-top-priority-for-best-buys-new-ceo/",
-          "postedAt": "2026-11-24T12:10:45.000Z"
-        },
-        {
-          "id": "om_9a4cd26b21",
-          "source": "Retail Dive",
-          "lang": "en",
-          "title": "The wonder and ritual of Macy’s Thanksgiving Day Parade",
-          "url": "https://www.retaildive.com/news/macys-hundredth-thanksgiving-day-parade-history/875134/",
-          "postedAt": "2026-11-24T12:00:00.000Z"
-        },
-        {
-          "id": "om_f82dddf133",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Whiskey Brand Evan Williams Makes Its First Move Into College Football",
-          "url": "https://www.adweek.com/brand-marketing/whiskey-brand-evan-williams-makes-its-first-drive-into-college-football/",
-          "postedAt": "2026-11-24T11:15:29.000Z"
-        },
-        {
-          "id": "om_8300f817a0",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "Inside Hershey’s push for movie magic",
-          "url": "https://www.marketingbrew.com/stories/hershey-movie-brand-involvement-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-24T10:00:00.000Z"
-        },
-        {
-          "id": "om_fcdb1baeed",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "Mission Over Metrics: Rethinking the Shopper Journey with Liz Roche",
-          "url": "https://www.adweek.com/brand-marketing/mission-over-metrics-rethinking-the-shopper-journey-with-liz-roche/",
-          "postedAt": "2026-11-24T09:41:51.000Z"
-        },
-        {
-          "id": "om_39c6a32b06",
-          "source": "Adweek",
-          "lang": "en",
-          "title": "The Analog Advantage: Luxury Retail in the Age of AI at Bucherer",
-          "url": "https://www.adweek.com/brand-marketing/the-analog-advantage-luxury-retail-in-the-age-of-ai-at-bucherer/",
-          "postedAt": "2026-11-24T09:39:32.000Z"
+          "title": "How Hundy landed on the ‘Hexed’ red carpet",
+          "url": "https://www.marketingbrew.com/stories/hundy-disney-hexed-red-carpet-brand-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-25T10:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-25T08:29:41.800Z",
+      "lastUpdated": "2026-11-25T21:39:30.003Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
