@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-26T08:13:43.914Z",
+      "lastUpdated": "2026-11-26T21:28:58.012Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -266,6 +266,14 @@
         }
       ],
       "podcasts": [
+        {
+          "id": "en_pod_the_knowledge_project_313fd7d788",
+          "source": "The Knowledge Project",
+          "platform": "podcast",
+          "topic": "[Outliers] How to Persuade Like David Ogilvy",
+          "url": "https://fs.blog/knowledge-project-podcast/outliers-david-ogilvy/",
+          "postedAt": "2026-11-26T10:55:00.000Z"
+        },
         {
           "id": "en_pod_lenny_s_podcast_f7effe0849",
           "source": "Lenny's Podcast",
@@ -369,14 +377,6 @@
           "topic": "#504 – Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare",
           "url": "https://lexfridman.com/ukraine-war-preston-stewart-michael-kofman/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-war-preston-stewart-michael-kofman",
           "postedAt": "2026-11-10T23:52:44.000Z"
-        },
-        {
-          "id": "en_pod_the_knowledge_project_6ac0cf6d5c",
-          "source": "The Knowledge Project",
-          "platform": "podcast",
-          "topic": "Jon McNeill: How Elon Musk Makes Decisions",
-          "url": "https://fs.blog/knowledge-project-podcast/jon-mcneill/",
-          "postedAt": "2026-11-05T10:55:00.000Z"
         }
       ],
       "books": [
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-26T08:13:44.508Z",
+      "lastUpdated": "2026-11-26T21:28:59.849Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -534,14 +534,6 @@
           "title": "For some brands, humor plus niche targeting is a winning formula",
           "url": "https://www.marketingbrew.com/stories/humor-niche-targeting-marketing-columbia-goodwipes?utm_source=&utm_medium=syndication&utm_campaign=feed",
           "postedAt": "2026-11-25T20:10:00.000Z"
-        },
-        {
-          "id": "om_11b99dd6ea",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "1Password breach leaked customer names and emails, but not passwords",
-          "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
-          "postedAt": "2026-11-25T19:10:15.000Z"
         },
         {
           "id": "om_dc8e487040",
@@ -678,10 +670,18 @@
           "title": "Best Red-Light Therapy for Hair Growth and Restoration (2026)",
           "url": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
           "postedAt": "2026-11-25T10:01:00.000Z"
+        },
+        {
+          "id": "om_736e9da8ee",
+          "source": "Marketing Brew",
+          "lang": "en",
+          "title": "How Hundy landed on the ‘Hexed’ red carpet",
+          "url": "https://www.marketingbrew.com/stories/hundy-disney-hexed-red-carpet-brand-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
+          "postedAt": "2026-11-25T10:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-26T08:13:45.422Z",
+      "lastUpdated": "2026-11-26T21:29:00.965Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
