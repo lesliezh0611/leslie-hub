@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-25T21:39:27.570Z",
+      "lastUpdated": "2026-11-26T08:13:43.914Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-25T21:39:28.920Z",
+      "lastUpdated": "2026-11-26T08:13:44.508Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -520,6 +520,14 @@
       },
       "articles": [
         {
+          "id": "om_21f0830057",
+          "source": "Retail Dive",
+          "lang": "en",
+          "title": "‘Heartbroken’: Macy’s 100th Thanksgiving Day parade postponed",
+          "url": "https://www.retaildive.com/news/macys-100th-thanksgiving-day-parade-postponed/875808/",
+          "postedAt": "2026-11-25T23:40:00.000Z"
+        },
+        {
           "id": "om_ba7672fbda",
           "source": "Marketing Brew",
           "lang": "en",
@@ -534,6 +542,14 @@
           "title": "1Password breach leaked customer names and emails, but not passwords",
           "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
           "postedAt": "2026-11-25T19:10:15.000Z"
+        },
+        {
+          "id": "om_dc8e487040",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Want to Sell an Agency? Launch a Creator Marketing Firm",
+          "url": "https://www.adweek.com/agencies/creator-influencer-agency-mergers-acquisitions-2026/",
+          "postedAt": "2026-11-25T19:00:00.000Z"
         },
         {
           "id": "om_8f62a618cd",
@@ -600,14 +616,6 @@
           "postedAt": "2026-11-25T14:18:00.000Z"
         },
         {
-          "id": "om_e1845ee0b5",
-          "source": "The Verge",
-          "lang": "en",
-          "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-          "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-          "postedAt": "2026-11-25T14:12:33.000Z"
-        },
-        {
           "id": "om_00c7c62845",
           "source": "Adweek",
           "lang": "en",
@@ -670,18 +678,10 @@
           "title": "Best Red-Light Therapy for Hair Growth and Restoration (2026)",
           "url": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
           "postedAt": "2026-11-25T10:01:00.000Z"
-        },
-        {
-          "id": "om_736e9da8ee",
-          "source": "Marketing Brew",
-          "lang": "en",
-          "title": "How Hundy landed on the ‘Hexed’ red carpet",
-          "url": "https://www.marketingbrew.com/stories/hundy-disney-hexed-red-carpet-brand-strategy?utm_source=&utm_medium=syndication&utm_campaign=feed",
-          "postedAt": "2026-11-25T10:00:00.000Z"
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-25T21:39:30.003Z",
+      "lastUpdated": "2026-11-26T08:13:45.422Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
