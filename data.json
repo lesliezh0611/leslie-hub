@@ -227,7 +227,7 @@
       ],
       "articles": [],
       "saved": [],
-      "lastUpdated": "2026-11-27T08:26:45.680Z",
+      "lastUpdated": "2026-11-27T21:14:22.317Z",
       "targetItems": 20,
       "freshnessDays": 30,
       "freshCountLabel": "0 fresh updates from the last 30 days"
@@ -427,7 +427,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-27T08:26:46.720Z",
+      "lastUpdated": "2026-11-27T21:14:23.450Z",
       "targetItems": 20,
       "freshnessDays": 21,
       "freshCountLabel": "14 fresh updates from the last 21 days"
@@ -519,6 +519,30 @@
         ]
       },
       "articles": [
+        {
+          "id": "om_0626e881b0",
+          "source": "Wired",
+          "lang": "en",
+          "title": "Walking Pad Deals to Shop This Black Friday (2026)",
+          "url": "https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-27-26/",
+          "postedAt": "2026-11-27T15:43:33.000Z"
+        },
+        {
+          "id": "om_b059694cd1",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "Show Your Work: Platforms Must Make Safety Decisions That Brands Can Verify",
+          "url": "https://www.adweek.com/social-marketing/show-your-work-platforms-must-make-safety-decisions-that-brands-can-verify/",
+          "postedAt": "2026-11-27T06:00:00.000Z"
+        },
+        {
+          "id": "om_ee665e6e2d",
+          "source": "Adweek",
+          "lang": "en",
+          "title": "5 Black Friday Truths About Gen Z Shoppers and the Mall",
+          "url": "https://www.adweek.com/brand-marketing/5-black-friday-truths-about-gen-z-shoppers-and-the-mall/",
+          "postedAt": "2026-11-27T06:00:00.000Z"
+        },
         {
           "id": "om_21f0830057",
           "source": "Retail Dive",
@@ -648,30 +672,6 @@
           "postedAt": "2026-11-25T12:50:33.000Z"
         },
         {
-          "id": "om_3c032f6030",
-          "source": "Wired",
-          "lang": "en",
-          "title": "The ‘True Crime Community’ Is Inspiring Violent Attacks Through TikTok",
-          "url": "https://www.wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok/",
-          "postedAt": "2026-11-25T11:00:00.000Z"
-        },
-        {
-          "id": "om_6dbfec0100",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Shop Small: Our Favorite Gifts From Independent Businesses (2026)",
-          "url": "https://www.wired.com/story/shop-small-gift-guide-2026/",
-          "postedAt": "2026-11-25T10:32:00.000Z"
-        },
-        {
-          "id": "om_fe8993d136",
-          "source": "Wired",
-          "lang": "en",
-          "title": "Best Red-Light Therapy for Hair Growth and Restoration (2026)",
-          "url": "https://www.wired.com/story/best-red-light-therapy-for-hair-growth/",
-          "postedAt": "2026-11-25T10:01:00.000Z"
-        },
-        {
           "id": "om_736e9da8ee",
           "source": "Marketing Brew",
           "lang": "en",
@@ -681,7 +681,7 @@
         }
       ],
       "saved": [],
-      "lastUpdated": "2026-11-27T08:26:48.077Z",
+      "lastUpdated": "2026-11-27T21:14:24.728Z",
       "targetItems": 20,
       "freshnessDays": 14,
       "freshCountLabel": "20 fresh updates from the last 14 days"
